@@ -1,0 +1,432 @@
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kborderpickctrl.h:73: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kcolorctrl.cpp:47: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kcolorctrl.cpp:59: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kcolorctrl.cpp:418: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kcolorctrl.cpp:439: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kiconpushbutton.cpp:15: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kiconpushbutton.cpp:20: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kiconpushbutton.cpp:26: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/ksunitctrl.cpp:140: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/ksunitctrl.cpp:221: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kunderlinectrl.cpp:61: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kunderlinectrl.cpp:147: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kunitconvert.cpp:27: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kunitconvert.cpp:71: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kunitconvert.cpp:385: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kunitconvert.cpp:412: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/dlgwidget/kxpwdlineedit.cpp:309: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/gallery/kgallerycombobox.cpp:412: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/gallery/kgallerycombobox.cpp:431: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/gallery/kgallerygroupcombobox.cpp:13: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/gallery/kgallerygroupcombobox.cpp:316: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/gallery/kgallerygroupcombobox.cpp:324: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/gallery/kgallerygroupcombobox.cpp:449: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/gallery/kgallerygroupcombobox.cpp:478: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kappattributeparser.cpp:184: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kapptheme.cpp:428: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kapptheme.cpp:438: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kapptheme.cpp:639: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kcommand.cpp:517: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kdcpainteradapter.cpp:11: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kdom.cpp:117: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kdom.cpp:129: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kdom.cpp:141: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kdrawhelpfunc.cpp:550: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kdrawhelpfunc.cpp:736: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kdrawhelpfunc.cpp:894: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/khotkeyassistant.cpp:379: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kmdiarea.cpp:285: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kmdiarea.cpp:422: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kmdiarea.cpp:450: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kmdiarea.cpp:478: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kmdiarea.cpp:752: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kmessagebox.cpp:21: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/kmessagebox.cpp:27: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/krblayoutwidget.cpp:20: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/krbquicktoolbar.cpp:810: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/krbquicktoolbar.cpp:832: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/krbsubtabbar.cpp:147: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/krbtabbar.cpp:235: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/krbtabwidget.cpp:147: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/ksplashscreen.cpp:231: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/ksplashscreen.cpp:300: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/ksplashscreen.cpp:313: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/pubwidget/ktastpanebutton.cpp:19: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/pubwidget/ktastpanebutton.cpp:103: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/pubwidget/kzoomslider.cpp:167: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/pubwidget/kzoomslider.cpp:189: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:242: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:247: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:264: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:617: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:828: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:895: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:937: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:1005: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:1010: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle.cpp:1015: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:294: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:417: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:966: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:3249: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:3430: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:3486: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:3539: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:3546: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2012.cpp:3554: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:370: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:525: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:1286: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:3141: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:3367: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:3428: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:3529: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:3616: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:3628: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_2013.cpp:3639: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_etsheettabbartab.cpp:43: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_etsheettabbartab.cpp:51: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_etsheettabbartab.cpp:134: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_etsheettabbartab.cpp:150: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_etsheettabbartab.cpp:267: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_etsheettabbartab.cpp:297: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_etsheettabbartab.cpp:377: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_krbtabfilebutton.cpp:388: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_krbtabfilebutton.cpp:485: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kcomctl/src/style/kwpsstyle_tabbarnewbutton.cpp:297: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/kxchinesetranslationdlg.h:17: circular inclusion of /home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/chinesetranslation/kxwppconverteradpter.h
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/commondialog/kfiledialog_win.cpp:512: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/commondialog/kfiledialog_win.cpp:797: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/commondialog/kfiledialog_win.cpp:1868: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/commondialog/kfiledialog_win.cpp:1973: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/commondialog/kfiledialogcustom.cpp:325: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/commondialog/kfiledialogcustom.cpp:356: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/commondialog/kfiledialogcustom.cpp:819: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/customtoolbar/kcustomlistmodel.cpp:55: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/formatshape/kxformatshapegallery.cpp:142: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/formatshape/kxformatshapegallery.cpp:168: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/formatshape/kxpicturewidget.cpp:24: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/formatshape/kxpicturewidget.cpp:288: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/formatshape/kxpicturewidget.cpp:315: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/formatshape/kxsizewidget.cpp:20: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/formatshape/kxsizewidget.cpp:586: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/formatshape/kxtextboxwidget.cpp:20: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/hyperlinkdlg/khyperlinkwidget.cpp:288: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/hyperlinkdlg/khyperlinkwidget.cpp:330: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/hyperlinkdlg/khyperlinkwidget.cpp:386: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/kxcolorbtn.cpp:16: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/kxencryptiontypedlg.cpp:17: tr() cannot be called without context
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/kxencryptiontypedlg.cpp:19: tr() cannot be called without context
+/home/jcz/src/mui/Coding/shell2/kxshare/src/dialog/kxformatshapedlg.cpp:148: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/googledocs/kxtpgoogledocs.cpp:261: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/googledocs/kxtpgoogledocs.cpp:270: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kapihelper.cpp:224: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kscustominfocol/kscustominfocol.cpp:57: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kscustominfocol/kscustominfocol.cpp:120: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxapplication.cpp:1571: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxautosavemanager.cpp:25: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxautosavemanager_unix.cpp:62: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxcorenotify.cpp:859: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxdialogcustomui.cpp:21: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxfontgallery.cpp:179: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxgenerallydlg.cpp:9: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxime.cpp:152: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxlicensedlg.cpp:14: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:14: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:19: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:26: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:31: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:61: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:66: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:71: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:76: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:81: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:86: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:91: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:96: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:105: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:111: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmessagebox.cpp:117: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmodules.cpp:194: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmodules.cpp:204: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmodules.cpp:224: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmodules.cpp:249: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmodules.cpp:379: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmodules.cpp:384: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmodules.cpp:393: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxmodules.cpp:402: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxrostring.cpp:42: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxsmartlabel.cpp:83: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxsplashscreen.cpp:14: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxstarttrialdlg.cpp:58: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxstartup.cpp:790: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxswitchskinwidget.cpp:780: Class 'KxSwitchSkinModel' lacks Q_OBJECT macro
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxtpautoshape.cpp:637: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxtpbackup.cpp:682: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxtpbasepanel.cpp:201: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxtpbasepanel.cpp:726: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/kxtpselectshape.cpp:673: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kxshare/src/log.cpp:247: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kole/src/kaxserver.cpp:42: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kole/src/kaxserver.cpp:1126: Class 'KAxServer' lacks Q_OBJECT macro
+/home/jcz/src/mui/Coding/shell2/kole/src/kaxserver.cpp:1324: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kole/src/kaxserverview.cpp:1850: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/kole/src/kdragwindow.cpp:14: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/font/kunderlinecombo.cpp:65: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/font/kunderlinecombo.cpp:160: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:22: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:292: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:297: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:302: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:307: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:312: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:318: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:324: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:329: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:334: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:339: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/formatshape/kxlayoutwidget.cpp:383: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxcelloptiondlg.cpp:22: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxconverttexttotabledlg.cpp:10: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxconverttexttotabledlg.cpp:540: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxcrossreferencedlg.cpp:20: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxdrawinggriddlg.cpp:29: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxdrawinggriddlg.cpp:53: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxexporttopdfdlg.cpp:16: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxexporttopdfprogressdlg.cpp:20: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxfootandendnotedlg.cpp:49: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxfootandendnotedlg.cpp:2293: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxinsertcellsdlg.cpp:18: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxinsertcellsdlg.cpp:142: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxinsertnumberdlg.cpp:18: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxinserttablerowsdlg.cpp:14: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxinserttablerowsdlg.cpp:80: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxmailmergetabledlg.cpp:197: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxmergetodiffnewdocdlg.cpp:17: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxmergetoemaildlg.cpp:19: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxmergetonewdocorprinterdlg.cpp:13: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxoptionsdlg.cpp:3787: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxprintdlg.cpp:695: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxprotectdocumentdlg.cpp:14: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxsectionprotectdlg.cpp:12: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxspiltcellsdlg.cpp:10: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxtableoptionsdlg.cpp:15: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxtablepositioningdlg.cpp:36: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxtwolinesinone.cpp:14: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxunprotectdocumentdlg.cpp:12: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/kxzoomdlg.cpp:15: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/util/kxwpsutils.cpp:61: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/util/kxwpsutils.cpp:246: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/util/kxwpsutils.cpp:488: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/dialog/util/kxwpsutils.cpp:618: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/kxtpstyleformat.cpp:651: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/kxtpstyleformat.cpp:978: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/kxwpsrulerview.cpp:30: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/kxwpsrulerview.cpp:87: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/kxwpsrulerview.cpp:104: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wps/src/smart_pagenum/kxwpssmartpagenum.cpp:286: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/dialogstest/test_saveink.cpp:49: Qualifying with unknown namespace/class ::KxApplication
+/home/jcz/src/mui/Coding/shell2/wpp/src/customanimation/kxwppcustomanimationtp.cpp:2643: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/formatshape/kxpositionwidget.cpp:21: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/formattable/kxformattabledlggallery.cpp:162: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/formattable/kxlineweightcombobox.cpp:93: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxhyperlinkwpppage.h:17: circular inclusion of /home/jcz/src/mui/Coding/shell2/wpp/src/dialog/hyperlink/kxhyperlinkwrapperwpp.h
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxbkgndmusictipdlg.cpp:27: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxdeletebkgndmusicdlg.cpp:16: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxformattabledlg.cpp:107: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxformattabledlg.cpp:1197: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxhyperlinkwpppage.cpp:389: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxlecturerremarkdlg.cpp:19: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxlecturerremarkdlg.cpp:34: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxmasterviewlayoutdlg.cpp:7: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxoptionsdlg.cpp:559: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxviewzoomdlg.cpp:15: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxviewzoomdlg.cpp:435: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/dialog/kxwppprintdlg.cpp:1073: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kaxwppserver.cpp:12: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpanimationscheme.cpp:601: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpcolorscheme.cpp:454: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpmenuonbottomhelper.cpp:21: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpslidedesign.cpp:491: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpslidedesign.cpp:594: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpslidedesign.cpp:604: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpslidedesign.cpp:614: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpslidedesign.cpp:624: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpslidedesign.cpp:634: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpslidedesign.cpp:644: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxtpslidetransition.cpp:727: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppcomment.cpp:938: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppcorenotify.cpp:15: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppcorenotify.cpp:33: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppcorenotify.cpp:63: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppcorenotify.cpp:94: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppcorenotify.cpp:122: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppcorenotify.cpp:158: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppobjectselect.cpp:163: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwpppane.cpp:109: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwpptabwidgetstyle.cpp:57: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppview.cpp:33: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppview.cpp:242: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppviewpage.cpp:169: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppviewpage.cpp:609: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/wpp/src/kxwppviewpage.cpp:826: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/allowuserstoeditranges/kxallowuserstoeditrangesdlg.cpp:9: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/conditionalformatting/kxconditionformatdlg.cpp:11: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxalignwidget.cpp:33: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxborderwidget.cpp:52: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxformatcellsdlg.cpp:237: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxformatcellsdlg.cpp:263: tr() cannot be called without context
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxformatcellsfontwidget.cpp:37: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxformatcellsgallery.cpp:146: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxformatcellsgallery.cpp:165: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxformatcellsgallery.cpp:784: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxformatcellsgallery.cpp:944: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxnumberwidget.cpp:57: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxpatternswidget.cpp:34: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatcells/kxprotectionwidget.cpp:20: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxalignmentwidget.cpp:19: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxalignmentwidget.cpp:196: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxalignmentwidget.cpp:202: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxalignmentwidget.cpp:208: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxalignmentwidget.cpp:214: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxcontrolwidget.cpp:23: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxfontwidget.cpp:39: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxmarginswidget.cpp:21: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxpropertieswidget.cpp:21: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxpropertieswidget.cpp:93: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxpropertieswidget.cpp:98: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/formatshape/kxpropertieswidget.cpp:103: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/hyperlink/khyperlinkwidget.cpp:167: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/hyperlink/khyperlinkwidget.cpp:210: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/hyperlink/khyperlinkwidget.cpp:267: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/hyperlink/kxhyperlinkwrapperet.h:15: circular inclusion of /home/jcz/src/mui/Coding/shell2/et/src/dialog/hyperlink/kxhyperlinketpage.h
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/hyperlink/kxhyperlinketpage.cpp:528: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxadvancedfilterdlg.cpp:79: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxcellpastespecialdlg.cpp:30: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxconfirmpasswordofrangedlg.cpp:7: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxconsolidatedlg.cpp:19: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxcreatenamesdlg.cpp:6: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxdefinenamedlg.cpp:9: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxdelcelldlg.cpp:7: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxeditcrossbooklinksdlg.cpp:440: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxeditcrossbooklinksdlg.cpp:516: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxetformatshapedlg.cpp:206: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxfillacrossdlg.cpp:7: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxfindreplacedlg.cpp:2914: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxfindreplacedlg.cpp:3013: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxinsertcommentdlg.cpp:7: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxinsertfunctiondlg.cpp:1098: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxinsertfunctiondlg.cpp:1192: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxnewormodifyallowusereditrangedlg.cpp:10: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxprintdlg.cpp:33: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxprintdlg.cpp:603: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxprotectbookdlg.cpp:9: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxseriesdlg.cpp:9: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxspellcheckdlg.cpp:7: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxstyledlg.cpp:101: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxstyledlg.cpp:241: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxstyledlg.cpp:1281: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxsubtotaldlg.cpp:35: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxsubtotaldlg.cpp:429: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/kxtexttocolumnsoptionsdlg.cpp:7: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/options/kxoptionsdlg.cpp:3177: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/texttocolumns/columnwidthview.cpp:11: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/texttocolumns/columnwidthview.cpp:97: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/dialog/texttocolumns/kxtexttocolumnsdlg.cpp:11: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/kaxetserverview.cpp:41: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/tik.cpp:44: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/widgets/crosssplitter/kxetcrosssplitter.cpp:16: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/et/src/widgets/crosssplitter/kxetsplitterviewer.cpp:15: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:39: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:59: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:79: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:99: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:119: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:139: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:327: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:333: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:346: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/db/db.cpp:352: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/homepage.cpp:309: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/khomepage/homepage_config.cpp:319: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/ktreasurebox/crypt/des.h:54: circular inclusion of /home/jcz/src/mui/Coding/shell2/plugins/ktreasurebox/crypt/des.inl
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kxfilesystemmodel_p.h:13: circular inclusion of /home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kxfilesystemmodel.h
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kfileviewpage.cpp:2837: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kfileviewpage.cpp:2849: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kLiveFileDialog.cpp:434: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kLiveFileDialog.cpp:472: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/ktabdialogexcontrolimpl.cpp:694: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kxnewfolderdlg.cpp:152: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kxtoolbuttonhasfocus.cpp:16: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kxtoolbuttonhasfocus.cpp:47: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kxwebfilesmanager.cpp:441: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/dialog/kxwebfilesmanager.cpp:543: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kguidbubble.cpp:366: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kosunit.cpp:391: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kqingclient.cpp:139: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kqingclient.cpp:821: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kxlivestateupdatecache.cpp:116: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kxlivestateupdatecache.cpp:499: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kxlivestateupdatecache.cpp:514: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kxlivestateupdatecache.cpp:645: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/officespace/src/kxmessagescan.cpp:8: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/Resources/local/javascripts/gallery.easyui.min.js:985: Expected `end of file'
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/Resources/local/javascripts/jquery.pager.min.js:2: Illegal character
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/Resources/OfflineHtml/js/gallery.easyui.min.js:985: Expected `end of file'
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/common/utillites.h:13: circular inclusion of /home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/stdafx.h
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/kpersonalgallery.h:27: circular inclusion of /home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/commonoperate.h
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/kpersonalgallery.h:28: circular inclusion of /home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/webwindow.h
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/commonoperate.cpp:762: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/kpersonalgallery.cpp:718: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/shell2/plugins/PersonlGallery/WPSGallery/kpersonalgallery.cpp:1427: Discarding unconsumed meta data
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/api_err.h:15: Class 'api_err' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/copypaste.h:15: Class 'copypaste' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/dguil.h:15: Class 'dguil' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/drawing.h:15: Class 'drawing' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/filter.h:15: Class 'filter' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/krm.h:15: Class 'krm' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/kso.h:15: Class 'kso' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/ksocomm.h:15: Class 'ksocomm' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/print.h:15: Class 'print' 
+/home/jcz/src/mui/Coding/include/kso/l10n/kso/shellpub.h:15: Class 'shellpub' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/comment.h:16: Class 'comment' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/field.h:15: Class 'field' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/field_parser_common.h:15: Class 'field_parser_common' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/field_parser_links_and_reference.h:15: Class 'field_parser_links_and_reference' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/field_parser_mailmerge.h:16: Class 'field_parser_mailmerge' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/field_parser_numbering.h:15: Class 'field_parser_numbering' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/pagelayout.h:15: Class 'pagelayout' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/pdfexport.h:15: Class 'pdfexport' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/renderhost.h:15: Class 'renderhost' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/ruler.h:15: Class 'ruler' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/texttable.h:15: Class 'texttable' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/wpscore.h:15: Class 'wpscore' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/wpscore_err.h:15: Class 'wpscore_err' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/wpscore_persist.h:15: Class 'wpscore_persist' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/wpsshell.h:15: Class 'wpsshell' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wps/wpsuil.h:15: Class 'wpsuil' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/aeobean.h:15: Class 'aeobean' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/aeoengine.h:16: Class 'aeoengine' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/objtable.h:15: Class 'objtable' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/player.h:15: Class 'player' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/textbean.h:15: Class 'textbean' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/wppcore.h:15: Class 'wppcore' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/wppdata.h:15: Class 'wppdata' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/wpprender.h:15: Class 'wpprender' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/wppshell.h:15: Class 'wppshell' 
+/home/jcz/src/mui/Coding/include/kso/l10n/wpp/wppuil.h:15: Class 'wppuil' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_app.h:15: Class 'et_app' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_appcore.h:15: Class 'et_appcore' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_chart.h:15: Class 'et_chart' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_core.h:15: Class 'et_core' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_dap.h:15: Class 'et_dap' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_dbe.h:15: Class 'et_dbe' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_excelrw.h:15: Class 'et_excelrw' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_funclib.h:15: Class 'et_funclib' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_numfmt.h:15: Class 'et_numfmt' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_persist.h:15: Class 'et_persist' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_render.h:15: Class 'et_render' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_styles.h:15: Class 'et_styles' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_uil.h:15: Class 'et_uil' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/et_undodesc.h:15: Class 'et_undodesc' 
+/home/jcz/src/mui/Coding/include/kso/l10n/et/etshell.h:15: Class 'etshell' 

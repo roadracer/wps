@@ -1,0 +1,50 @@
+<RCC>
+	<qresource prefix="/">
+		<file>images/parabutton/paraformatentry_over.png</file>
+		<file>images/parabutton/paraformatentry.png</file>
+		<file>images/bulletsnumbering/bullet_0.PNG</file>
+		<file>images/bulletsnumbering/bullet_1.PNG</file>
+		<file>images/bulletsnumbering/bullet_2.PNG</file>
+		<file>images/bulletsnumbering/bullet_3.PNG</file>
+		<file>images/bulletsnumbering/bullet_4.PNG</file>
+		<file>images/bulletsnumbering/bullet_5.PNG</file>
+		<file>images/bulletsnumbering/bullet_6.PNG</file>
+		<file>images/bulletsnumbering/bullet_7.PNG</file>
+		<file>images/bulletsnumbering/number_0.PNG</file>
+		<file>images/bulletsnumbering/number_1.PNG</file>
+		<file>images/bulletsnumbering/number_2.PNG</file>
+		<file>images/bulletsnumbering/number_3.PNG</file>
+		<file>images/bulletsnumbering/number_4.PNG</file>
+		<file>images/bulletsnumbering/number_5.PNG</file>
+		<file>images/bulletsnumbering/number_6.PNG</file>
+		<file>images/bulletsnumbering/number_7.PNG</file>
+		<file>images/bulletsnumbering/outl_numb_0.PNG</file>
+		<file>images/bulletsnumbering/outl_numb_1.PNG</file>
+		<file>images/bulletsnumbering/outl_numb_2.PNG</file>
+		<file>images/bulletsnumbering/outl_numb_3.PNG</file>
+		<file>images/bulletsnumbering/outl_numb_4.PNG</file>
+		<file>images/bulletsnumbering/outl_numb_5.PNG</file>
+		<file>images/bulletsnumbering/outl_numb_6.PNG</file>
+		<file>images/bulletsnumbering/outl_numb_7.PNG</file>
+		<file>images/SwitchUi/next.png</file>
+		<file>images/SwitchUi/schemeHover.png</file>
+		<file>images/SwitchUi/schemeSel.png</file>
+		<file>images/SwitchUi/select.png</file>
+		<file>images/SwitchUi/skin_classics_et.png</file>
+		<file>images/SwitchUi/skin_classics_wpp.png</file>
+		<file>images/SwitchUi/skin_classics_wps.png</file>
+		<file>images/SwitchUi/skin_metro_et.png</file>
+		<file>images/SwitchUi/skin_metro_wpp.png</file>
+		<file>images/SwitchUi/skin_metro_wps.png</file>
+		<file>images/SwitchUi/skin_ongmani_et.png</file>
+		<file>images/SwitchUi/skin_ongmani_wpp.png</file>
+		<file>images/SwitchUi/skin_ongmani_wps.png</file>
+		<file>images/SwitchUi/skin_rainbow_et.png</file>
+		<file>images/SwitchUi/skin_rainbow_wpp.png</file>
+		<file>images/SwitchUi/skin_rainbow_wps.png</file>
+		<file>images/SwitchUi/switchSkinWidgetItemLock.png</file>
+		<file>images/SwitchUi/switchUiHover.png</file>
+		<file>images/SwitchUi/switchUiSel.png</file>
+	</qresource>
+</RCC>
+
