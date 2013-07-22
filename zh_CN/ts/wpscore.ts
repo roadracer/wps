@@ -1764,7 +1764,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Normal.wpt</source>
-        <translation>Normal.wpt</translation>
+        <translation type="obsolete">Normal.wpt</translation>
     </message>
     <message>
         <source>Try to save again? \n(%s)</source>
@@ -2044,6 +2044,10 @@ Please try one of the following.
     <message utf8="true">
         <source>The specified file “%s” is not the supported file typle, please click OK and then specify a type in the Save as dialogue.</source>
         <translation>指定的文件“%s”属于不支持的文件类型，请单击“确定”按钮，在“另存”对话框中重新指定保存的文件类型。</translation>
+    </message>
+    <message>
+        <source>normal.wpt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

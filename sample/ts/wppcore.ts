@@ -1,1292 +1,317 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.0" language="sample">
 <context>
-    <name>BulletNumberGridWidget</name>
+    <name>aeobean</name>
     <message>
-        <source>0</source>
-        <translation type="unfinished">2- {0?}</translation>
-    </message>
-    <message>
-        <source>1</source>
-        <translation type="unfinished">2- {1?}</translation>
-    </message>
-    <message>
-        <source>2</source>
-        <translation type="unfinished">2- {2?}</translation>
-    </message>
-    <message>
-        <source>3</source>
-        <translation type="unfinished">2- {3?}</translation>
-    </message>
-    <message>
-        <source>4</source>
-        <translation type="unfinished">2- {4?}</translation>
-    </message>
-    <message>
-        <source>5</source>
-        <translation type="unfinished">2- {5?}</translation>
-    </message>
-    <message>
-        <source>6</source>
-        <translation type="unfinished">2- {6?}</translation>
-    </message>
-    <message>
-        <source>7</source>
-        <translation type="unfinished">2- {7?}</translation>
-    </message>
-    <message>
-        <source>8</source>
-        <translation type="unfinished">2- {8?}</translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="unfinished">2- {9?}</translation>
-    </message>
-    <message>
-        <source>(0)</source>
+        <source>Applause</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(1)</source>
+        <source>Arrow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(2)</source>
+        <source>Bomb</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(3)</source>
+        <source>Breeze</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(4)</source>
+        <source>Camera</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(5)</source>
+        <source>Cash register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(6)</source>
+        <source>Chime</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(7)</source>
+        <source>Click</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(8)</source>
+        <source>Coin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(9)</source>
+        <source>Drum roll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(10)</source>
+        <source>Explosion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>.</source>
+        <source>Hammer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>)</source>
+        <source>Laser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>None</source>
-        <translation type="unfinished">Nichts</translation>
-    </message>
-</context>
-<context>
-    <name>CTableStyle</name>
-    <message>
-        <source>1-</source>
-        <translation>1-</translation>
-    </message>
-    <message>
-        <source>2-</source>
-        <translation>2-</translation>
-    </message>
-    <message>
-        <source>Banded Columns</source>
-        <translation>Spalten grau/weiß</translation>
-    </message>
-    <message>
-        <source>Banded Rows</source>
-        <translation>Zeilen grau/weiß</translation>
-    </message>
-    <message>
-        <source>First Column</source>
-        <translation>Erste Spalte</translation>
-    </message>
-    <message>
-        <source>First Row</source>
-        <translation>Erste Zeile</translation>
-    </message>
-    <message>
-        <source>Last Column</source>
-        <translation>Letzte Spalte</translation>
-    </message>
-    <message>
-        <source>Last Row</source>
-        <translation>Letzte Zeile</translation>
-    </message>
-    <message>
-        <source>deep color style</source>
-        <translation type="obsolete">Satte-Farben-Stil</translation>
-    </message>
-    <message>
-        <source>deep color style 2</source>
-        <translation type="obsolete">Satte-Farben-Stil 2</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphaisze 3/emphasize 4</source>
-        <translation type="obsolete">Satte-Farben-Stil 2-betonen 3/betonen 4</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphasize 1/empahsize 2</source>
-        <translation type="obsolete">Satte-Farben-Stil 2-betonen 1/betonen 2</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphasize 5/emphasize 6</source>
-        <translation type="obsolete">Satte-Farben-Stil 2-betonen 5/betonen 6</translation>
-    </message>
-    <message>
-        <source>emphasize</source>
-        <translation type="obsolete">betonen</translation>
-    </message>
-    <message>
-        <source>light color style</source>
-        <translation type="obsolete">Helle-Farben-Stil</translation>
-    </message>
-    <message>
-        <source>moderate color style</source>
-        <translation type="obsolete">Gemäßigter Farbstil</translation>
-    </message>
-    <message>
-        <source>styless,no grid</source>
-        <translation type="obsolete">ohne Stil, kein Raster</translation>
-    </message>
-    <message>
-        <source>stylish,gridded</source>
-        <translation type="obsolete">mit Stil, Raster</translation>
-    </message>
-    <message>
-        <source>theme style</source>
-        <translation type="obsolete">Thema-Stil</translation>
-    </message>
-    <message>
-        <source>No Style, No Grid</source>
+        <source>Push</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Themed Style</source>
+        <source>Suction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Emphasize</source>
+        <source>Typewriter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Style, Table Grid</source>
+        <source>Voltage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light style</source>
+        <source>Whoosh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Medium Style</source>
+        <source>Wind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Style</source>
+        <source>Custom Animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Style 2</source>
+        <source>Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
+        <source>Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
+        <source>Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Styl 2-Emphasize 5/Emphasize 6</source>
+        <source>Text&lt;Date and Time&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>: Shape </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Times New Roman</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>DesignLayoutPanel</name>
+    <name>aeoengine</name>
     <message>
-        <source>Apply to &amp;Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace &amp;Selected Designs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add Design</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show &amp;Large Previews</source>
+        <source>Slide show is over, click to exit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>DlgAsianLineBreak</name>
+    <name>objtable</name>
     <message>
-        <source>Asian Line Break</source>
+        <source>Fill Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Break</source>
+        <source>Borders and Fill</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use Asian rules for controlling first and last &amp;characters</source>
+        <source>Split Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <source>Merge Cells</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All&amp;ow hanging punctuation</source>
+        <source>Insert Rows Above</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Typography...</source>
+        <source>Insert Rows Below</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>DlgFindReplace</name>
-    <message>
-        <source>FindReplaceDlg</source>
+        <source>Insert Columns to the Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Re&amp;place with:</source>
+        <source>Insert Columns to the Right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Match &amp;case</source>
+        <source>Delete Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Find &amp;whole words only</source>
+        <source>Delete Rows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Match half/full width for&amp;ms</source>
+        <source>Fill Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Find Next</source>
+        <source>Align Top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
-    </message>
-    <message>
-        <source>&amp;Replace...</source>
+        <source>Center Vertically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace &amp;All</source>
+        <source>Align Bottom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fi&amp;nd What:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>DlgKxCustomShows</name>
-    <message>
-        <source>Custom Slide Shows</source>
+        <source>Distribute Rows Evenly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>C&amp;ustom slide shows:</source>
+        <source>Distribute Columns Evenly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;New...</source>
+        <source>Change Text Direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cop&amp;y</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Show</source>
+        <source>Edit Table</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>DlgKxDefineCustomShows</name>
+    <name>player</name>
     <message>
-        <source>Define Custom Show</source>
+        <source>Slide Show Help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide show &amp;name:</source>
+        <source>During the slide show:
+
+Left Click, Space, &apos;N&apos;, Right or Down Arrow 	Advance to the next slide	
+Enter, or Page Down
+Backspace, &apos;P&apos;, Left or Up Arrow, 		Return to the previous slide	
+or Page Up
+Number followed by Enter			Go to that slide	
+Esc					End of the slide show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom Slide Shows</source>
+        <source>The file you specified cannot be open.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slides in &amp;presentation:</source>
+        <source>Kingsoft Presentation cannot be found or start %s. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Add &gt;&gt;</source>
+        <source>Custom Shows &quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Remove</source>
+        <source>&quot; does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S&amp;lides in custom show:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>DlgKxSetupShow</name>
-    <message>
-        <source>Slide Show Settings</source>
+        <source>Slide </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show type</source>
+        <source>Slide %d of %d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Presented by a speaker(Full screen)</source>
+        <source>End Show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Browsed at a &amp;kiosk(Full screen)</source>
+        <source>Keep ink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Browsed by an individual(window)</source>
+        <source>The time to cost: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S&amp;how Scrollbar</source>
+        <source>The total time for the slide show is %s. Do you want to keep the new slide timings? </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show options</source>
+        <source>Rehearse Timings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>Innovation·Research·Customer·Result·Sincerity Kingsoft Office 2010</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Loop continuously until &apos;Esc&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>P&amp;en color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Show Without Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Without &amp;Narration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;to:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Custom show:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Advance slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Manually</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Using timings, if present</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Multiple monitors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display slide show &amp;on:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double-&amp;Screen Extend Mode Guide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sho&amp;w presenter view</source>
+        <source>May our software run on every computer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>DlgWppAnimationEffects</name>
+    <name>textbean</name>
     <message>
-        <source>Add Effects</source>
+        <source>Typing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Preview Effects</source>
+        <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>DlgWppAnimationOptions</name>
     <message>
-        <source>Effect Options</source>
+        <source>Drag and Drop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Effects</source>
+        <source>Duplicate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Settings</source>
+        <source>Paste</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Di&amp;rection:</source>
+        <source>Cut</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>F&amp;irst Color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Se&amp;cond Color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>St&amp;yle:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pat&amp;h:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Locked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UnLocked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S&amp;mooth Start</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Smooth E&amp;nd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;uto-reverse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start Playing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From &amp;Beginning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From &amp;Last Postion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Ti&amp;me:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop Playing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>On clic&amp;k</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>After &amp;Current Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;fter:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
-    </message>
-    <message>
-        <source>Enhancements</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Sound:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;After animation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Animate Te&amp;xt:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All at once</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Letter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>% &amp;delay between letters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Timing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Start:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>On Click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>With Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>After Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Delay:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Sp&amp;eed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Repeat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(None)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Until Next Click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Until End of Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Triggers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Animate as part of click sequence</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start Effects on &amp;Click of:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Group Text:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;utomatically After</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chart Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Group Chart:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Animate grid and legend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Diagram Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Group Diagram:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound &amp;Volume:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Hide sound icon during slide show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total Playing Time:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Movie Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Hide while not playing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Zoom to full screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Dlgtypography</name>
-    <message>
-        <source>Typography</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First and last characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S&amp;tandard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot &amp;start line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot &amp;end line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line-breaking characters currently customized for:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KApplication</name>
-    <message>
-        <source>Loading Core Module</source>
-        <translation type="obsolete">Kernmodul wird geladen</translation>
-    </message>
-    <message>
-        <source>Loading KUI</source>
-        <translation>Benutzeroberfläche wird geladen</translation>
-    </message>
-</context>
-<context>
-    <name>KCloseThumbnailCommand</name>
-    <message>
-        <source>Close</source>
-        <translation>Schließen</translation>
-    </message>
-</context>
-<context>
-    <name>KDialogWrapperBase</name>
-    <message>
-        <source>Size</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>De&amp;fault for new objects</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Style:</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Dashed:</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Begin style:</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;End style:</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Begin s&amp;ize:</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End si&amp;ze:</source>
-        <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWppAnimCustomCommand</name>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWppAnimDlgColorCommand</name>
-    <message>
-        <source>&amp;More Colors...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automatisch</translation>
-    </message>
-</context>
-<context>
-    <name>KxApplication</name>
-    <message>
-        <source>WPS WORD</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxBackgroundDlg</name>
-    <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxBrowseSlidesDlg</name>
-    <message>
-        <source>All Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide %1 .. %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxBulletsNumberingDlg</name>
-    <message>
-        <source>&amp;More Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to reset the library as default?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxCheckSpellingDlg</name>
-    <message>
-        <source>(No Suggestions)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check spelling is complete.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Always suggest corrections(&amp;L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore words in &amp;UPPERCASE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore words that contain num&amp;bers</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxColorSettingPanel</name>
-    <message>
-        <source>Background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text and lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fills</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accent and hyperlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accent and followed hyperlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxCommentWidget</name>
-    <message>
-        <source>PowerPoint reached the beginning of the presentation.Do you want to continue from the end?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PowerPoint reached the end of the presentation.Do you want to continue from the beginning?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete all comments and ink annotations in this presentation?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxCustomShowsDlg</name>
-    <message>
-        <source>Custom show %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>^Copy (\d+ )?of (.*)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy %1of %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy %1 of </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1%2</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDefineCustomShowsDlg</name>
-    <message>
-        <source>%1. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(%1) </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must name your custom show.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can&apos;t have two custom shows with the same name. Please enter a new name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgBackground</name>
-    <message>
-        <source>Background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply &amp;to All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Background fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I&amp;gnor the back ground of main</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgBkgndMusicTip</name>
-    <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Background music file cannot be saved in the presentation file directly. It needs to be distributed together with the presentation file. You can put it with the presentation file in the same folder to play.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Do not prompt next time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgBrowseSlides</name>
-    <message>
-        <source>Browse Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Show:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S&amp;lide titles:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgBulletsNumbering</name>
-    <message>
-        <source>Bullet and Numbering</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bulleted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S&amp;ize:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>% of text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Picture...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C&amp;ustomize...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numbered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Begin at:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>R&amp;eset</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgCheckSpelling</name>
-    <message>
-        <source>Spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Paragraph:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change &amp;to:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change A&amp;ll</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I&amp;gnore All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
-    </message>
-    <message>
-        <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgDateAndTime</name>
-    <message>
-        <source>Date and Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Available formats:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Language(Country/Area):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Update automatically</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgDeletebkmusic</name>
-    <message>
-        <source>Delete Background music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure to delete the background music from current slide?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Do not prompt next time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgFont</name>
     <message>
         <source>Font</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Latin text &amp;font:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>F&amp;ont style:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Regular</source>
+        <source>Font Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1298,98 +323,1677 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bold Italic</source>
+        <source>Underline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Effects</source>
+        <source>Text Shadow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Underline</source>
+        <source>Text Emboss</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Supe&amp;rscript</source>
+        <source>Font Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sh&amp;adow</source>
+        <source>Baseline Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Offse&amp;t:</source>
+        <source>Line Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Emboss</source>
+        <source>Line Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Su&amp;bscript</source>
+        <source>Bullets and Numbering</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Color:</source>
+        <source>Align Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Default for new objects</source>
+        <source>Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upholding Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Slide Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Demote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Promote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ruler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Hyperlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Hyperlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Hyperlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;header&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;footer&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;date/time&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;#&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>KxDlgGridAndGuids</name>
+    <name>wppcore</name>
     <message>
-        <source>Grid and Guides</source>
+        <source>Presentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snap to</source>
+        <source>Click to add first slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snap objects to &amp;grid         </source>
+        <source>Custom Design</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Snap objects to other objects</source>
+        <source>Default Design</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Grid settings</source>
+        <source>Read-Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S&amp;pacing:</source>
+        <source>Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>8 grid per cm</source>
+        <source>Slide Sorter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 grid per cm</source>
+        <source>Slide Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>5 grid per cm</source>
+        <source>Title Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4 grid per cm</source>
+        <source>Print: Page %d of %d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 grid per cm</source>
+        <source>VBAProject</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2 grid per cm</source>
+        <source>ThisPres</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blinds Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blinds Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkerboard Across</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkerboard Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comb Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comb Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Left-Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Left-Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Right-Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Right-Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cut Through Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dissolve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Smoothly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Through Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Newsflash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Bars Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Bars Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Circle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Diamond</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Plus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Horizontal In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Horizontal Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Vertical In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Vertical Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips Left-Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips Left-Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips Right-Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips Right-Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover Left-Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover Left-Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover Right-Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover Right-Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wedge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel Clockwise, 1 Spoke</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel Clockwise, 2 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel Clockwise, 3 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel Clockwise, 4 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel Clockwise, 8 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[No sound]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Stop previous sound]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bomb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Breeze</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cash Register</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Coin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drum Roll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Explosion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hammer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Laser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Typewriter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voltage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whoosh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other sound...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Files(*.wav)|*.wav</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Used in This Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available For Use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moderate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exciting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Appear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Appear and dim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade in all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade in one by one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade in and dim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Faded wipe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Faded zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brush on underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dissolve in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash bulb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ascend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Descend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elegant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rise up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show in reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unfold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Big title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bounce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse motion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neutron</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pinwheel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boomerang and exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grow and exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thread and exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body: Appear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: No Transiton
+Title: Fade
+Body: Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Fade
+Body: Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Faded Zoom
+Body: Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Brush On Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Dissolve In
+Body: Dissolve In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Flash Bulb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body: Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Random Bars
+Body: Random Bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Fade
+Body: Wipe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body: Ascend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body: Descend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Split Vertical In
+Title: Compress
+Body: Compress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Fade Smoothly
+Title: Ease In
+Body: Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Wipe Down
+Title: Rise Up
+Body: Rise Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Descend
+Body: Fly In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Spinner
+Body: Spinner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Push Right
+Title: Fly In
+Body: Unfold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Zoom
+Body: Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Wedge
+Title: Magnify
+Body: Faded Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Push Right
+Title: Bounce
+Body: Unfold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Credits
+Body: Credits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Strips Right-Down
+Title: Circle
+Body: Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Comb Horizontal
+Title: Float
+Body: Descend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title: Neutron
+Body: Rise Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: No Transition
+Title: Pinwheel
+Body: Peek In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Cover Down
+Title: Curve Up
+Body: Wipe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Uncover Down
+Title: Boomerang
+Body: Glide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Uncover Right-Down
+Title: Thread
+Body: Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition: Fade Through Black
+Title: Thread
+Body: Thread</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document has been locked by another application, do you want to open it as read-only?
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>Errors occur when Kingsoft Presentation is opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.	
+•Make sure this file is recognizable format.
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation cannot open this file, because the password is not correct.
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported encrypted file format. Please contact with the creator.
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to open. The file you specified does not exist.
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot print, please make sure your printer has been properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to edit Master title style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to edit Master subtitle Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drag and Drop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Shows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Borders and Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.dpt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.pot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animation Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start slide show...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X), Please contact the anti-virus software agent. 
+Do you still want to open this file?
+
+•Click Yes, Kingsoft Presentation will continue to open this file.
+��,lick No, Kingsoft Presentation will stop opening this file.
+
+Note that some files may contain macro viruses and possibly perform other harmful actions. If you don&apos;t trust this file, just do not open it.
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Slide Show - </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contents you pasted contains tabs. Do you want to paste tabs as a table?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for this file is currently restricted. Only Kingsoft Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>Kingsoft Presentation cannot open this file, because the current user doesn&apos;t have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permission control level of this file.
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Layouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content Layouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text and Content Layouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other Layouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Layouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and 2-Column Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Text and Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Chart and Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Diagram or Organization Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Text and Clip Art </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Clip Art and Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Text and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Content and Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Text and Media Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Media Clip and Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Content over Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Text over Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Text and 2 Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, 2 Content and Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and 2 Content over Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and 4 Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Vertical Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Clip Art and Vertical Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Title and Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Title and Text over Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and 2 Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, Content and 2 Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title, 2 Content and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening the file, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving the file, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The design template contains multiple masters. Kingsoft Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The picture you inserted is too large. Please compressing it to save the disk space.
+Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
+• Background Music
+• Paper Size
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speaker Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OLE Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Property</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Out Of Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Hidden Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Built-in Property</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VBA Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>%s can&apos;t play audio file “%s. Please make sure that the audio file is fromatted with .wav, and that there is a normal audio system in your computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Style, No Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 1 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 1 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 1 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 1 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 1 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 1 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Style, Table Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 2 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 2 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 2 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 2 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 2 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style 2 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 1 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 1 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 1 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 1 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 1 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 1 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 2 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 2 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 2 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 2 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 2 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 2 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 3 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 3 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 3 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 3 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 3 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Style 3 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 1 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 1 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 1 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 1 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 1 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 1 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 2 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 2 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 2 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 2 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 2 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 2 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 3 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 3 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 3 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 3 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 3 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 3 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 4 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 4 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 4 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 4 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 4 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style 4 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 1 - Accent 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 1 - Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 1 - Accent 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 1 - Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 1 - Accent 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 1 - Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2 - Accent 1/Accent 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2 - Accent 3/Accent 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2 - Accent 5/Accent 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Best Match for Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting from Traditional to Simplified...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convertint from Simplified to Traditional...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>The specified file “%s” is not the supported file type, please click OK and then respecify a file type for saving  in the Save As dialogue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently only support viewing PowerPoint 2007 documents, the edit cannot be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtitle %d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title %d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wppdata</name>
+    <message>
+        <source>Click to add title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to add text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to add subtitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click icon to add content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to add chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to add clip art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to add media clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to add table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to add diagram or organization chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Area for AutoLayouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Area for AutoLayouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtitle Area for AutoLayouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footer Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wpprender</name>
+    <message>
+        <source>Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide %d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide%d</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wppshell</name>
+    <message>
+        <source>Slide Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Design - Animation Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Design - Color Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1401,7 +2005,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>2 grids per cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3 cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 grids per cm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1409,1322 +2021,47 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>4 grids per cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>5 cm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cm</source>
+        <source>5 grids per cm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Display grid on screen</source>
+        <source>6 grids per cm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Guide settings</source>
+        <source>8 grids per cm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>D&amp;isplay drawing guides on screen</source>
+        <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Objects follow with guides       </source>
+        <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set as De&amp;fault</source>
+        <source>Add Effect</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KxDlgHeaderFooter</name>
     <message>
-        <source>Header and Footer</source>
+        <source>Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide</source>
+        <source>Cannot add word &quot;%s&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Include on slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Date and time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Update automatically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Language:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fi&amp;xed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide &amp;number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Appl&amp;y to All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not show on title &amp;slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Notes and Handouts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Include on page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Header</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Page number</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgInsertMedia</name>
-    <message>
-        <source>WPS preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>How do you want the movie to start in the slide show?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Automatically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>When &amp;Click</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgInsertTable</name>
-    <message>
-        <source>Insert Table</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of &amp;rows:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of &amp;cols:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgLecturerRemark</name>
-    <message>
-        <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Slide:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgMasterViewLayout</name>
-    <message>
-        <source>Master Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Placeholders</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Te&amp;xt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Slide number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgMovieOptions</name>
-    <message>
-        <source>Movie Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Loop until stopped</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Rewind movie after playing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound &amp;Volume:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Zoom to full screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total Playing Time:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgOption</name>
-    <message>
-        <source>Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start&amp;up Task Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide &amp;layout task pane while insert new slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Status &amp;bar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Vertical ruler</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thumbnail and outline position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Le&amp;ft of slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Right of slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Prompt to &amp;keep ink when exiting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show &amp;menu on right mouse click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;End with black slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General and Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gerneral options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Recently used file list:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Entris</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recovery options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save backup file every:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Munites</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Intia&amp;ls:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save &amp;presentation files as:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft  Presentation File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PowerPoint Presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Default file location:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Default print setting for this document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use the most &amp;recently print settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use the following &amp;print settings:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print &amp;what:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
-    </message>
-    <message>
-        <source>Handouts(2 slides per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Handouts(3 slides per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Handouts(6 slides per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Notes pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outline view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Color/grayscale:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gray</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fra&amp;me slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply when typing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Adjust title text by placeholder automatically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Adj&amp;ust normal text by placeholder automatically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply when working</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply Auto&amp;Layout to new objects.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Security</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File encryption options for this document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document passw&amp;ord</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reenter &amp;password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Advanced</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File sharing options for this document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password to &amp;modify:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Reenter password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore words in &amp;UPPERCASE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore words that contain num&amp;bers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom &amp;Dictionaries...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start With</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start With:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Home Pa&amp;ge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Doc&amp;ument</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgPackge</name>
-    <message>
-        <source>Presentation Package</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package Instruction:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Browse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Also Packaged As Compressed File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Folder &amp;Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgPageSetup</name>
-    <message>
-        <source>Page Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Slides size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>On-screen show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Letter Paper(8.5x11 Inch)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ledger Paper(11x17 Inch)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A3 Paper(297x420 mm)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A4 Paper(210x297 mm)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B4(ISO) Paper(250x353 mm)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B5(ISO) Paper(176x250 mm)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>35 mm Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Projector</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Banner</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Height:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Number slides from:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Paper size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>W&amp;idth:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
-    </message>
-    <message>
-        <source>Po&amp;rtrait</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Landscape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Notes,handouts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>P&amp;ortrait</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>L&amp;andscape</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgProgress</name>
-    <message>
-        <source>Copying file to folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgReplaceFont</name>
-    <message>
-        <source>Replace Fonts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Re&amp;place:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
-    </message>
-    <message>
-        <source>Replace with(&amp;w):</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSaveInk</name>
-    <message>
-        <source>!NO_TRANS!Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Keep</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to keep your ink annotations?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSlideShowHelp</name>
-    <message>
-        <source>Slide Show Help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Left Click, Space, &apos;N&apos;, Right or Down Arrow Enter, or Page Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Advance to the next slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Backspace, &apos;P&apos;, Left or Up Arrow, or Page Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Return to the previous slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number followed by Enter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go to that slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Esc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End of the slide show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1+Enter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Return to the first slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Right Click, or Shift+F10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pop up the shortcut menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>During the slide show</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSoundOptions</name>
-    <message>
-        <source>Sound Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Loop until stopped</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound &amp;Volume:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total playing time:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSplitCells</name>
-    <message>
-        <source>Split Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of &amp;rows:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of &amp;cols:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgViewZoom</name>
-    <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Fix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;400%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;200%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;100%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;66%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;50%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;33%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Percent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgVolumeRedress</name>
-    <message>
-        <source>Volume Redress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>tbVolume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbMute</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Mute</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWppActionSettings</name>
-    <message>
-        <source>Action Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mouse Click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Action on click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;None</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Hyperlink to:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last slide viewed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom show ...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other presentation file...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other file...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Run program</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Run &amp;macro:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Object &amp;action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Play sound:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mouse Over</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Action on mouse over</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWppColorScheme</name>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Color schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Scheme colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Change C&amp;olor... </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> De&amp;lete Scheme </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWppExtendModeGuide</name>
-    <message>
-        <source>Double-Screen Extended Mode Wizard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use extended mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This wizard will help you to understand the various settings of the double-screen extended mode. Plase use the following links to view the help files:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWppLinkToCustomShows</name>
-    <message>
-        <source>Link To Custom Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C&amp;ustom slide shows:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Show and return</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWppLinkToSlides</name>
-    <message>
-        <source>Hyperlink to Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Slide title:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWppPrint</name>
-    <message>
-        <source>Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print range</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Current slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selectio&amp;n</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cust&amp;om show:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sli&amp;des:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter slide numbers and/or slide ranges. For example, 1,3,5-12</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Num&amp;ber of copies:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Colla&amp;te</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print &amp;what:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
-    </message>
-    <message>
-        <source>Handouts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Notes pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outline view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Colo&amp;r:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slides per pa&amp;ge:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Order:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hori&amp;zontal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Frame slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pr&amp;eview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlglineSpace</name>
-    <message>
-        <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Line spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Points</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Before paragraph</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;After paragraph</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxExportPDFDlg</name>
-    <message>
-        <source>Save Adobe PDF File As</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PDF File(*.pdf)|*.pdf||</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Handouts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input the password of permission setting!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Input permission password.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission password and document open password must be different.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid input.        </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file you specified already exists. Are you sure to replace the existing one?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The directory you specified dose not exist.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The slide you selected to export doesn&apos;t exist. Please select another one.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All slides of custom show are skipped.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All slides in this range are skipped.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The selected slides are skipped.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current slide is skipped.</source>
+        <source>All Files(*.*)|*.*</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2732,57 +2069,1131 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxExportToPDFProgressDlg</name>
-    <message>
-        <source>Preparing for exporting PDF file...</source>
+        <source>All Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User canceled operation.</source>
+        <source>Hide After Animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
-    </message>
-    <message>
-        <source>Exporting document information...</source>
+        <source>Hide on Next Click</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Exporting No.</source>
+        <source>Don&apos;t Dim</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> Page...</source>
+        <source>Gradual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Exporting labels...</source>
+        <source>Instant</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Exporting PDF file is completed.</source>
+        <source>As one Object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation encountered an error while trying exporting to PDF!</source>
+        <source>All paragraphs at once</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Encountered an error when opening PDF file!</source>
+        <source>By 5th Level paragraphs</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KxFindReplaceDlg</name>
     <message>
-        <source>Find</source>
+        <source>By 1st Level paragraphs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By 4th Level paragraphs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By 2nd Level paragraphs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By 3rd Level paragraphs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Full Spin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Half Spin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quarter Spin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Two Spin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ustom(&amp;U): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hug&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Larger</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smaller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Tiny</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Across</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Across</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Both</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clockwise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clockwise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counterclockwise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ounterclockwise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Bottom_Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Bottom-L&amp;eft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Bottom_Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Bottom-R&amp;ight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Top_Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From T&amp;op-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Top_Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From To&amp;p-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Horizontal In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split &amp;Horizontal In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Horizontal Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split H&amp;orizontal Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out From Screen Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out From Screen &amp;Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out Slightlly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;ut Slightly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out To Screen Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In To Screen &amp;Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>L&amp;eft Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In From Screen Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In From Screen &amp;Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Slightly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&amp;n Slightly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In To Screen Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In To Screen &amp;Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;ight Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To &amp;Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Bottom Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Bottom-L&amp;eft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Bottom Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Bottom-R&amp;ight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To &amp;Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To &amp;Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To &amp;Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Top Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To T&amp;op-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Top Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To To&amp;p-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Vertical In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split &amp;Vertical In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Vertical Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split V&amp;ertical Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold Flash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold Reveal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brush On Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brush On Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Fill Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Font Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Blend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Wave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Complementary Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Complementary Color 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contrasting Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Darken</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desaturate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shimmer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash Bulb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flicker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grow/Shrink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grow With Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lighten</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4 Point Star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Point Star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 Point Star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 Point Star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bounce Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bounce Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buzz Saw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crescent Moon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curved Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curved X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curvy Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curvy Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curvy Star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw Custom Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decaying Wave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Down Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Up Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Triangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Figure 8 Four</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Football</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Funnel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heartbeat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Figure 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverted Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverted Triangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop de Loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neutron</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Peanut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pentagon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pointy Star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S Curve 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S Curve 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sine Wave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spiral Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spiral Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stairs Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swoosh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Down Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Up Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Figure 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zigzag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Style Emphasis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Teeter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Appear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ascend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blinds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boomerang</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bounce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Revolve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Typewriter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crawl In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Descend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dissolve in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ease In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Faded Swivel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Faded Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash Once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fly In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grow &amp; Turn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Peek In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pinwheel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rise Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spinner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spiral In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swivel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thread</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unfold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wedge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magnify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disappear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crawl Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dissolve Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ease Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contract</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fly Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Peek Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sink Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spiral Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More Colors(&amp;M)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;1 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;2 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;3 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;4 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;8 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;100%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;25%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;50%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;75%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the object you want to animate, then click Custom Animation on the Slide Show menu to add animation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exciting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Ignore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2790,38 +3201,251 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Replace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation has finished searching the document.</source>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation has finished searching the document. The search item was not found.</source>
+        <source>Cancelled by user.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation has finished searching the document and made %1 replacements.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxFontDlg</name>
-    <message>
-        <source>(Use Asian text font)</source>
+        <source>The last color scheme can&apos;t be deleted. A presentation must always contain at least one standard color scheme.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+        <source>You can&apos;t use a date format in a different language than the slide master. The current date on the master is formatted for %s. To change the master, click Apply to All instead of Apply.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
+        <source>&amp;Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The spelling check is complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese(PRC)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to expand contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to hide contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy %sof %s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>^Copy (\d+ )?of (.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current slide is skipped.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Show %d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Shows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set up Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> (Default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% &amp;delay between letters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds &amp;Delayed Between Letters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% &amp;delay between letters/words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds &amp;Delayed Between Letters/Words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete the default dictionary?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error occurs when deleting words.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incorrect dictionary! Can&apos;t modify!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The path or name of %s is invalid. Please check that the path and file name are correct.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duration:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duratio&amp;n:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emphasis Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(U.S.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entrance Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file already exists. Do you want to replace the existing file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation has finished searching the presentation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Find / Replace...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moderate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hide Advanced Timeline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After Previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By letter: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By word: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, end: %s.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With Previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This font size is not available. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2829,12 +3453,277 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This font size is not available. </source>
+        <source>Japanese(JPN)</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KxFormatTableDlg</name>
+    <message>
+        <source>Slide Design - Design Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperlink to Other File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperlink to Other Kingsoft Presentation Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Master View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Master: Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Master: Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Am&amp;ount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Di&amp;rection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fill Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Font Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Si&amp;ze</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spokes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spo&amp;kes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify selected effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motion Paths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnLocked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie Oper&amp;ation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How do you want the movie to start in the slide show?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name &quot;%s&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%s&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(No Suggestions)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation has finished searching the presentation. The search item wasn&apos;t found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password confirmation does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Experienced an error when opening PDF file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lines &amp; Curves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting PDF file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting %d page...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting PDF file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting Labels...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting PDF file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Monitor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The slides you have selected to print no longer exist. Please make another selection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Programs(*.exe)|*.exe|All Files(*.*)|*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Property:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo %d Action(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation has finished searching the presentation. %d replacements were made.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to reset this gallery position to the default setting? </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Adobe PDF File As</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Follow Background Scheme Color</source>
         <translation type="unfinished"></translation>
@@ -2868,754 +3757,47 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom</source>
+        <source>Background Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+        <source>Text and Lines Color</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KxHyperlinkWppPage</name>
     <message>
-        <source>First Slide</source>
+        <source>Shadows Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Last Slide</source>
+        <source>Title Text Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next Slide</source>
+        <source>Fills Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous Slide</source>
+        <source>Accent Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Title</source>
+        <source>Accent and Hyperlink Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom Present</source>
+        <source>Accent and Followed Hyperlink Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide %1</source>
+        <source>Monitor %d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;&lt;Selection in document&gt;&gt;</source>
+        <source>The selected slides are skipped.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KxInsertMediaDlg</name>
     <message>
-        <source>How do you want the music to start in the slide show?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>How do you want the movie to start in the slide show?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxKsoTableStyleModel</name>
-    <message>
-        <source>Best Match</source>
-        <translation>Größte Entsprechung</translation>
-    </message>
-    <message>
-        <source>Deep</source>
-        <translation type="obsolete">Tief</translation>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="obsolete">Mittel</translation>
-    </message>
-    <message>
-        <source>Washy</source>
-        <translation type="obsolete">Verwaschen</translation>
-    </message>
-    <message>
-        <source>Light</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxLineWeightGroup</name>
-    <message>
-        <source>%1 pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxOptionsDlg</name>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select one &amp;folder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The path or name of &quot;%1&quot; is invalid. Please check that the path and file name are correct.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The reentered password erro?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxPackageBaseCommand</name>
-    <message>
-        <source>The file was not saved, please save the file before the packaging operation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxPackgeCommand</name>
-    <message>
-        <source>Packaged into folder tooltip on File pull-down menu panel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxPackgeDlg</name>
-    <message>
-        <source>File name contain illegal characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Folder already exists, please specify another folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Specified directory does not exist</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opt Position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zip file &amp;Name(N):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package into compressed file instruction</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxPackgeToZipCommand</name>
-    <message>
-        <source>Packaged into Zip tooltip on File pull-down menu panel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxPageSetupDlg</name>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxRehearsalToolbar</name>
-    <message>
-        <source>Next</source>
-        <translation>Nächster</translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation>Anhalten</translation>
-    </message>
-    <message>
-        <source>Rehearsal</source>
-        <translation>Probe</translation>
-    </message>
-    <message>
-        <source>Repeat</source>
-        <translation>Wiederholen</translation>
-    </message>
-    <message>
-        <source>Slide Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Total Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxRenameMasterDlg</name>
-    <message>
-        <source>The name &quot;%1&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxRenameMasterDlgClass</name>
-    <message>
-        <source>Rename Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Master name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxReplaceFontDlg</name>
-    <message>
-        <source>Document does not have the font %1!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your system have not %1,so the font showed is a similar font,do you want to continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxSetupShowDlg</name>
-    <message>
-        <source>Define</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[Restricted]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Primary Monitor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Monitor %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxStylesPanel</name>
-    <message>
-        <source>Best Match</source>
-        <translation>Beste Entsprechung</translation>
-    </message>
-    <message>
-        <source>Deep</source>
-        <translation type="obsolete">Tief</translation>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="obsolete">Mittel</translation>
-    </message>
-    <message>
-        <source>Washy</source>
-        <translation type="obsolete">Verwaschen</translation>
-    </message>
-    <message>
-        <source>Light</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpAnimationScheme</name>
-    <message>
-        <source>Text Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to selected slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to All Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AutoPreview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpAnimationSchemeWidget</name>
-    <message>
-        <source>Design Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpColorScheme</name>
-    <message>
-        <source>Text Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply a color scheme:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpColorSchemeWidget</name>
-    <message>
-        <source>Design Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit Color Schemes...</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpSlideDesign</name>
-    <message>
-        <source>Text Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Design Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply a design template:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpSlideDesignWidget</name>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Browse...</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpSlideLayout</name>
-    <message>
-        <source>Apply Slide Layout:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show when inserting new slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpSlideTransition</name>
-    <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to selected slides:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Advance slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>On mouse click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically after</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rehearse Current Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to All Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AutoPreview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>loop play, to the next voice began</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpSlideTransitionWidget</name>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loop until next sound</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpTableStyle</name>
-    <message>
-        <source>Clear Table Style</source>
-        <translation>Tabellenstil löschen</translation>
-    </message>
-    <message>
-        <source>Table Style Options:</source>
-        <translation>Tabellenstil-Optionen:</translation>
-    </message>
-    <message>
-        <source>Table Style:</source>
-        <translation>Tabellenstil:</translation>
-    </message>
-</context>
-<context>
-    <name>KxTypograpgyDlg</name>
-    <message>
-        <source>Chinese(China)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(None)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWidgetPosition</name>
-    <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Position on slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Horizontal:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucPositionHorizont</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt, 2, -169077, 169077, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Vertical:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucPositionVertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbHorizontalFrom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top left corner</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>F&amp;rom:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbVerticalFrom</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppActionSettingsDlg</name>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please choose a program to launch</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Program(*.exe);;All Files(*.*)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hyperlink to Other Kingsoft Presentation Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Presentations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hyperlink to Other File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hyperlink To URL</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppAnimationOptionsDlg</name>
-    <message>
-        <source>&amp;Don&apos;t Dim</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide &amp;After Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Hide on Next Mouse Click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Sound</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound Files(*.wav)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Second</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppColorModel</name>
-    <message>
-        <source>Automatic</source>
-        <translation>Automatisch</translation>
-    </message>
-    <message>
-        <source>Custom Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppColorSchemeDlg</name>
-    <message>
-        <source> De&amp;lete Scheme </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> A&amp;dd As Standard Scheme </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The last color scheme can&apos;t be deleted. A presentation must always contain at least one standard color scheme.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppCustomAnimationTp</name>
-    <message>
-        <source>Seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Entrance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;More Effects ...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;mphasis</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Motion &amp;Paths</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Convert Object to Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Draw Custom Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Curve</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Freeform</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Scribble</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;More Motion Paths ...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Movie &amp;Actions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pau&amp;se</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S&amp;top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Object Oper&amp;ate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start On &amp;Click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start &amp;With Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start &amp;After Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Effect Options...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Timing...</source>
+        <source>Select a Program to Run</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3623,680 +3805,83 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Remove</source>
+        <source>All slides of custom show are skipped.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Copy &amp;Effects to Slide</source>
+        <source>All slides in this range are skipped.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;View Slide Master</source>
+        <source>You must name your custom show.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Unlocked</source>
+        <source>You can&apos;t have two custom shows with the same name. Please enter a new name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Locked</source>
+        <source>Slide %d .. %d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit Points</source>
+        <source>Slide Show from current slide(Shift+F5)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Reverse Path Direction</source>
+        <source>35mm Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom &amp;In</source>
+        <source>A3 Paper(297x420 mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom &amp;Out</source>
+        <source>A4 Paper(210x297 mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Hide Advanced Timeline</source>
+        <source>B4 (ISO) Paper(250x353 mm)</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KxWppDesignItem</name>
     <message>
-        <source>Apply to Master</source>
+        <source>B5 (ISO) Paper(176x250 mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply to All Slides</source>
+        <source>Banner</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply to Selected Slides</source>
+        <source>Ledger Paper(11x17 in)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace All Designs</source>
+        <source>Letter Paper(8.5x11 in)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace Selected Designs</source>
+        <source>On-screen Show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add Design</source>
+        <source>Overhead</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KxWppExtendModeGuideDlg</name>
     <message>
-        <source>Set up monitors</source>
+        <source>Slide Sorter View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set screen resolution and color quality</source>
+        <source>Slide %d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use the current monitor as the primary monitor</source>
+        <source>Sound Oper&amp;ation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Extend Windows desktop to the selected monitor</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppFillColorModel</name>
-    <message>
-        <source>No Fill</source>
-        <translation type="obsolete">Keine Füllung</translation>
-    </message>
-    <message>
-        <source>No Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppFontSizeCommand</name>
-    <message>
-        <source>This is not a valid integer.</source>
-        <translation type="unfinished">Ungültige Ganzzahl.</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppLineColorModel</name>
-    <message>
-        <source>No Line Fill</source>
-        <translation type="obsolete">Keine Linienfüllung</translation>
-    </message>
-    <message>
-        <source>No Line</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppPrintDlg</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
-    </message>
-    <message>
-        <source>Handouts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Input is invalid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred on printer %1 !</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Slide that you selected is not exist, please choose another one!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>These customed play slides is marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All slides among the rang must be marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selected slides have marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current slides have marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppTransModel</name>
-    <message>
-        <source>Transition Group 01</source>
-        <translation>Transition-Gruppe 1</translation>
-    </message>
-    <message>
-        <source>Transition Group 02</source>
-        <translation>Transition-Gruppe 02</translation>
-    </message>
-    <message>
-        <source>Transition Group 03</source>
-        <translation>Transition-Gruppe 03</translation>
-    </message>
-    <message>
-        <source>Transition Group 04</source>
-        <translation>Transition-Gruppe 04</translation>
-    </message>
-    <message>
-        <source>Transition Group 05</source>
-        <translation>Transition-Gruppe 05</translation>
-    </message>
-    <message>
-        <source>Transition Group 06</source>
-        <translation>Transition-Gruppe 06</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppVpPodium</name>
-    <message>
-        <source>Comment</source>
-        <translation>Kommentar</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Gliederung</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppVpSlideNormal</name>
-    <message>
-        <source>Outline</source>
-        <translation>Gliederung</translation>
-    </message>
-    <message>
-        <source>Slides</source>
-        <translation>Folien</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppZoomComboCommand</name>
-    <message>
-        <source>This is not a valid measurement.</source>
-        <translation type="unfinished">Ungültige Maßangabe.</translation>
-    </message>
-</context>
-<context>
-    <name>LayoutPanel</name>
-    <message>
-        <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reapply &amp;Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert &amp;New Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QMyMessageBox</name>
-    <message>
-        <source>File package has been completed,you can carry out other operations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open the folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
-    </message>
-    <message>
-        <source>Package has been completed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open the compressed file</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QObject</name>
-    <message>
-        <source>Blinds 1</source>
-        <translation type="unfinished">Blenden 1</translation>
-    </message>
-    <message>
-        <source>Blinds 2</source>
-        <translation type="unfinished">Blenden 2</translation>
-    </message>
-    <message>
-        <source>Box In</source>
-        <translation>Kasten einwärts</translation>
-    </message>
-    <message>
-        <source>Box Out</source>
-        <translation>Kasten auswärts</translation>
-    </message>
-    <message>
-        <source>By Background Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Caption Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text and Hyperlink Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text and Visited Hyperlink Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Filling Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Shadow Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Text and Line Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chess 1</source>
-        <translation type="unfinished">Schachbrett 1</translation>
-    </message>
-    <message>
-        <source>Chess 2</source>
-        <translation type="unfinished">Schachbrett 2</translation>
-    </message>
-    <message>
-        <source>Circle Out</source>
-        <translation>Kreis auswärts</translation>
-    </message>
-    <message>
-        <source>Comb 1</source>
-        <translation type="unfinished">Kamm 1</translation>
-    </message>
-    <message>
-        <source>Comb 2</source>
-        <translation type="unfinished">Kamm 2</translation>
-    </message>
-    <message>
-        <source>Cover 1</source>
-        <translation type="unfinished">Abdecken 1</translation>
-    </message>
-    <message>
-        <source>Cover 2</source>
-        <translation type="unfinished">Abdecken 2</translation>
-    </message>
-    <message>
-        <source>Cover 3</source>
-        <translation type="unfinished">Abdecken 3</translation>
-    </message>
-    <message>
-        <source>Cover 4</source>
-        <translation type="unfinished">Abdecken 4</translation>
-    </message>
-    <message>
-        <source>Cover Down</source>
-        <translation>Abdecken nach unten</translation>
-    </message>
-    <message>
-        <source>Cover Left</source>
-        <translation>Abdecken nach links</translation>
-    </message>
-    <message>
-        <source>Cover Right</source>
-        <translation>Abdecken nach rechts</translation>
-    </message>
-    <message>
-        <source>Cover Up</source>
-        <translation>Abdecken nach oben</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Ausschneiden</translation>
-    </message>
-    <message>
-        <source>Cut Black</source>
-        <translation>Ausschneiden schwarz</translation>
-    </message>
-    <message>
-        <source>Diamond Out</source>
-        <translation>Raute auswärts</translation>
-    </message>
-    <message>
-        <source>Dissolve</source>
-        <translation>Auflösen</translation>
-    </message>
-    <message>
-        <source>Fade</source>
-        <translation>Verblassen</translation>
-    </message>
-    <message>
-        <source>Fade Smooth</source>
-        <translation>Sanft verblassen</translation>
-    </message>
-    <message>
-        <source>News</source>
-        <translation>News</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Nichts</translation>
-    </message>
-    <message>
-        <source>Plus Out</source>
-        <translation>Plus auswärts</translation>
-    </message>
-    <message>
-        <source>Push Down</source>
-        <translation>Drücken nach unten</translation>
-    </message>
-    <message>
-        <source>Push Left</source>
-        <translation>Drücken nach links</translation>
-    </message>
-    <message>
-        <source>Push Right</source>
-        <translation>Drücken nach rechts</translation>
-    </message>
-    <message>
-        <source>Push Up</source>
-        <translation>Drücken nach oben</translation>
-    </message>
-    <message>
-        <source>Random</source>
-        <translation>Zufällig</translation>
-    </message>
-    <message>
-        <source>Random 1</source>
-        <translation type="unfinished">Zufällig 1</translation>
-    </message>
-    <message>
-        <source>Random 2</source>
-        <translation type="unfinished">Zufällig 2</translation>
-    </message>
-    <message>
-        <source>Split 1</source>
-        <translation type="unfinished">Teilen 1</translation>
-    </message>
-    <message>
-        <source>Split 2</source>
-        <translation type="unfinished">Teilen 2</translation>
-    </message>
-    <message>
-        <source>Split 3</source>
-        <translation type="unfinished">Teilen 3</translation>
-    </message>
-    <message>
-        <source>Split 4</source>
-        <translation type="unfinished">Teilen 4</translation>
-    </message>
-    <message>
-        <source>Strips 1</source>
-        <translation type="unfinished">Streifen 1</translation>
-    </message>
-    <message>
-        <source>Strips 2</source>
-        <translation type="unfinished">Streifen 2</translation>
-    </message>
-    <message>
-        <source>Strips 3</source>
-        <translation type="unfinished">Streifen 3</translation>
-    </message>
-    <message>
-        <source>Strips 4</source>
-        <translation type="unfinished">Streifen 4</translation>
-    </message>
-    <message>
-        <source>Uncover 1</source>
-        <translation type="unfinished">Aufdecken 1</translation>
-    </message>
-    <message>
-        <source>Uncover 2</source>
-        <translation type="unfinished">Aufdecken 2</translation>
-    </message>
-    <message>
-        <source>Uncover 3</source>
-        <translation type="unfinished">Aufdecken 3</translation>
-    </message>
-    <message>
-        <source>Uncover 4</source>
-        <translation type="unfinished">Aufdecken 4</translation>
-    </message>
-    <message>
-        <source>Uncover 5</source>
-        <translation type="unfinished">Aufdecken 5</translation>
-    </message>
-    <message>
-        <source>Uncover 6</source>
-        <translation type="unfinished">Aufdecken 6</translation>
-    </message>
-    <message>
-        <source>Uncover 7</source>
-        <translation type="unfinished">Aufdecken 7</translation>
-    </message>
-    <message>
-        <source>Uncover 8</source>
-        <translation type="unfinished">Aufdecken 8</translation>
-    </message>
-    <message>
-        <source>Wedge</source>
-        <translation>Keil</translation>
-    </message>
-    <message>
-        <source>Wheel 1</source>
-        <translation type="unfinished">Rad 1</translation>
-    </message>
-    <message>
-        <source>Wheel 2</source>
-        <translation type="unfinished">Rad 2</translation>
-    </message>
-    <message>
-        <source>Wheel 3</source>
-        <translation type="unfinished">Rad 3</translation>
-    </message>
-    <message>
-        <source>Wheel 4</source>
-        <translation type="unfinished">Rad 4</translation>
-    </message>
-    <message>
-        <source>Wheel 8</source>
-        <translation type="unfinished">Rad 8</translation>
-    </message>
-    <message>
-        <source>Wipe Down</source>
-        <translation>Wischen nach unten</translation>
-    </message>
-    <message>
-        <source>Wipe Left</source>
-        <translation>Wischen nach links</translation>
-    </message>
-    <message>
-        <source>Wipe Right</source>
-        <translation>Wischen nach rechts</translation>
-    </message>
-    <message>
-        <source>Wipe Up</source>
-        <translation>Wischen nach oben</translation>
-    </message>
-    <message>
-        <source>You can not use the date format that is inconsistent with the slide master language. The current date on the master is formatted for %1. To change the master, please click on &apos;Apply to All&apos; instead of &apos;Apply&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English(America)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese(China)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Japanese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Primary_Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Blue_Shaded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Fire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Square_shadows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Black_Gradient</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Stripes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Braces</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Thick_Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_3D_Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Bookend_Fills</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Classics</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Double_Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SchemeLayoutPanel</name>
-    <message>
-        <source>Apply to &amp;Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;All Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Selected Masters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show &amp;Large Previews</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TpWppCustomAnimation</name>
-    <message>
-        <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify selected effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>On Click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>With Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>After Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Property:</source>
+        <source>How do you want the sound to start in the slide show?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4304,15 +3889,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Very Slow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Medium</source>
+        <source>Sp&amp;eed:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4320,173 +3897,211 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>%d seconds(Fast)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%d seconds(Medium)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%d seconds(Slow)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Very Fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Re-Order</source>
+        <source>%.1f seconds(Very Fast)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play</source>
+        <source>Very Slow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Show</source>
+        <source>%d seconds(Very Slow)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>AutoPreview</source>
+        <source>Straight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Customize Animation:</source>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %d Action(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnLock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Until End of Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Until Next Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Use Asian text font)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Presentations(*.dps;*.ppt;*.pps)|*.dps;*.ppt;*.pps|All Files(*.*)|*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word %s is not found in Dictionary, do you still want to change it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The slide you selected to export doesn&apos;t exist. Please select another one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot locate the path. Please input a full path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder name can not be empty. Please input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file or folder that you named already exists. Please use another name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s is already in the list. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file %s has not been saved, so you can not restore it back to the list. Are you sure to remove it from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation Collection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Packaging. Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to package! The reason maybe the selected folder cannot be written to or there is insufficient disk space.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder name can not contain the characters bellow:
+    \ / : * ? | &lt; &gt;
+
+Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apos;%s&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The length of the folder path bellow is %d, but it can not be longer than 255. Please modify it.
+
+%s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Triggers: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Entrance Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Entrance Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Emphasis Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Emphasis Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Exit Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Exit Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Motion Paths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Motion Paths</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>dialogstestClass</name>
+    <name>wppuil</name>
     <message>
-        <source>Dialogstest</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>kdlgExportToPDF</name>
-    <message>
-        <source>Export Adobe PDF File</source>
+        <source>Master Layout...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save &amp;to</source>
+        <source>Slide Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Browse...</source>
+        <source>Notes Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A&amp;ll</source>
+        <source>Notes Master Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Selection</source>
+        <source>Handout Master Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sl&amp;ides:</source>
+        <source>Slide Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter slide numbers or ranges.For example, 1,3,5-12</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export &amp;what:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
-    </message>
-    <message>
-        <source>Handouts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slides p&amp;er page:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Order:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hori&amp;zontal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fra&amp;me slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color/&amp;grayscale:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Passw&amp;ord to protect permissions settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Con&amp;firm:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note:only set password,option following can be valid on note,and protected without others on note.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permit to modify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permit to copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permit to add comments</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print low quality only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Free Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Open password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Passwor&amp;d:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confi&amp;rm:</source>
+        <source>Page Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4494,15 +4109,83 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Range</source>
+        <source>Normal (Restore Panes)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Current Slide</source>
+        <source>400 %</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>C&amp;ustom shows:</source>
+        <source>300 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>200 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>150 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>75 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>66 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>50 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>33 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>25 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit, -1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts (1 slide per page)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts (2 slides per page)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts (3 slides per page)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts (4 slides per page)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts (6 slides per page)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts (9 slides per page)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4514,259 +4197,651 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pure Black and White</source>
+        <source>Notes Pages (1 slide per page)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1</source>
-        <translation type="unfinished">2- {1?}</translation>
-    </message>
-    <message>
-        <source>2</source>
-        <translation type="unfinished">2- {2?}</translation>
-    </message>
-    <message>
-        <source>3</source>
-        <translation type="unfinished">2- {3?}</translation>
-    </message>
-    <message>
-        <source>4</source>
-        <translation type="unfinished">2- {4?}</translation>
-    </message>
-    <message>
-        <source>6</source>
-        <translation type="unfinished">2- {6?}</translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="unfinished">2- {9?}</translation>
-    </message>
-    <message>
-        <source>ICON</source>
+        <source>Notes Pages (3 slides per page)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission Print:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>kdlgExportToPDFProgress</name>
-    <message>
-        <source>Export Adobe PDF File</source>
+        <source>Page Setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preparing for exporting PDF file...</source>
+        <source>Can&apos;t Undo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Open File</source>
+        <source>Can&apos;t Redo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>kdlgFormatTable</name>
-    <message>
-        <source>Border</source>
+        <source>Undo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Borders</source>
+        <source>Redo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Style:</source>
+        <source>Cut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>lwLineStyle</source>
+        <source>Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Color:</source>
+        <source>Paste</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cmbBorderColor</source>
+        <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Width:</source>
+        <source>Replace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cmbBorderWidth</source>
+        <source>Delete Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click on diagram below or use buttons to apply borders</source>
+        <source>Delete Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>btnBorderUp</source>
+        <source>Preserve Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>btnBorderMidHor</source>
+        <source>Rename Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>btnBorderUnder</source>
+        <source>Grid and Guides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Border Preview</source>
+        <source>Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>btnBorderSlash</source>
+        <source>Insert Slide Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>btnBorderLeft</source>
+        <source>Date and Time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>btnBorderMidVer</source>
+        <source>Ruler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>btnBorderRight</source>
+        <source>New Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>btnBorderBackSlash</source>
+        <source>Insert New Slide Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fill</source>
+        <source>Insert New Title Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbFillColor</source>
+        <source>Insert Duplicate Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fill &amp;color:</source>
+        <source>Symbol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cmbFillColor</source>
+        <source>Font</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbSemitransparent</source>
+        <source>Font Alignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Semi&amp;transparent</source>
+        <source>Alignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Box</source>
+        <source>Change Case</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text &amp;alignment:</source>
+        <source>Line Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbTextAlign</source>
+        <source>Line Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Top</source>
+        <source>Master Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Medium</source>
+        <source>Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bottom</source>
+        <source>Format Object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Top centered</source>
+        <source>Help files not found, or the help files encounter an error.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Middle centered</source>
+        <source>Set Up Show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bottom centered</source>
+        <source>Action Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Internal margin</source>
+        <source>Insert Hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Left:</source>
+        <source>Edit Hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Top:</source>
+        <source>Remove Hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Right:</source>
+        <source>Hide Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Bottom:</source>
+        <source>Custom Shows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbOrientation</source>
+        <source>Font Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotat&amp;e text within cell by 90 degrees</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>kxUiHyperlinkwpp</name>
-    <message>
-        <source>Select a pla&amp;ce in this document:</source>
+        <source>Bold</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide preview:</source>
+        <source>Italic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Show and return</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>kxdlgexportpresentationhint</name>
-    <message>
-        <source>Kingsoft Presentation</source>
+        <source>Underline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you want to export every slide in the presentation or only the current slide?</source>
+        <source>Text Shadow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Every Slide</source>
+        <source>Increase Font Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Current Slide Only</source>
+        <source>Decrease Font Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Paragraph Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Paragraph Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speaker Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drag and Drop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation File(*.dps)|*.dps|Kingsoft Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Template(*.dpt)|*.dpt|Kingsoft Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Design Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to save the changes you made to %s?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>Failed to save. Please try one of the following: 
+•[Undo] the previous operations, then [Save] again.
+•Please copy the contents and paste them into a new file.
+•Give up the changes to this file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to open.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create a new file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot; is read-only.
+ Do you want to save your changes to another file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media Files(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Sound from File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Movie from File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gallery Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animation Scheme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Typography</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Rows Evenly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Columns Evenly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has not found any installed printers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The masters you don&apos;t want to preserve are never used by any slide. Do you want to delete them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Windows Enhanced Metafile(*.emf)|*.emf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Video File(avi) (*.avi)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.avi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie File(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wmv;*.wvx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AU Audio File(au) (*.au;*.snd)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.au;*.snd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mp3;*.m3u</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mid;*.midi;*.rmi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Audio File(wav) (*.wav)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wav</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media Audio File(wma) (*.wma;*.waw)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wma;*.waw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to add notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searching to the whole file is completed, and no search item was found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searching to the whole file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searching to the whole file is completed, and has replaced %i items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The font &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;&quot; isn&apos;t available for your system. Do you want to use this font anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to save as a picture, because the file format is unsupported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Erase All Markups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Erase All Markups on Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash Files(*.swf)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.swf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Flash Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert background music from the current slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The first slide has no background music. Do you want to add it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This slide has background music already. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Blank Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New from Default Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New From Default Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Spelling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Disabled]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Conversion...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simplified/Traditional Chinese Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation will delete a slide and its note page and graphics. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Simplified Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Traditional Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print directly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play the Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play background music</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

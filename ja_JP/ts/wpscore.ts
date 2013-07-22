@@ -1756,7 +1756,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Normal.wpt</source>
-        <translation type="unfinished">Normal.wpt</translation>
+        <translation type="obsolete">Normal.wpt</translation>
     </message>
     <message>
         <source>Try to save again? \n(%s)</source>
@@ -1990,6 +1990,10 @@ Please try one of the following.
     </message>
     <message utf8="true">
         <source>The specified file “%s” is not the supported file typle, please click OK and then specify a type in the Save as dialogue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>normal.wpt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

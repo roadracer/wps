@@ -1751,6 +1751,10 @@ Merged Data</source>
         <translation>加總</translation>
     </message>
     <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WhatNew</source>
         <translation type="obsolete">新消息</translation>
     </message>
@@ -2930,6 +2934,10 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7903,6 +7911,10 @@ Diagonal Line in Cell</source>
         <translation>KingSoft論譠</translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office Facebook</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8468,6 +8480,13 @@ Diagonal Line in Cell</source>
     <message>
         <source>true</source>
         <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9124,6 +9143,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Help</source>
         <translation>檔案功能表說明</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
@@ -18598,6 +18621,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ShapeAndGallery</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18966,16 +18993,19 @@ You can also center them or distribute them evenly across the page.</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation>切換介面</translation>
     </message>
     <message>
         <source>false</source>
         <translation type="obsolete">確定</translation>
+    </message>
+</context>
+<context>
+    <name>wpsongmani.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19169,6 +19199,13 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>true</source>
         <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

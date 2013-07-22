@@ -2020,6 +2020,10 @@ use buttons to apply borders</source>
         <source>&amp;Options</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Set Spell language</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgCheckboxFormField</name>

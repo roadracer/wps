@@ -2537,10 +2537,6 @@ Window</source>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation>切換介面</translation>
     </message>
@@ -2550,6 +2546,13 @@ Window</source>
     </message>
     <message>
         <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etongmani.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2724,6 +2727,13 @@ Window</source>
     <message>
         <source>true</source>
         <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>etrainbow.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3479,6 +3489,10 @@ On</source>
     <message>
         <source>Kingsoft Office BBS</source>
         <translation type="obsolete">KingSoft論譠</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
@@ -7103,6 +7117,10 @@ On</source>
         <translation>KingSoft論譠</translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office Facebook</source>
         <translation>KingSoft微博</translation>
     </message>
@@ -7375,6 +7393,10 @@ On</source>
         <translation>設定列印範圍</translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
@@ -7536,6 +7558,13 @@ On</source>
     <message>
         <source>true</source>
         <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8246,6 +8275,10 @@ AddIns</source>
     <message>
         <source>Kingsoft Office BBS</source>
         <translation type="obsolete">KingSoft論譠</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>

@@ -2543,6 +2543,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office Facebook</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4360,6 +4364,10 @@ On/Off</source>
     </message>
     <message>
         <source>Proofing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6412,6 +6420,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office Facebook</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6913,6 +6925,13 @@ Master</source>
     </message>
     <message>
         <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7626,6 +7645,10 @@ AddIns</source>
     </message>
     <message>
         <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9497,6 +9520,10 @@ Subordinate</source>
     </message>
     <message>
         <source>Proofing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15884,7 +15911,7 @@ Folie</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>NoteViewVisible_DrawText</source>
+        <source>Notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17208,15 +17235,18 @@ Folie</translation>
 <context>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18213,6 +18243,13 @@ Transition</source>
     </message>
     <message>
         <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

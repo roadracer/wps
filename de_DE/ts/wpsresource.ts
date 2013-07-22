@@ -1675,6 +1675,10 @@ Merged Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2845,6 +2849,10 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7687,6 +7695,10 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office Facebook</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8231,6 +8243,13 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8887,6 +8906,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20240,6 +20263,10 @@ Datensatz</translation>
         <translation type="obsolete">AutoForm-Standards einstellen</translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Transparent Color</source>
         <translation type="obsolete">Transparente Farbe einstellen</translation>
     </message>
@@ -21310,11 +21337,14 @@ Datensatz</translation>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch Language</source>
+        <source>Switch UI</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>wpsongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
-        <source>Switch UI</source>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -22998,6 +23028,13 @@ Abschnitt</translation>
     </message>
     <message>
         <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

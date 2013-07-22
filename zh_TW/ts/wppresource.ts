@@ -2631,6 +2631,10 @@ On</source>
         <translation type="obsolete">KingSoft論譠</translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office Facebook</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4588,6 +4592,10 @@ On/Off</source>
     <message>
         <source>Proofing</source>
         <translation>校對</translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide Mark</source>
@@ -6666,6 +6674,10 @@ On</source>
         <translation>KingSoft論譠</translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office Facebook</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7176,6 +7188,13 @@ Master</source>
     <message>
         <source>true</source>
         <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7889,6 +7908,10 @@ AddIns</source>
     <message>
         <source>Help</source>
         <translation>檔案功能表說明</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
@@ -9844,6 +9867,10 @@ Subordinate</source>
     <message>
         <source>Proofing</source>
         <translation>校對</translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
@@ -14877,7 +14904,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>NoteViewVisible_DrawText</source>
+        <source>Notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15326,16 +15353,19 @@ Slide</source>
 <context>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation>切換介面</translation>
     </message>
     <message>
         <source>true</source>
         <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15539,6 +15569,13 @@ Slide</source>
     <message>
         <source>true</source>
         <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1,48 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.0" language="sample">
 <context>
     <name>BulletNumberGridWidget</name>
     <message>
         <source>0</source>
-        <translation type="unfinished">2- {0?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">2- {1?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished">2- {2?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">2- {3?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">2- {4?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished">2- {5?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">2- {6?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished">2- {7?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished">2- {8?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">2- {9?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(0)</source>
@@ -98,87 +97,11 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nichts</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CTableStyle</name>
-    <message>
-        <source>1-</source>
-        <translation>1-</translation>
-    </message>
-    <message>
-        <source>2-</source>
-        <translation>2-</translation>
-    </message>
-    <message>
-        <source>Banded Columns</source>
-        <translation>Spalten grau/weiß</translation>
-    </message>
-    <message>
-        <source>Banded Rows</source>
-        <translation>Zeilen grau/weiß</translation>
-    </message>
-    <message>
-        <source>First Column</source>
-        <translation>Erste Spalte</translation>
-    </message>
-    <message>
-        <source>First Row</source>
-        <translation>Erste Zeile</translation>
-    </message>
-    <message>
-        <source>Last Column</source>
-        <translation>Letzte Spalte</translation>
-    </message>
-    <message>
-        <source>Last Row</source>
-        <translation>Letzte Zeile</translation>
-    </message>
-    <message>
-        <source>deep color style</source>
-        <translation type="obsolete">Satte-Farben-Stil</translation>
-    </message>
-    <message>
-        <source>deep color style 2</source>
-        <translation type="obsolete">Satte-Farben-Stil 2</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphaisze 3/emphasize 4</source>
-        <translation type="obsolete">Satte-Farben-Stil 2-betonen 3/betonen 4</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphasize 1/empahsize 2</source>
-        <translation type="obsolete">Satte-Farben-Stil 2-betonen 1/betonen 2</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphasize 5/emphasize 6</source>
-        <translation type="obsolete">Satte-Farben-Stil 2-betonen 5/betonen 6</translation>
-    </message>
-    <message>
-        <source>emphasize</source>
-        <translation type="obsolete">betonen</translation>
-    </message>
-    <message>
-        <source>light color style</source>
-        <translation type="obsolete">Helle-Farben-Stil</translation>
-    </message>
-    <message>
-        <source>moderate color style</source>
-        <translation type="obsolete">Gemäßigter Farbstil</translation>
-    </message>
-    <message>
-        <source>styless,no grid</source>
-        <translation type="obsolete">ohne Stil, kein Raster</translation>
-    </message>
-    <message>
-        <source>stylish,gridded</source>
-        <translation type="obsolete">mit Stil, Raster</translation>
-    </message>
-    <message>
-        <source>theme style</source>
-        <translation type="obsolete">Thema-Stil</translation>
-    </message>
     <message>
         <source>No Style, No Grid</source>
         <translation type="unfinished"></translation>
@@ -192,7 +115,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>1-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Style, Table Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -221,6 +152,30 @@
     </message>
     <message>
         <source>Dark Styl 2-Emphasize 5/Emphasize 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Column</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -293,10 +248,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Re&amp;place with:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Match &amp;case</source>
         <translation type="unfinished"></translation>
     </message>
@@ -314,7 +265,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
@@ -326,6 +277,10 @@
     </message>
     <message>
         <source>Fi&amp;nd What:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;place with:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -597,7 +552,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enhancements</source>
@@ -794,19 +749,15 @@
 <context>
     <name>KApplication</name>
     <message>
-        <source>Loading Core Module</source>
-        <translation type="obsolete">Kernmodul wird geladen</translation>
-    </message>
-    <message>
         <source>Loading KUI</source>
-        <translation>Benutzeroberfläche wird geladen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KCloseThumbnailCommand</name>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -872,7 +823,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automatisch</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1057,7 +1008,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply &amp;to All</source>
+        <source>&amp;Background fill</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1065,7 +1016,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>Apply &amp;to All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1073,11 +1024,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Background fill</source>
+        <source>I&amp;gnor the back ground of main</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I&amp;gnor the back ground of main</source>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1209,19 +1160,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
-    </message>
-    <message>
         <source>&amp;Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Set Spell language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1766,6 +1717,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Start With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start With:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home Pa&amp;ge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Doc&amp;ument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1787,7 +1754,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
@@ -1913,22 +1880,6 @@
         <source>Custom &amp;Dictionaries...</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Start With</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start With:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Home Pa&amp;ge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Doc&amp;ument</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -1941,19 +1892,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Browse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Also Packaged As Compressed File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Folder &amp;Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also Packaged As Compressed File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2045,7 +1996,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Po&amp;rtrait</source>
@@ -2095,7 +2046,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Replace with(&amp;w):</source>
@@ -2109,7 +2060,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Discard</source>
+        <source>Do you want to keep your ink annotations?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2117,7 +2068,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you want to keep your ink annotations?</source>
+        <source>&amp;Discard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2125,6 +2076,10 @@
     <name>KxDlgSlideShowHelp</name>
     <message>
         <source>Slide Show Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>During the slide show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2179,10 +2134,6 @@
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>During the slide show</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgSoundOptions</name>
@@ -2207,11 +2158,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File:</source>
+        <source>Total playing time:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Total playing time:</source>
+        <source>File:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2571,7 +2522,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -2748,7 +2699,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exporting document information...</source>
@@ -2926,19 +2877,7 @@
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Best Match</source>
-        <translation>Größte Entsprechung</translation>
-    </message>
-    <message>
-        <source>Deep</source>
-        <translation type="obsolete">Tief</translation>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="obsolete">Mittel</translation>
-    </message>
-    <message>
-        <source>Washy</source>
-        <translation type="obsolete">Verwaschen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light</source>
@@ -3037,23 +2976,23 @@
 <context>
     <name>KxRehearsalToolbar</name>
     <message>
+        <source>Rehearsal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next</source>
-        <translation>Nächster</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation>Anhalten</translation>
-    </message>
-    <message>
-        <source>Rehearsal</source>
-        <translation>Probe</translation>
-    </message>
-    <message>
-        <source>Repeat</source>
-        <translation>Wiederholen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3117,19 +3056,7 @@
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation>Beste Entsprechung</translation>
-    </message>
-    <message>
-        <source>Deep</source>
-        <translation type="obsolete">Tief</translation>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="obsolete">Mittel</translation>
-    </message>
-    <message>
-        <source>Washy</source>
-        <translation type="obsolete">Verwaschen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light</source>
@@ -3284,6 +3211,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>loop play, to the next voice began</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Advance slide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3319,10 +3250,6 @@
         <source>AutoPreview</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>loop play, to the next voice began</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
@@ -3338,16 +3265,16 @@
 <context>
     <name>KxTpTableStyle</name>
     <message>
-        <source>Clear Table Style</source>
-        <translation>Tabellenstil löschen</translation>
+        <source>Table Style:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation>Tabellenstil-Optionen:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Table Style:</source>
-        <translation>Tabellenstil:</translation>
+        <source>Clear Table Style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3489,22 +3416,22 @@
 <context>
     <name>KxWppColorModel</name>
     <message>
-        <source>Automatic</source>
-        <translation>Automatisch</translation>
+        <source>Custom Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom Color</source>
+        <source>Automatic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppColorSchemeDlg</name>
     <message>
-        <source> De&amp;lete Scheme </source>
+        <source> A&amp;dd As Standard Scheme </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> A&amp;dd As Standard Scheme </source>
+        <source> De&amp;lete Scheme </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3712,10 +3639,6 @@
 <context>
     <name>KxWppFillColorModel</name>
     <message>
-        <source>No Fill</source>
-        <translation type="obsolete">Keine Füllung</translation>
-    </message>
-    <message>
         <source>No Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3724,15 +3647,11 @@
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished">Ungültige Ganzzahl.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppLineColorModel</name>
-    <message>
-        <source>No Line Fill</source>
-        <translation type="obsolete">Keine Linienfüllung</translation>
-    </message>
     <message>
         <source>No Line</source>
         <translation type="unfinished"></translation>
@@ -3742,7 +3661,7 @@
     <name>KxWppPrintDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -3789,56 +3708,56 @@
     <name>KxWppTransModel</name>
     <message>
         <source>Transition Group 01</source>
-        <translation>Transition-Gruppe 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transition Group 02</source>
-        <translation>Transition-Gruppe 02</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transition Group 03</source>
-        <translation>Transition-Gruppe 03</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transition Group 04</source>
-        <translation>Transition-Gruppe 04</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transition Group 05</source>
-        <translation>Transition-Gruppe 05</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transition Group 06</source>
-        <translation>Transition-Gruppe 06</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppVpPodium</name>
     <message>
-        <source>Comment</source>
-        <translation>Kommentar</translation>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Outline</source>
-        <translation>Gliederung</translation>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppVpSlideNormal</name>
     <message>
         <source>Outline</source>
-        <translation>Gliederung</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation>Folien</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppZoomComboCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished">Ungültige Maßangabe.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3868,7 +3787,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package has been completed</source>
@@ -3881,274 +3800,6 @@
 </context>
 <context>
     <name>QObject</name>
-    <message>
-        <source>Blinds 1</source>
-        <translation type="unfinished">Blenden 1</translation>
-    </message>
-    <message>
-        <source>Blinds 2</source>
-        <translation type="unfinished">Blenden 2</translation>
-    </message>
-    <message>
-        <source>Box In</source>
-        <translation>Kasten einwärts</translation>
-    </message>
-    <message>
-        <source>Box Out</source>
-        <translation>Kasten auswärts</translation>
-    </message>
-    <message>
-        <source>By Background Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Caption Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text and Hyperlink Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text and Visited Hyperlink Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Filling Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Shadow Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Text and Line Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chess 1</source>
-        <translation type="unfinished">Schachbrett 1</translation>
-    </message>
-    <message>
-        <source>Chess 2</source>
-        <translation type="unfinished">Schachbrett 2</translation>
-    </message>
-    <message>
-        <source>Circle Out</source>
-        <translation>Kreis auswärts</translation>
-    </message>
-    <message>
-        <source>Comb 1</source>
-        <translation type="unfinished">Kamm 1</translation>
-    </message>
-    <message>
-        <source>Comb 2</source>
-        <translation type="unfinished">Kamm 2</translation>
-    </message>
-    <message>
-        <source>Cover 1</source>
-        <translation type="unfinished">Abdecken 1</translation>
-    </message>
-    <message>
-        <source>Cover 2</source>
-        <translation type="unfinished">Abdecken 2</translation>
-    </message>
-    <message>
-        <source>Cover 3</source>
-        <translation type="unfinished">Abdecken 3</translation>
-    </message>
-    <message>
-        <source>Cover 4</source>
-        <translation type="unfinished">Abdecken 4</translation>
-    </message>
-    <message>
-        <source>Cover Down</source>
-        <translation>Abdecken nach unten</translation>
-    </message>
-    <message>
-        <source>Cover Left</source>
-        <translation>Abdecken nach links</translation>
-    </message>
-    <message>
-        <source>Cover Right</source>
-        <translation>Abdecken nach rechts</translation>
-    </message>
-    <message>
-        <source>Cover Up</source>
-        <translation>Abdecken nach oben</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Ausschneiden</translation>
-    </message>
-    <message>
-        <source>Cut Black</source>
-        <translation>Ausschneiden schwarz</translation>
-    </message>
-    <message>
-        <source>Diamond Out</source>
-        <translation>Raute auswärts</translation>
-    </message>
-    <message>
-        <source>Dissolve</source>
-        <translation>Auflösen</translation>
-    </message>
-    <message>
-        <source>Fade</source>
-        <translation>Verblassen</translation>
-    </message>
-    <message>
-        <source>Fade Smooth</source>
-        <translation>Sanft verblassen</translation>
-    </message>
-    <message>
-        <source>News</source>
-        <translation>News</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Nichts</translation>
-    </message>
-    <message>
-        <source>Plus Out</source>
-        <translation>Plus auswärts</translation>
-    </message>
-    <message>
-        <source>Push Down</source>
-        <translation>Drücken nach unten</translation>
-    </message>
-    <message>
-        <source>Push Left</source>
-        <translation>Drücken nach links</translation>
-    </message>
-    <message>
-        <source>Push Right</source>
-        <translation>Drücken nach rechts</translation>
-    </message>
-    <message>
-        <source>Push Up</source>
-        <translation>Drücken nach oben</translation>
-    </message>
-    <message>
-        <source>Random</source>
-        <translation>Zufällig</translation>
-    </message>
-    <message>
-        <source>Random 1</source>
-        <translation type="unfinished">Zufällig 1</translation>
-    </message>
-    <message>
-        <source>Random 2</source>
-        <translation type="unfinished">Zufällig 2</translation>
-    </message>
-    <message>
-        <source>Split 1</source>
-        <translation type="unfinished">Teilen 1</translation>
-    </message>
-    <message>
-        <source>Split 2</source>
-        <translation type="unfinished">Teilen 2</translation>
-    </message>
-    <message>
-        <source>Split 3</source>
-        <translation type="unfinished">Teilen 3</translation>
-    </message>
-    <message>
-        <source>Split 4</source>
-        <translation type="unfinished">Teilen 4</translation>
-    </message>
-    <message>
-        <source>Strips 1</source>
-        <translation type="unfinished">Streifen 1</translation>
-    </message>
-    <message>
-        <source>Strips 2</source>
-        <translation type="unfinished">Streifen 2</translation>
-    </message>
-    <message>
-        <source>Strips 3</source>
-        <translation type="unfinished">Streifen 3</translation>
-    </message>
-    <message>
-        <source>Strips 4</source>
-        <translation type="unfinished">Streifen 4</translation>
-    </message>
-    <message>
-        <source>Uncover 1</source>
-        <translation type="unfinished">Aufdecken 1</translation>
-    </message>
-    <message>
-        <source>Uncover 2</source>
-        <translation type="unfinished">Aufdecken 2</translation>
-    </message>
-    <message>
-        <source>Uncover 3</source>
-        <translation type="unfinished">Aufdecken 3</translation>
-    </message>
-    <message>
-        <source>Uncover 4</source>
-        <translation type="unfinished">Aufdecken 4</translation>
-    </message>
-    <message>
-        <source>Uncover 5</source>
-        <translation type="unfinished">Aufdecken 5</translation>
-    </message>
-    <message>
-        <source>Uncover 6</source>
-        <translation type="unfinished">Aufdecken 6</translation>
-    </message>
-    <message>
-        <source>Uncover 7</source>
-        <translation type="unfinished">Aufdecken 7</translation>
-    </message>
-    <message>
-        <source>Uncover 8</source>
-        <translation type="unfinished">Aufdecken 8</translation>
-    </message>
-    <message>
-        <source>Wedge</source>
-        <translation>Keil</translation>
-    </message>
-    <message>
-        <source>Wheel 1</source>
-        <translation type="unfinished">Rad 1</translation>
-    </message>
-    <message>
-        <source>Wheel 2</source>
-        <translation type="unfinished">Rad 2</translation>
-    </message>
-    <message>
-        <source>Wheel 3</source>
-        <translation type="unfinished">Rad 3</translation>
-    </message>
-    <message>
-        <source>Wheel 4</source>
-        <translation type="unfinished">Rad 4</translation>
-    </message>
-    <message>
-        <source>Wheel 8</source>
-        <translation type="unfinished">Rad 8</translation>
-    </message>
-    <message>
-        <source>Wipe Down</source>
-        <translation>Wischen nach unten</translation>
-    </message>
-    <message>
-        <source>Wipe Left</source>
-        <translation>Wischen nach links</translation>
-    </message>
-    <message>
-        <source>Wipe Right</source>
-        <translation>Wischen nach rechts</translation>
-    </message>
-    <message>
-        <source>Wipe Up</source>
-        <translation>Wischen nach oben</translation>
-    </message>
     <message>
         <source>You can not use the date format that is inconsistent with the slide master language. The current date on the master is formatted for %1. To change the master, please click on &apos;Apply to All&apos; instead of &apos;Apply&apos;.</source>
         <translation type="unfinished"></translation>
@@ -4171,6 +3822,38 @@
     </message>
     <message>
         <source>Vietnamese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Background Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Text and Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Shadow Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Caption Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Filling Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Emphasize Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Emphasize Text and Hyperlink Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Emphasize Text and Visited Hyperlink Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4229,6 +3912,242 @@
         <source>OrgChart_Style_Double_Outline</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blinds 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blinds 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chess 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chess 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comb 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comb 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cut Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dissolve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diamond Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plus Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wedge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -4261,6 +4180,10 @@
     <name>TpWppCustomAnimation</name>
     <message>
         <source>Custom Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize Animation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4339,10 +4262,6 @@
         <source>AutoPreview</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Customize Animation:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>dialogstestClass</name>
@@ -4358,6 +4277,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save &amp;to</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4366,11 +4289,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>A&amp;ll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Current Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ustom shows:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4379,10 +4314,6 @@
     </message>
     <message>
         <source>Enter slide numbers or ranges.For example, 1,3,5-12</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close when e&amp;xport completes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4395,14 +4326,58 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished">Folien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Handouts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Notes Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color/&amp;grayscale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pure Black and White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slides p&amp;er page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>9</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4418,19 +4393,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>ICON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fra&amp;me slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color/&amp;grayscale:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4466,6 +4437,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Permission Print:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Printing not allowed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4490,63 +4465,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Normal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export Range</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Current Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C&amp;ustom shows:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Notes Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outline View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pure Black and White</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1</source>
-        <translation type="unfinished">2- {1?}</translation>
-    </message>
-    <message>
-        <source>2</source>
-        <translation type="unfinished">2- {2?}</translation>
-    </message>
-    <message>
-        <source>3</source>
-        <translation type="unfinished">2- {3?}</translation>
-    </message>
-    <message>
-        <source>4</source>
-        <translation type="unfinished">2- {4?}</translation>
-    </message>
-    <message>
-        <source>6</source>
-        <translation type="unfinished">2- {6?}</translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="unfinished">2- {9?}</translation>
-    </message>
-    <message>
-        <source>ICON</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission Print:</source>
+        <source>Close when e&amp;xport completes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

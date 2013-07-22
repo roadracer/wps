@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.0" language="sample">
 <context>
     <name>KApplication</name>
-    <message>
-        <source>Critical</source>
-        <translation type="obsolete">Kritisch</translation>
-    </message>
-    <message>
-        <source>Loading ui xml file is failed. For more information, please use KDebugConsole or read logs.</source>
-        <translation type="obsolete">Laden der UI-XML-Datei fehlgeschlagen. Für mehr Information bitte KDebug-Konsole verwenden oder Protokolle lesen.</translation>
-    </message>
     <message>
         <source>Trial Version</source>
         <translation type="unfinished"></translation>
@@ -59,11 +50,11 @@
     <name>KCommand</name>
     <message>
         <source>Undefined</source>
-        <translation>Undefiniert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Undefined Widget</source>
-        <translation>Undefiniertes Steuerelement</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -76,23 +67,16 @@
 <context>
     <name>KDocTabbarEx</name>
     <message>
-        <source>Add to</source>
+        <source>Customize Quick Access</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Customize Quick Access</source>
+        <source>Add to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Hide quick access</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KDragMenuBar</name>
-    <message>
-        <source>Menu Bar</source>
-        <translation type="obsolete">Menüleiste</translation>
     </message>
 </context>
 <context>
@@ -106,6 +90,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Reset personal template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Information</source>
         <translation type="unfinished"></translation>
     </message>
@@ -113,44 +101,40 @@
         <source>Settings will be effected after application restarted.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KMDIMaximizeCommand</name>
     <message>
         <source>Maximize</source>
-        <translation>Maximieren</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KMDIMinimizeCommand</name>
     <message>
         <source>Minimize</source>
-        <translation>Minimieren</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KMDINextCommand</name>
     <message>
         <source>Next</source>
-        <translation>Nächster</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
-        <translation>Wiederherstellen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -184,24 +168,17 @@
     </message>
 </context>
 <context>
-    <name>KRbFileMenu</name>
-    <message>
-        <source>Undefined.</source>
-        <translation type="obsolete">Undefiniert.</translation>
-    </message>
-</context>
-<context>
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>More commands</source>
+        <source>&amp;Show quick access</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Show quick access</source>
+        <source>More commands</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -228,7 +205,7 @@
     <name>KSystemMenuCommand</name>
     <message>
         <source>System Menu</source>
-        <translation>System-Menü</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -308,7 +285,7 @@ multiple=multiple
 <context>
     <name>QMainWindow</name>
     <message>
-        <source>Document List</source>
+        <source>Previous Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -316,65 +293,41 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous Document</source>
+        <source>Document List</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
-        <source>Close</source>
-        <translation>Schließen</translation>
-    </message>
-    <message>
-        <source>Maximize</source>
-        <translation>Maximieren</translation>
-    </message>
-    <message>
-        <source>Minimize</source>
-        <translation>Minimieren</translation>
+        <source>Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move</source>
-        <translation>Verschieben</translation>
-    </message>
-    <message>
-        <source>Restore</source>
-        <translation>Wiederherstellen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Größe</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>Caps Lock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CapsLock: Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CapsLock: On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear record from list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>NumLock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>NumLock: Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -382,11 +335,27 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open Folder</source>
+        <source>NumLock: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caps Lock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CapsLock: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CapsLock: Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OverWrite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear record from list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -399,6 +368,14 @@ multiple=multiple
     </message>
     <message>
         <source>Delete from the Listing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

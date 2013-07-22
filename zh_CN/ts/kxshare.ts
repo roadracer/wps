@@ -848,7 +848,7 @@
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">亚美尼亚语</translation>
     </message>
     <message>
         <source>Arrows</source>
@@ -1148,7 +1148,7 @@
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">泰米尔语</translation>
     </message>
     <message>
         <source>Telugu</source>
@@ -2494,6 +2494,17 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgPrinterProperties</name>
+    <message>
+        <source>Printer Properties</source>
+        <translation type="unfinished">打印机属性</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">属性</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgRbCustom</name>
     <message>
         <source>&amp;Add &gt;&gt;</source>
@@ -3707,11 +3718,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxPrinterProperties</name>
     <message>
         <source>Printer Properties</source>
-        <translation>打印机属性</translation>
+        <translation type="obsolete">打印机属性</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>属性</translation>
+        <translation type="obsolete">属性</translation>
     </message>
 </context>
 <context>

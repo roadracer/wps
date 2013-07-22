@@ -1830,6 +1830,10 @@ use buttons to apply borders</source>
         <source>&amp;Options</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Set Spell language</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgCheckboxFormField</name>
@@ -5254,6 +5258,26 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Make hidden markup &amp;visible when opening or saving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto convert straight &amp;quote to curly quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start With:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home Pa&amp;ge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -113,6 +113,10 @@
         <source>Settings will be effected after application restarted.</source>
         <translation>設置將在啟動後生效。</translation>
     </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMDICloseCommand</name>

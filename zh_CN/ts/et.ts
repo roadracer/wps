@@ -4119,6 +4119,10 @@ the same time allows workbook merging</source>
         <source>&amp;Options</source>
         <translation type="unfinished">选项(&amp;O)</translation>
     </message>
+    <message>
+        <source>&amp;Set Spell language</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgStyle</name>

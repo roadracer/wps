@@ -1969,7 +1969,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
   The field list name is blank by chance.
  
   The generated query failed.</source>
-        <translation>无法进行下一步操作，可能存在以下问题之一：
+        <translation type="obsolete">无法进行下一步操作，可能存在以下问题之一：
 
 1. 你还没有选择任何字段，请先在字段列表中进行选择。
 
@@ -1986,7 +1986,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
   The string you typed is not accordant with SQL grammar.
  
   The generated query is failed.</source>
-        <translation>无法进行下一步操作，可能存在以下问题之一：
+        <translation type="obsolete">无法进行下一步操作，可能存在以下问题之一：
 
 1. 查询字串为空。
 
@@ -1998,16 +1998,47 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     <message>
         <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
 </source>
-        <translation> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
+        <translation type="obsolete"> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
 </translation>
     </message>
     <message>
         <source>Select fields from the left list, then click &quot;Add to the list&quot;.
 Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
 Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
-        <translation>    在左边列表中按优先级选择需要进行排序的字段然后点击“添加到列表”按钮。
+        <translation type="obsolete">    在左边列表中按优先级选择需要进行排序的字段然后点击“添加到列表”按钮。
     在右边进行筛选条件的设定然后点击“添加到列表”添加筛选条件。
     注意：第二算数如果要将数字串作为字符串进行查询，需要在两头手工添加单引号(&apos; &apos;)。</translation>
+    </message>
+    <message>
+        <source>You cannot perform next operation due to one of the following reasons:
+ 
+ You haven&apos;t selected any field, please select fields from fields list first.
+ 
+  The field list name is blank by chance.
+ 
+  The generated query failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot perform next operation due to one of the following reasons:
+ 
+  The query string is blank.
+ 
+  The string you typed is not accordant with SQL grammar.
+ 
+  The generated query is failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select fields from the left list, then click &quot;Add to the list&quot;.
+Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
+Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9121,7 +9152,7 @@ There are several possible reasons:
         <source>The entered value is invalid.
 
 The values which can be typed here is restricted by other users.</source>
-        <translation>输入值非法。
+        <translation type="obsolete">输入值非法。
 
 其他用户已经限定了可以输入单元格的数值。</translation>
     </message>
@@ -9129,9 +9160,21 @@ The values which can be typed here is restricted by other users.</source>
         <source>
 
 Continue ?</source>
-        <translation>
+        <translation type="obsolete">
 
 是否继续？</translation>
+    </message>
+    <message>
+        <source>The entered value is invalid.
+
+The values which can be typed here is restricted by other users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Continue ?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

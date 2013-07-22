@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_TW">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.0" language="sample">
 <context>
     <name>BackFilePanel</name>
     <message>
         <source>(Recommend to restore)</source>
-        <translation>(推薦)</translation>
-    </message>
-    <message>
-        <source>Backup in %1</source>
-        <translation>於 %1 備份</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save in %1</source>
-        <translation>於 %1 存檔</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -92,39 +91,39 @@
 <context>
     <name>KApplication</name>
     <message>
-        <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation>最新版本的升級程式已為您準備好，是否立即安裝？</translation>
+        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
-        <translation>安裝程式或升級程式正在安裝中，%1 將退出，請等待安裝或升級結束後再運行 %2</translation>
+        <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KAvailableCharSetInfoMap</name>
     <message>
+        <source>Unicode(HEX)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ASCII(DEC)</source>
-        <translation>ASCII(十進位)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ASCII(HEX)</source>
-        <translation>ASCII(十六進制)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
-        <translation>簡體中文 GB2312(十六進制)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol(DEC)</source>
-        <translation>Symbol(十進位)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol(HEX)</source>
-        <translation>Symbol(十六進制)</translation>
-    </message>
-    <message>
-        <source>Unicode(HEX)</source>
-        <translation>Unicode(十六進制)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -183,7 +182,7 @@
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished">開新查詢...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Current</source>
@@ -197,82 +196,6 @@
 <context>
     <name>KCommand</name>
     <message>
-        <source>Explor Version</source>
-        <translation type="obsolete">查看版本</translation>
-    </message>
-    <message>
-        <source>Hey, click here to switch interface styles!</source>
-        <translation type="obsolete">嗨，點擊這裏。可以更改不同的介面風格!</translation>
-    </message>
-    <message>
-        <source>Login klive before active auto backup.</source>
-        <translation type="obsolete">開啟自動備份前，請先登錄您的檔保險箱</translation>
-    </message>
-    <message>
-        <source>Login klive before auto backup.</source>
-        <translation type="obsolete">正在執行自動備份，需要您先登錄檔保險箱</translation>
-    </message>
-    <message>
-        <source>Login klive before cancel auto backup.</source>
-        <translation type="obsolete">取消自動備份前，請先登錄您的檔保險箱</translation>
-    </message>
-    <message>
-        <source>Login klive before delete file.</source>
-        <translation type="obsolete">刪除備份檔前，請先登錄您的檔保險箱</translation>
-    </message>
-    <message>
-        <source>Login klive before explor backup dir.</source>
-        <translation type="obsolete">查看檔保險箱前，請先登錄您的檔保險箱</translation>
-    </message>
-    <message>
-        <source>Login klive before explor version.</source>
-        <translation type="obsolete">查看歷史備份前，請先登錄您的檔保險箱</translation>
-    </message>
-    <message>
-        <source>Login klive before mark version.</source>
-        <translation type="obsolete">手動備份前，請先登錄您的檔保險箱</translation>
-    </message>
-    <message>
-        <source>Login klive before open file.</source>
-        <translation type="obsolete">打開備份的檔前，請先登錄您的檔保險箱</translation>
-    </message>
-    <message>
-        <source>Mark Version</source>
-        <translation type="obsolete">手動備份</translation>
-    </message>
-    <message>
-        <source>There has no versioned dir,please backup first.</source>
-        <translation type="obsolete">備份目錄下未發現本文件的備份。可能是因為：&lt;br /&gt;1、本文件還未在當前電腦上執行過自動備份等操作。&lt;br /&gt;2、備份檔曾經被手工清除了</translation>
-    </message>
-    <message>
-        <source>There has no versioned file,please backup first.</source>
-        <translation type="obsolete">備份目錄下未發現本文件的備份。可能是因為：&lt;br /&gt;1、本文件還未在當前電腦上執行過自動備份等操作。&lt;br /&gt;2、備份檔曾經被手工清除了</translation>
-    </message>
-    <message>
-        <source>This doc has&apos;t actived auto back up.</source>
-        <translation type="obsolete">本檔案未開啟自動備份，也未曾手動備份，無法查看其備份檔</translation>
-    </message>
-    <message>
-        <source>WPSVersionBackup</source>
-        <translation type="obsolete">KingSoft自動備份</translation>
-    </message>
-    <message>
-        <source>You doctument is versioned now !&lt;br /&gt;&lt;a href=&quot;http://bbs.wps.cn/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;</source>
-        <translation type="obsolete">本檔案已經啟動了【自動備份】，&lt;br/&gt;每次關閉時將自動儲存備份檔&lt;br/&gt;到您的辦公空間。&lt;br /&gt;;&lt;a href=&apos;http://bbs.wps.cn/thread-22272827-1-1.html&apos;&gt;如何關閉&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>important!don&apos;t delete this directory.txt</source>
-        <translation type="obsolete">【重要】這裏是KingSoft檔保險箱目錄，請不要刪除.txt</translation>
-    </message>
-    <message>
-        <source>netbackup recover file</source>
-        <translation type="obsolete">備份還原檔</translation>
-    </message>
-    <message>
-        <source>netbackup rollback fail.</source>
-        <translation type="obsolete">無法將檔案恢復到之前狀態,將重新打開原來檔案</translation>
-    </message>
-    <message>
         <source>Desktop</source>
         <translation type="unfinished"></translation>
     </message>
@@ -282,7 +205,7 @@
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation type="unfinished">介面配置更改將在下次啟動KingSoft Office時生效</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hey, click here to switch user interface!</source>
@@ -300,7 +223,7 @@
     <name>KControlsListWidget</name>
     <message>
         <source>%1 controls</source>
-        <translation>%1 個控制項</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -314,7 +237,7 @@
     <name>KDlgCrashUpload</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">表單</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
@@ -330,7 +253,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload now</source>
@@ -340,47 +263,23 @@
 <context>
     <name>KDlgSwitchFace</name>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation>確定</translation>
-    </message>
-    <message>
-        <source>2012 Style Interface</source>
-        <translation>2012 風格</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation>Alt+C</translation>
-    </message>
-    <message>
         <source>Change Interface Style</source>
-        <translation>更改介面</translation>
-    </message>
-    <message>
-        <source>Classic Style Interface</source>
-        <translation>經典風格</translation>
-    </message>
-    <message>
-        <source>Interface Layout</source>
-        <translation type="obsolete">介面配置</translation>
-    </message>
-    <message>
-        <source>Layout changes will take effect after restart.</source>
-        <translation>介面配置更改將在下次啟動KingSoft Office時生效</translation>
-    </message>
-    <message>
-        <source>Restart Office to apply the layout.</source>
-        <translation>重新啟動Office, 讓介面配置生效</translation>
-    </message>
-    <message>
-        <source>Theme Scheme</source>
-        <translation>配色方案</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2012 Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2012 Style Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic Style Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theme Scheme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -393,6 +292,26 @@
     </message>
     <message>
         <source>Win8 Metro Style Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart Office to apply the layout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout changes will take effect after restart.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+C</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -437,7 +356,7 @@
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">密碼(&amp;P):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Read Only</source>
@@ -451,36 +370,36 @@
 <context>
     <name>KInsertSymbolDlg</name>
     <message>
-        <source>&amp;Insert</source>
-        <translation>插入(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Symbols</source>
-        <translation>符號(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
+        <source>Symbol</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>關閉</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cus&amp;tom Symbols</source>
-        <translation>自定義符號(&amp;T)</translation>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert to Custom S&amp;ymbols</source>
-        <translation>插入到自定義符號(&amp;Y)</translation>
+        <source>&amp;Symbols</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation>特殊字元(&amp;P)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Symbol</source>
-        <translation>符號</translation>
+        <source>Cus&amp;tom Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert to Custom S&amp;ymbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -520,64 +439,52 @@
 <context>
     <name>KRegisterDlg</name>
     <message>
-        <source>Initi&amp;als:</source>
-        <translation>縮寫(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Organization:</source>
-        <translation>組織(&amp;O)</translation>
-    </message>
-    <message>
-        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
-        <translation>（“姓名”將是您的檔案的作者名字和備註內容的備註名字）</translation>
-    </message>
-    <message>
-        <source>* &amp;Name:</source>
-        <translation>* 名稱(&amp;N):</translation>
-    </message>
-    <message>
-        <source>* &amp;Serial No.:</source>
-        <translation>* 序號(&amp;S):</translation>
+        <source>The items with &quot;*&quot; must be inputted.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Documents&apos; Author</source>
-        <translation>檔案用戶資訊</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation>序號存檔失敗，請確認您是否有管理員許可權</translation>
+        <source>* &amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Initi&amp;als:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Organization:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* &amp;Serial No.:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>確定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The items with &quot;*&quot; must be inputted.</source>
-        <translation>帶（*）號的專案必須輸入</translation>
+        <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation>您輸入的序號經驗證為無效序號，請仔細核對輸入格式，序號所支持版本及有效日期！</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You&apos;ve reached the maximum retry steps, program will terminate.</source>
-        <translation>您的輸入不正確，程式將退出</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KShowMoreWindowDlg</name>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>確定</translation>
-    </message>
-    <message>
-        <source>Compare Side by Side</source>
-        <translation type="obsolete">選定視窗</translation>
-    </message>
     <message>
         <source>Compare Side by Side Window</source>
         <translation type="unfinished"></translation>
@@ -595,6 +502,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Active Window:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -602,141 +517,141 @@
 <context>
     <name>KSpecialCharInfos</name>
     <message>
-        <source>Copyright</source>
-        <translation>版權所有</translation>
-    </message>
-    <message>
-        <source>Double Closing Quote</source>
-        <translation>右雙引號</translation>
-    </message>
-    <message>
-        <source>Double Opening Quote</source>
-        <translation>左雙引號</translation>
-    </message>
-    <message>
-        <source>Ellipsis</source>
-        <translation>省略符號</translation>
-    </message>
-    <message>
         <source>Em Dash</source>
-        <translation>長破折號</translation>
-    </message>
-    <message>
-        <source>Em Space</source>
-        <translation>長破折號間距</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>En Dash</source>
-        <translation>短破折號</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Em Space</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>En Space</source>
-        <translation>短破折號間距</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
-        <translation>不分行空格</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paragraph</source>
-        <translation>段落</translation>
+        <source>Copyright</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Registered</source>
-        <translation>已註冊</translation>
-    </message>
-    <message>
-        <source>Section</source>
-        <translation>區段</translation>
-    </message>
-    <message>
-        <source>Single Closing Quote</source>
-        <translation>右單引號</translation>
-    </message>
-    <message>
-        <source>Single Opening Quote</source>
-        <translation>左單引號</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Trademark</source>
-        <translation>商標</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipsis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single Opening Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single Closing Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Opening Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Closing Quote</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KSpecialCharTabWidget</name>
     <message>
         <source>&amp;Characters:</source>
-        <translation>字元數(&amp;C)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KSymbolBarTabWidget</name>
     <message>
-        <source>&amp;Remove</source>
-        <translation>移除(&amp;R)</translation>
-    </message>
-    <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation>是否重設符號工具列？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
-        <translation>自定義符號(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Move &amp;Down</source>
-        <translation>下移(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Move &amp;Up</source>
-        <translation>上移(&amp;U)</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>無</translation>
-    </message>
-    <message>
-        <source>R&amp;eset Symbol Toolbar</source>
-        <translation>重設符號工具列(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Shortcut &amp;keys:</source>
-        <translation>快速鍵(&amp;K):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation>快速鍵:</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut &amp;keys:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
-        <translation>指定快速鍵(&amp;H)</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move &amp;Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move &amp;Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;eset Symbol Toolbar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KSymbolTabWidget</name>
     <message>
-        <source>&amp;Character code:</source>
-        <translation>字元代碼(&amp;C)</translation>
+        <source>(Normal Text)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>字型(&amp;F):</translation>
-    </message>
-    <message>
-        <source>&amp;Recently used symbols:</source>
-        <translation>最近使用過的符號(&amp;R):</translation>
-    </message>
-    <message>
-        <source>(Normal Text)</source>
-        <translation>(標準文字)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation>子集合(&amp;U):</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Recently used symbols:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Character code:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation>從(&amp;M):</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -757,340 +672,340 @@
 <context>
     <name>KUnicodeSubsetInfoMap</name>
     <message>
-        <source>Alphabetic Presentation Forms</source>
-        <translation>拼音文字變形顯現形式</translation>
-    </message>
-    <message>
-        <source>Arabic Presentation Forms-A</source>
-        <translation>阿拉伯文變形顯現形式-A</translation>
-    </message>
-    <message>
-        <source>Arabic Presentation Forms-B</source>
-        <translation>阿拉伯文變形顯現形式-B</translation>
-    </message>
-    <message>
-        <source>Armenian</source>
-        <translation>亞美尼亞文</translation>
-    </message>
-    <message>
-        <source>Arrows</source>
-        <translation>箭號</translation>
-    </message>
-    <message>
-        <source>Basic Arabic</source>
-        <translation>基本阿拉伯文</translation>
-    </message>
-    <message>
-        <source>Basic Georgian</source>
-        <translation>基本格魯吉亞文</translation>
-    </message>
-    <message>
-        <source>Basic Greek</source>
-        <translation>基本希臘文</translation>
-    </message>
-    <message>
-        <source>Basic Hebrew</source>
-        <translation>基本希伯來文</translation>
-    </message>
-    <message>
         <source>Basic Latin</source>
-        <translation>基本拉丁文</translation>
-    </message>
-    <message>
-        <source>Bengali</source>
-        <translation>孟加拉文</translation>
-    </message>
-    <message>
-        <source>Block Elements</source>
-        <translation>方塊元素</translation>
-    </message>
-    <message>
-        <source>Bopomofo</source>
-        <translation>漢文拼音</translation>
-    </message>
-    <message>
-        <source>Box Drawing</source>
-        <translation>繪圖方塊</translation>
-    </message>
-    <message>
-        <source>Braille</source>
-        <translation>點字</translation>
-    </message>
-    <message>
-        <source>CJK Compatibility</source>
-        <translation>CJK 相容字元</translation>
-    </message>
-    <message>
-        <source>CJK Compatibility Forms</source>
-        <translation>CJK 相容形式</translation>
-    </message>
-    <message>
-        <source>CJK Compatibility Ideographs</source>
-        <translation>CJK 相容漢字</translation>
-    </message>
-    <message>
-        <source>CJK Miscellaneous</source>
-        <translation>CJK 其他</translation>
-    </message>
-    <message>
-        <source>CJK Radicals Supplement</source>
-        <translation>CJK 偏旁部首補充</translation>
-    </message>
-    <message>
-        <source>CJK Symbols and Punctuation</source>
-        <translation>CJK 符號和標點符號</translation>
-    </message>
-    <message>
-        <source>CJK Unified Ideograph Extension A</source>
-        <translation>CJK統一漢字擴充A</translation>
-    </message>
-    <message>
-        <source>CJK Unified Ideographs</source>
-        <translation>CJK 統一漢字</translation>
-    </message>
-    <message>
-        <source>Canadian Aboriginal Syllabics</source>
-        <translation>加拿大原住民音節</translation>
-    </message>
-    <message>
-        <source>Cherokee</source>
-        <translation>切羅基文</translation>
-    </message>
-    <message>
-        <source>Combining Diacritical Marks</source>
-        <translation>組合用發音符號</translation>
-    </message>
-    <message>
-        <source>Combining Diacritical Marks for Symbols</source>
-        <translation>符號的組合分音記號</translation>
-    </message>
-    <message>
-        <source>Combining Half Marks</source>
-        <translation>組合的半標記</translation>
-    </message>
-    <message>
-        <source>Control Pictures</source>
-        <translation>圖案配置</translation>
-    </message>
-    <message>
-        <source>Currency Symbols</source>
-        <translation>貨幣符號</translation>
-    </message>
-    <message>
-        <source>Cyrillic</source>
-        <translation>斯拉夫文</translation>
-    </message>
-    <message>
-        <source>Devanagari</source>
-        <translation>梵文</translation>
-    </message>
-    <message>
-        <source>Dingbats</source>
-        <translation>裝飾標誌</translation>
-    </message>
-    <message>
-        <source>Enclosed Alphanumerics</source>
-        <translation>帶括弧的字母數字</translation>
-    </message>
-    <message>
-        <source>Enclosed CJK Letters and Months</source>
-        <translation>帶括弧的CJK 字母和月份</translation>
-    </message>
-    <message>
-        <source>Ethiopic</source>
-        <translation>衣索比亞文</translation>
-    </message>
-    <message>
-        <source>Extended Bopomofo</source>
-        <translation>擴展注音</translation>
-    </message>
-    <message>
-        <source>General Punctuation</source>
-        <translation>一般標點</translation>
-    </message>
-    <message>
-        <source>Geometric Shapes</source>
-        <translation>幾何圖形符號</translation>
-    </message>
-    <message>
-        <source>Greek Extended</source>
-        <translation>希臘文擴充</translation>
-    </message>
-    <message>
-        <source>Gujarati</source>
-        <translation>古吉拉特文</translation>
-    </message>
-    <message>
-        <source>Gurmukhi</source>
-        <translation>果魯穆奇文</translation>
-    </message>
-    <message>
-        <source>Halfwidth and Fullwidth Forms</source>
-        <translation>半型和全型字元</translation>
-    </message>
-    <message>
-        <source>Hangul</source>
-        <translation>諺文</translation>
-    </message>
-    <message>
-        <source>Hangul Compatibility Jamo</source>
-        <translation>諺文相容字母</translation>
-    </message>
-    <message>
-        <source>Hangul Jamo</source>
-        <translation>諺文字母</translation>
-    </message>
-    <message>
-        <source>Hiragana</source>
-        <translation>平假名</translation>
-    </message>
-    <message>
-        <source>IPA Extensions</source>
-        <translation>國際音標擴展</translation>
-    </message>
-    <message>
-        <source>Ideographic description</source>
-        <translation>象形文字</translation>
-    </message>
-    <message>
-        <source>Kangxi Radicals</source>
-        <translation>康熙字根</translation>
-    </message>
-    <message>
-        <source>Kannada</source>
-        <translation>卡納達文</translation>
-    </message>
-    <message>
-        <source>Katakana</source>
-        <translation>片假名</translation>
-    </message>
-    <message>
-        <source>Khmer</source>
-        <translation>高棉文</translation>
-    </message>
-    <message>
-        <source>Lao</source>
-        <translation>老撾文</translation>
-    </message>
-    <message>
-        <source>Latin Extended Additional</source>
-        <translation>拉丁文擴充</translation>
-    </message>
-    <message>
-        <source>Latin Extended-A</source>
-        <translation>拉丁文擴展-A</translation>
-    </message>
-    <message>
-        <source>Latin Extended-B</source>
-        <translation>拉丁文擴展-B</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Latin-1 Supplement</source>
-        <translation>拉丁文-1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Letter-like Symbols</source>
-        <translation>似字母符號</translation>
+        <source>Latin Extended-A</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Malayalam</source>
-        <translation>馬來文</translation>
+        <source>Latin Extended-B</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mathematical Operators</source>
-        <translation>數學運算符號</translation>
-    </message>
-    <message>
-        <source>Miscellaneous Symbols</source>
-        <translation>其它符號</translation>
-    </message>
-    <message>
-        <source>Miscellaneous Technical</source>
-        <translation>其他技術用符號</translation>
-    </message>
-    <message>
-        <source>Mongolian</source>
-        <translation>蒙古文</translation>
-    </message>
-    <message>
-        <source>Myanmar</source>
-        <translation>緬甸文</translation>
-    </message>
-    <message>
-        <source>Number Forms</source>
-        <translation>數字格式</translation>
-    </message>
-    <message>
-        <source>Ogham</source>
-        <translation>歐甘文</translation>
-    </message>
-    <message>
-        <source>Optical Character Recognition</source>
-        <translation>光學字符識別</translation>
-    </message>
-    <message>
-        <source>Oriya</source>
-        <translation>奧里亞文</translation>
-    </message>
-    <message>
-        <source>Private Use Area</source>
-        <translation>專用區</translation>
-    </message>
-    <message>
-        <source>Runic</source>
-        <translation>符文</translation>
-    </message>
-    <message>
-        <source>Sinhala</source>
-        <translation>僧伽羅文</translation>
-    </message>
-    <message>
-        <source>Small Form Variants</source>
-        <translation>小寫變體</translation>
+        <source>IPA Extensions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spacing Modifier Letters</source>
-        <translation>間隔的修飾字元</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Specials</source>
-        <translation>特殊格式</translation>
+        <source>Combining Diacritical Marks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Subscripts and Superscripts</source>
-        <translation>上下標</translation>
+        <source>Basic Greek</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Surrogates</source>
-        <translation>代理人</translation>
+        <source>Cyrillic</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Syriac</source>
-        <translation>敘利亞文</translation>
+        <source>Armenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Arabic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Devanagari</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bengali</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gurmukhi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gujarati</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Oriya</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation>坦米爾文</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation>特拉古文</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thaana</source>
-        <translation>塔安那文</translation>
+        <source>Kannada</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malayalam</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation>泰文</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Georgian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hangul Jamo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latin Extended Additional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greek Extended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General Punctuation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscripts and Superscripts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currency Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combining Diacritical Marks for Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Letter-like Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number Forms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mathematical Operators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Miscellaneous Technical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optical Character Recognition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enclosed Alphanumerics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box Drawing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block Elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometric Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Miscellaneous Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dingbats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CJK Symbols and Punctuation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hiragana</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Katakana</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bopomofo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extended Bopomofo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hangul Compatibility Jamo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CJK Miscellaneous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enclosed CJK Letters and Months</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CJK Compatibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hangul</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Surrogates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CJK Unified Ideographs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CJK Radicals Supplement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kangxi Radicals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ideographic description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CJK Unified Ideograph Extension A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private Use Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CJK Compatibility Ideographs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alphabetic Presentation Forms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic Presentation Forms-A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combining Half Marks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CJK Compatibility Forms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small Form Variants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic Presentation Forms-B</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Halfwidth and Fullwidth Forms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specials</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation>藏文</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syriac</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thaana</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sinhala</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Myanmar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ethiopic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cherokee</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canadian Aboriginal Syllabics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ogham</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Runic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Khmer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mongolian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Braille</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yi Radicals</source>
-        <translation>彝文字母</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1144,46 +1059,46 @@
     <name>KxApplication</name>
     <message>
         <source>Critical</source>
-        <translation>注意</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading UI xml file is failed. For more information, please use KDebugConsole or read logs.</source>
-        <translation>載入UI XML檔案失敗！詳情請查閱日誌或使用KDebugConsole</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxAutoShapePanel</name>
     <message>
-        <source>Action Buttons</source>
-        <translation>動作按鈕</translation>
-    </message>
-    <message>
-        <source>Block Arrows</source>
-        <translation>箭頭總匯</translation>
-    </message>
-    <message>
-        <source>Callouts</source>
-        <translation>註解</translation>
+        <source>Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation>連接符號</translation>
-    </message>
-    <message>
-        <source>Flowchart</source>
-        <translation>流程圖</translation>
-    </message>
-    <message>
-        <source>Lines</source>
-        <translation>座標軸</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation>基本形狀</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flowchart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation>星與旗幟</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Callouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action Buttons</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1256,7 +1171,7 @@
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation>關閉</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1297,12 +1212,12 @@
 <context>
     <name>KxColorGalleryModel</name>
     <message>
-        <source>Standard Colors</source>
-        <translation>標準色彩</translation>
+        <source>Theme Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Theme Colors</source>
-        <translation>背景顏色</translation>
+        <source>Standard Colors</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1354,7 +1269,7 @@
     <name>KxCustomToolBarCmd</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">對話方塊(D)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Command &amp;Bars</source>
@@ -1479,7 +1394,7 @@
     <name>KxCustomToolBarTB</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">表單</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tool&amp;bars:</source>
@@ -1592,11 +1507,11 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -1604,7 +1519,7 @@
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">移除(&amp;R)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Location:</source>
@@ -1670,11 +1585,11 @@
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">移除(&amp;R)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>path</source>
@@ -1716,7 +1631,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1727,7 +1642,7 @@
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">字型(&amp;F):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -1737,7 +1652,7 @@
         <source>&amp;Text:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -1893,7 +1808,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished">金色</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>GoldII</source>
@@ -1925,7 +1840,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished">綠色</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Coffee</source>
@@ -1936,8 +1851,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>CurtainOfNight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Red</source>
-        <translation type="unfinished">紅色</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shading styles</source>
@@ -2019,10 +1938,6 @@ p, li { white-space: pre-wrap; }
         <source>Rotate fill effect &amp;with shape</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>CurtainOfNight</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgFormatShape</name>
@@ -2034,24 +1949,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxDlgGenerally</name>
     <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
-        <translation>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</translation>
-    </message>
-    <message>
         <source>Dialog</source>
-        <translation>對話方塊(D)</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation>否</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number of services and features</source>
-        <translation>現在嘗試專業版，享受更多的服務和功能</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>是</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2108,87 +2023,87 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInsertSymbol</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished">符號</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation type="unfinished">符號(&amp;S)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">字型(&amp;F):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation type="unfinished">子集合(&amp;U):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation type="unfinished">最近使用過的符號(&amp;R):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Character code:</source>
-        <translation type="unfinished">字元代碼(&amp;C)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation type="unfinished">從(&amp;M):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation type="unfinished">特殊字元(&amp;P)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Characters:</source>
-        <translation type="unfinished">字元數(&amp;C)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
-        <translation type="unfinished">自定義符號(&amp;T)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
-        <translation type="unfinished">自定義符號(&amp;O)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation type="unfinished">快速鍵:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation type="unfinished">快速鍵(&amp;K):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
-        <translation type="unfinished">指定快速鍵(&amp;H)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation type="unfinished">下移(&amp;D)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished">上移(&amp;U)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">移除(&amp;R)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
-        <translation type="unfinished">重設符號工具列(&amp;E)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
-        <translation type="unfinished">插入到自定義符號(&amp;Y)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">插入(&amp;I)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2328,39 +2243,39 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
-        <translation>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</translation>
-    </message>
-    <message>
         <source>Dialog</source>
-        <translation>對話方塊(D)</translation>
-    </message>
-    <message>
-        <source>Enter Viewer Mode</source>
-        <translation>進入瀏覽模式</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>文字標籤</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thanks for using Kingsoft Office 2012 Beta2.</source>
-        <translation>感謝您使用KingSoft Office 2012 Beta2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The trial period of your Kingsoft Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of Kingsoft Office.</source>
-        <translation>您使用的該Beta版本試用到期，您可選擇瀏覽模式（瀏覽模式不能進行鍵盤輸入）繼續使用或者升級到最新個人版</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update Now</source>
-        <translation>立即更新</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Viewer Mode</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDockPaneTitle</name>
     <message>
         <source>Close</source>
-        <translation>關閉</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2416,11 +2331,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxFeekbackCommand</name>
     <message>
         <source>No E-Mail Client!</source>
-        <translation>未安裝郵件客戶端！</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>使用者意見反應</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2689,7 +2604,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxFontSizeComboboxCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>無效的整數值</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2718,89 +2633,89 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxGDocsExplorer</name>
     <message>
-        <source>&amp;Refresh</source>
-        <translation>重新整理(&amp;R)</translation>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation>開啟</translation>
+        <source>&amp;Refresh</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxGDocsLoginDlg</name>
     <message>
-        <source>&amp;Password:</source>
-        <translation>密碼(&amp;P):</translation>
-    </message>
-    <message>
-        <source>&amp;Save Acount</source>
-        <translation>Save Acount(&amp;S)</translation>
+        <source>Google Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;UserName:</source>
-        <translation>使用者名稱(&amp;U):</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation>驗證碼：</translation>
-    </message>
-    <message>
-        <source>Failed to get captcha image!</source>
-        <translation>無法取得驗證碼圖案!</translation>
-    </message>
-    <message>
-        <source>Google Docs</source>
-        <translation>Google文件</translation>
-    </message>
-    <message>
-        <source>Network Error!Failed to get File List!</source>
-        <translation>網路連線失敗！無法取得文件列表！</translation>
-    </message>
-    <message>
-        <source>Network Error! Login failed!</source>
-        <translation>網路連結失敗！登錄失敗！</translation>
-    </message>
-    <message>
-        <source>Username or password is invalid!</source>
-        <translation>使用者名稱或密碼無效！</translation>
-    </message>
-    <message>
-        <source>Username or password is empty!</source>
-        <translation>使用者名稱或密碼是空的！</translation>
-    </message>
-    <message>
-        <source>change a captcha!</source>
-        <translation>更新驗證碼！</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>login...</source>
-        <translation>登入...</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save Acount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>change a captcha!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username or password is empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username or password is invalid!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network Error! Login failed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get captcha image!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network Error!Failed to get File List!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxGDocsModel</name>
     <message>
         <source>Document Name</source>
-        <translation>文件名稱</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Modified Date</source>
-        <translation>上次修改日期</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxGDocsModule</name>
     <message>
-        <source>Failed to create file! File may be opened or no permission to create file!</source>
-        <translation>檔案建立失敗！檔案已開啟或沒有建立檔案的權限！</translation>
-    </message>
-    <message>
         <source>Network Error! Open file failed!</source>
-        <translation>網路連結失敗！開啟檔案失敗！</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Network Error! Upload file failed!</source>
-        <translation>網路連結失敗！ 上傳檔案失敗!</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create file! File may be opened or no permission to create file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2848,11 +2763,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxInputDialogCommand</name>
     <message>
-        <source>Custom:</source>
-        <translation>自訂:</translation>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom</source>
+        <source>Custom:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2950,57 +2865,57 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxInsertSymbolDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">無</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(Normal Text)</source>
-        <translation type="unfinished">(標準文字)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation type="unfinished">是否重設符號工具列？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
-        <translation>無法執行巨集 &apos;%1&apos;。該巨集可能無法在此活頁簿中使用,或者已停用所有巨集。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxMacroCommand</name>
     <message>
-        <source>Click to try it now.</source>
-        <translation>按一下開始試用</translation>
+        <source>To work with macros, please purchase Kingsoft Office Professional.
+</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>下載 </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No</source>
-        <translation>否</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To work with macros, please purchase Kingsoft Office Professional.
-</source>
-        <translation>若要使用巨集，請購買KingSoft Office專業版。</translation>
+        <source>Click to try it now.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxMainWindow</name>
     <message>
         <source>New</source>
-        <translation type="unfinished">開新查詢...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Undo</source>
@@ -3015,7 +2930,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxModifyCommandDlg</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">表單</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Appearance</source>
@@ -3168,32 +3083,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxOverdueDlg</name>
     <message>
-        <source>Disable Print</source>
-        <translation>停用列印</translation>
-    </message>
-    <message>
-        <source>Enter Viewer</source>
-        <translation>進入瀏覽模式</translation>
-    </message>
-    <message>
-        <source>Input Serial Nummber</source>
-        <translation>輸入序號</translation>
-    </message>
-    <message>
-        <source>Kingsoft Online Store.</source>
-        <translation>KingSoft線上服務</translation>
-    </message>
-    <message>
-        <source>Thank you for using the trial version of our product.</source>
-        <translation>感謝您使用本產品</translation>
+        <source>Your Kingsoft Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your Kingsoft Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
-        <translation>您使用的KingSoft Office已過試用期，將停止列印功能。請輸入正式的序號，或者點擊下方連結，購買正式序號</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your Kingsoft Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>因為您使用的KingSoft Office已過試用期，所以以後您本機的KingSoft Office將變為不能進行編輯的瀏覽模式。如果您輸入購買的序號，將可以使用全部功能。您可以點擊下方連結，以查看最新的產品資訊</translation>
+        <source>Thank you for using the trial version of our product.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Online Store.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input Serial Nummber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Print</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update to Personal</source>
@@ -3361,7 +3276,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished">區段</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Client</source>
@@ -3429,11 +3344,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">是</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">否</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your input data do not match the type specified, value should be text!</source>
@@ -3522,11 +3437,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxRecentFileManageDlg</name>
     <message>
-        <source>&amp;Open</source>
+        <source>Delete Record</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete Record</source>
+        <source>&amp;Open</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3534,14 +3449,14 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxRecentFilePageCommand</name>
     <message>
         <source>Can not find the folder &quot;%1&quot;, it may be deleted, moved or renamed </source>
-        <translation>無法找到目錄 &quot;%1&quot;，該目錄有可能已被刪除，移動或者重新命名</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3554,11 +3469,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxStartup</name>
     <message>
-        <source>Could not complete the process because a modal dialog is open! Click OK to close the dialog and try again.</source>
-        <translation>對話框打開時命令無法執行。單擊“確定”，然後關閉對話框再試</translation>
+        <source> is not a valid file!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> is not a valid file!</source>
+        <source>Could not complete the process because a modal dialog is open! Click OK to close the dialog and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3584,20 +3499,16 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Layout changes will take effect after restart.</source>
-        <translation type="obsolete">介面配置更改將在下次啟動KingSoft Office時生效</translation>
-    </message>
-    <message>
         <source>&amp;OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3621,12 +3532,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxSymbolGalleryModel</name>
     <message>
-        <source>Custom Symbols</source>
-        <translation>自定義符號</translation>
+        <source>Recently Used Symbols</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recently Used Symbols</source>
-        <translation>最近使用的符號</translation>
+        <source>Custom Symbols</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3721,12 +3632,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTableGalleryModel</name>
     <message>
-        <source> %1 * %2 Table</source>
-        <translation>%1行 * %2列 表格</translation>
+        <source>Insert Table</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Table</source>
-        <translation>插入表格</translation>
+        <source> %1 * %2 Table</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3740,7 +3651,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTemplateOnLineCommand</name>
     <message>
         <source>http://www.kingsoftstore.com</source>
-        <translation>http://www.wps.cn/</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3773,7 +3684,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">表單</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
@@ -3783,43 +3694,31 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTpAutoShape</name>
     <message>
+        <source>Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto Shapes:</source>
-        <translation>快取圖案</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation>變更自選圖片</translation>
-    </message>
-    <message>
-        <source>Locate:</source>
-        <translation>到:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Large Preview</source>
-        <translation>顯示大型預覽</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpBackUp</name>
     <message>
-        <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;View more help for restore &gt;&gt;&gt;&lt;/a&gt;</source>
-        <translation>&quot;&lt;a href=&quot;&quot;online&quot;&quot; style=&quot;&quot;text-decoration:none&quot;&quot;&gt;瞭解更多復原的說明 &gt;&gt;&gt;&lt;/a&gt;&quot;</translation>
-    </message>
-    <message>
         <source>Form</source>
-        <translation>表單</translation>
-    </message>
-    <message>
-        <source>View Other Backups</source>
-        <translation type="obsolete">檢視</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation>您可以通過以下檔案列表，恢復異常退出之前的工作狀態</translation>
-    </message>
-    <message>
-        <source>Clear Backup Files</source>
-        <translation type="obsolete">清除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear Backups</source>
@@ -3829,108 +3728,112 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Open Backup Folder</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;View more help for restore &gt;&gt;&gt;&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpBackup</name>
     <message>
-        <source>Cannot Remove All Backup Files</source>
-        <translation>不能刪除全部備份檔</translation>
+        <source>Remove All Warnings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove All Warnings</source>
-        <translation>確定要刪除全部檔案?</translation>
+        <source>Cannot Remove All Backup Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
     <message>
         <source>Category:</source>
-        <translation>類別</translation>
-    </message>
-    <message>
-        <source>Clip Art</source>
-        <translation>美工圖案</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation>預覽</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpGoogleDocs</name>
     <message>
-        <source>&lt;a href=&apos;lkCancelOpen&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation>&lt;a href=&apos;lkCancelOpen&apos;&gt;Cancel&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkCancelUpload&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation>&lt;a href=&apos;lkCancelUpload&apos;&gt;Cancel&lt;/a&gt;</translation>
+        <source>Sign in Google Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;a href=&apos;lkSignIn&apos;&gt;Sign In&lt;/a&gt;</source>
-        <translation>&lt;a href=&apos;lkSignIn&apos;&gt;Sign In&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkSignOut&apos;&gt;Sign Out&lt;/a&gt;</source>
-        <translation>&lt;a href=&apos;lkSignOut&apos;&gt;Sign Out&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Are you sure to logout from Google Docs?</source>
-        <translation>您確定要登出Google docs?</translation>
-    </message>
-    <message>
-        <source>Cancel Opening</source>
-        <translation>取消開啟</translation>
-    </message>
-    <message>
-        <source>Cancel Uploading</source>
-        <translation>取消上傳</translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation>載入中</translation>
-    </message>
-    <message>
-        <source>Open from Google Docs</source>
-        <translation>開啟Goolge Docs</translation>
-    </message>
-    <message>
-        <source>Opening...</source>
-        <translation>開頭文</translation>
-    </message>
-    <message>
-        <source>Sign in Google Docs</source>
-        <translation>登入Google Docs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign out from Google Docs</source>
-        <translation>登出Google Docs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The file format is not supported to upload!</source>
-        <translation>上傳檔案格式不支援！</translation>
+        <source>&lt;a href=&apos;lkSignOut&apos;&gt;Sign Out&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open from Google Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>filename.wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Opening</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&apos;lkCancelOpen&apos;&gt;Cancel&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload to Google Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&apos;lkCancelUpload&apos;&gt;Cancel&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to logout from Google Docs?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This file can not be uploaded automatically
  because it is of Google Docs format.
  you can click Upload to upload it.</source>
-        <translation>因為Google檔案格式，這個文件不能自動上傳。你可以點擊上傳。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload Google Docs format file may lose data, continue?</source>
-        <translation>上傳“Google文件”格式的檔案可能遺失資料，繼續嗎？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload to Google Docs</source>
-        <translation>上傳Google文件</translation>
-    </message>
-    <message>
-        <source>Uploading...</source>
-        <translation>上傳中...</translation>
-    </message>
-    <message>
-        <source>filename.wps</source>
-        <translation>filename.wps</translation>
+        <source>The file format is not supported to upload!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3947,51 +3850,47 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTpNewDoc</name>
     <message>
-        <source>From Design Templates</source>
-        <translation>從簡報設計範本</translation>
-    </message>
-    <message>
-        <source>Kingsoft Online Templates</source>
-        <translation>Kingsoft Online範本</translation>
-    </message>
-    <message>
-        <source>Manage</source>
-        <translation>管理</translation>
-    </message>
-    <message>
         <source>New</source>
-        <translation>開新查詢...</translation>
-    </message>
-    <message>
-        <source>New Blank Document</source>
-        <translation>新建空白文件</translation>
-    </message>
-    <message>
-        <source>New from Default Template</source>
-        <translation>新建預設範本</translation>
-    </message>
-    <message>
-        <source>New From Other Templates...</source>
-        <translation type="obsolete">新建其他範本</translation>
-    </message>
-    <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
-        <translation>打開最近檔案記錄管理對話框，清除部分或全部的檔案打開記錄</translation>
-    </message>
-    <message>
-        <source>Open...</source>
-        <translation>開啟(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Open...(Ctrl + O)</source>
-        <translation>Open...(Ctrl + O)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>最近開啟的檔案</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open...(Ctrl + O)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Blank Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New from Default Template</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Design Templates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3999,50 +3898,46 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished">最近開啟的檔案</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manage</source>
-        <translation type="unfinished">管理</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
-        <translation type="unfinished">打開最近檔案記錄管理對話框，清除部分或全部的檔案打開記錄</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished">開新查詢...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished">Open...(Ctrl + O)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished">開啟(&amp;O)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished">新建空白文件</translation>
-    </message>
-    <message>
-        <source>New from Default Template</source>
-        <translation type="unfinished">新建預設範本</translation>
-    </message>
-    <message>
-        <source>New From Other Templates...</source>
-        <translation type="obsolete">新建其他範本</translation>
-    </message>
-    <message>
-        <source>From Design Templates</source>
-        <translation type="unfinished">從簡報設計範本</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
-        <translation type="unfinished">Kingsoft Online範本</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New from Default Template</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Design Templates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4050,31 +3945,31 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpSelectShape</name>
     <message>
         <source>Form</source>
-        <translation>表單</translation>
-    </message>
-    <message>
-        <source>Hide All</source>
-        <translation>全部隱藏</translation>
-    </message>
-    <message>
-        <source>Re-order</source>
-        <translation>重新排序</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes on this page:</source>
-        <translation>文件中的物件</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>全部顯示</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>down</source>
-        <translation>向下</translation>
+        <source>Hide All</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>up</source>
-        <translation>向上</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re-order</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4085,67 +3980,35 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
 </context>
 <context>
-    <name>KxUpdateCommand</name>
-    <message>
-        <source>Click to try it now .</source>
-        <translation type="obsolete">按一下開始試用</translation>
-    </message>
-    <message>
-        <source>Continue try</source>
-        <translation type="obsolete">繼續試用</translation>
-    </message>
-    <message>
-        <source>Download</source>
-        <translation type="obsolete">下載 </translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="obsolete">否</translation>
-    </message>
-    <message>
-        <source>Purchase</source>
-        <translation type="obsolete">購買</translation>
-    </message>
-    <message>
-        <source>Purchase now to get full Kingsoft Office Professional.</source>
-        <translation type="obsolete">立即購買取得Kingsoft Office專業版.</translation>
-    </message>
-    <message>
-        <source>Try the professional version now to enjoy a greater number
-of services and features.</source>
-        <translation type="obsolete">現在嘗試專業版，享受更多的服務和功能</translation>
-    </message>
-</context>
-<context>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation type="unfinished">現在嘗試專業版，享受更多的服務和功能</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished">下載 </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">否</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to try it now.</source>
-        <translation type="unfinished">按一下開始試用</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase now to get full version of Kingsoft Office Professional.</source>
-        <translation type="unfinished">立即購買取得Kingsoft Office專業版.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished">購買</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Continue trial</source>
-        <translation type="unfinished">繼續試用</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4176,7 +4039,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished">箭號</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>cbConnector</source>
@@ -4255,7 +4118,7 @@ of services and features.</source>
     <name>KxWidgetPicture</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">表單</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -4358,7 +4221,7 @@ of services and features.</source>
     <name>KxWidgetSize</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">表單</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Height:</source>
@@ -4477,7 +4340,7 @@ of services and features.</source>
     <name>KxWidgetTemplate</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">表單</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Up</source>
@@ -4521,7 +4384,7 @@ cannot be previewed.</source>
     <name>KxWidgetTextBox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">表單</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
@@ -4583,7 +4446,7 @@ cannot be previewed.</source>
         <source>Resize autoshape to &amp;fit text</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>Rotat&amp;e text within autoshape by 90°</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4625,287 +4488,6 @@ cannot be previewed.</source>
 </context>
 <context>
     <name>QObject</name>
-    <message>
-        <source>All Fonts</source>
-        <translation>所有字型</translation>
-    </message>
-    <message>
-        <source>Aqua green</source>
-        <translation>水綠色</translation>
-    </message>
-    <message>
-        <source>Baby Blue</source>
-        <translation>淡藍</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation>黑色</translation>
-    </message>
-    <message>
-        <source>Blue</source>
-        <translation>藍色</translation>
-    </message>
-    <message>
-        <source>Blue Grey</source>
-        <translation>藍灰</translation>
-    </message>
-    <message>
-        <source>Blue Violet</source>
-        <translation>藍紫</translation>
-    </message>
-    <message>
-        <source>Brown</source>
-        <translation>褐色</translation>
-    </message>
-    <message>
-        <source>Cyan</source>
-        <translation>青色</translation>
-    </message>
-    <message>
-        <source>Cyan Green</source>
-        <translation>青綠</translation>
-    </message>
-    <message>
-        <source>Dark Blue</source>
-        <translation>深藍</translation>
-    </message>
-    <message>
-        <source>Dark Brown</source>
-        <translation>茶色</translation>
-    </message>
-    <message>
-        <source>Dark Cyan</source>
-        <translation>深青綠</translation>
-    </message>
-    <message>
-        <source>Dark Green</source>
-        <translation>深綠</translation>
-    </message>
-    <message>
-        <source>Dark Red</source>
-        <translation>深紅</translation>
-    </message>
-    <message>
-        <source>Dark Yellow</source>
-        <translation>深黃色</translation>
-    </message>
-    <message>
-        <source>Do not check it when starting Kingsoft Office next time</source>
-        <translation>下次啟動不再進行此項檢查</translation>
-    </message>
-    <message>
-        <source>Do not show this message again</source>
-        <translation>不要再顯示這個訊息</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show this message again, 
-Always take this action</source>
-        <translation>不要再顯示這個訊息
-總是執行此動作</translation>
-    </message>
-    <message>
-        <source>Gold</source>
-        <translation>金色</translation>
-    </message>
-    <message>
-        <source>Gray-10% </source>
-        <translation>10% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-12.5%</source>
-        <translation>12.5% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-15%</source>
-        <translation>15% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-20%</source>
-        <translation>20% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-25%</source>
-        <translation>25% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-30%</source>
-        <translation>30% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-35%</source>
-        <translation>35% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-37.5%</source>
-        <translation>37.5% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-40%</source>
-        <translation>40% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-45%</source>
-        <translation>45% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-5%</source>
-        <translation>5% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-50%</source>
-        <translation>50% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-55%</source>
-        <translation>55% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-60%</source>
-        <translation>60% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-62.5%</source>
-        <translation>62.5% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-65%</source>
-        <translation>65% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-70%</source>
-        <translation>70% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-75%</source>
-        <translation>75% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-80%</source>
-        <translation>80% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-85%</source>
-        <translation>85% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-87.5%</source>
-        <translation>87.5% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-90%</source>
-        <translation>90% 灰度值</translation>
-    </message>
-    <message>
-        <source>Gray-95%</source>
-        <translation>95% 灰度值</translation>
-    </message>
-    <message>
-        <source>Green</source>
-        <translation>綠色</translation>
-    </message>
-    <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls and ppt files)</source>
-        <translation>KingSoft Office不是系統預設的辦公軟體，是否將其設置為預設的辦公軟體？
-(系統預設會以KingSoft Office打開doc、xls、ppt等辦公軟體格式的檔案)</translation>
-    </message>
-    <message>
-        <source>Laurel Green</source>
-        <translation>淺綠</translation>
-    </message>
-    <message>
-        <source>Light Cyan</source>
-        <translation>淺青綠</translation>
-    </message>
-    <message>
-        <source>Light Green </source>
-        <translation>淺綠</translation>
-    </message>
-    <message>
-        <source>Light Orange</source>
-        <translation>淺橙</translation>
-    </message>
-    <message>
-        <source>Light Purple</source>
-        <translation>淺紫</translation>
-    </message>
-    <message>
-        <source>Light Yellow</source>
-        <translation>淺黃</translation>
-    </message>
-    <message>
-        <source>Lime Green </source>
-        <translation>酸橙色</translation>
-    </message>
-    <message>
-        <source>Olive Green</source>
-        <translation>橄欖綠</translation>
-    </message>
-    <message>
-        <source>Orange</source>
-        <translation>橙色</translation>
-    </message>
-    <message>
-        <source>Pink</source>
-        <translation>粉紅色</translation>
-    </message>
-    <message>
-        <source>Pink Rose</source>
-        <translation>玫瑰紅</translation>
-    </message>
-    <message>
-        <source>Plum Purple</source>
-        <translation>梅紅</translation>
-    </message>
-    <message>
-        <source>Recent Fonts</source>
-        <translation>最近使用字型</translation>
-    </message>
-    <message>
-        <source>Red</source>
-        <translation>紅色</translation>
-    </message>
-    <message>
-        <source>Sea Green</source>
-        <translation>海綠</translation>
-    </message>
-    <message>
-        <source>Sky Blue</source>
-        <translation>天藍</translation>
-    </message>
-    <message>
-        <source>Thumb Blue</source>
-        <translation>靛藍</translation>
-    </message>
-    <message>
-        <source>Violet</source>
-        <translation>紫蘿蘭色</translation>
-    </message>
-    <message>
-        <source>Wathet Blue</source>
-        <translation>淺藍</translation>
-    </message>
-    <message>
-        <source>White</source>
-        <translation>白色</translation>
-    </message>
-    <message>
-        <source>Yellow</source>
-        <translation>黃色</translation>
-    </message>
-    <message>
-        <source>custom %1</source>
-        <translation>自訂 %1</translation>
-    </message>
-    <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AutoBackup</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Overwrite File?</source>
         <translation type="unfinished"></translation>
@@ -5320,7 +4902,7 @@ Always take this action</source>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished">泰文</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Turkish</source>
@@ -5368,7 +4950,7 @@ Always take this action</source>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished">亞美尼亞文</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Basque</source>
@@ -5436,7 +5018,7 @@ Always take this action</source>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished">坦米爾文</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Marathi</source>
@@ -5450,6 +5032,285 @@ Always take this action</source>
         <source>The selected dict was deleted, please select another dict.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>custom %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
+(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
+(The system uses Kingsoft Office as the default one to open doc, xls and ppt files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Cyan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumb Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wathet Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue Grey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Purple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue Violet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aqua green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baby Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Cyan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pink Rose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cyan Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Laurel Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Brown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Green </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plum Purple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lime Green </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-5%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-10% </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-12.5%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-15%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-20%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-30%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-35%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-37.5%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-45%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-55%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-60%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-62.5%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-65%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-70%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-75%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-85%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-87.5%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-90%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-95%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cyan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this message again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show this message again, 
+Always take this action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not check it when starting Kingsoft Office next time</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
@@ -5459,41 +5320,23 @@ Always take this action</source>
     </message>
 </context>
 <context>
-    <name>SelPictureWidgetClassic</name>
-    <message>
-        <source>Classic Style: Click it to use classic style interface.</source>
-        <translation type="obsolete">經典風格</translation>
-    </message>
-</context>
-<context>
-    <name>SelPictureWidgetRainbow</name>
-    <message>
-        <source>2012 Style: Click it to enjoy Kingsoft Office Professional.</source>
-        <translation type="obsolete">2012 Style: Click it to enjoy Kingsoft Office Professional</translation>
-    </message>
-    <message>
-        <source>2012 Style: Click it to use 2012 style interface.</source>
-        <translation type="obsolete">2012 風格</translation>
-    </message>
-</context>
-<context>
     <name>TextDescribe</name>
     <message>
         <source>Kingsoft Office Free only supports classic style interface.
 You can download Kingsoft Office Professional to enjoy the 2012 style interface.</source>
-        <translation>KingSoft Office免費版只支援經典風格介面.您可以下載KingSoft Office專業版，享受2012風格的介面。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft Office Professional supports switching between two interface styles.
 The settings will take effect after restarting the application.</source>
-        <translation>KingSoft Office專業版支援切換兩個不同介面風格.此配置將將在下次啟動時生效。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ThemeSchemeWidget</name>
     <message>
         <source>default</source>
-        <translation>預設</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5514,27 +5357,15 @@ The settings will take effect after restarting the application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Tech Support...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1988-2013 Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation>1988-2013 珠海金山軟件有限公司 北京金山軟件有限公司。</translation>
-    </message>
-    <message>
-        <source>All rights reserved.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Copyright </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <source>1988-2013 Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Product ID:</source>
+        <source>All rights reserved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5542,9 +5373,21 @@ The settings will take effect after restarting the application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Product ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Tech Support...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5599,7 +5442,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>creditsDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">對話方塊(D)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5688,6 +5531,10 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Remove Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Addr&amp;ess:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5702,41 +5549,6 @@ Document</source>
     <message>
         <source>Re&amp;cently used e-mail addresses:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Remove Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>kxDlgPlgpfCrash</name>
-    <message>
-        <source>&lt;a href=&apos;ksomisc_plgpf&apos;&gt; ksomisc &lt;/a&gt;</source>
-        <translation type="obsolete">&lt;a href=&apos;ksomisc_plgpf&apos;&gt; ksomisc &lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="obsolete">自動</translation>
-    </message>
-    <message>
-        <source>Load</source>
-        <translation type="obsolete">載入</translation>
-    </message>
-    <message>
-        <source>Once</source>
-        <translation type="obsolete">Once</translation>
-    </message>
-    <message>
-        <source>Plug-in loading platform of the system caused by the collapse of the last operation, please choose whether to load plug-in platform,</source>
-        <translation type="obsolete">Plug-in loading platform of the system caused by the collapse of the last operation, please choose whether to load plug-in platform,</translation>
-    </message>
-    <message>
-        <source>Set whether the plug-in loading platform:</source>
-        <translation type="obsolete">Set whether the plug-in loading platform:</translation>
-    </message>
-    <message>
-        <source>addin manage</source>
-        <translation type="obsolete">增益集管理</translation>
     </message>
 </context>
 <context>
@@ -5782,7 +5594,7 @@ Document</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished">文字標籤</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Display as icon</source>

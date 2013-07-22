@@ -661,6 +661,36 @@ condition is true: </source>
     </message>
 </context>
 <context>
+    <name>KxCreatePivotTableDlg</name>
+    <message>
+        <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>File</source>
@@ -1130,6 +1160,37 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>&amp;Right column</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCreatePivotTable</name>
+    <message>
+        <source>Create Pivot Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the data that you want to analyize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select a range:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use another pivot table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose where you want the pivot table to be placed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Existing Worksheet:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2773,6 +2834,22 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Warn me when closing all tabs</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Start With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start With:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home Pa&amp;ge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Doc&amp;ument</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -3041,6 +3118,168 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Paste &amp;List</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotTableFieldFmt</name>
+    <message>
+        <source>PivotTable Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source field:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Na&amp;me:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summarize by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Summarize value field by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the type of calculation that you want to use to summarize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Au&amp;tomatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ustom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show data as</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show d&amp;ata as</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Base &amp;field:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Base &amp;item:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show items:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;how items with no data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show items in &amp;tabular form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show items in &amp;outline form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Display subtotals at top of group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert blank line after each item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert &amp;page break after each item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ad&amp;vanced...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Num&amp;ber...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotTableOptions</name>
+    <message>
+        <source>PivotTable Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Grand totals for columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page &amp;layout:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down, Then Over</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Over, Then Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grand &amp;totals for rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fields per row:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtotal &amp;hidden page items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For error &amp;values, show:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Refresh on open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For empty c&amp;ells, show:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3697,6 +3936,10 @@ the same time allows workbook merging</source>
     <message>
         <source>Cancel</source>
         <translation type="unfinished">Abbrechen</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spell language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5751,6 +5994,171 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Thin Diagonal crosshatch</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotTableAdvOptionsDlg</name>
+    <message>
+        <source>PivotTable Field Advanced Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoSort options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;efault(you can change item order manualy)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Ascending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Descending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Usin&amp;g field:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 Auto Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 AutoShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;ff</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;how:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished">Oben</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Unten</translation>
+    </message>
+    <message>
+        <source>&amp;Using field:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Field Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page field options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve external data for all page field items (faster perform&apos; +
+            &apos;ance)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Query external data source as you select each page field item (&apos; +
+            &apos;requires less memory)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Di&amp;sable pivoting of this field (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotTableFieldFmtDlg</name>
+    <message>
+        <source>Show all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Count Nums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PivotTable field name is not valid. 
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable field name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>At least one item must be shown. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotTableOptionsDlg</name>
+    <message>
+        <source>&amp;Fields per column:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fields per row:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable name is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

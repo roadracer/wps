@@ -1201,6 +1201,10 @@
         <source>&amp;Options</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Set Spell language</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgDateAndTime</name>
@@ -1928,6 +1932,22 @@
     <message>
         <source>Gray</source>
         <translation>単純白黒</translation>
+    </message>
+    <message>
+        <source>Start With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start With:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home Pa&amp;ge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Doc&amp;ument</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

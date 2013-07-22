@@ -2208,6 +2208,17 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgPrinterProperties</name>
+    <message>
+        <source>Printer Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgRbCustom</name>
     <message>
         <source>&amp;Add &gt;&gt;</source>
@@ -3283,17 +3294,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
 </context>
 <context>
-    <name>KxPrinterProperties</name>
-    <message>
-        <source>Printer Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxPropertyDlg</name>
     <message>
         <source>Office</source>
@@ -3560,6 +3560,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Could not complete the process because a modal dialog is open! Click OK to close the dialog and try again.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source> is not a valid file!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxSwitchSkinModel</name>
@@ -3598,11 +3602,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxSwitchUiTip</name>
     <message>
-        <source>layou will change next start up.</source>
+        <source>The change takes effect the next time the Kingsoft Office is started.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I has understand</source>
+        <source>I have understood</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4923,6 +4927,550 @@ immer diese Aktion durchführen</translation>
         <source>AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Overwrite File?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Saudi Arabia)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>German (Germany)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Spain)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>French (France)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian (Italy)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dutch (The Netherlands)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norwegian (Bokmål)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portuguese (Brazil)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swedish (Sweden)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Azeri (Latin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malay (Malaysia)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uzbek (Latin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Iraq)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (China)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>German (Switzerland)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (United Kingdom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>French (Belgium)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian (Switzerland)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dutch (Belgium)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norwegian (Nynorsk)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portuguese (Portugal)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Romanian (Republic of Moldova)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian (Republic of Moldova)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serbian (Latin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swedish (Finland)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Azeri (Cyrillic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gaelic (Ireland)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malay (Brunei)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uzbek (Cyrillic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Egypt)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Hong Kong SAR)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>German (Austria)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (Australia)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>French (Canada)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serbian (Cyrillic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Libya)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Singapore)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>German (Luxembourg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (Canada)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Guatemala)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>French (Switzerland)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Algeria)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Macau SAR)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>German (Liechtenstein)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (New Zealand)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Costa Rica)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>French (Luxembourg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Morocco)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (Ireland)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Panama)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Tunisia)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (South Africa)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Dominican Republic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Oman)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (Jamaica)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Venezuela)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Yemen)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (Caribbean)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Colombia)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Syria)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (Belize)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Peru)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Jordan)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (Trinidad)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Argentina)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Lebanon)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Ecuador)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Kuwait)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (Phillippines)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Chile)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (United Arab Emirates)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Uruguay)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Bahrain)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Paraguay)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Qatar)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Bolivia)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (El Salvador)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Honduras)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Nicaragua)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish (Puerto Rico)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Danish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icelandic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Polish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Raeto-Romance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Romanian (Romania)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovak</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Albanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation type="unfinished">Thai</translation>
+    </message>
+    <message>
+        <source>Turkish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Urdu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Belarusian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Estonian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latvian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lithuanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Farsi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Armenian</source>
+        <translation type="unfinished">Armenisch</translation>
+    </message>
+    <message>
+        <source>Basque</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FYRO Macedonian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sutu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tsonga</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setsuana</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xhosa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zulu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Afrikaans</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Faroese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maltese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gaelic (Scotland)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yiddish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swahili</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tamil</source>
+        <translation type="unfinished">Tamil</translation>
+    </message>
+    <message>
+        <source>Marathi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sanskrit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected dict was deleted, please select another dict.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
@@ -5227,6 +5775,29 @@ Document</source>
     <message>
         <source>addin manage</source>
         <translation type="obsolete">Add-in Manager</translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgSetSpellcheckLanguage</name>
+    <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available Language:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The speller automatically use dictonaries of the selected language,if available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set as default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>close</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
