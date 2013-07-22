@@ -22,6 +22,9 @@ DisplayName[en_US]=$1
 Icon=$1.png
 EOF
 
+# generate Makefile
+ln -s ../dev/Makefile.templ Makefile
+
 # modify *.ts
 cd ts
 sed -i 's/language="sample"/language="'$1'"/g' *.ts
