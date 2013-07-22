@@ -11,9 +11,9 @@ required to translate KSO/WPS. You can install them by follow command in Ubuntu:
 
 Other system is similar.
 
-There codes assume KSO/WPS is install to /opt/kingsoft/wps-office. If you install
-KSO/WPS by deb or rpm package, nothing need to do. If KSO/WPS is installed by
-green package. You must do follow command:
+There codes assume that KSO/WPS is installed to /opt/kingsoft/wps-office. If you 
+install KSO/WPS by deb or rpm package, nothing need to do. If KSO/WPS is installed
+by green package. You must do follow command:
 
 	$ sudo ln -s absolute_path_to_you_kso_dir /opt/kingsoft/wps-office
 
