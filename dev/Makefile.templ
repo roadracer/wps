@@ -1,0 +1,29 @@
+MAKE_QM="../dev/make_qm.sh"
+MAKE_RCC="../dev/make_rcc.sh"
+LANGID=`basename ${CURDIR}`
+DEST="/opt/kingsoft/wps-office/office6/mui/${LANGID}"
+
+all: qm rcc
+
+clean:
+	rm -f *.qm
+	rm -f res.rcc
+
+qm:
+	${MAKE_QM} ts/*
+
+rcc:
+	${MAKE_RCC} res/*.qrc
+
+install: all uninstall
+	mkdir -p "${DEST}" -m 755
+	-cp *.qm "${DEST}"
+	-cp res.rcc "${DEST}"
+	-cp lang.conf "${DEST}"
+	-cp *.png "${DEST}"
+	-cp config "${DEST}" -r
+	-cp data "${DEST}" -r
+	-cp templates "${DEST}" -r
+	
+uninstall:
+	rm -rf "${DEST}"
