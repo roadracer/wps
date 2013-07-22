@@ -64,6 +64,9 @@ Now save you changes. All you need is the follow command:
 
 Restart wps, and you will see what you want.
 
+**If you create a language support, give us a push request immediately, in order
+to avoid another volunteer create it again, that will be a badly conflict.**
+
 How to install/uninstall language support
 --------------------------------------------------------------------------------
 It's very easy:
