@@ -93,7 +93,7 @@ zh\_CN/ts/wpsresource.ts as guidance.
 
 You can follow any order to translate KSO/WPS. But we strongly recommend that
 you can translate wpsresource.ts, wppresource.ts, etresource.ts first. Because,
-the strings in there files will be shown to user at first time.
+the strings in these files will be shown to user at first time.
 
 Once you translated some strings, you can save and run
 
