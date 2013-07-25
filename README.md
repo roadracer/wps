@@ -120,5 +120,5 @@ For example, we create a template for vi\_VI.
 
 Of course, you can copy resource from other language.
 
-**Do not copy the entry directory tree from default, it's not a good idea. 
+**Do not copy the entire directory tree from default, it's not a good idea. 
 Copy the one you need only.**
