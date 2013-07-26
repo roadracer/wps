@@ -473,7 +473,7 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблица</translation>
     </message>
     <message>
         <source>None</source>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>Миллиметр</translation>
     </message>
     <message>
         <source>Inch</source>
@@ -525,7 +525,7 @@
     </message>
     <message>
         <source>Next Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий абзац</translation>
     </message>
     <message>
         <source>Sample Text</source>
@@ -710,7 +710,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -718,7 +718,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>No underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Без подчёркивания</translation>
     </message>
     <message>
         <source>Word underline</source>
@@ -730,7 +730,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойное подчёркивание</translation>
     </message>
     <message>
         <source>Thick underline</source>
@@ -806,11 +806,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Зачёркнутый</translation>
     </message>
     <message>
         <source>Double strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойное зачёркивание</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -902,15 +902,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Heading 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок 3</translation>
     </message>
     <message>
         <source>Header</source>
@@ -1166,7 +1166,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Высота</translation>
     </message>
     <message>
         <source>Section start</source>
@@ -1178,7 +1178,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>New page</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая страница</translation>
     </message>
     <message>
         <source>Even page</source>
@@ -1346,7 +1346,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>мм</translation>
     </message>
     <message>
         <source>cm</source>
@@ -1470,7 +1470,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Отступ</translation>
     </message>
     <message>
         <source>No bullets or numbering</source>
@@ -1929,11 +1929,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>Go To</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перейти</translation>
     </message>
     <message>
         <source>Bullet:</source>
@@ -2171,11 +2171,11 @@ This change will affect all new documents based on the %s template.</source>
     </message>
     <message>
         <source>&amp;Find / Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Найти / Заменить...</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Найти далее</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document. The search item was not found.</source>
@@ -2647,7 +2647,7 @@ This change will affect all new documents based on the %s template.</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document and made %d replacements.</source>
@@ -2731,7 +2731,7 @@ This change will affect all new documents based on the %s template.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -2763,7 +2763,7 @@ This change will affect all new documents based on the %s template.</source>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Стили / Форматирование</translation>
     </message>
     <message>
         <source>Type</source>
@@ -3304,7 +3304,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Excel Files(*.xls) | *.xls; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы Excel (*.xls) | *.xls; |</translation>
     </message>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
@@ -3312,11 +3312,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст в формате RTF (*.rtf) | *.rtf; |</translation>
     </message>
     <message>
         <source>Word Documents(*.doc) | *.doc; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ Word (*.doc) | *.doc; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
@@ -3324,7 +3324,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Text Files(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовые файлы (*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</translation>
     </message>
     <message>
         <source>Microsoft Works Databases(*.wdb) | *.wdb; |</source>
@@ -3368,15 +3368,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчёркнутый</translation>
     </message>
     <message>
         <source>Character Shading</source>
@@ -3420,7 +3420,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить отступ</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -3436,7 +3436,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Междустрочный интервал</translation>
     </message>
     <message>
         <source>Numbering</source>
@@ -3448,11 +3448,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить шрифт</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить шрифт</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -3468,7 +3468,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет подчёркивания</translation>
     </message>
     <message>
         <source>Paste Format</source>
@@ -3508,7 +3508,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Double Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойное зачёркивание</translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -3548,7 +3548,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Select Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите размер шрифта</translation>
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
@@ -3572,7 +3572,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Whole Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Вся страница</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -3732,7 +3732,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить гиперссылку</translation>
     </message>
     <message>
         <source>Insert Blank Field</source>
@@ -3740,11 +3740,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished">Вставить изображение</translation>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished">Вставить таблицу</translation>
+        <translation>Вставить таблицу</translation>
     </message>
     <message>
         <source>Insert Table Element</source>
@@ -3756,7 +3756,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished">Разделить таблицу</translation>
+        <translation>Разделить таблицу</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -3776,15 +3776,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished">Свойства таблицы</translation>
+        <translation>Свойства таблицы</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделить ячейки</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Объединить ячейки</translation>
+        <translation>Объединить ячейки</translation>
     </message>
     <message>
         <source>Repeat Heading</source>
@@ -3828,7 +3828,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>Edit Field</source>
@@ -3868,7 +3868,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Вернуть</translation>
     </message>
     <message>
         <source>Field To Text</source>
@@ -4022,7 +4022,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Move</source>
-        <translation>Вырезать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please make a selection first.</source>
@@ -4066,7 +4066,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Table Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер таблицы</translation>
     </message>
     <message>
         <source>Insert File</source>
@@ -4206,7 +4206,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Неотформатированный текст</translation>
     </message>
     <message>
         <source>Text With Format</source>
@@ -4222,7 +4222,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Auto Replace Paragraph Header Space With Indent</source>
@@ -4278,7 +4278,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Зачёркнутый</translation>
     </message>
     <message>
         <source>Add rows and columns</source>
