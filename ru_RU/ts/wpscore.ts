@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>comment</name>
     <message>
@@ -12,19 +12,19 @@
     <name>drawing</name>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить элемент WordArt</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
 </context>
 <context>
@@ -2009,7 +2009,8 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
+
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2926,16 +2927,21 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
+
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
 
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3262,7 +3268,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*) | *.*; |</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
@@ -3510,7 +3516,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Страниц</translation>
     </message>
     <message>
         <source>Page Number Format</source>
@@ -3518,11 +3524,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить дату</translation>
     </message>
     <message>
         <source>Insert Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить время</translation>
     </message>
     <message>
         <source>Switch Header/Footer Link</source>
@@ -3590,15 +3596,15 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить комментарий</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить комментарий</translation>
     </message>
     <message>
         <source>Delete All Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить все комментарии</translation>
     </message>
     <message>
         <source>Delete All Comments Shown</source>
@@ -3734,11 +3740,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставить изображение</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставить таблицу</translation>
     </message>
     <message>
         <source>Insert Table Element</source>
@@ -3750,7 +3756,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Разделить таблицу</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -3770,7 +3776,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Свойства таблицы</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -3778,7 +3784,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Объединить ячейки</translation>
     </message>
     <message>
         <source>Repeat Heading</source>
@@ -3810,11 +3816,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -3858,7 +3864,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -3878,7 +3884,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить график</translation>
     </message>
     <message>
         <source>To create a link, click the empty text box please.
@@ -3915,23 +3921,23 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый стиль</translation>
     </message>
     <message>
         <source>Modify Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль</translation>
     </message>
     <message>
         <source>Delete Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить стиль</translation>
     </message>
     <message>
         <source>Apply Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить стиль</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить форматирование</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
@@ -3964,7 +3970,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Current Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий документ</translation>
     </message>
     <message>
         <source>inserted</source>
@@ -3980,7 +3986,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Page: </source>
-        <translation type="unfinished"></translation>
+        <translation>Страница:</translation>
     </message>
     <message>
         <source>Paste as Nested Table</source>
@@ -3988,15 +3994,15 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Paste Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить строки</translation>
     </message>
     <message>
         <source>Paste Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить столбцы</translation>
     </message>
     <message>
         <source>Paste Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить ячейки</translation>
     </message>
     <message>
         <source>Paste by Appending Table</source>
@@ -4012,11 +4018,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать</translation>
     </message>
     <message>
         <source>Please make a selection first.</source>
@@ -4064,7 +4070,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Insert File</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить файл</translation>
     </message>
     <message>
         <source>Click and Type</source>
@@ -4116,11 +4122,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Удален</translation>
     </message>
     <message>
         <source>Inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставлен</translation>
     </message>
     <message>
         <source>Close Compare Side by Side</source>
@@ -4280,7 +4286,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Print directly</source>
@@ -4288,11 +4294,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Modify bullets and numbering</source>
@@ -4356,7 +4362,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Clean Paragraph Space And Indent</source>
