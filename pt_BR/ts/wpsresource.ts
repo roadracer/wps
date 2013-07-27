@@ -17678,7 +17678,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Comment Context Menu</source>
-        <translation type="unfinished">Menu de Contexto Comentário</translation>
+        <translation>Menu de Contexto Comentário</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -17734,7 +17734,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Endnotes Context Menu</source>
-        <translation type="unfinished">Menu de Contexto Notas</translation>
+        <translation>Menu de Contexto Notas</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -17750,7 +17750,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Fields Context Menu</source>
-        <translation type="unfinished">Menu de Contexto Campos</translation>
+        <translation>Menu de Contexto Campos</translation>
     </message>
     <message>
         <source>File</source>
@@ -17770,7 +17770,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Footnotes Context Menu</source>
-        <translation type="unfinished">Menu de Contexto Notas de Rodapé</translation>
+        <translation>Menu de Contexto Notas de Rodapé</translation>
     </message>
     <message>
         <source>Format</source>
@@ -17778,7 +17778,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Frame Context Menu</source>
-        <translation type="unfinished">Menu de Contexto Moldura</translation>
+        <translation>Menu de Contexto Moldura</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -17810,7 +17810,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
-        <translation type="unfinished">Menu de Contexto Hyperlink</translation>
+        <translation>Menu de Contexto Hyperlink</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -18010,7 +18010,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Shapes Context Menu</source>
-        <translation type="unfinished">Menu de Contexto Formas</translation>
+        <translation>Menu de Contexto Formas</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -18074,7 +18074,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Text Context Menu</source>
-        <translation type="unfinished">Menu de Contexto Texto</translation>
+        <translation>Menu de Contexto Texto</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
