@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pt_BR">
 <defaultcodec>UTF-8</defaultcodec>
@@ -18384,196 +18384,196 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsrainbow.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Writer</translation>
     </message>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Complementos</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar Conta</translation>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar Informações Pessoais</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenvolvimento</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos Online</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas de Desenho</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatos</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Docs</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabeçalho/Rodapé</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicial</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrar</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>Mailings</source>
-        <translation type="unfinished"></translation>
+        <translation>Correspondências</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Navegação</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Você Não Está Logado</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Leitura</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout da Página</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout do Parágrafo</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas de Imagem</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-visualizar Impressão</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Acesso Rápido</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos Recentes</translation>
     </message>
     <message>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Referências</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisão</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessão</translation>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessão de Navegação</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar/Exibir a Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixar-Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar Aparência</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Tabela</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas de Tabela</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Login do Usuário</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibição</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>O que há de Novo</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaço de Trabalho</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>testRbTabWidget</translation>
     </message>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar Aparência</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>confirmar</translation>
     </message>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar Idioma</translation>
     </message>
 </context>
 </TS>
