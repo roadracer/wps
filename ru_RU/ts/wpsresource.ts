@@ -3242,7 +3242,7 @@ On</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Цвет шрифта</translation>
+        <translation>Цвет текста</translation>
     </message>
     <message>
         <source>Font Name</source>
@@ -4142,19 +4142,19 @@ Different New Document</source>
     <name>ongmani.ct_paragraph</name>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -4162,7 +4162,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
@@ -4202,19 +4202,19 @@ Different New Document</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет текста</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер шрифта</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -4230,11 +4230,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>По ширине</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -4266,15 +4266,15 @@ Different New Document</source>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие цвета</translation>
     </message>
     <message>
         <source>More Underlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие подчёркивания</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый стиль</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4282,7 +4282,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Абзац</translation>
     </message>
     <message>
         <source>Promote to Level</source>
@@ -4302,11 +4302,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Стили и форматирование</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -4318,11 +4318,11 @@ Different New Document</source>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет подчёркивания</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчёркнутый</translation>
     </message>
 </context>
 <context>
@@ -17498,7 +17498,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsclassics.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -18390,7 +18390,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsrainbow.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
