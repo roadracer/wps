@@ -7083,7 +7083,7 @@ On</source>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе Kingsoft Writer</translation>
     </message>
     <message>
         <source>Accept Deletion</source>
@@ -7111,7 +7111,7 @@ On</source>
     </message>
     <message>
         <source>Add to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить в словарь</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -7151,7 +7151,7 @@ On</source>
     </message>
     <message>
         <source>Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрыв</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
@@ -7191,7 +7191,7 @@ On</source>
     </message>
     <message>
         <source>Cell</source>
-        <translation>Ячейка</translation>
+        <translation>Ячейку</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
@@ -7199,7 +7199,7 @@ On</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Ячейки</translation>
     </message>
     <message>
         <source>Center Tab</source>
@@ -7243,7 +7243,7 @@ On</source>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть остальные вкладки</translation>
     </message>
     <message>
         <source>Close Path</source>
@@ -7251,7 +7251,7 @@ On</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть вкладку</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
@@ -7259,7 +7259,7 @@ On</source>
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Столбец</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -7267,15 +7267,15 @@ On</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Колонки</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Колонка слева</translation>
     </message>
     <message>
         <source>Columns to the Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Колонка справа</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -7287,7 +7287,7 @@ On</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое</translation>
     </message>
     <message>
         <source>Continue Numbering</source>
@@ -7311,7 +7311,7 @@ On</source>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать</translation>
     </message>
     <message>
         <source>Convert Case</source>
@@ -7319,11 +7319,11 @@ On</source>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблицу в текст</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст в таблицу</translation>
     </message>
     <message>
         <source>Convert to Endnote</source>
@@ -7375,7 +7375,7 @@ On</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -7428,7 +7428,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Нарисовать таблицу</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -7468,11 +7468,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Формула</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Стереть</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -7568,7 +7568,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -7576,7 +7576,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Из файла</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -7676,7 +7676,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>Вставить таблицу</translation>
+        <translation>Таблица</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -7696,7 +7696,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщество Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
@@ -7796,7 +7796,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Объект</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -7880,7 +7880,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -7936,7 +7936,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -7972,7 +7972,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Row</source>
-        <translation>Строка</translation>
+        <translation>Строку</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -7980,11 +7980,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Rows Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Строка сверху</translation>
     </message>
     <message>
         <source>Rows Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Строка снизу</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -8000,11 +8000,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как изображение</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить в файл</translation>
     </message>
     <message>
         <source>Save to Klive</source>
@@ -8136,15 +8136,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table</source>
-        <translation>Таблица</translation>
+        <translation>Таблицу</translation>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства таблицы</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -8152,7 +8152,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Табуляция</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -8160,7 +8160,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Направление текста</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -8192,7 +8192,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать сетку</translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -10841,7 +10841,7 @@ Merged Data</source>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Одна страница</translation>
     </message>
     <message>
         <source>Print</source>
@@ -10853,7 +10853,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Две страницы</translation>
     </message>
     <message>
         <source>View Ruler</source>
@@ -11910,7 +11910,7 @@ Other Window</source>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Одна страница</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -11970,7 +11970,7 @@ Other Window</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Две страницы</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -13995,7 +13995,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.DoublePages</name>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Две страницы</translation>
     </message>
     <message>
         <source>Zoom the document so that two pages fit in the window.</source>
@@ -15576,7 +15576,7 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.OnePage</name>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Одна страница</translation>
     </message>
     <message>
         <source>Zoom the document so that an entire page fits in the window.</source>
@@ -18008,7 +18008,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать язык проверки орфографии</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -18024,11 +18024,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Split Table by Column</source>
-        <translation type="unfinished"></translation>
+        <translation>По столбцу</translation>
     </message>
     <message>
         <source>Split Table by Row</source>
-        <translation type="unfinished"></translation>
+        <translation>По строке</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -18064,7 +18064,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
     <message>
         <source>Table Text</source>
@@ -18072,7 +18072,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation>Таблицы</translation>
+        <translation>Таблица</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -18092,7 +18092,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Панели инструментов</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -18140,15 +18140,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Окно</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество слов</translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество слов. Щёлкните, чтобы открыть диалог &quot;Количество слов&quot;.</translation>
     </message>
     <message>
         <source>Zoom</source>
