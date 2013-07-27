@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pt_BR">
 <defaultcodec>UTF-8</defaultcodec>
@@ -18573,7 +18573,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar Idioma</translation>
     </message>
 </context>
 </TS>
