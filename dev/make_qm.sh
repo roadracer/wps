@@ -31,7 +31,7 @@ function make_a_qm
 		return
 	fi
 	echo make $fn.qm
-	lrelease $matched_set -qm "$fn.qm"
+	lrelease-qt4 $matched_set -qm "$fn.qm"
 }
 
 function die
@@ -40,7 +40,7 @@ function die
 	exit 1
 }
 
-which lrelease || die "Can not found lrelease, install libqt4-dev first!"
+which lrelease-qt4 || die "Can not found lrelease, install libqt4-dev first!"
 
 make_a_qm "wps" "$*" "$wps_qm"
 make_a_qm "wpp" "$*" "$wpp_qm"
