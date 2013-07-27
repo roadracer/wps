@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>BordersAndShadingWidget</name>
     <message>
@@ -3061,179 +3061,180 @@ use buttons to apply borders</source>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Fo&amp;nt</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шрифт</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished"></translation>
+        <translation>А&amp;зиатский текст:</translation>
     </message>
     <message>
         <source>Font st&amp;yle:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Начертание:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Размер:</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт латини&amp;цы:</translation>
     </message>
     <message>
         <source>Complex Scripts</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>I have some difficulty translating this string</translatorcomment>
+        <translation>Обычная письменность</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Шр&amp;ифт:</translation>
     </message>
     <message>
         <source>Font Sty&amp;le:</source>
-        <translation type="unfinished"></translation>
+        <translation>Начертан&amp;ие:</translation>
     </message>
     <message>
         <source>Si&amp;ze:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ра&amp;змер:</translation>
     </message>
     <message>
         <source>All text</source>
-        <translation type="unfinished"></translation>
+        <translation>Весь текст</translation>
     </message>
     <message>
         <source>Font &amp;color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Цвет текста:</translation>
     </message>
     <message>
         <source>&amp;Underline style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль &amp;подчёркивания:</translation>
     </message>
     <message>
         <source>Underl&amp;ine color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет под&amp;чёркивания:</translation>
     </message>
     <message>
         <source>Emphasis mark&amp;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделе&amp;ние:</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Видоизменение</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Все прописные</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зачёркнутый</translation>
     </message>
     <message>
         <source>Shado&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Тень</translation>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translation type="unfinished"></translation>
+        <translation>М&amp;алые прописные</translation>
     </message>
     <message>
         <source>Double strikethrou&amp;gh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Двойное зачёркивание</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Обводка</translation>
     </message>
     <message>
         <source>Su&amp;perscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Над&amp;строчный</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выпуклый</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыты&amp;й</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Подстрочн&amp;ый</translation>
     </message>
     <message>
         <source>Engra&amp;ve</source>
-        <translation type="unfinished"></translation>
+        <translation>Вдав&amp;ленный</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это шрифт TrueType. Он используется для вывода как на экран, так и на принтер.</translation>
     </message>
     <message>
         <source>Cha&amp;racter Spacing </source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Межзнаковый интервал</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ин&amp;тервал:</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>См&amp;ещение:</translation>
     </message>
     <message>
         <source>&amp;By:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;на:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычный</translation>
     </message>
     <message>
         <source>Raised</source>
-        <translation type="unfinished"></translation>
+        <translation>Вверх</translation>
     </message>
     <message>
         <source>Lowered</source>
-        <translation type="unfinished"></translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation>н&amp;а:</translation>
     </message>
     <message>
         <source>S&amp;cale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Масшта&amp;б:</translation>
     </message>
     <message>
         <source>Expanded</source>
-        <translation type="unfinished"></translation>
+        <translation>Разреженный</translation>
     </message>
     <message>
         <source>Condensed</source>
-        <translation type="unfinished"></translation>
+        <translation>Уплонтнённый</translation>
     </message>
     <message>
         <source>&amp;Kerning for fonts:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Кернинг для знаков размером:</translation>
     </message>
     <message>
         <source>p&amp;oints and above</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;пунктов и более</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Привязать &amp;к сетке, если она включена</translation>
     </message>
     <message>
         <source>&amp;Default...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;По умолчанию...</translation>
     </message>
 </context>
 <context>
