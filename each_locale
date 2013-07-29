@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -e
+
+locales=`ls */lang.conf | sed 's#/lang.conf$##'`
+for l in $locales
+{
+	cd $l
+	"$@"
+	cd ..
+}
