@@ -4882,7 +4882,7 @@ Different New Document</source>
     <name>ongmani.ct_references</name>
     <message>
         <source>Body Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Основной текст</translation>
     </message>
     <message>
         <source>Caption</source>
@@ -4911,43 +4911,43 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Insert ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить оглавление</translation>
     </message>
     <message>
         <source>Level 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 1</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 2</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 3</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 4</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 5</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 6</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 7</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 8</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 9</translation>
     </message>
     <message>
         <source>Mail Merge</source>
@@ -4971,15 +4971,15 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглавление</translation>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень оглавления</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить оглавление</translation>
     </message>
 </context>
 <context>
@@ -9149,7 +9149,7 @@ Header and Footer</source>
     <name>rainbow.ct_home</name>
     <message>
         <source>1.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1,0</translation>
     </message>
     <message>
         <source>1.5</source>
@@ -10958,7 +10958,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглавление</translation>
     </message>
     <message>
         <source>ToC Level</source>
@@ -14029,7 +14029,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -16697,7 +16697,7 @@ Click the arrow to select different border colors.</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглавление</translation>
     </message>
 </context>
 <context>
@@ -18301,11 +18301,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Раздел</translation>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation type="unfinished">Область навиции</translation>
+        <translation>Навигация по разделам</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -18321,7 +18321,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
     <message>
         <source>Table Tools</source>
@@ -18397,7 +18397,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsrainbow.mainwindow.commands</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнения</translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -18421,7 +18421,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -18437,15 +18437,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Главная</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>Login</source>
@@ -18469,15 +18469,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Структура</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Разметка страницы</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
@@ -18485,7 +18485,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Работа с рисунками</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -18497,15 +18497,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущие документы</translation>
     </message>
     <message>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылки</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Рецензирование</translation>
     </message>
     <message>
         <source>Section</source>
@@ -18513,15 +18513,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Навигация по разделам</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать панель инструментов</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать/Скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -18529,11 +18529,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
     <message>
         <source>Table Tools</source>
@@ -18545,7 +18545,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -18553,7 +18553,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Work Space</source>

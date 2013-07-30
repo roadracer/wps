@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>aeobean</name>
     <message>
@@ -1237,7 +1237,11 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
+        <source>Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

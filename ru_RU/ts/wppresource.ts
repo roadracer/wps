@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="ru_RU">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>classics.3d_settings</name>
@@ -1098,7 +1098,7 @@
     <name>classics.print_preview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1150,7 +1150,7 @@
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
 </context>
 <context>
@@ -1241,7 +1241,7 @@
     <name>classics.slide_master_view</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -1372,14 +1372,14 @@ Master</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -1867,7 +1867,7 @@ Master</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -1939,7 +1939,7 @@ Master</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -2251,7 +2251,7 @@ On</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
@@ -2283,7 +2283,7 @@ On</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -2540,7 +2540,7 @@ On</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помощь</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -2608,7 +2608,7 @@ On</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -2628,11 +2628,11 @@ On</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -2648,11 +2648,11 @@ On</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -2714,11 +2714,11 @@ On</source>
     </message>
     <message>
         <source>1.0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.5 pt</source>
@@ -2742,7 +2742,7 @@ On</source>
     </message>
     <message>
         <source>2.0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -2750,7 +2750,7 @@ On</source>
     </message>
     <message>
         <source>2.5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>216</source>
@@ -2770,7 +2770,7 @@ On</source>
     </message>
     <message>
         <source>3.0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -2802,7 +2802,7 @@ On</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -2810,7 +2810,7 @@ On</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>Align Text</source>
@@ -2874,7 +2874,7 @@ On</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -2906,15 +2906,15 @@ On</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Буфер обмена</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -3043,7 +3043,7 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
@@ -3083,7 +3083,7 @@ Slide</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -3159,7 +3159,7 @@ Slide</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -3183,7 +3183,7 @@ Slide</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -3392,7 +3392,7 @@ Slide</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Колонтитулы</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3400,7 +3400,7 @@ Slide</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Гиперссылка</translation>
     </message>
     <message>
         <source>Images</source>
@@ -3984,7 +3984,7 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
@@ -3992,7 +3992,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4187,7 +4187,7 @@ On/Off</source>
     <name>ongmani.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4255,7 +4255,7 @@ On/Off</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -4595,7 +4595,7 @@ On/Off</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Close
@@ -4624,7 +4624,7 @@ Master View</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -4888,7 +4888,7 @@ Settings</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -4916,7 +4916,7 @@ Settings</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Left</source>
@@ -5064,7 +5064,7 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Horizontal Tile</source>
@@ -5096,7 +5096,7 @@ Other Window</source>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Линейка</translation>
     </message>
     <message>
         <source>Security</source>
@@ -5132,7 +5132,7 @@ Other Window</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор Visual Basic</translation>
     </message>
     <message>
         <source>Window</source>
@@ -5140,7 +5140,7 @@ Other Window</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
 </context>
 <context>
@@ -5584,7 +5584,7 @@ On</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
@@ -6061,11 +6061,11 @@ On</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Буфер обмена</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -6345,7 +6345,7 @@ On</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помощь</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -6369,7 +6369,7 @@ On</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Гиперссылка</translation>
     </message>
     <message>
         <source>Ink Color</source>
@@ -6686,7 +6686,7 @@ Master</source>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Линейка</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -6894,7 +6894,7 @@ Master</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
@@ -6921,7 +6921,7 @@ Master</source>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -7196,7 +7196,7 @@ AddIns</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -7268,7 +7268,7 @@ AddIns</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -7467,7 +7467,7 @@ AddIns</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
@@ -7645,7 +7645,7 @@ AddIns</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помощь</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -7709,7 +7709,7 @@ AddIns</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -7729,11 +7729,11 @@ AddIns</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -7753,11 +7753,11 @@ AddIns</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -8019,15 +8019,15 @@ AddIns</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Буфер обмена</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -8164,7 +8164,7 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
@@ -8196,7 +8196,7 @@ Slide</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -8288,7 +8288,7 @@ Slide</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -8312,7 +8312,7 @@ Slide</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -8533,7 +8533,7 @@ Slide</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Колонтитулы</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -8541,7 +8541,7 @@ Slide</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Гиперссылка</translation>
     </message>
     <message>
         <source>Illustrations</source>
@@ -9130,7 +9130,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
@@ -9138,7 +9138,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
@@ -9343,7 +9343,7 @@ Subordinate</source>
     <name>rainbow.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Color</source>
@@ -9411,7 +9411,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -9702,7 +9702,7 @@ Subordinate</source>
     <name>rainbow.ct_slidemaster</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -9993,7 +9993,7 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Horizontal Tile</source>
@@ -10021,7 +10021,7 @@ Other Window</source>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Линейка</translation>
     </message>
     <message>
         <source>Security</source>
@@ -10057,7 +10057,7 @@ Other Window</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор Visual Basic</translation>
     </message>
     <message>
         <source>Window</source>
@@ -10065,7 +10065,7 @@ Other Window</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
 </context>
 <context>
@@ -10491,7 +10491,7 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
@@ -11098,7 +11098,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Set border style, color and width of the current slide.</source>
@@ -11248,7 +11248,7 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -11310,7 +11310,7 @@ Click the arrow to choose different bullet styles.</source>
     <name>tips.Copy</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
@@ -11345,7 +11345,7 @@ A custom slide show displays only the slides you select.</source>
     <name>tips.Cut</name>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать</translation>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
@@ -11540,7 +11540,7 @@ A custom slide show displays only the slides you select.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -11583,7 +11583,7 @@ Click the arrow to select a different alignment.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -11635,7 +11635,7 @@ Click the arrow to select a different alignment.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Use the Equation Editor to insert mathematical formulas.</source>
@@ -11737,7 +11737,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -11828,7 +11828,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -11852,7 +11852,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.GridGuides</name>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
@@ -11878,11 +11878,11 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Колонтитулы</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -11901,7 +11901,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -11955,7 +11955,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12029,7 +12029,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12078,7 +12078,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12126,7 +12126,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Table</source>
@@ -12145,7 +12145,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12160,7 +12160,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.Italic</name>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Italicize the selected text.</source>
@@ -12354,7 +12354,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12395,7 +12395,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12425,7 +12425,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12611,7 +12611,7 @@ Click the arrow to choose different numbering formats.</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
@@ -12733,7 +12733,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrevClose</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Close the print preview and return to the presentation editing mode.</source>
@@ -12818,7 +12818,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
 </context>
 <context>
@@ -12840,7 +12840,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
 </context>
 <context>
@@ -12858,7 +12858,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Буфер обмена</translation>
     </message>
     <message>
         <source>View all items copied to the clipboard.</source>
@@ -12888,7 +12888,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Use colors, gradients, textures, and pictures to fill the selected table in the current presentation slide.
@@ -12911,7 +12911,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
@@ -12941,7 +12941,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>Replace text in the document.</source>
@@ -12967,7 +12967,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -12993,7 +12993,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -13012,7 +13012,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Линейка</translation>
     </message>
     <message>
         <source>View the rulers, used to measure and line up objects in the document.</source>
@@ -13195,7 +13195,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.ShowHideGrid</name>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Turn on gridlines to which you can align objects in the document.</source>
@@ -13272,7 +13272,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.SlideMasterClose</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Close Slide Master View and return to the edit the slide show.</source>
@@ -13386,7 +13386,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для дополнительной справки нажмите F1.</translation>
     </message>
     <message>
         <source>Sound from File</source>
@@ -13615,7 +13615,7 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -13862,7 +13862,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
 </context>
 <context>
@@ -14015,7 +14015,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
     <message>
         <source>Review</source>
@@ -14117,7 +14117,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Буфер обмена</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
@@ -14141,7 +14141,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Curve Point Popup Menu</source>
@@ -14161,7 +14161,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -14197,7 +14197,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -14238,11 +14238,11 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Гиперссылка</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -14258,11 +14258,11 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -14362,7 +14362,7 @@ Slide</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Paint Brush Popup Menu</source>
@@ -14370,7 +14370,7 @@ Slide</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Picture Popup Menu</source>
@@ -14378,11 +14378,11 @@ Slide</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
     <message>
         <source>Recent File List</source>
@@ -14390,11 +14390,11 @@ Slide</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>Right</source>
@@ -14418,11 +14418,11 @@ Slide</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -14550,7 +14550,7 @@ Slide</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор Visual Basic</translation>
     </message>
     <message>
         <source>Window</source>
@@ -14587,7 +14587,7 @@ Slide</source>
     <name>wppcommon.mainwindow.commands.helpmenu</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помощь</translation>
     </message>
 </context>
 <context>
@@ -14656,7 +14656,7 @@ Slide</source>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Главная</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -14664,7 +14664,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -14704,7 +14704,7 @@ Slide</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -14744,7 +14744,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -14799,7 +14799,7 @@ Slide</source>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -14875,7 +14875,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -14911,7 +14911,7 @@ Slide</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Options</source>
@@ -14927,7 +14927,7 @@ Slide</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -14967,7 +14967,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -15009,7 +15009,7 @@ Slide</source>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
