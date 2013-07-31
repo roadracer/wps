@@ -17,7 +17,9 @@ function die
 }
 
 which lrelease-qt4 && LRELEASE=lrelease-qt4
-which lrelease && LRELEASE=lrelease
+if [ -z "$LRELEASE" ] ; then
+	which lrelease && LRELEASE=lrelease
+fi
 [ -z "$LRELEASE" ] && die "Can not found lrelease, install libqt4-dev first!"
 
 function make_a_qm
