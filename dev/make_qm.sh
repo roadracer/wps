@@ -10,6 +10,18 @@ qt_qm="qt.ts"
 
 set -e
 
+function die
+{
+	echo Error: "$@" >> /dev/stderr
+	exit 1
+}
+
+which lrelease-qt4 && LRELEASE=lrelease-qt4
+if [ -z "$LRELEASE" ] ; then
+	which lrelease && LRELEASE=lrelease
+fi
+[ -z "$LRELEASE" ] && die "Can not found lrelease, install libqt4-dev first!"
+
 function make_a_qm
 {
 	fn=$1
@@ -31,16 +43,8 @@ function make_a_qm
 		return
 	fi
 	echo make $fn.qm
-	lrelease-qt4 $matched_set -qm "$fn.qm"
+	$LRELEASE $matched_set -qm "$fn.qm"
 }
-
-function die
-{
-	echo Error: "$@" >> /dev/stderr
-	exit 1
-}
-
-which lrelease-qt4 || die "Can not found lrelease, install libqt4-dev first!"
 
 make_a_qm "wps" "$*" "$wps_qm"
 make_a_qm "wpp" "$*" "$wpp_qm"

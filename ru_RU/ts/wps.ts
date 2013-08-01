@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>BordersAndShadingWidget</name>
     <message>
@@ -733,14 +733,15 @@
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Загрузка</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -813,11 +814,11 @@
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -863,7 +864,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -1308,7 +1309,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -2006,7 +2007,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
 </context>
 <context>
@@ -2300,7 +2301,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -2543,7 +2544,7 @@ use buttons to apply borders</source>
     <name>KxDlgDropCap</name>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"></translation>
+        <translation>Буквица</translation>
     </message>
     <message>
         <source>Position</source>
@@ -2685,7 +2686,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -2950,7 +2951,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Search options</source>
@@ -3061,179 +3062,180 @@ use buttons to apply borders</source>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Fo&amp;nt</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шрифт</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished"></translation>
+        <translation>А&amp;зиатский текст:</translation>
     </message>
     <message>
         <source>Font st&amp;yle:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Начертание:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Размер:</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт латини&amp;цы:</translation>
     </message>
     <message>
         <source>Complex Scripts</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>I have some difficulty translating this string</translatorcomment>
+        <translation>Обычная письменность</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Шри&amp;фт:</translation>
     </message>
     <message>
         <source>Font Sty&amp;le:</source>
-        <translation type="unfinished"></translation>
+        <translation>Начертан&amp;ие:</translation>
     </message>
     <message>
         <source>Si&amp;ze:</source>
-        <translation type="unfinished"></translation>
+        <translation>Разм&amp;ер:</translation>
     </message>
     <message>
         <source>All text</source>
-        <translation type="unfinished"></translation>
+        <translation>Весь текст</translation>
     </message>
     <message>
         <source>Font &amp;color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Цвет текста:</translation>
     </message>
     <message>
         <source>&amp;Underline style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль &amp;подчёркивания:</translation>
     </message>
     <message>
         <source>Underl&amp;ine color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет под&amp;чёркивания:</translation>
     </message>
     <message>
         <source>Emphasis mark&amp;:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выделение:</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Видоизменение</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Все прописные</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зачёркнутый</translation>
     </message>
     <message>
         <source>Shado&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Тень</translation>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translation type="unfinished"></translation>
+        <translation>М&amp;алые прописные</translation>
     </message>
     <message>
         <source>Double strikethrou&amp;gh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Двойное зачёркивание</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Обводка</translation>
     </message>
     <message>
         <source>Su&amp;perscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Над&amp;строчный</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation type="unfinished"></translation>
+        <translation>Вып&amp;уклый</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыты&amp;й</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Подстрочн&amp;ый</translation>
     </message>
     <message>
         <source>Engra&amp;ve</source>
-        <translation type="unfinished"></translation>
+        <translation>Вдав&amp;ленный</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это шрифт TrueType. Он используется для вывода как на экран, так и на принтер.</translation>
     </message>
     <message>
         <source>Cha&amp;racter Spacing </source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Межзнаковый интервал</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ин&amp;тервал:</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>См&amp;ещение:</translation>
     </message>
     <message>
         <source>&amp;By:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;на:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычный</translation>
     </message>
     <message>
         <source>Raised</source>
-        <translation type="unfinished"></translation>
+        <translation>Вверх</translation>
     </message>
     <message>
         <source>Lowered</source>
-        <translation type="unfinished"></translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation>н&amp;а:</translation>
     </message>
     <message>
         <source>S&amp;cale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Масшта&amp;б:</translation>
     </message>
     <message>
         <source>Expanded</source>
-        <translation type="unfinished"></translation>
+        <translation>Разреженный</translation>
     </message>
     <message>
         <source>Condensed</source>
-        <translation type="unfinished"></translation>
+        <translation>Уплонтнённый</translation>
     </message>
     <message>
         <source>&amp;Kerning for fonts:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Кернинг для знаков размером:</translation>
     </message>
     <message>
         <source>p&amp;oints and above</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;пунктов и более</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Привязать к сетке, если она включена</translation>
     </message>
     <message>
         <source>&amp;Default...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;По умолчанию...</translation>
     </message>
 </context>
 <context>
@@ -3586,7 +3588,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -4587,7 +4589,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Save &amp;files as default:</source>
@@ -4631,7 +4633,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Printing options</source>
@@ -5692,7 +5694,7 @@ use buttons to apply borders</source>
     <name>KxDlgParagraph</name>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Абзац</translation>
     </message>
     <message>
         <source>&amp;Indents and Spacing</source>
@@ -5700,27 +5702,27 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"></translation>
+        <translation>В&amp;ыравнивание:</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>По левому краю</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>По правому краю</translation>
     </message>
     <message>
         <source>Justified</source>
-        <translation type="unfinished"></translation>
+        <translation>По ширине</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -5728,23 +5730,23 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Направление:</translation>
     </message>
     <message>
         <source>Right-to-left</source>
-        <translation type="unfinished"></translation>
+        <translation>Справа налево</translation>
     </message>
     <message>
         <source>Left-to-right</source>
-        <translation type="unfinished"></translation>
+        <translation>Слева направо</translation>
     </message>
     <message>
         <source>Indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Отступ</translation>
     </message>
     <message>
         <source>Befo&amp;re text:</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;лева:</translation>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 1</source>
@@ -5756,27 +5758,27 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Special:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перва&amp;я строка:</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;на:</translation>
     </message>
     <message>
         <source>After te&amp;xt:</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;права:</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(нет)</translation>
     </message>
     <message>
         <source>First line</source>
-        <translation type="unfinished"></translation>
+        <translation>Отступ</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Выступ</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -5792,11 +5794,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Интервал</translation>
     </message>
     <message>
         <source>&amp;Before:</source>
-        <translation type="unfinished"></translation>
+        <translation>П&amp;еред:</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 6</source>
@@ -5812,39 +5814,39 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>L&amp;ine spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Междустрочный:</translation>
     </message>
     <message>
         <source>&amp;At:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Значение:</translation>
     </message>
     <message>
         <source>Aft&amp;er:</source>
-        <translation type="unfinished"></translation>
+        <translation>П&amp;осле:</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Одинарный</translation>
     </message>
     <message>
         <source>1.5 Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5 строки</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойной</translation>
     </message>
     <message>
         <source>At least</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимум</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished"></translation>
+        <translation>Точно</translation>
     </message>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Множитель</translation>
     </message>
     <message>
         <source>Multiple, 2, 0.06, 132, 0.5</source>
@@ -5856,51 +5858,51 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <source>&amp;Outline level:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Уровень:</translation>
     </message>
     <message>
         <source>Body text</source>
-        <translation type="unfinished"></translation>
+        <translation>Основной текст</translation>
     </message>
     <message>
         <source>Level 1 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 1</translation>
     </message>
     <message>
         <source>Level 2 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 2</translation>
     </message>
     <message>
         <source>Level 3 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 3</translation>
     </message>
     <message>
         <source>Level 4 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 4</translation>
     </message>
     <message>
         <source>Level 5 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 5</translation>
     </message>
     <message>
         <source>Level 6 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 6</translation>
     </message>
     <message>
         <source>Level 7 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 7</translation>
     </message>
     <message>
         <source>Level 8 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 8</translation>
     </message>
     <message>
         <source>Level 9 </source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень 9</translation>
     </message>
     <message>
         <source>Line and &amp;Page Breaks</source>
@@ -5908,7 +5910,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Pagination</source>
-        <translation type="unfinished"></translation>
+        <translation>Разбивка на страницы</translation>
     </message>
     <message>
         <source>Widow/Orphan &amp;control</source>
@@ -5984,7 +5986,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Табуляция...</translation>
     </message>
 </context>
 <context>
@@ -6066,7 +6068,7 @@ use buttons to apply borders</source>
     <name>KxDlgPrint</name>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -6126,7 +6128,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>Pages per s&amp;heet:</source>
@@ -6251,19 +6253,19 @@ use buttons to apply borders</source>
     <name>KxDlgSpiltCells</name>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделить ячейки</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Число &amp;столбцов:</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Число с&amp;трок:</translation>
     </message>
     <message>
         <source>&amp;Merge cells before split</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Объединить ячейки перед разделением</translation>
     </message>
 </context>
 <context>
@@ -6286,7 +6288,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -6860,7 +6862,7 @@ use buttons to apply borders</source>
     <name>KxDlgZoom</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>Zoom to</source>
@@ -7038,7 +7040,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7757,7 +7759,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -8604,11 +8606,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -8732,11 +8734,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxSpiltCellsDlg</name>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Число должно быть в диапазоне от %1 до %2.</translation>
     </message>
     <message>
         <source>The number must be a divisor of %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Число должно быть делителем %1.</translation>
     </message>
 </context>
 <context>
@@ -9041,7 +9043,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -9112,7 +9114,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsBrowserModel</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -9246,19 +9248,19 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>см</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>мм</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>пт</translation>
     </message>
     <message>
         <source>(No picture)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Нет изображения)</translation>
     </message>
     <message>
         <source>Existing picture</source>
@@ -9270,23 +9272,23 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>150%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>200%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>500%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -9354,63 +9356,63 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>40</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>44</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>54</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>60</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>66</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>80</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>90</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>96</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>105</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>120</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>144</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Весь документ</translation>
     </message>
     <message>
         <source>This section</source>
@@ -9422,7 +9424,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>Все изображения (*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
     </message>
     <message>
         <source>(Has successfully added pictures)</source>
@@ -9666,21 +9668,21 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsFillColorModel</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет цвета</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFillColorModel2</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически</translation>
     </message>
 </context>
 <context>
@@ -10083,64 +10085,64 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsSpecialPopupWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusPageInfo</name>
     <message>
         <source>Page: %1/%2 Section: %3/%4</source>
-        <translation type="unfinished"></translation>
+        <translation>Страница: %1 из %2 Раздел: %3 из %4</translation>
     </message>
     <message>
         <source>Page Num: %1 Page: %2/%3 Section: %4/%5</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер страницы: %1 Страница: %2 из %3 Раздел: %4 из %5</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusPositionInfo</name>
     <message>
         <source>Row: %1 Column: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Строка: %1 Символ: %2</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusWordCountInfo</name>
     <message>
         <source>Words: </source>
-        <translation type="unfinished"></translation>
+        <translation>Число слов:</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Стили</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStyleGalleryModelItem</name>
     <message>
         <source>Modify Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль</translation>
     </message>
     <message>
         <source>Delete Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить стиль</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableFillColorModel</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет цвета</translation>
     </message>
 </context>
 <context>
@@ -10239,7 +10241,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>QObject</name>
     <message>
         <source>The number input must be between 1 and 63</source>
-        <translation type="unfinished"></translation>
+        <translation>Число должно быть в диапазоне от 1 до 63</translation>
     </message>
     <message>
         <source>You must type a character for the custom separator.</source>
@@ -10251,7 +10253,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка орфографии</translation>
     </message>
     <message>
         <source>Track</source>
@@ -10433,7 +10435,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -10447,7 +10449,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>waterMarkDlg</name>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Подложка</translation>
     </message>
     <message>
         <source>WaterMarkSetting</source>
