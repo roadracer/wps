@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -6,631 +6,631 @@
     <name>classics.3dsettings</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Kleur</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Aan/Uit</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Helder</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Diepte</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="unfinished"></translation>
+        <translation>Donker</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Richting</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="unfinished"></translation>
+        <translation>Oneindigheid</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlichting</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="unfinished"></translation>
+        <translation>Mat</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaal</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer 3-D Kleuren</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="unfinished"></translation>
+        <translation>Parallel</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspectief</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="unfinished"></translation>
+        <translation>Plastiek</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppervlak</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai Omlaag</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai Links</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai Rechts</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai Omhoog</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
     <name>classics.align</name>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Omlaag Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links Uitlijne</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Omhoog Uitlijnen</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Voren</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Voor Tekst</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Voorkant</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Verspreid Horizontaal</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Verspreid Verticaal</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Groepeer</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Achteren</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Achter Tekst</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Achterkant</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Degroepeer</translation>
     </message>
 </context>
 <context>
     <name>classics.compare_views</name>
     <message>
         <source>Reset Window Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset Vensterpositie</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchroon Scrollen</translation>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk Naast Elkaar</translation>
     </message>
 </context>
 <context>
     <name>classics.control_tool_box</name>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectievak</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Keuzelijst</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdrachtknop</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bedieningslijst</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwerpmodus</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Label</translation>
     </message>
     <message>
         <source>List Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijst Knop</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Knoppen</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties Knop</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrollbar</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaiknop</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstvak</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Schakelknop</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk Code</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Eigenschappen</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D Stijl 9</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Omlaag Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links Uitlijne</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Omhoog Uitlijnen</translation>
     </message>
     <message>
         <source>Align/Distribute/Equalize</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitluinen/Verspreiden/Gelijkmaken</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl Stijl 9</translation>
     </message>
     <message>
         <source>Auto Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Autovormen</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Achter Tekst</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Voren</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Voor Tekst</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Voorkant</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Streepje</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep Stijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punt-Streep</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Verspreid Horizontaal</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Verspreid Verticaal</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Omlaag</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Teken</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig Punten</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Grootte</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Opvulkleur</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Opvuleffecten</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai Horizontaal</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai Verticaal</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Kleur</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrije Rotatie</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Gallerij</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Rooster</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Groep</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Voor Tekst</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijnen Met Tekst</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto Invoegen</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt Invoegen</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnkleur</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnen</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange Streep</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Pijlen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Opvulkleuren</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Lettertypekleuren</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Lijnkleuren</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Lijnen</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
