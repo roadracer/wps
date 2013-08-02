@@ -1208,7 +1208,7 @@ Samengevoegde Data</translation>
     <name>classics.outlining</name>
     <message>
         <source>Go to ToC</source>
-        <translation>Ga naar Algemene Voorwaarden</translation>
+        <translation>Ga naar Inhoudstabel</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -1244,7 +1244,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Wijzig Algemene Voorwaarden</translation>
+        <translation>Wijzig Inhoudstabel</translation>
     </message>
 </context>
 <context>
@@ -2771,7 +2771,7 @@ Aan</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>textuur</translation>
+        <translation>Textuur</translation>
     </message>
     <message>
         <source>Through</source>
@@ -3779,7 +3779,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Go to ToC</source>
-        <translation>Ga naar Algemene Voorwaarden</translation>
+        <translation>Ga naar Inhoudstabel</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -3827,7 +3827,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Wijzig Algemene Voorwaarden</translation>
+        <translation>Wijzig Inhoudstabel</translation>
     </message>
 </context>
 <context>
@@ -4281,7 +4281,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished">Nieuwe Stijl</translation>
+        <translation>Nieuwe Stijl</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4289,257 +4289,257 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Promote to Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Opwaarderen naar Niveau</translation>
     </message>
     <message>
         <source>Promote to ToC 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Promoveer tot Inhoudstabel 1</translation>
     </message>
     <message>
         <source>Reduced Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Verminderde Regelafstand</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Vasthangen aan Raster</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stijl</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Stijlen / Opmaak</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Smal</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleine Regelafstand</translation>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderlijnkleur</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderlijnen</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_paragraph.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Nummering</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_picturetools</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijnen</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Omlaag Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links Uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Omhoog Uitlijnen</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Schikken</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Achter Tekst</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwart/Wit</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Voren</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Voor Tekst</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Voorkant</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig Afbeelding</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimeer Afbeeldingen</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijsnijden</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Streepje</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep Stijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punt-Streep</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Verspreid Horizontaal</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Verspreid Verticaal</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Grootte</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai Horizontaal</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai Verticaal</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object Opmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrije Rotatie</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Gallerij</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradiënt</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijswaarden</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasterlijnen</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Groepeer</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Voor Tekst</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijnen Met Tekst</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -4547,303 +4547,303 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art Invoegen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto Invoegen</translation>
     </message>
     <message>
         <source>InsertPicture</source>
-        <translation type="unfinished"></translation>
+        <translation>FotoInvoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Minder Helder</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>Minter Contrast</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange Streep</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Helderder</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Contrast</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Opvulkleuren</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Lijnkleuren</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Lijnen</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Schaduwkleuren</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen Schaduw</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Patroon</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Patroonlijnen</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig Afbeelding</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding Opvullen</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding Schets</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding Grootte</translation>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding Stijlen</translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Relatief aan Pagina</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding Resetten</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotatie</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai 90° Links</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Draai 90° Rechts</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ronde Punt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectiepaneel</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Semitransparante Schaduw</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Achteren</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Achter Tekst</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar Achterkant</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig Transparante Kleur</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduwkleur</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw aan</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Instellingen</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Stijl 9</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschuif Schaduw Omlaag</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschuif Schaduw naar Links</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Shuif Schaduw naar Rechts</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Schuif Schaduw Omhoog</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Vast</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierkant</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierkant Punt</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstterugloop</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textuur</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>Door</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Smal</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Boven en Onderkant</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Degroepeer</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitwassen</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>Gewicht</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstterugloop Stijl</translation>
     </message>
 </context>
 <context>
@@ -4854,11 +4854,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit Voorbeeld</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Een Pagina</translation>
     </message>
     <message>
         <source>Print</source>
@@ -4866,7 +4866,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>PrintZoom</source>
-        <translation type="unfinished"></translation>
+        <translation>AfdrukkenZoom</translation>
     </message>
     <message>
         <source>Show</source>
@@ -4874,170 +4874,172 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Twee Pagina&apos;s</translation>
     </message>
     <message>
         <source>View Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk Meetlat</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_references</name>
     <message>
         <source>Body Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstlichaam</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderschift</translation>
     </message>
     <message>
         <source>Captions</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderschiften</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Kruisverwijzing</translation>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Voetnoten</translation>
     </message>
     <message>
         <source>Insert
 Footnote/Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Invoegen
+Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Insert Footnote/Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Voetnoot/Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Insert ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg Inhoudstabel in</translation>
     </message>
     <message>
         <source>Level 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 1</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 2</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 3</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 4</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 5</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 6</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 7</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 8</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau 9</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Mail Samenvoegen</translation>
     </message>
     <message>
         <source>Mailings</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Unsure If it is in the context &quot;brief&quot; or &quot;email&quot;</translatorcomment>
+        <translation>Mailings</translation>
     </message>
     <message>
         <source>Next Footnote/Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon Voetnoot/Eindnoot Separator</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of Verberg Voetnoot/Eindnoot Separator</translation>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhoudstabel</translation>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhoudstabel Niveau</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig Inhoudstabel</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_review</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanvaarden</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanvaard Alle Wijzigingen in Document</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanvaard Wijziging</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanvaard Geselecteerde Wijziging</translation>
     </message>
     <message>
         <source>All Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Beoordelingen</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opties voor Bijhouden Aanpassen...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gebruikersnaam Aanpassen</translation>
     </message>
     <message>
         <source>Change and Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanpassen en en Opmerking Geven</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Controleer Spelling</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerkingen</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Omzetten naar Vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Omzetten naar Traditioneel Chinees</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -5045,27 +5047,27 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Alle Opmerkingen in Document</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Opmerking</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon Voor Beoordeling</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Definitief Toon Opmaak;Definitief;Origineel toon Opmaak;Origineel</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg Opmerking In</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>Next</source>
@@ -5073,51 +5075,51 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Next Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende Wijziging</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende Opmerking</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige</translation>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige Wijziging</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige Opmerking</translation>
     </message>
     <message>
         <source>Proofing</source>
-        <translation type="unfinished"></translation>
+        <translation>Proofing</translation>
     </message>
     <message>
         <source>Protect</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschermen</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Afwijzen</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwerp Alle Wijzigingen in Document</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwerp Wijziging</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Beperk Bewerken</translation>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Reviewers</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5125,42 +5127,42 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon Alle Revisies Inline</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon de Revisor Informatie in de Ballon</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon Revisies in Ballonnen</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hou Wijzigingen Bij</translation>
     </message>
     <message>
         <source>Use Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik Ballonnen</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal Woorden</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_section</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen</translation>
     </message>
     <message>
         <source>Contents Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhoudspagina</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Doorlopende Sectie-einde</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -18174,55 +18176,55 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsongmani.mainwindow.commands</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Add-Ins</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Account Wijzigen</translation>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersinformatie Wijzigen</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
-        <translation type="unfinished"></translation>
+        <translation>Taakblad Aanpassen</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwikkelaar</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Docer Online Sjablonen</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekengereedschap</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formaten</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Docs</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Header/Footer</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Verberg de Werkbalk</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -18230,31 +18232,31 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggen</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitloggen</translation>
     </message>
     <message>
         <source>Mailings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mailings</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigatiepaneel</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Leeg Bestand</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw uit Meer Templates</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet Ingelogd</translation>
     </message>
     <message>
         <source>Open</source>
@@ -18262,7 +18264,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -18334,7 +18336,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Beel</translation>
+        <translation>Beeld</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
