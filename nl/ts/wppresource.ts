@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -1098,7 +1098,7 @@
     <name>classics.print_preview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1171,7 +1171,7 @@
     <name>classics.review</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
@@ -1191,7 +1191,7 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -1241,7 +1241,7 @@
     <name>classics.slide_master_view</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -1348,7 +1348,7 @@ Master</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -1665,7 +1665,7 @@ Master</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppen</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -1786,7 +1786,7 @@ Master</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina-instelling</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -1867,7 +1867,7 @@ Master</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -2540,7 +2540,7 @@ On</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -2584,7 +2584,7 @@ On</source>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw</translation>
     </message>
     <message>
         <source>New Blank File</source>
@@ -2608,7 +2608,7 @@ On</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -2628,7 +2628,7 @@ On</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukken</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -2644,11 +2644,11 @@ On</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -2906,15 +2906,15 @@ On</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klembord</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëren</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -2986,7 +2986,7 @@ On</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -3159,11 +3159,11 @@ Slide</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3183,7 +3183,7 @@ Slide</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -3219,7 +3219,7 @@ Slide</source>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -3992,7 +3992,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Invoegen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4187,7 +4187,7 @@ On/Off</source>
     <name>ongmani.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4255,7 +4255,7 @@ On/Off</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukken</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -4275,11 +4275,11 @@ On/Off</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Weergeven</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -4595,7 +4595,7 @@ On/Off</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Close
@@ -4840,7 +4840,7 @@ Settings</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -5104,7 +5104,7 @@ Other Window</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Weergeven</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -5136,7 +5136,7 @@ Other Window</source>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Venster</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -5716,7 +5716,7 @@ On</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppen</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -6061,11 +6061,11 @@ On</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klembord</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -6345,7 +6345,7 @@ On</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -6518,7 +6518,7 @@ Master</source>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -6578,15 +6578,15 @@ Master</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina-instelling</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauze</translation>
     </message>
     <message>
         <source>Pause Background Music</source>
@@ -6594,7 +6594,7 @@ Master</source>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Afspelen</translation>
     </message>
     <message>
         <source>Play Back</source>
@@ -6630,7 +6630,7 @@ Master</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -6662,7 +6662,7 @@ Master</source>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Doorgaan</translation>
     </message>
     <message>
         <source>Resume Background Music</source>
@@ -6987,7 +6987,7 @@ Master</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -7110,7 +7110,7 @@ Master</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina-instelling</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -7196,7 +7196,7 @@ AddIns</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -7645,7 +7645,7 @@ AddIns</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -7685,7 +7685,7 @@ AddIns</source>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -7709,7 +7709,7 @@ AddIns</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -7729,7 +7729,7 @@ AddIns</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukken</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -7745,7 +7745,7 @@ AddIns</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -7753,7 +7753,7 @@ AddIns</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -8019,15 +8019,15 @@ AddIns</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klembord</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëren</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -8099,7 +8099,7 @@ AddIns</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -8288,11 +8288,11 @@ Slide</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -8312,7 +8312,7 @@ Slide</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -8348,7 +8348,7 @@ Slide</source>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -9138,7 +9138,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Invoegen</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
@@ -9343,7 +9343,7 @@ Subordinate</source>
     <name>rainbow.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Color</source>
@@ -9411,7 +9411,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukken</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -9431,11 +9431,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Weergeven</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -9480,7 +9480,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
@@ -9512,7 +9512,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -9702,7 +9702,7 @@ Subordinate</source>
     <name>rainbow.ct_slidemaster</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -9844,7 +9844,7 @@ Settings</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -10029,7 +10029,7 @@ Other Window</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Weergeven</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -10061,7 +10061,7 @@ Other Window</source>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Venster</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -10615,7 +10615,7 @@ Other Window</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppen</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -11248,7 +11248,7 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -11310,7 +11310,7 @@ Click the arrow to choose different bullet styles.</source>
     <name>tips.Copy</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëren</translation>
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
@@ -11345,7 +11345,7 @@ A custom slide show displays only the slides you select.</source>
     <name>tips.Cut</name>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
@@ -11389,7 +11389,7 @@ A custom slide show displays only the slides you select.</source>
     <name>tips.Delete</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Delete the selected row or column.</source>
@@ -11683,7 +11683,7 @@ Click the arrow to select a different alignment.</source>
     <name>tips.Find</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Find text in the presentation.</source>
@@ -12040,7 +12040,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertObject</name>
     <message>
         <source>Insert Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object Invoegen</translation>
     </message>
     <message>
         <source>Insert an embedded object.</source>
@@ -12574,7 +12574,7 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina-instelling</translation>
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
@@ -12611,7 +12611,7 @@ Click the arrow to choose different numbering formats.</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
@@ -12733,7 +12733,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrevClose</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Close the print preview and return to the presentation editing mode.</source>
@@ -12818,7 +12818,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukken</translation>
     </message>
 </context>
 <context>
@@ -12858,7 +12858,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klembord</translation>
     </message>
     <message>
         <source>View all items copied to the clipboard.</source>
@@ -12941,7 +12941,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Replace text in the document.</source>
@@ -13056,7 +13056,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.SelectAll</name>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <source>Use &quot;Select All&quot; to select the slide, object, or text content in the presentation.</source>
@@ -13272,7 +13272,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.SlideMasterClose</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Close Slide Master View and return to the edit the slide show.</source>
@@ -14117,7 +14117,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klembord</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
@@ -14141,7 +14141,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëren</translation>
     </message>
     <message>
         <source>Curve Point Popup Menu</source>
@@ -14161,7 +14161,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -14185,7 +14185,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -14197,7 +14197,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Afsluiten</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -14209,7 +14209,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Format</source>
@@ -14258,7 +14258,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Invoegen</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -14310,7 +14310,7 @@ Slide</source>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -14362,7 +14362,7 @@ Slide</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <source>Paint Brush Popup Menu</source>
@@ -14370,7 +14370,7 @@ Slide</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Picture Popup Menu</source>
@@ -14378,7 +14378,7 @@ Slide</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukken</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -14390,11 +14390,11 @@ Slide</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Opnieuw</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Right</source>
@@ -14418,7 +14418,7 @@ Slide</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -14426,7 +14426,7 @@ Slide</source>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -14542,11 +14542,11 @@ Slide</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongedaan maken</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Beeld</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -14554,7 +14554,7 @@ Slide</source>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Venster</translation>
     </message>
     <message>
         <source>WordArt Popup Menu</source>
@@ -14587,7 +14587,7 @@ Slide</source>
     <name>wppcommon.mainwindow.commands.helpmenu</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Help</translation>
     </message>
 </context>
 <context>
@@ -14664,7 +14664,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Invoegen</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -14756,7 +14756,7 @@ Slide</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Beeld</translation>
     </message>
     <message>
         <source>What News</source>
@@ -14875,7 +14875,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Invoegen</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -14911,7 +14911,7 @@ Slide</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <source>Options</source>
@@ -14979,7 +14979,7 @@ Slide</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>menu Beeld</translation>
     </message>
     <message>
         <source>What News</source>
