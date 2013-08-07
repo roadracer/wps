@@ -877,7 +877,7 @@
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Accent</translation>
+        <translation type="unfinished">Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -1311,7 +1311,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation type="unfinished">Objectopmaak</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -1445,7 +1445,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation type="unfinished">Wijzigingsvoorstellen Weergeven</translation>
+        <translation>Wijzigingsvoorstellen Weergeven</translation>
     </message>
     <message>
         <source>Final</source>
@@ -2507,7 +2507,7 @@ Aan</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Verspreiden</translation>
+        <translation type="unfinished">Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -2555,7 +2555,7 @@ Aan</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation type="unfinished">Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -3203,7 +3203,7 @@ Aan</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Verspreid</translation>
+        <translation type="unfinished">Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -3211,7 +3211,7 @@ Aan</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Accent</translation>
+        <translation type="unfinished">Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -4201,7 +4201,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Verspreid</translation>
+        <translation type="unfinished">Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Document Gridlines</source>
@@ -4305,7 +4305,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation type="unfinished">Uitlijnen op raster</translation>
+        <translation>Uitlijnen op raster</translation>
     </message>
     <message>
         <source>Style</source>
@@ -4503,7 +4503,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation type="unfinished">Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -5055,7 +5055,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation type="unfinished">Wijzigingsvoorstellen Weergeven</translation>
+        <translation>Wijzigingsvoorstellen Weergeven</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -6696,7 +6696,7 @@ Aan</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation type="unfinished">Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -7583,7 +7583,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation type="unfinished">Objectopmaak</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -8615,7 +8615,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Verspreiden</translation>
+        <translation type="unfinished">Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -8647,7 +8647,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation type="unfinished">Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -9298,7 +9298,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Verspreiden</translation>
+        <translation type="unfinished">Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -9306,7 +9306,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Accent</translation>
+        <translation type="unfinished">Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -10332,7 +10332,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation type="unfinished">Uitlijnen op raster</translation>
+        <translation>Uitlijnen op raster</translation>
     </message>
     <message>
         <source>Style</source>
@@ -10515,7 +10515,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation type="unfinished">Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -11064,7 +11064,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation type="unfinished">Wijzigingsvoorstellen Weergeven</translation>
+        <translation>Wijzigingsvoorstellen Weergeven</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -12607,7 +12607,7 @@ Other Window</source>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation type="unfinished">Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -13988,7 +13988,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Snap to grid</source>
-        <translation type="unfinished">Uitlijnen op raster</translation>
+        <translation>Uitlijnen op raster</translation>
     </message>
 </context>
 <context>
@@ -14093,11 +14093,13 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
         <source>Add black dots under selected content to show emphasis.
 
 Click the arrow to add a strikethrough.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwarte punten toevoegen onder de geselecteerde inhoud om een nadruk te leggen.
+
+Klik op de pijl om de tekst te doorstrepen.</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Accent</translation>
+        <translation>Nadruk Teken</translation>
     </message>
 </context>
 <context>
@@ -14106,7 +14108,9 @@ Click the arrow to add a strikethrough.</source>
         <source>Add a circle or other border around a character.
 
 Click the arrow to choose Phonetic Guide, Change Case and Character Border options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een cirkel of een andere rand rond de letter maken.
+
+Klik op de pijl om een fonetische gids te kiezen of de rand aan te passen.</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -14117,11 +14121,11 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <name>tips.EnterParagraphAdjustment</name>
     <message>
         <source>Enter Paragraph Layout mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar paragraafopmaak modus.</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished">paragraafindeling</translation>
+        <translation type="unfinished">Paragraafopmaak</translation>
     </message>
 </context>
 <context>
@@ -14132,7 +14136,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     </message>
     <message>
         <source>Close the Paragraph Layout tool and return to editing the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit de paragraafopmaak hulpvenster en ga verder met het document aan te passen.</translation>
     </message>
 </context>
 <context>
@@ -14143,43 +14147,43 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     </message>
     <message>
         <source>Expand the selected item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het geselecteerde item uitvouwen.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorBackupDir</name>
     <message>
         <source>Explore File Safe</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandenkluis Bekijken</translation>
     </message>
     <message>
         <source>View backup files and open or recover the backup files for a certain document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de backupbestanden en bekijk of herstel de backup van een bepaald document.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorVersion</name>
     <message>
         <source>View Backup History</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk Backupgeschiedenis</translation>
     </message>
     <message>
         <source>View the backup record history of the current document to open, delete or restore the files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de backupgeschiedenis van het huidig document en open, verwijder of herstel een vorige versie.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExportWeiboImageCmd</name>
     <message>
         <source>Export Weibo Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteer Weibo Afbeelding</translation>
     </message>
 </context>
 <context>
     <name>tips.FieldFormula</name>
     <message>
         <source>Add a formula to a cell, to perform a simple calculation, such as SUM, AVERAGE or MAX.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een formule aan een cel toevoegen om een berekening uit te voegen zoals SOM, GEMIDDELDE of MAX.</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -14190,13 +14194,15 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <name>tips.FillColor</name>
     <message>
         <source>Click the arrow to choose different fill types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om verschillende inhoudstypes te selecteren.</translation>
     </message>
     <message>
         <source>Fill the selected shape with color, gradient, a texture, or a picture.
 
 Click the arrow to choose different fill types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vul de geselecteerde vorm met een kleur, kleurhelling, tekstuur of een afbeelding.
+
+Klik op de pijl om verschillende inhoudtypes te selecteren. </translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -14207,7 +14213,7 @@ Click the arrow to choose different fill types.</source>
     <name>tips.Find</name>
     <message>
         <source>Click the arrow to choose other options, such as Go To.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om andere opties te kiezen, zoals Ga Naar.</translation>
     </message>
     <message>
         <source>Find</source>
@@ -14217,7 +14223,9 @@ Click the arrow to choose different fill types.</source>
         <source>Find text in the document.
 
 Click the arrow to choose other options, such as Go To.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoek tekst in het document.
+
+Klik op de pijl om andere opties te kiezen, zoals Ga Naar.</translation>
     </message>
 </context>
 <context>
@@ -14228,7 +14236,7 @@ Click the arrow to choose other options, such as Go To.</source>
     </message>
     <message>
         <source>Specify a unique header and footer for the first page of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifieer een unieke koptekst en voettekst voor de eerste pagina van het document.</translation>
     </message>
 </context>
 <context>
@@ -14239,7 +14247,7 @@ Click the arrow to choose other options, such as Go To.</source>
     </message>
     <message>
         <source>Preview the first record in the recipient list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de eerste vermelding in de ontvangerslijst.</translation>
     </message>
 </context>
 <context>
@@ -14250,7 +14258,7 @@ Click the arrow to choose other options, such as Go To.</source>
     </message>
     <message>
         <source>Go to the first section of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de eerste sectie van het document.</translation>
     </message>
 </context>
 <context>
@@ -14259,15 +14267,17 @@ Click the arrow to choose other options, such as Go To.</source>
         <source>Change the text color.
 
 Click the arrow to choose a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de tekstkleur aan.
+
+Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -14275,14 +14285,14 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.FontName</name>
     <message>
         <source>Change the font face.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander het lettertype.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -14293,7 +14303,7 @@ Click the arrow to choose a different text color.</source>
     <name>tips.FontSize</name>
     <message>
         <source>Change the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander de lettergrootte.</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -14304,40 +14314,40 @@ Click the arrow to choose a different text color.</source>
     <name>tips.FooterLinkToPrevious</name>
     <message>
         <source>Link the current footer to the previous section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Link de huidige voettekst aan de vorige sectie.</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelfde als vorige sectie.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignCenter</name>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centreer tekst.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignDistributed</name>
     <message>
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>De paragraaf zowel links als rechts uitlijnen door extra plaats tussen de tekens te laten.</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Verspreiden</translation>
+        <translation>Recht Uitlijnen</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignJustify</name>
     <message>
         <source>Align text to both the left and right margins by adding extra space between words as necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>De paragraaf zowel links als rechts uitlijnen door extra plaats tussen de woorden te laten.</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -14348,33 +14358,33 @@ Click the arrow to choose a different text color.</source>
     <name>tips.FormatAlignLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Links Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst links uitlijnen.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Rechts Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst rechts uitlijnen.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatObject</name>
     <message>
         <source>Format Object</source>
-        <translation>Object Opmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Show the Format Object dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het objectopmaak dialoogvenster.</translation>
     </message>
 </context>
 <context>
@@ -14383,7 +14393,9 @@ Click the arrow to choose a different text color.</source>
         <source>Copy formatting from one place to apply it to another.
 
 Double-click this button to apply the same formatting to multiple places in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer de opmaak van een plaats en pas ze toe op een andere plaats.
+
+Dubbelklik deze knop om dezelfde opmaak op verschillende plaatsen in het document toe te passen.</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -14391,42 +14403,44 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.FullScreenMode</name>
     <message>
         <source>Full Screen Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig scherm modus</translation>
     </message>
     <message>
         <source>View the document in full screen mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk het document in volledig scherm modus.</translation>
     </message>
 </context>
 <context>
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Gallerij</translation>
     </message>
     <message>
         <source>Kingsoft Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
 
 Kingsoft Gallery Online Sources require internet connection. My Gallery can be used  without internet after logging in. </source>
-        <translation type="unfinished"></translation>
+        <translation>Met Kingsoft Gallerij kan jeafbeeldingen selecteren uit verschillende afbeeldingsbronnen.
+
+Kingsoft Gallerij Online heeft internetverbinding nodig. Mijn Gallerij kan gebruikt worden zonder het internet na in te loggen.</translation>
     </message>
 </context>
 <context>
     <name>tips.GenkoSetting</name>
     <message>
         <source>Apply Genko settings to the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Genko instellingen toepassen op het huidige document.</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -14434,22 +14448,22 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.GotoFootnotes</name>
     <message>
         <source>Go to Footnotes or Endnotes in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de volgende voetnoot of eindnoot in het document.</translation>
     </message>
     <message>
         <source>Next Footnote/Endnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende Voetnoot/Eindnoot.</translation>
     </message>
 </context>
 <context>
@@ -14460,7 +14474,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>View a specific record in the Recipient list</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk een specifieke vermelding in de ontvangers lijst.</translation>
     </message>
 </context>
 <context>
@@ -14471,7 +14485,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Go to ToC of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de inhoudstafel van het document.</translation>
     </message>
 </context>
 <context>
@@ -14482,7 +14496,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet de rasterlijnen aan of uit. Op de rasterlijnen kan je objecten in het document uitlijnen.</translation>
     </message>
 </context>
 <context>
@@ -14493,20 +14507,22 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettergrootte vergroten.</translation>
     </message>
 </context>
 <context>
     <name>tips.HeadRowsRepeat</name>
     <message>
         <source>Repeat Header Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Koprijen Herhalen</translation>
     </message>
     <message>
         <source>Repeat the header rows of the selected table on every page.
 
 This only affects tables which extend beyond a single page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Herhaal de koprijen van de geselecteerde tabel op iedere pagina.
+
+Dit heeft enkel invloed op tabellen die groter zijn dan één pagina.</translation>
     </message>
 </context>
 <context>
@@ -14517,7 +14533,7 @@ This only affects tables which extend beyond a single page.</source>
     </message>
     <message>
         <source>Show the Header/Footer dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het koptekst/voettekst dialoogvenster.</translation>
     </message>
 </context>
 <context>
@@ -14528,15 +14544,15 @@ This only affects tables which extend beyond a single page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>De koptekst en voettekst van het document aanpassen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16511,7 +16527,7 @@ The selected level and all higher levels will be visible.</source>
     <name>tips.ShrinkFont</name>
     <message>
         <source>Decrease the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verklein de grootte van het lettertype.</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -16522,11 +16538,11 @@ The selected level and all higher levels will be visible.</source>
     <name>tips.SimplifiedChinese</name>
     <message>
         <source>Convert the document to Simplified Chinese.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het document omzetten naar vereenvoudigd Chinees.</translation>
     </message>
     <message>
         <source>Simplified</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereenvoudigd</translation>
     </message>
 </context>
 <context>
@@ -16537,18 +16553,18 @@ The selected level and all higher levels will be visible.</source>
     </message>
     <message>
         <source>Split the selected cells into multiple new cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdeel de geselecteerde cellen in meerdere nieuwe cellen.</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitSection</name>
     <message>
         <source>Click here to choose section break types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om de sectieeindes te kiezen.</translation>
     </message>
     <message>
         <source>Insert the next section break into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een nieuw sectieeinde in het document invoegen.</translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -16563,7 +16579,7 @@ The selected level and all higher levels will be visible.</source>
     </message>
     <message>
         <source>Split the table into two tables according to the rows or columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdeel de tabel in twee tabellen ahv. de rijen of kolommen.</translation>
     </message>
 </context>
 <context>
@@ -16574,7 +16590,7 @@ The selected level and all higher levels will be visible.</source>
     </message>
     <message>
         <source>Stop the auto backup of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop het automatisch backuppen van het huidige document.</translation>
     </message>
 </context>
 <context>
@@ -16583,7 +16599,9 @@ The selected level and all higher levels will be visible.</source>
         <source>Draw a line through the middle of the selected text.
 
 Click the arrow to add an emphasis mark.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teken een lijn door het midden van de geselecteerde tekst.
+
+Klik op de pijl om een accent in te voegen.</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -16594,11 +16612,11 @@ Click the arrow to add an emphasis mark.</source>
     <name>tips.Strikethought2</name>
     <message>
         <source>Click the arrow to add a strikethrough and an emphasis mark.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om een doorhaling en een accent in te voegen.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Opties</translation>
     </message>
 </context>
 <context>
@@ -16607,7 +16625,9 @@ Click the arrow to add an emphasis mark.</source>
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak kleine letters onder de tekstgrondlijn.
+
+klik op de pijl om superscript te selecteren.</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -16620,7 +16640,9 @@ Click the arrow to select superscript.</source>
         <source>Create small letters above the line of text.
 
 Click the arrow to select subscript.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak kleine letters boven de tekstlijn.
+
+Klik op de pijl om subscript te selecteren.</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -16631,33 +16653,33 @@ Click the arrow to select subscript.</source>
     <name>tips.Superscript2</name>
     <message>
         <source>Click the arrow to select Superscript and Subscript.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om Superscript en Subscript te selecteren.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Opties</translation>
     </message>
 </context>
 <context>
     <name>tips.SwitchWindow</name>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Wissel Vensters</translation>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wissel naar een ander open venster.</translation>
     </message>
 </context>
 <context>
     <name>tips.Table</name>
     <message>
         <source>Insert or draw a table into the document, and convert text to table or vice versa.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een tabel tekenen of invoegen in het huidige document en zet tekst om naar tabel of omgekeerd.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Table</source>
@@ -16665,18 +16687,18 @@ Click the arrow to select subscript.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.TableAutoAdjust</name>
     <message>
         <source>TableAutoAdjust Content</source>
-        <translation type="unfinished"></translation>
+        <translation>TableAutoAdjust Content</translation>
     </message>
     <message>
         <source>TableAutoAdjust Title</source>
-        <translation type="unfinished"></translation>
+        <translation>TableAutoAdjust Title</translation>
     </message>
 </context>
 <context>
@@ -16687,20 +16709,22 @@ Click the arrow to select subscript.</source>
     </message>
     <message>
         <source>Click the arrow to select different border colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om verschillende randkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Set a border color for the selected table.
 
 Click the arrow to select different border colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de randkleur van de geselecteerde tabel aan.
+
+Klik op de pijl om verschillende randkleuren te selecteren.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableBorderStyle</name>
     <message>
         <source>Change the style of the line used to draw borders.</source>
-        <translation type="unfinished"></translation>
+        <translation>De stijl van de randlijn aanpassen.</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -16711,18 +16735,18 @@ Click the arrow to select different border colors.</source>
     <name>tips.TableBorderWidth</name>
     <message>
         <source>Change the width of the line used to draw borders.</source>
-        <translation type="unfinished"></translation>
+        <translation>De breedte van de randlijn aanpassen.</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijndikte</translation>
     </message>
 </context>
 <context>
     <name>tips.TableContents</name>
     <message>
         <source>Add a Table of Contents to the document before the body text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een inhoudstabel aan het document toevoegen voor de tekst.</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -16733,11 +16757,11 @@ Click the arrow to select different border colors.</source>
     <name>tips.TableEraser</name>
     <message>
         <source>Erase the borders of a table in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wis de randen van een tabel in het document.</translation>
     </message>
     <message>
         <source>Table Eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel Gom</translation>
     </message>
 </context>
 <context>
@@ -17318,7 +17342,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_Style</name>
     <message>
         <source>Click here to apply other options, such as clear formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier op andere opties toe te passen, zoals verwijder opmaak.</translation>
     </message>
     <message>
         <source>New Style</source>
@@ -17326,14 +17350,14 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Show the New Style dialog box, and create a new style in the Styles and Formatting task pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het nieuwe stijl dialoogvenster, en maak een nieuwe stijl in het stijlen en opmaak taakvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Wrapping</name>
     <message>
         <source>Change the way text wraps around the selected object, such as square and behind text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander de manier waarop tekst om een object geplaats word, zoals vierkant of achter tekst.</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -17344,7 +17368,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_tocLevel</name>
     <message>
         <source>Set ToC level for the selected paragraph.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet het inhoudstabelniveau voor de geselecteerde paragraaf.</translation>
     </message>
     <message>
         <source>ToC Level</source>
@@ -17359,14 +17383,14 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Delete Selected Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder geselecteerde opmerking.</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_DeleteComment2</name>
     <message>
         <source>Click here to delete all of the comments in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om alle opmerkingen in het document te verwijderen.</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -17377,7 +17401,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier voor meer opties zoals platte tekst plakken of opmaak.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -17385,65 +17409,65 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak de inhoud van het klembord.</translation>
     </message>
 </context>
 <context>
     <name>tips.weibotool</name>
     <message>
         <source>Convert document to picture and share in Weibo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Converteer document tot afbeelding en deel in Weibo.</translation>
     </message>
     <message>
         <source>Weibotool</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibotool.</translation>
     </message>
 </context>
 <context>
     <name>wordtools</name>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander naar Witte Paragraaf Split-Modus</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf Inspringingen Omzetten Naar Spaties</translation>
     </message>
     <message>
         <source>Convert Soft Return to Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachte Enter Omzetten Naar Enter</translation>
     </message>
     <message>
         <source>Delete Blank Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Witte Paragraaf</translation>
     </message>
     <message>
         <source>Delete Soft Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Zachte Enter</translation>
     </message>
     <message>
         <source>Delete Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Spaties</translation>
     </message>
     <message>
         <source>Delete spaces at beginning of paragraph with first-line indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder spaties aan het begin van paragraaf met eerste lijn inspringen.</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf Inspringen met 2 Karakters</translation>
     </message>
     <message>
         <source>Insert Blank Paragraphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Witte Paragraaf Invoegen</translation>
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Herschik Paragrafen</translation>
     </message>
     <message>
         <source>Smart Rearrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Slim Herschikken</translation>
     </message>
 </context>
 <context>
@@ -17462,7 +17486,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Cloud Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloud Feedback</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
@@ -17474,7 +17498,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Export as Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteer als Afbeeldingen</translation>
     </message>
     <message>
         <source>Login</source>
@@ -17506,7 +17530,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Share via Weibo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deel via Weibo</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -17514,11 +17538,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikerslogin</translation>
     </message>
     <message>
         <source>Weibo Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibo Opmaak</translation>
     </message>
 </context>
 <context>
@@ -17536,7 +17560,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Align Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Objecten Uitlijnen</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -17544,15 +17568,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekenen</translation>
     </message>
     <message>
         <source>Extended Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitgebreid Opmaken</translation>
     </message>
     <message>
         <source>Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmaak</translation>
     </message>
     <message>
         <source>Forms</source>
@@ -17560,7 +17584,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en Voettekst</translation>
     </message>
     <message>
         <source>Mail Merge</source>
@@ -17568,11 +17592,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Menubalk</translation>
     </message>
     <message>
         <source>Outlining</source>
-        <translation type="unfinished"></translation>
+        <translation>Schetsen</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -17580,11 +17604,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Afdrukvoorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Reviewing</source>
-        <translation type="unfinished"></translation>
+        <translation>Beoordelen</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -17592,11 +17616,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellen en Randen</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -17612,14 +17636,14 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkplaats</translation>
     </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands</name>
     <message>
         <source>ActiveX Control</source>
-        <translation type="unfinished"></translation>
+        <translation>ActiveX Control</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -17631,7 +17655,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoVormen en Materialen</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -17651,23 +17675,23 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Browse Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Objecten Bekijken</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijken per Bladwijzer</translation>
     </message>
     <message>
         <source>Browse by Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijken per Opmerking</translation>
     </message>
     <message>
         <source>Browse by Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijken per Pagina</translation>
     </message>
     <message>
         <source>Browse by Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijken per Sectie</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17683,15 +17707,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
-        <translation type="unfinished"></translation>
+        <translation>klik om automatische backup aan of uit te zetten.</translation>
     </message>
     <message>
         <source>Click to turn on/off reviewing function</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik om de revisie functie aan of uit te zetten.</translation>
     </message>
     <message>
         <source>Click to turn on/off spelling check</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik om de spellingscontrole aan of uit te zetten.</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -17703,7 +17727,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Klembord Paneel</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -17711,7 +17735,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Comment Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerkingen Contextmenu</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -17719,7 +17743,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Connector</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -17727,15 +17751,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Boog</translation>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Buigpunt</translation>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Buig Segment</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -17755,11 +17779,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Verspreiden</translation>
+        <translation type="unfinished">Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentsamenwerking</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -17767,7 +17791,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Endnotes Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindnoten Contextmenu</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -17783,7 +17807,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Fields Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Velden Contextmenu</translation>
     </message>
     <message>
         <source>File</source>
@@ -17795,7 +17819,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Floating Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwevende Afbeelding</translation>
     </message>
     <message>
         <source>Font</source>
@@ -17803,15 +17827,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Footnotes Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Voetnoten Contextmenu</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmaak</translation>
     </message>
     <message>
         <source>Frame Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Omlijsting Contextmenu</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -17823,7 +17847,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga Naar</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -17843,7 +17867,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink Contextmenu</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -17851,7 +17875,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Inline Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding in Tekst</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -17859,7 +17883,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Insert Blank Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Wit Veld Invoegen</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -17871,7 +17895,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Online Templates</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -17879,11 +17903,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"></translation>
+        <translation>Materialen</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meeteenheid. Klik om het &quot;Opties&quot; dialoogvenster te openen.</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -17903,7 +17927,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>MsgAtMe</translation>
     </message>
     <message>
         <source>New</source>
@@ -17923,7 +17947,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Bestand</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -17943,7 +17967,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>OLE Object</translation>
     </message>
     <message>
         <source>Open</source>
@@ -17955,7 +17979,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"></translation>
+        <translation>Schets Beeld</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -17963,7 +17987,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Page and section of the document. Click to go to certain page or section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina en sectie van het document. Clik om naar een specifieke pagina of sectie te gaan.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -17975,7 +17999,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Print Directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtstreeks Afdrukken</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -17983,7 +18007,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Afdrukvoorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Promote</source>
@@ -17991,7 +18015,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente Documenten</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -18003,15 +18027,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Rotate Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaimodus</translation>
     </message>
     <message>
         <source>S MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>S MsgAtMe</translation>
     </message>
     <message>
         <source>S Office space</source>
-        <translation type="unfinished"></translation>
+        <translation>S Office space</translation>
     </message>
     <message>
         <source>Save</source>
@@ -18019,7 +18043,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Opslaan Als</translation>
+        <translation>Opslaan Als</translation>
     </message>
     <message>
         <source>Select</source>
@@ -18031,19 +18055,19 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Selection and Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie en Zichtbaarheid</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Spellingscontroletaal Aanpassen</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>ShapeAndGallery</translation>
     </message>
     <message>
         <source>Shapes Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Vormen Contextmenu</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -18079,7 +18103,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool Werkbalk</translation>
     </message>
     <message>
         <source>Table</source>
@@ -18087,7 +18111,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelcellen</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -18095,7 +18119,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabeltekst</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -18107,7 +18131,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Text Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Contextmenu</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -18115,7 +18139,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Toggle Field Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Schakel Veldcodes</translation>
     </message>
     <message>
         <source>Toolbars</source>
@@ -18296,35 +18320,35 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished">Pagina-indeling</translation>
+        <translation>Pagina-indeling</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished">paragraafindeling</translation>
+        <translation type="unfinished">Paragraafopmaak</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingshulpmiddelen</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Afdrukvoorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelle Toegang Werkbalk</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente Documenten</translation>
     </message>
     <message>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijzingen</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Herzien</translation>
     </message>
     <message>
         <source>Section</source>
@@ -18352,11 +18376,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelhulpmiddelen</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikerslogin</translation>
     </message>
     <message>
         <source>View</source>
@@ -18364,23 +18388,23 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>Wat is Nieuw</translation>
     </message>
     <message>
         <source>Window Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster Sluiten</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster Maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster Minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster Herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -18388,15 +18412,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkplaats</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Instelling</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>testRbTabWidget</translation>
     </message>
 </context>
 <context>
@@ -18504,35 +18528,35 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished">Pagina-indeling</translation>
+        <translation>Pagina-indeling</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished">paragraafindeling</translation>
+        <translation type="unfinished">Paragraafopmaak</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingshulpmiddelen</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Afdrukvoorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelle Toegang Werkbalk</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente Documenten</translation>
     </message>
     <message>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijzingen</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Herzien</translation>
     </message>
     <message>
         <source>Section</source>
@@ -18548,7 +18572,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon/Verberg de Werkbalk</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -18564,11 +18588,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelhulpmiddelen</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikerslogin</translation>
     </message>
     <message>
         <source>View</source>
@@ -18576,7 +18600,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>Wat is Nieuw</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -18584,11 +18608,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkplaats</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>testRbTabWidget</translation>
     </message>
 </context>
 <context>
