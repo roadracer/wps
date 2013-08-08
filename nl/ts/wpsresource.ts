@@ -877,7 +877,7 @@
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished">Nadruk Teken</translation>
+        <translation>Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -1151,7 +1151,7 @@
     </message>
     <message>
         <source>Match Fields</source>
-        <translation>Vergelijk Velden</translation>
+        <translation type="unfinished">Koppel Velden</translation>
     </message>
     <message>
         <source>Merge
@@ -1220,7 +1220,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Outline Level</source>
-        <translation>Niveau</translation>
+        <translation type="unfinished">Omlijningsniveau</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
@@ -1311,7 +1311,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished">Objectopmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -1579,7 +1579,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation>Vergelijking</translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
@@ -2507,7 +2507,7 @@ Aan</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished">Recht Uitlijnen</translation>
+        <translation>Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -2555,7 +2555,7 @@ Aan</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished">Objectopmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -2727,7 +2727,7 @@ Aan</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Vorm Buitenrand</translation>
+        <translation type="unfinished">Omlijning van Vorm</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -3203,7 +3203,7 @@ Aan</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished">Recht Uitlijnen</translation>
+        <translation>Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -3211,7 +3211,7 @@ Aan</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished">Nadruk Teken</translation>
+        <translation>Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -3497,7 +3497,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation>Vergelijking</translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3696,7 +3696,7 @@ Aan</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation>Vergelijk Velden</translation>
+        <translation type="unfinished">Koppel Velden</translation>
     </message>
     <message>
         <source>Merge
@@ -3795,7 +3795,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Outline Level</source>
-        <translation>Niveau</translation>
+        <translation type="unfinished">Omlijningsniveau</translation>
     </message>
     <message>
         <source>Outlining Tools</source>
@@ -4201,7 +4201,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished">Recht Uitlijnen</translation>
+        <translation>Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Document Gridlines</source>
@@ -4503,7 +4503,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished">Objectopmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -4627,7 +4627,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeelding Schets</translation>
+        <translation type="unfinished">Afbeeldingsomlijning</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -6013,7 +6013,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Schets</translation>
+        <translation type="unfinished">Omlijning</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -6696,7 +6696,7 @@ Aan</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished">Objectopmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -6958,7 +6958,7 @@ Aan</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>WordArt Schets</translation>
+        <translation type="unfinished">WordArt Omlijning</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -7487,7 +7487,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation>Vergelijking</translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Erase</source>
@@ -7583,7 +7583,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished">Objectopmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -8615,7 +8615,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished">Recht Uitlijnen</translation>
+        <translation>Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -8647,7 +8647,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished">Objectopmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -8803,7 +8803,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Vorm Buitenrand</translation>
+        <translation type="unfinished">Omlijning van Vorm</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -9298,7 +9298,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished">Recht Uitlijnen</translation>
+        <translation>Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -9306,7 +9306,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished">Nadruk Teken</translation>
+        <translation>Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -9580,7 +9580,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation>Vergelijking</translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9787,7 +9787,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation>Vergelijk Velden</translation>
+        <translation type="unfinished">Koppel Velden</translation>
     </message>
     <message>
         <source>Merge
@@ -9894,7 +9894,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Outline Level</source>
-        <translation>Niveau</translation>
+        <translation type="unfinished">Omlijningsniveau</translation>
     </message>
     <message>
         <source>Outlining Tools</source>
@@ -10515,7 +10515,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished">Objectopmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -10635,7 +10635,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeelding Schets</translation>
+        <translation type="unfinished">Afbeeldingsomlijning</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -11941,7 +11941,7 @@ Other Window</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Schets</translation>
+        <translation type="unfinished">Omlijning</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -12607,7 +12607,7 @@ Other Window</source>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished">Objectopmaak</translation>
+        <translation>Objectopmaak</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -12863,7 +12863,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>WordArt Schets</translation>
+        <translation type="unfinished">WordArt Omlijning</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -13661,7 +13661,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Close Outline View and return to editing the document.</source>
-        <translation>Sluit de schetsweergave en ga verder met het document te bewerken.</translation>
+        <translation type="unfinished">Sluit de Omlijningsweergave en ga verder met het document te bewerken.</translation>
     </message>
 </context>
 <context>
@@ -13841,18 +13841,18 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.DemoteOnParagraph</name>
     <message>
         <source>Demote Outline Level</source>
-        <translation>Verlaag Schets Niveau</translation>
+        <translation type="unfinished">Verlaag het Uitlijningsniveau</translation>
     </message>
     <message>
         <source>Demote the selected paragraph to a lower outline level.</source>
-        <translation>Verlaag de geselecteerde paragraaf naar een lager schets niveau.</translation>
+        <translation type="unfinished">Verlaag de geselecteerde paragraaf naar een lager uitlijningsniveau.</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteToLowestLevelOnOutlining</name>
     <message>
         <source>Demote this item to the lowest level of the outline.</source>
-        <translation>Verlaag dit item naar het laagste schetsniveau.</translation>
+        <translation type="unfinished">Verlaag dit item naar het laagste uitlijningsniveau.</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
@@ -14125,7 +14125,7 @@ Klik op de pijl om een fonetische gids te kiezen of de rand aan te passen.</tran
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished">Paragraafopmaak</translation>
+        <translation>Paragraafopmaak</translation>
     </message>
 </context>
 <context>
@@ -14559,58 +14559,60 @@ Dit heeft enkel invloed op tabellen die groter zijn dan één pagina.</translati
     <name>tips.HeaderFooterOptions</name>
     <message>
         <source>Apply Header and Footer settings to the current section or document, such as different first page, different odd &amp; even pages, and margin to the border.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voetteksts instellingen toepassen op de huidige sectie of document, zoals eerste pagina anders, Even pagina&apos;s anders en randen.</translation>
     </message>
     <message>
         <source>Header/Footer Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst/Voettekst Opties</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderLine</name>
     <message>
         <source>Add a horizontal line to Header.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een horizontale lijn toe aan de koptekst.</translation>
     </message>
     <message>
         <source>Header Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst Lijn</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderLinkToPrevious</name>
     <message>
         <source>Link the current header to the previous section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Link de huidige koptektst aan de volgende sectie.</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelfde Als Vorige Sectie</translation>
     </message>
 </context>
 <context>
     <name>tips.HighlightColor</name>
     <message>
         <source>Click the arrow to select a different highlight color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om een ander markeerkleur te selecteren.</translation>
     </message>
     <message>
         <source>Make text look like it was marked with a highlighter pen.
 
 Click the arrow to select a different highlight color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laat de tekst eruitzien alsof ze gemarkeerd is met een fluostift.
+
+Klik op de pijl om een andere markeerkleur te kiezen.</translation>
     </message>
     <message>
         <source>Text Highlight Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Markeerkleur</translation>
     </message>
 </context>
 <context>
@@ -14623,15 +14625,17 @@ Click the arrow to select a different highlight color.</source>
         <source>Highlight the fields you have inserted into the document.
 
 This makes it easy to see what part of your form letter will be replaced by information from the recipient list you have chosen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeer de velden die je in het document hebt ingevoegd.
+
+Dit laat je zien welk deel van het formulier zal vervangen worden door de informatie uit de ontvangerslijst.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -14642,14 +14646,14 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Increase the indent level of the paragraph.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het inspringingsniveau van de paragraaf vergroten.</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseStep</name>
     <message>
         <source>Increas the current paragraph line spacing by 0.25 times.</source>
-        <translation type="unfinished"></translation>
+        <translation>De regelafstand van de huidige paragraaf 0.25 keer vergroten.</translation>
     </message>
     <message>
         <source>Increase Line Spacing</source>
@@ -14664,7 +14668,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Insert auto text in the header or footer to easily view and locate the related article.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autotekst in de koptekst of voettekst invoegen om het gerelateerd artikel gemakkelijk te vinden.</translation>
     </message>
 </context>
 <context>
@@ -14675,96 +14679,98 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Click here to insert a horizontal or vertical blank page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om een horizontale of vertikale witte pagina in te voegen.</translation>
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een witte pagina invoegen op de plaats van de cursor.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertBookmark</name>
     <message>
         <source>Create a bookmark to assign a name to a specific point in a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een bladwijzer maken om een naam aan een specifieke plaats in het document te geven.</translation>
     </message>
     <message>
         <source>Insert Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Bladwijzer Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertCaption</name>
     <message>
         <source>Add a descriptive caption to a picture or a table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een onderschrift toevoegen onder een foto of tabel.</translation>
     </message>
     <message>
         <source>Insert Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderschrift Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertCells</name>
     <message>
         <source>Insert Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Cellen Invoegen</translation>
     </message>
     <message>
         <source>Show the Insert Cells dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het Cellen Invoegen Dialoogvenster</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertChart</name>
     <message>
         <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram Invoegen</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
 
 Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een diagram in om data te illustreren en te vergelijken.
+
+Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertClipArt</name>
     <message>
         <source>Choose a Clip Art from the task pane and insert it into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een Clipart uit het taakvenster en voeg het toe aan het document.</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -14772,40 +14778,40 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnLeft</name>
     <message>
         <source>Insert Columns to the Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen Links invoegen</translation>
     </message>
     <message>
         <source>Insert a column to the left of the selected column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een kolom links van de geselecteerde kolom invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnRight</name>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom Rechts Invoegen</translation>
     </message>
     <message>
         <source>Insert a column to the right of the selected column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een kolom rechts van de geselecteerde kolom invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertComment</name>
     <message>
         <source>Add a comment to the document about the selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een opmerking over de selectie toevoegen.</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -14820,55 +14826,55 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>De huidige datum of tijd invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertField</name>
     <message>
         <source>Insert Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Veld Invoegen</translation>
     </message>
     <message>
         <source>Insert field into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een veld invoegen in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFileObject</name>
     <message>
         <source>Insert Object from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Object uit Bestand Invoegen</translation>
     </message>
     <message>
         <source>Insert selected file into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geselecteerd bestand invoegen in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFootnote</name>
     <message>
         <source>Add a footnote or endnote to the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een voetnoot of eindnoot aan het document toevoegen.</translation>
     </message>
     <message>
         <source>Insert Footnote / Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Voetnoot / Eindnoot Toevoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertHyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak een link naar een website, een afbeelding of een emailadres.</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -14876,82 +14882,86 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertIndexTables</name>
     <message>
         <source>Insert Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhoudstabel Toevoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
 
 Set directory level for the selected paragraph and add a Table of Contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het inhoudstabel dialoogvenster, en voeg een inhoudstabel toe aan het document.
+
+Het inhoudsniveau voor de geselecteerde paragraaf aanpassen en toevoegen aan de inhoudstabel.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMergeFields</name>
     <message>
         <source>Insert Merge Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Samenvoegveld Invoegen</translation>
     </message>
     <message>
         <source>Insert any field from your recipient list to the document, such as &quot;Last Name&quot;, &quot;Nick Name&quot;, &quot;Company Name&quot;, &quot;Department Name&quot; or &quot;Position&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een veld uit de ontvangerslijst toevoegen aan het document zoals &quot;Achternaam&quot;, &quot;Nickname&quot; of &quot;Bedrijfsnaam&quot;.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMutidiagonalCell</name>
     <message>
         <source>Insert Multi-diagonal Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonale Cel Invoegen</translation>
     </message>
     <message>
         <source>Insert different types of diagonal lines in a cell to use as headings.
 
 The diagonal lines in the table headings can be moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschillende type&apos;s Diagonale cellen toevoegen als Titelcel.
+
+De diagonale lijnen in de tabeltitels kunnen verplaatst worden.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertNumber</name>
     <message>
         <source>Insert Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer Invoegen</translation>
     </message>
     <message>
         <source>Insert a customized number format into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een aangepast nummerformaat toevoegen aan het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertObject</name>
     <message>
         <source>Click the arrow to insert file content into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om bestandinhoud toe te voegen aan het document.</translation>
     </message>
     <message>
         <source>Insert Object</source>
@@ -14961,7 +14971,9 @@ The diagonal lines in the table headings can be moved.</source>
         <source>Insert an embedded object into the document.
 
 Click the arrow to insert file content into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een ingesloten object aan het document toevoegen.
+
+Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</translation>
     </message>
 </context>
 <context>
@@ -14972,75 +14984,75 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Begin een nieuwe pagina achter de huidige positie. De inhoud achter de huidige positie zullen op de volgende pagina gezet worden.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPageNumbers</name>
     <message>
         <source>Insert Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Paginanummer Invoegen</translation>
     </message>
     <message>
         <source>Insert page numbers into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paginanummers in het document invoegen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPictureFromFile</name>
     <message>
         <source>Insert Picture from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding uit Bestand</translation>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een afbeelding die op je computer staat invoegen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowAbove</name>
     <message>
         <source>Add a new row directly above the selected row.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een nieuwe rij boven de geselecteerde rij invoegen.</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen Erboven Invoegen</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowBelow</name>
     <message>
         <source>Insert Rows Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen ERonder Invoegen</translation>
     </message>
     <message>
         <source>Insert a new row directly below the selected row.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een nieuwe rij onder de geselecteerde rij invoegen.</translation>
     </message>
 </context>
 <context>
@@ -15051,7 +15063,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Insert a new section after the current section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een nieuwe sectie achter de huidige sectie invoegen.</translation>
     </message>
 </context>
 <context>
@@ -15062,33 +15074,33 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Insert a section before the current section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een nieuwe sectie voor de huidige sectie invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSymbol</name>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool Invoegen</translation>
     </message>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolen invoegen die niet op je toetsenbord staan, zoals het copyright symbool.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Decoratieve tekst in het document toevoegen.</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -15103,15 +15115,15 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>To solve the page break issue in mail merge, if N lines are to be shown in one page, then insert N-1 next fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als er X aantal lijnen worden getoond op een pagina, voeg dan X-1 aantal velden in.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -15122,7 +15134,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>De geselecteerde tekst cusief(schuin) zetten.</translation>
     </message>
 </context>
 <context>
@@ -15133,46 +15145,46 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Send feedback to us and help improve our product.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeg je mening over ons product zodat we het kunnen verbeteren.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudInformationTip</name>
     <message>
         <source>How to use Office Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoe Office Space gebruiken</translation>
     </message>
     <message>
         <source>Newbie Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Gids voor Dummies</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>User Name or Password does not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersnaam of Wachtwoord klopt niet</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespacePsaawordTip</name>
     <message>
         <source>Password is incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wachtwoord is incorrect.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceRegPsaawordTip</name>
     <message>
         <source>Password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wachtwoord klopt niet.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOpenCloudFileTip</name>
     <message>
         <source>Open documents saved in Cloud. Easily access them wherever you are.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open documenten opgeslagen op het internet. Eenvoudige toegang, gelijk waar je bent.</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
@@ -15183,63 +15195,63 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.KOSSaveFileTocloudTip</name>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Sla pestand op in Cloud</translation>
+        <translation>Sla bestand op in de Cloud</translation>
     </message>
     <message>
         <source>Save file to Cloud. Edit the same document via multiple devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand opslaan op het internet. Hetzelfde document op meerdere toestellen aanpassen.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTextBtnTip</name>
     <message>
         <source>Login to use the free Cloud services such as Online Document, File Safe, Online Templates, and Resource Library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggen om de gratis Cloud service te gebruiken zoals Online Documenten, Bestandskluis, Online Templates en hulpbronnenbibliotheek</translation>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet ingelogd</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTip</name>
     <message>
         <source>Login with WPS account. Create or login your account to save documents to Cloud. You can access Cloud with any computer or mobile device. Never get lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggen met je WPS account. Registreer of log in om je bestanden op te slaan in de Cloud. Je hebt toegang tot de cloud vanaf iedere computer of mobiel toesten. Raak bestanden nooit meer kwijt!</translation>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet Ingelogd</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLogoutCloudTip</name>
     <message>
         <source>Logged in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingelogd</translation>
     </message>
     <message>
         <source>You have logged in WPS account. View your profile or logout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je bent ingelogd met je WPS account. Bekijk je profiel of log uit.</translation>
     </message>
 </context>
 <context>
     <name>tips.KingsoftEquationEditor</name>
     <message>
         <source>Insert Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule Invoegen</translation>
     </message>
     <message>
         <source>Insert mathematical equations with Equation Editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiskundige formule invoegen dmv de Formule-Editor</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -15250,7 +15262,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Preview the last record in the recipient list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de laatste vermelding in de lijst met ontvangers.</translation>
     </message>
 </context>
 <context>
@@ -15261,31 +15273,33 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Relocate to the last section of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats naar de laatste sectie van het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.LineColor</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Vorm Buitenrand</translation>
+        <translation>Omlijning van Vorm</translation>
     </message>
     <message>
         <source>Specify the color, width, and line style for the outline of the selected shape.
 
 Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifieer het kleur, de dikte en de lijnstijl voor de Omlijning van de geselecterde vorm.
+
+Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     </message>
 </context>
 <context>
     <name>tips.LineSpacingShow</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de plaats tussen de lijnen tekst aan.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -15300,7 +15314,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Make the header and footer of the current section the same as the previous section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak de koptekts en voettekst van de huidige sectie gelijk aan die van de vorige sectie.</translation>
     </message>
 </context>
 <context>
@@ -15311,7 +15325,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Relocate to the other section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats naar de andere sectie.</translation>
     </message>
 </context>
 <context>
@@ -15320,7 +15334,9 @@ Click the arrow to choose more outline styles.</source>
         <source>Synchronize the scrolling of two documents so that they scroll together.
 
 To enable this feature, turn on &quot;View Side by Side&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchroniseer het scrollen van twee documenten zodat ze tezamen schrollen.
+
+Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -15335,36 +15351,36 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Set 1.5 line spacing to the selected paragraph with snap to grid selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet de regelafstand van de geselecteerde paragraaf op 1.5 en lijn uit op raster.</translation>
     </message>
 </context>
 <context>
     <name>tips.Macro</name>
     <message>
         <source>View Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de Macro&apos;s</translation>
     </message>
     <message>
         <source>View the list of Macros, from which you can run, create or delete a macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de lijst van Macro&apos;s, voer hem uit, maak een nieuwe macro of verwijder een bestaande.</translation>
     </message>
 </context>
 <context>
     <name>tips.Mail</name>
     <message>
         <source>Click here to open Mailings tab, which includes features such as Mail Merge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om het Brieven tabblad te openen, daar vind je oa Brieven Samenvoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.MailMergeRecipients</name>
     <message>
         <source>Add or delete recipients from the Mail Merge Recipient list for receiving letters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontvangers toevoegen of verwijderen uit de Brieven Samenvoegen Ontvangerslijst.</translation>
     </message>
     <message>
         <source>Recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontvangers</translation>
     </message>
 </context>
 <context>
@@ -15375,29 +15391,29 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bestand manueel backuppen en opmerkingen toevoegen aan het backupbestand zonder het bestand te sluiten.</translation>
     </message>
 </context>
 <context>
     <name>tips.Markup</name>
     <message>
         <source>Revision Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisie Opmaak</translation>
     </message>
     <message>
         <source>Show or hide revision markups in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg opmaakrevisies in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.MatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translation>Vergelijk Velden</translation>
+        <translation>Koppel Velden</translation>
     </message>
     <message>
         <source>Match Fields allows you to tell Writer the meanings of different fields in the recipient list. For example, you can indicate that your custom field &quot;Zip&quot; is equivalent to normal built-in field &quot;Zip Code&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Met Koppel Velden kan je het programma de betekenis van een veld tonen. Je kan bijvoorbeeld aanduiden dat jouw veld &quot;Zip&quot; hetzelfde is als het ingebouwd veld &quot;Zip Code&quot;.</translation>
     </message>
 </context>
 <context>
@@ -15408,18 +15424,18 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Merge the selected cells into one cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geselecteerde sellen samenvoegen tot een cel.</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToDiffNewDoc</name>
     <message>
         <source>Export the merged mail content to different documents according to the recipient list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteer de samengevoegde briefinhoud naar verschillende documenten ahv je ontvangerslijst.</translation>
     </message>
     <message>
         <source>Merge to Different New Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Samenvoegen naar Nieuwe Documenten</translation>
     </message>
 </context>
 <context>
@@ -15430,14 +15446,14 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Send merged content via email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzend de samengevoegde inhoud via email.</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToNewDoc</name>
     <message>
         <source>Export merged content to a new document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteer samengevoegde inhoud naar een nieuw document.</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
@@ -15452,7 +15468,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Print the merged content.</source>
-        <translation type="unfinished"></translation>
+        <translation>De samengevoegde inhoud afdrukken.</translation>
     </message>
 </context>
 <context>
@@ -15463,7 +15479,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg het navigatievenster.</translation>
     </message>
 </context>
 <context>
@@ -15474,14 +15490,14 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open een nieuw venster die het huidig document toont.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextChange</name>
     <message>
         <source>Navigate to the next revision in the document so that you can accept or reject it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ga naar de volgende revisie in het document zodat je die kan goed- of afkeuren.</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -15649,7 +15665,7 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.OutLine</name>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Omlijningsweergave</translation>
     </message>
     <message>
         <source>View the document as an outline.</source>
@@ -15660,7 +15676,7 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.OutLineLevelComboOnOutlining</name>
     <message>
         <source>Outline Level</source>
-        <translation>Niveau</translation>
+        <translation type="unfinished">Omlijningsniveau</translation>
     </message>
     <message>
         <source>Set an outline level for the selected paragraph.</source>
@@ -15675,7 +15691,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
@@ -15683,7 +15699,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -15716,7 +15732,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
@@ -15724,7 +15740,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -15770,7 +15786,7 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Opties</translation>
     </message>
 </context>
 <context>
@@ -15831,7 +15847,7 @@ Click the arrow to select different fill modes.</source>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeelding Schets</translation>
+        <translation type="unfinished">Afbeeldingsomlijning</translation>
     </message>
     <message>
         <source>Set picture outline color, outline width and outline style for the selected object.
@@ -16113,11 +16129,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16164,7 +16180,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -16172,7 +16188,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16257,7 +16273,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -16265,7 +16281,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16407,7 +16423,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -16415,7 +16431,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16800,7 +16816,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -16808,7 +16824,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16878,7 +16894,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -16890,7 +16906,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16925,7 +16941,7 @@ Click the arrow to select different underlining styles.</source>
     <name>tips.UpdateTocOnOutlining</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
@@ -16937,7 +16953,7 @@ Click the arrow to select different underlining styles.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -17063,7 +17079,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>WordArt Schets</translation>
+        <translation type="unfinished">WordArt Omlijning</translation>
     </message>
 </context>
 <context>
@@ -17170,11 +17186,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -17189,11 +17205,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -17241,11 +17257,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -17267,7 +17283,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
@@ -17275,7 +17291,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -17304,7 +17320,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -17316,7 +17332,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -17327,7 +17343,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Show Markup</source>
@@ -17335,7 +17351,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -17975,11 +17991,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Schets</translation>
+        <translation type="unfinished">Omlijning</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation>Schets Beeld</translation>
+        <translation type="unfinished">Omlijningsweergave</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -18316,7 +18332,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Schets</translation>
+        <translation type="unfinished">Omlijning</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -18524,7 +18540,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Schets</translation>
+        <translation type="unfinished">Omlijning</translation>
     </message>
     <message>
         <source>Page Layout</source>
