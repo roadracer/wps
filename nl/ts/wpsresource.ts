@@ -117,7 +117,7 @@
     <name>classics.align</name>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -153,15 +153,15 @@
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -184,7 +184,7 @@
     <name>classics.compare_views</name>
     <message>
         <source>Reset Window Position</source>
-        <translation>Reset Vensterpositie</translation>
+        <translation>Vensterpositie Herstellen</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -390,7 +390,7 @@
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -398,11 +398,11 @@
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijne</translation>
+        <translation>Links Uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -410,7 +410,7 @@
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Align/Distribute/Equalize</source>
@@ -502,11 +502,11 @@
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Down</source>
@@ -542,11 +542,11 @@
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -554,7 +554,7 @@
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>Group</source>
-        <translation>Groep</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -578,11 +578,11 @@
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding Invoegen</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -674,11 +674,11 @@
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Rotate/Flip</source>
@@ -694,7 +694,7 @@
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -710,7 +710,7 @@
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>Wijzig AutoShape Standaarden</translation>
+        <translation>AutoShape Standaarden Instellen</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -806,7 +806,7 @@
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -818,15 +818,15 @@
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -885,7 +885,7 @@
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>Fonetische Gids</translation>
+        <translation>Fonetische Begeleiding</translation>
     </message>
     <message>
         <source>Single</source>
@@ -1038,7 +1038,7 @@
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Reset Formulierveld</translation>
+        <translation>Formulierveld Herstellen</translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -1092,7 +1092,7 @@
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina Opbouw</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -1147,11 +1147,11 @@
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Mail Samengevoegde Ontvangers</translation>
+        <translation>Verzendlijst Ontvangers</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation type="unfinished">Koppel Velden</translation>
+        <translation>Koppel Velden</translation>
     </message>
     <message>
         <source>Merge
@@ -1220,7 +1220,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Outline Level</source>
-        <translation type="unfinished">Omlijningsniveau</translation>
+        <translation>Omlijningsniveau</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
@@ -1327,7 +1327,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -1355,19 +1355,19 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Afbeelding Resetten</translation>
+        <translation>Afbeelding Herstellen</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Wijzig Transparante Kleur</translation>
+        <translation>Transparante Kleur Instellen</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -1375,15 +1375,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -1406,7 +1406,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation>Een Pagina</translation>
+        <translation>Eén Pagina</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -1418,7 +1418,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -1453,7 +1453,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Definitief Toon Opmaak;Definitief;Origineel toon Opmaak;Origineel</translation>
+        <translation>Definitief: Toon Markeringen;Definitief;Origineel Toon Markeringen;Origineel</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -1461,7 +1461,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Voeg Opmerking In</translation>
+        <translation>Nieuwe Opmerking</translation>
     </message>
     <message>
         <source>Next</source>
@@ -1489,11 +1489,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation>Reviewers</translation>
+        <translation>Revisoren</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Weergeven</translation>
+        <translation>Markeringen Weergeven</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -1563,7 +1563,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation>Verander Orientatie Tekst</translation>
+        <translation>Verander Oriëntatie Tekst</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -1603,7 +1603,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Maak Schilder Op</translation>
+        <translation>Opmaak Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -1663,7 +1663,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Show / Hide Editing Marks</source>
-        <translation>Toon / Verberg Wijzigingsaanduidingen</translation>
+        <translation>Toon/Verberg Opmaaksymbolen</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
@@ -1671,7 +1671,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Show Document Map</source>
-        <translation>Toon Document Kaart</translation>
+        <translation>Toon Navigatievenster</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1683,7 +1683,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -1991,7 +1991,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -2051,7 +2051,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -2067,15 +2067,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -2375,7 +2375,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -2387,7 +2387,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -2395,7 +2395,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -2499,11 +2499,11 @@ Aan</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -2531,11 +2531,11 @@ Aan</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Font</source>
@@ -2559,11 +2559,11 @@ Aan</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -2575,7 +2575,7 @@ Aan</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -2595,7 +2595,7 @@ Aan</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -2687,15 +2687,15 @@ Aan</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -2703,7 +2703,7 @@ Aan</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2727,7 +2727,7 @@ Aan</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="unfinished">Omlijning van Vorm</translation>
+        <translation>Omlijning van Vorm</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -2747,7 +2747,7 @@ Aan</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -2771,23 +2771,23 @@ Aan</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -3131,7 +3131,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links uitlijnen</translation>
+        <translation>Links Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -3259,7 +3259,7 @@ Aan</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Maak Schilder Op</translation>
+        <translation>Opmaak Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -3339,7 +3339,7 @@ Aan</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>Fonetische Gids</translation>
+        <translation>Fonetische Begeleiding</translation>
     </message>
     <message>
         <source>Phonetic Guide...</source>
@@ -3367,11 +3367,11 @@ Aan</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation>Wijzig Standaard Plakken</translation>
+        <translation>Standaard Plakken Instellen</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -3419,7 +3419,7 @@ Aan</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -3585,7 +3585,7 @@ Aan</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Foto</translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Protect Form</source>
@@ -3597,7 +3597,7 @@ Aan</translation>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Reset Formulierveld</translation>
+        <translation>Formulierveld Herstellen</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -3692,11 +3692,11 @@ Aan</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Mail Samengevoegde Ontvangers</translation>
+        <translation>Verzendlijst Ontvangers</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation type="unfinished">Koppel Velden</translation>
+        <translation>Koppel Velden</translation>
     </message>
     <message>
         <source>Merge
@@ -3795,7 +3795,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Outline Level</source>
-        <translation type="unfinished">Omlijningsniveau</translation>
+        <translation>Omlijningsniveau</translation>
     </message>
     <message>
         <source>Outlining Tools</source>
@@ -3838,7 +3838,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -3846,11 +3846,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijne</translation>
+        <translation>Links Uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -3858,7 +3858,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -3870,7 +3870,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>Eindes</translation>
+        <translation>Eindemarkeringen</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -3886,11 +3886,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation>Verander Orientatie Tekst</translation>
+        <translation>Verander Oriëntatie Tekst</translation>
     </message>
     <message>
         <source>Column Break</source>
-        <translation>Kolom-eindes</translation>
+        <translation>Kolom-einde</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -3910,11 +3910,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -3938,15 +3938,15 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -3954,7 +3954,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -3966,7 +3966,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -3974,7 +3974,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Line Number Options</source>
@@ -4014,7 +4014,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Oriëntatie</translation>
+        <translation>Afdrukstand</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -4034,7 +4034,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-instelling</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -4046,7 +4046,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Foto</translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -4062,19 +4062,19 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -4094,7 +4094,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -4118,7 +4118,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Three</source>
@@ -4126,15 +4126,15 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Two</source>
@@ -4285,7 +4285,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-instelling</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -4317,7 +4317,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
@@ -4329,7 +4329,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
 </context>
 <context>
@@ -4387,7 +4387,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -4399,7 +4399,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -4407,7 +4407,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -4475,11 +4475,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4495,11 +4495,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -4507,7 +4507,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -4515,7 +4515,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4531,7 +4531,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -4539,7 +4539,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -4551,11 +4551,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding Invoegen</translation>
     </message>
     <message>
         <source>InsertPicture</source>
-        <translation>FotoInvoegen</translation>
+        <translation>AfbeeldingInvoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4627,11 +4627,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="unfinished">Afbeeldingsomlijning</translation>
+        <translation>Afbeeldingsomlijning</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Afbeelding Grootte</translation>
+        <translation>Afbeeldingsgrootte</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -4643,19 +4643,19 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Afbeelding Resetten</translation>
+        <translation>Afbeelding Herstellen</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4663,7 +4663,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -4683,7 +4683,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Wijzig Transparante Kleur</translation>
+        <translation>Transparante Kleur Instellen</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -4803,7 +4803,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -4815,19 +4815,19 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -4858,7 +4858,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation>Een Pagina</translation>
+        <translation>Eén Pagina</translation>
     </message>
     <message>
         <source>Print</source>
@@ -4882,7 +4882,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -4893,7 +4893,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Onderschift</translation>
+        <translation>Bijschrift</translation>
     </message>
     <message>
         <source>Captions</source>
@@ -4959,7 +4959,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Mail Samenvoegen</translation>
+        <translation>Verzendlijst</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -4972,7 +4972,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>Toon Voetnoot/Eindnoot Separator</translation>
+        <translation>Toon Voetnoot/Eindnoot Scheidingslijn</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
@@ -5015,7 +5015,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Opties voor Bijhouden Aanpassen...</translation>
+        <translation>Opties voor Bijhouden van Wijzigingen...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -5027,7 +5027,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Controleer Spelling</translation>
+        <translation>Spellingscontrole</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5059,11 +5059,11 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Definitief Toon Opmaak;Definitief;Origineel toon Opmaak;Origineel</translation>
+        <translation>Definitief: Toon Markeringen;Definitief;Origineel Toon Markeringen;Origineel</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Voeg Opmerking In</translation>
+        <translation>Nieuwe Opmerking</translation>
     </message>
     <message>
         <source>Language</source>
@@ -5119,7 +5119,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation>Reviewers</translation>
+        <translation>Revisoren</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5147,7 +5147,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>Aantal Woorden</translation>
+        <translation>Woorden Tellen</translation>
     </message>
 </context>
 <context>
@@ -5230,7 +5230,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatiepaneel</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -5250,7 +5250,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Oriëntatie</translation>
+        <translation>Afdrukstand</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -5270,7 +5270,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-instelling</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Previous Section</source>
@@ -5714,7 +5714,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation>Verander Orientatie Tekst</translation>
+        <translation>Verander Oriëntatie Tekst</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -5928,7 +5928,7 @@ Delen</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -5943,7 +5943,7 @@ Delen</translation>
     </message>
     <message>
         <source>Arrange All</source>
-        <translation>Alles Rangschikken</translation>
+        <translation>Alle Vensters</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -5969,7 +5969,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Documentkaart</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>Document View</source>
@@ -6001,7 +6001,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatiepaneel</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -6009,11 +6009,11 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation>Een Pagina</translation>
+        <translation>Eén Pagina</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished">Omlijning</translation>
+        <translation>Omlijning</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -6033,7 +6033,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation>Reset Vensterpositie</translation>
+        <translation>Vensterpositie Herstellen</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -6049,7 +6049,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Show Document Map</source>
-        <translation>Toon Document Kaart</translation>
+        <translation>Toon Navigatievenster</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -6061,7 +6061,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>Schakel Venster</translation>
+        <translation>Ander Venster</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -6089,7 +6089,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Web Opmaak</translation>
+        <translation>Weblayout</translation>
     </message>
     <message>
         <source>Window</source>
@@ -6097,7 +6097,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -6487,7 +6487,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -6499,7 +6499,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -6507,7 +6507,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
@@ -6640,11 +6640,11 @@ Aan</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
@@ -6688,11 +6688,11 @@ Aan</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -6700,11 +6700,11 @@ Aan</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -6716,7 +6716,7 @@ Aan</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -6724,7 +6724,7 @@ Aan</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -6821,15 +6821,15 @@ Aan</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -6865,7 +6865,7 @@ Aan</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -6885,19 +6885,19 @@ Aan</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -6958,7 +6958,7 @@ Aan</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished">WordArt Omlijning</translation>
+        <translation>WordArt Omlijning</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -7200,7 +7200,7 @@ Aan</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Onderschift</translation>
+        <translation>Bijschrift</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -7421,7 +7421,7 @@ Aan</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
-        <translation>Toon Regelnummers niet voor Lege Regels</translation>
+        <translation>Toon Regelnummers niet voor lege Regels</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
@@ -7429,7 +7429,7 @@ Aan</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Documentkaart</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>Document Protection</source>
@@ -7619,7 +7619,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -7631,7 +7631,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>Grouping</source>
@@ -7735,7 +7735,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation>Regelnummer Opties</translation>
+        <translation>Regelnummeropties</translation>
     </message>
     <message>
         <source>Line Numbers</source>
@@ -7871,7 +7871,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-instelling</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -7895,7 +7895,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>Fonetische Gids</translation>
+        <translation>Fonetische Begeleiding</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -7971,7 +7971,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation>Reset Paragraafopmaak</translation>
+        <translation>Paragraafopmaak Herstellen</translation>
     </message>
     <message>
         <source>Restart Each Page</source>
@@ -8067,7 +8067,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>Wijzig AutoShape Standaarden</translation>
+        <translation>AutoShape Standaarden Instellen</translation>
     </message>
     <message>
         <source>Share to Weibo</source>
@@ -8075,7 +8075,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>Toon Voetnoot/Eindnoot Separator</translation>
+        <translation>Toon Voetnoot/Eindnoot Scheidingslijn</translation>
     </message>
     <message>
         <source>Show Ignored Words</source>
@@ -8179,11 +8179,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Text Orientation</source>
-        <translation>Tekst Orientatie</translation>
+        <translation>Tekst Oriëntatie</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -8239,7 +8239,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
     <message>
         <source>login</source>
@@ -8483,7 +8483,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -8495,7 +8495,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -8503,7 +8503,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -8607,11 +8607,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -8635,11 +8635,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Font</source>
@@ -8651,11 +8651,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -8667,7 +8667,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -8683,7 +8683,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -8767,15 +8767,15 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -8783,7 +8783,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -8803,7 +8803,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="unfinished">Omlijning van Vorm</translation>
+        <translation>Omlijning van Vorm</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -8823,7 +8823,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -8847,23 +8847,23 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -9118,7 +9118,7 @@ Opties</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding Invoegen</translation>
     </message>
     <message>
         <source>Link to Previous</source>
@@ -9346,7 +9346,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Maak Schilder Op</translation>
+        <translation>Opmaak Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -9426,7 +9426,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>Fonetische Gids</translation>
+        <translation>Fonetische Begeleiding</translation>
     </message>
     <message>
         <source>Phonetic Guide...</source>
@@ -9450,11 +9450,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation>Wijzig Standaard Plakken</translation>
+        <translation>Standaard Plakken Instellen</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -9502,7 +9502,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -9632,7 +9632,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding Invoegen</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -9696,7 +9696,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Reset Formulierveld</translation>
+        <translation>Formulierveld Herstellen</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -9783,11 +9783,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Mail Samengevoegde Ontvangers</translation>
+        <translation>Verzendlijst Ontvangers</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation type="unfinished">Koppel Velden</translation>
+        <translation>Koppel Velden</translation>
     </message>
     <message>
         <source>Merge
@@ -9894,7 +9894,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Outline Level</source>
-        <translation type="unfinished">Omlijningsniveau</translation>
+        <translation>Omlijningsniveau</translation>
     </message>
     <message>
         <source>Outlining Tools</source>
@@ -9937,7 +9937,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -9949,7 +9949,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -9957,7 +9957,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -9969,7 +9969,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>Eindes</translation>
+        <translation>Eindemarkeringen</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -9985,7 +9985,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation>Verander Orientatie Tekst</translation>
+        <translation>Verander Oriëntatie Tekst</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -10009,11 +10009,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -10037,15 +10037,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -10053,7 +10053,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -10065,7 +10065,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -10073,7 +10073,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Line Number Options</source>
@@ -10113,7 +10113,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Oriëntatie</translation>
+        <translation>Afdrukstand</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -10133,7 +10133,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-instelling</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -10161,19 +10161,19 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -10193,7 +10193,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -10217,7 +10217,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Three</source>
@@ -10225,15 +10225,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Two</source>
@@ -10312,7 +10312,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-instelling</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -10344,7 +10344,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
@@ -10399,7 +10399,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -10411,7 +10411,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -10419,7 +10419,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -10487,11 +10487,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -10507,11 +10507,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -10519,7 +10519,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -10527,7 +10527,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -10543,7 +10543,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -10551,7 +10551,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -10563,7 +10563,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding Invoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -10635,11 +10635,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="unfinished">Afbeeldingsomlijning</translation>
+        <translation>Afbeeldingsomlijning</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Afbeelding Grootte</translation>
+        <translation>Afbeeldingsgrootte</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -10651,19 +10651,19 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Afbeelding Resetten</translation>
+        <translation>Afbeelding Herstellen</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -10671,7 +10671,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -10691,7 +10691,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Wijzig Transparante Kleur</translation>
+        <translation>Transparante Kleur Instellen</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -10811,7 +10811,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -10823,19 +10823,19 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -10866,7 +10866,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation>Een Pagina</translation>
+        <translation>Eén Pagina</translation>
     </message>
     <message>
         <source>Print</source>
@@ -10886,7 +10886,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -10897,7 +10897,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Onderschift</translation>
+        <translation>Bijschrift</translation>
     </message>
     <message>
         <source>Captions</source>
@@ -10965,7 +10965,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Mail Samenvoegen</translation>
+        <translation>Verzendlijst</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -11024,7 +11024,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Opties voor Bijhouden Aanpassen...</translation>
+        <translation>Opties voor Bijhouden van Wijzigingen...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -11032,7 +11032,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Controleer Spelling</translation>
+        <translation>Spellingscontrole</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -11068,7 +11068,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Definitief Toon Opmaak;Definitief;Origineel toon Opmaak;Origineel</translation>
+        <translation>Definitief: Toon Markeringen;Definitief;Origineel Toon Markeringen;Origineel</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -11132,7 +11132,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation>Reviewers</translation>
+        <translation>Revisoren</translation>
     </message>
     <message>
         <source>Show</source>
@@ -11160,7 +11160,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>Aantal Woorden</translation>
+        <translation>Woorden Tellen</translation>
     </message>
 </context>
 <context>
@@ -11243,7 +11243,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatiepaneel</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -11263,7 +11263,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Oriëntatie</translation>
+        <translation>Afdrukstand</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -11283,7 +11283,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-instelling</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Previous Section</source>
@@ -11713,7 +11713,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation>Verander Orientatie Tekst</translation>
+        <translation>Verander Oriëntatie Tekst</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -11872,7 +11872,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Arrange All</source>
-        <translation>Alles Rangschikken</translation>
+        <translation>Alle Vensters</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -11897,7 +11897,7 @@ Other Window</source>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Documentkaart</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>Document View</source>
@@ -11929,7 +11929,7 @@ Other Window</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatiepaneel</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -11937,11 +11937,11 @@ Other Window</source>
     </message>
     <message>
         <source>One Page</source>
-        <translation>Een Pagina</translation>
+        <translation>Eén Pagina</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished">Omlijning</translation>
+        <translation>Omlijning</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -11961,7 +11961,7 @@ Other Window</source>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation>Reset Vensterpositie</translation>
+        <translation>Vensterpositie Herstellen</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -11977,7 +11977,7 @@ Other Window</source>
     </message>
     <message>
         <source>Show Document Map</source>
-        <translation>Toon Document Kaart</translation>
+        <translation>Toon Navigatievenster</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -11985,7 +11985,7 @@ Other Window</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>Schakel Venster</translation>
+        <translation>Ander Venster</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -12017,7 +12017,7 @@ Other Window</source>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Web Opmaak</translation>
+        <translation>Weblayout</translation>
     </message>
     <message>
         <source>Window</source>
@@ -12025,7 +12025,7 @@ Other Window</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -12399,7 +12399,7 @@ Other Window</source>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Omlaag Uitlijnen</translation>
+        <translation>Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -12411,7 +12411,7 @@ Other Window</source>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Centreren</translation>
+        <translation>Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -12419,7 +12419,7 @@ Other Window</source>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Omhoog Uitlijnen</translation>
+        <translation>Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
@@ -12551,11 +12551,11 @@ Other Window</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Verspreid Horizontaal</translation>
+        <translation>Horizontaal Verdelen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Verspreid Verticaal</translation>
+        <translation>Verticaal Verdelen</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
@@ -12599,11 +12599,11 @@ Other Window</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Horizontaal Spiegelen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Verticaal Spiegelen</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -12611,11 +12611,11 @@ Other Window</source>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrij Draaien</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradiënt</translation>
+        <translation>Kleurovergang</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -12627,7 +12627,7 @@ Other Window</source>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -12635,7 +12635,7 @@ Other Window</source>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>Uitlijnen Met Tekst</translation>
+        <translation>In Tekstregel</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -12727,15 +12727,15 @@ Other Window</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>90° Linksom Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>Draai 90° Rechts</translation>
+        <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -12743,7 +12743,7 @@ Other Window</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -12771,7 +12771,7 @@ Other Window</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>Vierkant</translation>
+        <translation>Om Kader</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -12791,19 +12791,19 @@ Other Window</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textuur</translation>
+        <translation>Bitmappatroon</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Door Tekst</translation>
+        <translation>Transparant</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Smal</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onderkant</translation>
+        <translation>Boven en Onder</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -12863,7 +12863,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished">WordArt Omlijning</translation>
+        <translation>WordArt Omlijning</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -13049,7 +13049,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
-        <translation>De Belichtingshoek en Belichtingssterkte van de geselecteerde 3-D vorm aanpassen.</translation>
+        <translation>De Belichtingshoek en Belichtingssterkte van de geselecteerde 3-D vorm instellen.</translation>
     </message>
 </context>
 <context>
@@ -13269,7 +13269,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.ArrangeAll</name>
     <message>
         <source>Arrange All</source>
-        <translation>Alles Rangschikken</translation>
+        <translation>Alle Vensters</translation>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
@@ -13550,7 +13550,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Controleer Spelling</translation>
+        <translation>Spellingscontrole</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
@@ -13561,7 +13561,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.Chinese Translation</name>
     <message>
         <source>Set Simplified to Traditional Chinese translation based upon the character or word.</source>
-        <translation>Vereenvoudig chinees naar traditioneel chinees gebaseerd op het teken of woord.</translation>
+        <translation>Vereenvoudig chinees naar traditioneel chinees instellen gebaseerd op het teken of woord.</translation>
     </message>
     <message>
         <source>Simplified to Traditional Chinese</source>
@@ -13657,11 +13657,11 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.CloseOutlineview</name>
     <message>
         <source>Close</source>
-        <translation>Sluiten</translation>
+        <translation>Overzichtsweergave Sluiten</translation>
     </message>
     <message>
         <source>Close Outline View and return to editing the document.</source>
-        <translation type="unfinished">Sluit de Omlijningsweergave en ga verder met het document te bewerken.</translation>
+        <translation>Sluit de Overzichtsweergave en ga verder met het document te bewerken.</translation>
     </message>
 </context>
 <context>
@@ -13841,18 +13841,18 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.DemoteOnParagraph</name>
     <message>
         <source>Demote Outline Level</source>
-        <translation type="unfinished">Verlaag het Uitlijningsniveau</translation>
+        <translation>Verlaag het Uitlijningsniveau</translation>
     </message>
     <message>
         <source>Demote the selected paragraph to a lower outline level.</source>
-        <translation type="unfinished">Verlaag de geselecteerde paragraaf naar een lager uitlijningsniveau.</translation>
+        <translation>Verlaag de geselecteerde paragraaf naar een lager uitlijningsniveau.</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteToLowestLevelOnOutlining</name>
     <message>
         <source>Demote this item to the lowest level of the outline.</source>
-        <translation type="unfinished">Verlaag dit item naar het laagste uitlijningsniveau.</translation>
+        <translation>Verlaag dit item naar het laagste uitlijningsniveau.</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
@@ -13977,7 +13977,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Set the directory level for the selected paragraph.</source>
-        <translation>Wijzig het directory niveau voor de geselecteerde paragraaf.</translation>
+        <translation>Het directory niveau voor de geselecteerde paragraaf instellen.</translation>
     </message>
 </context>
 <context>
@@ -14200,7 +14200,7 @@ Klik op de pijl om een fonetische gids te kiezen of de rand aan te passen.</tran
         <source>Fill the selected shape with color, gradient, a texture, or a picture.
 
 Click the arrow to choose different fill types.</source>
-        <translation>Vul de geselecteerde vorm met een kleur, kleurhelling, tekstuur of een afbeelding.
+        <translation>Vul de geselecteerde vorm met een kleur, kleurovergang, tekstuur of een afbeelding.
 
 Klik op de pijl om verschillende inhoudtypes te selecteren. </translation>
     </message>
@@ -14399,7 +14399,7 @@ Dubbelklik deze knop om dezelfde opmaak op verschillende plaatsen in het documen
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Maak Schilder Op</translation>
+        <translation>Opmaak Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14548,7 +14548,7 @@ Dit heeft enkel invloed op tabellen die groter zijn dan één pagina.</translati
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
-        <translation>De koptekst en voettekst van het document aanpassen.</translation>
+        <translation>De koptekst en voettekst van het document instellen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14717,11 +14717,11 @@ Dit laat je zien welk deel van het formulier zal vervangen worden door de inform
     <name>tips.InsertCaption</name>
     <message>
         <source>Add a descriptive caption to a picture or a table.</source>
-        <translation>Een onderschrift toevoegen onder een foto of tabel.</translation>
+        <translation>Een bijschrift toevoegen onder een afbeelding of tabel.</translation>
     </message>
     <message>
         <source>Insert Caption</source>
-        <translation>Onderschrift Invoegen</translation>
+        <translation>Bijschrift Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14815,7 +14815,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Voeg Opmerking In</translation>
+        <translation>Nieuwe Opmerking</translation>
     </message>
 </context>
 <context>
@@ -14905,7 +14905,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
 Set directory level for the selected paragraph and add a Table of Contents.</source>
         <translation>Toon het inhoudstabel dialoogvenster, en voeg een inhoudstabel toe aan het document.
 
-Het inhoudsniveau voor de geselecteerde paragraaf aanpassen en toevoegen aan de inhoudstabel.</translation>
+Het inhoudsniveau voor de geselecteerde paragraaf instellen en toevoegen aan de inhoudstabel.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15280,7 +15280,7 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     <name>tips.LineColor</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished">Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
+        <translation>Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -15351,7 +15351,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     </message>
     <message>
         <source>Set 1.5 line spacing to the selected paragraph with snap to grid selected.</source>
-        <translation>Zet de regelafstand van de geselecteerde paragraaf op 1.5 en lijn uit op raster.</translation>
+        <translation>De regelafstand van de geselecteerde paragraaf op 1.5 instellen en uitlijnen op raster.</translation>
     </message>
 </context>
 <context>
@@ -15475,7 +15475,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     <name>tips.NavigationPane</name>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatiepaneel</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
@@ -15497,7 +15497,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     <name>tips.NextChange</name>
     <message>
         <source>Navigate to the next revision in the document so that you can accept or reject it.</source>
-        <translation type="unfinished">Ga naar de volgende revisie in het document zodat je die kan goed- of afkeuren.</translation>
+        <translation>Ga naar de volgende revisie in het document zodat je die kan goed- of afkeuren.</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -15508,7 +15508,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     <name>tips.NextComment</name>
     <message>
         <source>Navigate to the next comment in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de volgende opmerking in het document.</translation>
     </message>
     <message>
         <source>Next Comment</source>
@@ -15519,11 +15519,11 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     <name>tips.NextHeader</name>
     <message>
         <source>Navigate to the next section&apos;s header or footer based upon the current cursor position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de koptekst of voettekst van de volgende sectie.</translation>
     </message>
     <message>
         <source>Show Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon Volgende</translation>
     </message>
 </context>
 <context>
@@ -15534,14 +15534,14 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     </message>
     <message>
         <source>Preview the next record in the recipient list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het volgde record in de ontvangerslijst.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextSection</name>
     <message>
         <source>Navigate to the next part of the current section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar het volgende deel van de huidige sectie.</translation>
     </message>
     <message>
         <source>Next Section</source>
@@ -15552,7 +15552,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     <name>tips.NextTextBox</name>
     <message>
         <source>Navigate to the next text box linked to the current one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de volgende tekstbox die aan de vorige gelinkt is.</translation>
     </message>
     <message>
         <source>Next Text Box</source>
@@ -15563,44 +15563,44 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     <name>tips.NudgeShadowDown</name>
     <message>
         <source>Move the shadow of the selected object down.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats de schaduw van het geselecteerde object naar omlaag.</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats Schaduw Omlaag</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowLeft</name>
     <message>
         <source>Move the shadow of the selected object to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats de schaduw van het geselecteerde object naar links.</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats Schaduw naar Links</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowRight</name>
     <message>
         <source>Move the shadow of the selected object to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats de schaduw van het geselecteerde object naar rechts.</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats Schaduw naar Rechts</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowUp</name>
     <message>
         <source>Move the shadow of the selected object up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats de schaduw van het geselecteerde object naar Omhoog.</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats Schaduw Omhoog</translation>
     </message>
 </context>
 <context>
@@ -15611,46 +15611,48 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     </message>
     <message>
         <source>Click the arrow to choose from different numbering formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om te kiezen tussen verschillende soorten nummeringstekens.</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummering</translation>
     </message>
     <message>
         <source>Start a numbered list.
 
 Click the arrow to choose from different numbering formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Start een genummerde lijst.
+
+Klik op de pijl om te kiezen tussen verschillende nummeringsformaten.</translation>
     </message>
 </context>
 <context>
     <name>tips.ObjectSelect</name>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectiepaneel</translation>
+        <translation>Selectievenster</translation>
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het selectievenster om een object gemakkelijk te vinden.</translation>
     </message>
 </context>
 <context>
     <name>tips.OnePage</name>
     <message>
         <source>One Page</source>
-        <translation>Een Pagina</translation>
+        <translation>Eén Pagina</translation>
     </message>
     <message>
         <source>Zoom the document so that an entire page fits in the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het document inzoomen zodat een volledige pagina in een venster past.</translation>
     </message>
 </context>
 <context>
     <name>tips.OpenDataSource</name>
     <message>
         <source>Click here to open or close Data Source files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om een databronbestand te openen of te sluiten</translation>
     </message>
     <message>
         <source>Open Data Source</source>
@@ -15658,36 +15660,36 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Open data soucres in the local folder, such as spreadsheet files, database files and text files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open databronnen, zoals spreadsheets, database bestanden en tekstbestanden.</translation>
     </message>
 </context>
 <context>
     <name>tips.OutLine</name>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished">Omlijningsweergave</translation>
+        <translation>Overzichtsweergave</translation>
     </message>
     <message>
         <source>View the document as an outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk het document als een overzicht.</translation>
     </message>
 </context>
 <context>
     <name>tips.OutLineLevelComboOnOutlining</name>
     <message>
         <source>Outline Level</source>
-        <translation type="unfinished">Omlijningsniveau</translation>
+        <translation>Omlijningsniveau</translation>
     </message>
     <message>
         <source>Set an outline level for the selected paragraph.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het omlijningsniveau van de geselecteerde paragraaf instellen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageNumber</name>
     <message>
         <source>Insert Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Paginanummer Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15695,7 +15697,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het paginanummers dialoogvenster en pas de paginanummer instellingen toe op de huidige sectie of het volledige document.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15710,7 +15712,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Select number formats for page numbers in the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een nummeringsopmaak voor de paginanummers in het huidige document.</translation>
     </message>
 </context>
 <context>
@@ -15721,14 +15723,14 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Set a page number for the current page, this becomes available when Page Number Start at is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een paginanummer voor de huidige pagina instellen. Dit wordt beschikbaar als Begin van Paginanummer aan staat.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageOrientation</name>
     <message>
         <source>Page Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Oriëntatie Pagina</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15736,7 +15738,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schakelen tussen staande en liggende pagina-indeling.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15747,11 +15749,11 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-instelling</translation>
+        <translation>Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het pagina-instellingen dialoogvenster.</translation>
     </message>
 </context>
 <context>
@@ -15762,7 +15764,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het document inzoomen zodat de breedte van het document gelijk is aan de breedte van het venster.</translation>
     </message>
 </context>
 <context>
@@ -15771,18 +15773,20 @@ Click the arrow to choose from different numbering formats.</source>
         <source>Display phonetic characters to clarify the pronunciation.
 
 Click the arrow to choose Change Case, Enclose Characters, and Character Border options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonetisch schrift tonen om de uitspraak duidelijk te maken.
+
+Klik op de pijl om de hoofdletters, ingesloten tekens en tekenrandopties te tonen.</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>Fonetische Gids</translation>
+        <translation>Fonetische Begeleiding</translation>
     </message>
 </context>
 <context>
     <name>tips.PhoneticGuide2</name>
     <message>
         <source>Click the arrow to choose Phonetic Guide, Change Case, Enclose Characters and Character Border options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om meer opties te tonen zoals Fonetische Gids, Hoofdletters Aanpassen, Tekens Insluiten en Tekenrandopties.</translation>
     </message>
     <message>
         <source>Other Options</source>
@@ -15793,22 +15797,22 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding Aanpassen</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het contrast of de helderheid van de geselecteerde afbeelding aanpassen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureColor</name>
     <message>
         <source>Recolor</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkleur</translation>
     </message>
     <message>
         <source>Recolor the picture to give it a black and white, washout or transparent color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkleur de afbeelding om het zwart/wit, uitgewassen of transparante kleur te geven.</translation>
     </message>
 </context>
 <context>
@@ -15819,20 +15823,22 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding bijsnijden om ongewenste delen de verwijderen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureFill</name>
     <message>
         <source>Click the arrow to select different fill modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om verschillende opvulwijzen te selecteren.</translation>
     </message>
     <message>
         <source>Fill the selected object with a color, gradient, pattern and picture.
 
 Click the arrow to select different fill modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vul het geselecteerde object op met een kleur, een kleurovergang, een pattroon of een afbeelding.
+
+Klik op de pijl om verschillende opvulwijzen te selecteren.</translation>
     </message>
     <message>
         <source>Picture Fill</source>
@@ -15843,46 +15849,48 @@ Click the arrow to select different fill modes.</source>
     <name>tips.PictureOutline</name>
     <message>
         <source>Click the arrow to select detailed settings for the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om gedetailleerde instellingen voor het object te selecteren</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="unfinished">Afbeeldingsomlijning</translation>
+        <translation>Afbeeldingsomlijning</translation>
     </message>
     <message>
         <source>Set picture outline color, outline width and outline style for the selected object.
 
 Click the arrow to select detailed settings for the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>De afbeeldingsomlijningskleur, de omlijningsbreedte en de omlijningsstijl voor het geselecteerde object instellen.
+
+Klik op de pijl om geavanseerde instellingen van het object aan te passen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureSetTransparentColor</name>
     <message>
         <source>PictureSetTransparentColor Content</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>PictureSetTransparentColor Title</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.PictureSize</name>
     <message>
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>De grootte, de draaiiing en de schaling van de geselecteerde vorm aanpassen.</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Afbeelding Grootte</translation>
+        <translation>Afbeeldingsgrootte</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousChange</name>
     <message>
         <source>Navigate to the previous revision in the document so that you can accept or reject it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de vorige revisie in het document zodat je die kan aanvaarden of afwijzen.</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -15893,7 +15901,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreviousComment</name>
     <message>
         <source>Navigate to the previous comment in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de vorige opmerking in het document.</translation>
     </message>
     <message>
         <source>Previous Comment</source>
@@ -15904,18 +15912,18 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreviousHeader</name>
     <message>
         <source>Navigate to the previous section&apos;s header or footer based on the current cursor position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de koptekst of voettekst van de vorige sectie.</translation>
     </message>
     <message>
         <source>Show Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon Vorig</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousRecord</name>
     <message>
         <source>Preview the previous record in the recipient list</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de vorige vermelding in de ontvangerslijst.</translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -15926,7 +15934,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreviousSection</name>
     <message>
         <source>Navigate to the previous section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de vorige sectie.</translation>
     </message>
     <message>
         <source>Previous Section</source>
@@ -15937,7 +15945,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreviousTextBox</name>
     <message>
         <source>Navigate to the previous text box that is linked to the selected text box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar het vorig tekstvak die aan dit tekstvak gelinkt is.</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
@@ -15948,11 +15956,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.Print</name>
     <message>
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedetailleerde afdrukinstellingen zoals printer, afdrukbereik, pagina&apos;s per vel en schaling aanpassen.</translation>
     </message>
     <message>
         <source>Click here to set details of printing, or use default settings to print directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier op de gedetailleerde afdrukinstellingen in te stellen, of gebruik de standaardinstellingen om snel te printen.</translation>
     </message>
     <message>
         <source>Print</source>
@@ -15963,11 +15971,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrintDirect</name>
     <message>
         <source>Quick Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelprinten</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het document afdrukken met de standaard printer en standaardinstellingen.</translation>
     </message>
 </context>
 <context>
@@ -15978,29 +15986,29 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk het document zoals het weergegeven zou worden op een afgedrukte pagina.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk en maak aanpassingen voor het printen.</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Afdrukvoorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Specify the zoom level of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het zoomniveau van het huidig document aanpassen.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -16011,7 +16019,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
     </message>
 </context>
 <context>
@@ -16022,25 +16030,25 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Promote the selected item to a higher level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het geselecteerde item naar een hoger niveau opwaarderen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteOnParagraph</name>
     <message>
         <source>Promote directory level</source>
-        <translation type="unfinished"></translation>
+        <translation>Directory Niveau Opwaarderen</translation>
     </message>
     <message>
         <source>Promote the directory level of the selected paragraph to a higher level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verhoog de geselecteerde paragraaf naar een hoger directoryniveau.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteToHighestLevelOnOutlining</name>
     <message>
         <source>Promote this item to the highest level of the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het item opwaarderen to het hoogste schetsniveau.</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
@@ -16051,7 +16059,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PromoteToHighestLevelOnParagraph</name>
     <message>
         <source>Promote this item to the highest level of the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het item opwaarderen to het hoogste schetsniveau.</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
@@ -16066,7 +16074,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
-        <translation type="unfinished"></translation>
+        <translation>De toegang tot het document beperken door een wachtwoord.</translation>
     </message>
 </context>
 <context>
@@ -16077,7 +16085,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>View items on Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk items op het klembord.</translation>
     </message>
 </context>
 <context>
@@ -16088,7 +16096,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show the Font dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het lettertype dialoogvenster.</translation>
     </message>
 </context>
 <context>
@@ -16099,14 +16107,14 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show the Paragraph dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het paragraaf dialoogvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Style</name>
     <message>
         <source>Show the Styles and Formatting task pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het stijlen en opmaak taakvenster.</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -16117,15 +16125,15 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.RbTableOutsideBorder</name>
     <message>
         <source>Click the arrow to select different borders.</source>
-        <translation type="unfinished"></translation>
+        <translation>klik op de pijl om verschillende randen te selecteren.</translation>
     </message>
     <message>
         <source>Customize the borders of the selected cells or text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Randen van de geselecteerke cellen of tekst aanpassen.</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste Randen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16142,7 +16150,9 @@ Click the arrow to select detailed settings for the selected object.</source>
         <source>Execute sum, average, maximum or minimum value calculations for the selected row or column data.
 
 Results will be displayed in a cell following the selected cells in the same row or column. If there is no cell after that, a new row or column will be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Execute sum, average, maximum or minimum value calculations for the selected row or column data.
+
+Results will be displayed in a cell following the selected cells in the same row or column. If there is no cell after that, a new row or column will be created.</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -16155,11 +16165,13 @@ Results will be displayed in a cell following the selected cells in the same row
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstkleur aanpassen.
+
+Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -16170,13 +16182,15 @@ Click the arrow to select a different text color.</source>
     <name>tips.RecentTableShadingColor</name>
     <message>
         <source>Click the arrow to select different background colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om een ander achtergrondkleur te kiezen.</translation>
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different background colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur de achtergrond achter de geselecteerde tekst of paragraaf.
+
+Klik op de pijl om een andere achtergrondkleur te kiezen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16195,33 +16209,33 @@ Click the arrow to select different background colors.</source>
     <name>tips.ReducedStep</name>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Regelafstand Verminderen</translation>
     </message>
     <message>
         <source>Reduce the line spacing of the selected paragraph by 0.25.</source>
-        <translation type="unfinished"></translation>
+        <translation>Regelafstand van de geselecteerde paragraaf verminderen met 0.25.</translation>
     </message>
 </context>
 <context>
     <name>tips.RejectChangeOnTB</name>
     <message>
         <source>Click the arrow to reject all changes in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om alle veranderingen in het documen af te wijzen.</translation>
     </message>
     <message>
         <source>Reject the current change and delete the comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>De huidige wijziging afwijzen en de opmerking verwijderen</translation>
     </message>
     <message>
         <source>Reject the selected change</source>
-        <translation type="unfinished"></translation>
+        <translation>De geselecteerde wijziging afwijzen.</translation>
     </message>
 </context>
 <context>
     <name>tips.RejectRevisionOnTB</name>
     <message>
         <source>Click here to reject all changes in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om alle aanpassingen in het document af te wijzen.</translation>
     </message>
     <message>
         <source>Reject Change</source>
@@ -16229,7 +16243,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-        <translation type="unfinished"></translation>
+        <translation>De geselecteerde aanpassing afwijzen.</translation>
     </message>
 </context>
 <context>
@@ -16240,7 +16254,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Move the selected item down within the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het geselecteerde object binnen de omlijning omlaag verplaatsen.</translation>
     </message>
 </context>
 <context>
@@ -16251,7 +16265,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Move the selected item up within the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het geselecteerde object binnen de omlijning omhoog verplaatsen.</translation>
     </message>
 </context>
 <context>
@@ -16262,14 +16276,14 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Replace text content in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>De geselecteerde tekst vervangen.</translation>
     </message>
 </context>
 <context>
     <name>tips.ResetPicture</name>
     <message>
         <source>Discard all the formatting changes you made to this picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle wijzigingen aan de afbeelding ongedaan maken.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16277,7 +16291,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Afbeelding Resetten</translation>
+        <translation>Afbeelding Herstellen</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16288,11 +16302,11 @@ Click the arrow to select different background colors.</source>
     <name>tips.RestartPageNumber</name>
     <message>
         <source>Reset the starting page number of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>De startpaginanummer van het huidige document herstellen.</translation>
     </message>
     <message>
         <source>Restart Page Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Herstart Paginanummering</translation>
     </message>
 </context>
 <context>
@@ -16303,29 +16317,29 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
     </message>
 </context>
 <context>
     <name>tips.RunMacro</name>
     <message>
         <source>Show Macros dialog box, view the list of macros, from which you can run, delete, or create a macro directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het Macro&apos;s dialoogvenster, bekijk de lijst van Macro&apos;s, voer hem uit, maak een nieuwe macro of verwijder een bestaande.</translation>
     </message>
     <message>
         <source>View Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk Macro&apos;s</translation>
     </message>
 </context>
 <context>
     <name>tips.Security</name>
     <message>
         <source>Customize the macro security settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>De Macro beveiligingsinstellingen aanpassen.</translation>
     </message>
     <message>
         <source>Macros Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro&apos;s Beveiliging</translation>
     </message>
 </context>
 <context>
@@ -16336,7 +16350,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Select text or objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer tekst of objecten in het document.</translation>
     </message>
 </context>
 <context>
@@ -16347,35 +16361,37 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een object een stap naar achter verplaatsen.</translation>
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet het geselecteerd object naar achter of plaats het achter alle andere objecten.</translation>
     </message>
 </context>
 <context>
     <name>tips.Separator</name>
     <message>
         <source>After inserting footnote/endnote, show or hide the footnote/endnote separator line at the bottom of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na de voetnoot/eindnoot in te voegen, toon of verberg de voetnoot/eindnoot scheidingslijn aan de onderkant van het document.</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon Voetnoot/Eindnoot Scheidingslijn</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowColor</name>
     <message>
         <source>Click the arrow to select different shadow colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Set the shadow color of the selected object.
 
 Click the arrow to select different shadow colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>De schaduwkleur van het geselecteerde object instellen.
+
+Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -16390,25 +16406,25 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
-        <translation type="unfinished"></translation>
+        <translation>De schaduw van het geselecteerde object aan of uit zetten.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowSetting</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een visueel effect aan het geselecteerde object geven.</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw Effecten</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeSize</name>
     <message>
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>De grootte, de draaiiing en de schaling van de geselecteerde vorm instellen.</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -16419,7 +16435,7 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.Shapes</name>
     <message>
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorgemaakte vormen invoegen, zoals lijnen, rechthoeken, fowchart symbolen en bijschrift.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16438,15 +16454,15 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.ShowDocumentMap</name>
     <message>
         <source>Click here to choose which position to display the Document Map pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om de wijzigen hoe het Navigatievenster getoont wordt.</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Documentkaart</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>Show or hide the Document Map pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg het Navigatievenster.</translation>
     </message>
 </context>
 <context>
@@ -16457,18 +16473,18 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Show only the first line of each item in the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon enkel de eerste lijn van elk item in de schets.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFirstPageNumber</name>
     <message>
         <source>Show or hide the page number on the first page of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg het paginanummer op de eerste pagina van het document.</translation>
     </message>
     <message>
         <source>Show page number on first page</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon paginanummer op eerste pagina</translation>
     </message>
 </context>
 <context>
@@ -16479,18 +16495,18 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Show or hide all the text formatting in the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg alle tekstopmaak in de schets.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowGridlines</name>
     <message>
         <source>Show or hide the gridlines within the table that has no borders.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg de rasterlijnen in de tabel die geen randen heeft.</translation>
     </message>
     <message>
         <source>View Table Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon Tabelrasterlijnen</translation>
     </message>
 </context>
 <context>
@@ -16501,29 +16517,29 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Switch between the header and footer of the current page in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wissel tussen de koptekst en de voettekst van de huidige pagina in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideFormattingMarks</name>
     <message>
         <source>Show all formatting symbols in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon alle opmaaksymbolen in het document.</translation>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon/Verberg Opmaaksymbolen</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideTextOctopus</name>
     <message>
         <source>Show or hide the Paragraph Layout button in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg de paragraafopmaak knop in het document.</translation>
     </message>
     <message>
         <source>Show/hide Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon/Verberg Paragraafopmaak</translation>
     </message>
 </context>
 <context>
@@ -16532,7 +16548,9 @@ Click the arrow to select different shadow colors.</source>
         <source>Choose which levels to show in the outline.
 
 The selected level and all higher levels will be visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies welke niveaus in de schets getoont worden.
+
+Het geselecteerde niveau en alle hogere niveaus zullen zichtbaar zijn.</translation>
     </message>
     <message>
         <source>Show Level</source>
@@ -16731,7 +16749,7 @@ Klik op de pijl om subscript te selecteren.</translation>
         <source>Set a border color for the selected table.
 
 Click the arrow to select different border colors.</source>
-        <translation>Pas de randkleur van de geselecteerde tabel aan.
+        <translation>De randkleur van de geselecteerde tabel instellen.
 
 Klik op de pijl om verschillende randkleuren te selecteren.</translation>
     </message>
@@ -16784,7 +16802,7 @@ Klik op de pijl om verschillende randkleuren te selecteren.</translation>
     <name>tips.TableProperties</name>
     <message>
         <source>Change advanced table properties, such as text wrapping, indentations and allow rows to break across pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>De geavanceerde tabeleigenschappen aanpassen, zoals tesktterugloop, inspringen, en rijen over meerdere pagina&apos;s.</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -16799,20 +16817,22 @@ Klik op de pijl om verschillende randkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Select the current cell, row, column, or the entire table, and select tables with dashed borders.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer de huidige cel, rij, kolom of de volledige tabel.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableShadingColor</name>
     <message>
         <source>Click the arrow to select different shading colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different shading colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur de achtergrond achter de geselecteerde tekst of paragraaf.
+
+Klik op de pijl om verchillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16831,7 +16851,7 @@ Click the arrow to select different shading colors.</source>
     <name>tips.Tabs</name>
     <message>
         <source>Show the Tabs dialog box, and set tab stop position of the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon het tabbladen dialoogvenster en stel de tabstoppositie van de tekst in.</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -16842,33 +16862,33 @@ Click the arrow to select different shading colors.</source>
     <name>tips.TaskPane</name>
     <message>
         <source>Show or hide task pane in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg het taakvenster in het document.</translation>
     </message>
     <message>
         <source>Task Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Taakvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.TextBox</name>
     <message>
         <source>Click here to insert horizontal, vertical or multi-line text boxes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier omhorizontale, verticale of meerlijnige tekstvakken toe te voegen.</translation>
     </message>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Teken Horizontaal Tekstvak</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een tekstvak in het document invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.TextDirection</name>
     <message>
         <source>Customize the text layout direction to be either horizontal or vertical in the current section, entire document or selected text boxes and tables.</source>
-        <translation type="unfinished"></translation>
+        <translation>De tekstopmaakrichting aanpassen zodat die horizontaal of verticaal komt te staan.</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -16879,7 +16899,7 @@ Click the arrow to select different shading colors.</source>
     <name>tips.TightLineSpacing</name>
     <message>
         <source>Set 1.0 line spacing to selected paragraphs with undefined snap to grid lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Regalafstand van de geselecteerde paragraaf wijzigen naar 1.0.</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
@@ -16890,7 +16910,7 @@ Click the arrow to select different shading colors.</source>
     <name>tips.TrackChanges</name>
     <message>
         <source>Click here to choose revision markups and comment formatting, or to change reviewer information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om de controlemarkeringen en opmerkingopmaak te kiezen of revisorinformatie aan te passen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16902,7 +16922,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Track all changes made to the document, including insertions, deletions and formatting changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle wijzigingen die in het document zijn aangebracht bijhouden, inclusief invoegings-, verwijdernings- en opmaakwijzigingen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16913,28 +16933,30 @@ Click the arrow to select different shading colors.</source>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het document omzetten naar Traditioneel Chinees.</translation>
     </message>
     <message>
         <source>Traditional</source>
-        <translation type="unfinished"></translation>
+        <translation>Traditioneel</translation>
     </message>
 </context>
 <context>
     <name>tips.Underline</name>
     <message>
         <source>Click the arrow to select different underlining styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om verschillende onderstreepstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline the selected text.
 
 Click the arrow to select different underlining styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstreep de geselecteerde tekst.
+
+Klik op de pijl om verschillende onderstreepstijlen te kiezen.</translation>
     </message>
 </context>
 <context>
@@ -16945,11 +16967,11 @@ Click the arrow to select different underlining styles.</source>
     </message>
     <message>
         <source>Update Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhoudstabel Updaten.</translation>
     </message>
     <message>
         <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoudstabel bijwerken zodat alle vermeldingen naar de juiste pagina verwijzen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16960,20 +16982,22 @@ Click the arrow to select different underlining styles.</source>
     <name>tips.VerbSideBySide</name>
     <message>
         <source>Reset Window Position</source>
-        <translation>Reset Vensterpositie</translation>
+        <translation>Vensterpositie Herstellen</translation>
     </message>
     <message>
         <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
 
 To enable this feature, turn on View Side by Side.</source>
-        <translation type="unfinished"></translation>
+        <translation>De vensterpositie van de documenten herstellen.
+
+Om deze functie aan te zetten, zet Bekijk Naast Elkaar aan.</translation>
     </message>
 </context>
 <context>
     <name>tips.ViewMergedData</name>
     <message>
         <source>Replaces the merge fields in your document with actual data from your recipient list so you can see what it looks like.</source>
-        <translation type="unfinished"></translation>
+        <translation>De samenvoegvelden in het document vervangen door de eigenlijke data uit de ontvangerslijst.</translation>
     </message>
     <message>
         <source>View Merged Data</source>
@@ -16988,14 +17012,14 @@ To enable this feature, turn on View Side by Side.</source>
     </message>
     <message>
         <source>View the rulers used to measure and line up text and objects within the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
     </message>
 </context>
 <context>
     <name>tips.VisualBasicEditor</name>
     <message>
         <source>Launch Visual Basic Editor, and edit Macros.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visual Basic Editor opstarten en Macro&apos;s aanpassen.</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -17008,7 +17032,9 @@ To enable this feature, turn on View Side by Side.</source>
         <source>Insert ghosted text and picture behind the content on the page.
 
 This is often used to indicate that the document is to be treated specially, such as encrypted and confidential material and to prohibit copying or mark the document source such as the addition of copyright logos and author information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeer lichte tekst en/of afbeelding invoegen achter de paginainhoud.
+
+Dit wordt veel gebruikt om aan te duiden dat het document een speciale behandeling moet krijgen zoals &quot;Vertrouwelijk&quot; of &quot;Auteursrechtelijk Beschermd&quot;.</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -17019,18 +17045,18 @@ This is often used to indicate that the document is to be treated specially, suc
     <name>tips.WebLayoutView</name>
     <message>
         <source>View the document as it would look as a Web page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het document weergeven zoals het er zou uitzien als een webpagina.</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Web Opmaak</translation>
+        <translation>Weblayout</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtAlignment</name>
     <message>
         <source>Specify how individual lines of a multi-line WordArt should be aligned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifieer hoe individuele lijnen van een meerlijnige WordArt uitgelijnd worden.</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
@@ -17041,13 +17067,15 @@ This is often used to indicate that the document is to be treated specially, suc
     <name>tips.WordArtFill</name>
     <message>
         <source>Click the arrow to fill the WordArt in different ways.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om de WordArt op verschillende manieren uit te lijnen.</translation>
     </message>
     <message>
         <source>Fill the selected WordArt with a solid color, gradient, texture and picture.
 
 Click the arrow to fill the WordArt in different ways.</source>
-        <translation type="unfinished"></translation>
+        <translation>De geselecteerde WordArt opvullen met een vaste kleur, kleurovergang, tekstuur of afbeelding.
+
+Klik op de pijl om de WordArt op verschillende manieren op te vullen.</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
@@ -17058,7 +17086,7 @@ Click the arrow to fill the WordArt in different ways.</source>
     <name>tips.WordArtGallery</name>
     <message>
         <source>Change the style of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>De stijl van de geselecteerde WordArt aanpassen.</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -17069,17 +17097,19 @@ Click the arrow to fill the WordArt in different ways.</source>
     <name>tips.WordArtOutline</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de pijl om uit meer omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Specify the color, width and line style for the outline of the selected WordArt.
 
 Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifieer de kleur, dikte en lijn stijl voor de omlijning van de geselecteerde WordArt.
+
+Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished">WordArt Omlijning</translation>
+        <translation>WordArt Omlijning</translation>
     </message>
 </context>
 <context>
@@ -17090,14 +17120,14 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geef alle letters van de geselecteerde WordArt dezelfde hoogte.</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>Change the shape style of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>De vormstijl van de geselecteerde WordArt aanpassen.</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -17108,7 +17138,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>De grootte, de draaiiing en de schaling van de geselecteerde WordArt instellen.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
@@ -17119,7 +17149,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WordArtVerticalText</name>
     <message>
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teken de tekst verticaal, met de letters boven elkaar gezet.</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -17130,11 +17160,11 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WordCount</name>
     <message>
         <source>Count the number of pages, words, characters and paragraphs in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tel het aantal pagina&apos;s, woorden, tekens en paragrafen in het document.</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>Aantal Woorden</translation>
+        <translation>Woorden Tellen</translation>
     </message>
 </context>
 <context>
@@ -17143,7 +17173,9 @@ Click the arrow to choose more outline styles.</source>
         <source>Apply smart formatting to the document.
 
 Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the first line of a paragraph by 2 characters&quot;, and other specified options to the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slimme opmaak toepassen op het document.
+
+Slimme opmaak toepassen op het document, zoals &quot;verwijder spaties&quot;, &quot;spring de eerste lijn van een paragraaf in met 2 tekens&quot;, en andere speciale opties.</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -17154,22 +17186,22 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     <name>tips.WorkSpace_Backup</name>
     <message>
         <source>WorkSpace_Backup Content</source>
-        <translation type="unfinished"></translation>
+        <translation>WorkSpace_Backup Content</translation>
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation type="unfinished"></translation>
+        <translation>WorkSpace_Backup Title</translation>
     </message>
 </context>
 <context>
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open het In-/Uitzoomen dialoogvenster om het zoomniveau van het document aan te passen.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -17182,7 +17214,9 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
         <source>Align the edges of multiple selected objects.
 
 You can also center them or distribute them evenly across the page.</source>
-        <translation type="unfinished"></translation>
+        <translation>De randen van de geselecteerde objecten uitlijnen.
+
+Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -17197,11 +17231,11 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_Breaks</name>
     <message>
         <source>Add page, section or column breaks to the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een pagina-, sectie- of kolomeinde toevoegen aan het document.</translation>
     </message>
     <message>
         <source>Insert Page and Section Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina- en Sectieeindes Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -17216,11 +17250,11 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_CharacterScaling</name>
     <message>
         <source>Character Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekengrootte</translation>
     </message>
     <message>
         <source>Set character scale of the selected content.</source>
-        <translation type="unfinished"></translation>
+        <translation>De tekengrootte van de geselecteerde inhoud aanpassen.</translation>
     </message>
 </context>
 <context>
@@ -17231,25 +17265,25 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Split text into two or more columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>De tekst verdelen in twee of meer kolommen.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Group</name>
     <message>
         <source>Group</source>
-        <translation>Groepeer</translation>
+        <translation>Groeperen</translation>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objecten groeperen zodat je ze kan selecteren als één object.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_LineNumber</name>
     <message>
         <source>Add line numbers in the margin alongside of each line of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Regelnummers tonen in de marge van het document.</translation>
     </message>
     <message>
         <source>Line Numbers</source>
@@ -17268,7 +17302,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_LineSpacing</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation type="unfinished"></translation>
+        <translation>De regelafstand tussen verschillende lijnen tekst aanpassen.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -17287,7 +17321,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
-        <translation type="unfinished"></translation>
+        <translation>De grootte van de marge voor het volledige document of de huidige sectie selecteren.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17298,7 +17332,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_PageBorder</name>
     <message>
         <source>Add or change the border around the page of the current section or the entire document.</source>
-        <translation type="unfinished"></translation>
+        <translation>De rand rond de selectie aanpassen.</translation>
     </message>
     <message>
         <source>Page Borders</source>
@@ -17309,11 +17343,11 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_PageSize</name>
     <message>
         <source>Choose a paper size for the current section or the entire document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een papiergrootte voor de huidige sectie of het volledige document kiezen.</translation>
     </message>
     <message>
         <source>Page Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Paginagrootte.</translation>
     </message>
 </context>
 <context>
@@ -17324,11 +17358,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Rotatie</translation>
+        <translation>Draaien</translation>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het geselecteerde object draaien of kantelen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17339,7 +17373,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_ShowReviewer</name>
     <message>
         <source>Choose what kind of markup to show in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies welke markeringen te tonen in het document.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -17347,7 +17381,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Show Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeringen Tonen</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17373,7 +17407,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_Wrapping</name>
     <message>
         <source>Change the way text wraps around the selected object, such as square and behind text.</source>
-        <translation>Verander de manier waarop tekst om een object geplaats word, zoals vierkant of achter tekst.</translation>
+        <translation>Verander de manier waarop tekst om een object geplaats word, zoals Om Kader of achter tekst.</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -17604,7 +17638,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Mail Samenvoegen</translation>
+        <translation>Verzendlijst</translation>
     </message>
     <message>
         <source>Menu Bar</source>
@@ -17719,7 +17753,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Controleer Spelling</translation>
+        <translation>Spellingscontrole</translation>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
@@ -17743,7 +17777,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation>Klembord Paneel</translation>
+        <translation>Klembordvenster</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -17795,7 +17829,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished">Recht Uitlijnen</translation>
+        <translation>Recht Uitlijnen</translation>
     </message>
     <message>
         <source>Document collaboration</source>
@@ -17991,11 +18025,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished">Omlijning</translation>
+        <translation>Omlijning</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished">Omlijningsweergave</translation>
+        <translation>Overzichtsweergave</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -18075,7 +18109,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Spellingscontroletaal Aanpassen</translation>
+        <translation>Controletaal Aanpassen</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -18171,7 +18205,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -18199,7 +18233,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Web Opmaak</translation>
+        <translation>Weblayout</translation>
     </message>
     <message>
         <source>Whole Table</source>
@@ -18211,7 +18245,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>Aantal Woorden</translation>
+        <translation>Woorden Tellen</translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
@@ -18219,7 +18253,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
@@ -18288,7 +18322,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>Home</translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -18308,7 +18342,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatiepaneel</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>New Blank File</source>
@@ -18332,7 +18366,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished">Omlijning</translation>
+        <translation>Omlijning</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -18340,7 +18374,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished">Paragraafopmaak</translation>
+        <translation>Paragraafopmaak</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -18364,7 +18398,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Review</source>
-        <translation>Herzien</translation>
+        <translation>Controleren</translation>
     </message>
     <message>
         <source>Section</source>
@@ -18508,7 +18542,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>Home</translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -18528,7 +18562,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatiepaneel</translation>
+        <translation>Navigatievenster</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -18540,7 +18574,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished">Omlijning</translation>
+        <translation>Omlijning</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -18548,7 +18582,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished">Paragraafopmaak</translation>
+        <translation>Paragraafopmaak</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -18572,7 +18606,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Review</source>
-        <translation>Herzien</translation>
+        <translation>Controleren</translation>
     </message>
     <message>
         <source>Section</source>
