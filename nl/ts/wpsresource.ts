@@ -6,15 +6,15 @@
     <name>classics.3dsettings</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished">0 pt</translation>
+        <translation>0 pt</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished">144 pt</translation>
+        <translation>144 pt</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished">288 pt</translation>
+        <translation>288 pt</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -26,11 +26,11 @@
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished">36 pt</translation>
+        <translation>36 pt</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished">72 pt</translation>
+        <translation>72 pt</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>Lighting</source>
-        <translation>Verlichting</translation>
+        <translation>Belichting</translation>
     </message>
     <message>
         <source>Matte</source>
@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>Wire Frame</translation>
+        <translation>Omtrek</translation>
     </message>
 </context>
 <context>
@@ -266,31 +266,31 @@
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pt</translation>
+        <translation>0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pt</translation>
+        <translation>0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pt</translation>
+        <translation>0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pt</translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pt</translation>
+        <translation>1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pt</translation>
+        <translation>2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pt</translation>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -900,59 +900,59 @@
     <name>classics.formatting</name>
     <message>
         <source>1.0</source>
-        <translation type="unfinished">1.0</translation>
+        <translation>1.0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished">1.5</translation>
+        <translation>1.5</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished">100%</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation type="unfinished">150%</translation>
+        <translation>150%</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation type="unfinished">2.0</translation>
+        <translation>2.0</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation type="unfinished">2.5</translation>
+        <translation>2.5</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation type="unfinished">200%</translation>
+        <translation>200%</translation>
     </message>
     <message>
         <source>3.0</source>
-        <translation type="unfinished">3.0</translation>
+        <translation>3.0</translation>
     </message>
     <message>
         <source>33%</source>
-        <translation type="unfinished">33%</translation>
+        <translation>33%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished">50%</translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation type="unfinished">5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>66%</source>
-        <translation type="unfinished">66%</translation>
+        <translation>66%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished">80%</translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished">90%</translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -1224,7 +1224,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
+        <translation>Opwaarderen tot Kop 1</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -3807,7 +3807,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
+        <translation>Opwaarderen tot Kop 1</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -5457,7 +5457,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>Verlichting</translation>
+        <translation>Belichting</translation>
     </message>
     <message>
         <source>Matte</source>
@@ -5643,7 +5643,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>Wire Frame</translation>
+        <translation>Omtrek</translation>
     </message>
 </context>
 <context>
@@ -6244,7 +6244,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>Verlichting</translation>
+        <translation>Belichting</translation>
     </message>
     <message>
         <source>Matte</source>
@@ -6430,7 +6430,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>Wire Frame</translation>
+        <translation>Omtrek</translation>
     </message>
 </context>
 <context>
@@ -7587,7 +7587,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaten</translation>
+        <translation>Vormeffecten</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -9906,7 +9906,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
+        <translation>Opwaarderen tot Kop 1</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -11470,7 +11470,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>Verlichting</translation>
+        <translation>Belichting</translation>
     </message>
     <message>
         <source>Matte</source>
@@ -11650,7 +11650,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>Wire Frame</translation>
+        <translation>Omtrek</translation>
     </message>
 </context>
 <context>
@@ -12172,7 +12172,7 @@ Other Window</source>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>Verlichting</translation>
+        <translation>Belichting</translation>
     </message>
     <message>
         <source>Matte</source>
@@ -12352,7 +12352,7 @@ Other Window</source>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>Wire Frame</translation>
+        <translation>Omtrek</translation>
     </message>
 </context>
 <context>
@@ -16052,7 +16052,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
+        <translation>Opwaarderen tot Kop 1</translation>
     </message>
 </context>
 <context>
@@ -16063,7 +16063,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
+        <translation>Opwaarderen tot Kop 1</translation>
     </message>
 </context>
 <context>
@@ -18307,7 +18307,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaten</translation>
+        <translation>Vormeffecten</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -18527,7 +18527,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaten</translation>
+        <translation>Vormeffecten</translation>
     </message>
     <message>
         <source>Google Docs</source>
