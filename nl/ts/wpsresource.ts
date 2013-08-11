@@ -6,15 +6,15 @@
     <name>classics.3dsettings</name>
     <message>
         <source>0 pt</source>
-        <translation></translation>
+        <translation type="unfinished">0 pt</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation></translation>
+        <translation type="unfinished">144 pt</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation></translation>
+        <translation type="unfinished">288 pt</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -26,11 +26,11 @@
     </message>
     <message>
         <source>36 pt</source>
-        <translation></translation>
+        <translation type="unfinished">36 pt</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation></translation>
+        <translation type="unfinished">72 pt</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -266,31 +266,31 @@
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-        <translation></translation>
+        <translation type="unfinished">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation></translation>
+        <translation type="unfinished">0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation></translation>
+        <translation type="unfinished">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation></translation>
+        <translation type="unfinished">1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation></translation>
+        <translation type="unfinished">1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation></translation>
+        <translation type="unfinished">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation></translation>
+        <translation type="unfinished">3 pt</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -402,7 +402,7 @@
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -718,7 +718,7 @@
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -842,7 +842,7 @@
     </message>
     <message>
         <source>Weight</source>
-        <translation>Gewicht</translation>
+        <translation>Dikte</translation>
     </message>
 </context>
 <context>
@@ -857,7 +857,7 @@
     </message>
     <message>
         <source>Character Shading</source>
-        <translation>Karakter Schaduw</translation>
+        <translation>Letterschaduw</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -900,59 +900,59 @@
     <name>classics.formatting</name>
     <message>
         <source>1.0</source>
-        <translation></translation>
+        <translation type="unfinished">1.0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation></translation>
+        <translation type="unfinished">1.5</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation></translation>
+        <translation type="unfinished">100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation></translation>
+        <translation type="unfinished">150%</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation></translation>
+        <translation type="unfinished">2.0</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation></translation>
+        <translation type="unfinished">2.5</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation></translation>
+        <translation type="unfinished">200%</translation>
     </message>
     <message>
         <source>3.0</source>
-        <translation></translation>
+        <translation type="unfinished">3.0</translation>
     </message>
     <message>
         <source>33%</source>
-        <translation></translation>
+        <translation type="unfinished">33%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation></translation>
+        <translation type="unfinished">50%</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation></translation>
+        <translation type="unfinished">5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>66%</source>
-        <translation></translation>
+        <translation type="unfinished">66%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation></translation>
+        <translation type="unfinished">80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation></translation>
+        <translation type="unfinished">90%</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -1224,7 +1224,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Opwaarderen tot Heading 1</translation>
+        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -1299,7 +1299,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding Wijzigen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1355,7 +1355,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Afbeelding Herstellen</translation>
+        <translation>Beginwaarden van Afbeelding</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -1363,7 +1363,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Transparante Kleur Instellen</translation>
+        <translation>Doorzichtige Kleur Instellen</translation>
     </message>
     <message>
         <source>Square</source>
@@ -1387,11 +1387,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation>Uitwassen</translation>
+        <translation>Wassen</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Gewicht</translation>
+        <translation>Dikte</translation>
     </message>
 </context>
 <context>
@@ -2015,7 +2015,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>Brief Rechtvaardigen</translation>
+        <translation>Letter Uitvullen</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -2059,7 +2059,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>Uitrekken Rechtvaardigen</translation>
+        <translation>Uitrekken Uitvullen</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -2103,19 +2103,19 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>Woorden Rechtvaardigen</translation>
+        <translation>Woord Uitvullen</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>WordArt Uitlijnen</translation>
+        <translation>Uitlijnen</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>WordArt Tekenafstand</translation>
+        <translation>Tekenafstand</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>WordArt Gallerij</translation>
+        <translation>Stijl Bewerken</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -2387,7 +2387,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -2487,7 +2487,7 @@ Aan</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -2607,7 +2607,7 @@ Aan</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Rechtvaardigen</translation>
+        <translation>Uitvullen</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -2719,7 +2719,7 @@ Aan</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation>Schaduw aan</translation>
+        <translation>Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -2803,11 +2803,11 @@ Aan</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Gewicht</translation>
+        <translation>Dikte</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop Stijl</translation>
+        <translation>Tekstterugloop</translation>
     </message>
 </context>
 <context>
@@ -3020,7 +3020,7 @@ Aan</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -3163,7 +3163,7 @@ Aan</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation>Karakter Schaduw</translation>
+        <translation>Letterschaduw</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -3283,7 +3283,7 @@ Aan</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Rechtvaardigen</translation>
+        <translation>Uitvullen</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3529,7 +3529,7 @@ Aan</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3807,7 +3807,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Opwaarderen tot Heading 1</translation>
+        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -3850,7 +3850,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -4241,7 +4241,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Rechtvaardigen</translation>
+        <translation>Uitvullen</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -4399,7 +4399,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -4439,7 +4439,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding Wijzigen</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4451,7 +4451,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Comprimeer Afbeeldingen</translation>
+        <translation>Afbeeldingen Comprimeren</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -4463,7 +4463,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -4623,15 +4623,15 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Afbeelding Opvullen</translation>
+        <translation>Opvulkleur</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeeldingsomlijning</translation>
+        <translation>Afbeeldingsrand</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Afbeeldingsgrootte</translation>
+        <translation>Formaat</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -4643,7 +4643,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Afbeelding Herstellen</translation>
+        <translation>Beginwaarden van Afbeelding</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -4683,7 +4683,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Transparante Kleur Instellen</translation>
+        <translation>Doorzichtige Kleur Instellen</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -4691,7 +4691,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation>Schaduw aan</translation>
+        <translation>Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -4699,7 +4699,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -4835,15 +4835,15 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation>Uitwassen</translation>
+        <translation>Wassen</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Gewicht</translation>
+        <translation>Dikte</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop Stijl</translation>
+        <translation>Tekstterugloop</translation>
     </message>
 </context>
 <context>
@@ -5194,7 +5194,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -5230,7 +5230,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatievenster</translation>
+        <translation>Sectienavigatie</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -5523,7 +5523,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -5997,11 +5997,11 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation>Markup</translation>
+        <translation>Markeringen</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatievenster</translation>
+        <translation>Sectienavigatie</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -6037,7 +6037,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation>Meetlat</translation>
+        <translation>Liniaal</translation>
     </message>
     <message>
         <source>Security</source>
@@ -6310,7 +6310,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -6499,7 +6499,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -6608,7 +6608,7 @@ Aan</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -6749,7 +6749,7 @@ Aan</translation>
     <message>
         <source>Letter Justify</source>
         <translatorcomment>Not Sure</translatorcomment>
-        <translation>Brief Rechtvaardigen</translation>
+        <translation>Brief Uitvullen</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -6849,7 +6849,7 @@ Aan</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation>Schaduw aan</translation>
+        <translation>Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -6877,7 +6877,7 @@ Aan</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>Uitrekken Rechtvaardigen</translation>
+        <translation>Uitrekken Uitvullen</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -6929,11 +6929,11 @@ Aan</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Gewicht</translation>
+        <translation>Dikte</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>Woorden Rechtvaardigen</translation>
+        <translation>Woord Uitvullen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -6941,24 +6941,24 @@ Aan</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>WordArt Uitlijnen</translation>
+        <translation>Uitlijnen</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>WordArt Tekenafstand</translation>
+        <translation>Tekenafstand</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
         <translatorcomment>Not Sure</translatorcomment>
-        <translation>WordArt Fill</translation>
+        <translation>Opvullen</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>WordArt Gallerij</translation>
+        <translation>Stijl Bewerken</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>WordArt Omlijning</translation>
+        <translation>Omtrek van Vorm</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -6982,7 +6982,7 @@ Aan</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop Stijl</translation>
+        <translation>Tekstterugloop</translation>
     </message>
 </context>
 <context>
@@ -7228,7 +7228,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding Wijzigen</translation>
     </message>
     <message>
         <source>Change User Information</source>
@@ -7663,7 +7663,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Koptekst/Voettekst</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
@@ -7763,7 +7763,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation>Markup</translation>
+        <translation>Markeringen</translation>
     </message>
     <message>
         <source>Max</source>
@@ -8007,7 +8007,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation>Meetlat</translation>
+        <translation>Liniaal</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -8495,7 +8495,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -8595,7 +8595,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -8695,7 +8695,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Rechtvaardigen</translation>
+        <translation>Uitvullen</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -8879,11 +8879,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Gewicht</translation>
+        <translation>Dikte</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop Stijl</translation>
+        <translation>Tekstterugloop</translation>
     </message>
 </context>
 <context>
@@ -9110,7 +9110,7 @@ Opties</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Koptekst/Voettekst</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -9258,7 +9258,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation>Karakter Schaduw</translation>
+        <translation>Letterschaduw</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -9370,7 +9370,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Rechtvaardigen</translation>
+        <translation>Uitvullen</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9612,7 +9612,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -9906,7 +9906,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Opwaarderen tot Heading 1</translation>
+        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -9949,7 +9949,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -10411,7 +10411,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -10451,7 +10451,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding Wijzigen</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -10463,7 +10463,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Comprimeer Afbeeldingen</translation>
+        <translation>Afbeeldingen Comprimeren</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -10475,7 +10475,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -10631,15 +10631,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Afbeelding Opvullen</translation>
+        <translation>Opvulkleur</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeeldingsomlijning</translation>
+        <translation>Afbeeldingsrand</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Afbeeldingsgrootte</translation>
+        <translation>Formaat</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -10651,7 +10651,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Afbeelding Herstellen</translation>
+        <translation>Beginwaarden van Afbeelding</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -10691,7 +10691,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Transparante Kleur Instellen</translation>
+        <translation>Doorzichtige Kleur Instellen</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -10707,7 +10707,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -10843,15 +10843,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation>Uitwassen</translation>
+        <translation>Wassen</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Gewicht</translation>
+        <translation>Dikte</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop Stijl</translation>
+        <translation>Tekstterugloop</translation>
     </message>
 </context>
 <context>
@@ -11207,7 +11207,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -11243,7 +11243,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatievenster</translation>
+        <translation>Sectienavigatie</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -11530,7 +11530,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -11925,11 +11925,11 @@ Other Window</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation>Markup</translation>
+        <translation>Markeringen</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatievenster</translation>
+        <translation>Sectienavigatie</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -11965,7 +11965,7 @@ Other Window</source>
     </message>
     <message>
         <source>Ruler</source>
-        <translation>Meetlat</translation>
+        <translation>Liniaal</translation>
     </message>
     <message>
         <source>Security</source>
@@ -12232,7 +12232,7 @@ Other Window</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -12411,7 +12411,7 @@ Other Window</source>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -12519,7 +12519,7 @@ Other Window</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -12659,7 +12659,7 @@ Other Window</source>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>Brief Rechtvaardigen</translation>
+        <translation>Brief Uitvullen</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -12783,7 +12783,7 @@ Other Window</source>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>Uitrekken Rechtvaardigen</translation>
+        <translation>Uitrekken Uitvullen</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -12835,11 +12835,11 @@ Other Window</source>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Gewicht</translation>
+        <translation>Dikte</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>Woorden Rechtvaardigen</translation>
+        <translation>Woorden Uitvullen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12847,23 +12847,23 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>WordArt Uitlijnen</translation>
+        <translation>Uitlijnen</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>WordArt Tekenafstand</translation>
+        <translation>Tekenafstand</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>WordArt Fill</translation>
+        <translation>Opvullen</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>WordArt Gallerij</translation>
+        <translation>Stijl Bewerken</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>WordArt Omlijning</translation>
+        <translation>Omtrek van Vorm</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -12887,7 +12887,7 @@ Other Window</source>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop Stijl</translation>
+        <translation>Tekstterugloop</translation>
     </message>
 </context>
 <context>
@@ -13506,11 +13506,11 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding Wijzigen</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
-        <translation>Verander naar een andere afbeelding terwijl de opmaak en grootte van de afbeelding behouden word.</translation>
+        <translation>Een andere afbeelding weergeven, met behoud van opmaak en het formaat van de huidige afbeelding.</translation>
     </message>
 </context>
 <context>
@@ -13539,7 +13539,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.CharacterShading</name>
     <message>
         <source>Character Shading</source>
-        <translation>Karakter Schaduw</translation>
+        <translation>Letterschaduw</translation>
     </message>
     <message>
         <source>Shade the selected text with gray color.</source>
@@ -13716,7 +13716,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Compress the selected picture or all pictures in the document to reduce the picture size.</source>
-        <translation>Comprimeer de geselecteerde afbeelding of alle afbeeldingen in het document om de bestandsgrootte te verkleinen.</translation>
+        <translation>Afbeeldingen in het document comprimeren om de afbeeldingsgrootte te verkleinen.</translation>
     </message>
 </context>
 <context>
@@ -14351,7 +14351,7 @@ Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Rechtvaardigen</translation>
+        <translation>Uitvullen</translation>
     </message>
 </context>
 <context>
@@ -14529,7 +14529,7 @@ Dit heeft enkel invloed op tabellen die groter zijn dan één pagina.</translati
     <name>tips.HeaderAndFooterSetting</name>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Show the Header/Footer dialog box.</source>
@@ -14540,7 +14540,7 @@ Dit heeft enkel invloed op tabellen die groter zijn dan één pagina.</translati
     <name>tips.HeaderFooter</name>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15475,7 +15475,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     <name>tips.NavigationPane</name>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatievenster</translation>
+        <translation>Sectienavigatie</translation>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
@@ -15836,13 +15836,13 @@ Klik op de pijl om de hoofdletters, ingesloten tekens en tekenrandopties te tone
         <source>Fill the selected object with a color, gradient, pattern and picture.
 
 Click the arrow to select different fill modes.</source>
-        <translation>Vul het geselecteerde object op met een kleur, een kleurovergang, een pattroon of een afbeelding.
+        <translation>Vul de geselecteerde afbeelding op met een kleur, een kleurovergang, een pattroon of een afbeelding.
 
 Klik op de pijl om verschillende opvulwijzen te selecteren.</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Afbeelding Opvullen</translation>
+        <translation>Opvulkleur</translation>
     </message>
 </context>
 <context>
@@ -15853,7 +15853,7 @@ Klik op de pijl om verschillende opvulwijzen te selecteren.</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeeldingsomlijning</translation>
+        <translation>Afbeeldingsrand</translation>
     </message>
     <message>
         <source>Set picture outline color, outline width and outline style for the selected object.
@@ -15879,11 +15879,11 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     <name>tips.PictureSize</name>
     <message>
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation>De grootte, de draaiiing en de schaling van de geselecteerde vorm aanpassen.</translation>
+        <translation>De grootte, de draaiing en de schaling van de geselecteerde vorm aanpassen.</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Afbeeldingsgrootte</translation>
+        <translation>Formaat</translation>
     </message>
 </context>
 <context>
@@ -16015,7 +16015,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     <name>tips.PrintShowViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation>Meetlat</translation>
+        <translation>Liniaal</translation>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
@@ -16052,7 +16052,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Opwaarderen tot Heading 1</translation>
+        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
     </message>
 </context>
 <context>
@@ -16063,7 +16063,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Opwaarderen tot Heading 1</translation>
+        <translation type="unfinished">Opwaarderen tot Kop 1</translation>
     </message>
 </context>
 <context>
@@ -16291,7 +16291,7 @@ Klik op de pijl om een andere achtergrondkleur te kiezen.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Afbeelding Herstellen</translation>
+        <translation>Beginwaarden van Afbeelding</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16313,7 +16313,7 @@ Klik op de pijl om een andere achtergrondkleur te kiezen.</translation>
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
-        <translation>Meetlat</translation>
+        <translation>Liniaal</translation>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
@@ -16402,7 +16402,8 @@ Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
     <name>tips.ShadowOnOff</name>
     <message>
         <source>Shadow On/Off</source>
-        <translation>Schaduw Aan/Uit</translation>
+        <translation>
+Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
@@ -16424,7 +16425,7 @@ Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
     <name>tips.ShapeSize</name>
     <message>
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation>De grootte, de draaiiing en de schaling van de geselecteerde vorm instellen.</translation>
+        <translation>De grootte, de draaiing en de schaling van de geselecteerde vorm instellen.</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -17008,7 +17009,7 @@ Om deze functie aan te zetten, zet Bekijk Naast Elkaar aan.</translation>
     <name>tips.ViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation>Meetlat</translation>
+        <translation>Liniaal</translation>
     </message>
     <message>
         <source>View the rulers used to measure and line up text and objects within the document.</source>
@@ -17060,7 +17061,7 @@ Dit wordt veel gebruikt om aan te duiden dat het document een speciale behandeli
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>WordArt Uitlijnen</translation>
+        <translation>Uitlijnen</translation>
     </message>
 </context>
 <context>
@@ -17079,7 +17080,7 @@ Klik op de pijl om de WordArt op verschillende manieren op te vullen.</translati
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>WordArt Fill</translation>
+        <translation>Opvullen</translation>
     </message>
 </context>
 <context>
@@ -17090,7 +17091,7 @@ Klik op de pijl om de WordArt op verschillende manieren op te vullen.</translati
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>WordArt Gallerij</translation>
+        <translation>Stijl Bewerken</translation>
     </message>
 </context>
 <context>
@@ -17109,7 +17110,7 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>WordArt Omlijning</translation>
+        <translation>Omtrek van Vorm</translation>
     </message>
 </context>
 <context>
@@ -17138,7 +17139,7 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation>De grootte, de draaiiing en de schaling van de geselecteerde WordArt instellen.</translation>
+        <translation>De grootte, de draaiing en de schaling van de geselecteerde WordArt instellen.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
@@ -17789,7 +17790,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Comprimeer Afbeeldingen</translation>
+        <translation>Afbeeldingen Comprimeren</translation>
     </message>
     <message>
         <source>Connector</source>
@@ -17941,7 +17942,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Justify</source>
-        <translation>Rechtvaardigen</translation>
+        <translation>Uitvullen</translation>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
@@ -18314,7 +18315,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -18342,7 +18343,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatievenster</translation>
+        <translation>Sectienavigatie</translation>
     </message>
     <message>
         <source>New Blank File</source>
@@ -18378,7 +18379,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>Afbeeldingshulpmiddelen</translation>
+        <translation>Hulpmiddelen voor Afbeeldingen</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -18534,7 +18535,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -18562,7 +18563,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Navigatievenster</translation>
+        <translation>Sectienavigatie</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -18586,7 +18587,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>Afbeeldingshulpmiddelen</translation>
+        <translation>Hulpmiddelen voor Afbeeldingen</translation>
     </message>
     <message>
         <source>Print Preview</source>
