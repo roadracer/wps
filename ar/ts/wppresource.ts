@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>لون 3-D</translation>
+        <translation>لون 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D تشغيل / إيقاف</translation>
+        <translation>تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>ألوان 3-D أكثر</translation>
+        <translation>مزيد من ألوان 3D</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Controls List</source>
-        <translation>قائمة عناصر التحكم</translation>
+        <translation>لائحة عناصر التحكم</translation>
     </message>
     <message>
         <source>Image</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>List Box</source>
-        <translation>مربع قائمة</translation>
+        <translation>مربع لائحة</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -258,7 +258,7 @@
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3-D</translation>
+        <translation>نمط 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -582,7 +582,7 @@
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>لا 3-D</translation>
+        <translation>لا 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -630,7 +630,7 @@
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>جزء التحديد</translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -863,7 +863,7 @@
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation>تصميم الشريحة</translation>
+        <translation>تخطيط الشريحة</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -917,7 +917,7 @@
     </message>
     <message>
         <source>Layout</source>
-        <translation>التصميم</translation>
+        <translation>تخطيط</translation>
     </message>
     <message>
         <source>Select</source>
@@ -1199,7 +1199,7 @@
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation>إظهار / إخفاء العلامات</translation>
+        <translation>إظهار/إخفاء العلامات</translation>
     </message>
 </context>
 <context>
@@ -1249,7 +1249,7 @@
     </message>
     <message>
         <source>Master Layout</source>
-        <translation>تصميم رئيسي</translation>
+        <translation>تخطيط رئيسي</translation>
     </message>
     <message>
         <source>New Slide
@@ -1798,7 +1798,7 @@ Master</source>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation>تصميم الشريحة</translation>
+        <translation>تخطيط الشريحة</translation>
     </message>
     <message>
         <source>Slide Orientation</source>
@@ -1887,7 +1887,7 @@ Master</source>
     </message>
     <message>
         <source>Controls List</source>
-        <translation>قائمة عناصر التحكم</translation>
+        <translation>لائحة عناصر التحكم</translation>
     </message>
     <message>
         <source>Image</source>
@@ -1899,7 +1899,7 @@ Master</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation>مربع قائمة</translation>
+        <translation>مربع لائحة</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -2015,12 +2015,12 @@ Master</source>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
+        <translation>3D
 تشغيل</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3-Dتشغيل</translation>
+        <translation>تشغيل 3D</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -2380,7 +2380,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>جزء التحديد</translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2444,7 +2444,7 @@ On</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -2661,7 +2661,7 @@ On</source>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation>حفظ نسخة من الملف</translation>
+        <translation>حفظ نسخة من المستند</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -2767,7 +2767,7 @@ On</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3-D</translation>
+        <translation>نمط 3D</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -3145,7 +3145,7 @@ Slide</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>لا 3-D</translation>
+        <translation>لا 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -3225,7 +3225,7 @@ Slide</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>جزء التحديد</translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -3289,7 +3289,7 @@ Slide</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -3637,7 +3637,7 @@ Slide</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation>التصميم</translation>
+        <translation>تخطيط</translation>
     </message>
     <message>
         <source>Line Effects</source>
@@ -3677,7 +3677,7 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation>تصميم OrgChart</translation>
+        <translation>تخطيط OrgChart</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3799,7 +3799,7 @@ Slide</source>
     </message>
     <message>
         <source>ResetLayout</source>
-        <translation>إعادة تعيين التصميم</translation>
+        <translation>إعادة تعيين التخطيط</translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -4102,7 +4102,7 @@ Slide</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>جزء التحديد</translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -4282,7 +4282,7 @@ On/Off</source>
     </message>
     <message>
         <source>Show</source>
-        <translation>عرض</translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -4375,7 +4375,7 @@ On/Off</source>
     </message>
     <message>
         <source>Show/Hide Mark</source>
-        <translation>إظهار / إخفاء العلامة</translation>
+        <translation>إظهار/إخفاء العلامة</translation>
     </message>
 </context>
 <context>
@@ -4394,19 +4394,19 @@ On/Off</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>لون 3-D</translation>
+        <translation>لون 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D تشغيل / إيقاف</translation>
+        <translation>تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>إعدادات 3-D</translation>
+        <translation>إعدادات 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3-D</translation>
+        <translation>نمط 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -4454,7 +4454,7 @@ On/Off</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>ألوان 3-D أكثر</translation>
+        <translation>مزيد من ألوان 3D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -4462,7 +4462,7 @@ On/Off</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>لا 3-D</translation>
+        <translation>لا 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -4633,7 +4633,7 @@ Master View</source>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation>تصميم رئيسي</translation>
+        <translation>تخطيط رئيسي</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -4721,7 +4721,7 @@ Master</source>
     <name>ongmani.ct_slideshow</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>عروض الشرائح المخصصة</translation>
+        <translation>استعراضات مخصصة للشرائح</translation>
     </message>
     <message>
         <source>From Beginning</source>
@@ -4751,13 +4751,13 @@ Slide</source>
     </message>
     <message>
         <source>Set Up Slide Show</source>
-        <translation>إعداد عرض الشريحة</translation>
+        <translation>إعداد استعراض الشريحة</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
         <translation>إعدادات
-عرض الشرائح</translation>
+استعراض الشرائح</translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -4769,7 +4769,7 @@ Settings</source>
     </message>
     <message>
         <source>Start Slide Show</source>
-        <translation>بدء عرض الشرائح</translation>
+        <translation>بدء استعراض الشرائح</translation>
     </message>
 </context>
 <context>
@@ -5115,11 +5115,11 @@ Other Window</source>
     </message>
     <message>
         <source>Show</source>
-        <translation>عرض</translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation>عرض المزيد من النوافذ</translation>
+        <translation>استعراض المزيد من النوافذ</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -5170,19 +5170,19 @@ Other Window</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>لون 3-D</translation>
+        <translation>لون 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D تشغيل / إيقاف</translation>
+        <translation>تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>إعدادات 3-D</translation>
+        <translation>إعدادات 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3-D</translation>
+        <translation>نمط 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -5230,7 +5230,7 @@ Other Window</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>مزيد من ألوان 3-D</translation>
+        <translation>مزيد من ألوان 3D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -5238,7 +5238,7 @@ Other Window</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>لا 3-D</translation>
+        <translation>لا 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -5360,12 +5360,12 @@ On/Off</source>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
+        <translation>3D
 تشغيل</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3-Dتشغيل</translation>
+        <translation>تشغيل 3D</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -5701,7 +5701,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>جزء التحديد</translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -5835,1099 +5835,1100 @@ On</source>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار تلقائي</translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>استكشاف مسار النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Explor Version</source>
-        <translation type="unfinished"></translation>
+        <translation>استكشاف الإصدار</translation>
     </message>
     <message>
         <source>File Auto backup</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ احتياطي تلقائي للملف</translation>
     </message>
     <message>
         <source>KOS Cloud feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Cloud information</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات سحابة KOS</translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation type="unfinished"></translation>
+        <translation>حسابي في KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميح حسابي في KOS</translation>
     </message>
     <message>
         <source>KOS Open cloud file</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح ملف من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الملف إلى سحابة KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>سحابة المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميحات سحابة المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS User guid</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User guid tip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميحات دليل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"></translation>
+        <translation>مختبر</translation>
     </message>
     <message>
         <source>Mark Version</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة الإصدار</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف الإصدار التلقائي</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ احتياطي لمساحة العمل</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير صورة weibo</translation>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح weibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation type="unfinished"></translation>
+        <translation>مشاركة رسائل weibo</translation>
     </message>
     <message>
         <source>weibotool</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات رسائل weibo</translation>
     </message>
 </context>
 <context>
     <name>popupmenu</name>
     <message>
         <source>0 More Histories</source>
-        <translation type="unfinished"></translation>
+        <translation>0 سجل أكثر</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>حول العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>زر خيار</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات التأثير</translation>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل Kingsoft Office</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة نقطة</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة نص</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة الخط</translation>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>كل الشرائح</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>مخططات الحركة</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>سهم</translation>
     </message>
     <message>
         <source>Arrow Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات السهم</translation>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة تلقائية</translation>
     </message>
     <message>
         <source>Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار تلقائي</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>تلقائي</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>خلفية</translation>
     </message>
     <message>
         <source>Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>موسيقى الخلفية</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Ballpoint Pen</source>
-        <translation type="unfinished"></translation>
+        <translation>قلم حبر جاف</translation>
     </message>
     <message>
         <source>Black Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>شاشة سوداء</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>الحدود والتعبئة</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>إحضار إلى المقدمة</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>نقاط وتعداد</translation>
     </message>
     <message>
         <source>By Title</source>
-        <translation type="unfinished"></translation>
+        <translation>حسب العنوان</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>وظائف إضافية COM</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج</translation>
     </message>
     <message>
         <source>Center Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>تبويب مركزي</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>في المركز</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير الصورة</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير الإصدار</translation>
     </message>
     <message>
         <source>Change to</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إلى</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الصينية</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>حافظة</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق الكل</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النوافذ الأخرى</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق المسار</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النافذة</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>أعمدة</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة التحكم</translation>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة قائمة التحكم</translation>
     </message>
     <message>
         <source>Convert Markup to Object</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل العلامة إلى كائن</translation>
     </message>
     <message>
         <source>Convert Path to AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المسار إلى شكل تلقائي</translation>
     </message>
     <message>
         <source>Copy Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ التعليق</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ الارتباط التشعبي</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة الركن</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط منحني</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>قطعة منحنية</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>حركة مخصصة</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراضات مخصصة للشرائح</translation>
     </message>
     <message>
         <source>Data Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول البيانات</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول البيانات</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ ووقت</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>جدولة عشرية</translation>
     </message>
     <message>
         <source>Delete Current Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف التعليق الحالي</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الرئيسي</translation>
     </message>
     <message>
         <source>Delete Point</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف النقطة</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف القطعة</translation>
     </message>
     <message>
         <source>Delete Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الشريحة</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>قوالب التصميم</translation>
     </message>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم تخطيطي</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>موزع</translation>
     </message>
     <message>
         <source>DrawShapes</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم الأشكال</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة طبق الأصل</translation>
     </message>
     <message>
         <source>Duplicate Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة طبق الأصل للشريحة الرئيسية</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير التعليق</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير الارتباط التشعبي</translation>
     </message>
     <message>
         <source>Edit Movie Object</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير كائن الفيلم</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير النقاط</translation>
     </message>
     <message>
         <source>Edit Sound Object</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير كائن الصوت</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير النص</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط نصف القطر</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>تشفير</translation>
     </message>
     <message>
         <source>End Show</source>
-        <translation type="unfinished"></translation>
+        <translation>نهاية الاستعراض</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>معادلة</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>محو</translation>
     </message>
     <message>
         <source>Erase All Inks on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>محو كل الحبر على الشريحة</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>محو كل العلامات</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>محو العلامات في الشريحة</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
-        <translation type="unfinished"></translation>
+        <translation>مغادرة تحرير النقاط</translation>
     </message>
     <message>
         <source>Exit Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>مغادرة تحرير النص</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>مغادرة وضع الدوران</translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>استكشاف مسار النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Explor Version</source>
-        <translation type="unfinished"></translation>
+        <translation>استكشاف الإصدار</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير إلى PDF</translation>
     </message>
     <message>
         <source>Export to Package</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير إلى حزمة</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="unfinished"></translation>
+        <translation>كائن ملف</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة الملف</translation>
     </message>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>الشريحة الأولى</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>فلاش</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>خط الكتابة</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق كائن</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>من ملف</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>معرض رسوم</translation>
     </message>
     <message>
         <source>Go to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>إذهب إلى الشريحة</translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>رسومات</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة وإرشادات</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>رأس وتذييل الصفحة</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>مخفي</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء الشريحة</translation>
     </message>
     <message>
         <source>Highlighter</source>
-        <translation type="unfinished"></translation>
+        <translation>قلم تمييز</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>الصفحة الرئيسية</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>ارتباط تشعبي</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الحبر</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج أعمدة</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج صفوف</translation>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
         <source>KOS Cloud feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Open cloud file</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح ملف من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الملف إلى سحابة KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الخروج من KOS</translation>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation type="unfinished"></translation>
+        <translation>منتديات Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
+        <translation>مجتمع Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation type="unfinished"></translation>
+        <translation>فايسبوك Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>الصفحة الرئيسية لـ Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Last Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>الشريحة الأخيرة</translation>
     </message>
     <message>
         <source>Last Viewed</source>
-        <translation type="unfinished"></translation>
+        <translation>آخر مشاهدة</translation>
     </message>
     <message>
         <source>Left Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>تبويب أيسر</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>خط رسم</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>فاصل أسطر</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد الأسطر</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>ماكرو</translation>
     </message>
     <message>
         <source>Mark Version</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة الإصدار</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"></translation>
+        <translation>رئيس</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط رئيسي</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج الخلايا</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>فيلم</translation>
     </message>
     <message>
         <source>Movies and Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>أفلام وأصوات</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق جديد</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة جديدة</translation>
     </message>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة رئيسية
+جديدة</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة رئيسية جديدة</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان رئيسي جديد</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة جديدة</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>التالي</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>كائن</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح مسار النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح مجلد</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح من Klive</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح الارتباط التشعبي</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح المسار</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>OrgChart</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط OrgChart</translation>
     </message>
     <message>
         <source>OrgChart Select</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد OrgChart</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع في ملف مضغوط</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع في مجلد</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد الصفحة</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق خاص</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف مؤقت</translation>
     </message>
     <message>
         <source>Pause Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>توقيف موسيقى الخلفية</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <source>Play Back</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل من جديد</translation>
     </message>
     <message>
         <source>Play Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل فيلم</translation>
     </message>
     <message>
         <source>Play Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل صوت</translation>
     </message>
     <message>
         <source>Pointer Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات المؤشر</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>حماية الرئيسي</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>السابق</translation>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز المنتجات</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز إدارة المنتجات</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>شراء الرقم التسلسلي</translation>
     </message>
     <message>
         <source>Reconvert</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تحويل</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>مستطيل</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
+        <translation>تكرار المواقيت</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>نزع ارتباط تشعبي</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تسمية الرئيسي</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished"></translation>
+        <translation>استبدال خط الكتابة</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>استئناف</translation>
     </message>
     <message>
         <source>Resume Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>استئناف موسيقى الخلفية</translation>
     </message>
     <message>
         <source>Reverse Path Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>عكس جهة المسار</translation>
     </message>
     <message>
         <source>Right Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>تبويب أيمن</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>روماني</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>صفوف</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>مسطرة</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الكل</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ صورة الخلفية</translation>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ إلى Klive</translation>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ كصورة</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ إلى ملف</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>شاشة</translation>
     </message>
     <message>
         <source>Scribble</source>
-        <translation type="unfinished"></translation>
+        <translation>خربشة</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>حماية</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الجدول</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>تأخير</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال بريد إلكتروني</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال إلى المؤخرة</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين افتراضات الشكل التلقائي</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار / إخفاء علامات الحبر</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض المزيد من النوافذ</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط الشريحة</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة رئيسية</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الشريحة</translation>
     </message>
     <message>
         <source>Slide Show List</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة استعراض الشرائح</translation>
     </message>
     <message>
         <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات استعراض الشريحة</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>فارز الشرائح</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال الشريحة</translation>
     </message>
     <message>
         <source>Slides List</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة الشرائح</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة سلسة</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>صوت</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظات المحاضر</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>تقسيم الخلايا</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف الإصدار التلقائي</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط مستقيم</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة على التوالي</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>قطعة مستقيمة</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسة عبر الإنترنت</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسة عبر الإنترنت</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>رمز</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الجدول</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع نص</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إلى مستند نصي</translation>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>أسلوب الطباعة</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>فك التجميع</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث على الإنترنت</translation>
     </message>
     <message>
         <source>Use Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام المكبر</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الكود</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>مرئي</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation type="unfinished"></translation>
+        <translation>المدونة الصغيرة لـ WPS</translation>
     </message>
     <message>
         <source>WPS New features</source>
-        <translation type="unfinished"></translation>
+        <translation>ميزات جديدة لـ WPS</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="unfinished"></translation>
+        <translation>قلم ألوان مائية</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>موجة</translation>
     </message>
     <message>
         <source>White Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>شاشة بيضاء</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير صورة weibo</translation>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح weibo</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>صحيح</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation type="unfinished"></translation>
+        <translation>مشاركة رسائل weibo</translation>
     </message>
 </context>
 <context>
@@ -6952,117 +6953,117 @@ Master</source>
     <name>popupmenu.OrgChartAndDiagram</name>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>جميع المساعدين</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>جميع خطوط الربط</translation>
     </message>
     <message>
         <source>Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>مساعد</translation>
     </message>
     <message>
         <source>Auto Format</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق تلقائي</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق من الطرفين</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>فرع</translation>
     </message>
     <message>
         <source>Change to Cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إلى شكل دائري</translation>
     </message>
     <message>
         <source>Change to Pyramid</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إلى شكل هرمي</translation>
     </message>
     <message>
         <source>Change to Radial</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إلى شكل شعاعي</translation>
     </message>
     <message>
         <source>Change to Target</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إلى شكل هدف</translation>
     </message>
     <message>
         <source>Change to Venn</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إلى شكل فين</translation>
     </message>
     <message>
         <source>Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>زميل العمل</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير النص</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق الشكل التلقائي</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج الأشكال</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق من اليسار</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation type="unfinished"></translation>
+        <translation>مستوى</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك الشكل إلى الخلف</translation>
     </message>
     <message>
         <source>Move Shape Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك الشكل إلى الأمام</translation>
     </message>
     <message>
         <source>Reverse Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>عكس الرسم التخطيطي</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق من اليمين</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>قياسي</translation>
     </message>
     <message>
         <source>Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>مرؤوس</translation>
     </message>
     <message>
         <source>Use AutoFormat</source>
-        <translation type="unfinished"></translation>
+        <translation>استعمال التنسيق التلقائي</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.Show</name>
     <message>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.window</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">أفقي</translation>
+        <translation>أفقي</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -7080,561 +7081,562 @@ Master</source>
     <name>rainbow.ct_animation</name>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>مخططات الحركة</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>حركة مخصصة</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل</translation>
     </message>
     <message>
         <source>Transition Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>تأثير الانتقال</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_design</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>خلفية</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>أنظمة الألوان</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>قوالب التصميم</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>مناظر طبيعية</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد الصفحة</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ صورة الخلفية</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط الشريحة</translation>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه الشريحة</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_designtable</name>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>جوانب</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح نمط الجدول</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج لوني</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان التعبئة</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>تظليل</translation>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات نمط الجدول</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>أنماط الجدول</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>نسيج</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_designtable.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_developtools</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>وظائف إضافية</translation>
     </message>
     <message>
         <source>COM
 AddIns</source>
-        <translation type="unfinished"></translation>
+        <translation>وظائف إضافية
+ COM</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>وظائف إضافية COM</translation>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع اختيار</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع تحرير وسرد</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="unfinished"></translation>
+        <translation>زر أمر</translation>
     </message>
     <message>
         <source>Control Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص التحكم</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع أدوات التحكم</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة عناصر التحكم</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>ملصق</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع لائحة</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدات الماكرو</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>عناصر تحكم إضافية</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>زر خيار</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط تمرير</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>حماية</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation type="unfinished"></translation>
+        <translation>زر زيادة ونقصان</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع نص</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation>زر تبديل</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الكود</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر Visual-Basic</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 نقطة</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 نقطة</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 نقطة</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 نقطة</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 نقطة</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 نقطة</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 نقطة</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 نقطة</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 نقطة</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى المركز</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى اليسار</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى المنتصف</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى اليمين</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأعلى</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 9</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>إحضار إلى المقدمة</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع أفقي</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع عمودي</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير النقاط</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية الطول</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية الحجم</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية العرض</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>انعكاس أفقي</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>انعكاس عمودي</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق كائن</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة حرة</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج لوني</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة وإرشادات</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط الشبكة</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج الأشكال</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من السهام</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان التعبئة</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان الكتابة</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان خطوط الرسم</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من خطوط الرسم</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط رسم مزخرفة</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبة إلى الشريحة</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران لليسار 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران لليمين 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة دائرية</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>تأخير</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال إلى المؤخرة</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>تعبئة الشكل</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>مخطط تفصيلي للشكل</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الشكل</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الشكل</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>صلب</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة مربعة</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع نص</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الكتابة</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>نسيج</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>فك التجميع</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>وزن</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>حول العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير الإصدار</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>حماية المستند وخصائص أخرى</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>تشفير</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7642,178 +7644,178 @@ AddIns</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات ومعلومات المنتج</translation>
     </message>
     <message>
         <source>File Information</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات الملف</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة الملف</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
+        <translation>مجتمع Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>الصفحة الرئيسية لـ Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Presentation File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>قالب العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>العرض التقديمي لـ Microsoft-PowerPoint_97-2003</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>قالب العرض التقديمي لـ Microsoft-PowerPoint_97-2003</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض العرض التقديمي لـ Microsoft-PowerPoint_97-2003</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>جديد</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض تقديمي فارغ</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض تقديمي جديد</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>مستند جديد من القالب الافتراضي</translation>
     </message>
     <message>
         <source>New from My Computer Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>مستند جديد من قوالب حاسوبي</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>مستند جديد من قوالب الإنترنت</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح من Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيقات أخرى</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع في ملف مضغوط</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع في مجلد</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة الطباعة</translation>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز المنتجات</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز إدارة المنتجات</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>شراء الرقم التسلسلي</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ باسم</translation>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ إلى Klive</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ نسخة من المستند</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال بريد إلكتروني</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسة عبر الإنترنت</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسة عبر الإنترنت</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث على الإنترنت</translation>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation type="unfinished"></translation>
+        <translation>منتديات WPS</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation type="unfinished"></translation>
+        <translation>المدونة الصغيرة لـ WPS</translation>
     </message>
     <message>
         <source>WPS New features</source>
-        <translation type="unfinished"></translation>
+        <translation>ميزات جديدة لـ WPS</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
     </message>
 </context>
 <context>
@@ -7888,7 +7890,7 @@ AddIns</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3-D</translation>
+        <translation>نمط 3D</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -7920,7 +7922,7 @@ AddIns</source>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة الخط</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -7936,7 +7938,7 @@ AddIns</source>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة النص</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -7944,7 +7946,7 @@ AddIns</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -7996,895 +7998,896 @@ AddIns</source>
     </message>
     <message>
         <source>Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>موسيقى الخلفية</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>غامق</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>إحضار إلى المقدمة</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>تعداد نقطي</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز عمودي</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>في المركز</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير اتجاه النص</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>حافظة</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>قص</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض حجم الخط</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>إنقاص المسافة البادئة</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض التباعد</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع أفقي</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع عمودي</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>موزع</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة طبق الأصل</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية الطول</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية الحجم</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية العرض</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>فلاش</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>انعكاس أفقي</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>انعكاس عمودي</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>خط الكتابة</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الكتابة</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الكتابة</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق كائن</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق الرسام</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة حرة</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>من البداية</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>من الشريحة
+الحالية</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>معرض رسوم</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج لوني</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة وإرشادات</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط الشبكة</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>زيادة حجم الخط</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>زيادة المسافة البادئة</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>زيادة التباعد</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج صورة</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>مائل</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>فاصل أسطر</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد الأسطر</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>وسائل الإعلام</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>المزيد</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من السهام</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من الرموز النقطية</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان التعبئة</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان الكتابة</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان خطوط الرسم</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من خطوط الرسم</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>فيلم</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة جديدة</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>لا 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون ظل</translation>
     </message>
     <message>
         <source>Package File</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة الملف</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع في ملف مضغوط</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع في مجلد</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>فقرة</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق خاص</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط رسم مزخرفة</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبة إلى الشريحة</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>استبدال</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished"></translation>
+        <translation>استبدال خط الكتابة</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>روماني</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران لليسار 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران لليمين 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة دائرية</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الكل</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>تأخير</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال إلى المؤخرة</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الظل</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>تأثيرات خط الرسم</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>تعبئة الشكل</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>مخطط تفصيلي للشكل</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>أشكال</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>صلب</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>صوت</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة مربعة</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>منخفض</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>مرتفع</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع نص</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>نسيج</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>تسطير</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>فك التجميع</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>وزن</translation>
     </message>
     <message>
         <source>With Text Format</source>
-        <translation type="unfinished"></translation>
+        <translation>مع تنسيق النص</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home.Num</name>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من الترقيم</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert</name>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات التأثير</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>كليب فني</translation>
     </message>
     <message>
         <source>Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>موسيقى الخلفية</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم بياني</translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ/وقت</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>معادلة</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="unfinished"></translation>
+        <translation>كائن ملف</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>فلاش</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>معرض رسوم</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>رأس وتذييل الصفحة</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>ارتباط تشعبي</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"></translation>
+        <translation>رسوم توضيحية</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>صور</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج كليب فني</translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج بيانات الرسم البياني</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج ارتباط تشعبي</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج مخطط هيكلي</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج صورة</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج جدول</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج WordArt</translation>
     </message>
     <message>
         <source>Links</source>
-        <translation type="unfinished"></translation>
+        <translation>روابط</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>وسائل الإعلام</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من الرموز</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>فيلم</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>كائن</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>مخطط هيكلي</translation>
     </message>
     <message>
         <source>Package File</source>
-        <translation type="unfinished"></translation>
+        <translation>حزمة الملف</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع في ملف مضغوط</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع في مجلد</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>أشكال</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الشريحة</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>صوت</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>رمز</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>رموز</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>جداول</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع نص</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_orgchart</name>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 نقطة.</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 نقطة.</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 نقطة.</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1 نقطة.</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 نقطة.</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 نقطة.</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>3 نقطة.</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 نقطة.</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>6 نقطة.</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل البنية</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط السهم 9</translation>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج لوني</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>تأثيرات خط الرسم</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة نمط الخط</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من السهام</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان التعبئة</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان الكتابة</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان خطوط الرسم</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من خطوط الرسم</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط OrgChart</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة دائرية</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>تعبئة الشكل</translation>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation type="unfinished"></translation>
+        <translation>خط الشكل</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار ذكي</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>صلب</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة مربعة</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص</translation>
     </message>
     <message>
         <source>Text Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الكتابة</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>نسيج</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>موضوع</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_orgchart.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
 </context>
 <context>
@@ -8892,1835 +8895,1840 @@ Slide</source>
     <message>
         <source>Add
 Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مرؤوس</translation>
     </message>
     <message>
         <source>Add Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مساعد</translation>
     </message>
     <message>
         <source>Add Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة زميل عمل</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مرؤوس</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>جميع المساعدين</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>جميع خطوط الربط</translation>
     </message>
     <message>
         <source>All OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>جميع OrgChart</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق من الطرفين</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>فرع</translation>
     </message>
     <message>
         <source>Delete Member</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف عضو</translation>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>احتواء النص</translation>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميح احتواء النص</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق من اليسار</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation type="unfinished"></translation>
+        <translation>مستوى</translation>
     </message>
     <message>
         <source>Reset Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين التخطيط</translation>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين الشكل</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق من اليمين</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>قياسي</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 نقطة</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 نقطة</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 نقطة</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 نقطة</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 نقطة</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 نقطة</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 نقطة</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 نقطة</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 نقطة</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى المركز</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى اليسار</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى المنتصف</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى اليمين</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأعلى</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>كليب فني</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>تلقائي</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>أسود وأبيض</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>إحضار إلى المقدمة</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير الصورة</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>ضغط الصور</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>قطع</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع أفقي</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع عمودي</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية الطول</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية الحجم</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية العرض</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>انعكاس أفقي</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>انعكاس عمودي</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق كائن</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة حرة</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>معرض رسوم</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج لوني</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج رمادي</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة وإرشادات</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط الشبكة</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج كليب فني</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج صورة</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>سطوع أقل</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>تباين أقل</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>سطوع أكثر</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>تباين أكثر</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان التعبئة</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان خطوط الرسم</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من خطوط الرسم</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>المزيد من ألوان الظل</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون ظل</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط رسم مزخرفة</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل الصورة</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>تعبئة الصورة</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>مخطط تفصيلي للصورة</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الصورة</translation>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>أنماط الصورة</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبة إلى الشريحة</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين الصورة</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران لليسار 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران لليمين 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة دائرية</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ظل نصف شفاف</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>تأخير</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال إلى المؤخرة</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين اللون الشفاف</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الظل</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل/إيقاف الظل</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>صلب</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة مربعة</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>نسيج</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>فك التجميع</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>تعرية</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>وزن</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Picture</name>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>شرائح الإطار</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>النشرات (شريحة واحدة في كل صفحة)</translation>
     </message>
     <message>
         <source>Handouts (2 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>النشرات (شريحتان في كل صفحة)</translation>
     </message>
     <message>
         <source>Handouts (3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>النشرات (3 شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Handouts (4 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>النشرات (4 شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Handouts (6 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>النشرات (6 شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Handouts (9 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>النشرات (9 شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>رأس وتذييل الصفحة</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>مناظر طبيعية</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>الصفحة التالية</translation>
     </message>
     <message>
         <source>Notes pages (1 slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>صفحات الملاحظات (شريحة واحدة في كل صفحة)</translation>
     </message>
     <message>
         <source>Notes pages (3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>صفحات الملاحظات (3 شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض المخطط التفصيلي</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>الصفحة السابقة</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة</translation>
     </message>
     <message>
         <source>Print Directly</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة مباشرة</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة الشرائح المتخطاة</translation>
     </message>
     <message>
         <source>Printing Order</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب الطباعة</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
+        <translation>بالأسود والأبيض فقط</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>شرائح</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview.PrevPrintHorizontal</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview.PrevPrintVertical</name>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_review</name>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>تدقيق إملائي</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الصينية</translation>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل</translation>
     </message>
     <message>
         <source>Covert to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إلى الصينية المبسطة</translation>
     </message>
     <message>
         <source>Covert to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إلى الصينية التقليدية</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف جميع العلامات في هذا العرض التقديمي</translation>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف جميع العلامات في الشريحة الحالية</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير التعليق</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح كل العلامات</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح العلامات في شريحة</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق جديد</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>التالي</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>السابق</translation>
     </message>
     <message>
         <source>Proofing</source>
-        <translation type="unfinished"></translation>
+        <translation>برهان</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين لغة التدقيق الإملائي</translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار/إخفاء العلامات</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_shadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0 نقطة</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>144 نقطة</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>288 نقطة</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>36 نقطة</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>72 نقطة</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>ساطع</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>عمق</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="unfinished"></translation>
+        <translation>معتم</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="unfinished"></translation>
+        <translation>لانهاية</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>إضاءة</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="unfinished"></translation>
+        <translation>غير لامع</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="unfinished"></translation>
+        <translation>معدني</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان 3D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان الظل</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>لا 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون ظل</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="unfinished"></translation>
+        <translation>موازي</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>مشهد</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="unfinished"></translation>
+        <translation>بلاستيكي</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ظل نصف شفاف</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الظل</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل/إيقاف الظل</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة للأسفل</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة لليسار</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة لليمين</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة للأعلى</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>إطار شفاف</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_slidemaster</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الرئيسي</translation>
     </message>
     <message>
         <source>Edit Master</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير الرئيسي</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط رئيسي</translation>
     </message>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة رئيسية
+جديدة</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة رئيسية جديدة</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان رئيسي جديد</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>حفاظ على الرئيسي</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تسمية الرئيسي</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_slideshow</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراضات مخصصة للشرائح</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>من البداية</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>من الشريحة
+الحالية</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء الشرائح</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
+        <translation>تكرار المواقيت</translation>
     </message>
     <message>
         <source>Set Up</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد</translation>
     </message>
     <message>
         <source>Set Up Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد استعراض الشريحة</translation>
     </message>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال
+الشريحة</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات
+استعراض الشرائح</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال الشريحة</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظات المحاضر</translation>
     </message>
     <message>
         <source>Start Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء استعراض الشرائح</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأعلى</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>إحضار إلى المقدمة</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز عمودي</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>أعمدة</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع الأعمدة بالتساوي</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع الصفوف بالتساوي</translation>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج أعلاه</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج بالأسفل</translation>
     </message>
     <message>
         <source>Insert Left</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج في اليسار</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج في اليمين</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج الخلايا</translation>
     </message>
     <message>
         <source>Narrow</source>
-        <translation type="unfinished"></translation>
+        <translation>ضيق</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>صفوف</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>صفوف/أعمدة</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد العمود</translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الصف</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الجدول</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>تأخير</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال إلى المؤخرة</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>تقسيم الخلايا</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه الكتابة</translation>
     </message>
     <message>
         <source>Text Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>هامش النص</translation>
     </message>
     <message>
         <source>Wide</source>
-        <translation type="unfinished"></translation>
+        <translation>واسع</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب الكل</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج</translation>
     </message>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق
+نافذة أخرى</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النوافذ الأخرى</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النافذة</translation>
     </message>
     <message>
         <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات التطوير</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاءمة</translation>
     </message>
     <message>
         <source>Fit
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ملاءمة</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة وإرشادات</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط الشبكة</translation>
     </message>
     <message>
         <source>Horizontal Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>تجانب أفقي</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدات الماكرو</translation>
     </message>
     <message>
         <source>Master View</source>
-        <translation type="unfinished"></translation>
+        <translation>العرض الرئيسي</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة جديدة</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <source>Presentation View</source>
-        <translation type="unfinished"></translation>
+        <translation>مشاهدة العرض التقديمي</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>مسطرة</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>حماية</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض المزيد من النوافذ</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة رئيسية</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>فارز الشرائح</translation>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل النافذة</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة المهام</translation>
     </message>
     <message>
         <source>Vertical Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>تجانب عمودي</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر Visual-Basic</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_washadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0 نقطة</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>144 نقطة</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>288 نقطة</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>36 نقطة</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>72 نقطة</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>ساطع</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>عمق</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="unfinished"></translation>
+        <translation>معتم</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="unfinished"></translation>
+        <translation>لانهاية</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>إضاءة</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="unfinished"></translation>
+        <translation>غير لامع</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="unfinished"></translation>
+        <translation>معدني</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان 3D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان الظل</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>لا 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون ظل</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="unfinished"></translation>
+        <translation>موازي</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>مشهد</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="unfinished"></translation>
+        <translation>بلاستيكي</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ظل نصف شفاف</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الظل</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل/إيقاف الظل</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة للأسفل</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة لليسار</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة لليمين</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة للأعلى</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>إطار شفاف</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 نقطة</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 نقطة</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 نقطة</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 نقطة</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 نقطة</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 نقطة</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 نقطة</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 نقطة</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 نقطة</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى المركز</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى اليسار</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى المنتصف</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى اليمين</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأعلى</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>قوس لأسفل (منحني)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>قوس لأسفل (متدفق)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>قوس لأعلى (منحني)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>قوس لأعلى (متدفق)</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>القاع (منحنى)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>القاع (متدفق)</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation type="unfinished"></translation>
+        <translation>علبة للأسفل</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation type="unfinished"></translation>
+        <translation>علبة للأعلى</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج للأسفل</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج للأعلى</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation type="unfinished"></translation>
+        <translation>حرف V للأسفل</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation type="unfinished"></translation>
+        <translation>حرف V للأعلى</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>دائرة (منحنية)</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>دائرة (متدفقة)</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation type="unfinished"></translation>
+        <translation>قوس للأسفل</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation type="unfinished"></translation>
+        <translation>قوس للأعلى</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Deflate</source>
-        <translation type="unfinished"></translation>
+        <translation>انكماش</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>انكماش للأسفل</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>انكماش انتفاخ</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation type="unfinished"></translation>
+        <translation>انكماش انتفاخ انكماش</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
+        <translation>انكماش للأعلى</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع أفقي</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع عمودي</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>موجة مزدوجة 1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation type="unfinished"></translation>
+        <translation>موجة مزدوجة 2</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير النص</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية الطول</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية الحجم</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>متساوية العرض</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>تلاشي للأسفل</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation type="unfinished"></translation>
+        <translation>تلاشي لليسار</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation type="unfinished"></translation>
+        <translation>تلاشي لليمين</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>تلاشي للأعلى</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>انعكاس أفقي</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>انعكاس عمودي</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق كائن</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة حرة</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>تدرج لوني</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة وإرشادات</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط الشبكة</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>انتفاخ</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>انتفاخ للأسفل</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation type="unfinished"></translation>
+        <translation>انتفاخ للأعلى</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج WordArt</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى اليسار</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط الرسالة</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>Loose</source>
-        <translation type="unfinished"></translation>
+        <translation>فضفاض</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان التعبئة</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من ألوان خطوط الرسم</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من خطوط الرسم</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط رسم مزخرفة</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص بسيط</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبة إلى الشريحة</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى اليمين</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>حلقة إلى الداخل</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>حلقة إلى الخارج</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران لليسار 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>دوران لليمين 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة دائرية</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation type="unfinished"></translation>
+        <translation>ميلان لأسفل</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="unfinished"></translation>
+        <translation>ميلان لأعلى</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>صلب</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة مربعة</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط وامتداد</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>نسيج</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>ضيق</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation type="unfinished"></translation>
+        <translation>مثلث للأسفل</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation type="unfinished"></translation>
+        <translation>مثلث للأعلى</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>فك التجميع</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation type="unfinished"></translation>
+        <translation>فضفاض جدا</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>ضيق جدا</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>موجة 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation type="unfinished"></translation>
+        <translation>موجة 2</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>وزن</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط الكلمة</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة WordArt</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد الأحرف في WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>تعبئة WordArt</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>معرض WordArt</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>مخطط تفصيلي WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation type="unfinished"></translation>
+        <translation>نفس أطوال الرسالة في WordArt</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل WordArt</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم WordArt</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>أنماط WordArt</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص عمودي في WordArt</translation>
     </message>
 </context>
 <context>
@@ -10734,114 +10742,114 @@ Other Window</source>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار تلقائي</translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>استكشاف مسار النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Explor Version</source>
-        <translation type="unfinished"></translation>
+        <translation>استكشاف الإصدار</translation>
     </message>
     <message>
         <source>File Auto backup</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ احتياطي تلقائي للملف</translation>
     </message>
     <message>
         <source>KOS Cloud feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Cloud information</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات سحابة KOS</translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation type="unfinished"></translation>
+        <translation>حسابي في KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميح حسابي في KOS</translation>
     </message>
     <message>
         <source>KOS Open cloud file</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح ملف من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الملف إلى سحابة KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>سحابة المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميحات سحابة المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS User guid</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User guid tip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميحات دليل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"></translation>
+        <translation>مختبر</translation>
     </message>
     <message>
         <source>Mark Version</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة الإصدار</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف الإصدار التلقائي</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ احتياطي لمساحة العمل</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير صورة weibo</translation>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح weibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation type="unfinished"></translation>
+        <translation>مشاركة رسائل weibo</translation>
     </message>
     <message>
         <source>weibotool</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات رسائل weibo</translation>
     </message>
 </context>
 <context>
     <name>tips.3DColor</name>
     <message>
         <source>3-D Color</source>
-        <translation>لون 3-D</translation>
+        <translation>لون 3D</translation>
     </message>
     <message>
         <source>Click the arrow to select from different 3-D colors.</source>
-        <translation>اضغط على السهم للاختيار من بين ألوان 3-D المختلفة</translation>
+        <translation>اضغط على السهم للاختيار من بين ألوان 3D المختلفة.</translation>
     </message>
     <message>
         <source>Fill the selected 3-D shape with color.
@@ -10849,498 +10857,500 @@ Other Window</source>
 Click the arrow to select from different 3-D colors.</source>
         <translation>املأ الشكل ثلاثي الأبعاد المحدد بلون معين
 
-اضغط على السهم للاختيار من بين ألوان 3-D المختلفة</translation>
+اضغط على السهم للاختيار من بين ألوان 3D المختلفة.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DDepthMenu</name>
     <message>
         <source>Change the height of the selected 3-D shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير ارتفاع الشكل ثلاثي الأبعاد المحدد.</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>العمق</translation>
     </message>
 </context>
 <context>
     <name>tips.3DOnOff</name>
     <message>
         <source>3-D On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>Turn on or off the 3-D effect applied to the shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل أو إيقاف  تأثير 3D المطبق على الشكل.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DStylePalette</name>
     <message>
         <source>3-D Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>تأثيرات ثلاثية الأبعاد</translation>
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة تأثير ثلاثي الأبعاد إلى الشكل.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DSurfaceMenu</name>
     <message>
         <source>Choose a surface effect for the selected 3-D shape in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار تأثير سطح للشكل 3D المحدد في المستند.</translation>
     </message>
     <message>
         <source>Surface Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>تأثيرات السطح</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltDown</name>
     <message>
         <source>Tilt Down</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة للأسفل</translation>
     </message>
     <message>
         <source>Tilt the shape forward.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك الشكل إلى الأمام.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltLeft</name>
     <message>
         <source>Tilt Left</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة لليسار</translation>
     </message>
     <message>
         <source>Tilt the shape to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك الشكل إلى اليسار.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltRight</name>
     <message>
         <source>Tilt Right</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة لليمين</translation>
     </message>
     <message>
         <source>Tilt the shape to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك الشكل إلى اليمين.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltUp</name>
     <message>
         <source>Tilt Up</source>
-        <translation type="unfinished"></translation>
+        <translation>إمالة للأعلى</translation>
     </message>
     <message>
         <source>Tilt the shape backward.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك الشكل إلى الخلف.</translation>
     </message>
 </context>
 <context>
     <name>tips.ActionSetting</name>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>إجراء</translation>
     </message>
     <message>
         <source>Add an action to the selected object to secify what should happen when you click on it or hover over it with your mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة إجراء إلى الكائن المحدد لتحديد ما يجب أن يحدث عندما تضغط عليه أو تحرك فوقه الماوس.</translation>
     </message>
 </context>
 <context>
     <name>tips.AddAssistant</name>
     <message>
         <source>AddAssistant Content</source>
-        <translation type="unfinished"></translation>
+        <translation>محتوى إضافة مساعد</translation>
     </message>
     <message>
         <source>AddAssistant Title</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان إضافة مساعد</translation>
     </message>
 </context>
 <context>
     <name>tips.AddCoworker</name>
     <message>
         <source>AddCoworker Content</source>
-        <translation type="unfinished"></translation>
+        <translation>محتوى إضافة زميل عمل</translation>
     </message>
     <message>
         <source>AddCoworker Title</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان إضافة زميل عمل</translation>
     </message>
 </context>
 <context>
     <name>tips.AddSubordinate</name>
     <message>
         <source>AddSubordinate Content</source>
-        <translation type="unfinished"></translation>
+        <translation>محتوى إضافة مرؤوس</translation>
     </message>
     <message>
         <source>AddSubordinate Title</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان إضافة مرؤوس</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignBottom</name>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Align text to the bottom of the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة النص إلى أسفل الخلية.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignCenter</name>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز عمودي</translation>
     </message>
     <message>
         <source>Vertically center the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>تموضع النص في المكز بشكل عمودي.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignTop</name>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة إلى الأعلى</translation>
     </message>
     <message>
         <source>Align text to the top of the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة النص إلى أعلى الخلية.</translation>
     </message>
 </context>
 <context>
     <name>tips.AnimationSchemes</name>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>مخططات الحركة</translation>
     </message>
     <message>
         <source>Bring up &apos;Slide Design - Animation Schemes&apos; task pane to apply animation effects to the current slide or the entire presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار لوحة المهام &quot;تصميم الشرائح - أنظمة الحركة&quot; لتطبيق تأثيرات الحركة على الشريحة الحالية أو العرض التقديمي بأكمله.</translation>
     </message>
 </context>
 <context>
     <name>tips.Arrange</name>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب</translation>
     </message>
     <message>
         <source>Arrange objects on the slides by changing their order, position, and rotation.</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب الكائنات على الشرائح عن طريق تغيير ترتيبها وموضعها وتناوبها.</translation>
     </message>
 </context>
 <context>
     <name>tips.ArrangeAll</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب الكل</translation>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
-        <translation type="unfinished"></translation>
+        <translation>تجانب كافة المستندات المفتوحة جنبا إلى جنب تحت نافذة البرنامج نفسها.</translation>
     </message>
 </context>
 <context>
     <name>tips.AutoVersion</name>
     <message>
         <source>Enable Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين النسخ الاحتياطي التلقائي</translation>
     </message>
     <message>
         <source>Enable auto backup for the current document, save backup file to File Safe each time the document is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين النسخ الاحتياطي التلقائي للملف الحالي، حفظ النسخ الاحتياطية إلى ملف آمن في كل مرة ينغلق فيها المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.Autobackup</name>
     <message>
         <source>A brief introduction to File Safe.</source>
-        <translation type="unfinished"></translation>
+        <translation>مقدمة موجزة إلى أمن الملفات.</translation>
     </message>
     <message>
         <source>File Safe</source>
-        <translation type="unfinished"></translation>
+        <translation>أمن الملفات</translation>
     </message>
 </context>
 <context>
     <name>tips.Backdrop</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>ستار خلفي</translation>
     </message>
     <message>
         <source>Set the background style to the current slide or entire presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين نمط الخلفية إلى الشريحة الحالية أو العرض التقديمي بأكمله.</translation>
     </message>
 </context>
 <context>
     <name>tips.BackgroundMusic</name>
     <message>
         <source>Insert Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج موسيقى الخلفية</translation>
     </message>
     <message>
         <source>Insert an audio file into the presentation. The slide show will automatically play the audio, which will be looped until the end of the slide show.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج ملف صوتي في العرض التقديمي. استعراض الشرائح يشغل الصوت تلقائيا، والذي ستتم إعادة تشغيله حتى نهاية عرض الشرائح.</translation>
     </message>
 </context>
 <context>
     <name>tips.Bold</name>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>غامق</translation>
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation type="unfinished"></translation>
+        <translation>جعل النص المحدد غامق.</translation>
     </message>
 </context>
 <context>
     <name>tips.BordersFill</name>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>جانب</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط F1 للحصول على مزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Set border style, color and width of the current slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين نمط ولون وعرض جوانب الشريحة الحالية.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.BringForward</name>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم</translation>
     </message>
     <message>
         <source>Bring forward the selected object, or place it in front of all other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم الكائن المحدد، أو وضعه أمام كل الكائنات.</translation>
     </message>
     <message>
         <source>Bring forward the selected object, so that it is not blocked by other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>تقديم الكائن المحدد، حتى لا تتم إعاقتها من طرف الكائنات الأخرى.</translation>
     </message>
 </context>
 <context>
     <name>tips.Bullets</name>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>تعداد نقطي</translation>
     </message>
     <message>
         <source>Click the arrow to choose different bullet styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط على السهم للاختيار من بين أنماط التعداد النقطي المختلفة.</translation>
     </message>
     <message>
         <source>Start a bulleted list.
 
 Click the arrow to choose different bullet styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء لائحة التعداد النقطي.
+
+اضغط على السهم للاختيار من بين أنماط التعداد النقطي المختلفة.</translation>
     </message>
 </context>
 <context>
     <name>tips.COMAddIns</name>
     <message>
         <source>Add or delete available COM Add-Ins.</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة أو حذف الوظائف الإضافية COM المتوفرة.</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>وظائف إضافية COM</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_MoreControls</name>
     <message>
         <source>Click here to insert a control from the set of controls available on this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط هنا لإدراج عنصر تحكم من بين عناصر التحكم المتوفرة على هذا الحاسوب.</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من عناصر التحكم</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_Property</name>
     <message>
         <source>Controls Property</source>
-        <translation type="unfinished"></translation>
+        <translation>خاصية التحكم</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض أو تحرير خصائص أدوات التحكم المحددة.</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_ViewCode</name>
     <message>
         <source>Launch Visual Basic Editor to edit the code of the selected controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل محرر Visual-Basic لتحرير التعليمات البرمجية لعناصر التحكم المحددة.</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الكود</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير الصورة</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير بصورة أخرى، مع الحفاظ على حجم وتنسيق الصورة الحالية.</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangeTextDir</name>
     <message>
         <source>Change the orientation of text to horizontal or vertical.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير اتجاه النص إلى أفقي أو عمودي.</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه الكتابة</translation>
     </message>
 </context>
 <context>
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>تدقيق إملائي</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>التدقيق الإملائي للنص في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.ChineseTranslation</name>
     <message>
         <source>Set Simplified to Traditional Chinese translation based upon the character or word.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الترجمة من الصينية المبسطة إلى الصينية التقليدية بالاستناد على الحروف أو الكلمات.</translation>
     </message>
     <message>
         <source>Simplified to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>من الصينية المبسطة إلى التقليدية</translation>
     </message>
 </context>
 <context>
     <name>tips.ClearTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح نمط الجدول</translation>
     </message>
     <message>
         <source>Clear table style of selected cell range.</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح نمط الجدول في نطاق الخلايا المحددة.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseDevelopmentTools</name>
     <message>
         <source>Click here to hide Developer Tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط هنا لإخفاء أدوات المطور.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseOtherWindow</name>
     <message>
         <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النوافذ الأخرى</translation>
     </message>
     <message>
         <source>Close all other windows except the current one.</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النوافذ الأخرى ما عدى النافذة الحالية.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النافذة</translation>
     </message>
     <message>
         <source>Close the current window.</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النافذة الحالية.</translation>
     </message>
 </context>
 <context>
     <name>tips.Color</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <source>Set the color or pure black and white print to the current presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين اللون أو بيض وأسود فقط لطباعة العرض التقديمي الحالي.</translation>
     </message>
 </context>
 <context>
     <name>tips.ColorScheme</name>
     <message>
         <source>Bring up &apos;Slide Design - Color Schemes&apos; task pane. Change the color for the current slide, or the entire presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار لوحة المهام &quot;تصميم الشرائح - أنظمة الألوان&quot; لتغيير لون الشريحة الحالية، أو العرض التقديمي بأكمله.</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>أنظمة الألوان</translation>
     </message>
 </context>
 <context>
     <name>tips.CompressPictures</name>
     <message>
         <source>Compress Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>ضغط الصور</translation>
     </message>
     <message>
         <source>Compress the selected picture or all pictures in the document to reduce the picture size.</source>
-        <translation type="unfinished"></translation>
+        <translation>ضغط الصور المحددة أو كل الصور على مستوى المستند، لتقليص حجم الصورة.</translation>
     </message>
 </context>
 <context>
     <name>tips.Copy</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ التحديد ووضعه في حافظة النظام.</translation>
     </message>
 </context>
 <context>
     <name>tips.CustomAnimation</name>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>حركة مخصصة</translation>
     </message>
     <message>
         <source>Open the Custom Animation task pane to apply animation effects to the text or object in the current slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح لوحة مهام تحريك مخصص، لتطبيق تأثيرات الحركة على نص أو كائن في الشريحة الحالية.</translation>
     </message>
 </context>
 <context>
@@ -11349,99 +11359,101 @@ Click the arrow to choose different bullet styles.</source>
         <source>Create or play a custom slide show.
 
 A custom slide show displays only the slides you select.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء أو تشغيل استعراض شرائح مخصص.
+
+يعرض استعراض الشرائح المخصص الشرائح التي تختارها فقط.</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراضات مخصصة للشرائح</translation>
     </message>
 </context>
 <context>
     <name>tips.Cut</name>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>قص</translation>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>قص التحديد ووضعه في حافظة النظام.</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseFontSize</name>
     <message>
         <source>Decreas the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض حجم الخط</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض حجم الخط</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseIndent</name>
     <message>
         <source>Decrease List Level</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض مستوى اللائحة</translation>
     </message>
     <message>
         <source>Decrease the indent level.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنقاص المسافة البادئة.</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseSpace</name>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض التباعد</translation>
     </message>
     <message>
         <source>Decrease spacing between lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض التباعد بين الأسطر.</translation>
     </message>
 </context>
 <context>
     <name>tips.Delete</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Delete the selected row or column.</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الصف أو العمود المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteComment</name>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف تعليق</translation>
     </message>
     <message>
         <source>Delete the comments.</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف التعليقات.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteMaster</name>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الرئيسي</translation>
     </message>
     <message>
         <source>Delete the selected slide master.</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الشريحة الرئيسية المحددة.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteMember</name>
     <message>
         <source>DeleteMember Content</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف محتوى العضو</translation>
     </message>
     <message>
         <source>DeleteMember Title</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان حذف العضو</translation>
     </message>
 </context>
 <context>
@@ -11492,85 +11504,85 @@ A custom slide show displays only the slides you select.</source>
     <name>tips.DevelopmentTools</name>
     <message>
         <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات التطوير</translation>
     </message>
     <message>
         <source>Open the Developer Tools tab to insert the Option Button, Check Box and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح بطاقة أدوات التطوير لإدراج زر الاختيار، خانة اختيار وأكثر من ذلك.</translation>
     </message>
 </context>
 <context>
     <name>tips.Direction</name>
     <message>
         <source>Choose the direction effect of the selected 3-D Shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار تأثير الاتجاه للشكل ثلاثي الأبعاد المحدد.</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه</translation>
     </message>
 </context>
 <context>
     <name>tips.DistColumnSevenly</name>
     <message>
         <source>Distribute Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع الأعمدة</translation>
     </message>
     <message>
         <source>Distribute the width of the selected columns equally between them.</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع عرض الأعمدة المحددة بالتساوي.</translation>
     </message>
 </context>
 <context>
     <name>tips.DistRowSevenly</name>
     <message>
         <source>Distribute Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع الصفوف</translation>
     </message>
     <message>
         <source>Distribute the height of the selected rows equally between them.</source>
-        <translation type="unfinished"></translation>
+        <translation>توزيع ارتفاع الأعمدة المحددة بالتساوي.</translation>
     </message>
 </context>
 <context>
     <name>tips.Distributed</name>
     <message>
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة الفقرة إلى هامشي البسار واليمين عن طريق إظافة فراغات بين الحروف إن لزم الأمر.</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>موزع</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawAlignLeft</name>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة</translation>
     </message>
     <message>
         <source>Align the selected object left.</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة الكائن المحدد لليسار.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawAlignTop</name>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة النص</translation>
     </message>
     <message>
         <source>Click the arrow to select a different alignment.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط على السهم لاختيار محاذاة أخرى.</translation>
     </message>
     <message>
         <source>Setting the alignment to the text.
@@ -12350,7 +12362,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.MasterLayout</name>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط رئيسي</translation>
     </message>
     <message>
         <source>Set the placeholder elements contained in the slide master.</source>
@@ -12567,11 +12579,11 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.OrgChartLayout</name>
     <message>
         <source>OrgChartLayout Content</source>
-        <translation type="unfinished"></translation>
+        <translation>محتوى تخطيط OrgChart</translation>
     </message>
     <message>
         <source>OrgChartLayout Title</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان تخطيط OrgChart</translation>
     </message>
 </context>
 <context>
@@ -13342,7 +13354,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.SlideShowFromCurrent</name>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Start the slide show from the current slide.</source>
@@ -13877,7 +13889,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
 </context>
 <context>
@@ -14006,125 +14018,125 @@ Click the arrow to choose more outline styles.</source>
     <name>wppclassics.mainwindow.commands</name>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات 3D</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع أدوات التحكم</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم</translation>
     </message>
     <message>
         <source>Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق</translation>
     </message>
     <message>
         <source>Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط اللوائح</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة الطباعة</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>مراجعة</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الظل</translation>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الشريحة الرئيسية</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>فارز الشرائح</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>قياسي</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>جداول وحدود</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة العمل</translation>
     </message>
 </context>
 <context>
     <name>wppclassics.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم تخطيطي</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>OrgChart</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands</name>
     <message>
         <source>ActiveX Control Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لعناصر تحكم ActiveX</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك</translation>
     </message>
     <message>
         <source>Arrow Options Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لخيارات السهم</translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
-        <translation type="unfinished"></translation>
+        <translation>أشكال تلقائية ومواد</translation>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ احتياطي</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>غامق</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز</translation>
     </message>
     <message>
         <source>ChangeAutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير الشكل التلقائي</translation>
     </message>
     <message>
         <source>Check Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق من النسخ الاحتياطي التلقائي</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>تدقيق إملائي</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>قصاصة فنية</translation>
     </message>
     <message>
         <source>ClipA</source>
@@ -14132,224 +14144,225 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>حافظة</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة الحافظة</translation>
     </message>
     <message>
         <source>Colorize</source>
-        <translation type="unfinished"></translation>
+        <translation>تلوين</translation>
     </message>
     <message>
         <source>Comment Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للتعليقات</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>ضغط الصور</translation>
     </message>
     <message>
         <source>Connector Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للروابط</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <source>Curve Point Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للنقطة المنحنية</translation>
     </message>
     <message>
         <source>Curve Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للانحناءات</translation>
     </message>
     <message>
         <source>Curve Segment Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للقطع المنحنية</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>حركة مخصصة</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>قص</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض حجم الخط</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>إنقاص المسافة البادئة</translation>
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation type="unfinished"></translation>
+        <translation>التعاون في المستند</translation>
     </message>
     <message>
         <source>Draw Figure Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لرسم الأشكال</translation>
     </message>
     <message>
         <source>DynamicShape</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل ديناميكي</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>تأثيرات</translation>
     </message>
     <message>
         <source>Eraser Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للممحاة</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>خروج</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>من الشريحة
+الحالية</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>معرض رسوم</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>GoogleDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط الشبكة</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>ارتباط تشعبي</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>زيادة حجم الخط</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>زيادة المسافة البادئة</translation>
     </message>
     <message>
         <source>Ink Color Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لألوان الحبر</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>مائل</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط</translation>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation type="unfinished"></translation>
+        <translation>قالب على الإنترنت لـ Kingsoft</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدات الماكرو</translation>
     </message>
     <message>
         <source>Master Miniature Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للأشكال المصغرة الرئيسية</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"></translation>
+        <translation>مواد</translation>
     </message>
     <message>
         <source>Motion Path Point Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لحركة مسار نقطة</translation>
     </message>
     <message>
         <source>Motion Path Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لحركة المسار</translation>
     </message>
     <message>
         <source>Motion Path Segment Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لحركة مسار قطعة</translation>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>رسائلي</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>جديد</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض تقديمي فارغ</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض تقديمي جديد</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>مستند جديد من القالب الافتراضي</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>مستند جديد من قوالب أخرى</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>مستند جديد من قوالب الإنترنت</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>مستند جديد من قوالب أخرى</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -14357,159 +14370,159 @@ Slide</source>
     </message>
     <message>
         <source>None Slide Miniature Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للعدم عرض الشرائح المصغرة</translation>
     </message>
     <message>
         <source>Note View Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار أو إخفاء لوحة الملاحظات</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظات</translation>
     </message>
     <message>
         <source>Notes Pane Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة منبثقة للوحة الملاحظات</translation>
     </message>
     <message>
         <source>OLE Object Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة منبثقة لكائنات OLE</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح</translation>
     </message>
     <message>
         <source>Paint Brush Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة منبثقة لفرشاة الطلاء</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق</translation>
     </message>
     <message>
         <source>Picture Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>فائمة منبثقة للصور</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة الطباعة</translation>
     </message>
     <message>
         <source>Recent File List</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة الملفات الأخيرة</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>استبدال</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>Rotate Mode Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لوضع الدوران</translation>
     </message>
     <message>
         <source>Ruler Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للمسطرة</translation>
     </message>
     <message>
         <source>S MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>أخبار</translation>
     </message>
     <message>
         <source>S Office space</source>
-        <translation type="unfinished"></translation>
+        <translation>تعاون</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ باسم</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الكل</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل ومعرض الرسوم</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للأشكال</translation>
     </message>
     <message>
         <source>Slide Background Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لخلفية الشريحة</translation>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم الشرائح - مخططات الحركة</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم الشرائح - أنظمة الألوان</translation>
     </message>
     <message>
         <source>Slide Design - Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم الشرائح - قوالب التصميم</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط الشريحة</translation>
     </message>
     <message>
         <source>Slide Miniature Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للشرائح المصغرة</translation>
     </message>
     <message>
         <source>Slide Object in Slide Sorter Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لكائن الشريحة في فارز الشرائح</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض الشريحة</translation>
     </message>
     <message>
         <source>Slide Show Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لاستعراض الشريحة</translation>
     </message>
     <message>
         <source>Slide Show Short Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لاستعراض وجيز للشرائح</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال الشريحة</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>منخفض</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>مرتفع</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط أدوات الرموز</translation>
     </message>
     <message>
         <source>TStyle</source>
@@ -14521,289 +14534,289 @@ Slide</source>
     </message>
     <message>
         <source>Table Cell Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لخلية الجدول</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الجدول</translation>
     </message>
     <message>
         <source>Tables Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة للجداول</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة المهام</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>قوالب</translation>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لتحرير النص</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>أشرطة أدوات</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>تسطير</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>تراجع</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر Visual-Basic</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة</translation>
     </message>
     <message>
         <source>WordArt Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منبثقة لـ WordArt</translation>
     </message>
     <message>
         <source>statusbar</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط الحالة</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم تخطيطي</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>OrgChart</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.helpmenu</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>مساعدة</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.status bar</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <source>Slide Show From Current</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض الشرائح من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>فارز الشرائح</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض تقديمي</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands</name>
     <message>
         <source>Add-ins</source>
-        <translation type="unfinished"></translation>
+        <translation>وظائف إضافية</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة المهام مخصصة</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>مطور</translation>
     </message>
     <message>
         <source>Drawing Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات الرسم</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيقات</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء شريط الأدوات</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>الرئيسية</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>الصفحة الرئيسية</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج</translation>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الخروج من KOS</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>Org Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>OrgChart</translation>
     </message>
     <message>
         <source>Picture Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات الصورة</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة الطباعة</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة الوصول السريع</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة سريعة</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>الملفات الأخيرة</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>مراجعة</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار شريط الأدوات</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار/إخفاء شريط الأدوات</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة رئيسية</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض الشريحة</translation>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
-        <translation type="unfinished"></translation>
+        <translation>إلصاق شريط الأدوات</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل واجهة المستخدم</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الجدول</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات الجدول</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <source>What News</source>
-        <translation type="unfinished"></translation>
+        <translation>ما الجديد</translation>
     </message>
     <message>
         <source>Window Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق النافذة</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير النافذة</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>تصغير النافذة</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة النافذة</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Work space</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة العمل</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -14814,111 +14827,111 @@ Slide</source>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير واجهة المستخدم</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>صحيح</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير اللغة</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>OrgChart</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض تقديمي</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands</name>
     <message>
         <source>Add-ins</source>
-        <translation type="unfinished"></translation>
+        <translation>وظائف إضافية</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="unfinished"></translation>
+        <translation>تصميم</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>مطور</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات الرسم</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيقات</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء شريط الأدوات</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>الرئيسية</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>الصفحة الرئيسية</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج</translation>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
         <source>KOS Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الخروج من KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض تقديمي فارغ</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف جديد من قوالب أخرى</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -14926,87 +14939,87 @@ Slide</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>OrgChart</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات الصورة</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة الطباعة</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة الوصول السريع</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة سريعة</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>الملفات الأخيرة</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>مراجعة</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار شريط الأدوات</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار/إخفاء شريط الأدوات</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة رئيسية</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض الشريحة</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>إلصاق شريط الأدوات</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير واجهة المستخدم</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الجدول</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات الجدول</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <source>What News</source>
-        <translation type="unfinished"></translation>
+        <translation>ما الجديد</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة العمل</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -15017,32 +15030,32 @@ Slide</source>
     <name>wpprainbow.mainwindow.commands.Diagram</name>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم تخطيطي</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير واجهة المستخدم</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>صحيح</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير اللغة</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>OrgChart</translation>
     </message>
 </context>
 </TS>
