@@ -10965,33 +10965,33 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.AddAssistant</name>
     <message>
         <source>AddAssistant Content</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مساعد من بين الأعضاء المحددين</translation>
     </message>
     <message>
         <source>AddAssistant Title</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مساعد</translation>
     </message>
 </context>
 <context>
     <name>tips.AddCoworker</name>
     <message>
         <source>AddCoworker Content</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة زميل عمل من بين الأعضاء المحددين</translation>
     </message>
     <message>
         <source>AddCoworker Title</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة زميل عمل</translation>
     </message>
 </context>
 <context>
     <name>tips.AddSubordinate</name>
     <message>
         <source>AddSubordinate Content</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مرؤوس من بين الأعضاء المحددين</translation>
     </message>
     <message>
         <source>AddSubordinate Title</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مرؤوس</translation>
     </message>
 </context>
 <context>
@@ -11451,11 +11451,11 @@ A custom slide show displays only the slides you select.</source>
     <name>tips.DeleteMember</name>
     <message>
         <source>DeleteMember Content</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الأعضاء المحددين</translation>
     </message>
     <message>
         <source>DeleteMember Title</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف عضو</translation>
     </message>
 </context>
 <context>
@@ -11703,11 +11703,11 @@ Click the arrow to select a different alignment.</source>
     <name>tips.ExportWeiboImageCmd</name>
     <message>
         <source>ExportWeiboImageCmd Content</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير المستند على شكل صورة</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd Title</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير صورة weibo</translation>
     </message>
 </context>
 <context>
@@ -11725,11 +11725,11 @@ Click the arrow to select a different alignment.</source>
     <name>tips.FitTextTip</name>
     <message>
         <source>FitTextTip Content</source>
-        <translation type="unfinished"></translation>
+        <translation>تكييف حجم النص</translation>
     </message>
     <message>
         <source>FitTextTip Title</source>
-        <translation type="unfinished"></translation>
+        <translation>احتواء النص</translation>
     </message>
 </context>
 <context>
@@ -12090,19 +12090,19 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertOrgChart</name>
     <message>
         <source>InsertOrgChart Content</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء مخطط هيكلي في الشريحة الحالية</translation>
     </message>
     <message>
         <source>InsertOrgChart Title</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج مخطط هيكلي</translation>
     </message>
     <message>
         <source>LinkText</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة</translation>
     </message>
     <message>
         <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12221,22 +12221,22 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.KOSCloudFeedbackTip</name>
     <message>
         <source>KOSCloudFeedbackTip Content</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنكم مساعدتنا على تحسين منتجاتنا</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip Title</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليقات المستخدمين من سحابة KOS</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudInformationTip</name>
     <message>
         <source>KOSCloudInformationTip Content</source>
-        <translation type="unfinished"></translation>
+        <translation>كيفية استخدام التطبيق</translation>
     </message>
     <message>
         <source>KOSCloudInformationTip Title</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات سحابة KOS</translation>
     </message>
 </context>
 <context>
@@ -12264,55 +12264,55 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.KOSOpenCloudFileTip</name>
     <message>
         <source>KOSOpenCloudFileTip Content</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك فتح ملفات مخزنة على الإنترنت. حين تكون في مقهى إنترنت، يمكنك استعمال هاتفك المحمول بكل سهولة</translation>
     </message>
     <message>
         <source>KOSOpenCloudFileTip Title</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح ملف من سحابة KOS</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSSaveFileTocloudTip</name>
     <message>
         <source>KOSSaveFileTocloudTip Content</source>
-        <translation type="unfinished"></translation>
+        <translation>تخزين الملف على الإنترنت. الملف لن يتم فقدانه ويمكنك الدخول إليه من عدة أجهزة</translation>
     </message>
     <message>
         <source>KOSSaveFileTocloudTip Title</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الملف إلى سحابة KOS</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTextBtnTip</name>
     <message>
         <source>KOSUserLoginCloudTextBtnTip Content</source>
-        <translation type="unfinished"></translation>
+        <translation>عند تسجيل الدخول، يمكنك استعمال مستندات على الإنترنت، وملفات آمنة، وقوالب عبر الإنترنت وغيرها من الخدمات السحابية الحرة</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTextBtnTip Title</source>
-        <translation type="unfinished"></translation>
+        <translation>لم تقم بتسجيل الدخول</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTip</name>
     <message>
         <source>KOSUserLoginCloudTip Content</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول إلى حساب WPS. إنشاء أو تسجيل الدخول إلى الحساب، يمكنك من حفظ المستند إلى الإنترنت، ويمكن أيضا تحرير المستند  على أجهزة الكمبيوتر الأخرى أو الهواتف النقالة</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTip Title</source>
-        <translation type="unfinished"></translation>
+        <translation>لم تقم بتسجيل الدخول</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLogoutCloudTip</name>
     <message>
         <source>KOSUserLogoutCloudTip Content</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تسجيل دخولك لحساب WPS. يمكنك عرض صفحتك الشخصية أو  تسجيل الخروج</translation>
     </message>
     <message>
         <source>KOSUserLogoutCloudTip Title</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول</translation>
     </message>
 </context>
 <context>
@@ -12593,11 +12593,11 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.OrgChartLayout</name>
     <message>
         <source>OrgChartLayout Content</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير أعضاء مختارين من تخطيط السلطة</translation>
     </message>
     <message>
         <source>OrgChartLayout Title</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط OrgChart</translation>
     </message>
 </context>
 <context>
@@ -13001,11 +13001,11 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.ResetLayout</name>
     <message>
         <source>ResetLayout Content</source>
-        <translation type="unfinished"></translation>
+        <translation>العودة إلى التخطيط الافتراضي الأولي</translation>
     </message>
     <message>
         <source>ResetLayout Title</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين التخطيط</translation>
     </message>
 </context>
 <context>
@@ -13031,11 +13031,11 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.ResetShape</name>
     <message>
         <source>ResetShape Content</source>
-        <translation type="unfinished"></translation>
+        <translation>التخلي عن كل تغييرات تنسيق الشكل المختارة</translation>
     </message>
     <message>
         <source>ResetShape Title</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين الشكل</translation>
     </message>
 </context>
 <context>
@@ -13426,11 +13426,11 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.SmartChoice</name>
     <message>
         <source>SmartChoice Content</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الهيكل التنظيمي للأعضاء للمستوى نفسه، وأعضاء من نفس الفرع، وجميع المساعدين</translation>
     </message>
     <message>
         <source>SmartChoice Title</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار ذكي</translation>
     </message>
 </context>
 <context>
@@ -13800,11 +13800,11 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WorkSpace_Backup</name>
     <message>
         <source>WorkSpace_Backup Content</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك تشغيل النسخ الاحتياطي التلقائي للمستند الحالي أو النسخ الاحتياطي اليدوي. في كل مرة يغلق الملف ، فإنه سيتم إنشاء ملف النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ احتياطي لمساحة العمل</translation>
     </message>
 </context>
 <context>
@@ -13969,11 +13969,12 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.weibotool</name>
     <message>
         <source>weibotool Content</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Can convert the document image, share microblogging.</translatorcomment>
+        <translation>يمكنك تحويل المستند إلى صورة، أو نشره على مدونات صغيرة</translation>
     </message>
     <message>
         <source>weibotool Title</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات رسائل weibo</translation>
     </message>
 </context>
 <context>
