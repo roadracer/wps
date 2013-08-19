@@ -5,99 +5,99 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>(0)</source>
-        <translation type="unfinished"></translation>
+        <translation>(0)</translation>
     </message>
     <message>
         <source>(1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(1)</translation>
     </message>
     <message>
         <source>(2)</source>
-        <translation type="unfinished"></translation>
+        <translation>(2)</translation>
     </message>
     <message>
         <source>(3)</source>
-        <translation type="unfinished"></translation>
+        <translation>(3)</translation>
     </message>
     <message>
         <source>(4)</source>
-        <translation type="unfinished"></translation>
+        <translation>(4)</translation>
     </message>
     <message>
         <source>(5)</source>
-        <translation type="unfinished"></translation>
+        <translation>(5)</translation>
     </message>
     <message>
         <source>(6)</source>
-        <translation type="unfinished"></translation>
+        <translation>(6)</translation>
     </message>
     <message>
         <source>(7)</source>
-        <translation type="unfinished"></translation>
+        <translation>(7)</translation>
     </message>
     <message>
         <source>(8)</source>
-        <translation type="unfinished"></translation>
+        <translation>(8)</translation>
     </message>
     <message>
         <source>(9)</source>
-        <translation type="unfinished"></translation>
+        <translation>(9)</translation>
     </message>
     <message>
         <source>(10)</source>
-        <translation type="unfinished"></translation>
+        <translation>(10)</translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>)</source>
-        <translation type="unfinished"></translation>
+        <translation>)</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
 </context>
 <context>
@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light style</source>
@@ -218,7 +218,7 @@
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>فاصل الأسطر</translation>
     </message>
     <message>
         <source>Use Asian rules for controlling first and last &amp;characters</source>
@@ -265,7 +265,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
@@ -288,7 +288,7 @@
     <name>DlgKxCustomShows</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراضات مخصصة للشرائح</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
@@ -331,7 +331,7 @@
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراضات مخصصة للشرائح</translation>
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
@@ -354,7 +354,7 @@
     <name>DlgKxSetupShow</name>
     <message>
         <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات استعراض الشريحة</translation>
     </message>
     <message>
         <source>Show type</source>
@@ -464,11 +464,11 @@
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>تأثيرات</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات</translation>
     </message>
     <message>
         <source>Di&amp;rection:</source>
@@ -552,7 +552,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>شرائح</translation>
     </message>
     <message>
         <source>Enhancements</source>
@@ -719,7 +719,7 @@
     <name>Dlgtypography</name>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>أسلوب الطباعة</translation>
     </message>
     <message>
         <source>First and last characters</source>
@@ -757,7 +757,7 @@
     <name>KCloseThumbnailCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
 </context>
 <context>
@@ -812,7 +812,7 @@
     <name>KWppAnimCustomCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
 </context>
 <context>
@@ -823,7 +823,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>تلقائي</translation>
     </message>
 </context>
 <context>
@@ -844,7 +844,7 @@
     <name>KxBrowseSlidesDlg</name>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>كل الشرائح</translation>
     </message>
     <message>
         <source>Slide %1 .. %2</source>
@@ -852,7 +852,7 @@
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراضات مخصصة للشرائح</translation>
     </message>
     <message>
         <source>Slide %1</source>
@@ -909,7 +909,7 @@
     <name>KxColorSettingPanel</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>خلفية</translation>
     </message>
     <message>
         <source>Text and lines</source>
@@ -1005,7 +1005,7 @@
     <name>KxDlgBackground</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>خلفية</translation>
     </message>
     <message>
         <source>&amp;Background fill</source>
@@ -1036,7 +1036,7 @@
     <name>KxDlgBkgndMusicTip</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -1173,14 +1173,14 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ ووقت</translation>
     </message>
     <message>
         <source>&amp;Available formats:</source>
@@ -1218,7 +1218,7 @@
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>خط الكتابة</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
@@ -1242,11 +1242,11 @@
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>غامق</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>مائل</translation>
     </message>
     <message>
         <source>Bold Italic</source>
@@ -1254,7 +1254,7 @@
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>تأثيرات</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -1297,7 +1297,7 @@
     <name>KxDlgGridAndGuids</name>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة وإرشادات</translation>
     </message>
     <message>
         <source>Snap to</source>
@@ -1392,11 +1392,11 @@
     <name>KxDlgHeaderFooter</name>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>رأس وتذييل الصفحة</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة</translation>
     </message>
     <message>
         <source>Include on slide</source>
@@ -1440,7 +1440,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة</translation>
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
@@ -1490,7 +1490,7 @@
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج جدول</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -1505,7 +1505,7 @@
     <name>KxDlgLecturerRemark</name>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظات المحاضر</translation>
     </message>
     <message>
         <source>&amp;Slide:</source>
@@ -1520,7 +1520,7 @@
     <name>KxDlgMasterViewLayout</name>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط النموذج</translation>
     </message>
     <message>
         <source>Placeholders</source>
@@ -1594,15 +1594,15 @@
     <name>KxDlgOption</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <source>Start&amp;up Task Window</source>
@@ -1734,7 +1734,7 @@
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة</translation>
     </message>
     <message>
         <source>Default print setting for this document</source>
@@ -1754,7 +1754,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>شرائح</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
@@ -1774,7 +1774,7 @@
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الإطار</translation>
     </message>
     <message>
         <source>&amp;Color/grayscale:</source>
@@ -1782,7 +1782,7 @@
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <source>Gray</source>
@@ -1798,7 +1798,7 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير</translation>
     </message>
     <message>
         <source>Apply when typing</source>
@@ -1822,7 +1822,7 @@
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>حماية</translation>
     </message>
     <message>
         <source>File encryption options for this document</source>
@@ -1912,7 +1912,7 @@
     <name>KxDlgPageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد الصفحة</translation>
     </message>
     <message>
         <source>&amp;Slides size</source>
@@ -1960,7 +1960,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -1996,7 +1996,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>شرائح</translation>
     </message>
     <message>
         <source>Po&amp;rtrait</source>
@@ -2046,7 +2046,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Replace with(&amp;w):</source>
@@ -2170,7 +2170,7 @@
     <name>KxDlgSplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>تقسيم الخلايا</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -2185,7 +2185,7 @@
     <name>KxDlgViewZoom</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
     <message>
         <source>Zoom to</source>
@@ -2255,7 +2255,7 @@
     <name>KxDlgWppActionSettings</name>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الإجراءات</translation>
     </message>
     <message>
         <source>Mouse Click</source>
@@ -2386,11 +2386,11 @@
     <name>KxDlgWppColorScheme</name>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>أنظمة الألوان</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>قياسي</translation>
     </message>
     <message>
         <source>&amp;Color schemes</source>
@@ -2398,7 +2398,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>&amp;Scheme colors</source>
@@ -2474,7 +2474,7 @@
     <name>KxDlgWppPrint</name>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة</translation>
     </message>
     <message>
         <source>Print range</source>
@@ -2522,7 +2522,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>شرائح</translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -2534,7 +2534,7 @@
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الإطار</translation>
     </message>
     <message>
         <source>Colo&amp;r:</source>
@@ -2542,11 +2542,11 @@
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
+        <translation>بالأسود والأبيض فقط</translation>
     </message>
     <message>
         <source>Slides per pa&amp;ge:</source>
@@ -2581,7 +2581,7 @@
     <name>KxDlglineSpace</name>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد الأسطر</translation>
     </message>
     <message>
         <source>&amp;Line spacing</source>
@@ -2589,7 +2589,7 @@
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوط الرسم</translation>
     </message>
     <message>
         <source>Points</source>
@@ -2620,7 +2620,7 @@
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظات</translation>
     </message>
     <message>
         <source>Please input the password of permission setting!</source>
@@ -2699,7 +2699,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Exporting document information...</source>
@@ -2734,7 +2734,7 @@
     <name>KxFindReplaceDlg</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
@@ -2742,7 +2742,7 @@
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>استبدال</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -2820,7 +2820,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
@@ -2831,11 +2831,11 @@
     <name>KxHyperlinkWppPage</name>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>الشريحة الأولى</translation>
     </message>
     <message>
         <source>Last Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>الشريحة الأخيرة</translation>
     </message>
     <message>
         <source>Next Slide</source>
@@ -2903,7 +2903,7 @@
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -2970,7 +2970,7 @@
     <name>KxPageSetupDlg</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
 </context>
 <context>
@@ -2981,11 +2981,11 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>التالي</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف مؤقت</translation>
     </message>
     <message>
         <source>Slide Time</source>
@@ -3011,7 +3011,7 @@
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تسمية النموذج</translation>
     </message>
     <message>
         <source>&amp;Master name:</source>
@@ -3079,7 +3079,7 @@
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>مخططات الحركة</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
@@ -3095,11 +3095,11 @@
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض الشريحة</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -3110,11 +3110,11 @@
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>قوالب التصميم</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>أنظمة الألوان</translation>
     </message>
 </context>
 <context>
@@ -3125,7 +3125,7 @@
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>أنظمة الألوان</translation>
     </message>
     <message>
         <source>Apply a color scheme:</source>
@@ -3136,11 +3136,11 @@
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>قوالب التصميم</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>مخططات الحركة</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
@@ -3155,7 +3155,7 @@
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>قوالب التصميم</translation>
     </message>
     <message>
         <source>Apply a design template:</source>
@@ -3166,11 +3166,11 @@
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>أنظمة الألوان</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>مخططات الحركة</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -3192,7 +3192,7 @@
     <name>KxTpSlideTransition</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
@@ -3240,11 +3240,11 @@
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض الشريحة</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -3255,7 +3255,7 @@
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
@@ -3274,7 +3274,7 @@
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح نمط الجدول</translation>
     </message>
 </context>
 <context>
@@ -3292,7 +3292,7 @@
     <name>KxWidgetPosition</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير</translation>
     </message>
     <message>
         <source>Position on slide</source>
@@ -3332,7 +3332,7 @@
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>توسيط</translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
@@ -3347,11 +3347,11 @@
     <name>KxWppActionSettingsDlg</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <source>Slide %1</source>
@@ -3421,7 +3421,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>تلقائي</translation>
     </message>
 </context>
 <context>
@@ -3447,7 +3447,7 @@
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>&amp;Entrance</source>
@@ -3661,7 +3661,7 @@
     <name>KxWppPrintDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -3669,7 +3669,7 @@
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظات</translation>
     </message>
     <message>
         <source>Input is invalid.</source>
@@ -3739,7 +3739,7 @@
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>تعليق</translation>
     </message>
 </context>
 <context>
@@ -3750,7 +3750,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>شرائح</translation>
     </message>
 </context>
 <context>
@@ -3787,7 +3787,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Package has been completed</source>
@@ -3914,7 +3914,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <source>Blinds 1</source>
@@ -3982,7 +3982,7 @@
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>قص</translation>
     </message>
     <message>
         <source>Cut Black</source>
@@ -4180,7 +4180,7 @@
     <name>TpWppCustomAnimation</name>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>حركة مخصصة</translation>
     </message>
     <message>
         <source>Customize Animation:</source>
@@ -4252,11 +4252,11 @@
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>استعراض الشريحة</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -4278,7 +4278,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -4326,7 +4326,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>شرائح</translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -4346,7 +4346,7 @@
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
@@ -4358,15 +4358,15 @@
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
@@ -4374,11 +4374,11 @@
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Order:</source>
@@ -4492,11 +4492,11 @@
     <name>kdlgFormatTable</name>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>جانب</translation>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>جوانب</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -4564,7 +4564,7 @@
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>تعبئة</translation>
     </message>
     <message>
         <source>cbFillColor</source>
@@ -4588,7 +4588,7 @@
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع نص</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
