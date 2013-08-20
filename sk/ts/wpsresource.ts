@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -161,11 +161,11 @@
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -184,15 +184,15 @@
     <name>classics.compare_views</name>
     <message>
         <source>Reset Window Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť pozíciu okna</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchrónne posúvanie</translation>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť súbežne</translation>
     </message>
 </context>
 <context>
@@ -478,7 +478,7 @@
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -698,7 +698,7 @@
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -814,7 +814,7 @@
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Through</source>
@@ -861,7 +861,7 @@
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -976,7 +976,7 @@
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýraznenie</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -1241,7 +1241,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovať tabuľku</translation>
     </message>
 </context>
 <context>
@@ -1368,7 +1368,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Through</source>
@@ -1415,7 +1415,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
@@ -1454,15 +1454,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýraznenie</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový komentár</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Ďalší</translation>
     </message>
     <message>
         <source>Original</source>
@@ -1470,7 +1470,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Predchádzajúci</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -1490,7 +1490,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť revíziu</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -1506,7 +1506,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovať zmeny</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -1556,7 +1556,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>Čistá strana</translation>
+        <translation>Prázdna strana</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -1564,7 +1564,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -1576,7 +1576,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rovnica</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
@@ -1600,7 +1600,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať formát</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -1680,7 +1680,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
@@ -1722,7 +1722,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
@@ -2060,7 +2060,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Through</source>
@@ -2254,7 +2254,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Makrá</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -2366,7 +2366,7 @@ On</source>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -2394,7 +2394,7 @@ On</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -2458,7 +2458,7 @@ On</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -2566,11 +2566,11 @@ On</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -2578,7 +2578,7 @@ On</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýraznenie</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -2682,7 +2682,7 @@ On</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -2702,7 +2702,7 @@ On</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -2758,11 +2758,11 @@ On</source>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Smer textu</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -3003,11 +3003,11 @@ On</source>
     </message>
     <message>
         <source>Date / Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum/čas</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Polia</translation>
     </message>
     <message>
         <source>Header&amp;Footer  Options</source>
@@ -3015,11 +3015,11 @@ On</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3170,7 +3170,7 @@ On</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -3202,7 +3202,7 @@ On</source>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Úpravy</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
@@ -3266,7 +3266,7 @@ On</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýraznenie</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3318,7 +3318,7 @@ On</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
@@ -3440,15 +3440,15 @@ On</source>
     <name>ongmani.ct_insert</name>
     <message>
         <source>Blank Page</source>
-        <translation>Čistá strana</translation>
+        <translation>Prázdna strana</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Záložky</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Graf</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
@@ -3468,7 +3468,7 @@ On</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Krížový odkaz</translation>
     </message>
     <message>
         <source>Custom Shape</source>
@@ -3476,7 +3476,7 @@ On</source>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum/čas</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -3492,11 +3492,11 @@ On</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rovnica</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Polia</translation>
     </message>
     <message>
         <source>File</source>
@@ -3524,7 +3524,7 @@ On</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3536,11 +3536,11 @@ On</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepojenie</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilustrácie</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -3564,7 +3564,7 @@ On</source>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -3596,15 +3596,15 @@ On</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvary</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Symboly</translation>
     </message>
     <message>
         <source>Table</source>
@@ -3640,7 +3640,7 @@ On</source>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodotlač</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -3820,14 +3820,14 @@ Different New Document</source>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovať tabuľku</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_pagelayout</name>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -3855,7 +3855,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -3863,11 +3863,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlomy</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -3887,7 +3887,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -3955,11 +3955,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -3975,7 +3975,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Čísla riadkov</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -4007,7 +4007,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientácia</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -4015,7 +4015,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Page Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Orámovanie strany</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -4031,7 +4031,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4055,7 +4055,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -4071,7 +4071,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -4083,7 +4083,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <source>Square</source>
@@ -4095,7 +4095,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Smer textu</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -4103,7 +4103,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -4218,7 +4218,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -4282,7 +4282,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Promote to Level</source>
@@ -4302,7 +4302,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Štýl</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
@@ -4376,7 +4376,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -4404,7 +4404,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -4420,7 +4420,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -4520,11 +4520,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -4536,7 +4536,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -4640,7 +4640,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -4664,7 +4664,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -4804,7 +4804,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -4863,7 +4863,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -4875,7 +4875,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
@@ -4886,32 +4886,33 @@ Different New Document</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť popis</translation>
     </message>
     <message>
         <source>Captions</source>
-        <translation type="unfinished"></translation>
+        <translation>Popisy</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Krížový odkaz</translation>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámky pod čiarou</translation>
     </message>
     <message>
         <source>Insert
 Footnote/Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť
+vysvetlivku</translation>
     </message>
     <message>
         <source>Insert Footnote/Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť vysvetlivku</translation>
     </message>
     <message>
         <source>Insert ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť obsah</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -4955,7 +4956,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Mailings</source>
-        <translation type="unfinished"></translation>
+        <translation>Korešpondencia</translation>
     </message>
     <message>
         <source>Next Footnote/Endnote</source>
@@ -4971,7 +4972,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsah</translation>
     </message>
     <message>
         <source>ToC Level</source>
@@ -4979,14 +4980,14 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovať tabuľku</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_review</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijať</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
@@ -5014,15 +5015,15 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Change and Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmeny a sledovanie</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola pravopisu</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentáre</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -5034,7 +5035,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
@@ -5054,7 +5055,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový komentár</translation>
     </message>
     <message>
         <source>Language</source>
@@ -5062,7 +5063,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Ďalší</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -5074,7 +5075,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Predchádzajúci</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -5086,15 +5087,15 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Proofing</source>
-        <translation type="unfinished"></translation>
+        <translation>Korektúra</translation>
     </message>
     <message>
         <source>Protect</source>
-        <translation type="unfinished"></translation>
+        <translation>Zabezpečiť</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmietnuť</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -5114,7 +5115,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť revíziu</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -5130,7 +5131,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovať zmeny</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -5138,14 +5139,14 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet slov</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_section</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Contents Page</source>
@@ -5185,7 +5186,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -5221,7 +5222,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigačná tabla</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -5241,7 +5242,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientácia</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -5708,7 +5709,7 @@ On/Off</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -5720,7 +5721,7 @@ On/Off</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -5772,7 +5773,7 @@ On/Off</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýraznenie</translation>
     </message>
     <message>
         <source>Insert Above</source>
@@ -5905,7 +5906,7 @@ Cells</source>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Smer textu</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -5921,7 +5922,7 @@ Cells</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
 </context>
 <context>
@@ -5932,7 +5933,7 @@ Cells</source>
     </message>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať všetko</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -5957,19 +5958,19 @@ Other Windows</source>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa dokumentu</translation>
     </message>
     <message>
         <source>Document View</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazenia dokumentov</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazenie na celú obrazovku</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -5981,7 +5982,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Makrá</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -5989,7 +5990,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigačná tabla</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -6001,7 +6002,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehľad</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -6017,15 +6018,15 @@ Other Windows</source>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozloženie pri tlači</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť pozíciu okna</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravítko</translation>
     </message>
     <message>
         <source>Security</source>
@@ -6033,7 +6034,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <source>Show Document Map</source>
@@ -6049,11 +6050,11 @@ Other Windows</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepnúť okná</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchrónne posúvanie</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -6069,7 +6070,7 @@ Other Windows</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť súbežne</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -6077,7 +6078,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Webové rozloženie</translation>
     </message>
     <message>
         <source>Window</source>
@@ -6085,7 +6086,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
@@ -6469,7 +6470,7 @@ On</source>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -6513,7 +6514,7 @@ On</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -6529,7 +6530,7 @@ On</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -6697,11 +6698,11 @@ On</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -6805,7 +6806,7 @@ On</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -6821,7 +6822,7 @@ On</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -6865,7 +6866,7 @@ On</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -7143,7 +7144,7 @@ On</source>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>Čistá strana</translation>
+        <translation>Prázdna strana</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
@@ -7159,7 +7160,7 @@ On</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -7183,7 +7184,7 @@ On</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť popis</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -7231,7 +7232,7 @@ On</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Close</source>
@@ -7267,7 +7268,7 @@ On</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
@@ -7351,7 +7352,7 @@ On</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Krížový odkaz</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -7367,7 +7368,7 @@ On</source>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum a čas</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
@@ -7375,7 +7376,7 @@ On</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -7411,11 +7412,11 @@ On</source>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa dokumentu</translation>
     </message>
     <message>
         <source>Document Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zabezpečiť dokument</translation>
     </message>
     <message>
         <source>Draw
@@ -7468,7 +7469,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rovnica</translation>
     </message>
     <message>
         <source>Erase</source>
@@ -7520,7 +7521,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Polia</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -7556,7 +7557,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámky pod čiarou</translation>
     </message>
     <message>
         <source>Form Field Option</source>
@@ -7580,7 +7581,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazenie na celú obrazovku</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -7608,11 +7609,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>Grouping</source>
@@ -7644,7 +7645,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
@@ -7660,7 +7661,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepojenie</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -7668,7 +7669,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -7720,7 +7721,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Čísla riadkov</translation>
     </message>
     <message>
         <source>Login</source>
@@ -7732,7 +7733,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Makrá</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -7796,7 +7797,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -7856,7 +7857,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Paste Column</source>
@@ -7896,7 +7897,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozloženie pri tlači</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -7988,7 +7989,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravítko</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -8032,7 +8033,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -8132,7 +8133,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Table</source>
@@ -8148,7 +8149,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsah</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -8196,7 +8197,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť súbežne</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -8208,7 +8209,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodotlač</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -8220,7 +8221,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
     <message>
         <source>login</source>
@@ -8380,7 +8381,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Makrá</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -8459,7 +8460,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -8487,7 +8488,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -8551,7 +8552,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -8643,11 +8644,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -8747,7 +8748,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -8767,7 +8768,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -8823,7 +8824,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -8902,7 +8903,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripraviť</translation>
     </message>
     <message>
         <source>Help</source>
@@ -9072,11 +9073,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum/čas</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Polia</translation>
     </message>
     <message>
         <source>Header and Footer
@@ -9089,11 +9090,11 @@ Options</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -9249,7 +9250,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -9281,7 +9282,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Úpravy</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
@@ -9325,7 +9326,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať formát</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -9337,7 +9338,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýraznenie</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -9389,7 +9390,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>ParagraphTools</source>
@@ -9397,7 +9398,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepiť</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -9457,7 +9458,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Štýl</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
@@ -9507,15 +9508,15 @@ Header and Footer</source>
     <name>rainbow.ct_insert</name>
     <message>
         <source>Blank Page</source>
-        <translation>Čistá strana</translation>
+        <translation>Prázdna strana</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Záložky</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Graf</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
@@ -9535,7 +9536,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Krížový odkaz</translation>
     </message>
     <message>
         <source>Custom Shape</source>
@@ -9543,7 +9544,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum/čas</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -9559,11 +9560,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rovnica</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Polia</translation>
     </message>
     <message>
         <source>File</source>
@@ -9591,7 +9592,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -9599,11 +9600,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepojenie</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilustrácie</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -9647,7 +9648,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -9679,15 +9680,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvary</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Symboly</translation>
     </message>
     <message>
         <source>Table</source>
@@ -9715,7 +9716,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodotlač</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -9901,14 +9902,14 @@ Merged Data</source>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovať tabuľku</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_pagelayout</name>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -9936,7 +9937,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -9944,11 +9945,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlomy</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -9968,7 +9969,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -10036,11 +10037,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -10056,7 +10057,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Čísla riadkov</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -10088,7 +10089,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientácia</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -10096,7 +10097,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Page Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Orámovanie strán</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -10112,7 +10113,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -10136,7 +10137,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -10152,7 +10153,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -10164,7 +10165,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <source>Square</source>
@@ -10184,7 +10185,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -10259,7 +10260,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Increase Line Spacing</source>
@@ -10291,7 +10292,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Promote to Level</source>
@@ -10311,7 +10312,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Štýl</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
@@ -10370,7 +10371,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -10398,7 +10399,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -10414,7 +10415,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -10514,11 +10515,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -10530,7 +10531,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -10630,7 +10631,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -10654,7 +10655,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -10794,7 +10795,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -10849,7 +10850,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -10861,7 +10862,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
@@ -10872,7 +10873,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť popis</translation>
     </message>
     <message>
         <source>Captions</source>
@@ -10880,25 +10881,27 @@ Merged Data</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Krížový odkaz</translation>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámky pod čiarou</translation>
     </message>
     <message>
         <source>Insert
 Footnote/Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť
+vysvetlivku</translation>
     </message>
     <message>
         <source>Insert Footnote
 and Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť
+vysvetlivku</translation>
     </message>
     <message>
         <source>Insert ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť obsah</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -10942,7 +10945,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Mailings</source>
-        <translation type="unfinished"></translation>
+        <translation>Korešpondencia</translation>
     </message>
     <message>
         <source>Next Footnote/Endnote</source>
@@ -10958,22 +10961,22 @@ and Endnote</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsah</translation>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridať text</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovať tabuľku</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_review</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijať</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
@@ -10993,7 +10996,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Change And Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmeny a sledovanie</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
@@ -11005,7 +11008,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola pravopisu</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -11013,7 +11016,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentáre</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -11025,7 +11028,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
@@ -11045,7 +11048,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýraznenie</translation>
     </message>
     <message>
         <source>Language</source>
@@ -11053,11 +11056,11 @@ and Endnote</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový komentár</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Ďalší</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -11069,7 +11072,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Predchádzajúci</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -11081,15 +11084,15 @@ and Endnote</source>
     </message>
     <message>
         <source>Proofing</source>
-        <translation type="unfinished"></translation>
+        <translation>Korektúra</translation>
     </message>
     <message>
         <source>Protect</source>
-        <translation type="unfinished"></translation>
+        <translation>Zabezpečiť</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmietnuť</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -11109,7 +11112,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -11125,7 +11128,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovať zmeny</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -11133,7 +11136,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet slov</translation>
     </message>
 </context>
 <context>
@@ -11144,7 +11147,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -11180,7 +11183,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -11216,7 +11219,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigačná tabla</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -11236,7 +11239,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientácia</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -11690,7 +11693,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -11702,7 +11705,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -11845,7 +11848,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať všetko</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -11870,19 +11873,19 @@ Other Window</source>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa dokumentu</translation>
     </message>
     <message>
         <source>Document View</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazenia dokumentov</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazenie na celú obrazovku</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -11894,7 +11897,7 @@ Other Window</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Makrá</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -11902,11 +11905,11 @@ Other Window</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigačná tabla</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nové okno</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -11914,7 +11917,7 @@ Other Window</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehľad</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -11930,15 +11933,15 @@ Other Window</source>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozloženie pri tlači</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť pozíciu okna</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravítko</translation>
     </message>
     <message>
         <source>Security</source>
@@ -11946,7 +11949,7 @@ Other Window</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazenie alebo skrytie</translation>
     </message>
     <message>
         <source>Show Document Map</source>
@@ -11958,11 +11961,11 @@ Other Window</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepnúť okná</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchrónne posúvanie</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -11982,7 +11985,7 @@ Other Window</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť súbežne</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -11990,7 +11993,7 @@ Other Window</source>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Webové rozloženie</translation>
     </message>
     <message>
         <source>Window</source>
@@ -11998,7 +12001,7 @@ Other Window</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
@@ -12368,7 +12371,7 @@ Other Window</source>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -12412,7 +12415,7 @@ Other Window</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -12428,7 +12431,7 @@ Other Window</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -12596,11 +12599,11 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -12700,7 +12703,7 @@ Other Window</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -12720,7 +12723,7 @@ Other Window</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -12760,7 +12763,7 @@ Other Window</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -13240,7 +13243,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.ArrangeAll</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Usporiadať všetko</translation>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
@@ -13341,7 +13344,7 @@ This option is available when grid is defined.</source>
     <name>tips.BringForward</name>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Bring forward the selected object, or place it in front of all other objects.</source>
@@ -13517,7 +13520,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola pravopisu</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
@@ -13657,7 +13660,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CmpSideBySide</name>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť súbežne</translation>
     </message>
     <message>
         <source>View two documents side by side to compare their contents.</source>
@@ -13742,7 +13745,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CrossReference</name>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Krížový odkaz</translation>
     </message>
     <message>
         <source>Use cross-reference to refer to headings and figures in the document.</source>
@@ -13775,7 +13778,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.Delete</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť</translation>
     </message>
     <message>
         <source>Delete the current cell, row, column or the whole table.</source>
@@ -14354,7 +14357,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať formát</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14445,7 +14448,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.Gridlines</name>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodiace čiary</translation>
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
@@ -14480,7 +14483,7 @@ This only affects tables which extend beyond a single page.</source>
     <name>tips.HeaderAndFooterSetting</name>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Show the Header/Footer dialog box.</source>
@@ -14491,7 +14494,7 @@ This only affects tables which extend beyond a single page.</source>
     <name>tips.HeaderFooter</name>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14622,7 +14625,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     <name>tips.InsertBlankPage</name>
     <message>
         <source>Blank Page</source>
-        <translation>Čistá strana</translation>
+        <translation>Prázdna strana</translation>
     </message>
     <message>
         <source>Click here to insert a horizontal or vertical blank page.</source>
@@ -14760,14 +14763,14 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový komentár</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum a čas</translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
@@ -14804,7 +14807,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Insert Footnote / Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť vysvetlivku</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14838,7 +14841,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertIndexTables</name>
     <message>
         <source>Insert Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť obsah</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15275,7 +15278,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchrónne posúvanie</translation>
     </message>
 </context>
 <context>
@@ -15410,7 +15413,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     <name>tips.NavigationPane</name>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigačná tabla</translation>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
@@ -15909,7 +15912,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrintLayoutView</name>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozloženie pri tlači</translation>
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
@@ -15935,14 +15938,14 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintShowViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravítko</translation>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
@@ -15997,7 +16000,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zabezpečiť dokument</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
@@ -16008,7 +16011,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>View items on Clipboard.</source>
@@ -16030,7 +16033,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.RB_Paragraph</name>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Show the Paragraph dialog box.</source>
@@ -16234,7 +16237,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravítko</translation>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
@@ -16278,7 +16281,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.SendBackward</name>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozadu</translation>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
@@ -16362,7 +16365,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvary</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16377,7 +16380,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa dokumentu</translation>
     </message>
     <message>
         <source>Show or hide the Document Map pane.</source>
@@ -16609,7 +16612,7 @@ Click the arrow to select subscript.</source>
     <name>tips.SwitchWindow</name>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepnúť okná</translation>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
@@ -16693,7 +16696,7 @@ Click the arrow to select different border colors.</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsah</translation>
     </message>
 </context>
 <context>
@@ -16825,7 +16828,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovať zmeny</translation>
     </message>
     <message>
         <source>Track all changes made to the document, including insertions, deletions and formatting changes.</source>
@@ -16887,7 +16890,7 @@ Click the arrow to select different underlining styles.</source>
     <name>tips.VerbSideBySide</name>
     <message>
         <source>Reset Window Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť pozíciu okna</translation>
     </message>
     <message>
         <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
@@ -16911,7 +16914,7 @@ To enable this feature, turn on View Side by Side.</source>
     <name>tips.ViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravítko</translation>
     </message>
     <message>
         <source>View the rulers used to measure and line up text and objects within the document.</source>
@@ -16939,7 +16942,7 @@ This is often used to indicate that the document is to be treated specially, suc
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodotlač</translation>
     </message>
 </context>
 <context>
@@ -16950,7 +16953,7 @@ This is often used to indicate that the document is to be treated specially, suc
     </message>
     <message>
         <source>Web Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Webové rozloženie</translation>
     </message>
 </context>
 <context>
@@ -17061,7 +17064,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet slov</translation>
     </message>
 </context>
 <context>
@@ -17096,14 +17099,14 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Align</name>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnať</translation>
     </message>
     <message>
         <source>Align the edges of multiple selected objects.
@@ -17154,7 +17157,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_ColumnsPalette</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Split text into two or more columns.</source>
@@ -17165,7 +17168,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_Group</name>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoskupiť</translation>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
@@ -17180,7 +17183,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Čísla riadkov</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -17229,7 +17232,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Page Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Orámovanie strán</translation>
     </message>
 </context>
 <context>
@@ -17251,7 +17254,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočiť</translation>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
@@ -17304,7 +17307,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalomiť text</translation>
     </message>
 </context>
 <context>
@@ -17315,7 +17318,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridať text</translation>
     </message>
 </context>
 <context>
@@ -17348,7 +17351,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepiť</translation>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
@@ -17527,7 +17530,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Mail Merge</source>
@@ -17571,7 +17574,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť súbežne</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -17614,7 +17617,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Záložky</translation>
     </message>
     <message>
         <source>Browse Objects</source>
@@ -17646,7 +17649,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola pravopisu</translation>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
@@ -17666,7 +17669,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
@@ -17738,7 +17741,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukončiť</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -17782,7 +17785,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazenie na celú obrazovku</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -17806,7 +17809,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepojenie</translation>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
@@ -17822,7 +17825,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <source>Insert Blank Field</source>
@@ -17842,7 +17845,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Makrá</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -17918,7 +17921,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehľad</translation>
     </message>
     <message>
         <source>Outline View</source>
@@ -17934,7 +17937,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepiť</translation>
     </message>
     <message>
         <source>Print</source>
@@ -17946,7 +17949,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozloženie pri tlači</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -18002,7 +18005,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastaviť jazyk</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -18094,7 +18097,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovať zmeny</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -18114,7 +18117,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <source>View Field Codes</source>
@@ -18126,7 +18129,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Webové rozloženie</translation>
     </message>
     <message>
         <source>Whole Table</source>
@@ -18138,7 +18141,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet slov</translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
@@ -18146,7 +18149,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
@@ -18207,7 +18210,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -18231,11 +18234,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Mailings</source>
-        <translation type="unfinished"></translation>
+        <translation>Korešpondencia</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigačná tabla</translation>
     </message>
     <message>
         <source>New Blank File</source>
@@ -18259,7 +18262,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehľad</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -18291,7 +18294,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Review</source>
-        <translation>Posúdiť</translation>
+        <translation>Revízia</translation>
     </message>
     <message>
         <source>Section</source>
@@ -18427,7 +18430,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička a päta</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -18435,11 +18438,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Domov</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <source>Login</source>
@@ -18451,11 +18454,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Mailings</source>
-        <translation type="unfinished"></translation>
+        <translation>Korešpondencia</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigačná tabla</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -18467,7 +18470,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehľad</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -18495,11 +18498,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Referencie</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Revízia</translation>
     </message>
     <message>
         <source>Section</source>
@@ -18539,7 +18542,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
