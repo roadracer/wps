@@ -356,678 +356,687 @@ condition is true: </source>
     </message>
     <message>
         <source>Top %1 Items</source>
-        <translation type="unfinished"></translation>
+        <translation> %1 itens superiores</translation>
     </message>
     <message>
         <source>Top %1 Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 porcento superiores</translation>
     </message>
     <message>
         <source>Bottom %1 Items</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 itens inferiores</translation>
     </message>
     <message>
         <source>Bottom %1 Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 porcento inferiores</translation>
     </message>
     <message>
         <source>Equals</source>
-        <translation type="unfinished"></translation>
+        <translation>Iguais</translation>
     </message>
     <message>
         <source>Equals &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Iguais a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not equal &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Não iguais a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Is after &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Depois de &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Greater than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Maior ou igual a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Is before &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Antes de &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Less than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Menor ou igual a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Begins with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Começa com &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not begin with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Não começa com &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Ends with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Termina com &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not end with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Não termina com &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Contains &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Contém &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not contain &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Não contém &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Greater than &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Maior que &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Less than &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Menor que &quot;%1&quot;</translation>
     </message>
     <message>
         <source>(Blanks)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Em branco)</translation>
     </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
     <message>
         <source>Invalid reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Referência inválida</translation>
     </message>
     <message>
         <source>What you entered is an invalid reference or name.</source>
-        <translation type="unfinished"></translation>
+        <translation>O que você inseriu é uma referência ou nome inválidos</translation>
     </message>
     <message>
         <source>Invalid data range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de dados inválido</translation>
     </message>
     <message>
         <source>Invalid criteria range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de critérios inválido</translation>
     </message>
     <message>
         <source>Invalid extract range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de extrato inválido</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse comando não pode ser usado em uma planilha protegida</translation>
     </message>
 </context>
 <context>
     <name>KxAfFilterThisOneLabel</name>
     <message>
         <source>Filter this item only</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar este item apenas</translation>
     </message>
     <message>
         <source>Clear filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar filtro</translation>
     </message>
 </context>
 <context>
     <name>KxAfTreeViewHeaderWidget</name>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Múltiplo</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Único</translation>
     </message>
 </context>
 <context>
     <name>KxAlignWidget</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto inteiro ilegal</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor deve estar entr %1 e %2.</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar como</translation>
     </message>
 </context>
 <context>
     <name>KxCalcResumer</name>
     <message>
         <source>Calculate</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular</translation>
     </message>
 </context>
 <context>
     <name>KxChangeRangePasswordDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha de confirmação não é idêntica.</translation>
     </message>
 </context>
 <context>
     <name>KxCirculareReferencesDlg</name>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Livro</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Planilha</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Célula</translation>
     </message>
 </context>
 <context>
     <name>KxConditionFormatDlg</name>
     <message>
         <source>&amp;Format...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formatar...</translation>
     </message>
     <message>
         <source>F&amp;ormat...</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;ormatar...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fo&amp;rmatar...</translation>
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deve especificar critérios para todos os formatos condicionais.</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation type>Um valor máximo ou mínimo está faltando.</translation>
     </message>
 </context>
 <context>
     <name>KxConsolidateDlg</name>
     <message>
         <source> - Reference location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Local de referência:</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Soma</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Contagem</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Média</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Máximo</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"></translation>
+        <translation>Produto</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation type="unfinished"></translation>
+        <translation>Contagem de números</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished"></translation>
+        <translation>StdDev</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished"></translation>
+        <translation>StdDevp</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished"></translation>
+        <translation>Var</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished"></translation>
+        <translation>Varp</translation>
     </message>
     <message>
         <source>All files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos(*.*)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegar</translation>
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível adicionar referência de fonte duplicada.</translation>
     </message>
 </context>
 <context>
     <name>KxControlWidget</name>
     <message>
         <source>Input error, the value must be a Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro de entrada, o valor deve ser um número.</translation>
     </message>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>A medida deve estar entre %1 e %2.</translation>
     </message>
     <message>
         <source>The scroll value maximum cannot be less than the scroll value minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor máximo não pode ser menor que o valor mínimo.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation type="unfinished"></translation>
+        <translation>O texto que você inseriu não é uma referência válida ou nome definido.</translation>
     </message>
 </context>
 <context>
     <name>KxCreatePivotTableDlg</name>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode modificar a Tabela Pivô com estes dados. Por favor, verifique seus dados e se certifique que a referência é válida e que a planilha de trabalho existe.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>A referência não é válida.</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar Tabela Pivô</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode criar uma Tabela Pivô com estes dados. Por favor, verifique se os dados que você quer analisar seguem as seguintes condições:
+1.Certifique-se que a referência existe. Se for um nome, deve ser um intervalo válido;
+2.Certifique-se que a referência é um intervalo único, e deve coner no mínimo duas colunas;
+3.Certifique-se que a primeira coluna do intervalo de referência não contém células vazias, nenhum valor com erro, e que cada célula contém não mais que 255 caractéres.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>A posição que você escolhe para colocar a Tabela Pivô não é válida. Por favor, certifique-se que seja um intervalo de referência válido, e não um intervalo de uma planilha oculta.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode criar uma Tabela Pivô com estes dados. Por favor, verifique seus dados e se certifique que a referência é válida e que a planilha de trabalho existe.</translation>
     </message>
 </context>
 <context>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulação</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Figura</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabeçalho</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodapé</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;[%1]</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos as figuras</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Enhanced Metafile</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Metafile</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG File InterChange Format</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Network Graphics</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Bitmap</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphics Interchange Format</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Tag Image File Format</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished"></translation>
+        <translation type>O cabeçalho ou rodapé (total da seção esquerda, centro e direita) não pode ser maior que 255 caractéres. Exclua algum texto, ou faça a formatação menos complexa.</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, click OK.
 To keep existing picture, click Cancel button.</source>
-        <translation type="unfinished"></translation>
+        <translation>SOmente uma figura pode ser inserida em cada seção de %1.
+
+Para subistituir a figura existente, clique em OK.
+Para manter a figura existente, clique no botão Cancelar.</translation>
     </message>
 </context>
 <context>
     <name>KxDefineNameDlg</name>
     <message>
         <source> - Reference location:</source>
-        <translation type="unfinished"></translation>
+        <translation> - Local de referência:</translation>
     </message>
     <message>
         <source>workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Livro de trabalho</translation>
     </message>
     <message>
         <source>The name is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome está vazio.</translation>
     </message>
     <message>
         <source>That name is not valid or the formula contains an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome não pe valido ou a fórmula contém um erro.</translation>
     </message>
     <message>
         <source>Error occurred when deleting the items!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro ao deletar os itens!</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAdcancedFilter</name>
     <message>
         <source>Advanced Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro avançado</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ação</translation>
     </message>
     <message>
         <source>&amp;Filter the list, in-place</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Filtrar a lista, no local</translation>
     </message>
     <message>
         <source>C&amp;opy to another location</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;opiar para outro local</translation>
     </message>
     <message>
         <source>&amp;List range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de &amp;lista:</translation>
     </message>
     <message>
         <source>&amp;Criteria range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de &amp;critérios</translation>
     </message>
     <message>
         <source>Copy &amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar &amp;para:</translation>
     </message>
     <message>
         <source>Extends range, may co&amp;vers the original data</source>
-        <translation type="unfinished"></translation>
+        <translation>Extender intervalo, pode co&amp;brir os dados originais</translation>
     </message>
     <message>
         <source>Unique &amp;records only</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Registris únicos apenas</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAllowUsersToEditRanges</name>
     <message>
         <source>Allow Users to Edit Ranges</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir que usuários editem intervalos</translation>
     </message>
     <message>
         <source>&amp;Ranges unlocked by a password when sheet is protected:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Intervalo desbloqueado por senha quando a planilha está protegida:</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Refers to cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Refere a células</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Novo...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modificar...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Excluir</translation>
     </message>
     <message>
         <source>Pr&amp;otect Sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Proteger planilha...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAssignMacro</name>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Atribuir macro</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do &amp;Macro:</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Limpar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCellPasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar especial</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tudo</translation>
     </message>
     <message>
         <source>All e&amp;xcept borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudo e&amp;xceto bordas</translation>
     </message>
     <message>
         <source>&amp;Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fórmulas</translation>
     </message>
     <message>
         <source>Column &amp;widths</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Larguras de coluna</translation>
     </message>
     <message>
         <source>&amp;Values</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Valores</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas and number formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Fo&amp;rmatos de números e fórmulas</translation>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma&amp;tos</translation>
     </message>
     <message>
         <source>Val&amp;ues and number formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatos de números e vol&amp;ores</translation>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Operação</translation>
     </message>
     <message>
         <source>N&amp;one</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;enhuma</translation>
     </message>
     <message>
         <source>&amp;Multiply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Multiplicar</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;dicionar</translation>
     </message>
     <message>
         <source>D&amp;ivide</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ividir</translation>
     </message>
     <message>
         <source>&amp;Subtract</source>
-        <translation type="unfinished"></translation>
+        <translation&amp;Subtrair></translation>
     </message>
     <message>
         <source>Skip &amp;blanks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pular em branco</translation>
     </message>
     <message>
         <source>Transpos&amp;e</source>
-        <translation type="unfinished"></translation>
+        <translation>Tras&amp;por</translation>
     </message>
 </context>
 <context>
     <name>KxDlgChangeRangePassword</name>
     <message>
         <source>Change Range Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar senha do intervalo</translation>
     </message>
     <message>
         <source>&amp;New password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nova senha:</translation>
     </message>
     <message>
         <source>&amp;Confirm new password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Confirmar nova senha:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConditionFormat</name>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatação condicional</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;3</translation>
     </message>
     <message>
         <source>&amp;Add&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation&amp;Adicionar&gt;&gt;></translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Excluir...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
         <source>Confirm Password of Range Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar senha do diálogo de intervalo</translation>
     </message>
     <message>
         <source>&amp;Reenter password to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reinsira a senha para prosseguir.</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place. (Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenção: Se você perder ou esquecer a senha, ela não poderá ser recuperada. É recomendável manter uma lista de senha e seus livros de trabalho correspondentes e nomes de planilha em um local seguro. (Lembre-se que as senhas diferenciam maiúsculas de minúsculas.)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConfirmProtectSheet</name>
     <message>
         <source>Confirm Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar senha</translation>
     </message>
     <message>
         <source>&amp;Reenter password to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reinsira a senha para prosseguir.</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be 
 recovered. It is advisable to keep a list of passwords and 
 their corresponding workbook and sheet names in a safe 
 place.(Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenção: Se você perder ou esquecer a senha, ela não poderá ser
+recuperada. É recomendável manter uma lista de senha e
+seus livros de trabalho correspondentes e nomes de planilha em um local
+seguro. (Lembre-se que as senhas diferenciam maiúsculas de minúsculas.)</translation>
     </message>
 </context>
 <context>
