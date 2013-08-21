@@ -11,12 +11,6 @@ required to translate KSO/WPS. You can install them by follow command in Ubuntu:
 
 Other system is similar.
 
-There codes assume that KSO/WPS is installed to /opt/kingsoft/wps-office. If you 
-install KSO/WPS by deb or rpm package, nothing need to do. If KSO/WPS is installed
-by green package. You must do follow command:
-
-	$ sudo ln -s absolute_path_to_you_kso_dir /opt/kingsoft/wps-office
-
 Directory structure
 --------------------------------------------------------------------------------
 	
@@ -60,7 +54,7 @@ And then, you need a icon file, put to vi\_VI. You can ignore it currently.
 
 Now save you changes. All you need is the follow command:
 
-	$ sudo make install
+	$ make install
 
 Restart wps, and you will see what you want.
 
@@ -72,8 +66,8 @@ How to install/uninstall language support
 It's very easy:
 
 	$ cd xx_XX
-	$ sudo make install    # install
-	$ sudo make uninstall  # uninstall
+	$ make install    # install
+	$ make uninstall  # uninstall
 
 How to translate strings
 --------------------------------------------------------------------------------
@@ -97,7 +91,7 @@ the strings in these files will be shown to user at first time.
 
 Once you translated some strings, you can save and run
 
-	$ sudo make install
+	$ make install
 
 to install and test your works.
 
