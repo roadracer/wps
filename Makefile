@@ -1,11 +1,11 @@
 all:
-	./each_locale make all
+	./each_locale $(MAKE) all
 
 install:
-	./each_locale make install
+	./each_locale $(MAKE) install
 
 uninstall:
-	./each_locale make uninstall
+	./each_locale $(MAKE) uninstall
 
 clean:
-	./each_locale make clean
+	./each_locale $(MAKE) clean
