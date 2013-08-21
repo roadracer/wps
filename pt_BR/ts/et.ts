@@ -217,7 +217,7 @@ condition is true: </source>
     </message>
     <message>
         <source>(Select all)</source>
-        <translation(Selecionar tudo)></translation>
+        <translation>(Selecionar tudo)</translation>
     </message>
     <message>
         <source>Add current selection to filter</source>
