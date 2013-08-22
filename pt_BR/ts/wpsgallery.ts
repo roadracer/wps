@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>Directory:</source>
-        <translation>Diretório</translation>
+        <translation>Diretório:</translation>
     </message>
     <message>
         <source>Notes:</source>
@@ -78,11 +78,11 @@
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Desktop.ini name.</translation>
+        <translation>\Kingsoft Office\AppData\Desktop.ini nome.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\My Materials\Desktop.ini name</translation>
+        <translation>\Kingsoft Office\AppData\My Materials\Desktop.ini nome.</translation>
     </message>
 </context>
 <context>
