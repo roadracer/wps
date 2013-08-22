@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Seu documento habilitou o backup automático agora!&lt;br /&gt;Arquivo de backup será criado no Office Space cada vez que o documento for fechado</translation>
+        <translation>Seu documento habilitou o backup automático agora!&lt;br /&gt;Arquivo de backup será criado no Office Space cada vez que o documento for fechado.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Login klive before opening files.</source>
-        <translation">Acesse klive antes de abrir arquivos.</translation>
+        <translation>Acesse klive antes de abrir arquivos.</translation>
     </message>
     <message>
         <source>Login klive before deleting files.</source>
@@ -379,7 +379,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>&amp;Forward</source>
-        <translation>Avançar</translation>
+        <translation>&amp;Avançar</translation>
     </message>
     <message>
         <source>Go ahead directory</source>
@@ -387,7 +387,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>&amp;Up</source>
-        <translation>S%amp;ubir</translation>
+        <translation>S&amp;ubir</translation>
     </message>
     <message>
         <source>Alt+Up</source>
@@ -555,7 +555,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Newing Folder, Please wait..</source>
-        <translation>Criando nova pasta, por favor espere...</translation>
+        <translation>Criando nova pasta, por favor espere..</translation>
     </message>
     <message>
         <source>Create</source>
