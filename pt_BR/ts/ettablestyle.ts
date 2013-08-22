@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation>Opções de estilo da tabela</translation>
+        <translation>Opções de estilo da tabela:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
