@@ -492,7 +492,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation>Valor deve estar entr %1 e %2.</translation>
+        <translation>Valor deve estar entre %1 e %2.</translation>
     </message>
 </context>
 <context>
@@ -551,7 +551,7 @@ condition is true: </source>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
-        <translation type>Um valor máximo ou mínimo está faltando.</translation>
+        <translation>Um valor máximo ou mínimo está faltando.</translation>
     </message>
 </context>
 <context>
@@ -657,8 +657,8 @@ condition is true: </source>
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
         <translation>Você não pode criar uma Tabela Pivô com estes dados. Por favor, verifique se os dados que você quer analisar seguem as seguintes condições:
 1.Certifique-se que a referência existe. Se for um nome, deve ser um intervalo válido;
-2.Certifique-se que a referência é um intervalo único, e deve coner no mínimo duas colunas;
-3.Certifique-se que a primeira coluna do intervalo de referência não contém células vazias, nenhum valor com erro, e que cada célula contém não mais que 255 caractéres.</translation>
+2.Certifique-se que a referência é um intervalo único, e deve conter no mínimo duas linhas;
+3.Certifique-se que a primeira linha do intervalo de referência não contém células vazias, nenhum valor com erro, e que cada célula contém não mais que 255 caractéres.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
