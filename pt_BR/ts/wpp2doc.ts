@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Slides(&amp;P):</source>
-        <translation>Slides(&amp;P)</translation>
+        <translation>Slides(&amp;P):</translation>
     </message>
     <message>
         <source>Converted Layout</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Slide per page(&amp;E):</source>
-        <translation>Slide por página(&amp;E)</translation>
+        <translation>Slide por página(&amp;E):</translation>
     </message>
     <message>
         <source>1</source>
@@ -172,7 +172,7 @@
     <name>kxProgressdlg</name>
     <message>
         <source>The conversion is completed.</source>
-        <translation>A conversão está completa</translation>
+        <translation>A conversão está completa.</translation>
     </message>
     <message>
         <source>Close</source>
