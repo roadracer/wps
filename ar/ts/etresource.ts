@@ -3656,7 +3656,7 @@ On</source>
     </message>
     <message>
         <source>Lookup/Reference</source>
-        <translation>بحث/مرجع</translation>
+        <translation>بحث/مراجع</translation>
     </message>
     <message>
         <source>Math/Trig</source>
@@ -8388,7 +8388,7 @@ AddIns</source>
     </message>
     <message>
         <source>Lookup/Reference</source>
-        <translation>بحث/مرجع</translation>
+        <translation>بحث/مراجع</translation>
     </message>
     <message>
         <source>Math/Trig</source>
@@ -11133,7 +11133,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Browse and select from the list that contains all of the functions.</source>
-        <translation>تصفح وتحديد من القائمة التي تحتوي كل الدوال.</translation>
+        <translation>تصفح وتحديد دالة من القائمة التي تحتوي كل الدوال.</translation>
     </message>
 </context>
 <context>
@@ -11250,7 +11250,9 @@ Once filtering is turned on, click the arrow in the column header to choose a fi
         <source>Prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets.
 
 You can specify a password that can be entered to unprotect the workbook and allow these changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>منع التغييرات غير المرغوب فيها في بنية دفتر العمل، مثل نقل، حذف، أو إضافة ورقة.
+
+يمكنك تحديد كلمة المرور التي تتيح لك إلغاء حماية دفتر العمل وتطبيق هذه التغييرات.</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
@@ -11265,7 +11267,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.BottomBorder</name>
     <message>
         <source>Apply borders to the currently selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق الجوانب إلى الخلايا الحالية المحددة.</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -11276,11 +11278,11 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.BottomDoubleBorder</name>
     <message>
         <source>Add a bottom double border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة جانب سفلي مضاعف للخلايا المحددة.</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation>جانب سفلي مضاعف</translation>
     </message>
 </context>
 <context>
@@ -11306,7 +11308,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Enter design mode to edit controls name and functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>الدخول إلى وضع التصميم لتعديل أسماء أدوات التحكم والدوال.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -11336,7 +11338,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
@@ -11355,7 +11357,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -11370,11 +11372,11 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.ChangeChartType</name>
     <message>
         <source>Change the chart type</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير نوع المخطط</translation>
     </message>
     <message>
         <source>Change the current chart type.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير نوع المخطط الحالي.</translation>
     </message>
 </context>
 <context>
@@ -11403,7 +11405,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.Chart</name>
     <message>
         <source>Create Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء مخطط</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
@@ -11418,11 +11420,11 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.ChartObjects</name>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>كائنات المخطط</translation>
     </message>
     <message>
         <source>Select a chart element so that you can format it.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد عنصر من عناصر التخطيط لتنسيقه.</translation>
     </message>
 </context>
 <context>
@@ -11440,35 +11442,37 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.CircularReferences</name>
     <message>
         <source>Circular References</source>
-        <translation type="unfinished"></translation>
+        <translation>مراجع معادة</translation>
     </message>
     <message>
         <source>Launch the Circular References dialog box. You can search and locate all cells that contain circular references in the workbook.
 
 Double-click an item in the list of results to switch the corresponding cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل مربع الحوار مراجع معادة. يمكنك البحث وتحديد كافة الخلايا التي تحتوي على مراجع معادة في دفتر العمل.
+
+انقر نقرا مزدوجا فوق عنصر في قائمة النتائج لتبديل الخلية المقابلة.</translation>
     </message>
 </context>
 <context>
     <name>tips.Clear</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح</translation>
     </message>
     <message>
         <source>Delete everything from the cell, or selectively remove the formatting, the contents, or the comments.</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف كل شيء من الخلية، أو إزالة تنسيق أو محتويات أو تعليقات  انتقائيا .</translation>
     </message>
 </context>
 <context>
     <name>tips.ClearFilter</name>
     <message>
         <source>Clear the filter and sort state for the current range of data.</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح عامل الفرز وحالة الفرز للنطاق الحالي من البيانات.</translation>
     </message>
     <message>
         <source>Display All</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الكل</translation>
     </message>
 </context>
 <context>
@@ -11486,7 +11490,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <name>tips.CloseDevelopmentTools</name>
     <message>
         <source>Click here to hide the Development Tool tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر هنا لإخفاء لوحة أداة التطوير.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -11497,7 +11501,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <name>tips.CloseOtherWindow</name>
     <message>
         <source>Close Other Window</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق نافذة أخرى</translation>
     </message>
     <message>
         <source>Close all other windows except the current one.</source>
@@ -11519,18 +11523,18 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <name>tips.ColumnsCenter</name>
     <message>
         <source>Column Center</source>
-        <translation type="unfinished"></translation>
+        <translation>توسيط الأعمدة</translation>
     </message>
     <message>
         <source>Select continuous cells in one line or multiple lines, set the content of the cells to the center.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الخلايا المتصلة في سطر واحد أو عدة أسطر، ثم تعيين محتوى الخلايا إلى المركز.</translation>
     </message>
 </context>
 <context>
     <name>tips.ComAddin</name>
     <message>
         <source>Add or delete the available COM Add-Ins.</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة أو حذف الوظائف الإضافية COM المتوفرة.</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -11541,13 +11545,15 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <name>tips.CommaStyle</name>
     <message>
         <source>Comma Style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الفواصل</translation>
     </message>
     <message>
         <source>Display the value of the cell with a thousands separator.
 
 This will change the format of the cell to Accounting without a currency symbol.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض القيمة من الخلية مع فاصل الآلاف.
+
+سيؤدي ذلك إلى تغيير تنسيق الخلية إلى المحاسبة دون رمز العملة.</translation>
     </message>
 </context>
 <context>
@@ -11565,26 +11571,26 @@ This will change the format of the cell to Accounting without a currency symbol.
     <name>tips.ConditionalFormat</name>
     <message>
         <source>Conditional Format</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق شرطي</translation>
     </message>
     <message>
         <source>Visually explore and analyze data, detect critical issues, and identify patterns and trends.</source>
-        <translation type="unfinished"></translation>
+        <translation>استكشاف بصري وتحليل البيانات، والكشف عن القضايا الحرجة، وتحديد الأنماط والاتجاهات.</translation>
     </message>
 </context>
 <context>
     <name>tips.Consolidate</name>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
-        <translation type="unfinished"></translation>
+        <translation>الجمع بين القيم من نطاقات متعددة في نطاق واحد جديد.</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"></translation>
+        <translation>دعم</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11606,11 +11612,11 @@ This will change the format of the cell to Accounting without a currency symbol.
     <name>tips.Count</name>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>إحصاء</translation>
     </message>
     <message>
         <source>Count the number of cells in a column that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>إحصاء عدد الخلايا في العمود التي تحتوي على أرقام.</translation>
     </message>
 </context>
 <context>
@@ -11619,11 +11625,13 @@ This will change the format of the cell to Accounting without a currency symbol.
         <source>Choose an alternate currency format for the selected cell.
 
 For instance, choose Euros instead of Dollars.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار عملة بديلة للخلية المحددة.
+
+على سبيل المثال، اختيار اليورو بدلا من الدولار.</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>عملة</translation>
     </message>
 </context>
 <context>
@@ -11641,29 +11649,29 @@ For instance, choose Euros instead of Dollars.</source>
     <name>tips.DataGroup</name>
     <message>
         <source>New group</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة جديدة</translation>
     </message>
     <message>
         <source>Tie a range of cells together so that they can be collapsed or expanded.</source>
-        <translation type="unfinished"></translation>
+        <translation>ربط مجموعة من الخلايا معا بحيث يمكن تقليصها أو توسيعها.</translation>
     </message>
 </context>
 <context>
     <name>tips.DataSort</name>
     <message>
         <source>Launch the Sort dialog box to sort data based on several criteria at once.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل مربع الحوار ترتيب لفرز البيانات على أساس عدة معايير دفعة واحدة.</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب</translation>
     </message>
 </context>
 <context>
     <name>tips.DataTable</name>
     <message>
         <source>Add a data table to the chart.</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة جدول بيانات إلى التخطيط.</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -11674,7 +11682,7 @@ For instance, choose Euros instead of Dollars.</source>
     <name>tips.DataUngroup</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -11682,7 +11690,7 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
     <message>
         <source>Ungroup a range of cells that were previously grouped.</source>
-        <translation type="unfinished"></translation>
+        <translation>فك تجميع مجموعة من الخلايا التي تم تجميعها سابقا.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11693,11 +11701,11 @@ For instance, choose Euros instead of Dollars.</source>
     <name>tips.DecreaseDecimal</name>
     <message>
         <source>Decrease Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>إنقاص الأرقام العشرية</translation>
     </message>
     <message>
         <source>Show less precise values by showing fewer decimal places.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار قيم أقل دقة من خلال إظهار منازل عشرية أقل.</translation>
     </message>
 </context>
 <context>
@@ -11708,7 +11716,7 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
     <message>
         <source>Decrease the margin between the border and the text in the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>تخفيض الهامش بين الجوانب والنص في الخلية.</translation>
     </message>
 </context>
 <context>
@@ -11719,22 +11727,22 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
     <message>
         <source>Delete the selected comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف التعليق المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteRange</name>
     <message>
         <source>Click here to delete cells, rows, or the entire worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر هنا لحذف خلايا أو صفوف، أو ورقة العمل بأكملها.</translation>
     </message>
     <message>
         <source>Delete cells</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الخلايا</translation>
     </message>
     <message>
         <source>Delete the cells, rows, or columns in worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف خلايا أو صفوف، أو ورقة العمل بأكملها.</translation>
     </message>
 </context>
 <context>
@@ -11796,11 +11804,11 @@ For instance, choose Euros instead of Dollars.</source>
     <name>tips.DetailedSettings_WordArt</name>
     <message>
         <source>DetailedSettings WordArt Content</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>DetailedSettings WordArt Title</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11835,7 +11843,9 @@ For instance, choose Euros instead of Dollars.</source>
         <source>Show the lines between rows and columns in the sheet to make editing and reading easier.
 
 These lines will not print unless Print is also checked.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار الخطوط الفاصلة بين الصفوف والأعمدة في الورقة لجعل التحرير والقراءة أكثر سهولة.
+
+لن تطبع هذه السطور ما لم يتم فرض طباعتها.</translation>
     </message>
 </context>
 <context>
@@ -11850,7 +11860,11 @@ These lines will not print unless Print is also checked.</source>
 Row headings are the row numbers to the side of the sheet. 
 
 Column headings are the letters or numbers that appear above the columns on a sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار عناوين الصفوف والأعمدة.
+
+عناوين الصفوف هي أرقام الصفوف إلى جانب الورقة.
+
+عناوين الأعمدة هي الحروف أو الأرقام التي تظهر فوق الأعمدة على ورقة.</translation>
     </message>
 </context>
 <context>
@@ -11863,7 +11877,9 @@ Column headings are the letters or numbers that appear above the columns on a sh
         <source>To draw border line, click this option and drag the mouse to draw.
 
 Press Esc on the keyboard or click this option again to exit the drawing mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>لرسم خط الجوانب، انقر فوق هذا الخيار واسحب الماوس.
+
+اضغط على ESC على لوحة المفاتيح أو النقر على هذا الخيار مرة أخرى للخروج من وضع الرسم.</translation>
     </message>
 </context>
 <context>
@@ -11876,27 +11892,31 @@ Press Esc on the keyboard or click this option again to exit the drawing mode.</
         <source>To draw border grid, click this option and drag the mouse to draw.
 
 Press Esc on the keyboard or click this option again to exit the drawing mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>لرسم شبكة الجوانب، انقر فوق هذا الخيار واسحب الماوس.
+
+اضغط على ESC على لوحة المفاتيح أو النقر على هذا الخيار مرة أخرى للخروج من وضع الرسم.</translation>
     </message>
 </context>
 <context>
     <name>tips.Duplicates</name>
     <message>
         <source>Duplicated Values</source>
-        <translation type="unfinished"></translation>
+        <translation>قيم مكررة</translation>
     </message>
     <message>
         <source>Highlight, Reject Input or Remove duplicate rows from a sheet.
 
 You can specify which columns should be checked for duplicate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>إبراز، رفض إدخال أو إزالة صفوف مكررة من ورقة.
+
+يمكنك تحديد أي من الأعمدة ينبغي التحقق منها للحصول على معلومات مكررة.</translation>
     </message>
 </context>
 <context>
     <name>tips.DynamicShape</name>
     <message>
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج الأشكال الجاهزة، مثل الخطوط والمستطيلات، ورموز تخطيطات انسيابية ووسائل الشرح.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -11915,15 +11935,15 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EDRProperties</name>
     <message>
         <source>Change the external data source names, number format and layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير أسماء مصدر بيانات خارجي، تنسيق العدد والتخطيط.</translation>
     </message>
     <message>
         <source>External Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص نطاق البيانات الخارجية</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11934,11 +11954,11 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EditCloumns</name>
     <message>
         <source>Edit Column</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير العمود</translation>
     </message>
     <message>
         <source>View the formula bar, in which you can enter text and formulas into cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض شريط المعادلات، حيث يمكنك إدخال النص والمعادلات في الخلايا.</translation>
     </message>
 </context>
 <context>
@@ -11949,33 +11969,33 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Edit the selected comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير التعليق المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.EditCrossBookLinks</name>
     <message>
         <source>Edit Cross Book Links</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير روابط ما بين الدفاتر</translation>
     </message>
     <message>
         <source>In order to update data or delete links, view all the files that have been linked to this workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>من أجل تحديث البيانات أو حذف الروابط، وعرض جميع الملفات التي تم ربطها إلى دفتر العمل هذا.</translation>
     </message>
 </context>
 <context>
     <name>tips.EditOleDBQuery</name>
     <message>
         <source>Edit the OLE DB query</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل طلب قاعدة بيانات OLE</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Select the command type, input a relevent query statement and filter the data imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد نوع الأمر، إدخال عبارة الاستعلام ذات الصلة وتحديد البيانات التي تم استيرادها.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12008,35 +12028,37 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EquationEditor</name>
     <message>
         <source>Insert Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج صيغ</translation>
     </message>
     <message>
         <source>Use Equation Editor to insert mathematical formulas.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام محرر المعادلات لإدراج الصيغ الرياضية.</translation>
     </message>
 </context>
 <context>
     <name>tips.Eraseborder</name>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح الجانب</translation>
     </message>
     <message>
         <source>To erase border, click this option and drag the mouse to erase.
 
 Press Esc on the keyboard or click this option again to exit the erasing mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>لمسح الجوانب، انقر فوق هذا الخيار واسحب الماوس.
+
+اضغط على ESC على لوحة المفاتيح أو النقر على هذا الخيار مرة أخرى للخروج من وضع المسح.</translation>
     </message>
 </context>
 <context>
     <name>tips.EvaluateFormula</name>
     <message>
         <source>Evaluate Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>تقييم الصيغة</translation>
     </message>
     <message>
         <source>Launch the Evaluate Formula dialog box to debug a formula by evaluating each part of the formula individually.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل مربع الحوار &quot;تقييم الصيغة&quot; لتصحيح صيغة ما من خلال تقييم كل جزء فيها بشكل فردي.</translation>
     </message>
 </context>
 <context>
@@ -12047,7 +12069,7 @@ Press Esc on the keyboard or click this option again to exit the erasing mode.</
     </message>
     <message>
         <source>Exit Print Preview and return to the document-editing mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>مغادرة معاينة قبل الطباعة والعودة إلى وضع تحرير الوثيقة.</translation>
     </message>
 </context>
 <context>
@@ -12076,11 +12098,11 @@ Press Esc on the keyboard or click this option again to exit the erasing mode.</
     <name>tips.FTB_EditCode</name>
     <message>
         <source>Edit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير الكود</translation>
     </message>
     <message>
         <source>Start the Visual Basic Editor to edit the selected form code.</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء تشغيل محرر Visual-Basic لتعديل شفرة النموذج المحدد.</translation>
     </message>
 </context>
 <context>
@@ -12091,14 +12113,14 @@ Press Esc on the keyboard or click this option again to exit the erasing mode.</
     </message>
     <message>
         <source>Set the selected form object properties, such as font and size.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين خصائص الكائن للنموذج المحدد، مثل خط الكتابة والحجم.</translation>
     </message>
 </context>
 <context>
     <name>tips.Fill</name>
     <message>
         <source>According to certain rules, you can fill the contents of a cell in any direction to adjacent cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>وفقا لقواعد معينة، يمكنك ملء محتويات خلية في أي اتجاه إلى الخلايا المجاورة.</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -12136,7 +12158,7 @@ Click the arrow to select a different background color.</source>
     <name>tips.Financial</name>
     <message>
         <source>Browse and select from a list of financial functions.</source>
-        <translation>تصفح وتحديد من قائمة الدوال المالية.</translation>
+        <translation>تصفح وتحديد دالة من قائمة الدوال المالية.</translation>
     </message>
     <message>
         <source>Financial Function</source>
@@ -12149,7 +12171,9 @@ Click the arrow to select a different background color.</source>
         <source>Find and select specific text formatting or type of information within the workbook. 
 
 You can also replace the information with new text or formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>البحث وتحديد تنسيق نص معين أو نوع من المعلومات داخل دفتر العمل.
+
+يمكنك أيضا استبدال المعلومات بنص أو تنسيق جديد.</translation>
     </message>
     <message>
         <source>Find/Replace</source>
@@ -12187,11 +12211,11 @@ Click the arrow to select a different text color.</source>
     <name>tips.FontFormatCells</name>
     <message>
         <source>Format Cells: Font</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق الخلايا: خط الكتابة</translation>
     </message>
     <message>
         <source>Show the Font tab of the Format Cells dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار لوحة الخط من مربع الحوار &quot;تنسيق الخلايا&quot;.</translation>
     </message>
 </context>
 <context>
@@ -12220,11 +12244,11 @@ Click the arrow to select a different text color.</source>
     <name>tips.FormatChartObject</name>
     <message>
         <source>Format the selected content</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق المحتوى المحدد</translation>
     </message>
     <message>
         <source>Launch the Format dialog box of chart objects. You can use detailed settings for chart options.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل مربع الحوار &quot;تنسيق كائنات التخطيط&quot; لتتمكن من استخدام الإعدادات التفصيلية للحصول على خيارات التخطيط.</translation>
     </message>
 </context>
 <context>
@@ -12235,7 +12259,7 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Launch the Format Object dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل مربع الحوار تنسيق كائن.</translation>
     </message>
 </context>
 <context>
@@ -12244,7 +12268,9 @@ Click the arrow to select a different text color.</source>
         <source>Copy formatting from one place and apply it to another.
 
 Double-click this button to apply the same formatting to multiple places in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ التنسيق من مكان وتطبيقه على مكان آخر.
+
+انقر نقرا مزدوجا فوق هذا الزر لتطبيق نفس التنسيق إلى أماكن متعددة من المستند.</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -12252,7 +12278,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12263,79 +12289,81 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.FormatStyle</name>
     <message>
         <source>Format Style</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق النمط</translation>
     </message>
     <message>
         <source>Make different combinations of the cell formats, such as number or alignment formats, then generate these formats into one.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء مجموعات مختلفة من تنسيقات الخلايا، مثل العدد أو محاذاة الأشكال، ثم تجميع هذه التنسيقات في تنسيق واحد.</translation>
     </message>
 </context>
 <context>
     <name>tips.FreezePanes</name>
     <message>
         <source>Freeze Panes(Unfreeze Panes)</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميد الألواح (إلغاء تجميد الألواح)</translation>
     </message>
     <message>
         <source>Keep a portion of the sheet visible while the rest of the sheet scrolls. (You can cancel the lock to scroll through the whole worksheet).</source>
-        <translation type="unfinished"></translation>
+        <translation>الحفاظ على جزء من الورقة مرئيا في حين أن بقية الورقة تلتف. (يمكنك إلغاء القفل للتمرير من خلال ورقة العمل بأكملها).</translation>
     </message>
 </context>
 <context>
     <name>tips.FullScreenMode</name>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>ملء الشاشة</translation>
     </message>
     <message>
         <source>View the document in Full Screen Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض المستند في وضع ملء الشاشة</translation>
     </message>
 </context>
 <context>
     <name>tips.FuncCatDateAndTime</name>
     <message>
         <source>Browse and select from a list of date and time functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح وتحديد دالة من قائمة دوال التاريخ والوقت.</translation>
     </message>
     <message>
         <source>Date and Time Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>دوال التاريخ والوقت</translation>
     </message>
 </context>
 <context>
     <name>tips.FuncCatMoreFunctions</name>
     <message>
         <source>Browse and select from lists of statistical, engineering, and information functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح وتحديد دالة من قوائم الدوال الإحصائية، والهندسية، والمعلوماتية.</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من الدوال</translation>
     </message>
 </context>
 <context>
     <name>tips.FuncCatText</name>
     <message>
         <source>Browse and select from a list of text functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح وتحديد دالة من قائمة الدوال النصية.</translation>
     </message>
     <message>
         <source>Text Function</source>
-        <translation type="unfinished"></translation>
+        <translation>دالة نصية</translation>
     </message>
 </context>
 <context>
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Office Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>معرض رسوم Kingsoft-Office</translation>
     </message>
     <message>
         <source>The Kingsoft Office gallery has pictures that you can use, save, or edit.
 
 The online gallery, included in the Kingsoft Office gallery, can be used when you access the Internet. My Gallery allows you to access the gallery without a connection to the Internet after you log in.</source>
-        <translation type="unfinished"></translation>
+        <translation>معرض Kingsoft-Office يحتوي صورا يمكنك استخدامها أو حفظها أو تعديلها.
+
+معرض الإنترنت المضمن في معرض Kingsoft-Office يمكن استخدامه عند الدخول إلى الإنترنت. معرضي يسمح لك بالوصول إلى معرض الصور دون وجود اتصال بالإنترنت بعد تسجيل الدخول.</translation>
     </message>
 </context>
 <context>
@@ -12350,11 +12378,11 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
     </message>
     <message>
         <source>LinkText</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>LinkUrl</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12365,7 +12393,7 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
     </message>
     <message>
         <source>Group objects together so that they can be treated like a single object.</source>
-        <translation type="unfinished"></translation>
+        <translation>تجميع الكائنات معا بحيث يمكن معالجتها مثل كائن واحد.</translation>
     </message>
 </context>
 <context>
@@ -12385,7 +12413,9 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
         <source>Edit the Header or Footer of the document.
 
 The information in the Header or Footer will appear at the top or bottom of each printed page.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير رأس أو تذييل الصفحة من المستند.
+
+المعلومات في الرأس أو التذييل تظهر في أعلى أو أسفل كل صفحة مطبوعة.</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -12404,11 +12434,11 @@ The information in the Header or Footer will appear at the top or bottom of each
     <name>tips.HideDetail</name>
     <message>
         <source>Collapse a group of cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>طي مجموعة من الخلايا.</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء التفصيل</translation>
     </message>
 </context>
 <context>
@@ -12457,7 +12487,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Show more precise values by showing more decimal places.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار قيم أكثر دقة من خلال إظهار منازل عشرية أكثر.</translation>
     </message>
 </context>
 <context>
@@ -12468,7 +12498,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Increase the margin between the border and the text in the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>زيادة الهامش بين الجوانب والنص في الخلية.</translation>
     </message>
 </context>
 <context>
@@ -12486,7 +12516,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     <name>tips.InsertComment</name>
     <message>
         <source>Add the selected content as annotation in the document</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة المحتوى المحدد كشرح في المستند</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -12497,18 +12527,18 @@ The information in the Header or Footer will appear at the top or bottom of each
     <name>tips.InsertFileObject</name>
     <message>
         <source>Insert Object from File</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج كائن من ملف</translation>
     </message>
     <message>
         <source>Insert selected file into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج ملف محدد في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFunction</name>
     <message>
         <source>Edit the formula in the current cell by choosing functions and editing the arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير الصيغة في الخلية الحالية عن طريق اختيار الدوال وتحرير المعطيات.</translation>
     </message>
     <message>
         <source>Insert Function</source>
@@ -12523,24 +12553,26 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Insert an embedded object into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج كائن مضمن في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPageBreak</name>
     <message>
         <source>Page Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>فواصل الصفحات</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Specify where a new page will begin in the printed copy.
 
 Page breaks are inserted above and to the left of the selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد المكان الذي تبدأ منه الصفحة الجديدة في النسخة المطبوعة.
+
+يتم إدراج فواصل الصفحات أعلى ويسار التحديد.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12559,7 +12591,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12570,7 +12602,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.InsertRange</name>
     <message>
         <source>Click here to insert cells, rows or columns in the worksheet or add a whole new worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر هنا لإدراج الخلايا والصفوف والأعمدة في ورقة العمل أو إضافة ورقة عمل جديدة كاملة.</translation>
     </message>
     <message>
         <source>Insert Cells</source>
@@ -12578,7 +12610,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Insert cells, rows or columns into the worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج الخلايا والصفوف والأعمدة في ورقة العمل.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -12649,18 +12681,18 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Your feedback will help us improve our products.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظاتك سوف تساعدنا في تحسين منتجاتنا.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudInformationTip</name>
     <message>
         <source>How to use the office space.</source>
-        <translation type="unfinished"></translation>
+        <translation>كيفية استخدام مساحة العمل.</translation>
     </message>
     <message>
         <source>Newbie Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل المبتدئ</translation>
     </message>
 </context>
 <context>
@@ -12688,11 +12720,11 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.KOSOpenCloudFileTip</name>
     <message>
         <source>Open from KDrive</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح ملف من KDrive</translation>
     </message>
     <message>
         <source>You can access to the document saved to KDrive conveniently via cell phone under the WIFI environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك الوصول إلى المستند المحفوظ في KDrive بسهولة عبر الهاتف المحمول في ظل بيئة WIFI.</translation>
     </message>
 </context>
 <context>
@@ -12743,22 +12775,22 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.LeftBorder</name>
     <message>
         <source>Add a left border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة جانب أيسر للخلايا المحددة.</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>جانب اليسار</translation>
     </message>
 </context>
 <context>
     <name>tips.Legend</name>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>وسيلة إيضاح</translation>
     </message>
     <message>
         <source>Show or Hide the chart legend.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار أو إخفاء وسيلة إيضاح التخطيط.</translation>
     </message>
 </context>
 <context>
@@ -12776,33 +12808,33 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.LockCell</name>
     <message>
         <source>If the worksheet is protected, the Lock Cell feature can protect data from being modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كانت ورقة العمل محمية، يمكن لميزة تأمين الخلية حماية البيانات من تعديلها.</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>تأمين الخلية</translation>
     </message>
 </context>
 <context>
     <name>tips.Logical</name>
     <message>
         <source>Browse and select from a list of logical functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح وتحديد دالة من قائمة الدوال المنطقية.</translation>
     </message>
     <message>
         <source>Logical Function</source>
-        <translation type="unfinished"></translation>
+        <translation>دالة منطقية</translation>
     </message>
 </context>
 <context>
     <name>tips.LookupAndReference</name>
     <message>
         <source>Browse and select from a list of lookup and reference functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح وتحديد دالة من قائمة دوال البحث والمراجع.</translation>
     </message>
     <message>
         <source>Lookup and Reference Function</source>
-        <translation type="unfinished"></translation>
+        <translation>دالة بحث ومراجع</translation>
     </message>
 </context>
 <context>
@@ -12820,15 +12852,15 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.Margins</name>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>هوامش</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد أحجام الهامش للمستند بأكمله أو القسم الحالي.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12850,22 +12882,22 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.MathAndTrig</name>
     <message>
         <source>Browse and select from a list of math and trigonometry functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح وتحديد دالة من قائمة دوال الرياضيات وعلم المثلثات.</translation>
     </message>
     <message>
         <source>Math and Trigonometry Function</source>
-        <translation type="unfinished"></translation>
+        <translation>دالة رياضيات ومثلثات</translation>
     </message>
 </context>
 <context>
     <name>tips.Max</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>حد أقصى</translation>
     </message>
     <message>
         <source>Returns the largest value in a set of values.</source>
-        <translation type="unfinished"></translation>
+        <translation>إرجاع أكبر قيمة في مجموعة من القيم.</translation>
     </message>
 </context>
 <context>
@@ -12874,15 +12906,16 @@ Page breaks are inserted above and to the left of the selection.</source>
         <source>Joins the selected cells into one larger cell and centers the contents in the new cell.
 
 This is often used to create labels that span multiple columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>ضم الخلايا المحددة في خلية واحدة أكبر وتوسيط محتواها.
+كثيرا ما يستخدم هذا لإنشاء العناوين التي تمتد على عدة أعمدة.</translation>
     </message>
     <message>
         <source>Merge&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج وتوسيط</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12893,11 +12926,11 @@ This is often used to create labels that span multiple columns.</source>
     <name>tips.MergeColumns</name>
     <message>
         <source>Combine Across Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج عبر الأعمدة</translation>
     </message>
     <message>
         <source>Select and merge cells across one or multiple rows.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار ودمج خلايا عبر صف واحد أو أكثر.</translation>
     </message>
 </context>
 <context>
@@ -12908,40 +12941,40 @@ This is often used to create labels that span multiple columns.</source>
     </message>
     <message>
         <source>Merge multiple cells into one cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج عدة خلايا في خلية واحدة.</translation>
     </message>
 </context>
 <context>
     <name>tips.Min</name>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>حد أدنى</translation>
     </message>
     <message>
         <source>Returns the smallest number in a set of values.</source>
-        <translation type="unfinished"></translation>
+        <translation>إرجاع أقل قيمة في مجموعة من القيم.</translation>
     </message>
 </context>
 <context>
     <name>tips.ModifyPivotTable</name>
     <message>
         <source>Changes PivotTable data source and resets its display location.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير مصدر بيانات الجدول المحوري وإعادة تعيين موقع عرضه.</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل الجدول المحوري</translation>
     </message>
 </context>
 <context>
     <name>tips.Morefunctions</name>
     <message>
         <source>Browse and select from lists of statistical, engineering, cube, and information functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح وتحديد دالة من قوائم الدوال الإحصائية، والهندسية، والمعلوماتية.</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من الدوال</translation>
     </message>
 </context>
 <context>
@@ -12973,7 +13006,7 @@ Names can be used in formulas to make them easier to understand.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12996,7 +13029,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13011,7 +13044,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Select a name that is being used in the current workbook and paste it into the current formula.</source>
@@ -13169,31 +13202,33 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     <name>tips.PTHide</name>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء</translation>
     </message>
     <message>
         <source>Show or hide the Field List.
 
 The field list allows you to add and remove fields from your PivotTable report.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار أو إخفاء لائحة الحقول.
+
+لائحة الحقول تسمح لك بإضافة وإزالة الحقول من تقرير الجدول المحوري.</translation>
     </message>
 </context>
 <context>
     <name>tips.PTHideDetail</name>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء التفصيل</translation>
     </message>
     <message>
         <source>Hide all items of the active field.</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء جميع عناصر الحقل النشط.</translation>
     </message>
 </context>
 <context>
     <name>tips.PTHideFieldList</name>
     <message>
         <source>Field List</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة الحقول</translation>
     </message>
     <message>
         <source>Show or Hide the Field List.
@@ -13206,11 +13241,11 @@ The field list allows you to add and remove fields from your PivotTable report.<
     <name>tips.PTRefreshData</name>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث البيانات</translation>
     </message>
     <message>
         <source>Update the information from the data source in the workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث المعلومات من مصدر البيانات في دفتر العمل.</translation>
     </message>
 </context>
 <context>
@@ -13276,7 +13311,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
@@ -13436,7 +13471,7 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13517,7 +13552,7 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     </message>
     <message>
         <source>Click here to set details of printing, or use default settings to print directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر هنا لتعيين تفاصيل الطباعة، أو استخدام الإعدادات الافتراضية لطباعة مباشرة.</translation>
     </message>
     <message>
         <source>Print</source>
@@ -13528,7 +13563,7 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     <name>tips.PrintArea</name>
     <message>
         <source>Mark a specific area of sheet for printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع علامة على منطقة معينة من الورقة للطباعة.</translation>
     </message>
     <message>
         <source>Print Area</source>
@@ -13539,7 +13574,7 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     <name>tips.PrintDirect</name>
     <message>
         <source>Print Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة مباشرة</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
@@ -13550,18 +13585,18 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     <name>tips.PrintGridlines</name>
     <message>
         <source>Print Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة خطوط الشبكة</translation>
     </message>
     <message>
         <source>Print the gridlines between the columns and the rows in the worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة خطوط الشبكة بين الأعمدة والصفوف في ورقة العمل.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintHeadings</name>
     <message>
         <source>Print Headings</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة العناوين</translation>
     </message>
     <message>
         <source>Print row and column headings.
@@ -13569,25 +13604,29 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
 Row headings are the row numbers to the side of the sheet.
 
 Column headings are the letters or numbers that appear above the columns on a sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>طباعة عناوين الصفوف والأعمدة.
+
+عناوين الصفوف هي أرقام الصفوف إلى جانب الورقة.
+
+عناوين الأعمدة هي الحروف أو الأرقام التي تظهر فوق الأعمدة على ورقة.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintLayout</name>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط الصفحة</translation>
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض المستند كما سيظهر في الصفحة المطبوعة.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintNormalView</name>
     <message>
         <source>Exit Print Preview and then enter the normal view.</source>
-        <translation type="unfinished"></translation>
+        <translation>مغادرة معاينة قبل الطباعة والدحول في وضع العرض العادي.</translation>
     </message>
     <message>
         <source>Normal View</source>
@@ -13609,15 +13648,15 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <name>tips.PrintPreviewMargins</name>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>هوامش</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Specify the distance between the content of the worksheet and the edge of the printed page.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد المسافة بين محتوى ورقة العمل وحافة الصفحة المطبوعة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13628,7 +13667,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Specify the zoom level of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد مستوى التكبير في الوثيقة الحالية.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -13639,28 +13678,30 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <name>tips.PrintTitle</name>
     <message>
         <source>Print Titles</source>
-        <translation type="unfinished"></translation>
+        <translation>عناوين الطباعة</translation>
     </message>
     <message>
         <source>Specify rows and columns to repeat on each printed page.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد صفوف وأعمدة مكررة في كل صفحة مطبوعة.</translation>
     </message>
 </context>
 <context>
     <name>tips.ProtectAndShare</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>حماية ومشاركة الدفتر</translation>
     </message>
     <message>
         <source>Share the workbook and protect it with a password at the same time.
 
 The password will prevent others from turning off change tracking.</source>
-        <translation type="unfinished"></translation>
+        <translation>مشاركة دفتر العمل  وحمايته بكلمة مرور في نفس الوقت.
+
+كلمة المرور ستمنع الآخرين من إيقاف تعقب التغييرات.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13671,7 +13712,7 @@ The password will prevent others from turning off change tracking.</source>
     <name>tips.ProtectSheet</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Prevent unwanted changes to the data in a sheet by specifying what information can be changed.
@@ -13683,7 +13724,7 @@ You can specify a password that can be entered to unprotect the sheet and allow 
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>حماية ورقة العمل</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13746,7 +13787,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -13776,7 +13817,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Record List</source>
@@ -14145,7 +14186,7 @@ You can use this feature to view multiple distant panes of your worksheet at onc
     <name>tips.Subtotals</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Subtotal</source>
@@ -14299,7 +14340,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TrackChanges</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished">اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -14552,18 +14593,18 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Quickly format a range of cells and convert it to a Table by choosing a pre-defined Table Style.</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق سريع  لنطاق من الخلايا وتحويله إلى جدول عن طريق اختيار نمط جدول محدد مسبقا.</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_AutoSum</name>
     <message>
         <source>Click here to display the result of a simple calculation, such as Average or Maximum value, after the selected cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر هنا لعرض نتيجة عملية حسابية بسيطة، مثل المتوسط ​​أو الحد الأقصى لمجموعة من الخلايا المحددة.</translation>
     </message>
     <message>
         <source>Display the sum of the selected cells directly after the selected cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض مجموع الخلايا المحددة مباشرة بعد تحديدها.</translation>
     </message>
     <message>
         <source>Sum</source>
