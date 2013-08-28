@@ -6664,7 +6664,7 @@ Master</source>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation>نزع ارتباط تشعبي</translation>
+        <translation>إزالة ارتباط تشعبي</translation>
     </message>
     <message>
         <source>Rename Master</source>
