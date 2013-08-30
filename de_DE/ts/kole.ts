@@ -6,7 +6,7 @@
     <name>KAxServer</name>
     <message>
         <source>&quot;%1&quot; has been modified. Do you want to save it?</source>
-        <translation type="obsolete">&quot;%1&quot; wurde geändert. Speichern?</translation>
+        <translation>&quot;%1&quot; wurde geändert. Änderung speichern?</translation>
     </message>
     <message>
         <source>%1 in %2</source>
@@ -14,11 +14,11 @@
     </message>
     <message>
         <source>Do you want to save changes to the file?</source>
-        <translation>Möchten Sie Änderungen an der Datei speichern?</translation>
+        <translation>Möchten Sie die Änderungen an der Datei speichern?</translation>
     </message>
     <message>
         <source>Untitled</source>
-        <translation type="obsolete">Unbenannt</translation>
+        <translation>Unbenannt</translation>
     </message>
 </context>
 </TS>
