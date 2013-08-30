@@ -6,7 +6,7 @@
     <name>KApplication</name>
     <message>
         <source>Critical</source>
-        <translation type="obsolete">Kritisch</translation>
+        <translation>Kritisch</translation>
     </message>
     <message>
         <source>Loading ui xml file is failed. For more information, please use KDebugConsole or read logs.</source>
@@ -14,45 +14,45 @@
     </message>
     <message>
         <source>Trial Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Demo-Version</translation>
     </message>
 </context>
 <context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
 </context>
 <context>
     <name>KColorCtrl</name>
     <message>
         <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwarz,Braun,Olivgrün,Dunkelcyan,Dunkelblau,Indigo,Grau-80%,Dunkelrot,Orange,Dunkelgelb,Grün,Cyan,Blau,Blaugrau,Grau-50%,Rot,Hellorange,Limone,Seegrün.Aqua,Hellblau,Violett,Grau-40%,Pink,Gold,Gelb,leuchtend Grün,Türkis,Himmelblau,Pflaume,Grau-25%,Rose,Hellbraun,Hellgelb,Hellgrün,Helltürkis,Bleichblau,Lavendel,Weiß</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Farbe</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mehr Farbe</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fülleffekte...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemusterte Linien...</translation>
     </message>
 </context>
 <context>
@@ -70,52 +70,52 @@
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei hochladen...</translation>
     </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
     <message>
         <source>Add to</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinzufügen zu</translation>
     </message>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Schnellzugriff anpassen</translation>
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation type="unfinished"></translation>
+        <translation>Sc&amp;hnellzugriff verstecken</translation>
     </message>
 </context>
 <context>
     <name>KDragMenuBar</name>
     <message>
         <source>Menu Bar</source>
-        <translation type="obsolete">Menüleiste</translation>
+        <translation>Menüleiste</translation>
     </message>
 </context>
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache wählen</translation>
     </message>
     <message>
         <source>&amp;Choose your language</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie Ihre Spra&amp;che</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informationen</translation>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen werden nach Neustart der Applikation wirksam.</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
+        <translation>Pe&amp;rsöhnliche-Vorlagen zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -157,52 +157,52 @@
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Text </translation>
     </message>
 </context>
 <context>
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feststelltaste an.</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Durch aktivierte Feststelltaste könnten Sie ein falsches Passwort eingeben.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevor Sie Ihr Passwort eingeben, sollten Sie die &quot;Feststelltaste&quot; deaktivieren.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht erlaubt.</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie können nicht aus dem Passwortfeld zu kopieren</translation>
     </message>
 </context>
 <context>
     <name>KRbFileMenu</name>
     <message>
         <source>Undefined.</source>
-        <translation type="obsolete">Undefiniert.</translation>
+        <translation>Undefiniert.</translation>
     </message>
 </context>
 <context>
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Von Schnellzug&amp;riff-Toolbar entfernen</translation>
     </message>
     <message>
         <source>More commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr Befehle</translation>
     </message>
     <message>
         <source>&amp;Show quick access</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige &amp;Schnellzugriff</translation>
     </message>
 </context>
 <context>
