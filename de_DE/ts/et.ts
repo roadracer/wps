@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation>zurück</translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <source>Do you still want to open it?</source>
@@ -147,32 +147,32 @@ condition is true: </source>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation>&amp;Stil</translation>
+        <translation>&amp;Stil:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation>gestrichelt</translation>
+        <translation>Gestrichelt:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation>Anfangsstil</translation>
+        <translation>Anfangsstil:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation>&amp;Endstil</translation>
+        <translation>&amp;Endstil:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation>Startgröße</translation>
+        <translation>Startgröße:</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation>Endgröße</translation>
+        <translation>Endgröße:</translation>
     </message>
 </context>
 <context>
@@ -249,127 +249,127 @@ condition is true: </source>
     <name>KValuesWidget</name>
     <message>
         <source>Top 10...</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 10...</translation>
     </message>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Überdurschnittlich</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterdurchschnittlich</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Heute</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestern</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Morgen</translation>
     </message>
     <message>
         <source>This Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Woche</translation>
     </message>
     <message>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Woche</translation>
     </message>
     <message>
         <source>Next Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Woche</translation>
     </message>
     <message>
         <source>This Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Diesen Monat</translation>
     </message>
     <message>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzten Monat</translation>
     </message>
     <message>
         <source>Next Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächsten Monat</translation>
     </message>
     <message>
         <source>This Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Quartal</translation>
     </message>
     <message>
         <source>Last Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Letztes Quartal</translation>
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächstes Quartal</translation>
     </message>
     <message>
         <source>This Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Jahr</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Letztes Jahr</translation>
     </message>
     <message>
         <source>Next Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächstes Jahr</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufsteigend</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Absteigend</translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert..</translation>
     </message>
     <message>
         <source>Can display up to 10000 items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann bis zu 1000 Stück anzeigen.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>No items match your search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche ergab keine Übereinstimmungen.</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche</translation>
     </message>
     <message>
         <source>(Showing all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Alles zeigen)</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>Und</translation>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Oder</translation>
     </message>
     <message>
         <source>Top %1 Items</source>
