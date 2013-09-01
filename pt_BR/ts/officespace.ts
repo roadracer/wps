@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Login klive before opening files.</source>
-        <translation">Acesse klive antes de abrir arquivos.</translation>
+        <translation>Acesse klive antes de abrir arquivos.</translation>
     </message>
     <message>
         <source>Login klive before deleting files.</source>

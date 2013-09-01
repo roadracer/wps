@@ -41,7 +41,7 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation type>Verifique modelos online</translation>
+        <translation>Verifique modelos online</translation>
     </message>
     <message>
         <source>Online Templates</source>

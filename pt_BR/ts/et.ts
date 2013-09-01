@@ -749,7 +749,7 @@ condition is true: </source>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type>O cabeçalho ou rodapé (total da seção esquerda, centro e direita) não pode ser maior que 255 caractéres. Exclua algum texto, ou faça a formatação menos complexa.</translation>
+        <translation>O cabeçalho ou rodapé (total da seção esquerda, centro e direita) não pode ser maior que 255 caractéres. Exclua algum texto, ou faça a formatação menos complexa.</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
@@ -950,7 +950,7 @@ Para manter a figura existente, clique no botão Cancelar.</translation>
     </message>
     <message>
         <source>&amp;Subtract</source>
-        <translation&amp;Subtrair></translation>
+        <translation>&amp;Subtrair></translation>
     </message>
     <message>
         <source>Skip &amp;blanks</source>
@@ -996,7 +996,7 @@ Para manter a figura existente, clique no botão Cancelar.</translation>
     </message>
     <message>
         <source>&amp;Add&gt;&gt;</source>
-        <translation&amp;Adicionar&gt;&gt;></translation>
+        <translation>&amp;Adicionar&gt;&gt;></translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
