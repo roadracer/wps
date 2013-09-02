@@ -5,266 +5,266 @@
     <name>comment</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished">Kommentar</translation>
+        <translation>Kommentar</translation>
     </message>
 </context>
 <context>
     <name>drawing</name>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished">WordArt einfügen</translation>
+        <translation>WordArt einfügen</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished">Textfeld</translation>
+        <translation>Textfeld</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished">Bild einfügen</translation>
+        <translation>Bild einfügen</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
 </context>
 <context>
     <name>field</name>
     <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
-        <translation type="unfinished">Fehler! Bildwechsel muss der erste Formatwechsel sein.</translation>
+        <translation>Fehler! Bildwechsel muss der erste Formatwechsel sein.</translation>
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
-        <translation type="unfinished">Fehler! Stilname nicht angegeben.</translation>
+        <translation>Fehler! Stilname nicht angegeben.</translation>
     </message>
     <message>
         <source>Error! The style is not specified.</source>
-        <translation type="unfinished">Fehler! Stil nicht angegeben.</translation>
+        <translation>Fehler! Stil nicht angegeben.</translation>
     </message>
     <message>
         <source>Error! Unknown switch parameter.</source>
-        <translation type="unfinished">Fehler! Unbekannter Wechselparameter.</translation>
+        <translation>Fehler! Unbekannter Wechselparameter.</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">Fehler!</translation>
+        <translation>Fehler!</translation>
     </message>
     <message>
         <source>Error! Picture string contains unmatched quotation mark.</source>
-        <translation type="unfinished">Fehler! Bild-String enthält unpaarige Anführungszeichen.</translation>
+        <translation>Fehler! Bild-String enthält unpaarige Anführungszeichen.</translation>
     </message>
     <message>
         <source>Error! Too many picture switches defined.</source>
-        <translation type="unfinished">Fehler! Zu viele Bildwechsel angegeben.</translation>
+        <translation>Fehler! Zu viele Bildwechsel angegeben.</translation>
     </message>
     <message>
         <source>Error! Switch parameter not specified.</source>
-        <translation type="unfinished">Fehler! Wechselparameter nicht angegeben.</translation>
+        <translation>Fehler! Wechselparameter nicht angegeben.</translation>
     </message>
 </context>
 <context>
     <name>field_parser_common</name>
     <message>
         <source>Number</source>
-        <translation type="unfinished">Zahl</translation>
+        <translation>Zahl</translation>
     </message>
     <message>
         <source>Current date</source>
-        <translation type="unfinished">Aktuelles Datum</translation>
+        <translation>Aktuelles Datum</translation>
     </message>
     <message>
         <source>Normal text</source>
-        <translation type="unfinished">Normaler Text</translation>
+        <translation>Normaler Text</translation>
     </message>
     <message>
         <source>_Top</source>
-        <translation type="unfinished">Oben</translation>
+        <translation>Oben</translation>
     </message>
     <message>
         <source> </source>
-        <translation type="unfinished"> </translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Current time</source>
-        <translation type="unfinished">Aktuelles Datum</translation>
+        <translation>Aktuelles Datum</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">Titel</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
-        <translation type="unfinished">Fehler! Lesezeichen nicht definiert.</translation>
+        <translation>Fehler! Lesezeichen nicht definiert.</translation>
     </message>
 </context>
 <context>
     <name>field_parser_links_and_reference</name>
     <message>
         <source>Error! Title list level is invalid.</source>
-        <translation type="unfinished">Fehler! Ebene der Titelliste ist ungültig.</translation>
+        <translation>Fehler! Ebene der Titelliste ist ungültig.</translation>
     </message>
     <message>
         <source>on page</source>
-        <translation type="unfinished">auf Seite</translation>
+        <translation>auf Seite</translation>
     </message>
     <message>
         <source>Error! Bookmark not specified.</source>
-        <translation type="unfinished">Fehler! Lesezeichen nicht angegeben.</translation>
+        <translation>Fehler! Lesezeichen nicht angegeben.</translation>
     </message>
     <message>
         <source>Error! Table of contents entries not found.</source>
-        <translation type="unfinished">Fehler! Einträge des Inhaltsverzeichnisses nicht gefunden.</translation>
+        <translation>Fehler! Einträge des Inhaltsverzeichnisses nicht gefunden.</translation>
     </message>
     <message>
         <source>above</source>
-        <translation type="unfinished">oberhalb</translation>
+        <translation>oberhalb</translation>
     </message>
     <message>
         <source>below</source>
-        <translation type="unfinished">unterhalb</translation>
+        <translation>unterhalb</translation>
     </message>
     <message>
         <source>Error! Hyperlink reference is invalid.</source>
-        <translation type="unfinished">Fehler! Hyperlink-Verweis ist ungültig.</translation>
+        <translation>Fehler! Hyperlink-Verweis ist ungültig.</translation>
     </message>
     <message>
         <source>Error! Filename not specified.</source>
-        <translation type="unfinished">Fehler! Dateiname nicht angegeben.</translation>
+        <translation>Fehler! Dateiname nicht angegeben.</translation>
     </message>
     <message>
         <source>or text box.</source>
-        <translation type="obsolete">Kommentar oder Textfeld nicht erlaubt.</translation>
+        <translation>Kommentar oder Textfeld nicht erlaubt.</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished">Hyperlink</translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Error! Reference source not found.</source>
-        <translation type="unfinished">Fehler! Verweisquelle nicht gefunden.</translation>
+        <translation>Fehler! Verweisquelle nicht gefunden.</translation>
     </message>
     <message>
         <source>Error! The self-reference of a bookmark is invalid.</source>
-        <translation type="unfinished">Fehler! Der Selbstbezug eines Lesezeichen ist ungültig.</translation>
+        <translation>Fehler! Der Selbstbezug eines Lesezeichen ist ungültig.</translation>
     </message>
     <message>
         <source>Error! The file you specified cannot be open.</source>
-        <translation type="unfinished">Fehler! Angegebene Datei kann nicht geöffnet werden.</translation>
+        <translation>Fehler! Angegebene Datei kann nicht geöffnet werden.</translation>
     </message>
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Inhaltsverzeichnis in der Fußnote, Endnote, Kopfzeile, Fußzeile, Kommentar oder Textfeld nicht erlaubt.</translation>
     </message>
 </context>
 <context>
     <name>field_parser_mailmerge</name>
     <message>
         <source>Error! Cannot find Merge Field in the field name record of data source.</source>
-        <translation type="unfinished">Fehler!  Platzhalter kann im Feldnamenverzeichnis der Datenquelle nicht gefunden werden.</translation>
+        <translation>Fehler!  Platzhalter kann im Feldnamenverzeichnis der Datenquelle nicht gefunden werden.</translation>
     </message>
 </context>
 <context>
     <name>field_parser_numbering</name>
     <message>
         <source>!Syntaxl errors</source>
-        <translation type="unfinished">Fehler! Syntaxfehler</translation>
+        <translation>Fehler! Syntaxfehler</translation>
     </message>
     <message>
         <source>Error! Only for Main Document.</source>
-        <translation type="unfinished">Fehler! Nur für das Hauptdokument.</translation>
+        <translation>Fehler! Nur für das Hauptdokument.</translation>
     </message>
     <message>
         <source>Not in the table</source>
-        <translation type="unfinished">Nicht in der Tabelle</translation>
+        <translation>Nicht in der Tabelle</translation>
     </message>
     <message>
         <source>! Formula is not in the table.</source>
-        <translation type="unfinished">Fehler! Formel befindet sich nicht in Tabelle.</translation>
+        <translation>Fehler! Formel befindet sich nicht in Tabelle.</translation>
     </message>
     <message>
         <source>Error! Sequence not specified.</source>
-        <translation type="unfinished">Fehler! Reihenfolge nicht angegeben.</translation>
+        <translation>Fehler! Reihenfolge nicht angegeben.</translation>
     </message>
     <message>
         <source>!Number is too big to set a format</source>
-        <translation type="unfinished">Fehler! Zahl ist zu groß für eine Formatangabe.</translation>
+        <translation>Fehler! Zahl ist zu groß für eine Formatangabe.</translation>
     </message>
     <message>
         <source>!Abnormal formula end</source>
-        <translation type="unfinished">Fehler! Fehlerhaftes Formelende</translation>
+        <translation>Fehler! Fehlerhaftes Formelende</translation>
     </message>
     <message>
         <source>!Undefined bookmark,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fehler! Unbekanntes Lesezeichen</translation>
     </message>
     <message>
         <source>!Divisor is zero</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Divisor ist 0</translation>
     </message>
 </context>
 <context>
     <name>pagelayout</name>
     <message>
         <source>First Page</source>
-        <translation type="unfinished">Erste Seite</translation>
+        <translation>Erste Seite</translation>
     </message>
     <message>
         <source> - Section %d - </source>
-        <translation type="unfinished"> - Abschnitt %d - </translation>
+        <translation> - Abschnitt %d - </translation>
     </message>
     <message>
         <source>Odd Page</source>
-        <translation type="unfinished">Ungerade Seite</translation>
+        <translation>Ungerade Seite</translation>
     </message>
     <message>
         <source>Even Page</source>
-        <translation type="unfinished">Gerade Seite</translation>
+        <translation>Gerade Seite</translation>
     </message>
     <message>
         <source> Footer </source>
-        <translation type="unfinished"> Fußzeile </translation>
+        <translation> Fußzeile </translation>
     </message>
     <message>
         <source> Header </source>
-        <translation type="unfinished"> Kopfzeile </translation>
+        <translation> Kopfzeile </translation>
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation type="unfinished">Wie im vorherigen Abschnitt</translation>
+        <translation>Wie im vorherigen Abschnitt</translation>
     </message>
 </context>
 <context>
     <name>pdfexport</name>
     <message>
         <source>Revision</source>
-        <translation type="unfinished">Überarbeitung</translation>
+        <translation>Überarbeitung</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished">Kommentar</translation>
+        <translation>Kommentar</translation>
     </message>
 </context>
 <context>
     <name>renderhost</name>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished">Spaltenumbruch</translation>
+        <translation>Spaltenumbruch</translation>
     </message>
     <message>
         <source>End of Section</source>
-        <translation type="unfinished">Ende des Abschnitts</translation>
+        <translation>Ende des Abschnitts</translation>
     </message>
     <message>
         <source>Section Break (Continuous)</source>
-        <translation type="unfinished">Abschnittswechsel (Fortlaufend)</translation>
+        <translation>Abschnittswechsel (Fortlaufend)</translation>
     </message>
     <message>
         <source>The end of the protected section</source>
-        <translation type="unfinished">Ende des geschützten Abschnitts</translation>
+        <translation>Ende des geschützten Abschnitts</translation>
     </message>
     <message>
         <source>Section Break (Odd Page)</source>
@@ -272,236 +272,236 @@
     </message>
     <message>
         <source>Page Break</source>
-        <translation type="unfinished">Seitenumbruch</translation>
+        <translation>Seitenumbruch</translation>
     </message>
     <message>
         <source>Section Break (Next Page)</source>
-        <translation type="unfinished">Abschnittswechsel (Nächste Seite)</translation>
+        <translation>Abschnittswechsel (Nächste Seite)</translation>
     </message>
     <message>
         <source>Section Break (Even Page)</source>
-        <translation type="unfinished">Abschnittswechsel (Gerade Seite)</translation>
+        <translation>Abschnittswechsel (Gerade Seite)</translation>
     </message>
     <message>
         <source>Section Break</source>
-        <translation type="unfinished">Abschnittswechsel</translation>
+        <translation>Abschnittswechsel</translation>
     </message>
 </context>
 <context>
     <name>ruler</name>
     <message>
         <source>Table Width</source>
-        <translation type="unfinished">Tabellenbreite</translation>
+        <translation>Tabellenbreite</translation>
     </message>
     <message>
         <source>Adjust Right</source>
-        <translation type="unfinished">Nach rechts ausrichten</translation>
+        <translation>Nach rechts ausrichten</translation>
     </message>
     <message>
         <source>Formatting</source>
-        <translation type="unfinished">Formatierung</translation>
+        <translation>Formatierung</translation>
     </message>
     <message>
         <source>Adjust Left</source>
-        <translation type="unfinished">Nach links ausrichten</translation>
+        <translation>Nach links ausrichten</translation>
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
-        <translation type="unfinished">Absatzformatierung erstellen</translation>
+        <translation>Absatzformatierung erstellen</translation>
     </message>
     <message>
         <source>Center Tab</source>
-        <translation type="unfinished">Tabstopp zentriert</translation>
+        <translation>Tabstopp zentriert</translation>
     </message>
     <message>
         <source>Move Column</source>
-        <translation type="unfinished">Spalte verschieben</translation>
+        <translation>Spalte verschieben</translation>
     </message>
     <message>
         <source>Adjust Top</source>
-        <translation type="unfinished">Nach oben ausrichten</translation>
+        <translation>Nach oben ausrichten</translation>
     </message>
     <message>
         <source>Hanging Indent</source>
-        <translation type="unfinished">Hängender Einzug</translation>
+        <translation>Hängender Einzug</translation>
     </message>
     <message>
         <source>Top Margin</source>
-        <translation type="unfinished">Oberer Seitenrand</translation>
+        <translation>Oberer Seitenrand</translation>
     </message>
     <message>
         <source>Left Indent</source>
-        <translation type="unfinished">Einzug links</translation>
+        <translation>Einzug links</translation>
     </message>
     <message>
         <source>First Line Indent</source>
-        <translation type="unfinished">Einzug erste Zeile</translation>
+        <translation>Einzug erste Zeile</translation>
     </message>
     <message>
         <source>Left Margin</source>
-        <translation type="unfinished">Linker Seitenrand</translation>
+        <translation>Linker Seitenrand</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished">Seite erstellen</translation>
+        <translation>Seiteeinstellungen</translation>
     </message>
     <message>
         <source>Bar Tab</source>
-        <translation type="unfinished">Leiste-Tab</translation>
+        <translation>Leiste-Tab</translation>
     </message>
     <message>
         <source>Adjust Table Row</source>
-        <translation type="unfinished">Tabellenzeile ausrichten</translation>
+        <translation>Tabellenzeile ausrichten</translation>
     </message>
     <message>
         <source>Left Tab</source>
-        <translation type="unfinished">Tabstopp links</translation>
+        <translation>Tabstopp links</translation>
     </message>
     <message>
         <source>Move Table Column</source>
-        <translation type="unfinished">Tabellenspalte verschieben</translation>
+        <translation>Tabellenspalte verschieben</translation>
     </message>
     <message>
         <source>Right Tab</source>
-        <translation type="unfinished">Tabstopp rechts</translation>
+        <translation>Tabstopp rechts</translation>
     </message>
     <message>
         <source>Columns Formatting Setup</source>
-        <translation type="unfinished">Spaltenformatierung erstellen</translation>
+        <translation>Spaltenformatierung erstellen</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
-        <translation type="unfinished">Tabstopp dezimal</translation>
+        <translation>Tabstopp dezimal</translation>
     </message>
     <message>
         <source>Right Indent</source>
-        <translation type="unfinished">Einzug rechts</translation>
+        <translation>Einzug rechts</translation>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished">Tabelleneigenschaften</translation>
+        <translation>Tabelleneigenschaften</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished">Textfeld</translation>
+        <translation>Textfeld</translation>
     </message>
     <message>
         <source>Adjust Bottom</source>
-        <translation type="unfinished">Nach unten ausrichten</translation>
+        <translation>Nach unten ausrichten</translation>
     </message>
     <message>
         <source>Bottom Margin</source>
-        <translation type="unfinished">Unterer Seitenrand</translation>
+        <translation>Unterer Seitenrand</translation>
     </message>
     <message>
         <source>Right Margin</source>
-        <translation type="unfinished">Rechter Seitenrand</translation>
+        <translation>Rechter Seitenrand</translation>
     </message>
 </context>
 <context>
     <name>texttable</name>
     <message>
         <source>Cannot merge</source>
-        <translation type="unfinished">Zusammenführen nicht möglich</translation>
+        <translation>Zusammenführen nicht möglich</translation>
     </message>
     <message>
         <source>You must select more than one rows.</source>
-        <translation type="unfinished">Sie müssen mehr als eine Zeile auswählen.</translation>
+        <translation>Sie müssen mehr als eine Zeile auswählen.</translation>
     </message>
     <message>
         <source>Cannot split cells vertically in multiple rows.</source>
-        <translation type="unfinished">Die Zellen können nicht vertikal in mehrere Zeilen geteilt werden.</translation>
+        <translation>Die Zellen können nicht vertikal in mehrere Zeilen geteilt werden.</translation>
     </message>
     <message>
         <source>The number of rows to be split must be between %d and %d.</source>
-        <translation type="unfinished">Anzahl der zu teilenden Zeilen muss zwischen %d und %d liegen.</translation>
+        <translation>Anzahl der zu teilenden Zeilen muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>The number of rows to be split must be a divisor of %d.</source>
-        <translation type="unfinished">Anzahl der zu teilenden Zeilen muss durch %d teilbar sein.</translation>
+        <translation>Anzahl der zu teilenden Zeilen muss durch %d teilbar sein.</translation>
     </message>
     <message>
         <source>The number of columns is out of range.</source>
-        <translation type="unfinished">Spaltenanzahl liegt außerhalb des zulässigen Bereichs.</translation>
+        <translation>Spaltenanzahl liegt außerhalb des zulässigen Bereichs.</translation>
     </message>
     <message>
         <source>You must select more than one columns.</source>
-        <translation type="unfinished">Sie müssen mehr als eine Spalte auswählen.</translation>
+        <translation>Sie müssen mehr als eine Spalte auswählen.</translation>
     </message>
     <message>
         <source>Cannot split the selection because it contains joined cells.</source>
-        <translation type="unfinished">da sie zusammengeführte Zellen enthält.</translation>
+        <translation>Auswahl kann nicht geteilt werden, da sie zusammengeführte Zellen enthält.</translation>
     </message>
     <message>
         <source>The number of columns to be split must be between %d and %d.</source>
-        <translation type="unfinished">Anzahl der zu teilenden Spalten muss zwischen %d und %d liegen.</translation>
+        <translation>Anzahl der zu teilenden Spalten muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>Cannot distribute the selected columns evenly.</source>
-        <translation type="unfinished">Die ausgewählten Spalten können nicht gleichmäßig verteilt werden.</translation>
+        <translation>Die ausgewählten Spalten können nicht gleichmäßig verteilt werden.</translation>
     </message>
 </context>
 <context>
     <name>wpscore</name>
     <message>
         <source>Decimal aligned</source>
-        <translation type="unfinished">Decimal aligned</translation>
+        <translation>Dezimal ausgerichtet</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Left</translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Wave double underline</source>
-        <translation type="unfinished">Wave double underline</translation>
+        <translation>Welle doppelt unterstrichen</translation>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished">Double underline</translation>
+        <translation>Doppelt unterstrichen</translation>
     </message>
     <message>
         <source>Numbering Style</source>
-        <translation type="unfinished">Numbering Style</translation>
+        <translation>Nummerierungsstil</translation>
     </message>
     <message>
         <source>Section start</source>
-        <translation type="unfinished">Section start</translation>
+        <translation>Abschnittsstart</translation>
     </message>
     <message>
         <source>(Complex)</source>
-        <translation type="unfinished">(Complex)</translation>
+        <translation>(Komplex)</translation>
     </message>
     <message>
         <source>please make sure your printer has been properly installed.</source>
-        <translation type="obsolete">ob Ihr Drucker korrekt installiert ist.</translation>
+        <translation>Bitte prüfen Sie, ob Ihr Drucker korrekt installiert ist.</translation>
     </message>
     <message>
         <source>Emboss</source>
-        <translation type="unfinished">Emboss</translation>
+        <translation>Emboss</translation>
     </message>
     <message>
         <source>Don&apos;t compress initial punctuation</source>
-        <translation type="unfinished">Don&apos;t compress initial punctuation</translation>
+        <translation type="obsolete">Erstes Satzzeichen nicht kommprimieren</translation>
     </message>
     <message>
         <source>%s already exists.\nDo you want to replace it?</source>
-        <translation type="obsolete">%s ist bereits vorhanden.\n Ersetzen?</translation>
+        <translation >%s existiert bereits.\n Möchten Sie dies ersetzen?</translation>
     </message>
     <message>
         <source>Don&apos;t snap to grid</source>
-        <translation type="unfinished">Don&apos;t snap to grid</translation>
+        <translation>Nicht an Raster ausrichten</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished">&amp;Werkzeuge</translation>
+        <translation>Werkzeuge</translation>
     </message>
     <message>
         <source>Thick-thin medium gap</source>
-        <translation type="unfinished">Thick-thin medium gap</translation>
+        <translation type="obsolete">Thick-thin medium Lücke</translation>
     </message>
     <message>
         <source>SpellingCheck: Off</source>
-        <translation type="unfinished">Rechtschreibprüfung: Aus</translation>
+        <translation>Rechtschreibprüfung: Aus</translation>
     </message>
     <message>
         <source>Thin-thick-thin large gap</source>
@@ -513,19 +513,19 @@
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished">Seite</translation>
+        <translation>Seite</translation>
     </message>
     <message>
         <source>Don&apos;t hyphenate</source>
-        <translation type="unfinished">Don&apos;t hyphenate</translation>
+        <translation>Keine Silbentrennung</translation>
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished">Circle</translation>
+        <translation>Kreis</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished">Double</translation>
+        <translation>Doppelt</translation>
     </message>
     <message>
         <source>Line between</source>
@@ -3433,21 +3433,27 @@ Please try one of the following.
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
+
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
+
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
 
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
