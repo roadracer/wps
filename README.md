@@ -55,6 +55,10 @@ And then, you need a icon file, put to vi\_VI. You can ignore it currently.
 Now save you changes. All you need is the follow command:
 
 	$ make install
+	
+Notes: If you are using A11p2 or earlier version, you must use follow command:
+
+	$ sudo make install
 
 Restart wps, and you will see what you want.
 
