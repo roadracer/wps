@@ -5,23 +5,23 @@
     <name>KCommand</name>
     <message>
         <source>Treasure Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Schatztruhe</translation>
     </message>
     <message>
         <source>Kingsoft Office recommendation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office Empfehlungen</translation>
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Viele Leute nutzen dieses großartige Werkzeug. Möchten Sie es auch probieren?</translation>
     </message>
     <message>
         <source>All right</source>
-        <translation type="unfinished"></translation>
+        <translation>In Ordnung</translation>
     </message>
     <message>
         <source>No thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nein Danke.</translation>
     </message>
 </context>
 </TS>

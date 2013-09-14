@@ -2,7 +2,12 @@ MAKE_QM="../dev/make_qm.sh"
 MAKE_RCC="../dev/make_rcc.sh"
 MAKE_INSTALL="../dev/make_install.sh"
 LANGID=`basename ${CURDIR}`
-DEST=/opt/kingsoft/wps-office/office6/mui/${LANGID}
+
+ifeq (${USER},root)
+	DEST=/opt/kingsoft/wps-office/office6/mui/${LANGID}
+else
+	DEST=${HOME}/.kingsoft/mui/${LANGID}
+endif
 
 all: qm rcc
 

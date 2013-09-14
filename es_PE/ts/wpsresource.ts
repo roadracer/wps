@@ -960,7 +960,7 @@
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio Entre Caracteres</translation>
     </message>
     <message>
         <source>Font</source>
@@ -972,7 +972,7 @@
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de la Fuente</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -980,7 +980,7 @@
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio de Línea</translation>
     </message>
     <message>
         <source>More</source>

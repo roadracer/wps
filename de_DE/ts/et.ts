@@ -13,15 +13,15 @@
     <name>ExitEditOpenFile</name>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Öffnen</translation>
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <source>Do you still want to open it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie immer noch öffnen?</translation>
     </message>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
@@ -29,102 +29,102 @@
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Beschreibung</translation>
     </message>
 </context>
 <context>
     <name>GrpboxCondition</name>
     <message>
         <source>Grpbox Condition</source>
-        <translation type="unfinished"></translation>
+        <translation>Grpbox Bedingungen</translation>
     </message>
     <message>
         <source>Cell value is</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellwert ist</translation>
     </message>
     <message>
         <source>Formula is</source>
-        <translation type="unfinished"></translation>
+        <translation>Formel ist</translation>
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation>zwischen</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation>nicht zwischen</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>gleich</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>nicht gleich</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>größer als</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation>kleiner als</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>größer als oder gleich</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>kleiner als oder gleich</translation>
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>und</translation>
     </message>
     <message>
         <source>Preview of format to use when
 condition is true: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau des zu verwendeden Formats, wenn die Bedingung erfüllt ist: </translation>
     </message>
 </context>
 <context>
     <name>InsertFunctionLabel</name>
     <message>
         <source>I want to comment function</source>
-        <translation type="unfinished"></translation>
+        <translation>Ich möchte Kommentar-Funktion</translation>
     </message>
 </context>
 <context>
     <name>InsertFunctionLineEdit</name>
     <message>
         <source>Enter the name or the description of the function you would like to look for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Namen oder die Beschreibung der Funktion ein, nach welcher Sie suchen.</translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading Core Module</source>
-        <translation type="obsolete">Kernmodul laden</translation>
+        <translation>Lade Kernmodul</translation>
     </message>
     <message>
         <source>Loading KUI</source>
-        <translation>UI laden</translation>
+        <translation>Lade KUI</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop</translation>
     </message>
 </context>
 <context>
     <name>KDateEdit</name>
     <message>
         <source>%1-%2-%3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-%2-%3</translation>
     </message>
 </context>
 <context>
@@ -132,47 +132,47 @@ condition is true: </source>
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Größe</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maßstab</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Standard &amp;für neue Objekte</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stil:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gestrichelt:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anfangsstil:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Endstil:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Startgröße:</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Endgröße:</translation>
     </message>
 </context>
 <context>
@@ -195,46 +195,46 @@ condition is true: </source>
     </message>
     <message>
         <source>&amp;Activate:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aktivieren</translation>
     </message>
 </context>
 <context>
     <name>KValuesModel</name>
     <message>
         <source>Blanks</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolet">Leerstellen</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Jahr</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Monat</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tag</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Stunde</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minute</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekunde</translation>
     </message>
     <message>
         <source>(Select all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Alles auswählen)</translation>
     </message>
     <message>
         <source>Add current selection to filter</source>
@@ -249,127 +249,127 @@ condition is true: </source>
     <name>KValuesWidget</name>
     <message>
         <source>Top 10...</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 10...</translation>
     </message>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Überdurschnittlich</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterdurchschnittlich</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Heute</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestern</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Morgen</translation>
     </message>
     <message>
         <source>This Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Woche</translation>
     </message>
     <message>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Woche</translation>
     </message>
     <message>
         <source>Next Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Woche</translation>
     </message>
     <message>
         <source>This Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Diesen Monat</translation>
     </message>
     <message>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzten Monat</translation>
     </message>
     <message>
         <source>Next Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächsten Monat</translation>
     </message>
     <message>
         <source>This Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Quartal</translation>
     </message>
     <message>
         <source>Last Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Letztes Quartal</translation>
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächstes Quartal</translation>
     </message>
     <message>
         <source>This Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Jahr</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Letztes Jahr</translation>
     </message>
     <message>
         <source>Next Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächstes Jahr</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufsteigend</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Absteigend</translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert..</translation>
     </message>
     <message>
         <source>Can display up to 10000 items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann bis zu 1000 Stück anzeigen.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>No items match your search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche ergab keine Übereinstimmungen.</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche</translation>
     </message>
     <message>
         <source>(Showing all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Alles zeigen)</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>Und</translation>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Oder</translation>
     </message>
     <message>
         <source>Top %1 Items</source>

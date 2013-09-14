@@ -5,195 +5,195 @@
     <name>CWpsTableStyle</name>
     <message>
         <source>Styless, no grid</source>
-        <translation type="unfinished"></translation>
+        <translation>stillos, kein Raster</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Themenstil</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorhebung</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>stillos, gerastert</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>heller Farbstil</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>mäßiger Farbstil</translation>
     </message>
     <message>
         <source>Deep Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil 2 - Hervorhebung 1/Hervorhebung 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil 2 - Hervorhebung 3/Hervorhebung 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Zeile</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>verbundene Zeilen</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>verbundene Spalten</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Zeile</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>integriert</translation>
     </message>
     <message>
         <source>Styless, no grid</source>
-        <translation type="unfinished"></translation>
+        <translation>stillos, kein Raster</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Themenstil</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorhebung</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>stillos, gerastert</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>heller Farbstil</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>mäßiger Farbton</translation>
     </message>
     <message>
         <source>Dark Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil 2 - Hervorhebung 1/Hervorhebung 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil 2 - Hervorhebung 3/Hervorhebung 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Bester Treffer</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwaschen</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitte</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished"></translation>
+        <translation>Tief</translation>
     </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Bester Treffer</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwaschen</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitte</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished"></translation>
+        <translation>Tief</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenstil:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenstil-Optionen:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenstil zurücksetzen</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Apply Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenstil übernehmen</translation>
     </message>
 </context>
 </TS>

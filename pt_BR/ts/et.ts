@@ -5,121 +5,121 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Seletor de largura de coluna</translation>
     </message>
 </context>
 <context>
     <name>ExitEditOpenFile</name>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você abrir um novo arquivo, o conteúdo na célula deste arquivo será eliminado:</translation>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo de texto</translation>
     </message>
     <message>
         <source>Do you still want to open it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você ainda dquer abrí-lo?</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Abrir</translation>
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Retornar</translation>
     </message>
 </context>
 <context>
     <name>GrpboxCondition</name>
     <message>
         <source>Grpbox Condition</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição Grpbox</translation>
     </message>
     <message>
         <source>Cell value is</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor da célula é</translation>
     </message>
     <message>
         <source>Formula is</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórmula é</translation>
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation>entre</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation>não entre</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>igual a</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>não igual a</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>maior que</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation>menor que</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>maior ou igual a</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>menor ou igual a</translation>
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>e</translation>
     </message>
     <message>
         <source>Preview of format to use when
 condition is true: </source>
-        <translation type="unfinished"></translation>
+        <translation>Previsão do formato a ser usado quando a condição for verdadeira:</translation>
     </message>
 </context>
 <context>
     <name>InsertFunctionLabel</name>
     <message>
         <source>I want to comment function</source>
-        <translation type="unfinished"></translation>
+        <translation>Eu quero comentar função</translation>
     </message>
 </context>
 <context>
     <name>InsertFunctionLineEdit</name>
     <message>
         <source>Enter the name or the description of the function you would like to look for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira o nome ou a descrição da função que você gostaria de procurar.</translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregando KUI</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de trabalho</translation>
     </message>
 </context>
 <context>
     <name>KDateEdit</name>
     <message>
         <source>%1-%2-%3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-%2-%3</translation>
     </message>
 </context>
 <context>
@@ -127,1811 +127,1823 @@ condition is true: </source>
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Escala</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Padrão para novos objetos</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Estilo:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;racejado:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Começar estilo:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Terminar estilo:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Começar ta&amp;manho:</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Terminar tama&amp;nho:</translation>
     </message>
 </context>
 <context>
     <name>KSelectSheetDlg</name>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar</translation>
     </message>
     <message>
         <source>&amp;Activate:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ativar:</translation>
     </message>
 </context>
 <context>
     <name>KValuesModel</name>
     <message>
         <source>Blanks</source>
-        <translation type="unfinished"></translation>
+        <translation>Em branco</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Ano</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Mês</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuto</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo</translation>
     </message>
     <message>
         <source>(Select all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Selecionar tudo)</translation>
     </message>
     <message>
         <source>Add current selection to filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar seleção atual ao filtro</translation>
     </message>
     <message>
         <source>(Blanks)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Em branco)</translation>
     </message>
 </context>
 <context>
     <name>KValuesWidget</name>
     <message>
         <source>Top 10...</source>
-        <translation type="unfinished"></translation>
+        <translation>10 superiores...</translation>
     </message>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Acima da média</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Abaixo da média</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoje</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontem</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Amanhã</translation>
     </message>
     <message>
         <source>This Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta semana</translation>
     </message>
     <message>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Semana passada</translation>
     </message>
     <message>
         <source>Next Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Próxima semana</translation>
     </message>
     <message>
         <source>This Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Este mês</translation>
     </message>
     <message>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Mês passado</translation>
     </message>
     <message>
         <source>Next Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo mês</translation>
     </message>
     <message>
         <source>This Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Este quadrimestre</translation>
     </message>
     <message>
         <source>Last Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrimestre passado</translation>
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo quadrimestre</translation>
     </message>
     <message>
         <source>This Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Este ano</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Ano passado</translation>
     </message>
     <message>
         <source>Next Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo ano</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascendente</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Descendente</translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado...</translation>
     </message>
     <message>
         <source>Can display up to 10000 items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode exibir até 10000 itens.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>No items match your search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não há itens correspondem à sua pesquisa.</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <source>(Showing all)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrando tudo</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>E</translation>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Ou</translation>
     </message>
     <message>
         <source>Top %1 Items</source>
-        <translation type="unfinished"></translation>
+        <translation> %1 itens superiores</translation>
     </message>
     <message>
         <source>Top %1 Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 porcento superiores</translation>
     </message>
     <message>
         <source>Bottom %1 Items</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 itens inferiores</translation>
     </message>
     <message>
         <source>Bottom %1 Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 porcento inferiores</translation>
     </message>
     <message>
         <source>Equals</source>
-        <translation type="unfinished"></translation>
+        <translation>Iguais</translation>
     </message>
     <message>
         <source>Equals &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Iguais a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not equal &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Não iguais a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Is after &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Depois de &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Greater than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Maior ou igual a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Is before &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Antes de &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Less than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Menor ou igual a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Begins with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Começa com &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not begin with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Não começa com &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Ends with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Termina com &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not end with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Não termina com &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Contains &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Contém &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not contain &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Não contém &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Greater than &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Maior que &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Less than &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Menor que &quot;%1&quot;</translation>
     </message>
     <message>
         <source>(Blanks)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Em branco)</translation>
     </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
     <message>
         <source>Invalid reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Referência inválida.</translation>
     </message>
     <message>
         <source>What you entered is an invalid reference or name.</source>
-        <translation type="unfinished"></translation>
+        <translation>O que você inseriu é uma referência ou nome inválidos.</translation>
     </message>
     <message>
         <source>Invalid data range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de dados inválido.</translation>
     </message>
     <message>
         <source>Invalid criteria range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de critérios inválido.</translation>
     </message>
     <message>
         <source>Invalid extract range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de extrato inválido.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse comando não pode ser usado em uma planilha protegida.</translation>
     </message>
 </context>
 <context>
     <name>KxAfFilterThisOneLabel</name>
     <message>
         <source>Filter this item only</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar este item apenas</translation>
     </message>
     <message>
         <source>Clear filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar filtro</translation>
     </message>
 </context>
 <context>
     <name>KxAfTreeViewHeaderWidget</name>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Múltiplo</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Único</translation>
     </message>
 </context>
 <context>
     <name>KxAlignWidget</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto inteiro ilegal.</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor deve estar entre %1 e %2.</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar como</translation>
     </message>
 </context>
 <context>
     <name>KxCalcResumer</name>
     <message>
         <source>Calculate</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular</translation>
     </message>
 </context>
 <context>
     <name>KxChangeRangePasswordDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha de confirmação não é idêntica.</translation>
     </message>
 </context>
 <context>
     <name>KxCirculareReferencesDlg</name>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Livro</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Planilha</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Célula</translation>
     </message>
 </context>
 <context>
     <name>KxConditionFormatDlg</name>
     <message>
         <source>&amp;Format...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formatar...</translation>
     </message>
     <message>
         <source>F&amp;ormat...</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;ormatar...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fo&amp;rmatar...</translation>
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deve especificar critérios para todos os formatos condicionais.</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um valor máximo ou mínimo está faltando.</translation>
     </message>
 </context>
 <context>
     <name>KxConsolidateDlg</name>
     <message>
         <source> - Reference location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Local de referência:</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Soma</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Contagem</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Média</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Máximo</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"></translation>
+        <translation>Produto</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation type="unfinished"></translation>
+        <translation>Contagem de números</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished"></translation>
+        <translation>StdDev</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished"></translation>
+        <translation>StdDevp</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished"></translation>
+        <translation>Var</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished"></translation>
+        <translation>Varp</translation>
     </message>
     <message>
         <source>All files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos(*.*)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegar</translation>
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível adicionar referência de fonte duplicada.</translation>
     </message>
 </context>
 <context>
     <name>KxControlWidget</name>
     <message>
         <source>Input error, the value must be a Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro de entrada, o valor deve ser um número.</translation>
     </message>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>A medida deve estar entre %1 e %2.</translation>
     </message>
     <message>
         <source>The scroll value maximum cannot be less than the scroll value minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor máximo não pode ser menor que o valor mínimo.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation type="unfinished"></translation>
+        <translation>O texto que você inseriu não é uma referência válida ou nome definido.</translation>
     </message>
 </context>
 <context>
     <name>KxCreatePivotTableDlg</name>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode modificar a Tabela Pivô com estes dados. Por favor, verifique seus dados e se certifique que a referência é válida e que a planilha de trabalho existe.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>A referência não é válida.</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar Tabela Pivô</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode criar uma Tabela Pivô com estes dados. Por favor, verifique se os dados que você quer analisar seguem as seguintes condições:
+1.Certifique-se que a referência existe. Se for um nome, deve ser um intervalo válido;
+2.Certifique-se que a referência é um intervalo único, e deve conter no mínimo duas linhas;
+3.Certifique-se que a primeira linha do intervalo de referência não contém células vazias, nenhum valor com erro, e que cada célula contém não mais que 255 caractéres.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>A posição que você escolhe para colocar a Tabela Pivô não é válida. Por favor, certifique-se que seja um intervalo de referência válido, e não um intervalo de uma planilha oculta.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode criar uma Tabela Pivô com estes dados. Por favor, verifique seus dados e se certifique que a referência é válida e que a planilha de trabalho existe.</translation>
     </message>
 </context>
 <context>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulação</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Figura</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabeçalho</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodapé</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;[%1]</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos as figuras</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Enhanced Metafile</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Metafile</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG File InterChange Format</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Network Graphics</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Bitmap</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphics Interchange Format</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Tag Image File Format</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished"></translation>
+        <translation>O cabeçalho ou rodapé (total da seção esquerda, centro e direita) não pode ser maior que 255 caractéres. Exclua algum texto, ou faça a formatação menos complexa.</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, click OK.
 To keep existing picture, click Cancel button.</source>
-        <translation type="unfinished"></translation>
+        <translation>SOmente uma figura pode ser inserida em cada seção de %1.
+
+Para subistituir a figura existente, clique em OK.
+Para manter a figura existente, clique no botão Cancelar.</translation>
     </message>
 </context>
 <context>
     <name>KxDefineNameDlg</name>
     <message>
         <source> - Reference location:</source>
-        <translation type="unfinished"></translation>
+        <translation> - Local de referência:</translation>
     </message>
     <message>
         <source>workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Livro de trabalho</translation>
     </message>
     <message>
         <source>The name is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome está vazio.</translation>
     </message>
     <message>
         <source>That name is not valid or the formula contains an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome não pe valido ou a fórmula contém um erro.</translation>
     </message>
     <message>
         <source>Error occurred when deleting the items!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro ao deletar os itens!</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAdcancedFilter</name>
     <message>
         <source>Advanced Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro avançado</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ação</translation>
     </message>
     <message>
         <source>&amp;Filter the list, in-place</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Filtrar a lista, no local</translation>
     </message>
     <message>
         <source>C&amp;opy to another location</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;opiar para outro local</translation>
     </message>
     <message>
         <source>&amp;List range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de &amp;lista:</translation>
     </message>
     <message>
         <source>&amp;Criteria range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de &amp;critérios:</translation>
     </message>
     <message>
         <source>Copy &amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar &amp;para:</translation>
     </message>
     <message>
         <source>Extends range, may co&amp;vers the original data</source>
-        <translation type="unfinished"></translation>
+        <translation>Extender intervalo, pode co&amp;brir os dados originais</translation>
     </message>
     <message>
         <source>Unique &amp;records only</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Registris únicos apenas</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAllowUsersToEditRanges</name>
     <message>
         <source>Allow Users to Edit Ranges</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir que usuários editem intervalos</translation>
     </message>
     <message>
         <source>&amp;Ranges unlocked by a password when sheet is protected:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Intervalo desbloqueado por senha quando a planilha está protegida:</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Refers to cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Refere a células</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Novo...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modificar...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Excluir</translation>
     </message>
     <message>
         <source>Pr&amp;otect Sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Proteger planilha...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAssignMacro</name>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Atribuir macro</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do &amp;Macro:</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Limpar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCellPasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar especial</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tudo</translation>
     </message>
     <message>
         <source>All e&amp;xcept borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudo e&amp;xceto bordas</translation>
     </message>
     <message>
         <source>&amp;Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fórmulas</translation>
     </message>
     <message>
         <source>Column &amp;widths</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Larguras de coluna</translation>
     </message>
     <message>
         <source>&amp;Values</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Valores</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas and number formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Fo&amp;rmatos de números e fórmulas</translation>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma&amp;tos</translation>
     </message>
     <message>
         <source>Val&amp;ues and number formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatos de números e vol&amp;ores</translation>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Operação</translation>
     </message>
     <message>
         <source>N&amp;one</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;enhuma</translation>
     </message>
     <message>
         <source>&amp;Multiply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Multiplicar</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;dicionar</translation>
     </message>
     <message>
         <source>D&amp;ivide</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ividir</translation>
     </message>
     <message>
         <source>&amp;Subtract</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Subtrair</translation>
     </message>
     <message>
         <source>Skip &amp;blanks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pular em &amp;branco</translation>
     </message>
     <message>
         <source>Transpos&amp;e</source>
-        <translation type="unfinished"></translation>
+        <translation>Tras&amp;por</translation>
     </message>
 </context>
 <context>
     <name>KxDlgChangeRangePassword</name>
     <message>
         <source>Change Range Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar senha do intervalo</translation>
     </message>
     <message>
         <source>&amp;New password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nova senha:</translation>
     </message>
     <message>
         <source>&amp;Confirm new password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Confirmar nova senha:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConditionFormat</name>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatação condicional</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;3</translation>
     </message>
     <message>
         <source>&amp;Add&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adicionar&gt;&gt;</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Excluir...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
         <source>Confirm Password of Range Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar senha do diálogo de intervalo</translation>
     </message>
     <message>
         <source>&amp;Reenter password to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reinsira a senha para prosseguir.</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place. (Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenção: Se você perder ou esquecer a senha, ela não poderá ser recuperada. É recomendável manter uma lista de senha e seus livros de trabalho correspondentes e nomes de planilha em um local seguro. (Lembre-se que as senhas diferenciam maiúsculas de minúsculas.)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConfirmProtectSheet</name>
     <message>
         <source>Confirm Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar senha</translation>
     </message>
     <message>
         <source>&amp;Reenter password to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reinsira a senha para prosseguir.</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be 
 recovered. It is advisable to keep a list of passwords and 
 their corresponding workbook and sheet names in a safe 
 place.(Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenção: Se você perder ou esquecer a senha, ela não poderá ser
+recuperada. É recomendável manter uma lista de senha e
+seus livros de trabalho correspondentes e nomes de planilha em um local
+seguro. (Lembre-se que as senhas diferenciam maiúsculas de minúsculas.)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConsolidate</name>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"></translation>
+        <translation>Consolidar</translation>
     </message>
     <message>
         <source>&amp;Function:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Função:</translation>
     </message>
     <message>
         <source>cbxFunction</source>
-        <translation type="unfinished"></translation>
+        <translation>Funçãocbx</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Referência:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Navegar...</translation>
     </message>
     <message>
         <source>All r&amp;eferences:</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as r&amp;erefências:</translation>
     </message>
     <message>
         <source>lbx All References</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as referências lbx</translation>
     </message>
     <message>
         <source>asdf</source>
-        <translation type="unfinished"></translation>
+        <translation>asdf</translation>
     </message>
     <message>
         <source>asd</source>
-        <translation type="unfinished"></translation>
+        <translation>asd</translation>
     </message>
     <message>
         <source>fas</source>
-        <translation type="unfinished"></translation>
+        <translation>fas</translation>
     </message>
     <message>
         <source>df</source>
-        <translation type="unfinished"></translation>
+        <translation>df</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adicionar</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex&amp;cluir</translation>
     </message>
     <message>
         <source>Use labels in</source>
-        <translation type="unfinished"></translation>
+        <translation>Usaretiquetas em</translation>
     </message>
     <message>
         <source>&amp;Top row</source>
-        <translation type="unfinished"></translation>
+        <translation>Linha &amp;superior</translation>
     </message>
     <message>
         <source>&amp;Left column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coluna es&amp;querda</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCreateGroup</name>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Linhas</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Colunas</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCreateNames</name>
     <message>
         <source>Create Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar nomes</translation>
     </message>
     <message>
         <source>Create names in</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar nomes em</translation>
     </message>
     <message>
         <source>&amp;Top row</source>
-        <translation type="unfinished"></translation>
+        <translation>Linha &amp;superior</translation>
     </message>
     <message>
         <source>&amp;Left column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coluna es&amp;querda</translation>
     </message>
     <message>
         <source>&amp;Bottom row</source>
-        <translation type="unfinished"></translation>
+        <translation>Linha &amp;inferior</translation>
     </message>
     <message>
         <source>&amp;Right column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coluna &amp;direita</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCreatePivotTable</name>
     <message>
         <source>Create Pivot Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar tabela pivô</translation>
     </message>
     <message>
         <source>Choose the data that you want to analyize</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha os dados que quer analisar</translation>
     </message>
     <message>
         <source>&amp;Select a range:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Selecionar intervalo:</translation>
     </message>
     <message>
         <source>&amp;Use another pivot table:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usar outra tabela pivô:</translation>
     </message>
     <message>
         <source>Choose where you want the pivot table to be placed</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha onde você quer que a tabela pivô seja colocada</translation>
     </message>
     <message>
         <source>&amp;New Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nova planilha de trabalho</translation>
     </message>
     <message>
         <source>&amp;Existing Worksheet:</source>
-        <translation type="unfinished"></translation>
+        <translation>Planilha de trabalho &amp;existente:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCustomHeaderFooter</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Diálogo</translation>
     </message>
     <message>
         <source>To format text: select the text, then choose the font button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para formatar o texto: selecione o texto, então esolha o botão de fontes.</translation>
     </message>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para inserir número de página, data, hora, nome do arquivo: posicione o ponto de inserção na caixa
+de edição, então escolha o botão apropriado.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para inserir figura: pressione o botão Inserir figura. Pra formatar sua figura, coloque o
+cursor na caixa de edição e pressione o botão Formatar figura.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulação</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir figura</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir figura</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seção &amp;esquerda:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seção &amp;central:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seção &amp;direita:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDefineName</name>
     <message>
         <source>Define Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir nome</translation>
     </message>
     <message>
         <source>Names in &amp;workbook:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomes no &amp;livro de trabalho:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adicionar</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Excluir</translation>
     </message>
     <message>
         <source>&amp;Refers to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Referir a:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDelCell</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar células à &amp;esquerda</translation>
     </message>
     <message>
         <source>Shift cells &amp;up</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar células &amp;acima</translation>
     </message>
     <message>
         <source>Entire &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Linha inteira</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Coluna inteira</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDeleteCondition</name>
     <message>
         <source>Delete Conditional  Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir formatação condicional</translation>
     </message>
     <message>
         <source>Select the condition(s) to delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione a(s) condição(ões) a excluir:</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>Condição &amp;3</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEDRProperties</name>
     <message>
         <source>External Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades de intervalo de dedos externos</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nome:</translation>
     </message>
     <message>
         <source>Data formatting and layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatação de data e layout</translation>
     </message>
     <message>
         <source>&amp;Adjust Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajustar largura da coluna</translation>
     </message>
     <message>
         <source>Pre&amp;serveFormatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre&amp;servar formatação</translation>
     </message>
     <message>
         <source>If the number of rows in the data range changes upon  refresh:</source>
-        <translation type="unfinished"></translation>
+        <translation>Se o número de linhas do intervalo de dados muda ao atualizar:</translation>
     </message>
     <message>
         <source>Insert &amp;cells for new data,clear unused cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir &amp;células para novos dados, limpar células não usadas</translation>
     </message>
     <message>
         <source>Insert entire ro&amp;ws for new data, and clear unused cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir &amp;linhas inteiras para novos dados, limpar células não usadas</translation>
     </message>
     <message>
         <source>&amp;Overwrite existing cells with new data,clear unused cells</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sobrescrever células existentes com os novos dados, limpar células não usadas</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditOLEDBQuery</name>
     <message>
         <source>Edit OLE DB Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar pergunta OLE DB</translation>
     </message>
     <message>
         <source>&amp;Connection:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Conexão:</translation>
     </message>
     <message>
         <source>Command &amp;Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tipo de comando:</translation>
     </message>
     <message>
         <source>SQL</source>
-        <translation type="unfinished"></translation>
+        <translation>SQL</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Command T&amp;ext:</source>
-        <translation type="unfinished"></translation>
+        <translation>Te&amp;xto de comando:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFillAcross</name>
     <message>
         <source>Fill Across Worksheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Preencher através das planilhas de trabalho</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Preencher</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tudo</translation>
     </message>
     <message>
         <source>&amp;Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Conteúdo</translation>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formatos</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFindReplace</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrar</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Encontrar</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;ncontrar o que:</translation>
     </message>
     <message>
         <source>Wit&amp;hin:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dentro:</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Planilha</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Livro de trabalho</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Caso de correspondência</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Localizar:</translation>
     </message>
     <message>
         <source>By rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Por linhas</translation>
     </message>
     <message>
         <source>By columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Por colunas</translation>
     </message>
     <message>
         <source>Match entire cell c&amp;ontents</source>
-        <translation type="unfinished"></translation>
+        <translation>Corresponder &amp;conteúdo inteiro da célula</translation>
     </message>
     <message>
         <source>&amp;Look in:</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;lhar em:</translation>
     </message>
     <message>
         <source>Smart</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteligente</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórmulas</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Valores</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários</translation>
     </message>
     <message>
         <source>Match &amp;byte</source>
-        <translation type="unfinished"></translation>
+        <translation>Corresponder &amp;bytes</translation>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opções&lt;&lt;</translation>
     </message>
     <message>
         <source>Re&amp;place</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;ubstituir</translation>
     </message>
     <message>
         <source>R&amp;eplace with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Su&amp;bstituir por:</translation>
     </message>
     <message>
         <source>&amp;Go to</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ir para</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>D&amp;ata</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ado</translation>
     </message>
     <message>
         <source>Hyperl&amp;ink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperl&amp;ink</translation>
     </message>
     <message>
         <source>C&amp;onstants</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;onstantes</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Fó&amp;rmulas</translation>
     </message>
     <message>
         <source>Data type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de dado:</translation>
     </message>
     <message>
         <source>N&amp;umbers</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;úmeros</translation>
     </message>
     <message>
         <source>Te&amp;xt</source>
-        <translation type="unfinished"></translation>
+        <translation>Te&amp;xto</translation>
     </message>
     <message>
         <source>&amp;Logicals</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lógicos</translation>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Erros</translation>
     </message>
     <message>
         <source>&amp;Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comentários</translation>
     </message>
     <message>
         <source>Blan&amp;ks</source>
-        <translation type="unfinished"></translation>
+        <translation>Em &amp;branco</translation>
     </message>
     <message>
         <source>Visible cells onl&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Apenas células &amp;visíveis</translation>
     </message>
     <message>
         <source>La&amp;st cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Ú&amp;ltima célula</translation>
     </message>
     <message>
         <source>Curre&amp;nt data area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de dados a&amp;tual</translation>
     </message>
     <message>
         <source>O&amp;bject</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;bjeto</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir &amp;tudo</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substitui&amp;r</translation>
     </message>
     <message>
         <source>F&amp;ind All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Localizar tudo</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizar &amp;proximo</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Livro</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Célula</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fonte:</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de f&amp;onte:</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation>Regular</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito itálico</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tamanho:</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation>11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation>12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation>14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation>16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation>18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation>22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation>24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished"></translation>
+        <translation>26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation>28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation>36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation>48</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation>72</translation>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sublinhado:</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Único</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efeitos</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Riscado</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Super&amp;escrito</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"></translation>
+        <translation>So&amp;bescrito</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your 
 printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta é uma fonte TrueType. A mesma fonte será usada na sua
+impressora e na sua tela.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFormatCells</name>
     <message>
         <source>Format Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatar células</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFormatGraphic</name>
     <message>
         <source>Format Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatar gráfico</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Size and rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar tamanho e rotação</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;ltura:</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation type="unfinished"></translation>
+        <translation>ucShapeHeight</translation>
     </message>
     <message>
         <source>pt, 2, -10, 1e+08, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pt, 2, -10, 1e+08, 1</translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Largura:</translation>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation type="unfinished"></translation>
+        <translation>ucShapeWidth</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rotação:</translation>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation type="unfinished"></translation>
+        <translation>ucRotation</translation>
     </message>
     <message>
         <source>degree, 0, -360000, 360000, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>grau, 0, -360000, 360000, 1</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Al&amp;tura:</translation>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation type="unfinished"></translation>
+        <translation>ucScaleHeight</translation>
     </message>
     <message>
         <source>%, 0, -10, 999999, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>%, 0, -10, 999999, 1</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>La&amp;rgura:</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation type="unfinished"></translation>
+        <translation>ucScaleWidth</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Travar razão de &amp;aspecto</translation>
     </message>
     <message>
         <source>Relative to original  picture size</source>
-        <translation type="unfinished"></translation>
+        <translation>Relativa ao tamanho original da figura</translation>
     </message>
     <message>
         <source>Original Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho original</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Altura:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura:</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Figura</translation>
     </message>
     <message>
         <source>Crop from</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar de</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Esquerda</translation>
     </message>
     <message>
         <source>ucCropLeft</source>
-        <translation type="unfinished"></translation>
+        <translation>ucCropLeft</translation>
     </message>
     <message>
         <source>pt, 2, -1e+08, 1e+08, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pt, 2, -1e+08, 1e+08, 1</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Topo:</translation>
     </message>
     <message>
         <source>ucCropTop</source>
-        <translation type="unfinished"></translation>
+        <translation>ucCropTop</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Direita:</translation>
     </message>
     <message>
         <source>ucCropRight</source>
-        <translation type="unfinished"></translation>
+        <translation>ucCropRight</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Base:</translation>
     </message>
     <message>
         <source>ucCropBottom</source>
-        <translation type="unfinished"></translation>
+        <translation>ucCropBottom</translation>
     </message>
     <message>
         <source>Image Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle de imagem</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cor:</translation>
     </message>
     <message>
         <source>cbDropDownList</source>
-        <translation type="unfinished"></translation>
+        <translation>cbDropDownList</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de cinza</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Preto e branco</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca d&apos;água</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;rilho:</translation>
     </message>
     <message>
         <source>ucBrightness</source>
-        <translation type="unfinished"></translation>
+        <translation>ucBrightness</translation>
     </message>
     <message>
         <source>%, 1, -10, 999999, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>%, 1, -10, 999999, 1</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
-        <translation type="unfinished"></translation>
+        <translation>Con&amp;traste:</translation>
     </message>
     <message>
         <source>ucContrast</source>
-        <translation type="unfinished"></translation>
+        <translation>ucContrast</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
-        <translation type="unfinished"></translation>
+        <translation>Co&amp;mprimir...</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation>Rede&amp;finir</translation>
     </message>
 </context>
 <context>
