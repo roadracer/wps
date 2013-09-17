@@ -1,6 +1,9 @@
 all:
 	./each_locale $(MAKE) all
 
+update:
+	./each_locale $(MAKE) update
+
 install:
 	./each_locale $(MAKE) install
 

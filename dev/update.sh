@@ -1,17 +1,46 @@
 #!/bin/bash
 
-set -e 
+set -e
 
-CODING=../../..
+cur_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-LOCALES=`ls ../*/lang.conf | sed 's#^\.\./\(.*\)/lang.conf#\1#' | grep -v en_US`
-if [ ! -z "$1" -a "$1" != "ALL" ]; then
-	LOCALES=$1
+while getopts c:p:l:h flag; do
+	case $flag in
+		c)
+			CODING=$OPTARG
+			;;
+		p)
+			PROJS=$OPTARG
+			;;
+		l)
+			LNG=$OPTARG
+			;;
+		h)
+			echo "Usage:"
+			echo "$0 [-c Coding] [-p project] [-l language]"
+			exit 0
+			;;
+		?)
+			exit 1
+			;;
+	esac
+done
+
+if [ -z "CODING" ] ; then
+	if [ ! -z "WPS_CODING" ] ; then
+		CODING=$WPS_CODING
+	else
+		CODING=../../..
+	fi
 fi
 
-PROJS=`cat projs | sed -n 's/#.*$//;s/\[.*\]\s*\(\w*\):.*$/\1/p'`
-if [ ! -z "$2" ]; then
-	PROJS=$2
+LOCALES=`ls $cur_dir/../*/lang.conf | sed 's#^\.\./\(.*\)/lang.conf#\1#' | grep -v en_US`
+if [ ! -z "$LNG" -a "$LNG" != "ALL" ]; then
+	LOCALES=$LNG
+fi
+
+if [ -z "$PROJS" ]; then
+	PROJS=`cat $cur_dir/projs | sed -n 's/#.*$//;s/\[.*\]\s*\(\w*\):.*$/\1/p'`
 fi
 
 function kui2ts_update()
@@ -46,8 +75,8 @@ for l in $LOCALES
 {
 	for p in $PROJS
 	{
-		TYPE=`sed -n "/$p:/ s/^\[\(.*\)\].*$/\1/p" projs`
-		DIR=`sed -n "/$p:/ s/^.*:\s*\(.*\)$/\1/p" projs`
+		TYPE=`sed -n "/$p:/ s/^\[\(.*\)\].*$/\1/p" $cur_dir/projs`
+		DIR=`sed -n "/$p:/ s/^.*:\s*\(.*\)$/\1/p" $cur_dir/projs`
 		if [ "$TYPE" == "qt" ]; then
 			lupdate -silent -locations none -target-language $l -recursive $CODING/$DIR -ts ../$l/ts/$p.ts
 		elif [ "$TYPE" == "core" ]; then

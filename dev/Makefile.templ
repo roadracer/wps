@@ -1,6 +1,7 @@
 MAKE_QM="../dev/make_qm.sh"
 MAKE_RCC="../dev/make_rcc.sh"
 MAKE_INSTALL="../dev/make_install.sh"
+MAKE_UPDATE="../dev/make_update.sh"
 LANGID=`basename ${CURDIR}`
 
 ifeq (${USER},root)
@@ -20,6 +21,9 @@ qm:
 
 rcc:
 	@ ${MAKE_RCC} res/*.qrc
+
+update:
+	@ ${MAKE_UPDATE}
 
 install: all uninstall
 	@ ${MAKE_INSTALL}
