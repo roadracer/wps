@@ -581,6 +581,10 @@
         <translation>行内</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>図の挿入</translation>
     </message>
@@ -647,6 +651,10 @@
     <message>
         <source>Nudge</source>
         <translation>微調整</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -1647,6 +1655,10 @@ Merged Data</source>
         <translation>繁体字中国語に変換</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>数式</translation>
     </message>
@@ -1775,7 +1787,7 @@ Merged Data</source>
     </message>
     <message>
         <source>true</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
@@ -2231,15 +2243,23 @@ Merged Data</source>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>対角線付きセルの挿入</translation>
+        <translation type="obsolete">対角線付きセルの挿入</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>対角線付きセルの挿入</translation>
+        <translation type="obsolete">対角線付きセルの挿入</translation>
+    </message>
+    <message>
+        <source>Draw MutidiagonalCell</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
         <translation>罫線を引く</translation>
+    </message>
+    <message>
+        <source>DrawMutidiagonalCell</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -2275,7 +2295,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation>表のスタイル</translation>
+        <translation type="obsolete">表のスタイル</translation>
+    </message>
+    <message>
+        <source>TableStyle</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2674,6 +2698,10 @@ On</source>
         <translation>横書き</translation>
     </message>
     <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>In Front of Text</source>
         <translation>前面</translation>
     </message>
@@ -2887,6 +2915,10 @@ On</source>
         <translation>縦書き</translation>
     </message>
     <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Weight</source>
         <translation>線の種類</translation>
     </message>
@@ -2904,6 +2936,10 @@ On</source>
     <message>
         <source>Backup Management</source>
         <translation>ドキュメントの回復</translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -2967,6 +3003,10 @@ On</source>
     </message>
     <message>
         <source>KingsoftOffice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2013 Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3038,6 +3078,10 @@ On</source>
         <translation>プロパティ</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reload</source>
         <translation>再ロード</translation>
     </message>
@@ -3063,10 +3107,6 @@ On</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>StudyOnline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3104,6 +3144,10 @@ On</source>
         <translation>定型句の挿入</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close</source>
         <translation>閉じる</translation>
     </message>
@@ -3133,6 +3177,10 @@ Options</source>
     <message>
         <source>Insert</source>
         <translation>挿入</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3373,6 +3421,11 @@ Header and Footer</source>
         <translation>サイズ</translation>
     </message>
     <message>
+        <source>Format
+Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Painter</source>
         <translation>書式のコピー/貼り付け</translation>
     </message>
@@ -3387,6 +3440,10 @@ Header and Footer</source>
     <message>
         <source>Highlight</source>
         <translation>蛍光ペン</translation>
+    </message>
+    <message>
+        <source>Home Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3482,7 +3539,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オブジェクトの選択と表示</translation>
+        <translation type="obsolete">オブジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
@@ -3731,6 +3788,22 @@ Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>リンク</translation>
     </message>
@@ -3781,6 +3854,11 @@ Header and Footer</source>
     <message>
         <source>Shapes</source>
         <translation>図形</translation>
+    </message>
+    <message>
+        <source>Sym
+bol</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -4265,6 +4343,10 @@ Merged Data</source>
     <message>
         <source>Rotate Right 90掳</source>
         <translation type="obsolete">右に90度回転</translation>
+    </message>
+    <message>
+        <source>Rotate Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5398,7 +5480,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
+    </message>
+    <message>
+        <source>DetailedSettings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -5953,7 +6039,7 @@ On/Off</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -6169,6 +6255,10 @@ Cells</source>
         <translation>並べて表示</translation>
     </message>
     <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>重ねて表示</translation>
     </message>
@@ -6186,6 +6276,10 @@ Other Windows</source>
     <message>
         <source>Close Window</source>
         <translation>ウィンドウを閉じる</translation>
+    </message>
+    <message>
+        <source>Compared Side By Side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6308,8 +6402,12 @@ Other Windows</source>
         <translation type="obsolete">グリッド線の表示</translation>
     </message>
     <message>
+        <source>View Side By Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View Side by Side</source>
-        <translation>並べて比較</translation>
+        <translation type="obsolete">並べて比較</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -7470,6 +7568,10 @@ On</source>
         <translation>中国語の翻訳</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>クリップボード</translation>
     </message>
@@ -7823,6 +7925,10 @@ Diagonal Line in Cell</source>
         <translation>ファイルから</translation>
     </message>
     <message>
+        <source>From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>全画面表示</translation>
     </message>
@@ -7913,6 +8019,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Insert</source>
         <translation>挿入</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -9206,6 +9316,10 @@ Diagonal Line in Cell</source>
         <translation>Kingsoft Writer テンプレート(*.wpt)</translation>
     </message>
     <message>
+        <source>Microsoft Word 2007-2013 Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Microsoft Word ファイル(*.doc)</translation>
     </message>
@@ -9303,10 +9417,6 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>StudyOnline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9961,6 +10071,18 @@ Header and Footer</source>
     <message>
         <source>Insert Picture</source>
         <translation>図の挿入</translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -14431,6 +14553,17 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DropCap</name>
     <message>
         <source>Create a large capital letter at the beginning of a paragraph.</source>
@@ -15015,6 +15148,17 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
 </context>
 <context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase Indent</source>
@@ -15394,6 +15538,22 @@ Click the arrow to insert file content into the document.</source>
     <message>
         <source>Insert a picture from a file.</source>
         <translation>図をファイルから挿入します</translation>
+    </message>
+    <message>
+        <source>InsertPictureFromFile Content2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertPictureFromFile Title2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkUrl</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16065,6 +16225,17 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
 </context>
 <context>
+    <name>tips.PageLayoutDetailedSettings</name>
+    <message>
+        <source>PageLayoutDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageLayoutDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PageNumber</name>
     <message>
         <source>Insert Page Number</source>
@@ -16144,6 +16315,17 @@ Click the arrow to choose from different numbering formats.</source>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
         <translation>ページ幅がウィンドウの幅に合うように文書を拡大/縮小します</translation>
+    </message>
+</context>
+<context>
+    <name>tips.ParagraphDetailedSettings</name>
+    <message>
+        <source>ParagraphDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ParagraphDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16262,6 +16444,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     <message>
         <source>Picture Size</source>
         <translation>サイズ</translation>
+    </message>
+</context>
+<context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16707,6 +16900,17 @@ Click the arrow to select different background colors.</source>
     <message>
         <source>View Macros</source>
         <translation>マクロの表示</translation>
+    </message>
+</context>
+<context>
+    <name>tips.SectionDetailedSettings</name>
+    <message>
+        <source>SectionDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SectionDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17435,6 +17639,17 @@ This is often used to indicate that the document is to be treated specially, suc
     <message>
         <source>WordArt Alignment</source>
         <translation>配置</translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18691,6 +18906,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>図形ツール</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>ファイル</translation>
     </message>
@@ -18917,6 +19136,10 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Drawing Tools</source>
         <translation>図形ツール</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>

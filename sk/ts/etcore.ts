@@ -934,6 +934,286 @@ To fix the links, select a single sheet and click Edit Links.</source>
         <source>The operation will effect a large number of cells and it may take several minutes to complete. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Value Of</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Empty)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variable Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Binding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Final</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forming Limits Report...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limits Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Precision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Automatic Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Iteration Results</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convergence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Integer Solutions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer Tolerance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solve Without Integer Constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sensitivity Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlimited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assume NonNegative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective Cell Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variable Cells Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraints Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subproblem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver Engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solution Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simplex LP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Answer Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Subproblems</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Coefficient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allowable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R.H. Sid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Price</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trail Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting Up Problem...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forming Answer Report...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forming Sensitivity Report...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_appcore</name>
@@ -1404,26 +1684,6 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You cannot perform next operation due to one of the following reasons:
- 
- You haven&apos;t selected any field, please select fields from fields list first.
- 
-  The field list name is blank by chance.
- 
-  The generated query failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot perform next operation due to one of the following reasons:
- 
-  The query string is blank.
- 
-  The string you typed is not accordant with SQL grammar.
- 
-  The generated query is failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Field names</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1501,11 +1761,6 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Error password or user name!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1605,27 +1860,34 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Select fields from the left list, then click &quot;Add to the list&quot;.
-Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
-Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>et_excelrw</name>
-    <message utf8="true">
-        <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
-Do you still want to open this file?
-
-• Click Yes, Kingsoft Spreadsheets will continue to open this file.
-• Click No, Kingsoft Spreadsheets will stop opening this file.
-
-Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
-(%s)</source>
+        <source>You cannot perform next operation due to one of the following reasons:
+ 
+ You haven&apos;t selected any field, please select fields from fields list first.
+ 
+  The field list name is blank by chance.
+ 
+  The generated query failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chart Title</source>
+        <source>You cannot perform next operation due to one of the following reasons:
+ 
+  The query string is blank.
+ 
+  The string you typed is not accordant with SQL grammar.
+ 
+  The generated query is failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select fields from the left list, then click &quot;Add to the list&quot;.
+Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
+Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4434,6 +4696,21 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
 ·To choose a different name,click No and enter a new name in the Name Conflict dialog box.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
+Do you still want to open this file?
+
+? Click Yes, Kingsoft Spreadsheets will continue to open this file.
+? Click No, Kingsoft Spreadsheets will stop opening this file.
+
+Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_render</name>
@@ -4731,18 +5008,6 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Workbook is protected and cannot be changed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7848,6 +8113,18 @@ Continue ?</source>
         <source> is invalid for your system, do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The entered value is invalid.
+
+The values which can be typed here is restricted by other users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Continue ?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_undodesc</name>
@@ -8519,13 +8796,6 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cannot modify the cell or chart, perhaps:
-
-- Worksheet is protected and the cell is locked.
-- The cell is part of an array.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PivotTable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9002,12 +9272,6 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Spreadsheets cannot use the number format you entered.
-Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
-the category you want, and then choose the other options.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The word contains unallowable characters, we can&apos;t handle it.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9444,14 +9708,6 @@ the category you want, and then choose the other options.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The sort reference is invalid due to one the possible reasons below: 
-
-%s The first Sort By box is blank. 
-%s There are two same sort references. 
-%s The sort reference you entered is not within the current selection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Source:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9647,26 +9903,8 @@ the category you want, and then choose the other options.</source>
         <source>Picture</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>Only one picture can be inserted in each section of the %s.
-
-·To replace existing picture, click OK.
-·To keep existing picture, click Cancel button.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Other Sheets...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The command you choose cannot be performed with multiple selections.
-Select a single range and click the command again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The reference you entered is not valid, or you did not provide a reference where one was required.
-
-To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9758,6 +9996,57 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Input Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot modify the cell or chart, perhaps:
+
+- Worksheet is protected and the cell is locked.
+- The cell is part of an array.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot use the number format you entered.
+Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
+the category you want, and then choose the other options.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sort reference is invalid due to one the possible reasons below: 
+
+%s The first Sort By box is blank. 
+%s There are two same sort references. 
+%s The sort reference you entered is not within the current selection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>Only one picture can be inserted in each section of the %s.
+
+·To replace existing picture, click OK.
+·To keep existing picture, click Cancel button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command you choose cannot be performed with multiple selections.
+Select a single range and click the command again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The reference you entered is not valid, or you did not provide a reference where one was required.
+
+To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>If there are repeated contents in cells in the following range,
 the cells will be set in orange background.
 
@@ -9776,18 +10065,6 @@ contents.
 ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reject Input Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

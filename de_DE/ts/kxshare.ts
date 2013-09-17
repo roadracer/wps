@@ -82,7 +82,7 @@
         <translation type="obsolete">:/NetbackupWizard/DEU_emptybacktip.png</translation>
     </message>
     <message>
-        <source>:/NetbackupWizard/ENU_emptybacktip.png</source>
+        <source>emptybacktip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -417,6 +417,53 @@
     <message>
         <source>Symbol</source>
         <translation>Symbol</translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageChooseDialog</name>
+    <message>
+        <source>Choose Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get More...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install Locale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Language Installation Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>archives (*.zip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install Language Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>installation fails, make sure to install the complete package!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose your language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings will be effected after application restarted.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1091,6 +1138,14 @@
         <source>%1(%2)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>res:/icons/kxshare/%1.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Part of %1 activation version</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxApplication</name>
@@ -1265,6 +1320,14 @@
     <name>KxCommandListModel</name>
     <message>
         <source>Failed to add new command! It may exist already.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxControlToolboxToolBarViewCommand</name>
+    <message>
+        <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1482,6 +1545,14 @@
     </message>
     <message>
         <source>Renaming toolbar is successful!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDevelopToolsTriggerCommand</name>
+    <message>
+        <source>To work with Developer tab (including Macros, Control
+Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2972,8 +3043,17 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">http://www.kingsoftstore.de/software/pc-office-list.html</translation>
     </message>
     <message>
-        <source>Click to try it now.</source>
+        <source>Click to purchase now.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMacroListCommand</name>
+    <message>
+        <source>To work with macros, please purchase Kingsoft Office Professional.
+</source>
+        <translation type="unfinished">Um mit Makros zu arbeiten, erwerben Sie bitte Kingsoft Office Professional.
+</translation>
     </message>
 </context>
 <context>
@@ -3551,6 +3631,29 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
 </context>
 <context>
+    <name>KxSetSpellcheckLanguageDlg</name>
+    <message>
+        <source>Choose Spellcheck Installation Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install Spellcheck Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installation fails, make sure to install the complete package!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spellcheck language already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxStartup</name>
     <message>
         <source>Modal dialog! Can&apos;t process files!</source>
@@ -3614,6 +3717,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxSwitchView</name>
     <message>
         <source>This locale can not use the skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>restart will change</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4286,23 +4393,11 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucBrightness</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%, 1, 0, 100, 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucCropRight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>pt, 2, -169077, 169077, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbDropDownList</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4326,19 +4421,7 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucContrast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucCropLeft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucCropBottom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4351,10 +4434,6 @@ of services and features.</source>
     </message>
     <message>
         <source>Image control</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucCropTop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4818,7 +4897,7 @@ immer diese Aktion durchführen</translation>
     <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
 (The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="obsolete">Kingsoft Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
+        <translation type="unfinished">Kingsoft Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
 (Das System verwendet Kingsoft Office standardmäßig zum Öffnen von doc-, xls- und ppt-Dateien)</translation>
     </message>
     <message>
@@ -4919,11 +4998,6 @@ immer diese Aktion durchführen</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls and ppt files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4965,10 +5039,6 @@ immer diese Aktion durchführen</translation>
     </message>
     <message>
         <source>Dutch (The Netherlands)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Norwegian (Bokmål)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5468,7 +5538,11 @@ immer diese Aktion durchführen</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The selected dict was deleted, please select another dict.</source>
+        <source>Norwegian (BokmÃ¥l)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected dict has been deleted, please select another dict.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5796,8 +5870,16 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>close</source>
+        <source>More</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Schließen</translation>
     </message>
 </context>
 <context>
@@ -6067,6 +6149,21 @@ Document</source>
     </message>
     <message>
         <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>updateMessageDlg</name>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is prepared. Would you like to get it now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore this version.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar">
+<TS version="2.0" language="en_US">
 <context>
     <name>aeobean</name>
     <message>
@@ -1237,6 +1237,10 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Click to edit Master subtitle Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1885,10 +1889,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4021,6 +4021,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Folder name can not contain the characters bellow:
+    \ / : * ? | &lt; &gt;
+
+Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apos;%s&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The length of the folder path bellow is %d, but it can not be longer than 255. Please modify it.
+
+%s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4058,19 +4071,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Modify Motion Paths</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Folder name can not contain the characters bellow:
-    \ / : * ? | &lt; &gt;
-
-Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apos;%s&quot;?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The length of the folder path bellow is %d, but it can not be longer than 255. Please modify it.
-
-%s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

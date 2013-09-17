@@ -2324,6 +2324,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Kingsoft Office encountered an error when saving the file, please try again or contact customer service.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>krm</name>

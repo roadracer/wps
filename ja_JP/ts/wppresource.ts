@@ -537,6 +537,10 @@
         <translation>横書き</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>画像を挿入</translation>
     </message>
@@ -1380,6 +1384,10 @@ Master</source>
         <translation>表の挿入</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>数式</translation>
     </message>
@@ -1430,6 +1438,10 @@ Master</source>
     <message>
         <source>Send E-mail</source>
         <translation>Eメール</translation>
+    </message>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text</source>
@@ -2601,6 +2613,10 @@ On</source>
         <translation>ドキュメントの回復(K)</translation>
     </message>
     <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>文書の情報</translation>
     </message>
@@ -2693,6 +2709,10 @@ On</source>
         <translation>新規プレゼンテーション</translation>
     </message>
     <message>
+        <source>New From Default Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New From Online Templates</source>
         <translation type="obsolete">オンラインテンプレートから新規作成</translation>
     </message>
@@ -2757,6 +2777,10 @@ On</source>
         <translation>プロパティ(I)</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>上書き保存(S)</translation>
     </message>
@@ -2781,12 +2805,8 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">Kingsoft Writerに変換(H)</translation>
+        <translation type="unfinished">Kingsoft Writerに変換(H)</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -2802,7 +2822,7 @@ On</source>
     </message>
     <message>
         <source>true</source>
-        <translation type="obsolete">OK</translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -3289,6 +3309,10 @@ Slide</source>
         <translation>影なし</translation>
     </message>
     <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Package into Folder</source>
         <translation>フォルダを作成して保存</translation>
     </message>
@@ -3399,6 +3423,10 @@ Slide</source>
     <message>
         <source>Slide</source>
         <translation>スライド</translation>
+    </message>
+    <message>
+        <source>Slide Show From Beginning</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3608,6 +3636,10 @@ Slide</source>
     <message>
         <source>Gallery</source>
         <translation>ギャラリー</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -4106,6 +4138,10 @@ Slide</source>
         <translation>配置</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation>自動</translation>
     </message>
@@ -4216,6 +4252,10 @@ Slide</source>
     <message>
         <source>Insert</source>
         <translation>挿入</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4996,6 +5036,10 @@ Settings</source>
 の設定</translation>
     </message>
     <message>
+        <source>Slide Show From Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Transition</source>
         <translation>スライド切り替え</translation>
     </message>
@@ -5288,6 +5332,10 @@ Settings</source>
     <message>
         <source>Arrange All</source>
         <translation>並べて表示</translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6237,6 +6285,10 @@ On</source>
         <translation>矢印のオプション</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto Point</source>
         <translation>頂点の自動設定</translation>
     </message>
@@ -6307,6 +6359,10 @@ On</source>
     <message>
         <source>Change Picture</source>
         <translation>他のグラフィックスに変更する</translation>
+    </message>
+    <message>
+        <source>Change Points</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -6637,6 +6693,10 @@ On</source>
         <translation>インクの色</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Columns</source>
         <translation>列を挿入</translation>
     </message>
@@ -6682,7 +6742,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation>WPS BBS</translation>
+        <translation type="obsolete">WPS BBS</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -6694,7 +6754,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>Kingsoft Office ホームページ</translation>
+        <translation type="obsolete">Kingsoft Office ホームページ</translation>
     </message>
     <message>
         <source>Kingsoft Online</source>
@@ -6702,7 +6762,11 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation>Kingsoft Presentation ヘルプ</translation>
+        <translation type="obsolete">Kingsoft Presentation ヘルプ</translation>
+    </message>
+    <message>
+        <source>KingsoftOffice</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -6749,6 +6813,14 @@ On</source>
         <translation>マスタのレイアウト</translation>
     </message>
     <message>
+        <source>Menu Edit Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu New Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Cells</source>
         <translation>セルの結合</translation>
     </message>
@@ -6793,6 +6865,10 @@ Master</source>
     <message>
         <source>Normal</source>
         <translation>標準</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Object</source>
@@ -7047,6 +7123,10 @@ Master</source>
         <translation>スライド切り替え</translation>
     </message>
     <message>
+        <source>SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slides List</source>
         <translation>スライド リスト</translation>
     </message>
@@ -7060,7 +7140,7 @@ Master</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation>ノート</translation>
+        <translation type="obsolete">ノート</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -7084,10 +7164,6 @@ Master</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>StudyOnline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7143,12 +7219,20 @@ Master</source>
         <translation>可視</translation>
     </message>
     <message>
+        <source>WPS BBS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Microblog</source>
         <translation>WPS マイクロブログ</translation>
     </message>
     <message>
         <source>WPS New features</source>
         <translation>WPS 新機能</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
@@ -7281,7 +7365,7 @@ Master</source>
     </message>
     <message>
         <source>Level</source>
-        <translation>レベル</translation>
+        <translation type="obsolete">レベル</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -7310,6 +7394,10 @@ Master</source>
     <message>
         <source>Use AutoFormat</source>
         <translation>オートフォーマット</translation>
+    </message>
+    <message>
+        <source>level</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8062,12 +8150,8 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">Kingsoft Writerに変換（H）</translation>
+        <translation type="unfinished">Kingsoft Writerに変換（H）</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -8087,7 +8171,7 @@ AddIns</source>
     </message>
     <message>
         <source>true</source>
-        <translation type="obsolete">OK</translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -11949,6 +12033,17 @@ Click the arrow to select a different alignment.</source>
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DuplicateSlide</name>
     <message>
         <source>Insert a duplicate of the current slide into the presentation.</source>
@@ -12275,6 +12370,17 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13105,6 +13211,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
 </context>
 <context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PreComment</name>
     <message>
         <source>Pre Comment</source>
@@ -13429,6 +13546,17 @@ The amount of time you spend on each slide is recorded and you can save those ti
         <translation>「マクロ」のダイアログボックスが表示されます。
 
 マクロを一覧から選択して実行したり、マクロを作成および削除することができます</translation>
+    </message>
+</context>
+<context>
+    <name>tips.SaveBackgroundPicture</name>
+    <message>
+        <source>SaveBackgroundPicture Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveBackgroundPicture Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13985,6 +14113,17 @@ Click the arrow to select a different text color.</source>
     </message>
 </context>
 <context>
+    <name>tips.TextMargin</name>
+    <message>
+        <source>TextMargin Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextMargin Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
@@ -14048,6 +14187,17 @@ Click the arrow to select a different text color.</source>
     <message>
         <source>Character Spacing</source>
         <translation>文字の間隔</translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14659,7 +14809,7 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>グリッドの​​表示/非表示</translation>
+        <translation type="obsolete">グリッドの​​表示/非表示</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -14854,12 +15004,20 @@ Slide</source>
         <translation>すべて選択</translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ShapeAndGallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
         <translation>図形ポップアップ メニュー</translation>
+    </message>
+    <message>
+        <source>Show / Hide Grid</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Background Popup Menu</source>
@@ -14954,8 +15112,12 @@ Slide</source>
         <translation>テキスト編集ポップアップ メニュー</translation>
     </message>
     <message>
+        <source>ToolBars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
-        <translation>ツールバー</translation>
+        <translation type="obsolete">ツールバー</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -15062,6 +15224,10 @@ Slide</source>
     <message>
         <source>Drawing Tool</source>
         <translation>描画ツール</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -15228,7 +15394,7 @@ Slide</source>
     </message>
     <message>
         <source>true</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
@@ -15273,6 +15439,10 @@ Slide</source>
     <message>
         <source>Drawing Tools</source>
         <translation>図形ツール</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>

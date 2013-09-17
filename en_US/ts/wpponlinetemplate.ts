@@ -17,14 +17,18 @@
     <name>KWppOnlineTemplate</name>
     <message>
         <source>blank design</source>
-        <translation>Blank Design</translation>
+        <translation type="obsolete">Blank Design</translation>
+    </message>
+    <message>
+        <source>Blank Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpOnlineTemplateWidget</name>
     <message>
         <source>Local Template</source>
-        <translation>Local Templates</translation>
+        <translation type="obsolete">Local Templates</translation>
     </message>
     <message>
         <source>My Favorit</source>
@@ -32,11 +36,23 @@
     </message>
     <message>
         <source>Online Template</source>
-        <translation>Online Templates</translation>
+        <translation type="obsolete">Online Templates</translation>
     </message>
     <message>
         <source>USing Template</source>
-        <translation>Using Template</translation>
+        <translation type="obsolete">Using Template</translation>
+    </message>
+    <message>
+        <source>Using Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local Templates</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

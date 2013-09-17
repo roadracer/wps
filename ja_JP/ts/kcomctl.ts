@@ -99,23 +99,19 @@
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
-        <translation>あなたの言語を選択してください</translation>
+        <translation type="obsolete">あなたの言語を選択してください</translation>
     </message>
     <message>
         <source>&amp;Choose your language</source>
-        <translation>あなたの言語を選択してください(&amp;C)</translation>
+        <translation type="obsolete">あなたの言語を選択してください(&amp;C)</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>情報</translation>
+        <translation type="obsolete">情報</translation>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation>セットには、起動後に有効になります。</translation>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">セットには、起動後に有効になります。</translation>
     </message>
 </context>
 <context>
@@ -151,6 +147,29 @@
     <message>
         <source>Restore</source>
         <translation>元に戻す</translation>
+    </message>
+</context>
+<context>
+    <name>KMainWindow</name>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation type="unfinished">最大化(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Unma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation type="unfinished">最小化(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

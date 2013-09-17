@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sl_SI">
+<TS version="2.0" language="en_US">
 <context>
     <name>et_app</name>
     <message>
@@ -1684,6 +1684,26 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You cannot perform next operation due to one of the following reasons:
+ 
+ You haven&apos;t selected any field, please select fields from fields list first.
+ 
+  The field list name is blank by chance.
+ 
+  The generated query failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot perform next operation due to one of the following reasons:
+ 
+  The query string is blank.
+ 
+  The string you typed is not accordant with SQL grammar.
+ 
+  The generated query is failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field names</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1761,6 +1781,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Error password or user name!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
+</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1857,31 +1882,6 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Initialization Error!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot perform next operation due to one of the following reasons:
- 
- You haven&apos;t selected any field, please select fields from fields list first.
- 
-  The field list name is blank by chance.
- 
-  The generated query failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot perform next operation due to one of the following reasons:
- 
-  The query string is blank.
- 
-  The string you typed is not accordant with SQL grammar.
- 
-  The generated query is failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5011,6 +5011,18 @@ Please make sure the selected regions are continuous cells.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The entered value is invalid.
+
+The values which can be typed here is restricted by other users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Continue ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parameter error in Data Validation.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8113,18 +8125,6 @@ Please make sure the selected regions are continuous cells.</source>
         <source> is invalid for your system, do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>et_undodesc</name>
@@ -8796,6 +8796,13 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Cannot modify the cell or chart, perhaps:
+
+- Worksheet is protected and the cell is locked.
+- The cell is part of an array.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PivotTable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9272,6 +9279,12 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Kingsoft Spreadsheets cannot use the number format you entered.
+Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
+the category you want, and then choose the other options.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The word contains unallowable characters, we can&apos;t handle it.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9708,6 +9721,14 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The sort reference is invalid due to one the possible reasons below: 
+
+%s The first Sort By box is blank. 
+%s There are two same sort references. 
+%s The sort reference you entered is not within the current selection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Source:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9903,8 +9924,26 @@ Continue ?</source>
         <source>Picture</source>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>Only one picture can be inserted in each section of the %s.
+
+·To replace existing picture, click OK.
+·To keep existing picture, click Cancel button.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Other Sheets...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command you choose cannot be performed with multiple selections.
+Select a single range and click the command again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The reference you entered is not valid, or you did not provide a reference where one was required.
+
+To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9996,57 +10035,6 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reject Input Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot modify the cell or chart, perhaps:
-
-- Worksheet is protected and the cell is locked.
-- The cell is part of an array.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Spreadsheets cannot use the number format you entered.
-Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
-the category you want, and then choose the other options.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The sort reference is invalid due to one the possible reasons below: 
-
-%s The first Sort By box is blank. 
-%s There are two same sort references. 
-%s The sort reference you entered is not within the current selection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message utf8="true">
-        <source>Only one picture can be inserted in each section of the %s.
-
-·To replace existing picture, click OK.
-·To keep existing picture, click Cancel button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The command you choose cannot be performed with multiple selections.
-Select a single range and click the command again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The reference you entered is not valid, or you did not provide a reference where one was required.
-
-To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If there are repeated contents in cells in the following range,
 the cells will be set in orange background.
 
@@ -10065,6 +10053,18 @@ contents.
 ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Input Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

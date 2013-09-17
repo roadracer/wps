@@ -80,29 +80,6 @@
     </message>
 </context>
 <context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Choose Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Choose your language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
@@ -134,6 +111,29 @@
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMainWindow</name>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use System &amp;Title Bar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

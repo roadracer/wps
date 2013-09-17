@@ -1996,6 +1996,13 @@ Please try one of the following.
         <source>normal.wpt</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks: 
+· VB Project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsshell</name>

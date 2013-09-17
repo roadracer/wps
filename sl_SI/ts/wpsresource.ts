@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
 <defaultcodec>UTF-8</defaultcodec>
@@ -581,6 +581,10 @@
         <translation>V vrstici z besedilom</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Vstavi sliko</translation>
     </message>
@@ -647,6 +651,10 @@
     <message>
         <source>Nudge</source>
         <translation>Pomakni</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -1576,6 +1584,10 @@ spojene podatke</translation>
         <translation>Pretvori v tradicionalno kitajščino</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Enačba</translation>
     </message>
@@ -1692,7 +1704,7 @@ spojene podatke</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>true</translation>
+        <translation type="obsolete">true</translation>
     </message>
 </context>
 <context>
@@ -2148,16 +2160,24 @@ spojene podatke</translation>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>Nariši
+        <translation type="obsolete">Nariši
 diagonalno črto v celico</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>Nariši diagonalno črto v celico</translation>
+        <translation type="obsolete">Nariši diagonalno črto v celico</translation>
+    </message>
+    <message>
+        <source>Draw MutidiagonalCell</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
         <translation>Nariši tabelo</translation>
+    </message>
+    <message>
+        <source>DrawMutidiagonalCell</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -2193,7 +2213,11 @@ diagonalno črto v celico</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation>Slogi tabel</translation>
+        <translation type="obsolete">Slogi tabel</translation>
+    </message>
+    <message>
+        <source>TableStyle</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2587,6 +2611,10 @@ On</source>
         <translation>Vodoravno</translation>
     </message>
     <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>In Front of Text</source>
         <translation>Pred besedilom</translation>
     </message>
@@ -2799,6 +2827,10 @@ On</source>
         <translation>Navpično</translation>
     </message>
     <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Weight</source>
         <translation>Debelina</translation>
     </message>
@@ -2816,6 +2848,10 @@ On</source>
     <message>
         <source>Backup Management</source>
         <translation>Upravljanje z varnostnimi kopijami</translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -2876,6 +2912,10 @@ On</source>
     <message>
         <source>KingsoftOffice</source>
         <translation>KingsoftOffice</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2013 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -2942,6 +2982,10 @@ On</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reload</source>
         <translation>Znova naloži</translation>
     </message>
@@ -2971,7 +3015,7 @@ On</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>Študiraj na spletu</translation>
+        <translation type="obsolete">Študiraj na spletu</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -3000,6 +3044,10 @@ On</source>
         <translation>Samobesedilo</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close</source>
         <translation>Zapri</translation>
     </message>
@@ -3022,6 +3070,10 @@ On</source>
     <message>
         <source>Insert</source>
         <translation>Vstavi</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3255,6 +3307,11 @@ On</source>
         <translation>Velikost pisave</translation>
     </message>
     <message>
+        <source>Format
+Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Painter</source>
         <translation>Preslikovalnik oblik</translation>
     </message>
@@ -3269,6 +3326,10 @@ On</source>
     <message>
         <source>Highlight</source>
         <translation>Označi</translation>
+    </message>
+    <message>
+        <source>Home Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3364,7 +3425,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Podokno izbire</translation>
+        <translation type="obsolete">Podokno izbire</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
@@ -3549,6 +3610,22 @@ On</source>
         <translation>Vstavi slikovni izrezek</translation>
     </message>
     <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>Povezave</translation>
     </message>
@@ -3599,6 +3676,11 @@ On</source>
     <message>
         <source>Shapes</source>
         <translation>Oblike</translation>
+    </message>
+    <message>
+        <source>Sym
+bol</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -4066,6 +4148,10 @@ Different New Document</source>
     <message>
         <source>Rotate Right 90°</source>
         <translation>Vrtenje v desno za 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5171,7 +5257,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Podrobne nastavitve</translation>
+        <translation type="obsolete">Podrobne nastavitve</translation>
+    </message>
+    <message>
+        <source>DetailedSettings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -5726,7 +5816,7 @@ On/Off</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Podrobne nastavitve</translation>
+        <translation type="obsolete">Podrobne nastavitve</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -5937,6 +6027,10 @@ Cells</source>
         <translation>Razporedi vse</translation>
     </message>
     <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>V kaskado</translation>
     </message>
@@ -5952,6 +6046,10 @@ Other Windows</source>
     <message>
         <source>Close Window</source>
         <translation>Zapri okno</translation>
+    </message>
+    <message>
+        <source>Compared Side By Side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6070,8 +6168,12 @@ Other Windows</source>
         <translation>Razporedi navpično</translation>
     </message>
     <message>
+        <source>View Side By Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View Side by Side</source>
-        <translation>Vzporeden pogled</translation>
+        <translation type="obsolete">Vzporeden pogled</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -7232,6 +7334,10 @@ On</source>
         <translation>Kitajsko prevod</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>Odložišče</translation>
     </message>
@@ -7581,6 +7687,10 @@ Diagonal Line in Cell</source>
         <translation>Iz datoteke</translation>
     </message>
     <message>
+        <source>From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>Celoten zaslon</translation>
     </message>
@@ -7671,6 +7781,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Insert</source>
         <translation>Vstavi</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -8939,6 +9053,10 @@ Diagonal Line in Cell</source>
         <translation>Kingsoft Writer predloga </translation>
     </message>
     <message>
+        <source>Microsoft Word 2007-2013 Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Microsoft Word 97-2003 dokument</translation>
     </message>
@@ -9036,7 +9154,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>Študiraj na spletu</translation>
+        <translation type="obsolete">Študiraj na spletu</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -9614,6 +9732,18 @@ Header and Footer</source>
     <message>
         <source>Insert Picture</source>
         <translation>Vstavi sliko</translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -14022,6 +14152,17 @@ Kliknite puščico, če želite izbrati fonetični vodnik, postaviti znake v okl
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DropCap</name>
     <message>
         <source>Create a large capital letter at the beginning of a paragraph.</source>
@@ -14594,6 +14735,17 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
 </context>
 <context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase Indent</source>
@@ -14970,6 +15122,22 @@ Click the arrow to insert file content into the document.</source>
     <message>
         <source>Insert a picture from a file.</source>
         <translation>Vstavite sliko iz datoteke.</translation>
+    </message>
+    <message>
+        <source>InsertPictureFromFile Content2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertPictureFromFile Title2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkUrl</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15631,6 +15799,17 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
 </context>
 <context>
+    <name>tips.PageLayoutDetailedSettings</name>
+    <message>
+        <source>PageLayoutDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageLayoutDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PageNumber</name>
     <message>
         <source>Insert Page Number</source>
@@ -15710,6 +15889,17 @@ Click the arrow to choose from different numbering formats.</source>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
         <translation>Povečajte dokument, tako da se širina strani ujema s širino okna.</translation>
+    </message>
+</context>
+<context>
+    <name>tips.ParagraphDetailedSettings</name>
+    <message>
+        <source>ParagraphDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ParagraphDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15825,6 +16015,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     <message>
         <source>Picture Size</source>
         <translation>Velikost slike</translation>
+    </message>
+</context>
+<context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16268,6 +16469,17 @@ Kliknite puščico, da izberete druge barve za ozadje.</translation>
     <message>
         <source>View Macros</source>
         <translation>Prikaži makre</translation>
+    </message>
+</context>
+<context>
+    <name>tips.SectionDetailedSettings</name>
+    <message>
+        <source>SectionDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SectionDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16994,6 +17206,17 @@ This is often used to indicate that the document is to be treated specially, suc
     <message>
         <source>WordArt Alignment</source>
         <translation>WordArtova poravnava</translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18228,6 +18451,10 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
         <translation>Orodja za risanje</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>Datoteka</translation>
     </message>
@@ -18446,6 +18673,10 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <message>
         <source>Drawing Tools</source>
         <translation>Orodja za risanje</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>

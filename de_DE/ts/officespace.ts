@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini Name.</source>
-        <translation>\Kingsoft Office\AppData\Desktop.ini Name.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini Name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation type="obsolete">Es sind keine Sicherungdateien im Sicherungsverzeichnis vorhanden.&lt;br /&gt;Dies, kann weil:&lt;br /&gt;1.Es wurde auf dem aktuellen PC keine Sicherung erstellt&lt;br /&gt;2. Sicherungen wurden manuell geleert.</translation>
+        <translation type="unfinished">Es sind keine Sicherungdateien im Sicherungsverzeichnis vorhanden.&lt;br /&gt;Dies, kann weil:&lt;br /&gt;1.Es wurde auf dem aktuellen PC keine Sicherung erstellt&lt;br /&gt;2. Sicherungen wurden manuell geleert.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -126,6 +126,10 @@
         <source>netbackup rollback failed.</source>
         <translation>Netzbackup rollback fehlgeschlagen.</translation>
     </message>
+    <message>
+        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFileActionManager</name>
@@ -139,7 +143,7 @@
     <name>KFileListView</name>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="obsolete">Sind Sie sicher, dass Sie &apos;%1&apos; löschen möchten?</translation>
+        <translation type="unfinished">Sind Sie sicher, dass Sie &apos;%1&apos; löschen möchten?</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -147,11 +151,11 @@
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos; files?</source>
-        <translation type="obsolte">Sind Sie sicher, dass Sie die Dateien &apos;%1&apos; löschen wollen?</translation>
+        <translation>Sind Sie sicher, dass Sie die Dateien &apos;%1&apos; löschen wollen?</translation>
     </message>
     <message>
         <source>Delete many objects</source>
-        <translation type="obsolete">Lösche viele Objekte</translation>
+        <translation type="unfinished">Lösche viele Objekte</translation>
     </message>
 </context>
 <context>
@@ -251,7 +255,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Open &amp;Type:</source>
-        <translation type="obsolete">Öffnungstyp</translation>
+        <translation type="unfinished">Öffnungstyp</translation>
     </message>
     <message>
         <source>&amp;View Mode</source>
@@ -295,7 +299,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>R&amp;efresh</source>
-        <translation type="obsolte">R&amp;efresh</translation>
+        <translation>R&amp;efresh</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
@@ -375,7 +379,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Go back directory</source>
-        <translation type="obsolete">Zurück-Verzeichnis</translation>
+        <translation type="unfinished">Zurück-Verzeichnis</translation>
     </message>
     <message>
         <source>&amp;Forward</source>
@@ -383,7 +387,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Go ahead directory</source>
-        <translation type="obsolet">vorheriges Verzeichnis</translation>
+        <translation>vorheriges Verzeichnis</translation>
     </message>
     <message>
         <source>&amp;Up</source>
@@ -415,7 +419,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Please save groupfile in group.</source>
-        <translation type="obsolete">Gruppendatei bitte in Gruppe speichern</translation>
+        <translation type="unfinished">Gruppendatei bitte in Gruppe speichern</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -497,7 +501,7 @@ Sind Sie sicher?</translation>
     <name>KLiveSvr</name>
     <message>
         <source>please login kuaipan</source>
-        <translation type="obsolete">Bitte einloggen kuaipan</translation>
+        <translation type="unfinished">Bitte einloggen kuaipan</translation>
     </message>
 </context>
 <context>
@@ -551,7 +555,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="obsolete">Text-Beschriftung</translation>
+        <translation type="unfinished">Text-Beschriftung</translation>
     </message>
     <message>
         <source>Newing Folder, Please wait..</source>
@@ -616,7 +620,7 @@ Sind Sie sicher?</translation>
     <message>
         <source>Save backup file to File Safe.</source>
         <comment>saveToKLive checkbox tab in filedialog</comment>
-        <translation type="obsolete">Speichere Backupfile in Filesafe</translation>
+        <translation type="unfinished">Speichere Backupfile in Filesafe</translation>
     </message>
     <message>
         <source>Drive</source>
@@ -732,7 +736,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>I known</source>
-        <translation type="obsolete">Ich weiß</translation>
+        <translation type="unfinished">Ich weiß</translation>
     </message>
 </context>
 <context>
@@ -743,7 +747,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Please enter from here</source>
-        <translation type="obsolete">Bitte hier eingeben</translation>
+        <translation type="unfinished">Bitte hier eingeben</translation>
     </message>
     <message>
         <source>I known</source>

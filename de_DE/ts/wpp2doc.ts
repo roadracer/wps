@@ -5,7 +5,7 @@
     <name>KTranslator</name>
     <message>
         <source>Slide %1</source>
-        <translation>Schieben %1</translation>
+        <translation type="obsolete">Schieben %1</translation>
     </message>
     <message>
         <source>Notes Page:</source>
@@ -38,6 +38,12 @@
     <message>
         <source>Start converting</source>
         <translation>Starte Konvertierung</translation>
+    </message>
+    <message>
+        <source>Slide %1
+</source>
+        <translation type="unfinished">Schieben %1
+</translation>
     </message>
 </context>
 <context>

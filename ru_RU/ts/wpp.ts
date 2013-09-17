@@ -809,13 +809,6 @@
     </message>
 </context>
 <context>
-    <name>KWppAnimCustomCommand</name>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KWppAnimDlgColorCommand</name>
     <message>
         <source>&amp;More Colors...</source>
@@ -2274,10 +2267,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Next slide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2322,10 +2311,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Browse...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2334,23 +2319,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Object &amp;action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Play sound:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickSoundCombo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2359,26 +2332,6 @@
     </message>
     <message>
         <source>Action on mouse over</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overSoundCombo</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3303,10 +3256,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucPositionHorizont</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>pt, 2, -169077, 169077, 1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3315,15 +3264,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucPositionVertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbHorizontalFrom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3336,10 +3277,6 @@
     </message>
     <message>
         <source>F&amp;rom:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbVerticalFrom</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3406,10 +3343,6 @@
     </message>
     <message>
         <source>Sound Files(*.wav)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Second</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4188,10 +4121,6 @@
     </message>
     <message>
         <source>Add Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

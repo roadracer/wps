@@ -83,23 +83,23 @@
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
-        <translation>Escolher idioma</translation>
+        <translation type="obsolete">Escolher idioma</translation>
     </message>
     <message>
         <source>&amp;Choose your language</source>
-        <translation>Es&amp;colha seu idioma</translation>
+        <translation type="obsolete">Es&amp;colha seu idioma</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
-        <translation>&amp;Redefinir modelo pessoal</translation>
+        <translation type="obsolete">&amp;Redefinir modelo pessoal</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Informação</translation>
+        <translation type="obsolete">Informação</translation>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation>Configurações serão afetadas após reinício do aplicativo.</translation>
+        <translation type="obsolete">Configurações serão afetadas após reinício do aplicativo.</translation>
     </message>
 </context>
 <context>
@@ -135,6 +135,29 @@
     <message>
         <source>Restore</source>
         <translation>Restaurar</translation>
+    </message>
+</context>
+<context>
+    <name>KMainWindow</name>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

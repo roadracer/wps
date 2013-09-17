@@ -46,11 +46,11 @@
     </message>
     <message>
         <source>deep color style 2-emphaisze 3/emphasize 4</source>
-        <translation>deep color style 2-emphasize 3/emphasize 4</translation>
+        <translation type="obsolete">deep color style 2-emphasize 3/emphasize 4</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 1/empahsize 2</source>
-        <translation>deep color style 2-emphasize 1/emphasize 2</translation>
+        <translation type="obsolete">deep color style 2-emphasize 1/emphasize 2</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 5/emphasize 6</source>
@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>styless,no grid</source>
-        <translation>styleless, no grid</translation>
+        <translation type="obsolete">styleless, no grid</translation>
     </message>
     <message>
         <source>stylish,gridded</source>
@@ -78,6 +78,18 @@
     </message>
     <message>
         <source>theme style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>styleless, no grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deep color style 2-emphasize 1/emphasize 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deep color style 2-emphasize 3/emphasize 4</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -121,11 +133,11 @@
     </message>
     <message>
         <source>deep color style 2-emphaisze 3/emphasize 4</source>
-        <translation>deep color style 2-emphasize 3/emphasize 4</translation>
+        <translation type="obsolete">deep color style 2-emphasize 3/emphasize 4</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 1/empahsize 2</source>
-        <translation>deep color style 2-emphasize 1/emphasize 2</translation>
+        <translation type="obsolete">deep color style 2-emphasize 1/emphasize 2</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 5/emphasize 6</source>
@@ -145,7 +157,7 @@
     </message>
     <message>
         <source>styless,no grid</source>
-        <translation>styleless, no grid</translation>
+        <translation type="obsolete">styleless, no grid</translation>
     </message>
     <message>
         <source>stylish,gridded</source>
@@ -153,6 +165,18 @@
     </message>
     <message>
         <source>theme style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>styleless, no grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deep color style 2-emphasize 1/emphasize 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deep color style 2-emphasize 3/emphasize 4</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

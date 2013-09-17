@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>or text box.</source>
-        <translation>Kommentar oder Textfeld nicht erlaubt.</translation>
+        <translation type="obsolete">Kommentar oder Textfeld nicht erlaubt.</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -473,7 +473,7 @@
     </message>
     <message>
         <source>please make sure your printer has been properly installed.</source>
-        <translation>Bitte prüfen Sie, ob Ihr Drucker korrekt installiert ist.</translation>
+        <translation type="obsolete">Bitte prüfen Sie, ob Ihr Drucker korrekt installiert ist.</translation>
     </message>
     <message>
         <source>Emboss</source>
@@ -481,11 +481,11 @@
     </message>
     <message>
         <source>Don&apos;t compress initial punctuation</source>
-        <translation type="obsolete">Erstes Satzzeichen nicht kommprimieren</translation>
+        <translation type="unfinished">Erstes Satzzeichen nicht kommprimieren</translation>
     </message>
     <message>
         <source>%s already exists.\nDo you want to replace it?</source>
-        <translation >%s existiert bereits.\n Möchten Sie dies ersetzen?</translation>
+        <translation type="obsolete">%s existiert bereits.\n Möchten Sie dies ersetzen?</translation>
     </message>
     <message>
         <source>Don&apos;t snap to grid</source>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>Thick-thin medium gap</source>
-        <translation type="obsolete">Thick-thin medium Lücke</translation>
+        <translation type="unfinished">Thick-thin medium Lücke</translation>
     </message>
     <message>
         <source>SpellingCheck: Off</source>
@@ -2012,6 +2012,13 @@ Please try one of the following.
         <source>normal.wpt</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks: 
+· VB Project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsshell</name>
@@ -3433,27 +3440,21 @@ Please try one of the following.
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-
-This change will affect all new documents based on the %s template.</source>
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-
-This change will affect all the new documents based on the %s template.</source>
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
 
-This change will affect all the new documents based on the %s template.
-
-
-Yes:	Save to template;
-
-No:	Do not save to template;
-
-Cancel:	Return to the dialog.</source>
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

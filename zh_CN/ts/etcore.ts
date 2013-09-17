@@ -1255,6 +1255,286 @@ Remove the workbook from shared use?
         <source>&quot;Filter&quot;Mode</source>
         <translation>“筛选”模式</translation>
     </message>
+    <message>
+        <source>Value Of</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Empty)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variable Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Binding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Final</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">值</translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forming Limits Report...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limits Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Precision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Automatic Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Iteration Results</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convergence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Integer Solutions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer Tolerance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solve Without Integer Constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sensitivity Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlimited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assume NonNegative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective Cell Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variable Cells Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraints Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subproblem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver Engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solution Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simplex LP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Answer Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Subproblems</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Coefficient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allowable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R.H. Sid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Price</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cost</source>
+        <translation type="unfinished">原值</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished">线条颜色</translation>
+    </message>
+    <message>
+        <source>Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trail Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting Up Problem...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forming Answer Report...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forming Sensitivity Report...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_appcore</name>
@@ -2104,7 +2384,7 @@ Do you still want to open this file?
 
 Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
 (%s)</source>
-        <translation>您的病毒扫描程序对此文件进行病毒扫描时发生错误(错误码：0x%08X)，请和您的反病毒软件供应商联系。
+        <translation type="obsolete">您的病毒扫描程序对此文件进行病毒扫描时发生错误(错误码：0x%08X)，请和您的反病毒软件供应商联系。
 您是否希望继续打开此文件？
 
 · 选择&quot;是&quot;，WPS表格 将继续打开此文件。
@@ -2115,7 +2395,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Chart Title</source>
-        <translation>图表标题</translation>
+        <translation type="obsolete">图表标题</translation>
     </message>
 </context>
 <context>
@@ -5695,6 +5975,21 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
 
 ·若要使用名称 %s，请单击“是”。
 ·若要选择其他名称，请单击“否”并在“名称冲突”对话框中输入一个新名称。</translation>
+    </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
+Do you still want to open this file?
+
+? Click Yes, Kingsoft Spreadsheets will continue to open this file.
+? Click No, Kingsoft Spreadsheets will stop opening this file.
+
+Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
+(%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <translation type="unfinished">图表标题</translation>
     </message>
 </context>
 <context>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -581,6 +581,10 @@
         <translation>In Tekstregel</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Afbeelding Invoegen</translation>
     </message>
@@ -647,6 +651,10 @@
     <message>
         <source>Nudge</source>
         <translation>Duwtje</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -1578,6 +1586,10 @@ Samengevoegde Data</translation>
         <translation>Omzetten naar Traditioneel Chinees</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Formule</translation>
     </message>
@@ -1694,7 +1706,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>Waar</translation>
+        <translation type="obsolete">Waar</translation>
     </message>
 </context>
 <context>
@@ -2150,16 +2162,24 @@ Samengevoegde Data</translation>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>Teken
+        <translation type="obsolete">Teken
 Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>Teken Diagonale Lijn In Cel</translation>
+        <translation type="obsolete">Teken Diagonale Lijn In Cel</translation>
+    </message>
+    <message>
+        <source>Draw MutidiagonalCell</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
         <translation>Teken Tabel</translation>
+    </message>
+    <message>
+        <source>DrawMutidiagonalCell</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -2195,7 +2215,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation>Tabel Stijlen</translation>
+        <translation type="obsolete">Tabel Stijlen</translation>
+    </message>
+    <message>
+        <source>TableStyle</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2590,6 +2614,10 @@ Aan</translation>
         <translation>Horizontaal</translation>
     </message>
     <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>In Front of Text</source>
         <translation>Voor Tekst</translation>
     </message>
@@ -2802,6 +2830,10 @@ Aan</translation>
         <translation>Vertikaal</translation>
     </message>
     <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Weight</source>
         <translation>Gewicht</translation>
     </message>
@@ -2819,6 +2851,10 @@ Aan</translation>
     <message>
         <source>Backup Management</source>
         <translation>Backupbeheer</translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -2879,6 +2915,10 @@ Aan</translation>
     <message>
         <source>KingsoftOffice</source>
         <translation>KingsoftOffice</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2013 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -2945,6 +2985,10 @@ Aan</translation>
         <translation>Eigenschappen</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reload</source>
         <translation>Herlaad</translation>
     </message>
@@ -2974,7 +3018,7 @@ Aan</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>StudeerOnline</translation>
+        <translation type="obsolete">StudeerOnline</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -3003,6 +3047,10 @@ Aan</translation>
         <translation>Autotekst</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close</source>
         <translation>Sluiten</translation>
     </message>
@@ -3025,6 +3073,10 @@ Aan</translation>
     <message>
         <source>Insert</source>
         <translation>Invoegen</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3258,6 +3310,11 @@ Aan</translation>
         <translation>Tekengrootte</translation>
     </message>
     <message>
+        <source>Format
+Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Painter</source>
         <translation>Opmaak Kopiëren/Plakken</translation>
     </message>
@@ -3272,6 +3329,10 @@ Aan</translation>
     <message>
         <source>Highlight</source>
         <translation>Markeer</translation>
+    </message>
+    <message>
+        <source>Home Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3367,7 +3428,7 @@ Aan</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectievenster</translation>
+        <translation type="obsolete">Selectievenster</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
@@ -3552,6 +3613,22 @@ Aan</translation>
         <translation>Clip Art Invoegen</translation>
     </message>
     <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>Linken</translation>
     </message>
@@ -3602,6 +3679,11 @@ Aan</translation>
     <message>
         <source>Shapes</source>
         <translation>Vormen</translation>
+    </message>
+    <message>
+        <source>Sym
+bol</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -4071,6 +4153,10 @@ Ander Nieuw Document</translation>
     <message>
         <source>Rotate Right 90°</source>
         <translation>90° Rechtsom Draaien</translation>
+    </message>
+    <message>
+        <source>Rotate Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5178,7 +5264,11 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
+    </message>
+    <message>
+        <source>DetailedSettings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -5734,7 +5824,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -5946,6 +6036,10 @@ Delen</translation>
         <translation>Alle Vensters</translation>
     </message>
     <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>Waterval</translation>
     </message>
@@ -5962,6 +6056,10 @@ Andere Vensters</translation>
     <message>
         <source>Close Window</source>
         <translation>Sluit Venster</translation>
+    </message>
+    <message>
+        <source>Compared Side By Side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6080,8 +6178,12 @@ Andere Vensters</translation>
         <translation>Vertikaal Schikken</translation>
     </message>
     <message>
+        <source>View Side By Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View Side by Side</source>
-        <translation>Bekijk Naast Elkaar</translation>
+        <translation type="obsolete">Bekijk Naast Elkaar</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -7247,6 +7349,10 @@ Aan</translation>
         <translation>Chinese Vertaling</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>Klembord</translation>
     </message>
@@ -7598,6 +7704,10 @@ Diagonale Lijn in Cel</translation>
         <translation>Uit Bestand</translation>
     </message>
     <message>
+        <source>From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>Volledig Scherm</translation>
     </message>
@@ -7688,6 +7798,10 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Insert</source>
         <translation>Invoegen</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -8957,6 +9071,10 @@ Diagonale Lijn in Cel</translation>
         <translation>Kingsoft Writer Sjabloon</translation>
     </message>
     <message>
+        <source>Microsoft Word 2007-2013 Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Microsoft Word 97-2003 Document</translation>
     </message>
@@ -9054,7 +9172,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>StudeerOnline</translation>
+        <translation type="obsolete">StudeerOnline</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -9633,6 +9751,18 @@ Header and Footer</source>
     <message>
         <source>Insert Picture</source>
         <translation>Afbeelding Invoegen</translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -14047,6 +14177,17 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DropCap</name>
     <message>
         <source>Create a large capital letter at the beginning of a paragraph.</source>
@@ -14639,6 +14780,17 @@ Dit laat je zien welk deel van het formulier zal vervangen worden door de inform
     </message>
 </context>
 <context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase Indent</source>
@@ -15023,6 +15175,22 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     <message>
         <source>Insert a picture from a file.</source>
         <translation>Een afbeelding die op je computer staat invoegen.</translation>
+    </message>
+    <message>
+        <source>InsertPictureFromFile Content2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertPictureFromFile Title2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkUrl</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15686,6 +15854,17 @@ Klik op de pijl om te kiezen tussen verschillende nummeringsformaten.</translati
     </message>
 </context>
 <context>
+    <name>tips.PageLayoutDetailedSettings</name>
+    <message>
+        <source>PageLayoutDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageLayoutDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PageNumber</name>
     <message>
         <source>Insert Page Number</source>
@@ -15765,6 +15944,17 @@ Klik op de pijl om te kiezen tussen verschillende nummeringsformaten.</translati
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
         <translation>Het document inzoomen zodat de breedte van het document gelijk is aan de breedte van het venster.</translation>
+    </message>
+</context>
+<context>
+    <name>tips.ParagraphDetailedSettings</name>
+    <message>
+        <source>ParagraphDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ParagraphDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15884,6 +16074,17 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     <message>
         <source>Picture Size</source>
         <translation>Afbeeldingsgrootte</translation>
+    </message>
+</context>
+<context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16329,6 +16530,17 @@ Klik op de pijl om een andere achtergrondkleur te kiezen.</translation>
     <message>
         <source>View Macros</source>
         <translation>Bekijk Macro&apos;s</translation>
+    </message>
+</context>
+<context>
+    <name>tips.SectionDetailedSettings</name>
+    <message>
+        <source>SectionDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SectionDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17061,6 +17273,17 @@ Dit wordt veel gebruikt om aan te duiden dat het document een speciale behandeli
     <message>
         <source>WordArt Alignment</source>
         <translation>WordArt Uitlijnen</translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18301,6 +18524,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Tekengereedschap</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>Bestand</translation>
     </message>
@@ -18519,6 +18746,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>Drawing Tools</source>
         <translation>Tekengereedschap</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>

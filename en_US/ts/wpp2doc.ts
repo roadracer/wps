@@ -10,7 +10,7 @@
     </message>
     <message>
         <source> second</source>
-        <translation>Second</translation>
+        <translation type="obsolete">Second</translation>
     </message>
     <message>
         <source>Being calculated</source>
@@ -22,16 +22,16 @@
     </message>
     <message>
         <source>NotesPage:</source>
-        <translation>Notes Page:</translation>
+        <translation type="obsolete">Notes Page:</translation>
     </message>
     <message>
         <source>NotesPage:
 </source>
-        <translation>Notes Page:</translation>
+        <translation type="obsolete">Notes Page:</translation>
     </message>
     <message>
         <source>Ready To Convert,Please Wait</source>
-        <translation>Ready to convert, please wait</translation>
+        <translation type="obsolete">Ready to convert, please wait</translation>
     </message>
     <message>
         <source>Slide %1
@@ -40,11 +40,27 @@
     </message>
     <message>
         <source>Start Conversion</source>
-        <translation type="unfinished">Start converting</translation>
+        <translation type="obsolete">Start converting</translation>
     </message>
     <message>
         <source>Still Need:</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Notes Page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ready to convert, please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start converting</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -55,18 +71,30 @@
     </message>
     <message>
         <source>Converted to the WPS Text document</source>
-        <translation>Translate to Document</translation>
+        <translation type="obsolete">Translate to Document</translation>
     </message>
     <message>
         <source>OpenFile</source>
-        <translation>Open File</translation>
+        <translation type="obsolete">Open File</translation>
     </message>
     <message>
         <source>Ready To Convert</source>
-        <translation>Ready to convert</translation>
+        <translation type="obsolete">Ready to convert</translation>
     </message>
     <message>
         <source>Still Need:Being calculated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ready to convert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -138,7 +166,7 @@
     </message>
     <message>
         <source>Converted to the WPS Text document</source>
-        <translation>Translate to Document</translation>
+        <translation type="obsolete">Translate to Document</translation>
     </message>
     <message>
         <source>Current Slide(&amp;C)</source>
@@ -232,6 +260,10 @@
         <source>Text(&amp;T)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
@@ -241,11 +273,19 @@
     </message>
     <message>
         <source>Conversion To Kingsoft Writer Document Appear Error</source>
-        <translation>Converting to Kingsoft Writer document encountered an error.</translation>
+        <translation type="obsolete">Converting to Kingsoft Writer document encountered an error.</translation>
     </message>
     <message>
         <source>The conversion is complete</source>
-        <translation>The conversion is completed.</translation>
+        <translation type="obsolete">The conversion is completed.</translation>
+    </message>
+    <message>
+        <source>The conversion is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Kingsoft Writer document encountered an error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -256,11 +296,11 @@
     </message>
     <message>
         <source>Can Enter The 1-2 Integer</source>
-        <translation>The number must be 1 or 2.</translation>
+        <translation type="obsolete">The number must be 1 or 2.</translation>
     </message>
     <message>
         <source>Can Enter The 1-4 Integer</source>
-        <translation>The number must be 1, 2, 3, or 4.</translation>
+        <translation type="obsolete">The number must be 1, 2, 3, or 4.</translation>
     </message>
     <message>
         <source>Enter the slide number or range, for example :1,3,5-9</source>
@@ -271,7 +311,7 @@
 					Please enter the slide number or range, 
 					for example :1,3,5-9 (slides, separated by commas, 
 					between consecutive slides can be used in a crossed connection).</source>
-        <translation>This is a valid number.
+        <translation type="obsolete">This is a valid number.
 Please input slide number or slide range. 
 For example, 1,3,5-9.</translation>
     </message>
@@ -289,19 +329,49 @@ For example, 1,3,5-9.</translation>
     </message>
     <message>
         <source>The saving file &quot;</source>
-        <translation>The file &quot;</translation>
+        <translation type="obsolete">The file &quot;</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>has the same name with an opened file. An opened file is using the same name. Please choose another path, or close the opened file.</source>
-        <translation type="unfinished">already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</translation>
+        <translation type="obsolete">already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</translation>
     </message>
     <message>
         <source>save file</source>
-        <translation>Save As</translation>
+        <translation type="obsolete">Save As</translation>
+    </message>
+    <message>
+        <source>The number must be 1, 2, 3, or 4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is a valid number.
+Please input slide number or slide range. 
+For example, 1,3,5-9.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be 1 or 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

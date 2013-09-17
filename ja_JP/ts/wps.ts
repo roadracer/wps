@@ -533,27 +533,27 @@
     </message>
     <message>
         <source>cbxHorRelativePosition</source>
-        <translation>相対位置</translation>
+        <translation type="obsolete">相対位置</translation>
     </message>
     <message>
         <source>cbxHorRightPosition</source>
-        <translation>右位置</translation>
+        <translation type="obsolete">右位置</translation>
     </message>
     <message>
         <source>cbxHorizontalAlignment</source>
-        <translation>水平配置</translation>
+        <translation type="obsolete">水平配置</translation>
     </message>
     <message>
         <source>cbxVerRelativePosition</source>
-        <translation>相対位置</translation>
+        <translation type="obsolete">相対位置</translation>
     </message>
     <message>
         <source>cbxVerRightPosition</source>
-        <translation>右位置</translation>
+        <translation type="obsolete">右位置</translation>
     </message>
     <message>
         <source>cbxVerticalAlignment</source>
-        <translation>垂直配置</translation>
+        <translation type="obsolete">垂直配置</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
@@ -7488,11 +7488,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The search for &quot;%1&quot; is finished, no items were found.</source>
-        <translation>「%1」の検索が完了しました。検索文字列が見つかりませんでした。</translation>
+        <translation type="obsolete">「%1」の検索が完了しました。検索文字列が見つかりませんでした。</translation>
     </message>
     <message>
         <source>Use wildcards</source>
         <translation>ワィルドカードを使用する</translation>
+    </message>
+    <message>
+        <source>no items were found.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7891,7 +7895,7 @@ This change will affect all the new documents based on the %1 template.</source>
         <source>Modified Time</source>
         <translation>変更時刻</translation>
     </message>
-    <message id="0">
+    <message>
         <source>Name</source>
         <translation>名前</translation>
     </message>
@@ -9193,6 +9197,65 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsBookmarkPane</name>
+    <message>
+        <source>Document bookmarks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the bookmark position(G)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name(N)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location(L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename(R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whether to delete all bookmarks?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ShowBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HideBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark already exists, please change the name !</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsBorderStyleItem</name>
     <message>
         <source>No Border</source>
@@ -9810,6 +9873,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>show level</source>
         <translation type="obsolete">レベルの表示</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -6,7 +6,7 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>#\</source>
-        <translation type="unfinished">.</translation>
+        <translation type="obsolete">.</translation>
     </message>
     <message>
         <source>(0)</source>
@@ -141,78 +141,150 @@
     </message>
     <message>
         <source>deep color style</source>
-        <translation>Dark Style</translation>
+        <translation type="obsolete">Dark Style</translation>
     </message>
     <message>
         <source>deep color style 2</source>
-        <translation>Dark Style 2</translation>
+        <translation type="obsolete">Dark Style 2</translation>
     </message>
     <message>
         <source>deep color style 2-emphaisze 3/emphasize 4</source>
-        <translation>Dark Style 2-Emphaisze 3/Emphasize 4</translation>
+        <translation type="obsolete">Dark Style 2-Emphaisze 3/Emphasize 4</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 1/empahsize 2</source>
-        <translation>Dark Style 2-Emphasize 1/Empahsize 2</translation>
+        <translation type="obsolete">Dark Style 2-Emphasize 1/Empahsize 2</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 5/emphasize 6</source>
-        <translation>Dark Styl 2-Emphasize 5/Emphasize 6</translation>
+        <translation type="obsolete">Dark Styl 2-Emphasize 5/Emphasize 6</translation>
     </message>
     <message>
         <source>emphasize</source>
-        <translation>Emphasize</translation>
+        <translation type="obsolete">Emphasize</translation>
     </message>
     <message>
         <source>light color style</source>
-        <translation>Light style</translation>
+        <translation type="obsolete">Light style</translation>
     </message>
     <message>
         <source>moderate color style</source>
-        <translation>Medium Style</translation>
+        <translation type="obsolete">Medium Style</translation>
     </message>
     <message>
         <source>styless,no grid</source>
-        <translation>No Style, No Grid</translation>
+        <translation type="obsolete">No Style, No Grid</translation>
     </message>
     <message>
         <source>stylish,gridded</source>
-        <translation>No Style, Table Grid</translation>
+        <translation type="obsolete">No Style, Table Grid</translation>
     </message>
     <message>
         <source>theme style</source>
-        <translation>Themed Style</translation>
+        <translation type="obsolete">Themed Style</translation>
+    </message>
+    <message>
+        <source>No Style, No Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emphasize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Style, Table Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Styl 2-Emphasize 5/Emphasize 6</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DesignLayoutPanel</name>
     <message>
         <source>Show Large Previews(L)</source>
-        <translation>Show &amp;Large Previews</translation>
+        <translation type="obsolete">Show &amp;Large Previews</translation>
     </message>
     <message>
         <source>add design(D)</source>
-        <translation>Add Design</translation>
+        <translation type="obsolete">Add Design</translation>
     </message>
     <message>
         <source>apply all slides(A)</source>
-        <translation>Apply to &amp;All</translation>
+        <translation type="obsolete">Apply to &amp;All</translation>
     </message>
     <message>
         <source>apply master(M)</source>
-        <translation>Apply to &amp;Master</translation>
+        <translation type="obsolete">Apply to &amp;Master</translation>
     </message>
     <message>
         <source>apply selected slide(S)</source>
-        <translation>Apply to &amp;Selected Slides</translation>
+        <translation type="obsolete">Apply to &amp;Selected Slides</translation>
     </message>
     <message>
         <source>replace all designs(A)</source>
-        <translation>Replace &amp;All</translation>
+        <translation type="obsolete">Replace &amp;All</translation>
     </message>
     <message>
         <source>replace selected design(S)</source>
-        <translation>Replace &amp;Selected Designs</translation>
+        <translation type="obsolete">Replace &amp;Selected Designs</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to &amp;All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace &amp;All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace &amp;Selected Designs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;Large Previews</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -313,7 +385,7 @@
     </message>
     <message>
         <source>C&amp;ustom shows:</source>
-        <translation>C&amp;ustom slide shows:</translation>
+        <translation type="obsolete">C&amp;ustom slide shows:</translation>
     </message>
     <message>
         <source>Cop&amp;y</source>
@@ -321,7 +393,15 @@
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation>Custom Slide Shows</translation>
+        <translation type="obsolete">Custom Slide Shows</translation>
+    </message>
+    <message>
+        <source>Custom Slide Shows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -336,7 +416,7 @@
     </message>
     <message>
         <source>Custom Show</source>
-        <translation>Custom Slide Shows</translation>
+        <translation type="obsolete">Custom Slide Shows</translation>
     </message>
     <message>
         <source>Define Custom Show</source>
@@ -353,6 +433,10 @@
     <message>
         <source>Slides in &amp;presentation:</source>
         <translation>Slides in &amp;presentation:</translation>
+    </message>
+    <message>
+        <source>Custom Slide Shows</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -383,15 +467,15 @@
     </message>
     <message>
         <source>&amp;Presented by a speaker(full screen)</source>
-        <translation>&amp;Presented by a speaker(Full screen)</translation>
+        <translation type="obsolete">&amp;Presented by a speaker(Full screen)</translation>
     </message>
     <message>
         <source>&amp;Show without animation</source>
-        <translation>&amp;Show Without Animation</translation>
+        <translation type="obsolete">&amp;Show Without Animation</translation>
     </message>
     <message>
         <source>&amp;To:</source>
-        <translation>&amp;to:</translation>
+        <translation type="obsolete">&amp;to:</translation>
     </message>
     <message>
         <source>&amp;Using timings, if present</source>
@@ -399,11 +483,11 @@
     </message>
     <message>
         <source>Advance slides </source>
-        <translation>Advance slides</translation>
+        <translation type="obsolete">Advance slides</translation>
     </message>
     <message>
         <source>Browsed at a &amp;kiosk(full screen)</source>
-        <translation>Browsed at a &amp;kiosk(Full screen)</translation>
+        <translation type="obsolete">Browsed at a &amp;kiosk(Full screen)</translation>
     </message>
     <message>
         <source>Display slide show &amp;on:</source>
@@ -415,7 +499,7 @@
     </message>
     <message>
         <source>Multiple  monitors</source>
-        <translation>Multiple monitors</translation>
+        <translation type="obsolete">Multiple monitors</translation>
     </message>
     <message>
         <source>P&amp;en color:</source>
@@ -423,42 +507,102 @@
     </message>
     <message>
         <source>S&amp;how scrollbar</source>
-        <translation>S&amp;how Scrollbar</translation>
+        <translation type="obsolete">S&amp;how Scrollbar</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation>Slide Show Settings</translation>
+        <translation type="obsolete">Slide Show Settings</translation>
     </message>
     <message>
         <source>Sho&amp;w Presenter View</source>
-        <translation>Sho&amp;w presenter view</translation>
+        <translation type="obsolete">Sho&amp;w presenter view</translation>
     </message>
     <message>
         <source>Show options </source>
-        <translation>Show options</translation>
+        <translation type="obsolete">Show options</translation>
     </message>
     <message>
         <source>Show slides </source>
-        <translation>Show slides</translation>
+        <translation type="obsolete">Show slides</translation>
     </message>
     <message>
         <source>Show type </source>
-        <translation>Show type</translation>
+        <translation type="obsolete">Show type</translation>
     </message>
     <message>
         <source>Show without &amp;narration</source>
-        <translation>Show Without &amp;Narration</translation>
+        <translation type="obsolete">Show Without &amp;Narration</translation>
+    </message>
+    <message>
+        <source>Slide Show Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Presented by a speaker(Full screen)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browsed at a &amp;kiosk(Full screen)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;how Scrollbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show Without Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Without &amp;Narration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advance slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiple monitors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sho&amp;w presenter view</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DlgWppAnimationEffects</name>
     <message>
         <source>&amp;Preview Effect</source>
-        <translation>&amp;Preview Effects</translation>
+        <translation type="obsolete">&amp;Preview Effects</translation>
     </message>
     <message>
         <source>Add Effect</source>
-        <translation>Add Effects</translation>
+        <translation type="obsolete">Add Effects</translation>
+    </message>
+    <message>
+        <source>Add Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Preview Effects</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -489,15 +633,15 @@
     </message>
     <message>
         <source>&amp;Group chart:</source>
-        <translation>&amp;Group Chart:</translation>
+        <translation type="obsolete">&amp;Group Chart:</translation>
     </message>
     <message>
         <source>&amp;Group diagram:</source>
-        <translation>&amp;Group Diagram:</translation>
+        <translation type="obsolete">&amp;Group Diagram:</translation>
     </message>
     <message>
         <source>&amp;Group text:</source>
-        <translation>&amp;Group Text:</translation>
+        <translation type="obsolete">&amp;Group Text:</translation>
     </message>
     <message>
         <source>&amp;Hide sound icon during slide show</source>
@@ -533,7 +677,7 @@
     </message>
     <message>
         <source>(none)</source>
-        <translation>(None)</translation>
+        <translation type="obsolete">(None)</translation>
     </message>
     <message>
         <source>A&amp;fter:</source>
@@ -545,11 +689,11 @@
     </message>
     <message>
         <source>A&amp;utomatically after</source>
-        <translation>A&amp;utomatically After</translation>
+        <translation type="obsolete">A&amp;utomatically After</translation>
     </message>
     <message>
         <source>After &amp;current slide</source>
-        <translation>After &amp;Current Slide</translation>
+        <translation type="obsolete">After &amp;Current Slide</translation>
     </message>
     <message>
         <source>After Previous</source>
@@ -561,11 +705,11 @@
     </message>
     <message>
         <source>Animate te&amp;xt:</source>
-        <translation>Animate Te&amp;xt:</translation>
+        <translation type="obsolete">Animate Te&amp;xt:</translation>
     </message>
     <message>
         <source>By letter</source>
-        <translation>By Letter</translation>
+        <translation type="obsolete">By Letter</translation>
     </message>
     <message>
         <source>Chart Animation</source>
@@ -585,7 +729,7 @@
     </message>
     <message>
         <source>Effect</source>
-        <translation>Effects</translation>
+        <translation type="obsolete">Effects</translation>
     </message>
     <message>
         <source>Effect Options</source>
@@ -605,15 +749,15 @@
     </message>
     <message>
         <source>From &amp;beginning</source>
-        <translation>From &amp;Beginning</translation>
+        <translation type="obsolete">From &amp;Beginning</translation>
     </message>
     <message>
         <source>From &amp;last postion</source>
-        <translation>From &amp;Last Postion</translation>
+        <translation type="obsolete">From &amp;Last Postion</translation>
     </message>
     <message>
         <source>From ti&amp;me:</source>
-        <translation>From Ti&amp;me:</translation>
+        <translation type="obsolete">From Ti&amp;me:</translation>
     </message>
     <message>
         <source>Information</source>
@@ -645,11 +789,11 @@
     </message>
     <message>
         <source>S&amp;mooth start</source>
-        <translation>S&amp;mooth Start</translation>
+        <translation type="obsolete">S&amp;mooth Start</translation>
     </message>
     <message>
         <source>Se&amp;cond color:</source>
-        <translation>Se&amp;cond Color:</translation>
+        <translation type="obsolete">Se&amp;cond Color:</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -657,11 +801,11 @@
     </message>
     <message>
         <source>Smooth e&amp;nd</source>
-        <translation>Smooth E&amp;nd</translation>
+        <translation type="obsolete">Smooth E&amp;nd</translation>
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation>Sound &amp;Volume:</translation>
+        <translation type="obsolete">Sound &amp;Volume:</translation>
     </message>
     <message>
         <source>Sound Settings</source>
@@ -673,15 +817,15 @@
     </message>
     <message>
         <source>Start effect on &amp;click of:</source>
-        <translation>Start Effects on &amp;Click of:</translation>
+        <translation type="obsolete">Start Effects on &amp;Click of:</translation>
     </message>
     <message>
         <source>Start playing</source>
-        <translation>Start Playing</translation>
+        <translation type="obsolete">Start Playing</translation>
     </message>
     <message>
         <source>Stop playing</source>
-        <translation>Stop Playing</translation>
+        <translation type="obsolete">Stop Playing</translation>
     </message>
     <message>
         <source>Text Animation</source>
@@ -693,7 +837,7 @@
     </message>
     <message>
         <source>Total playing time:</source>
-        <translation>Total Playing Time:</translation>
+        <translation type="obsolete">Total Playing Time:</translation>
     </message>
     <message>
         <source>UnLocked</source>
@@ -713,11 +857,99 @@
     </message>
     <message>
         <source>seconds</source>
-        <translation>Seconds</translation>
+        <translation type="obsolete">Seconds</translation>
     </message>
     <message>
         <source>slides</source>
-        <translation>Slides</translation>
+        <translation type="obsolete">Slides</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Se&amp;cond Color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;mooth Start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth E&amp;nd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Last Postion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Ti&amp;me:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After &amp;Current Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animate Te&amp;xt:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Letter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Effects on &amp;Click of:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Group Text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;utomatically After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Group Chart:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Group Diagram:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound &amp;Volume:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Playing Time:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -770,7 +1002,7 @@
     <message>
         <source>&amp;Begin Style:</source>
         <comment>formatshape</comment>
-        <translation>&amp;Begin style:</translation>
+        <translation type="obsolete">&amp;Begin style:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
@@ -780,7 +1012,7 @@
     <message>
         <source>&amp;End Style:</source>
         <comment>formatshape</comment>
-        <translation>&amp;End style:</translation>
+        <translation type="obsolete">&amp;End style:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -790,17 +1022,17 @@
     <message>
         <source>Begin S&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation>Begin s&amp;ize:</translation>
+        <translation type="obsolete">Begin s&amp;ize:</translation>
     </message>
     <message>
         <source>De&amp;fault for new Objects</source>
         <comment>formatshape</comment>
-        <translation>De&amp;fault for new objects</translation>
+        <translation type="obsolete">De&amp;fault for new objects</translation>
     </message>
     <message>
         <source>End Si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation>End si&amp;ze:</translation>
+        <translation type="obsolete">End si&amp;ze:</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -810,7 +1042,37 @@
     <message>
         <source>size</source>
         <comment>formatshape</comment>
-        <translation>Size</translation>
+        <translation type="obsolete">Size</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <comment>formatshape</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>De&amp;fault for new objects</source>
+        <comment>formatshape</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Begin style:</source>
+        <comment>formatshape</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;End style:</source>
+        <comment>formatshape</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Begin s&amp;ize:</source>
+        <comment>formatshape</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End si&amp;ze:</source>
+        <comment>formatshape</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -846,7 +1108,7 @@
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation>Custom Slide Shows</translation>
+        <translation type="obsolete">Custom Slide Shows</translation>
     </message>
     <message>
         <source>Slide %1 .. %2</source>
@@ -854,14 +1116,22 @@
     </message>
     <message>
         <source>slide %1</source>
-        <translation>Slide %1</translation>
+        <translation type="obsolete">Slide %1</translation>
+    </message>
+    <message>
+        <source>Custom Slide Shows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxBulletsNumberingDlg</name>
     <message>
         <source>&amp;More Color</source>
-        <translation>&amp;More Colors</translation>
+        <translation type="obsolete">&amp;More Colors</translation>
     </message>
     <message>
         <source>All Pictures</source>
@@ -869,7 +1139,7 @@
     </message>
     <message>
         <source>Do you want to reset the lib as defualt?</source>
-        <translation>Do you want to reset the library as default?</translation>
+        <translation type="obsolete">Do you want to reset the library as default?</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
@@ -877,6 +1147,14 @@
     </message>
     <message>
         <source>Open Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to reset the library as default?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -888,19 +1166,35 @@
     </message>
     <message>
         <source>Check spelling is finished.</source>
-        <translation>Check spelling is complete.</translation>
+        <translation type="obsolete">Check spelling is complete.</translation>
     </message>
     <message>
         <source>Ignor the word of &amp;upcase</source>
-        <translation>Ignore words in &amp;UPPERCASE</translation>
+        <translation type="obsolete">Ignore words in &amp;UPPERCASE</translation>
     </message>
     <message>
         <source>Ignor the word with num&amp;ber</source>
-        <translation>Ignore words that contain num&amp;bers</translation>
+        <translation type="obsolete">Ignore words that contain num&amp;bers</translation>
     </message>
     <message>
         <source>suggest corrections a&amp;lways</source>
-        <translation>Always suggest corrections(&amp;L)</translation>
+        <translation type="obsolete">Always suggest corrections(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Check spelling is complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always suggest corrections(&amp;L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore words in &amp;UPPERCASE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore words that contain num&amp;bers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -973,10 +1267,14 @@
     </message>
     <message>
         <source>Custom Show %1</source>
-        <translation>Custom show %1</translation>
+        <translation type="obsolete">Custom show %1</translation>
     </message>
     <message>
         <source>^Copy (\d+ )?of (.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom show %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1042,11 +1340,19 @@
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
     <message>
         <source>icon</source>
-        <translation>Icon</translation>
+        <translation type="obsolete">Icon</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1088,7 +1394,7 @@
     </message>
     <message>
         <source>Bullet and numbering</source>
-        <translation>Bullet and Numbering</translation>
+        <translation type="obsolete">Bullet and Numbering</translation>
     </message>
     <message>
         <source>Bulleted</source>
@@ -1108,7 +1414,15 @@
     </message>
     <message>
         <source>r&amp;eset</source>
-        <translation>R&amp;eset</translation>
+        <translation type="obsolete">R&amp;eset</translation>
+    </message>
+    <message>
+        <source>Bullet and Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1130,10 +1444,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Paragraph:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1147,7 +1457,7 @@
     </message>
     <message>
         <source>Change&amp;To:</source>
-        <translation>Change &amp;to:</translation>
+        <translation type="obsolete">Change &amp;to:</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1167,6 +1477,18 @@
     </message>
     <message>
         <source>The word is not in the dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change &amp;to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Set Spell language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1351,15 +1673,15 @@
     </message>
     <message>
         <source>Grid Settings</source>
-        <translation>Grid settings</translation>
+        <translation type="obsolete">Grid settings</translation>
     </message>
     <message>
         <source>Guide Settings</source>
-        <translation>Guide settings</translation>
+        <translation type="obsolete">Guide settings</translation>
     </message>
     <message>
         <source>KxDlgGridAndGuids</source>
-        <translation>Grid and Guides</translation>
+        <translation type="obsolete">Grid and Guides</translation>
     </message>
     <message>
         <source>S&amp;pacing:</source>
@@ -1379,6 +1701,18 @@
     </message>
     <message>
         <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid and Guides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guide settings</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1422,7 +1756,7 @@
     </message>
     <message>
         <source>Don&apos;t show on title &amp;slide</source>
-        <translation>Do not show on title &amp;slide</translation>
+        <translation type="obsolete">Do not show on title &amp;slide</translation>
     </message>
     <message>
         <source>Fi&amp;xed</source>
@@ -1456,6 +1790,10 @@
         <source>Slide &amp;number</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Do not show on title &amp;slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgInsertMedia</name>
@@ -1465,7 +1803,7 @@
     </message>
     <message>
         <source>How do you want to start in the slid show?</source>
-        <translation>How do you want the movie to start in the slide show?</translation>
+        <translation type="obsolete">How do you want the movie to start in the slide show?</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -1478,6 +1816,10 @@
     <message>
         <source>When &amp;Click</source>
         <translation>When &amp;Clicked</translation>
+    </message>
+    <message>
+        <source>How do you want the movie to start in the slide show?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1498,15 +1840,15 @@
 <context>
     <name>KxDlgLecturerRemark</name>
     <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Slide:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Speaker Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Ok</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1549,7 +1891,7 @@
     </message>
     <message>
         <source>&amp;Rewind movie when done playing</source>
-        <translation>&amp;Rewind movie after playing</translation>
+        <translation type="obsolete">&amp;Rewind movie after playing</translation>
     </message>
     <message>
         <source>&amp;Zoom to full screen</source>
@@ -1577,18 +1919,30 @@
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation type="unfinished">Sound &amp;Volume:</translation>
+        <translation type="obsolete">Sound &amp;Volume:</translation>
     </message>
     <message>
         <source>Total playing time:</source>
-        <translation type="unfinished">Total Playing Time:</translation>
+        <translation type="obsolete">Total Playing Time:</translation>
+    </message>
+    <message>
+        <source>&amp;Rewind movie after playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound &amp;Volume:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Playing Time:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgOption</name>
     <message>
         <source>  You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
-        <translation>You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</translation>
+        <translation type="obsolete">You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</translation>
     </message>
     <message>
         <source>&amp;Adjust title text by placeholder automatically</source>
@@ -1596,7 +1950,7 @@
     </message>
     <message>
         <source>&amp;Advsnce</source>
-        <translation>&amp;Advanced</translation>
+        <translation type="obsolete">&amp;Advanced</translation>
     </message>
     <message>
         <source>&amp;Color/grayscale:</source>
@@ -1668,11 +2022,11 @@
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered.</source>
-        <translation>Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</translation>
+        <translation type="obsolete">Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</translation>
     </message>
     <message>
         <source>Create &amp;bacckup file at the first save</source>
-        <translation>Create &amp;backup file at the first save</translation>
+        <translation type="obsolete">Create &amp;backup file at the first save</translation>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
@@ -1700,7 +2054,7 @@
     </message>
     <message>
         <source>General and save</source>
-        <translation>General and Save</translation>
+        <translation type="obsolete">General and Save</translation>
     </message>
     <message>
         <source>Gerneral options</source>
@@ -1724,7 +2078,7 @@
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
-        <translation>Ignore words that contain num&amp;bers</translation>
+        <translation type="obsolete">Ignore words that contain num&amp;bers</translation>
     </message>
     <message>
         <source>Intia&amp;ls:</source>
@@ -1740,7 +2094,7 @@
     </message>
     <message>
         <source>Notes Pages</source>
-        <translation>Notes pages</translation>
+        <translation type="obsolete">Notes pages</translation>
     </message>
     <message>
         <source>Options</source>
@@ -1748,7 +2102,7 @@
     </message>
     <message>
         <source>Outline View</source>
-        <translation>Outline view</translation>
+        <translation type="obsolete">Outline view</translation>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
@@ -1756,7 +2110,7 @@
     </message>
     <message>
         <source>Password to &amp;open:</source>
-        <translation>Document passw&amp;ord</translation>
+        <translation type="obsolete">Document passw&amp;ord</translation>
     </message>
     <message>
         <source>PowerPoint Presentation</source>
@@ -1824,7 +2178,7 @@
     </message>
     <message>
         <source>Start&amp;up task pane</source>
-        <translation>Start&amp;up Task Window</translation>
+        <translation type="obsolete">Start&amp;up Task Window</translation>
     </message>
     <message>
         <source>Status &amp;bar</source>
@@ -1844,7 +2198,7 @@
     </message>
     <message>
         <source>User Infomation</source>
-        <translation>User Information</translation>
+        <translation type="obsolete">User Information</translation>
     </message>
     <message>
         <source>View</source>
@@ -1852,19 +2206,83 @@
     </message>
     <message>
         <source>color</source>
-        <translation>Color</translation>
+        <translation type="obsolete">Color</translation>
     </message>
     <message>
         <source>gray</source>
-        <translation>Gray</translation>
+        <translation type="obsolete">Gray</translation>
+    </message>
+    <message>
+        <source>Start&amp;up Task Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General and Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup file at the first save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start With:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home Pa&amp;ge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Doc&amp;ument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document passw&amp;ord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore words that contain num&amp;bers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
-    <message>
-        <source>&amp;Location(L):</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Also Packaged As Compressed File</source>
         <translation type="unfinished"></translation>
@@ -1874,16 +2292,24 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Folder &amp;Name(N):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Package Instruction:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Presentation Packge</source>
-        <translation>Presentation Package</translation>
+        <translation type="obsolete">Presentation Package</translation>
+    </message>
+    <message>
+        <source>Presentation Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder &amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Location:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1902,11 +2328,11 @@
     </message>
     <message>
         <source>&amp;Paper Size</source>
-        <translation>&amp;Paper size</translation>
+        <translation type="obsolete">&amp;Paper size</translation>
     </message>
     <message>
         <source>&amp;Slides Size</source>
-        <translation>&amp;Slides size</translation>
+        <translation type="obsolete">&amp;Slides size</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -1942,7 +2368,7 @@
     </message>
     <message>
         <source>Displayed On The Screen</source>
-        <translation>On-screen show</translation>
+        <translation type="obsolete">On-screen show</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
@@ -1950,7 +2376,7 @@
     </message>
     <message>
         <source>KxDlgPageSetup</source>
-        <translation>Page Setup</translation>
+        <translation type="obsolete">Page Setup</translation>
     </message>
     <message>
         <source>L&amp;andscape</source>
@@ -1996,6 +2422,22 @@
         <source>cm</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Slides size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On-screen show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Paper size</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgProgress</name>
@@ -2024,11 +2466,19 @@
     </message>
     <message>
         <source>Replace Folo&amp;w:</source>
-        <translation>Replace with(&amp;w):</translation>
+        <translation type="obsolete">Replace with(&amp;w):</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation>Replace Fonts</translation>
+        <translation type="obsolete">Replace Fonts</translation>
+    </message>
+    <message>
+        <source>Replace Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace with(&amp;w):</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2062,10 +2512,6 @@
     </message>
     <message>
         <source>Backspace, &apos;P&apos;, Left or Up Arrow, or Page Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>During the slide show:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2112,6 +2558,10 @@
         <source>Slide Show Help</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>During the slide show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSoundOptions</name>
@@ -2133,7 +2583,7 @@
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation type="unfinished">Sound &amp;Volume:</translation>
+        <translation type="obsolete">Sound &amp;Volume:</translation>
     </message>
     <message>
         <source>Sound Options</source>
@@ -2142,6 +2592,10 @@
     <message>
         <source>Total playing time:</source>
         <translation type="unfinished">Total Playing Time:</translation>
+    </message>
+    <message>
+        <source>Sound &amp;Volume:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2199,10 +2653,14 @@
     </message>
     <message>
         <source>Form</source>
-        <translation>Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
     <message>
         <source>Zoom to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2218,7 +2676,7 @@
     </message>
     <message>
         <source>KxDlgVolumeRedress</source>
-        <translation type="unfinished">Volume Redress</translation>
+        <translation type="obsolete">Volume Redress</translation>
     </message>
     <message>
         <source>cbMute</source>
@@ -2226,6 +2684,10 @@
     </message>
     <message>
         <source>tbVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume Redress</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2265,23 +2727,23 @@
     </message>
     <message>
         <source>Custom Show ...</source>
-        <translation>Custom show ...</translation>
+        <translation type="obsolete">Custom show ...</translation>
     </message>
     <message>
         <source>End Show</source>
-        <translation>End show</translation>
+        <translation type="obsolete">End show</translation>
     </message>
     <message>
         <source>First Slide</source>
-        <translation>First slide</translation>
+        <translation type="obsolete">First slide</translation>
     </message>
     <message>
         <source>Last Slide</source>
-        <translation>Last slide</translation>
+        <translation type="obsolete">Last slide</translation>
     </message>
     <message>
         <source>Last Slide Viewed</source>
-        <translation>Last slide viewed</translation>
+        <translation type="obsolete">Last slide viewed</translation>
     </message>
     <message>
         <source>Mouse Click</source>
@@ -2293,7 +2755,7 @@
     </message>
     <message>
         <source>Next Slide</source>
-        <translation>Next slide</translation>
+        <translation type="obsolete">Next slide</translation>
     </message>
     <message>
         <source>Object &amp;action</source>
@@ -2301,15 +2763,15 @@
     </message>
     <message>
         <source>Other File...</source>
-        <translation>Other file...</translation>
+        <translation type="obsolete">Other file...</translation>
     </message>
     <message>
         <source>Other Presentation File...</source>
-        <translation>Other presentation file...</translation>
+        <translation type="obsolete">Other presentation file...</translation>
     </message>
     <message>
         <source>Previous Slide</source>
-        <translation>Previous slide</translation>
+        <translation type="obsolete">Previous slide</translation>
     </message>
     <message>
         <source>Run &amp;macro:</source>
@@ -2320,43 +2782,39 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickHyperlinkCombo</source>
+        <source>Next slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickObjectCombo</source>
+        <source>Previous slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickRunMacroCombo</source>
+        <source>First slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickRunProgramLine</source>
+        <source>Last slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickSoundCombo</source>
+        <source>Last slide viewed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_overHyperlinkCombo</source>
+        <source>End show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_overObjectCombo</source>
+        <source>Custom show ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_overRunMacroCombo</source>
+        <source>Other presentation file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_overRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overSoundCombo</source>
+        <source>Other file...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2398,14 +2856,6 @@
         <source>Standard</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Tip for new users</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use a light background for overheads and a dark background for on-screen presentations and 35mm slides. </source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgWppExtendModeGuide</name>
@@ -2438,10 +2888,14 @@
     </message>
     <message>
         <source>C&amp;ustom shows:</source>
-        <translation>C&amp;ustom slide shows:</translation>
+        <translation type="obsolete">C&amp;ustom slide shows:</translation>
     </message>
     <message>
         <source>Link To Custom Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2449,10 +2903,14 @@
     <name>KxDlgWppLinkToSlides</name>
     <message>
         <source>&amp;Slide Title:</source>
-        <translation>&amp;Slide title:</translation>
+        <translation type="obsolete">&amp;Slide title:</translation>
     </message>
     <message>
         <source>Hyperlink to Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Slide title:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2464,7 +2922,7 @@
     </message>
     <message>
         <source>&amp;Current Slide</source>
-        <translation>&amp;Current slide</translation>
+        <translation type="obsolete">&amp;Current slide</translation>
     </message>
     <message>
         <source>&amp;Frame slides</source>
@@ -2492,7 +2950,7 @@
     </message>
     <message>
         <source>Cust&amp;om Show:</source>
-        <translation>Cust&amp;om show:</translation>
+        <translation type="obsolete">Cust&amp;om show:</translation>
     </message>
     <message>
         <source>Enter slide numbers and/or slide ranges. For example, 1,3,5-12</source>
@@ -2508,7 +2966,7 @@
     </message>
     <message>
         <source>Notes Pages</source>
-        <translation>Notes pages</translation>
+        <translation type="obsolete">Notes pages</translation>
     </message>
     <message>
         <source>Num&amp;ber of copies:</source>
@@ -2520,7 +2978,7 @@
     </message>
     <message>
         <source>Outline View</source>
-        <translation>Outline view</translation>
+        <translation type="obsolete">Outline view</translation>
     </message>
     <message>
         <source>Pr&amp;eview</source>
@@ -2544,7 +3002,7 @@
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation>Pure black and white</translation>
+        <translation type="obsolete">Pure black and white</translation>
     </message>
     <message>
         <source>Selectio&amp;n</source>
@@ -2560,6 +3018,26 @@
     </message>
     <message>
         <source>Slides per pa&amp;ge:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cust&amp;om show:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2592,14 +3070,6 @@
 </context>
 <context>
     <name>KxExportPDFDlg</name>
-    <message>
-        <source>&amp;Advanced</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Normal</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>All slides in current presentation are skipped.</source>
         <translation type="unfinished"></translation>
@@ -2658,7 +3128,7 @@
     </message>
     <message>
         <source>The file name is the same as an existent directory.</source>
-        <translation>The file name is the same as an existing directory.</translation>
+        <translation type="obsolete">The file name is the same as an existing directory.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
@@ -2680,12 +3150,16 @@
         <source>You have no permission to write files into this directory.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source> page...</source>
-        <translation> Page...</translation>
+        <translation type="obsolete"> Page...</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2693,11 +3167,11 @@
     </message>
     <message>
         <source>Export PDF files error!</source>
-        <translation>Kingsoft Presentation encountered an error while trying exporting to PDF!</translation>
+        <translation type="obsolete">Kingsoft Presentation encountered an error while trying exporting to PDF!</translation>
     </message>
     <message>
         <source>Export complete.</source>
-        <translation>Exporting PDF file is completed.</translation>
+        <translation type="obsolete">Exporting PDF file is completed.</translation>
     </message>
     <message>
         <source>Exporting No.</source>
@@ -2713,14 +3187,34 @@
     </message>
     <message>
         <source>Open PDF File Error!</source>
-        <translation>Encountered an error when opening PDF file!</translation>
+        <translation type="obsolete">Encountered an error when opening PDF file!</translation>
     </message>
     <message>
         <source>Preparing to export PDF file...</source>
-        <translation>Preparing for exporting PDF file...</translation>
+        <translation type="obsolete">Preparing for exporting PDF file...</translation>
     </message>
     <message>
         <source>User canceled operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting PDF file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting PDF file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation encountered an error while trying exporting to PDF!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening PDF file!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2740,18 +3234,30 @@
     </message>
     <message>
         <source>Finished Searched Of The Whole Document</source>
-        <translation>Kingsoft Presentation has finished searching the document.</translation>
+        <translation type="obsolete">Kingsoft Presentation has finished searching the document.</translation>
     </message>
     <message>
         <source>Have Finished Searched Of The Whole Document,Item Not Found</source>
-        <translation>Kingsoft Presentation has finished searching the document. The search item was not found.</translation>
+        <translation type="obsolete">Kingsoft Presentation has finished searching the document. The search item was not found.</translation>
     </message>
     <message>
         <source>Have Finished Searched Of The Whole Document,Replaced %1 Searched items</source>
-        <translation>Kingsoft Presentation has finished searching the document and made %1 replacements.</translation>
+        <translation type="obsolete">Kingsoft Presentation has finished searching the document and made %1 replacements.</translation>
     </message>
     <message>
         <source>Replace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation has finished searching the document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation has finished searching the document. The search item was not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation has finished searching the document and made %1 replacements.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2829,41 +3335,73 @@
     </message>
     <message>
         <source>custom present</source>
-        <translation>Custom Present</translation>
+        <translation type="obsolete">Custom Present</translation>
     </message>
     <message>
         <source>first slide</source>
-        <translation>First Slide</translation>
+        <translation type="obsolete">First Slide</translation>
     </message>
     <message>
         <source>last slide</source>
-        <translation>Last Slide</translation>
+        <translation type="obsolete">Last Slide</translation>
     </message>
     <message>
         <source>next slide</source>
-        <translation>Next Slide</translation>
+        <translation type="obsolete">Next Slide</translation>
     </message>
     <message>
         <source>previous slide</source>
-        <translation>Previous Slide</translation>
+        <translation type="obsolete">Previous Slide</translation>
     </message>
     <message>
         <source>slide %1</source>
-        <translation>Slide %1</translation>
+        <translation type="obsolete">Slide %1</translation>
     </message>
     <message>
         <source>slide title</source>
-        <translation>Slide Title</translation>
+        <translation type="obsolete">Slide Title</translation>
+    </message>
+    <message>
+        <source>First Slide</source>
+        <translation type="unfinished">First slide</translation>
+    </message>
+    <message>
+        <source>Last Slide</source>
+        <translation type="unfinished">Last slide</translation>
+    </message>
+    <message>
+        <source>Next Slide</source>
+        <translation type="unfinished">Next slide</translation>
+    </message>
+    <message>
+        <source>Previous Slide</source>
+        <translation type="unfinished">Previous slide</translation>
+    </message>
+    <message>
+        <source>Slide Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Present</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxInsertMediaDlg</name>
     <message>
         <source>How do you want the  music to start in the slide show?</source>
-        <translation>How do you want the music to start in the slide show?</translation>
+        <translation type="obsolete">How do you want the music to start in the slide show?</translation>
     </message>
     <message>
         <source>How do you want the movie to start in the slide show?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How do you want the music to start in the slide show?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2875,15 +3413,27 @@
     </message>
     <message>
         <source>Deep</source>
-        <translation>Dark</translation>
+        <translation type="obsolete">Dark</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation>Medium</translation>
+        <translation type="obsolete">Medium</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation>Light</translation>
+        <translation type="obsolete">Light</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2964,7 +3514,11 @@
     <name>KxPageSetupDlg</name>
     <message>
         <source>custom</source>
-        <translation>Custom</translation>
+        <translation type="obsolete">Custom</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3005,7 +3559,7 @@
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>&amp;Master Name:</source>
-        <translation>&amp;Master name:</translation>
+        <translation type="obsolete">&amp;Master name:</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -3013,6 +3567,10 @@
     </message>
     <message>
         <source>Rename Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Master name:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3043,7 +3601,11 @@
     </message>
     <message>
         <source>define</source>
-        <translation>Define</translation>
+        <translation type="obsolete">Define</translation>
+    </message>
+    <message>
+        <source>Define</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3054,34 +3616,46 @@
     </message>
     <message>
         <source>Deep</source>
-        <translation>Dark</translation>
+        <translation type="obsolete">Dark</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation>Medium</translation>
+        <translation type="obsolete">Medium</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation>Light</translation>
+        <translation type="obsolete">Light</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpAnimationScheme</name>
     <message>
         <source> apply all slides </source>
-        <translation>Apply to All Slides</translation>
+        <translation type="obsolete">Apply to All Slides</translation>
     </message>
     <message>
         <source> slide play </source>
-        <translation>Slide Show</translation>
+        <translation type="obsolete">Slide Show</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Text Label</translation>
+        <translation type="obsolete">Text Label</translation>
     </message>
     <message>
         <source>animate scheme</source>
-        <translation>Animation Schemes</translation>
+        <translation type="obsolete">Animation Schemes</translation>
     </message>
     <message>
         <source>apply all slides</source>
@@ -3089,15 +3663,15 @@
     </message>
     <message>
         <source>apply master</source>
-        <translation>Apply to Master</translation>
+        <translation type="obsolete">Apply to Master</translation>
     </message>
     <message>
         <source>apply selected slide:</source>
-        <translation>Apply to selected slides</translation>
+        <translation type="obsolete">Apply to selected slides</translation>
     </message>
     <message>
         <source>auto preview</source>
-        <translation>AutoPreview</translation>
+        <translation type="obsolete">AutoPreview</translation>
     </message>
     <message>
         <source>color scheme</source>
@@ -3109,33 +3683,73 @@
     </message>
     <message>
         <source>play</source>
-        <translation>Play</translation>
+        <translation type="obsolete">Play</translation>
     </message>
     <message>
         <source>slide play</source>
         <translation type="obsolete">Slide Show</translation>
+    </message>
+    <message>
+        <source>Text Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animation Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to All Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoPreview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>color scheme</source>
-        <translation>Color Schemes</translation>
+        <translation type="obsolete">Color Schemes</translation>
     </message>
     <message>
         <source>design tempalte</source>
-        <translation>Design Templates</translation>
+        <translation type="obsolete">Design Templates</translation>
     </message>
     <message>
         <source>play</source>
-        <translation>Play</translation>
+        <translation type="obsolete">Play</translation>
+    </message>
+    <message>
+        <source>Design Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Schemes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpColorScheme</name>
     <message>
         <source>TextLabel</source>
-        <translation>Text Label</translation>
+        <translation type="obsolete">Text Label</translation>
     </message>
     <message>
         <source>animate scheme</source>
@@ -3143,11 +3757,11 @@
     </message>
     <message>
         <source>apply color scheme:</source>
-        <translation>Apply a color scheme:</translation>
+        <translation type="obsolete">Apply a color scheme:</translation>
     </message>
     <message>
         <source>color scheme</source>
-        <translation>Color Schemes</translation>
+        <translation type="obsolete">Color Schemes</translation>
     </message>
     <message>
         <source>design tempalte</source>
@@ -3157,27 +3771,51 @@
         <source>edit colorScheme...</source>
         <translation type="obsolete">Edit Color Schemes...</translation>
     </message>
+    <message>
+        <source>Text Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply a color scheme:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>animate scheme</source>
-        <translation>Animation Schemes</translation>
+        <translation type="obsolete">Animation Schemes</translation>
     </message>
     <message>
         <source>design tempalte</source>
-        <translation>Design Templates</translation>
+        <translation type="obsolete">Design Templates</translation>
     </message>
     <message>
         <source>edit colorScheme...</source>
-        <translation>Edit Color Schemes...</translation>
+        <translation type="obsolete">Edit Color Schemes...</translation>
+    </message>
+    <message>
+        <source>Design Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animation Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Color Schemes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesign</name>
     <message>
         <source>TextLabel</source>
-        <translation>Text Label</translation>
+        <translation type="obsolete">Text Label</translation>
     </message>
     <message>
         <source>animate scheme</source>
@@ -3185,7 +3823,7 @@
     </message>
     <message>
         <source>apply slide layout:</source>
-        <translation>Apply a design template:</translation>
+        <translation type="obsolete">Apply a design template:</translation>
     </message>
     <message>
         <source>browse...</source>
@@ -3197,48 +3835,80 @@
     </message>
     <message>
         <source>design tempalte</source>
-        <translation>Design Templates</translation>
+        <translation type="obsolete">Design Templates</translation>
+    </message>
+    <message>
+        <source>Text Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Design Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply a design template:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>animate scheme</source>
-        <translation>Animation Schemes</translation>
+        <translation type="obsolete">Animation Schemes</translation>
     </message>
     <message>
         <source>browse...</source>
-        <translation>Browse...</translation>
+        <translation type="obsolete">Browse...</translation>
     </message>
     <message>
         <source>color scheme</source>
-        <translation>Color Schemes</translation>
+        <translation type="obsolete">Color Schemes</translation>
+    </message>
+    <message>
+        <source>Color Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animation Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideLayout</name>
     <message>
         <source>apply slide layout:</source>
-        <translation type="unfinished">Apply Slide Layout:</translation>
+        <translation type="obsolete">Apply Slide Layout:</translation>
     </message>
     <message>
         <source>insert slide show:</source>
-        <translation>Show when inserting new slides</translation>
+        <translation type="obsolete">Show when inserting new slides</translation>
+    </message>
+    <message>
+        <source>Apply Slide Layout:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show when inserting new slides</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideTransition</name>
     <message>
         <source> apply all slides </source>
-        <translation>Apply to All Slides</translation>
+        <translation type="obsolete">Apply to All Slides</translation>
     </message>
     <message>
         <source> slide play </source>
-        <translation>Slide Show</translation>
+        <translation type="obsolete">Slide Show</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
     <message>
         <source>apply all slides</source>
@@ -3246,19 +3916,19 @@
     </message>
     <message>
         <source>apply master</source>
-        <translation>Apply to Master</translation>
+        <translation type="obsolete">Apply to Master</translation>
     </message>
     <message>
         <source>apply selected slide:</source>
-        <translation>Apply to selected slides:</translation>
+        <translation type="obsolete">Apply to selected slides:</translation>
     </message>
     <message>
         <source>auto preview</source>
-        <translation>AutoPreview</translation>
+        <translation type="obsolete">AutoPreview</translation>
     </message>
     <message>
         <source>every time</source>
-        <translation>Automatically after</translation>
+        <translation type="obsolete">Automatically after</translation>
     </message>
     <message>
         <source>loop play, to the next voice began</source>
@@ -3266,19 +3936,19 @@
     </message>
     <message>
         <source>modify transition effect</source>
-        <translation>Modify transition</translation>
+        <translation type="obsolete">Modify transition</translation>
     </message>
     <message>
         <source>mouse clicked</source>
-        <translation>On mouse click</translation>
+        <translation type="obsolete">On mouse click</translation>
     </message>
     <message>
         <source>play</source>
-        <translation>Play</translation>
+        <translation type="obsolete">Play</translation>
     </message>
     <message>
         <source>rehearse current page</source>
-        <translation>Rehearse Current Page</translation>
+        <translation type="obsolete">Rehearse Current Page</translation>
     </message>
     <message>
         <source>slide play</source>
@@ -3286,26 +3956,90 @@
     </message>
     <message>
         <source>sound:</source>
-        <translation>Sound:</translation>
+        <translation type="obsolete">Sound:</translation>
     </message>
     <message>
         <source>speed:</source>
-        <translation>Speed:</translation>
+        <translation type="obsolete">Speed:</translation>
     </message>
     <message>
         <source>transition type:</source>
-        <translation>Advance slide</translation>
+        <translation type="obsolete">Advance slide</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to selected slides:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advance slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On mouse click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rehearse Current Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to All Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoPreview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>loop play, to the next voice began</source>
-        <translation>Loop until next sound</translation>
+        <translation type="obsolete">Loop until next sound</translation>
     </message>
     <message>
         <source>play</source>
-        <translation>Play</translation>
+        <translation type="obsolete">Play</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop until next sound</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3327,10 +4061,14 @@
     <name>KxTypograpgyDlg</name>
     <message>
         <source>(none)</source>
-        <translation>(None)</translation>
+        <translation type="obsolete">(None)</translation>
     </message>
     <message>
         <source>Chinese(China)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(None)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3358,7 +4096,7 @@
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
     <message>
         <source>Position on slide</source>
@@ -3366,26 +4104,18 @@
     </message>
     <message>
         <source>Top Left Corner</source>
-        <translation>Top left corner</translation>
-    </message>
-    <message>
-        <source>cbHorizontalFrom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbVerticalFrom</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Top left corner</translation>
     </message>
     <message>
         <source>pt, 2, -169077, 169077, 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucPositionHorizont</source>
+        <source>Zoom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucPositionVertical</source>
+        <source>Top left corner</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3429,14 +4159,18 @@
     </message>
     <message>
         <source>slide %1</source>
-        <translation>Slide %1</translation>
+        <translation type="obsolete">Slide %1</translation>
+    </message>
+    <message>
+        <source>Slide %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppAnimationOptionsDlg</name>
     <message>
         <source> second</source>
-        <translation>Second</translation>
+        <translation type="obsolete">Second</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Dim</source>
@@ -3601,7 +4335,7 @@
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Selection Pane</translation>
+        <translation type="obsolete">Selection Pane</translation>
     </message>
     <message>
         <source>Pau&amp;se</source>
@@ -3635,32 +4369,60 @@
         <source>Zoom &amp;Out</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWppDesignItem</name>
     <message>
         <source>add design(D)</source>
-        <translation>Add Design</translation>
+        <translation type="obsolete">Add Design</translation>
     </message>
     <message>
         <source>apply all slides(A)</source>
-        <translation>Apply to All Slides</translation>
+        <translation type="obsolete">Apply to All Slides</translation>
     </message>
     <message>
         <source>apply master(M)</source>
-        <translation>Apply to Master</translation>
+        <translation type="obsolete">Apply to Master</translation>
     </message>
     <message>
         <source>apply selected slide(S)</source>
-        <translation>Apply to Selected Slides</translation>
+        <translation type="obsolete">Apply to Selected Slides</translation>
     </message>
     <message>
         <source>replace all designs(A)</source>
-        <translation>Replace All Designs</translation>
+        <translation type="obsolete">Replace All Designs</translation>
     </message>
     <message>
         <source>replace selected design(S)</source>
-        <translation>Replace Selected Designs</translation>
+        <translation type="obsolete">Replace Selected Designs</translation>
+    </message>
+    <message>
+        <source>Apply to Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to All Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to Selected Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace All Designs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace Selected Designs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3686,21 +4448,33 @@
     <name>KxWppFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation>No Color</translation>
+        <translation type="obsolete">No Color</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>Invail Integer.</source>
-        <translation>This is not a valid integer.</translation>
+        <translation type="obsolete">This is not a valid integer.</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line Fill</source>
-        <translation>No Line</translation>
+        <translation type="obsolete">No Line</translation>
+    </message>
+    <message>
+        <source>No Line</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3739,7 +4513,7 @@
     </message>
     <message>
         <source>Slides which you selected is not exist, please choose another one!</source>
-        <translation>The Slide that you selected is not exist, please choose another one!</translation>
+        <translation type="obsolete">The Slide that you selected is not exist, please choose another one!</translation>
     </message>
     <message>
         <source>These customed play slides is marked as hidden!</source>
@@ -3747,7 +4521,15 @@
     </message>
     <message>
         <source>close</source>
-        <translation>Close</translation>
+        <translation type="obsolete">Close</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Slide that you selected is not exist, please choose another one!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3803,22 +4585,38 @@
     <name>KxWppZoomComboCommand</name>
     <message>
         <source>Invail Unit.</source>
-        <translation>This is not a valid measurement.</translation>
+        <translation type="obsolete">This is not a valid measurement.</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LayoutPanel</name>
     <message>
         <source>apply select slide(S)</source>
-        <translation>Apply to &amp;Selected Slides</translation>
+        <translation type="obsolete">Apply to &amp;Selected Slides</translation>
     </message>
     <message>
         <source>insert new slide(N)</source>
-        <translation>Insert &amp;New Slide</translation>
+        <translation type="obsolete">Insert &amp;New Slide</translation>
     </message>
     <message>
         <source>reapply style(L)</source>
-        <translation>Reapply &amp;Layout</translation>
+        <translation type="obsolete">Reapply &amp;Layout</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reapply &amp;Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert &amp;New Slide</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3837,22 +4635,30 @@
     </message>
     <message>
         <source>open the compressed file</source>
-        <translation>Open the compressed file</translation>
+        <translation type="obsolete">Open the compressed file</translation>
     </message>
     <message>
         <source>open the folder</source>
-        <translation>Open the folder</translation>
+        <translation type="obsolete">Open the folder</translation>
+    </message>
+    <message>
+        <source>Open the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the compressed file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Blinds Horizontal</source>
-        <translation>Blinds 1</translation>
+        <translation type="obsolete">Blinds 1</translation>
     </message>
     <message>
         <source>Blinds Vertical</source>
-        <translation>Blinds 2</translation>
+        <translation type="obsolete">Blinds 2</translation>
     </message>
     <message>
         <source>Box In</source>
@@ -3896,11 +4702,11 @@
     </message>
     <message>
         <source>Chessboard Horizontal</source>
-        <translation>Chess 1</translation>
+        <translation type="obsolete">Chess 1</translation>
     </message>
     <message>
         <source>Chessboard Vertical</source>
-        <translation>Chess 2</translation>
+        <translation type="obsolete">Chess 2</translation>
     </message>
     <message>
         <source>Chinese(China)</source>
@@ -3916,11 +4722,11 @@
     </message>
     <message>
         <source>Comb Horizontal</source>
-        <translation>Comb 1</translation>
+        <translation type="obsolete">Comb 1</translation>
     </message>
     <message>
         <source>Comb Vertical</source>
-        <translation>Comb 2</translation>
+        <translation type="obsolete">Comb 2</translation>
     </message>
     <message>
         <source>Cover Down</source>
@@ -3932,11 +4738,11 @@
     </message>
     <message>
         <source>Cover LeftDown</source>
-        <translation>Cover 1</translation>
+        <translation type="obsolete">Cover 1</translation>
     </message>
     <message>
         <source>Cover LeftUp</source>
-        <translation>Cover 2</translation>
+        <translation type="obsolete">Cover 2</translation>
     </message>
     <message>
         <source>Cover Right</source>
@@ -3944,11 +4750,11 @@
     </message>
     <message>
         <source>Cover RightDown</source>
-        <translation>Cover 3</translation>
+        <translation type="obsolete">Cover 3</translation>
     </message>
     <message>
         <source>Cover RightUp</source>
-        <translation>Cover 4</translation>
+        <translation type="obsolete">Cover 4</translation>
     </message>
     <message>
         <source>Cover Up</source>
@@ -4076,75 +4882,75 @@
     </message>
     <message>
         <source>Random Horizontal</source>
-        <translation>Random 1</translation>
+        <translation type="obsolete">Random 1</translation>
     </message>
     <message>
         <source>Random Vertical</source>
-        <translation>Random 2</translation>
+        <translation type="obsolete">Random 2</translation>
     </message>
     <message>
         <source>Split Horizontal In</source>
-        <translation>Split 1</translation>
+        <translation type="obsolete">Split 1</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
-        <translation>Split 2</translation>
+        <translation type="obsolete">Split 2</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
-        <translation>Split 3</translation>
+        <translation type="obsolete">Split 3</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
-        <translation>Split 4</translation>
+        <translation type="obsolete">Split 4</translation>
     </message>
     <message>
         <source>Strips LeftDown</source>
-        <translation>Strips 1</translation>
+        <translation type="obsolete">Strips 1</translation>
     </message>
     <message>
         <source>Strips LeftUp</source>
-        <translation>Strips 2</translation>
+        <translation type="obsolete">Strips 2</translation>
     </message>
     <message>
         <source>Strips RightDown</source>
-        <translation>Strips 3</translation>
+        <translation type="obsolete">Strips 3</translation>
     </message>
     <message>
         <source>Strips RightUp</source>
-        <translation>Strips 4</translation>
+        <translation type="obsolete">Strips 4</translation>
     </message>
     <message>
         <source>Uncover Down</source>
-        <translation>Uncover 1</translation>
+        <translation type="obsolete">Uncover 1</translation>
     </message>
     <message>
         <source>Uncover Left</source>
-        <translation>Uncover 2</translation>
+        <translation type="obsolete">Uncover 2</translation>
     </message>
     <message>
         <source>Uncover LeftDown</source>
-        <translation>Uncover 5</translation>
+        <translation type="obsolete">Uncover 5</translation>
     </message>
     <message>
         <source>Uncover LeftUp</source>
-        <translation>Uncover 6</translation>
+        <translation type="obsolete">Uncover 6</translation>
     </message>
     <message>
         <source>Uncover Right</source>
-        <translation>Uncover 3</translation>
+        <translation type="obsolete">Uncover 3</translation>
     </message>
     <message>
         <source>Uncover RightDown</source>
-        <translation>Uncover 7</translation>
+        <translation type="obsolete">Uncover 7</translation>
     </message>
     <message>
         <source>Uncover RightUp</source>
-        <translation>Uncover 8</translation>
+        <translation type="obsolete">Uncover 8</translation>
     </message>
     <message>
         <source>Uncover Up</source>
-        <translation>Uncover 4</translation>
+        <translation type="obsolete">Uncover 4</translation>
     </message>
     <message>
         <source>Vietnamese</source>
@@ -4156,23 +4962,23 @@
     </message>
     <message>
         <source>Wheel1Spoke</source>
-        <translation>Wheel 1</translation>
+        <translation type="obsolete">Wheel 1</translation>
     </message>
     <message>
         <source>Wheel2Spoke</source>
-        <translation>Wheel 2</translation>
+        <translation type="obsolete">Wheel 2</translation>
     </message>
     <message>
         <source>Wheel3Spoke</source>
-        <translation>Wheel 3</translation>
+        <translation type="obsolete">Wheel 3</translation>
     </message>
     <message>
         <source>Wheel4Spoke</source>
-        <translation>Wheel 4</translation>
+        <translation type="obsolete">Wheel 4</translation>
     </message>
     <message>
         <source>Wheel8Spoke</source>
-        <translation>Wheel 8</translation>
+        <translation type="obsolete">Wheel 8</translation>
     </message>
     <message>
         <source>Wipe Down</source>
@@ -4192,34 +4998,194 @@
     </message>
     <message>
         <source>You can&apos;t use a date format in a different language than the slide master.The current date on the master is formatted for %1. To change the master, click Apply to All instead of Apply.</source>
-        <translation>You can not use the date format that is inconsistent with the slide master language. The current date on the master is formatted for %1. To change the master, please click on &apos;Apply to All&apos; instead of &apos;Apply&apos;.</translation>
+        <translation type="obsolete">You can not use the date format that is inconsistent with the slide master language. The current date on the master is formatted for %1. To change the master, please click on &apos;Apply to All&apos; instead of &apos;Apply&apos;.</translation>
+    </message>
+    <message>
+        <source>You can not use the date format that is inconsistent with the slide master language. The current date on the master is formatted for %1. To change the master, please click on &apos;Apply to All&apos; instead of &apos;Apply&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blinds 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blinds 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chess 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chess 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comb 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comb 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strips 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel 8</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Show Large Previews(L)</source>
-        <translation>Show &amp;Large Previews</translation>
+        <translation type="obsolete">Show &amp;Large Previews</translation>
     </message>
     <message>
         <source>apply all master(A)</source>
-        <translation>Apply to &amp;All Master</translation>
+        <translation type="obsolete">Apply to &amp;All Master</translation>
     </message>
     <message>
         <source>apply all slide(A)</source>
-        <translation>Apply to &amp;All Slides</translation>
+        <translation type="obsolete">Apply to &amp;All Slides</translation>
     </message>
     <message>
         <source>apply master(M)</source>
-        <translation>Apply to &amp;Master</translation>
+        <translation type="obsolete">Apply to &amp;Master</translation>
     </message>
     <message>
         <source>apply selected master(S)</source>
-        <translation>Apply to &amp;Selected Masters</translation>
+        <translation type="obsolete">Apply to &amp;Selected Masters</translation>
     </message>
     <message>
         <source>apply selected slide(S)</source>
-        <translation>Apply to &amp;Selected Slides</translation>
+        <translation type="obsolete">Apply to &amp;Selected Slides</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to &amp;All Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to &amp;All Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Masters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;Large Previews</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4230,7 +5196,7 @@
     </message>
     <message>
         <source>Add Effect</source>
-        <translation type="unfinished">Add Effects</translation>
+        <translation type="obsolete">Add Effects</translation>
     </message>
     <message>
         <source>After Previous</source>
@@ -4250,10 +5216,6 @@
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4309,7 +5271,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custoniza Animation :</source>
+        <source>Customize Animation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Effects</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4317,15 +5283,15 @@
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
-        <translation>Dialogstest</translation>
+        <translation type="obsolete">Dialogstest</translation>
+    </message>
+    <message>
+        <source>Dialogstest</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
-    <message>
-        <source>&amp;Advanced</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>&amp;Browse...</source>
         <translation type="unfinished"></translation>
@@ -4439,10 +5405,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Permission Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4492,19 +5454,55 @@
     </message>
     <message>
         <source>color</source>
-        <translation>Color</translation>
+        <translation type="obsolete">Color</translation>
     </message>
     <message>
         <source>exportWhat</source>
-        <translation>Export what</translation>
+        <translation type="obsolete">Export what</translation>
     </message>
     <message>
         <source>printPermission</source>
-        <translation>Print Permission</translation>
+        <translation type="obsolete">Print Permission</translation>
     </message>
     <message>
         <source>slidePerPage</source>
-        <translation>Slide Per Page</translation>
+        <translation type="obsolete">Slide Per Page</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Print:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4523,7 +5521,11 @@
     </message>
     <message>
         <source>Preparing to export PDF file...</source>
-        <translation type="unfinished">Preparing for exporting PDF file...</translation>
+        <translation type="obsolete">Preparing for exporting PDF file...</translation>
+    </message>
+    <message>
+        <source>Preparing for exporting PDF file...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4566,7 +5568,7 @@
     </message>
     <message>
         <source>Bottom Centered</source>
-        <translation>Bottom centered</translation>
+        <translation type="obsolete">Bottom centered</translation>
     </message>
     <message>
         <source>Click on diagram below or use buttons to apply borders</source>
@@ -4582,7 +5584,7 @@
     </message>
     <message>
         <source>Format Table</source>
-        <translation>Border</translation>
+        <translation type="obsolete">Border</translation>
     </message>
     <message>
         <source>Internal margin</source>
@@ -4590,11 +5592,11 @@
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished">Medium</translation>
+        <translation type="obsolete">Medium</translation>
     </message>
     <message>
         <source>Middle Centered</source>
-        <translation>Middle centered</translation>
+        <translation type="obsolete">Middle centered</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
@@ -4618,11 +5620,11 @@
     </message>
     <message>
         <source>Top Centered</source>
-        <translation>Top centered</translation>
+        <translation type="obsolete">Top centered</translation>
     </message>
     <message>
         <source>borderPreview</source>
-        <translation>Border Preview</translation>
+        <translation type="obsolete">Border Preview</translation>
     </message>
     <message>
         <source>btnBorderBackSlash</source>
@@ -4688,6 +5690,30 @@
         <source>lwLineStyle</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom centered</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxUiHyperlinkwpp</name>
@@ -4721,10 +5747,14 @@
     <message>
         <source>Do you want to export every slide in the presentation or only
 the currentslide?</source>
-        <translation>Do you want to export every slide in the presentation or only the current slide?</translation>
+        <translation type="obsolete">Do you want to export every slide in the presentation or only the current slide?</translation>
     </message>
     <message>
         <source>Kingsoft Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to export every slide in the presentation or only the current slide?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

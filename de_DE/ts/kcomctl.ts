@@ -6,7 +6,7 @@
     <name>KApplication</name>
     <message>
         <source>Critical</source>
-        <translation>Kritisch</translation>
+        <translation type="obsolete">Kritisch</translation>
     </message>
     <message>
         <source>Loading ui xml file is failed. For more information, please use KDebugConsole or read logs.</source>
@@ -92,30 +92,30 @@
     <name>KDragMenuBar</name>
     <message>
         <source>Menu Bar</source>
-        <translation>Menüleiste</translation>
+        <translation type="obsolete">Menüleiste</translation>
     </message>
 </context>
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
-        <translation>Sprache wählen</translation>
+        <translation type="obsolete">Sprache wählen</translation>
     </message>
     <message>
         <source>&amp;Choose your language</source>
-        <translation>Wählen Sie Ihre Spra&amp;che</translation>
+        <translation type="obsolete">Wählen Sie Ihre Spra&amp;che</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Informationen</translation>
+        <translation type="obsolete">Informationen</translation>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation>Einstellungen werden nach Neustart der Applikation wirksam.</translation>
+        <translation type="obsolete">Einstellungen werden nach Neustart der Applikation wirksam.</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
-        <translation>Pe&amp;rsöhnliche-Vorlagen zurücksetzen</translation>
+        <translation type="obsolete">Pe&amp;rsöhnliche-Vorlagen zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -154,6 +154,29 @@
     </message>
 </context>
 <context>
+    <name>KMainWindow</name>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
@@ -168,7 +191,7 @@
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="obsolete">Durch aktivierte Feststelltaste könnten Sie ein falsches Passwort eingeben.</translation>
+        <translation type="unfinished">Durch aktivierte Feststelltaste könnten Sie ein falsches Passwort eingeben.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
@@ -187,7 +210,7 @@
     <name>KRbFileMenu</name>
     <message>
         <source>Undefined.</source>
-        <translation>Undefiniert.</translation>
+        <translation type="obsolete">Undefiniert.</translation>
     </message>
 </context>
 <context>

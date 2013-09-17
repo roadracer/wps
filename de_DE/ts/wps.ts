@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Grau-90% {65%?}</translation>
     </message>
     <message>
         <source>Gray-70%</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Lilac</source>
-        <translation type="obsolete">Lila</translation>
+        <translation type="unfinished">Lila</translation>
     </message>
     <message>
         <source>Cyan</source>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Lazulite</source>
-        <translation type="obsolete">Lazulite</translation>
+        <translation type="unfinished">Lazulite</translation>
     </message>
     <message>
         <source>Light turquoise</source>
@@ -360,10 +360,6 @@
         <translation>&amp;Ausrichtung</translation>
     </message>
     <message>
-        <source>cbxHorizontalAlignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation>Links</translation>
     </message>
@@ -388,10 +384,6 @@
         <translation>&amp;relativ zu</translation>
     </message>
     <message>
-        <source>cbxHorRelativePosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Margin</source>
         <translation>Rand</translation>
     </message>
@@ -412,10 +404,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxHorRightPosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Vertical</source>
         <translation>Vertikal</translation>
     </message>
@@ -425,7 +413,7 @@
     </message>
     <message>
         <source>cbxVerticalAlignment</source>
-        <translation>cbxVertikal Ausrichtung</translation>
+        <translation type="obsolete">cbxVertikal Ausrichtung</translation>
     </message>
     <message>
         <source>Top</source>
@@ -448,10 +436,6 @@
         <translation>Absolute Po&amp;sition</translation>
     </message>
     <message>
-        <source>cbxVerRightPosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Paragraph</source>
         <translation type="unfinished"></translation>
     </message>
@@ -462,10 +446,6 @@
     <message>
         <source>r&amp;elative to</source>
         <translation>r&amp;elativ zu</translation>
-    </message>
-    <message>
-        <source>cbxVerRelativePosition</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>belo&amp;w</source>
@@ -675,15 +655,15 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -734,7 +714,7 @@
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
 </context>
 <context>
@@ -2359,7 +2339,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 3.6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1584, 1584, 3.6 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 1</source>
@@ -2410,7 +2390,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Center</source>
@@ -2418,7 +2398,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -2426,7 +2406,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 3.6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1584, 1584, 3.6 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -10, 10, 1</source>
@@ -2575,7 +2555,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -2998,7 +2978,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seite</translation>
     </message>
     <message>
         <source>Previou&amp;s</source>
@@ -3185,7 +3165,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ab&amp;stand:</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
@@ -3391,7 +3371,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seite</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
@@ -3485,7 +3465,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>&amp;Align paragraph and table edges with border</source>
@@ -4095,7 +4075,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zeichen</translation>
     </message>
     <message>
         <source>Style &amp;based on:</source>
@@ -4196,7 +4176,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zeichen</translation>
     </message>
     <message>
         <source>label_3</source>
@@ -4287,7 +4267,7 @@ use buttons to apply borders</source>
     <name>KxDlgOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>View</source>
@@ -4339,11 +4319,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -5262,7 +5242,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -5270,15 +5250,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Innerhalb</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Außerhalb</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -5353,7 +5333,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Top</source>
@@ -5724,15 +5704,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -5764,7 +5744,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1584, 1584, 1 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -316.8, 316.8, 0.5</source>
@@ -6023,15 +6003,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -6352,15 +6332,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horizontal</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Center</source>
@@ -6368,15 +6348,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Innerhalb</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Außerhalb</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absolute &amp;Position</translation>
     </message>
     <message>
         <source>pt, -2, -1584, 1584, 1</source>
@@ -6384,7 +6364,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ausrichtung</translation>
     </message>
     <message>
         <source>Relati&amp;ve to:</source>
@@ -6392,11 +6372,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rand</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seite</translation>
     </message>
     <message>
         <source>Column</source>
@@ -6404,7 +6384,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vertikal</translation>
     </message>
     <message>
         <source>R&amp;elative to:</source>
@@ -6424,11 +6404,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absolute Po&amp;sition</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausr&amp;ichtung</translation>
     </message>
     <message>
         <source>Distance from surrounding text</source>
@@ -6456,7 +6436,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>&amp;Move with text</source>
@@ -6503,7 +6483,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 1, -1080, 1080, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1080, 1080, 1 {1,?}</translation>
     </message>
     <message>
         <source>&amp;Center</source>
@@ -6567,7 +6547,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>Allow row to brea&amp;k across pages</source>
@@ -6655,7 +6635,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1538, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1538, 1584, 1 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 0.5</source>
@@ -7109,7 +7089,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seite</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
@@ -7423,10 +7403,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The search for &quot;%1&quot; is finished, no items were found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use wildcards</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7440,6 +7416,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no items were found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7547,7 +7527,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -7827,7 +7807,7 @@ This change will affect all the new documents based on the %1 template.</source>
 </context>
 <context>
     <name>KxMailMergeTableDlg</name>
-    <message id="0">
+    <message>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8156,15 +8136,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
@@ -8407,7 +8387,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -8450,7 +8430,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
     <message>
         <source>?</source>
@@ -8557,7 +8537,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Innerhalb</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
@@ -8954,7 +8934,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Quadratisch</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
@@ -9075,6 +9055,65 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsBookFormatDlg</name>
     <message>
         <source>Header and Footer Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsBookmarkPane</name>
+    <message>
+        <source>Document bookmarks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the bookmark position(G)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name(N)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location(L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename(R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whether to delete all bookmarks?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ShowBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HideBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark already exists, please change the name !</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9382,7 +9421,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horizontal</translation>
     </message>
     <message>
         <source>Diagonal</source>
@@ -9390,15 +9429,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -9799,6 +9838,10 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Document map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10484,7 +10527,7 @@ an die Bildgröße anpassen?</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horizontal</translation>
     </message>
     <message>
         <source>Rotate All Text 90°</source>
@@ -10554,7 +10597,7 @@ an die Bildgröße anpassen?</translation>
     <name>MultSpinbox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
 </context>
 <context>

@@ -28,11 +28,11 @@
     </message>
     <message>
         <source>&amp;Fill effects...</source>
-        <translation>&amp;Fill Effects...</translation>
+        <translation type="obsolete">&amp;Fill Effects...</translation>
     </message>
     <message>
         <source>&amp;More Color</source>
-        <translation>&amp;More Colors</translation>
+        <translation type="obsolete">&amp;More Colors</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
@@ -48,6 +48,14 @@
     </message>
     <message>
         <source>No Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fill Effects...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -66,7 +74,11 @@
     <name>KDocTab</name>
     <message>
         <source>File is uploading...</source>
-        <translation>File is being uploaded...</translation>
+        <translation type="obsolete">File is being uploaded...</translation>
+    </message>
+    <message>
+        <source>Uploading file...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -81,25 +93,6 @@
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Choose Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Choose your language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -139,6 +132,29 @@
     </message>
 </context>
 <context>
+    <name>KMainWindow</name>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
@@ -157,7 +173,7 @@
     </message>
     <message>
         <source>Keep the caps lock open may cause you to input error password.</source>
-        <translation>Keeping the Caps Lock on may cause you to input wrong password.</translation>
+        <translation type="obsolete">Keeping the Caps Lock on may cause you to input wrong password.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -165,6 +181,10 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -195,11 +215,19 @@
     </message>
     <message>
         <source>Fixed To The Listing</source>
-        <translation>Fixed to the Listing</translation>
+        <translation type="obsolete">Fixed to the Listing</translation>
     </message>
     <message>
         <source>Unfixed From The Listing</source>
-        <translation>Unfixed from the Listing</translation>
+        <translation type="obsolete">Unfixed from the Listing</translation>
+    </message>
+    <message>
+        <source>Unfixed from the Listing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fixed to the Listing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -349,7 +377,7 @@ multiple=multiple
     </message>
     <message>
         <source>Delete From The Listing</source>
-        <translation>Delete from the Listing</translation>
+        <translation type="obsolete">Delete from the Listing</translation>
     </message>
     <message>
         <source>NumLock</source>
@@ -377,6 +405,10 @@ multiple=multiple
     </message>
     <message>
         <source>Recent Documents: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from the Listing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

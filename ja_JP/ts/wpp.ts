@@ -829,7 +829,7 @@
     <name>KWppAnimCustomCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
 </context>
 <context>
@@ -2430,46 +2430,6 @@
         <source>Slide...</source>
         <translation>スライド</translation>
     </message>
-    <message>
-        <source>m_clickHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgWppColorScheme</name>
@@ -3499,11 +3459,11 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>cbHorizontalFrom</source>
-        <translation>横方向</translation>
+        <translation type="obsolete">横方向</translation>
     </message>
     <message>
         <source>cbVerticalFrom</source>
-        <translation>縦位置</translation>
+        <translation type="obsolete">縦位置</translation>
     </message>
     <message>
         <source>pt, 2, -169077, 169077, 1</source>
@@ -3511,11 +3471,11 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>ucPositionHorizont</source>
-        <translation>横位置</translation>
+        <translation type="obsolete">横位置</translation>
     </message>
     <message>
         <source>ucPositionVertical</source>
-        <translation>縦位置</translation>
+        <translation type="obsolete">縦位置</translation>
     </message>
 </context>
 <context>
@@ -3572,7 +3532,7 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxWppAnimationOptionsDlg</name>
     <message>
         <source>Second</source>
-        <translation>分</translation>
+        <translation type="obsolete">分</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Dim</source>
@@ -4432,7 +4392,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Modify</source>
-        <translation>変更</translation>
+        <translation type="obsolete">変更</translation>
     </message>
     <message>
         <source>Modify selected effects</source>

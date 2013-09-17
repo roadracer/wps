@@ -1066,7 +1066,7 @@
     <name>KWppAnimCustomCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">自定义</translation>
+        <translation type="obsolete">自定义</translation>
     </message>
 </context>
 <context>
@@ -2875,46 +2875,6 @@ be recovered.</source>
         <source>Slide...</source>
         <translation>幻灯片...</translation>
     </message>
-    <message>
-        <source>m_clickHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgWppColorScheme</name>
@@ -4266,24 +4226,8 @@ be recovered.</source>
         <translation>左上角</translation>
     </message>
     <message>
-        <source>cbHorizontalFrom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbVerticalFrom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>pt, 2, -169077, 169077, 1</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>ucPositionHorizont</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucPositionVertical</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4463,7 +4407,7 @@ be recovered.</source>
     <name>KxWppAnimationOptionsDlg</name>
     <message>
         <source>Second</source>
-        <translation> 秒</translation>
+        <translation type="obsolete"> 秒</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Dim</source>
@@ -5710,7 +5654,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Modify</source>
-        <translation>修改</translation>
+        <translation type="obsolete">修改</translation>
     </message>
     <message>
         <source>Modify selected effects</source>

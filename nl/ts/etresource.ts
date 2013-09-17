@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -531,6 +531,10 @@
     <message>
         <source>Horizontal</source>
         <translation>Horizontaal</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -1291,6 +1295,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Vergelijking</translation>
     </message>
@@ -1371,7 +1379,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reject Duplicate Entries</source>
+        <source>Reject Insert Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1393,6 +1401,10 @@ Center</source>
     <message>
         <source>Sum</source>
         <translation>Som</translation>
+    </message>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1793,6 +1805,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Calculate Active Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
@@ -2186,7 +2202,11 @@ Center</source>
     </message>
     <message>
         <source>Select</source>
-        <translation>Selecteren</translation>
+        <translation type="obsolete">Selecteren</translation>
+    </message>
+    <message>
+        <source>SelectShape</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection and Visibility</source>
@@ -2194,6 +2214,10 @@ Center</source>
     </message>
     <message>
         <source>Series Line Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2336,6 +2360,10 @@ Window</source>
     <message>
         <source>Drawing Tools</source>
         <translation>Tekengereedschap</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2494,7 +2522,7 @@ Window</source>
     </message>
     <message>
         <source>true</source>
-        <translation>Waar</translation>
+        <translation type="obsolete">Waar</translation>
     </message>
 </context>
 <context>
@@ -2536,6 +2564,10 @@ Window</source>
     <message>
         <source>Drawing Tools</source>
         <translation>Tekengereedschap</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2761,6 +2793,10 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>CustomSort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Data Tools</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2850,6 +2886,10 @@ OLE DB Query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sort</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2879,6 +2919,10 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Validation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2999,6 +3043,10 @@ OLE DB Query</source>
     <name>ongmani.ct_developtools.Add-Ins</name>
     <message>
         <source>Add Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3389,6 +3437,10 @@ Aan</translation>
         <translation>Backup Beheer</translation>
     </message>
     <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Document Beveiliging en Eigenschappen</translation>
     </message>
@@ -3443,6 +3495,10 @@ Aan</translation>
     <message>
         <source>KingsoftOffice</source>
         <translation>KingsoftOffice</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2007-2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
@@ -3513,6 +3569,10 @@ Aan</translation>
         <translation>Eigenschappen</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reload Text File</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3523,10 +3583,6 @@ Aan</translation>
     <message>
         <source>Save As</source>
         <translation>Sla Op Als</translation>
-    </message>
-    <message>
-        <source>Save As Xlsx</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -3546,7 +3602,7 @@ Aan</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>StudeerOnline</translation>
+        <translation type="obsolete">StudeerOnline</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -3581,6 +3637,10 @@ Aan</translation>
     <message>
         <source>Average</source>
         <translation>Gemiddelde</translation>
+    </message>
+    <message>
+        <source>Calculate Sheet</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -3751,6 +3811,10 @@ Aan</translation>
     </message>
     <message>
         <source>AutoFit Row Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4324,6 +4388,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert File Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Label</source>
         <translation>Label</translation>
     </message>
@@ -4342,6 +4410,10 @@ Center</source>
     <message>
         <source>Object</source>
         <translation>Object</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -4447,10 +4519,6 @@ Center</source>
         <translation>Schikken</translation>
     </message>
     <message>
-        <source>Arrange All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Breaks</source>
         <translation>Eindes</translation>
     </message>
@@ -4463,24 +4531,7 @@ Center</source>
         <translation>Naar Voorkant</translation>
     </message>
     <message>
-        <source>Cascade</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Print Region</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4490,10 +4541,6 @@ Other Window</source>
     <message>
         <source>Detailed Settings</source>
         <translation>Gedetailleerde Instellingen</translation>
-    </message>
-    <message>
-        <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4524,36 +4571,16 @@ Other Window</source>
         <translation>Draai Verticaal</translation>
     </message>
     <message>
-        <source>Formula Bar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Free Rotate</source>
         <translation>Vrije Rotatie</translation>
     </message>
     <message>
-        <source>Freeze</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Full Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gridlines</source>
-        <translation>Rasterlijnen</translation>
+        <translation type="obsolete">Rasterlijnen</translation>
     </message>
     <message>
         <source>Group</source>
         <translation>Groepeer</translation>
-    </message>
-    <message>
-        <source>Headings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Horizontal Tile</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Page Break</source>
@@ -4561,31 +4588,19 @@ Other Window</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation>Macro&apos;s</translation>
+        <translation type="obsolete">Macro&apos;s</translation>
     </message>
     <message>
         <source>Margins</source>
         <translation>Marges</translation>
     </message>
     <message>
-        <source>More Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Normal</source>
-        <translation>Normaal</translation>
+        <translation type="obsolete">Normaal</translation>
     </message>
     <message>
         <source>Orientation</source>
         <translation>Oriëntatie</translation>
-    </message>
-    <message>
-        <source>Page Break Preview</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4601,10 +4616,6 @@ Other Window</source>
     </message>
     <message>
         <source>Print Titles</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reading Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4625,7 +4636,7 @@ Other Window</source>
     </message>
     <message>
         <source>Security</source>
-        <translation>Beveiliging</translation>
+        <translation type="obsolete">Beveiliging</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -4656,52 +4667,20 @@ Other Window</source>
         <translation>Vasthangen aan Raster</translation>
     </message>
     <message>
-        <source>Split</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Task Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unfreeze</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungroup</source>
         <translation>Degroepeer</translation>
     </message>
     <message>
-        <source>Unsplit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vertical Tile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Visual Basic Editor</source>
-        <translation>Visual Basic Editor</translation>
+        <translation type="obsolete">Visual Basic Editor</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>Venster</translation>
-    </message>
-    <message>
-        <source>Workbook View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Worksheet Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Venster</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
 </context>
 <context>
@@ -5292,6 +5271,10 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Share Workbook</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5606,6 +5589,13 @@ Other Window</source>
     <message>
         <source>Zoom</source>
         <translation>Zoom</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_view.COMAddIns</name>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6506,6 +6496,10 @@ Aan</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>Klembord</translation>
     </message>
@@ -6942,6 +6936,10 @@ Aan</translation>
         <translation>Invoegen</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Comment</source>
         <translation>Voeg Opmerking In</translation>
     </message>
@@ -7003,10 +7001,6 @@ Aan</translation>
     </message>
     <message>
         <source>Kingsoft Office New Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Spreadsheets Help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7262,10 +7256,6 @@ Aan</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7287,6 +7277,10 @@ Aan</translation>
     </message>
     <message>
         <source>Smooth Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7599,6 +7593,10 @@ OLE DB Query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sort</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7632,6 +7630,10 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Validation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8266,7 +8268,7 @@ AddIns</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>StudeerOnline</translation>
+        <translation type="obsolete">StudeerOnline</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -8301,6 +8303,10 @@ AddIns</source>
     <message>
         <source>Average</source>
         <translation>Gemiddelde</translation>
+    </message>
+    <message>
+        <source>Calculate Sheet</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -8471,6 +8477,10 @@ AddIns</source>
     </message>
     <message>
         <source>AutoFit Row Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9859,6 +9869,10 @@ Center</source>
     </message>
     <message>
         <source>Reject Revision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11339,6 +11353,17 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
 </context>
 <context>
+    <name>tips.CalculateSheet</name>
+    <message>
+        <source>CalculateSheet Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CalculateSheet Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.ChangeChartType</name>
     <message>
         <source>Change the chart type</source>
@@ -11608,6 +11633,17 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
 </context>
 <context>
+    <name>tips.DataDetailedSettings</name>
+    <message>
+        <source>DataDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DataGroup</name>
     <message>
         <source>New group</source>
@@ -11846,6 +11882,17 @@ Press Esc on the keyboard or click this option again to exit the drawing mode.</
         <source>To draw border grid, click this option and drag the mouse to draw.
 
 Press Esc on the keyboard or click this option again to exit the drawing mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12306,22 +12353,6 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
 </context>
 <context>
     <name>tips.GoalSeek</name>
-    <message>
-        <source>GoalSeek Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GoalSeek Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.Group</name>
@@ -12374,6 +12405,17 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Hide Detail</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13235,6 +13277,17 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
 </context>
 <context>
+    <name>tips.PageLayoutDetailedSettings</name>
+    <message>
+        <source>PageLayoutDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageLayoutDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PageOrientation</name>
     <message>
         <source>Page Orientation</source>
@@ -13386,6 +13439,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     <message>
         <source>Picture Size</source>
         <translation>Afbeelding Grootte</translation>
+    </message>
+</context>
+<context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14388,6 +14452,25 @@ You can also force input to be chosen from a dropdown list of values you specify
     </message>
 </context>
 <context>
+    <name>tips.What-If Analysis</name>
+    <message>
+        <source>LinkText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkUrl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.WindowReset</name>
     <message>
         <source>Tile all open program windows side-by-side on the screen.</source>
@@ -14395,6 +14478,17 @@ You can also force input to be chosen from a dropdown list of values you specify
     </message>
     <message>
         <source>Window Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

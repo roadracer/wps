@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
 <defaultcodec>UTF-8</defaultcodec>
@@ -531,6 +531,10 @@
     <message>
         <source>Horizontal</source>
         <translation>Vodoravno</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -1292,6 +1296,10 @@ Center</source>
         <translation>Dvojniki</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Enačba</translation>
     </message>
@@ -1373,7 +1381,11 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>zavrni podvojeni vnos</translation>
+        <translation type="obsolete">zavrni podvojeni vnos</translation>
+    </message>
+    <message>
+        <source>Reject Insert Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -1394,6 +1406,10 @@ Center</source>
     <message>
         <source>Sum</source>
         <translation>Vsota</translation>
+    </message>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1794,6 +1810,10 @@ Center</source>
         <translation>Voziček</translation>
     </message>
     <message>
+        <source>Calculate Active Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
@@ -2187,7 +2207,11 @@ Center</source>
     </message>
     <message>
         <source>Select</source>
-        <translation>Izberi</translation>
+        <translation type="obsolete">Izberi</translation>
+    </message>
+    <message>
+        <source>SelectShape</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection and Visibility</source>
@@ -2195,6 +2219,10 @@ Center</source>
     </message>
     <message>
         <source>Series Line Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2338,6 +2366,10 @@ Okno</translation>
     <message>
         <source>Drawing Tools</source>
         <translation>Orodja za risanje</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2496,7 +2528,7 @@ Okno</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>Pravilno</translation>
+        <translation type="obsolete">Pravilno</translation>
     </message>
 </context>
 <context>
@@ -2538,6 +2570,10 @@ Okno</translation>
     <message>
         <source>Drawing Tools</source>
         <translation>Orodja za risanje</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2763,6 +2799,10 @@ Okno</translation>
         <translation>Usklajevanje</translation>
     </message>
     <message>
+        <source>CustomSort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Data Tools</source>
         <translation>Podatkovna orodja</translation>
     </message>
@@ -2853,6 +2893,10 @@ OLE DB poizvedbe</translation>
         <translation>Prikaz podrobnosti</translation>
     </message>
     <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sort</source>
         <translation>Razvrsti</translation>
     </message>
@@ -2883,6 +2927,10 @@ OLE DB poizvedbe</translation>
     <message>
         <source>Validation</source>
         <translation>Veljavnost</translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3003,6 +3051,10 @@ OLE DB poizvedbe</translation>
     <message>
         <source>Add Ins</source>
         <translation>Dodatki</translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3392,6 +3444,10 @@ Vklop</translation>
         <translation>Upravitelj varnostnih kopij</translation>
     </message>
     <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Zaščita in lastnosti dokumenta</translation>
     </message>
@@ -3446,6 +3502,10 @@ Vklop</translation>
     <message>
         <source>KingsoftOffice</source>
         <translation>KingsoftOffice</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2007-2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
@@ -3516,6 +3576,10 @@ Vklop</translation>
         <translation>Lastonosti</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reload Text File</source>
         <translation>Ponovno naloži besedilno datoteko</translation>
     </message>
@@ -3529,7 +3593,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Save As Xlsx</source>
-        <translation>Shrani kot Xlsx</translation>
+        <translation type="obsolete">Shrani kot Xlsx</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -3549,7 +3613,7 @@ Vklop</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>Spletno učenje</translation>
+        <translation type="obsolete">Spletno učenje</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -3584,6 +3648,10 @@ Vklop</translation>
     <message>
         <source>Average</source>
         <translation>Povprečje</translation>
+    </message>
+    <message>
+        <source>Calculate Sheet</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -3755,6 +3823,10 @@ Vklop</translation>
     <message>
         <source>AutoFit Row Height</source>
         <translation>Samoprilagodi višino vrstice</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Average</source>
@@ -4327,6 +4399,10 @@ Center</source>
         <translation>Vstavi umetniški izrezek</translation>
     </message>
     <message>
+        <source>Insert File Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Label</source>
         <translation>Oznaka</translation>
     </message>
@@ -4345,6 +4421,10 @@ Center</source>
     <message>
         <source>Object</source>
         <translation>Predmet</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -4451,7 +4531,7 @@ Center</source>
     </message>
     <message>
         <source>Arrange All</source>
-        <translation>Razporedi vse</translation>
+        <translation type="obsolete">Razporedi vse</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -4467,7 +4547,7 @@ Center</source>
     </message>
     <message>
         <source>Cascade</source>
-        <translation>Kaskada</translation>
+        <translation type="obsolete">Kaskada</translation>
     </message>
     <message>
         <source>Clear Print Region</source>
@@ -4476,16 +4556,16 @@ Center</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation>Zapri
+        <translation type="obsolete">Zapri
 Drugo okno</translation>
     </message>
     <message>
         <source>Close Other Window</source>
-        <translation>Zapri drugo okno</translation>
+        <translation type="obsolete">Zapri drugo okno</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Zapri okno</translation>
+        <translation type="obsolete">Zapri okno</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
@@ -4497,7 +4577,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Developer Tools</source>
-        <translation>Orodja za razvijalce</translation>
+        <translation type="obsolete">Orodja za razvijalce</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4529,7 +4609,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Formula Bar</source>
-        <translation>Vnosna vrstica</translation>
+        <translation type="obsolete">Vnosna vrstica</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -4537,15 +4617,15 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Freeze</source>
-        <translation>Zamrzni</translation>
+        <translation type="obsolete">Zamrzni</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Celoten zaslon</translation>
+        <translation type="obsolete">Celoten zaslon</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Mrežne črte</translation>
+        <translation type="obsolete">Mrežne črte</translation>
     </message>
     <message>
         <source>Group</source>
@@ -4553,11 +4633,11 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Headings</source>
-        <translation>Naslovi</translation>
+        <translation type="obsolete">Naslovi</translation>
     </message>
     <message>
         <source>Horizontal Tile</source>
-        <translation>Vodoravna plošča</translation>
+        <translation type="obsolete">Vodoravna plošča</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
@@ -4565,7 +4645,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>Makri</translation>
+        <translation type="obsolete">Makri</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -4573,15 +4653,15 @@ Drugo okno</translation>
     </message>
     <message>
         <source>More Windows</source>
-        <translation>Več oken</translation>
+        <translation type="obsolete">Več oken</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation>Novo okno</translation>
+        <translation type="obsolete">Novo okno</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Navadno</translation>
+        <translation type="obsolete">Navadno</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -4589,7 +4669,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Predogled preloma strani</translation>
+        <translation type="obsolete">Predogled preloma strani</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4609,7 +4689,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation>Postavitev za branje</translation>
+        <translation type="obsolete">Postavitev za branje</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
@@ -4629,7 +4709,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Varnost</translation>
+        <translation type="obsolete">Varnost</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -4661,19 +4741,19 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>Razdeli</translation>
+        <translation type="obsolete">Razdeli</translation>
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation>Preklopi okna</translation>
+        <translation type="obsolete">Preklopi okna</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation>Opravilno okno</translation>
+        <translation type="obsolete">Opravilno okno</translation>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation>Odmrzni</translation>
+        <translation type="obsolete">Odmrzni</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -4681,31 +4761,31 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>Razmeči</translation>
+        <translation type="obsolete">Razmeči</translation>
     </message>
     <message>
         <source>Vertical Tile</source>
-        <translation>Razpostavi mavpično</translation>
+        <translation type="obsolete">Razpostavi mavpično</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>Urejevalnik za Visual Basic</translation>
+        <translation type="obsolete">Urejevalnik za Visual Basic</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>Okno</translation>
+        <translation type="obsolete">Okno</translation>
     </message>
     <message>
         <source>Workbook View</source>
-        <translation>Ogled delovnega zvezka</translation>
+        <translation type="obsolete">Ogled delovnega zvezka</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation>Možnosti delovnega lista</translation>
+        <translation type="obsolete">Možnosti delovnega lista</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Povečava</translation>
+        <translation type="obsolete">Povečava</translation>
     </message>
 </context>
 <context>
@@ -5296,6 +5376,10 @@ On/Off</source>
         <translation>Zavrni revizijo</translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Share Workbook</source>
         <translation>Deli delovni zvezek</translation>
     </message>
@@ -5612,6 +5696,13 @@ Drugo okno</translation>
     <message>
         <source>Zoom</source>
         <translation>Povečava</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_view.COMAddIns</name>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6514,6 +6605,10 @@ Vklop</translation>
         <translation>Počisti območje tiskanja</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>Odložišče</translation>
     </message>
@@ -6950,6 +7045,10 @@ Vklop</translation>
         <translation>Vstavljanje</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Comment</source>
         <translation>Vstavi komentar</translation>
     </message>
@@ -7015,7 +7114,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Help</source>
-        <translation>Kingsoft preglednice pomoč</translation>
+        <translation type="obsolete">Kingsoft preglednice pomoč</translation>
     </message>
     <message>
         <source>Left</source>
@@ -7271,7 +7370,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Nastavi jezik za preveranje črkovanja</translation>
+        <translation type="obsolete">Nastavi jezik za preveranje črkovanja</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7296,6 +7395,10 @@ Vklop</translation>
     <message>
         <source>Smooth Point</source>
         <translation>Gladka točka</translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort</source>
@@ -7608,6 +7711,10 @@ OLE DB poizvedbe</translation>
         <translation>Prikaz podrobnosti</translation>
     </message>
     <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sort</source>
         <translation>Razvrsti</translation>
     </message>
@@ -7642,6 +7749,10 @@ OLE DB poizvedbe</translation>
     <message>
         <source>Validation</source>
         <translation>Veljavnost</translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8275,7 +8386,7 @@ AddIns</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>Spletno učenje</translation>
+        <translation type="obsolete">Spletno učenje</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -8310,6 +8421,10 @@ AddIns</source>
     <message>
         <source>Average</source>
         <translation>Povprečje</translation>
+    </message>
+    <message>
+        <source>Calculate Sheet</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -8481,6 +8596,10 @@ AddIns</source>
     <message>
         <source>AutoFit Row Height</source>
         <translation>Samoprilagodi višino vrstice</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Average</source>
@@ -9869,6 +9988,10 @@ Center</source>
     <message>
         <source>Reject Revision</source>
         <translation>Zavrni revizijo</translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -11354,6 +11477,17 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
 </context>
 <context>
+    <name>tips.CalculateSheet</name>
+    <message>
+        <source>CalculateSheet Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CalculateSheet Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.ChangeChartType</name>
     <message>
         <source>Change the chart type</source>
@@ -11625,6 +11759,17 @@ Namesto dolarja na primer izberite evro</translation>
     </message>
 </context>
 <context>
+    <name>tips.DataDetailedSettings</name>
+    <message>
+        <source>DataDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DataGroup</name>
     <message>
         <source>New group</source>
@@ -11863,6 +12008,17 @@ Press Esc on the keyboard or click this option again to exit the drawing mode.</
         <source>To draw border grid, click this option and drag the mouse to draw.
 
 Press Esc on the keyboard or click this option again to exit the drawing mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12327,22 +12483,6 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
 </context>
 <context>
     <name>tips.GoalSeek</name>
-    <message>
-        <source>GoalSeek Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GoalSeek Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.Group</name>
@@ -12398,6 +12538,17 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     <message>
         <source>Hide Detail</source>
         <translation>Skrij podrobnosti</translation>
+    </message>
+</context>
+<context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13260,6 +13411,17 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
 </context>
 <context>
+    <name>tips.PageLayoutDetailedSettings</name>
+    <message>
+        <source>PageLayoutDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageLayoutDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PageOrientation</name>
     <message>
         <source>Page Orientation</source>
@@ -13411,6 +13573,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     <message>
         <source>Picture Size</source>
         <translation>Velikost slike</translation>
+    </message>
+</context>
+<context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14421,6 +14594,25 @@ You can also force input to be chosen from a dropdown list of values you specify
     </message>
 </context>
 <context>
+    <name>tips.What-If Analysis</name>
+    <message>
+        <source>LinkText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkUrl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.WindowReset</name>
     <message>
         <source>Tile all open program windows side-by-side on the screen.</source>
@@ -14428,6 +14620,17 @@ You can also force input to be chosen from a dropdown list of values you specify
     </message>
     <message>
         <source>Window Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -6,7 +6,7 @@
     <name>KHomepage</name>
     <message>
         <source>Downloading %1</source>
-        <translation>Herunterladen von %1</translation>
+        <translation type="obsolete">Herunterladen von %1</translation>
     </message>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
@@ -17,17 +17,17 @@
     <name>KHomepageMainWindow</name>
     <message>
         <source>Create blank document when startup</source>
-        <translation>Beim Start leeres Dokument erstellen</translation>
+        <translation type="obsolete">Beim Start leeres Dokument erstellen</translation>
     </message>
     <message>
         <source>Homepage</source>
         <comment>title</comment>
-        <translation>Startseite</translation>
+        <translation type="obsolete">Startseite</translation>
     </message>
     <message>
         <source>Homepage</source>
         <comment>tooltip</comment>
-        <translation>Startseite</translation>
+        <translation type="obsolete">Startseite</translation>
     </message>
     <message>
         <source>Create a blank document at startup</source>

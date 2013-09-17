@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Deep Color Style</source>
-        <translation>Estilo de cor escura</translation>
+        <translation type="obsolete">Estilo de cor escura</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
@@ -153,6 +153,10 @@
     <message>
         <source>Deep</source>
         <translation>Escuro</translation>
+    </message>
+    <message>
+        <source>Dark Color Style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -2276,6 +2276,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Kingsoft Office encountered an error when saving the file, please try again or contact customer service.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>krm</name>
@@ -3029,13 +3033,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
-1.Make sure that the reference exists. If it is a name, it must be a valid range;
-2.Make sure that the reference is a single range, and it must contain two rows at least;
-3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3153,12 +3150,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The PivotTable field name is not valid. 
-To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
-If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3918,15 +3909,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thank you for choosing Kingsoft Office series product.
-
-You have installed Kingsoft Office Personal Trial Edition.
-For better service, please update the trial edition to standard edition by:
-1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
-2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(Trial)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4359,38 +4341,6 @@ For better service, please update the trial edition to standard edition by:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Organization Chart
-Used to show hierarchical relationships</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cycle Diagram
-Used to show a process with a continuous 
-cycle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Radial Diagram
-Used to show relationships of core elements</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pyramid diagram
-Used to show foundation-based relationships</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Venn diagram
-Used to show areas of overlap between 
-elements</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Target Diagram
-Used to show steps toward a goal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>- (Hyphen)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4468,6 +4418,60 @@ Used to show steps toward a goal</source>
     </message>
     <message>
         <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PivotTable field name is not valid. 
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thank you for choosing Kingsoft Office series product.
+
+You have installed Kingsoft Office Personal Trial Edition.
+For better service, please update the trial edition to standard edition by:
+1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
+2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Organization Chart
+Used to show hierarchical relationships</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cycle Diagram
+Used to show a process with a continuous 
+cycle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial Diagram
+Used to show relationships of core elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pyramid diagram
+Used to show foundation-based relationships</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venn diagram
+Used to show areas of overlap between 
+elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Target Diagram
+Used to show steps toward a goal</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

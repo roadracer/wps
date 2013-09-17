@@ -359,10 +359,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxHorizontalAlignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation type="unfinished"></translation>
     </message>
@@ -387,10 +383,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxHorRelativePosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Margin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -411,19 +403,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxHorRightPosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbxVerticalAlignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -447,10 +431,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxVerRightPosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Paragraph</source>
         <translation type="unfinished"></translation>
     </message>
@@ -460,10 +440,6 @@
     </message>
     <message>
         <source>r&amp;elative to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbxVerRelativePosition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7311,10 +7287,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The search for &quot;%1&quot; is finished, no items were found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;More</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7424,6 +7396,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Find What Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no items were found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7811,7 +7787,7 @@ This change will affect all the new documents based on the %1 template.</source>
 </context>
 <context>
     <name>KxMailMergeTableDlg</name>
-    <message id="0">
+    <message>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9059,6 +9035,65 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsBookmarkPane</name>
+    <message>
+        <source>Document bookmarks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the bookmark position(G)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name(N)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location(L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename(R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whether to delete all bookmarks?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ShowBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HideBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark already exists, please change the name !</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsBorderStyleItem</name>
     <message>
         <source>No Border</source>
@@ -9659,6 +9694,10 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Level %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

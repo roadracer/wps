@@ -533,6 +533,10 @@
         <translation>水平文字方塊</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入圖片</translation>
     </message>
@@ -1299,6 +1303,10 @@ Center</source>
         <translation>重複項</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>方程式</translation>
     </message>
@@ -1384,7 +1392,11 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>拒絕重複輸入</translation>
+        <translation type="obsolete">拒絕重複輸入</translation>
+    </message>
+    <message>
+        <source>Reject Insert Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -1405,6 +1417,10 @@ Center</source>
     <message>
         <source>Sum</source>
         <translation>加總</translation>
+    </message>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1825,6 +1841,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Calculate Active Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -2229,7 +2249,7 @@ Center</source>
         <translation>另存新檔</translation>
     </message>
     <message>
-        <source>Select</source>
+        <source>SelectShape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2239,6 +2259,10 @@ Center</source>
     <message>
         <source>Series Line Popup Menu</source>
         <translation>數列線選單</translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -2384,6 +2408,10 @@ Window</source>
     <message>
         <source>Drawing Tools</source>
         <translation>繪圖工具</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2544,10 +2572,6 @@ Window</source>
         <source>false</source>
         <translation type="obsolete">確定</translation>
     </message>
-    <message>
-        <source>true</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands.KxSwitchLangCommand</name>
@@ -2588,6 +2612,10 @@ Window</source>
     <message>
         <source>Drawing Tools</source>
         <translation>繪圖工具</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2818,6 +2846,10 @@ Chart Type</source>
         <translation>合併計算</translation>
     </message>
     <message>
+        <source>CustomSort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Data Tools</source>
         <translation>資料工具</translation>
     </message>
@@ -2907,6 +2939,10 @@ OLE DB Query</source>
         <translation>顯示詳細資料</translation>
     </message>
     <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sort</source>
         <translation>自訂排序</translation>
     </message>
@@ -2941,6 +2977,10 @@ OLE DB Query</source>
     <message>
         <source>Validation</source>
         <translation>有效性</translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3061,6 +3101,10 @@ OLE DB Query</source>
     <message>
         <source>Add Ins</source>
         <translation>COM 附加元件</translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3459,6 +3503,10 @@ On</source>
         <translation>備份管理</translation>
     </message>
     <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>檔案保護及屬性</translation>
     </message>
@@ -3520,6 +3568,10 @@ On</source>
     </message>
     <message>
         <source>KingsoftOffice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2007-2010 Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3599,6 +3651,10 @@ On</source>
         <translation>摘要資訊</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reload Text File</source>
         <translation>重新載入</translation>
     </message>
@@ -3609,10 +3665,6 @@ On</source>
     <message>
         <source>Save As</source>
         <translation>另存新檔...</translation>
-    </message>
-    <message>
-        <source>Save As Xlsx</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -3628,10 +3680,6 @@ On</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>StudyOnline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3667,6 +3715,10 @@ On</source>
     <message>
         <source>Average</source>
         <translation>普通</translation>
+    </message>
+    <message>
+        <source>Calculate Sheet</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -3844,6 +3896,10 @@ Trig</source>
     <message>
         <source>AutoFit Row Height</source>
         <translation>最適列高</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Average</source>
@@ -4436,6 +4492,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert File Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Label</source>
         <translation>標籤</translation>
     </message>
@@ -4454,6 +4514,10 @@ Center</source>
     <message>
         <source>Object</source>
         <translation>物件</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -4559,10 +4623,6 @@ Center</source>
         <translation>排列方式</translation>
     </message>
     <message>
-        <source>Arrange All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Breaks</source>
         <translation>分隔符號</translation>
     </message>
@@ -4575,25 +4635,8 @@ Center</source>
         <translation>移到最上層</translation>
     </message>
     <message>
-        <source>Cascade</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Print Region</source>
         <translation>取消列印範圍</translation>
-    </message>
-    <message>
-        <source>Close
-Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close Window</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete Page Break</source>
@@ -4602,10 +4645,6 @@ Other Window</source>
     <message>
         <source>Detailed Settings</source>
         <translation>詳細配置</translation>
-    </message>
-    <message>
-        <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4636,68 +4675,24 @@ Other Window</source>
         <translation>垂直翻轉</translation>
     </message>
     <message>
-        <source>Formula Bar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Free Rotate</source>
         <translation>自由旋轉</translation>
-    </message>
-    <message>
-        <source>Freeze</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Full Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gridlines</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Group</source>
         <translation>組成群組</translation>
     </message>
     <message>
-        <source>Headings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Horizontal Tile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Page Break</source>
         <translation>插入分頁符號</translation>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Margins</source>
         <translation>邊界</translation>
     </message>
     <message>
-        <source>More Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Orientation</source>
         <translation>方向</translation>
-    </message>
-    <message>
-        <source>Page Break Preview</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4716,10 +4711,6 @@ Other Window</source>
         <translation>列印標題</translation>
     </message>
     <message>
-        <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reset All Page Break</source>
         <translation>重置所有分頁符號</translation>
     </message>
@@ -4734,10 +4725,6 @@ Other Window</source>
     <message>
         <source>Rotate Right 90°</source>
         <translation>向右旋轉</translation>
-    </message>
-    <message>
-        <source>Security</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -4768,52 +4755,8 @@ Other Window</source>
         <translation>貼齊格線</translation>
     </message>
     <message>
-        <source>Split</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Task Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unfreeze</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungroup</source>
         <translation>取消群組</translation>
-    </message>
-    <message>
-        <source>Unsplit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vertical Tile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Workbook View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Worksheet Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5412,6 +5355,10 @@ On/Off</source>
         <translation>拒絕修訂</translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Share Workbook</source>
         <translation>共用活頁簿</translation>
     </message>
@@ -5726,6 +5673,13 @@ Other Window</source>
     <message>
         <source>Zoom</source>
         <translation>縮放</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_view.COMAddIns</name>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6625,6 +6579,10 @@ On</source>
         <translation>取消列印範圍</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7065,6 +7023,10 @@ On</source>
         <translation>插入</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Comment</source>
         <translation>插入註解</translation>
     </message>
@@ -7135,10 +7097,6 @@ On</source>
     <message>
         <source>Kingsoft Online</source>
         <translation type="obsolete">Kingsoft Online</translation>
-    </message>
-    <message>
-        <source>Kingsoft Spreadsheets Help</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
@@ -7393,10 +7351,6 @@ On</source>
         <translation>設定列印範圍</translation>
     </message>
     <message>
-        <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
@@ -7419,6 +7373,10 @@ On</source>
     <message>
         <source>Smooth Point</source>
         <translation>平滑頂點</translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort</source>
@@ -7738,6 +7696,10 @@ OLE DB Query</source>
         <translation>顯示詳細資料</translation>
     </message>
     <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sort</source>
         <translation>自訂排序</translation>
     </message>
@@ -7772,6 +7734,10 @@ OLE DB Query</source>
     <message>
         <source>Validation</source>
         <translation>有效性</translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8421,10 +8387,6 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Update Online</source>
         <translation>線上更新</translation>
     </message>
@@ -8457,6 +8419,10 @@ AddIns</source>
     <message>
         <source>Average</source>
         <translation>普通</translation>
+    </message>
+    <message>
+        <source>Calculate Sheet</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -8628,6 +8594,10 @@ AddIns</source>
     <message>
         <source>AutoFit Row Height</source>
         <translation>最適列高</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Average</source>
@@ -10028,6 +9998,10 @@ Center</source>
     <message>
         <source>Reject Revision</source>
         <translation>拒絕修訂</translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -11525,6 +11499,17 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
 </context>
 <context>
+    <name>tips.CalculateSheet</name>
+    <message>
+        <source>CalculateSheet Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CalculateSheet Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.ChangeChartType</name>
     <message>
         <source>Change the chart type</source>
@@ -11803,6 +11788,17 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
 </context>
 <context>
+    <name>tips.DataDetailedSettings</name>
+    <message>
+        <source>DataDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DataGroup</name>
     <message>
         <source>New group</source>
@@ -12054,6 +12050,17 @@ Press Esc on the keyboard or click this option again to exit the drawing mode.</
 元格進行繪製。
 
 重新單擊此選項或按鍵盤中的Esc鍵可退出繪製狀態</translation>
+    </message>
+</context>
+<context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12534,22 +12541,6 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
 </context>
 <context>
     <name>tips.GoalSeek</name>
-    <message>
-        <source>GoalSeek Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GoalSeek Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.Group</name>
@@ -12603,6 +12594,17 @@ The information in the Header or Footer will appear at the top or bottom of each
     <message>
         <source>Hide Detail</source>
         <translation>隱藏詳細資料</translation>
+    </message>
+</context>
+<context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13494,6 +13496,17 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
 </context>
 <context>
+    <name>tips.PageLayoutDetailedSettings</name>
+    <message>
+        <source>PageLayoutDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageLayoutDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PageOrientation</name>
     <message>
         <source>Page Orientation</source>
@@ -13652,6 +13665,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     <message>
         <source>Picture Size</source>
         <translation>圖案大小</translation>
+    </message>
+</context>
+<context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14696,6 +14720,25 @@ You can also force input to be chosen from a dropdown list of values you specify
     </message>
 </context>
 <context>
+    <name>tips.What-If Analysis</name>
+    <message>
+        <source>LinkText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkUrl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.WindowReset</name>
     <message>
         <source>Tile all open program windows side-by-side on the screen.</source>
@@ -14705,6 +14748,17 @@ You can also force input to be chosen from a dropdown list of values you specify
     <message>
         <source>Window Reset</source>
         <translation>重排視窗</translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -103,23 +103,23 @@
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
-        <translation>选择语言</translation>
+        <translation type="obsolete">选择语言</translation>
     </message>
     <message>
         <source>&amp;Choose your language</source>
-        <translation>选择语言(&amp;C)</translation>
+        <translation type="obsolete">选择语言(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
-        <translation>重置个人模板(&amp;R)</translation>
+        <translation type="obsolete">重置个人模板(&amp;R)</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>信息</translation>
+        <translation type="obsolete">信息</translation>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation>设置将在启动后生效。</translation>
+        <translation type="obsolete">设置将在启动后生效。</translation>
     </message>
 </context>
 <context>
@@ -155,6 +155,29 @@
     <message>
         <source>Restore</source>
         <translation>还原窗口</translation>
+    </message>
+</context>
+<context>
+    <name>KMainWindow</name>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation type="unfinished">最大化(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Unma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation type="unfinished">最小化(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

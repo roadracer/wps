@@ -537,6 +537,10 @@
         <translation>横向文本框</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
@@ -1376,6 +1380,10 @@ Master</source>
         <translation>表格</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>公式</translation>
     </message>
@@ -1426,6 +1434,10 @@ Master</source>
     <message>
         <source>Send E-mail</source>
         <translation>发送邮件</translation>
+    </message>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text</source>
@@ -2594,6 +2606,10 @@ On</source>
         <translation>备份管理</translation>
     </message>
     <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>文档保护及属性</translation>
     </message>
@@ -2686,6 +2702,10 @@ On</source>
         <translation>新建空白文档</translation>
     </message>
     <message>
+        <source>New From Default Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New From Online Templates</source>
         <translation type="obsolete">从在线模板新建</translation>
     </message>
@@ -2750,6 +2770,10 @@ On</source>
         <translation>属性</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>保存</translation>
     </message>
@@ -2774,12 +2798,8 @@ On</source>
         <translation type="unfinished">在线学习</translation>
     </message>
     <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">转为 WPS 文字文档</translation>
+        <translation type="unfinished">转为 WPS 文字文档</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -2791,6 +2811,10 @@ On</source>
     </message>
     <message>
         <source>WPS Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3278,6 +3302,10 @@ Slide</source>
         <translation>无阴影</translation>
     </message>
     <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Package into Folder</source>
         <translation>打包成文件夹</translation>
     </message>
@@ -3392,6 +3420,10 @@ Slide</source>
     <message>
         <source>Slide</source>
         <translation>幻灯片</translation>
+    </message>
+    <message>
+        <source>Slide Show From Beginning</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3601,6 +3633,10 @@ Slide</source>
     <message>
         <source>Gallery</source>
         <translation>素材库</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -4099,6 +4135,10 @@ Slide</source>
         <translation>排列</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation>自动</translation>
     </message>
@@ -4209,6 +4249,10 @@ Slide</source>
     <message>
         <source>Insert</source>
         <translation>插入</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4989,6 +5033,10 @@ Settings</source>
 幻灯片放映</translation>
     </message>
     <message>
+        <source>Slide Show From Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Transition</source>
         <translation>幻灯片切换</translation>
     </message>
@@ -5281,6 +5329,10 @@ Settings</source>
     <message>
         <source>Arrange All</source>
         <translation>重排窗口</translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6233,6 +6285,10 @@ On</source>
         <translation>箭头选项</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto Point</source>
         <translation>自动顶点</translation>
     </message>
@@ -6303,6 +6359,10 @@ On</source>
     <message>
         <source>Change Picture</source>
         <translation>更改图片</translation>
+    </message>
+    <message>
+        <source>Change Points</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -6633,6 +6693,10 @@ On</source>
         <translation>墨迹颜色</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Columns</source>
         <translation>插入列</translation>
     </message>
@@ -6678,7 +6742,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation>WPS 论坛</translation>
+        <translation type="obsolete">WPS 论坛</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -6690,14 +6754,14 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>WPS Office 主页</translation>
+        <translation type="obsolete">WPS Office 主页</translation>
     </message>
     <message>
         <source>Kingsoft Online</source>
         <translation type="obsolete">金山在线</translation>
     </message>
     <message>
-        <source>Kingsoft Presentation Help</source>
+        <source>KingsoftOffice</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6745,6 +6809,14 @@ On</source>
         <translation>母版版式</translation>
     </message>
     <message>
+        <source>Menu Edit Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu New Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Cells</source>
         <translation>合并单元格</translation>
     </message>
@@ -6789,6 +6861,10 @@ Master</source>
     <message>
         <source>Normal</source>
         <translation>普通</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Object</source>
@@ -7043,6 +7119,10 @@ Master</source>
         <translation>幻灯片切换</translation>
     </message>
     <message>
+        <source>SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slides List</source>
         <translation>幻灯片列表</translation>
     </message>
@@ -7056,7 +7136,7 @@ Master</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation>演讲者备注</translation>
+        <translation type="obsolete">演讲者备注</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -7081,10 +7161,6 @@ Master</source>
     <message>
         <source>Study Online</source>
         <translation type="unfinished">在线学习</translation>
-    </message>
-    <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch Language</source>
@@ -7143,12 +7219,20 @@ Master</source>
         <translation>可见</translation>
     </message>
     <message>
+        <source>WPS BBS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Microblog</source>
         <translation>微博反馈</translation>
     </message>
     <message>
         <source>WPS New features</source>
         <translation>WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
@@ -7281,7 +7365,7 @@ Master</source>
     </message>
     <message>
         <source>Level</source>
-        <translation>级别</translation>
+        <translation type="obsolete">级别</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -7310,6 +7394,10 @@ Master</source>
     <message>
         <source>Use AutoFormat</source>
         <translation>自动套用格式</translation>
+    </message>
+    <message>
+        <source>level</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8063,12 +8151,8 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">转为 WPS 文字文档</translation>
+        <translation type="unfinished">转为 WPS 文字文档</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -8085,6 +8169,10 @@ AddIns</source>
     <message>
         <source>WPS New features</source>
         <translation>WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11963,6 +12051,17 @@ Click the arrow to select a different alignment.</source>
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DuplicateSlide</name>
     <message>
         <source>Insert a duplicate of the current slide into the presentation.</source>
@@ -12291,6 +12390,17 @@ WPS素材库中的素材在联网情况下才可使用。</translation>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
         <translation>http://www.wps.cn/index.php?mod=knowledge&amp;act=searchWord&amp;word=页眉和页脚</translation>
+    </message>
+</context>
+<context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13120,6 +13230,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
 </context>
 <context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PreComment</name>
     <message>
         <source>Pre Comment</source>
@@ -13442,6 +13563,17 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
         <translation>弹出“宏”对话框，查看宏列表，可直接运行、删除或是创建宏。</translation>
+    </message>
+</context>
+<context>
+    <name>tips.SaveBackgroundPicture</name>
+    <message>
+        <source>SaveBackgroundPicture Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveBackgroundPicture Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14005,6 +14137,17 @@ Click the arrow to select a different text color.</source>
     </message>
 </context>
 <context>
+    <name>tips.TextMargin</name>
+    <message>
+        <source>TextMargin Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextMargin Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
@@ -14068,6 +14211,17 @@ Click the arrow to select a different text color.</source>
     <message>
         <source>Character Spacing</source>
         <translation>字符间距</translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14701,7 +14855,7 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>显示/隐藏网格</translation>
+        <translation type="obsolete">显示/隐藏网格</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -14900,12 +15054,20 @@ Slide</source>
         <translation>全选</translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ShapeAndGallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
         <translation>形状</translation>
+    </message>
+    <message>
+        <source>Show / Hide Grid</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Background Popup Menu</source>
@@ -15004,8 +15166,12 @@ Slide</source>
         <translation>文字编辑</translation>
     </message>
     <message>
+        <source>ToolBars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
-        <translation>工具栏</translation>
+        <translation type="obsolete">工具栏</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -15112,6 +15278,10 @@ Slide</source>
     <message>
         <source>Drawing Tool</source>
         <translation>绘图工具</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -15282,7 +15452,7 @@ Slide</source>
     </message>
     <message>
         <source>true</source>
-        <translation>确定</translation>
+        <translation type="obsolete">确定</translation>
     </message>
 </context>
 <context>
@@ -15327,6 +15497,10 @@ Slide</source>
     <message>
         <source>Drawing Tools</source>
         <translation>绘图工具</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>

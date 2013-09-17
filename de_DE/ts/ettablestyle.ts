@@ -88,7 +88,7 @@
     </message>
     <message>
         <source>Washy</source>
-        <translation type="obsolete">verwaschen</translation>
+        <translation type="unfinished">verwaschen</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Washy</source>
-        <translation type="obsolete">verwaschen</translation>
+        <translation type="unfinished">verwaschen</translation>
     </message>
     <message>
         <source>Middle</source>
