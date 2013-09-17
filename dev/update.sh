@@ -55,11 +55,11 @@ Name=@prj@
 Version=2
 
 [Source]
-Path=../../resource/res
+Path=$CODING/shell2/resource/res
 Files=
 
 [Destination]
-Path=../@locale@/ts
+Path=$cur_dir/../@locale@/ts
 TargetLang=@locale@
 
 [Options]
@@ -78,10 +78,10 @@ for l in $LOCALES
 		TYPE=`sed -n "/$p:/ s/^\[\(.*\)\].*$/\1/p" $cur_dir/projs`
 		DIR=`sed -n "/$p:/ s/^.*:\s*\(.*\)$/\1/p" $cur_dir/projs`
 		if [ "$TYPE" == "qt" ]; then
-			lupdate -silent -locations none -target-language $l -recursive $CODING/$DIR -ts ../$l/ts/$p.ts
+			lupdate -silent -locations none -target-language $l -recursive $CODING/$DIR -ts $cur_dir/../$l/ts/$p.ts
 		elif [ "$TYPE" == "core" ]; then
 			# same as qt, but 
-			lupdate -silent -locations none -target-language $l -recursive $CODING/$DIR -ts ../$l/ts/$p.ts 2>&1 | sed '/lacks Q_OBJECT macro/d' >> /dev/stderr
+			lupdate -silent -locations none -target-language $l -recursive $CODING/$DIR -ts $cur_dir/../$l/ts/$p.ts 2>&1 | sed '/lacks Q_OBJECT macro/d' >> /dev/stderr
 		elif [ "$TYPE" == "kui" ]; then
 			kui2ts_update $l $DIR
 		elif [ -z "$TYPE" ]; then
