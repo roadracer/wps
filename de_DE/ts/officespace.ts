@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos; files?</source>
-        <translation type="obsolte">Sind Sie sicher, dass Sie die Dateien &apos;%1&apos löschen wollen?</translation>
+        <translation type="obsolte">Sind Sie sicher, dass Sie die Dateien &apos;%1&apos; löschen wollen?</translation>
     </message>
     <message>
         <source>Delete many objects</source>
