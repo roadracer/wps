@@ -1,7 +1,12 @@
 #!/bin/bash
 
-CODING=$WPS_CODING
+CODING=$1
 LNG=`basename "$PWD"`
+
+if [ ! -d "$CODING" ] ; then
+	echo "$CODING does not exists!"
+	exit 1
+fi
 
 cur_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 

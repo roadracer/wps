@@ -23,7 +23,8 @@ rcc:
 	@ ${MAKE_RCC} res/*.qrc
 
 update:
-	@ ${MAKE_UPDATE}
+	[ -d "$(CODING)" ]
+	@ ${MAKE_UPDATE} $(CODING)
 
 install: all uninstall
 	@ ${MAKE_INSTALL}
