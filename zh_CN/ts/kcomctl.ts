@@ -70,7 +70,7 @@
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation>文件正在同步</translation>
+        <translation>文件正在同步...</translation>
     </message>
 </context>
 <context>
@@ -97,29 +97,6 @@
     <message>
         <source>Menu Bar</source>
         <translation type="obsolete">菜单栏</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Choose Language</source>
-        <translation type="obsolete">选择语言</translation>
-    </message>
-    <message>
-        <source>&amp;Choose your language</source>
-        <translation type="obsolete">选择语言(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="obsolete">重置个人模板(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="obsolete">信息</translation>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
-        <translation type="obsolete">设置将在启动后生效。</translation>
     </message>
 </context>
 <context>
@@ -161,23 +138,23 @@
     <name>KMainWindow</name>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished">最大化(&amp;X)</translation>
+        <translation>最大化(&amp;X)</translation>
     </message>
     <message>
         <source>Unma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>还原(&amp;R)</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished">最小化(&amp;N)</translation>
+        <translation>最小化(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出(&amp;E)</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>使用系统标题栏(&amp;T)</translation>
     </message>
 </context>
 <context>

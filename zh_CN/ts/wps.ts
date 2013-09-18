@@ -5218,7 +5218,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Embed &amp;true type</source>
-        <translation type="unfinished">将字体嵌入文件(&amp;T)</translation>
+        <translation>将字体嵌入文件(&amp;T)</translation>
     </message>
     <message>
         <source>Enable &amp;click and type</source>
@@ -5506,7 +5506,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preferred Width</source>
-        <translation type="unfinished"></translation>
+        <translation>指定宽度</translation>
     </message>
     <message>
         <source>Preserve</source>
@@ -5670,7 +5670,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Timing Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>定时备份</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -5774,31 +5774,31 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Privacy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>隐私选项</translation>
     </message>
     <message>
         <source>Make hidden markup &amp;visible when opening or saving</source>
-        <translation type="unfinished"></translation>
+        <translation>打开或保存时标记可见(&amp;V)</translation>
     </message>
     <message>
         <source>Auto convert straight &amp;quote to curly quote</source>
-        <translation type="unfinished">自动转换英文引号为中文引号</translation>
+        <translation>自动转换英文引号为中文引号(&amp;Q)</translation>
     </message>
     <message>
         <source>Start With</source>
-        <translation type="unfinished">启动</translation>
+        <translation>启动</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation type="unfinished">启动:</translation>
+        <translation>启动:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
-        <translation type="unfinished">主页(&amp;g)</translation>
+        <translation>主页(&amp;g)</translation>
     </message>
     <message>
         <source>&amp;New Document</source>
-        <translation type="unfinished">新建文档(&amp;N)</translation>
+        <translation>新建文档(&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -6320,7 +6320,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished">自动</translation>
+        <translation>自动</translation>
     </message>
 </context>
 <context>
@@ -8162,7 +8162,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>no items were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到搜索项。</translation>
     </message>
 </context>
 <context>
@@ -8235,15 +8235,15 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished">西文字体(&amp;X):</translation>
+        <translation>西文字体(&amp;X):</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished">中文字体(&amp;T):</translation>
+        <translation>中文字体(&amp;T):</translation>
     </message>
     <message>
         <source>Measured value must be between %1 pt and %2 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>度量值必须介于 %1 磅 和 %2 磅 之间</translation>
     </message>
 </context>
 <context>
@@ -9230,43 +9230,43 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished">10</translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished">2%</translation>
+        <translation>2%</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">4</translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished">5</translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">6</translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished">7</translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished">8</translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Alignment(&amp;G):</source>
@@ -9498,7 +9498,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must be between %1 and %1.</source>
-        <translation type="unfinished">数字必须介于 %1 和 %2 之间。</translation>
+        <translation>数字必须介于 %1 和 %2 之间。</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -9822,7 +9822,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Clear Format</source>
-        <translation type="unfinished">清除格式</translation>
+        <translation>清除格式</translation>
     </message>
     <message>
         <source>New Style...</source>
@@ -9834,7 +9834,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Selected Words Format</source>
-        <translation type="unfinished">所选文字格式</translation>
+        <translation>所选文字格式</translation>
     </message>
     <message>
         <source>Show:</source>
@@ -9842,7 +9842,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Select Style to Apply</source>
-        <translation type="unfinished">请选择要应用的格式</translation>
+        <translation>请选择要应用的格式</translation>
     </message>
 </context>
 <context>
@@ -10034,59 +10034,59 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsBookmarkPane</name>
     <message>
         <source>Document bookmarks:</source>
-        <translation type="unfinished"></translation>
+        <translation>文档书签:</translation>
     </message>
     <message>
         <source>Sort by name.</source>
-        <translation type="unfinished"></translation>
+        <translation>按名称排序</translation>
     </message>
     <message>
         <source>Sort by location.</source>
-        <translation type="unfinished"></translation>
+        <translation>按位置排序</translation>
     </message>
     <message>
         <source>DeleteAll</source>
-        <translation type="unfinished"></translation>
+        <translation>删除全部</translation>
     </message>
     <message>
         <source>Go to the bookmark position(G)</source>
-        <translation type="unfinished"></translation>
+        <translation>跳转到书签位置(G)</translation>
     </message>
     <message>
         <source>Sort by name(N)</source>
-        <translation type="unfinished"></translation>
+        <translation>按名称排序(N)</translation>
     </message>
     <message>
         <source>Sort by location(L)</source>
-        <translation type="unfinished"></translation>
+        <translation>按位置排序(L)</translation>
     </message>
     <message>
         <source>Rename(R)</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名(R)</translation>
     </message>
     <message>
         <source>Delete(D)</source>
-        <translation type="unfinished"></translation>
+        <translation>删除(D)</translation>
     </message>
     <message>
         <source>Whether to delete all bookmarks?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否删除全部书签？</translation>
     </message>
     <message>
         <source>ShowBookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>显示书签标记</translation>
     </message>
     <message>
         <source>HideBookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏书签标记</translation>
     </message>
     <message>
         <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>书签名称不能以数字、符号、特殊字符开头，且不能包含空格。</translation>
     </message>
     <message>
         <source>The bookmark already exists, please change the name !</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&gt;书签已经存在，请更改书签名！</translation>
     </message>
 </context>
 <context>
@@ -10737,7 +10737,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
 </context>
 <context>
@@ -11263,7 +11263,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished">插入页码</translation>
+        <translation>插入页码</translation>
     </message>
     <message>
         <source>OK</source>
@@ -11338,7 +11338,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsSpecialPopupWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">确定</translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
@@ -11859,27 +11859,27 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">常规</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Summar&amp;y Information</source>
-        <translation type="unfinished"></translation>
+        <translation>文档信息(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>批注(&amp;C)</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>权限设置</translation>
     </message>
     <message>
         <source>Permission P&amp;rint:</source>
-        <translation type="unfinished"></translation>
+        <translation>打印权限(&amp;R)：</translation>
     </message>
     <message>
         <source>Free Print</source>
-        <translation type="unfinished"></translation>
+        <translation>不受限打印</translation>
     </message>
 </context>
 <context>
@@ -12031,67 +12031,67 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>WaterMarkSetting</source>
-        <translation type="unfinished"></translation>
+        <translation>水印设置</translation>
     </message>
     <message>
         <source>p&amp;ictureWaterMark</source>
-        <translation type="unfinished"></translation>
+        <translation>图片水印(&amp;I)</translation>
     </message>
     <message>
         <source>chose&amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图片(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;horiAlign:</source>
-        <translation type="unfinished"></translation>
+        <translation>水平对齐(&amp;H)：</translation>
     </message>
     <message>
         <source>&amp;vertiAlign:   </source>
-        <translation type="unfinished"></translation>
+        <translation>垂直对齐(&amp;V)：</translation>
     </message>
     <message>
         <source>f&amp;ormat:</source>
-        <translation type="unfinished"></translation>
+        <translation>版式(&amp;O)：</translation>
     </message>
     <message>
         <source>&amp;zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放(&amp;Z)：</translation>
     </message>
     <message>
         <source>&amp;erosion</source>
-        <translation type="unfinished"></translation>
+        <translation>冲蚀(&amp;E)</translation>
     </message>
     <message>
         <source>te&amp;xtWaterMark</source>
-        <translation type="unfinished"></translation>
+        <translation>文字水印（&amp;X）</translation>
     </message>
     <message>
         <source>conten&amp;t:</source>
-        <translation type="unfinished"></translation>
+        <translation>内容(&amp;T)：</translation>
     </message>
     <message>
         <source>&amp;font:</source>
-        <translation type="unfinished"></translation>
+        <translation>字体(&amp;F)：</translation>
     </message>
     <message>
         <source>font&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>字号(&amp;S)：</translation>
     </message>
     <message>
         <source>font&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色(&amp;C)：</translation>
     </message>
     <message>
         <source>t&amp;ransparency: </source>
-        <translation type="unfinished"></translation>
+        <translation>透明度(&amp;R)：</translation>
     </message>
     <message>
         <source>preview</source>
-        <translation type="unfinished"></translation>
+        <translation>预览</translation>
     </message>
     <message>
         <source>appl&amp;y to:</source>
-        <translation type="unfinished"></translation>
+        <translation>应用于(&amp;Y)：</translation>
     </message>
 </context>
 </TS>

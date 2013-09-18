@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
 <defaultcodec>UTF-8</defaultcodec>
@@ -654,7 +654,7 @@
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1767,7 +1767,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -2696,7 +2696,7 @@ On</source>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -2912,7 +2912,7 @@ On</source>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -3163,7 +3163,7 @@ Options</source>
     </message>
     <message>
         <source>Header&amp;Footer  Options</source>
-        <translation>页眉页脚选项</translation>
+        <translation>页眉页脚选项(&amp;F)</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -3437,7 +3437,7 @@ Painter</source>
     </message>
     <message>
         <source>Home Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3783,19 +3783,19 @@ Painter</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
+        <translation>来自文件</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>来自扫描仪</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>来自扫描仪</translation>
     </message>
     <message>
         <source>Links</source>
@@ -4331,7 +4331,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Rotate Style</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5466,7 +5466,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>DetailedSettings</source>
-        <translation type="unfinished"></translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -6133,7 +6133,7 @@ On/Off</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>行和列</translation>
     </message>
     <message>
         <source>Select</source>
@@ -6259,7 +6259,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Compared Side By Side</source>
-        <translation type="unfinished"></translation>
+        <translation>并排比较</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6383,7 +6383,7 @@ Other Windows</source>
     </message>
     <message>
         <source>View Side By Side</source>
-        <translation type="unfinished"></translation>
+        <translation>并排比较</translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -7370,7 +7370,7 @@ On</source>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>文件备份</translation>
     </message>
     <message>
         <source>login</source>
@@ -7843,7 +7843,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -7907,7 +7907,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>来自扫描仪</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -8031,7 +8031,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished">WPS Office 社区</translation>
+        <translation>WPS Office 社区</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
@@ -8115,7 +8115,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>本机上的模板</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -8243,7 +8243,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office 产品中心</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -8455,11 +8455,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished">在线学习</translation>
+        <translation>在线学习</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
+        <translation>在线学习</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -8609,7 +8609,7 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 <context>
@@ -9255,7 +9255,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished">邮件反馈</translation>
+        <translation>邮件反馈</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -9271,7 +9271,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished">WPS Office 社区</translation>
+        <translation>WPS Office 社区</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
@@ -9303,7 +9303,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Word 2007/2010 文件（*.docx）</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -9339,7 +9339,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>从在线模板新建</translation>
     </message>
     <message>
         <source>Open</source>
@@ -9363,7 +9363,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office 产品中心</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -9403,7 +9403,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
+        <translation>在线学习</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -10058,15 +10058,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
+        <translation>来自文件</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>来自扫描仪</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>来自扫描仪</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -13411,7 +13411,7 @@ Other Window</source>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>文件备份</translation>
     </message>
     <message>
         <source>openwebweibo</source>
@@ -13666,11 +13666,11 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.AlignStyle</name>
     <message>
         <source>AlignStyle Content</source>
-        <translation type="unfinished"></translation>
+        <translation>设置表格中，单元格内容的对齐方式。</translation>
     </message>
     <message>
         <source>AlignStyle Title</source>
-        <translation type="unfinished"></translation>
+        <translation>对齐方式</translation>
     </message>
 </context>
 <context>
@@ -15489,19 +15489,19 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>InsertPictureFromFile Content2</source>
-        <translation type="unfinished"></translation>
+        <translation>单击此处可选择插入本地文件夹的图片或来自扫描仪中的图片。</translation>
     </message>
     <message>
         <source>InsertPictureFromFile Title2</source>
-        <translation type="unfinished"></translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>LinkText</source>
-        <translation type="unfinished"></translation>
+        <translation>有关详细帮助，请按F1。</translation>
     </message>
     <message>
         <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
+        <translation>http://www.wps.cn/index.php?mod=knowledge&amp;act=searchWord&amp;word=插入图片</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16373,11 +16373,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PictureSetTransparentColor</name>
     <message>
         <source>PictureSetTransparentColor Content</source>
-        <translation type="unfinished"></translation>
+        <translation>将当前图片透明化。单击当前图形中的像素时，特定颜色的所有像素都会变得透明。</translation>
     </message>
     <message>
         <source>PictureSetTransparentColor Title</source>
-        <translation type="unfinished"></translation>
+        <translation>设置透明色</translation>
     </message>
 </context>
 <context>
@@ -17255,11 +17255,11 @@ Click the arrow to select subscript.</source>
     <name>tips.TableAutoAdjust</name>
     <message>
         <source>TableAutoAdjust Content</source>
-        <translation type="unfinished"></translation>
+        <translation>自动调整表格中的列和行</translation>
     </message>
     <message>
         <source>TableAutoAdjust Title</source>
-        <translation type="unfinished"></translation>
+        <translation>自动调整</translation>
     </message>
 </context>
 <context>
@@ -17724,11 +17724,11 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     <name>tips.WorkSpace_Backup</name>
     <message>
         <source>WorkSpace_Backup Content</source>
-        <translation type="unfinished"></translation>
+        <translation>可以对当前文档开启自动备份或手动备份，在每次关闭文件时，将生成备份文件保存到您的文件保险箱中。</translation>
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation type="unfinished"></translation>
+        <translation>文件备份</translation>
     </message>
 </context>
 <context>
@@ -18257,7 +18257,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
-        <translation type="unfinished">形状和素材</translation>
+        <translation>形状和素材</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -18569,7 +18569,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>从在线模板新建</translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -18637,11 +18637,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>S MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>@我的消息</translation>
     </message>
     <message>
         <source>S Office space</source>
-        <translation type="unfinished"></translation>
+        <translation>协作</translation>
     </message>
     <message>
         <source>Save</source>
@@ -18677,7 +18677,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>形状和素材</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -18705,7 +18705,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished">样式</translation>
+        <translation>样式</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -18725,7 +18725,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Table Cells</source>
@@ -18874,7 +18874,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>售后微博</translation>
     </message>
     <message>
         <source>File</source>
@@ -18894,7 +18894,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏功能区</translation>
     </message>
     <message>
         <source>Home</source>
@@ -18990,11 +18990,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>显示功能区</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>固定功能区</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -19072,7 +19072,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 <context>
@@ -19110,7 +19110,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>售后微博</translation>
     </message>
     <message>
         <source>File</source>
@@ -19130,7 +19130,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏功能区</translation>
     </message>
     <message>
         <source>Home</source>
@@ -19214,15 +19214,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>显示功能区</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>显示/隐藏功能区</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>固定功能区</translation>
     </message>
     <message>
         <source>Switch Language</source>
@@ -19280,7 +19280,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 </TS>

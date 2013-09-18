@@ -2541,7 +2541,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Kingsoft Writer encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
-        <translation>导出 PDF 文件的过程中遇到错误！</translation>
+        <translation>导出 PDF 文件的过程中遇到错误。</translation>
     </message>
     <message>
         <source>This is a TrueType font. It will be used on both your printer and your screen.</source>
@@ -3421,7 +3421,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Insert the text of a paragraph with styles.</source>
-        <translation>插入具有类似样式的段落中文本</translation>
+        <translation>插入具有类似样式的段落中文本。</translation>
     </message>
     <message>
         <source>StyleRef</source>
@@ -3441,7 +3441,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
-        <translation>优盘版的默认文档路径不能修改！&quot;</translation>
+        <translation>优盘版的默认文档路径不能修改！</translation>
     </message>
     <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
@@ -3457,7 +3457,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">左侧</translation>
+        <translation>左侧</translation>
     </message>
     <message>
         <source>Line spacing: Single, </source>
@@ -3477,21 +3477,27 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
+
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
+
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
 
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
