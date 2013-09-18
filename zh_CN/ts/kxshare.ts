@@ -7116,15 +7116,15 @@ Document</source>
     <name>updateMessageDlg</name>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>New version is prepared. Would you like to get it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>发现新版本，是否前往更新？</translation>
     </message>
     <message>
         <source>Ignore this version.</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略此版本</translation>
     </message>
 </context>
 <context>
