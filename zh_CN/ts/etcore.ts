@@ -1257,47 +1257,47 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Value Of</source>
-        <translation type="unfinished"></translation>
+        <translation>目标值</translation>
     </message>
     <message>
         <source>Objective Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>目标单元格</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>单元格</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Original Value</source>
-        <translation type="unfinished"></translation>
+        <translation>初始值</translation>
     </message>
     <message>
         <source>(Empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(空白)</translation>
     </message>
     <message>
         <source>Variable Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>可变单元格</translation>
     </message>
     <message>
         <source>Constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>约束</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>公式</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Slack</source>
@@ -1317,11 +1317,11 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>整数</translation>
     </message>
     <message>
         <source>Contin</source>
@@ -1329,7 +1329,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制</translation>
     </message>
     <message>
         <source>Forming Limits Report...</source>
@@ -1341,15 +1341,15 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Objective</source>
-        <translation type="unfinished"></translation>
+        <translation>目标</translation>
     </message>
     <message>
         <source>Max Time</source>
-        <translation type="unfinished"></translation>
+        <translation>最大时间</translation>
     </message>
     <message>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>迭代值</translation>
     </message>
     <message>
         <source>Precision</source>
@@ -1357,7 +1357,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Use Automatic Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>使用自动缩放</translation>
     </message>
     <message>
         <source>Show Iteration Results</source>
@@ -1365,7 +1365,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Convergence</source>
-        <translation type="unfinished"></translation>
+        <translation>收敛度</translation>
     </message>
     <message>
         <source>Max Integer Solutions</source>
@@ -1373,7 +1373,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Integer Tolerance</source>
-        <translation type="unfinished"></translation>
+        <translation>整数允许误差</translation>
     </message>
     <message>
         <source>Solve Without Integer Constraints</source>
@@ -1381,7 +1381,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>报告</translation>
     </message>
     <message>
         <source>Sensitivity Report</source>
@@ -1397,7 +1397,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Cell Value</source>
-        <translation type="unfinished"></translation>
+        <translation>单元格的值</translation>
     </message>
     <message>
         <source>Objective Cell Section</source>
@@ -1413,15 +1413,15 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>限制</translation>
     </message>
     <message>
         <source>Subproblem</source>
-        <translation type="unfinished"></translation>
+        <translation>子问题</translation>
     </message>
     <message>
         <source>Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>变量</translation>
     </message>
     <message>
         <source>Report Created</source>
@@ -1429,11 +1429,11 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>工作表</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>结果</translation>
     </message>
     <message>
         <source>Solver Engine</source>
@@ -1441,7 +1441,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Solver Options</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解选项</translation>
     </message>
     <message>
         <source>sec</source>
@@ -1449,7 +1449,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source>Solution Time</source>
@@ -1457,11 +1457,11 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>引擎</translation>
     </message>
     <message>
         <source>Simplex LP</source>
-        <translation type="unfinished"></translation>
+        <translation>单纯线性规划</translation>
     </message>
     <message>
         <source>Answer Report</source>
@@ -1469,15 +1469,15 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Max Subproblems</source>
-        <translation type="unfinished"></translation>
+        <translation>最大子问题数目</translation>
     </message>
     <message>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>下界</translation>
     </message>
     <message>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation>上界</translation>
     </message>
     <message>
         <source>Reduced</source>
@@ -1493,11 +1493,11 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Increase</source>
-        <translation type="unfinished"></translation>
+        <translation>增加</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation type="unfinished"></translation>
+        <translation>减少</translation>
     </message>
     <message>
         <source>R.H. Sid</source>
@@ -1517,7 +1517,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>约束</translation>
     </message>
     <message>
         <source>Trail Solution</source>
@@ -2288,37 +2288,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="obsolete">    在左边列表中按优先级选择需要进行排序的字段然后点击“添加到列表”按钮。
     在右边进行筛选条件的设定然后点击“添加到列表”添加筛选条件。
     注意：第二算数如果要将数字串作为字符串进行查询，需要在两头手工添加单引号(&apos; &apos;)。</translation>
-    </message>
-    <message>
-        <source>You cannot perform next operation due to one of the following reasons:
- 
- You haven&apos;t selected any field, please select fields from fields list first.
- 
-  The field list name is blank by chance.
- 
-  The generated query failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot perform next operation due to one of the following reasons:
- 
-  The query string is blank.
- 
-  The string you typed is not accordant with SQL grammar.
- 
-  The generated query is failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select fields from the left list, then click &quot;Add to the list&quot;.
-Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
-Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5985,11 +5954,18 @@ Do you still want to open this file?
 
 Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>您的病毒扫描程序对此文件进行病毒扫描时发生错误(错误码：0x%08X)，请和您的反病毒软件供应商联系。
+您是否希望继续打开此文件？
+
+· 选择&quot;是&quot;，WPS表格 将继续打开此文件。
+· 选择&quot;否&quot;，WPS表格 将终止打开此文件。
+
+注意：某些文件可能包含宏病毒而执行其他有害操作。如果您不信任此文件，请不要继续打开。
+(%s)</translation>
     </message>
     <message>
         <source>Chart Title</source>
-        <translation type="unfinished">图表标题</translation>
+        <translation>图表标题</translation>
     </message>
 </context>
 <context>
@@ -9459,18 +9435,6 @@ Continue ?</source>
 
 是否继续？</translation>
     </message>
-    <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>et_undodesc</name>
@@ -11391,11 +11355,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Default book name &quot;%s&quot; is not valid, can&apos;t include &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>默认的工作薄名称“%1”无效，不可包含“%2”字符。</translation>
     </message>
     <message>
         <source>Can&apos;t find directory &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到目录“%s”。</translation>
     </message>
     <message>
         <source>The field you are dropping into the column area exceeds 256 items. Only the first 255 items will be displayed as columns. To include all of the field&apos;s data in your PivotTable report, drop it into different area, such as the data area.</source>
@@ -11407,31 +11371,31 @@ Continue ?</source>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS表格 发现在选定区域旁边还有数据，这些数据将不参与排序。</translation>
     </message>
     <message>
         <source>Input error, the value must be an Integer between 1 and 10000.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入不正确，要求输入的整数大于1且小于10000。</translation>
     </message>
     <message>
         <source>The word contains unallowable characters, we can&apos;t handle it.</source>
-        <translation type="unfinished"></translation>
+        <translation>单词中有非法字符，无法处理！</translation>
     </message>
     <message>
         <source>Failed to modify the dictionary file you selected, make sure the file exists and is not read-only.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法编辑选择的词典文件，请确认该词典文件存在且非只读。</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件打开密码必须与权限设置密码不同，请重新输入。</translation>
     </message>
     <message>
         <source>Input error, the value must be a Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入不正确，要求输入值为整数或小数。</translation>
     </message>
     <message>
         <source>Failed to open the dictionary file you selected, make sure it is a valid dictionary file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开选择的词典文件，请确认该词典文件是有效的。</translation>
     </message>
     <message>
         <source>Solid, &quot;75% Gray&quot;, &quot;50% Gray&quot;, &quot;25% Gray&quot;, &quot;12.5% Gray&quot;, &quot;6.5% Gray&quot;, &quot;Horizontal stripe&quot;, &quot;Vertical stripe&quot;, &quot;Reverse Diagonal stripe&quot;, &quot;Diagonal stripe&quot;, &quot;Diagonal crosshatch&quot;, &quot;Thick Diagonal crosshatch&quot;, &quot;Thin Horizontal stripe&quot;, &quot;Thin Vertical stripe&quot;, &quot;Thin Reverse Diagonal stripe&quot;, &quot;Thin Diagonal stripe&quot;, &quot;Thin Horizontal crosshatch&quot;, &quot;Thin Diagonal crosshatch&quot;</source>
@@ -11439,19 +11403,19 @@ Continue ?</source>
     </message>
     <message>
         <source>Deleting the dictionary from disk failed, please delete it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>从磁盘上删除字典文件失败，请手工删除该文件。</translation>
     </message>
     <message>
         <source>Are you sure you want to send the dictionary &quot;%s&quot; to the Recycle Bin?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确认将选中的词典 &quot;%s&quot; 删除到回收站吗？</translation>
     </message>
     <message>
         <source>Find the matches, but fail to replace. The contents replaced may be invalid formulas.</source>
-        <translation type="unfinished"></translation>
+        <translation>找到匹配项，但替换失败。进行替换后的内容可能是非法的公式。</translation>
     </message>
     <message>
         <source>The header or footer(Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished"></translation>
+        <translation>页眉或页脚的长度（左、中、右的总和）不能大于 255 个字符。删除一些文字，或使格式简单些。</translation>
     </message>
     <message>
         <source>Select %d record(s), accept changes %d record(s), reject changes %d record(s)</source>
@@ -11463,23 +11427,23 @@ Continue ?</source>
     </message>
     <message>
         <source>A range with the title &quot;%s&quot; already exists. Please enter a new title for the range.</source>
-        <translation type="unfinished"></translation>
+        <translation>标题为“%s”的区域已经存在。请为该区域输入新标题。</translation>
     </message>
     <message>
         <source>The title &quot;%s&quot; contains illegal characters. Range titles may only contain letters, character, numbers, and spaces, and must begin with a letter or a character.</source>
-        <translation type="unfinished"></translation>
+        <translation>标题“%1”包含有非法字符。区域标题只能包含字母、文字、数字和空格，并且必须以字母或文字开头。</translation>
     </message>
     <message>
         <source>Connection string or SQL is error, ET can not import the data.</source>
-        <translation type="unfinished"></translation>
+        <translation>连接字符串或者SQL有误，ET 无法导入数据。</translation>
     </message>
     <message>
         <source>The range is not in active sheet, ET can not import the data.</source>
-        <translation type="unfinished"></translation>
+        <translation>区域不在活动工作表上，ET不能导入数据。</translation>
     </message>
     <message>
         <source>You are opening an Excel shared workbook &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>你正在打开一个Excel共享工作簿文件 &quot;%s&quot;。</translation>
     </message>
     <message>
         <source>Cannot modify the cell or chart, perhaps:
@@ -11500,14 +11464,17 @@ the category you want, and then choose the other options.</source>
 %s The first Sort By box is blank. 
 %s There are two same sort references. 
 %s The sort reference you entered is not within the current selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>排序引用无效。造成无效排序的可能原因是：\r\n\r\n%s “主要关键字”空缺。\r\n%s 两个排序引用雷同。\r\n%s 所输入的排序引用位于当前选定区域之外。</translation>
     </message>
     <message utf8="true">
         <source>Only one picture can be inserted in each section of the %s.
 
 ·To replace existing picture, click OK.
 ·To keep existing picture, click Cancel button.</source>
-        <translation type="unfinished"></translation>
+        <translation>在 %s 的每一节中只能插入一张图片。
+
+如果要替换现有图片，请按“确定”。
+如果要保留现有图片，请按“取消”。</translation>
     </message>
     <message>
         <source>The command you choose cannot be performed with multiple selections.
@@ -11518,28 +11485,37 @@ Select a single range and click the command again.</source>
         <source>The reference you entered is not valid, or you did not provide a reference where one was required.
 
 To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的引用无效，或在需要引用处没有输入引用。\r\n\r\n要输入引用，可以单击目标单元格，或拖动鼠标选定整个区域。此方法对于同一工作单元格或同一工作簿的不同工作表中的单元格均有效。对其他工作簿的引用被称作外部引用。</translation>
     </message>
     <message>
         <source>If there are repeated contents in cells in the following range,
 the cells will be set in orange background.
 
 (Note: Please select the range with a single row or column)</source>
-        <translation type="unfinished"></translation>
+        <translation>以下区域如果存在重复的单元格(内容)，这些单元格将
+被标记成“橙色”背景。
+
+（注：请选择[单行]或[单列]区域）</translation>
     </message>
     <message>
         <source>If there are duplicate values when entering contents in the 
 following range,it reminds checking the correctness of the 
 contents.
 (Note: Please select the range with a single row or column)</source>
-        <translation type="unfinished"></translation>
+        <translation>在以下区域输入内容的时候，如果出现重复，则提醒
+检查输入内容的正确性。
+
+（注：请选择[单行]或[单列]区域）</translation>
     </message>
     <message>
         <source>It compares the contents by rows after click OK. The duplica
 ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
-        <translation type="unfinished"></translation>
+        <translation>点击[确定]后，将逐行进行内容比较；内容完全相同的
+重复行，将被自动删除，只保留一行。
+
+（注：本功能仅支持单个区域）</translation>
     </message>
 </context>
 </TS>
