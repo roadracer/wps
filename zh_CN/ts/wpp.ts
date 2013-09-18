@@ -360,7 +360,7 @@
     </message>
     <message>
         <source>Fi&amp;nd What:</source>
-        <translation type="unfinished"></translation>
+        <translation>查找内容(&amp;amp;N):</translation>
     </message>
 </context>
 <context>
@@ -1331,11 +1331,11 @@
     </message>
     <message>
         <source>&amp;Background fill</source>
-        <translation type="unfinished"></translation>
+        <translation>背景填充(&amp;amp;B)</translation>
     </message>
     <message>
         <source>I&amp;gnor the back ground of main</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略母版的背景图形(&amp;amp;G)</translation>
     </message>
 </context>
 <context>
@@ -1495,11 +1495,11 @@
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项(&amp;amp;O)</translation>
     </message>
     <message>
         <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
+        <translation>设置拼写检查语言(&amp;amp;S)</translation>
     </message>
 </context>
 <context>
@@ -1911,7 +1911,7 @@
     </message>
     <message>
         <source>When &amp;Click</source>
-        <translation type="unfinished">在单击时(&amp;C)</translation>
+        <translation>在单击时(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -1930,7 +1930,7 @@
     </message>
     <message>
         <source>Number of &amp;cols:</source>
-        <translation type="unfinished">列数(&amp;C):</translation>
+        <translation>列数(&amp;C):</translation>
     </message>
 </context>
 <context>
@@ -1961,7 +1961,7 @@
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
@@ -2344,19 +2344,19 @@ be recovered.</source>
     </message>
     <message>
         <source>Start With</source>
-        <translation type="unfinished">启动</translation>
+        <translation>启动</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation type="unfinished">启动:</translation>
+        <translation>启动:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
-        <translation type="unfinished">主页(&amp;g)</translation>
+        <translation>主页(&amp;g)</translation>
     </message>
     <message>
         <source>New Doc&amp;ument</source>
-        <translation type="unfinished">新建文档(&amp;u)</translation>
+        <translation>新建文档(&amp;u)</translation>
     </message>
 </context>
 <context>
@@ -2367,7 +2367,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Also Packaged As Compressed File</source>
-        <translation type="unfinished">同时打包成一个压缩文件(&amp;A)</translation>
+        <translation>同时打包成一个压缩文件(&amp;A)</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -2391,7 +2391,7 @@ be recovered.</source>
     </message>
     <message>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>位置(&amp;amp;L):</translation>
     </message>
 </context>
 <context>
@@ -2646,7 +2646,7 @@ be recovered.</source>
     </message>
     <message>
         <source>During the slide show</source>
-        <translation type="unfinished"></translation>
+        <translation>放映幻灯片时</translation>
     </message>
 </context>
 <context>
@@ -2681,7 +2681,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Total playing time:</source>
-        <translation type="unfinished">播放时间总和:</translation>
+        <translation>播放时间总和:</translation>
     </message>
 </context>
 <context>
@@ -2700,7 +2700,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Number of &amp;cols:</source>
-        <translation type="unfinished">列数(&amp;C):</translation>
+        <translation>列数(&amp;C):</translation>
     </message>
 </context>
 <context>
@@ -4136,7 +4136,7 @@ be recovered.</source>
     </message>
     <message>
         <source>loop play, to the next voice began</source>
-        <translation type="unfinished"></translation>
+        <translation>循环播放，到下一声音开始时</translation>
     </message>
 </context>
 <context>
@@ -4576,7 +4576,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Pau&amp;se</source>
@@ -5710,7 +5710,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Customize Animation:</source>
-        <translation type="unfinished">自定义动画:</translation>
+        <translation>自定义动画:</translation>
     </message>
 </context>
 <context>
@@ -6067,31 +6067,31 @@ be recovered.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Export Range</source>
-        <translation type="unfinished"></translation>
+        <translation>输出范围</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
-        <translation type="unfinished">当前幻灯片(&amp;C)</translation>
+        <translation>当前幻灯片(&amp;C)</translation>
     </message>
     <message>
         <source>C&amp;ustom shows:</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义放映(&amp;amp;U):</translation>
     </message>
     <message>
         <source>Notes Pages</source>
-        <translation type="unfinished">备注页</translation>
+        <translation>备注页</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished">大纲视图</translation>
+        <translation>大纲视图</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="unfinished">纯黑白</translation>
+        <translation>纯黑白</translation>
     </message>
     <message>
         <source>1</source>
@@ -6123,7 +6123,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Permission Print:</source>
-        <translation type="unfinished"></translation>
+        <translation>打印权限:</translation>
     </message>
 </context>
 <context>
