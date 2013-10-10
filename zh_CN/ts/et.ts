@@ -586,11 +586,11 @@ condition is true: </source>
     <name>KxAddInsDlg</name>
     <message>
         <source>Can&apos;t find addins macro &quot;</source>
-        <translation>找不到加载宏 "</translation>
+        <translation>找不到加载宏 &quot;</translation>
     </message>
     <message>
         <source>&quot;, delete it from the list?</source>
-        <translation>"，从列表中删除吗？</translation>
+        <translation>&quot;，从列表中删除吗？</translation>
     </message>
     <message>
         <source>AddIns Macro</source>
@@ -841,7 +841,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Binary</source>
-        <translation type="obsolete">二进制</translation>
+        <translation type="unfinished">二进制</translation>
     </message>
     <message>
         <source>Unchecked &apos;the cell reference position&apos; or its content is invalid.</source>
@@ -7025,7 +7025,7 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>Maximum time must be a positive integer.</source>
-        <translation type="obsolete">最大时间必须为正数。</translation>
+        <translation type="unfinished">最大时间必须为正数。</translation>
     </message>
     <message>
         <source>Iterations must be a positive integer.</source>
@@ -8783,11 +8783,11 @@ t</source>
     </message>
     <message>
         <source>integer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">整数</translation>
     </message>
     <message>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">二进制</translation>
     </message>
     <message>
         <source>Add Constraint</source>
@@ -8827,7 +8827,7 @@ t</source>
     </message>
     <message>
         <source>Reports</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">报告</translation>
     </message>
     <message>
         <source>Creates the type of report that you specify, and places each report on a separate sheet in the workbook.</source>

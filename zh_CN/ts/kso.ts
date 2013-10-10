@@ -723,11 +723,11 @@ Please check your system settings and ensure the temporary directory under the c
         <source>Flip Vertical</source>
         <translation>垂直翻转</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>Rotate Left 90º</source>
         <translation>向左旋转</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>Rotate Right 90º</source>
         <translation>向右旋转</translation>
     </message>
@@ -2665,7 +2665,7 @@ File: %s
 You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
 •[Undo] the previous operations and [Save] it; 
 •[Save As...] text files（*.txt）; 
@@ -2679,7 +2679,7 @@ You can click the button to recover files you work on.</source>
 ·放弃对文件的修改。
 (%s)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
 •[Undo] the previous operations and [Save] it; 
 •[Copy/Paste] the contents to the new file; 
@@ -2735,7 +2735,7 @@ You can click the button to recover files you work on.</source>
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
 You can add the customized paper %dmm×%dmm in printer Properties and print it again.
 Do you want to continue?</source>
@@ -3138,7 +3138,7 @@ Do you want to continue?</source>
         <source>Bottom (Curve)</source>
         <translation>细旋钮形</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>– (EnDash)</source>
         <translation>– (短划线)</translation>
     </message>
@@ -3190,7 +3190,7 @@ Do you want to continue?</source>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
         <translation>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>— (EmDash)</source>
         <translation>— (长划线)</translation>
     </message>
@@ -4655,6 +4655,44 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Organization Chart
+Used to show hierarchical relationships</source>
+        <translation type="obsolete">组织结构
+图用于显示层次关系</translation>
+    </message>
+    <message>
+        <source>Cycle Diagram
+Used to show a process with a continuous 
+cycle</source>
+        <translation type="obsolete">循环图
+用于显示循环持续的过程</translation>
+    </message>
+    <message>
+        <source>Radial Diagram
+Used to show relationships of core elements</source>
+        <translation type="obsolete">射线图
+用于显示核心元素的关系</translation>
+    </message>
+    <message>
+        <source>Pyramid diagram
+Used to show foundation-based relationships</source>
+        <translation type="obsolete">棱锥图
+用于显示基于基础的关系</translation>
+    </message>
+    <message>
+        <source>Venn diagram
+Used to show areas of overlap between 
+elements</source>
+        <translation type="obsolete">维恩图
+用于显示元素间的重迭区域</translation>
+    </message>
+    <message>
+        <source>Target Diagram
+Used to show steps toward a goal</source>
+        <translation type="obsolete">目标图
+用于显示实现目标的步骤</translation>
+    </message>
+    <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
@@ -4663,10 +4701,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
-
-To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
-
-If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4681,40 +4717,34 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Organization Chart
 Used to show hierarchical relationships</source>
-        <translation>组织结构
-图用于显示层次关系</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cycle Diagram
 Used to show a process with a continuous 
 cycle</source>
-        <translation>循环图
-用于显示循环持续的过程</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Radial Diagram
 Used to show relationships of core elements</source>
-        <translation>射线图
-用于显示核心元素的关系</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pyramid diagram
 Used to show foundation-based relationships</source>
-        <translation>棱锥图
-用于显示基于基础的关系</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Venn diagram
 Used to show areas of overlap between 
 elements</source>
-        <translation>维恩图
-用于显示元素间的重迭区域</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Target Diagram
 Used to show steps toward a goal</source>
-        <translation>目标图
-用于显示实现目标的步骤</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

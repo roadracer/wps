@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
 <defaultcodec>UTF-8</defaultcodec>
@@ -6383,7 +6383,7 @@ Other Windows</source>
     </message>
     <message>
         <source>View Side By Side</source>
-        <translation>并排比较</translation>
+        <translation type="obsolete">并排比较</translation>
     </message>
     <message>
         <source>View Side by Side</source>

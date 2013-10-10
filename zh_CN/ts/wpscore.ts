@@ -3477,27 +3477,21 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-
-This change will affect all new documents based on the %s template.</source>
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-
-This change will affect all the new documents based on the %s template.</source>
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
 
-This change will affect all the new documents based on the %s template.
-
-
-Yes:	Save to template;
-
-No:	Do not save to template;
-
-Cancel:	Return to the dialog.</source>
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

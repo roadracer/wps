@@ -6134,10 +6134,6 @@ Other Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>View Side By Side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>View Side by Side</source>
         <translation type="obsolete">Zobraziť súbežne</translation>
     </message>

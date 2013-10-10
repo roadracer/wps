@@ -6374,10 +6374,6 @@ Other Windows</source>
         <translation type="obsolete">顯示虛框</translation>
     </message>
     <message>
-        <source>View Side By Side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>View Side by Side</source>
         <translation type="obsolete">並排視窗</translation>
     </message>

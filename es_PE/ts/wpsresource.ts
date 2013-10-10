@@ -6151,10 +6151,6 @@ Other Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>View Side By Side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Visual Basic Editor</source>
         <translation type="unfinished"></translation>
     </message>

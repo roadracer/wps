@@ -2289,6 +2289,37 @@ Notice: if the second operand queries the number as text, single quotes should b
     在右边进行筛选条件的设定然后点击“添加到列表”添加筛选条件。
     注意：第二算数如果要将数字串作为字符串进行查询，需要在两头手工添加单引号(&apos; &apos;)。</translation>
     </message>
+    <message>
+        <source>You cannot perform next operation due to one of the following reasons:
+ 
+ You haven&apos;t selected any field, please select fields from fields list first.
+ 
+  The field list name is blank by chance.
+ 
+  The generated query failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot perform next operation due to one of the following reasons:
+ 
+  The query string is blank.
+ 
+  The string you typed is not accordant with SQL grammar.
+ 
+  The generated query is failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select fields from the left list, then click &quot;Add to the list&quot;.
+Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
+Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_excelrw</name>
@@ -9435,6 +9466,18 @@ Continue ?</source>
 
 是否继续？</translation>
     </message>
+    <message>
+        <source>The entered value is invalid.
+
+The values which can be typed here is restricted by other users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Continue ?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_undodesc</name>
@@ -11446,6 +11489,60 @@ Continue ?</source>
         <translation>你正在打开一个Excel共享工作簿文件 &quot;%s&quot;。</translation>
     </message>
     <message>
+        <source>The sort reference is invalid due to one the possible reasons below: 
+
+%s The first Sort By box is blank. 
+%s There are two same sort references. 
+%s The sort reference you entered is not within the current selection.</source>
+        <translation type="obsolete">排序引用无效。造成无效排序的可能原因是：\r\n\r\n%s “主要关键字”空缺。\r\n%s 两个排序引用雷同。\r\n%s 所输入的排序引用位于当前选定区域之外。</translation>
+    </message>
+    <message utf8="true">
+        <source>Only one picture can be inserted in each section of the %s.
+
+·To replace existing picture, click OK.
+·To keep existing picture, click Cancel button.</source>
+        <translation type="obsolete">在 %s 的每一节中只能插入一张图片。
+
+如果要替换现有图片，请按“确定”。
+如果要保留现有图片，请按“取消”。</translation>
+    </message>
+    <message>
+        <source>The reference you entered is not valid, or you did not provide a reference where one was required.
+
+To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
+        <translation type="obsolete">输入的引用无效，或在需要引用处没有输入引用。\r\n\r\n要输入引用，可以单击目标单元格，或拖动鼠标选定整个区域。此方法对于同一工作单元格或同一工作簿的不同工作表中的单元格均有效。对其他工作簿的引用被称作外部引用。</translation>
+    </message>
+    <message>
+        <source>If there are repeated contents in cells in the following range,
+the cells will be set in orange background.
+
+(Note: Please select the range with a single row or column)</source>
+        <translation type="obsolete">以下区域如果存在重复的单元格(内容)，这些单元格将
+被标记成“橙色”背景。
+
+（注：请选择[单行]或[单列]区域）</translation>
+    </message>
+    <message>
+        <source>If there are duplicate values when entering contents in the 
+following range,it reminds checking the correctness of the 
+contents.
+(Note: Please select the range with a single row or column)</source>
+        <translation type="obsolete">在以下区域输入内容的时候，如果出现重复，则提醒
+检查输入内容的正确性。
+
+（注：请选择[单行]或[单列]区域）</translation>
+    </message>
+    <message>
+        <source>It compares the contents by rows after click OK. The duplica
+ted rows with the exact same contents will be deleted automa
+tically, only keep one row.
+(Note: The function only supports single range)</source>
+        <translation type="obsolete">点击[确定]后，将逐行进行内容比较；内容完全相同的
+重复行，将被自动删除，只保留一行。
+
+（注：本功能仅支持单个区域）</translation>
+    </message>
+    <message>
         <source>Cannot modify the cell or chart, perhaps:
 
 - Worksheet is protected and the cell is locked.
@@ -11464,17 +11561,14 @@ the category you want, and then choose the other options.</source>
 %s The first Sort By box is blank. 
 %s There are two same sort references. 
 %s The sort reference you entered is not within the current selection.</source>
-        <translation>排序引用无效。造成无效排序的可能原因是：\r\n\r\n%s “主要关键字”空缺。\r\n%s 两个排序引用雷同。\r\n%s 所输入的排序引用位于当前选定区域之外。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message utf8="true">
         <source>Only one picture can be inserted in each section of the %s.
 
 ·To replace existing picture, click OK.
 ·To keep existing picture, click Cancel button.</source>
-        <translation>在 %s 的每一节中只能插入一张图片。
-
-如果要替换现有图片，请按“确定”。
-如果要保留现有图片，请按“取消”。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The command you choose cannot be performed with multiple selections.
@@ -11485,37 +11579,28 @@ Select a single range and click the command again.</source>
         <source>The reference you entered is not valid, or you did not provide a reference where one was required.
 
 To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
-        <translation>输入的引用无效，或在需要引用处没有输入引用。\r\n\r\n要输入引用，可以单击目标单元格，或拖动鼠标选定整个区域。此方法对于同一工作单元格或同一工作簿的不同工作表中的单元格均有效。对其他工作簿的引用被称作外部引用。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If there are repeated contents in cells in the following range,
 the cells will be set in orange background.
 
 (Note: Please select the range with a single row or column)</source>
-        <translation>以下区域如果存在重复的单元格(内容)，这些单元格将
-被标记成“橙色”背景。
-
-（注：请选择[单行]或[单列]区域）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If there are duplicate values when entering contents in the 
 following range,it reminds checking the correctness of the 
 contents.
 (Note: Please select the range with a single row or column)</source>
-        <translation>在以下区域输入内容的时候，如果出现重复，则提醒
-检查输入内容的正确性。
-
-（注：请选择[单行]或[单列]区域）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>It compares the contents by rows after click OK. The duplica
 ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
-        <translation>点击[确定]后，将逐行进行内容比较；内容完全相同的
-重复行，将被自动删除，只保留一行。
-
-（注：本功能仅支持单个区域）</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

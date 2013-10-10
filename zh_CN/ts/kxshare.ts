@@ -523,11 +523,11 @@
     </message>
     <message>
         <source>Get More...</source>
-        <translation>获取更多...</translation>
+        <translation type="obsolete">获取更多...</translation>
     </message>
     <message>
         <source>Install Locale</source>
-        <translation>安装语言</translation>
+        <translation type="obsolete">安装语言</translation>
     </message>
     <message>
         <source>Choose Language Installation Package</source>
@@ -547,7 +547,7 @@
     </message>
     <message>
         <source>Choose your language</source>
-        <translation>选择语言</translation>
+        <translation type="obsolete">选择语言</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
@@ -560,6 +560,14 @@
     <message>
         <source>Settings will be effected after application restarted.</source>
         <translation>设置将在启动后生效。</translation>
+    </message>
+    <message>
+        <source>&amp;Install new language</source>
+        <translation type="unfinished">安装新语言(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Get &amp;More...</source>
+        <translation type="unfinished">获取更多...(&amp;M)</translation>
     </message>
 </context>
 <context>
