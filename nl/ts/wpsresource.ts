@@ -6178,10 +6178,6 @@ Andere Vensters</translation>
         <translation>Vertikaal Schikken</translation>
     </message>
     <message>
-        <source>View Side By Side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>View Side by Side</source>
         <translation type="obsolete">Bekijk Naast Elkaar</translation>
     </message>

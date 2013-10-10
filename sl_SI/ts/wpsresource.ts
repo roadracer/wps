@@ -6168,10 +6168,6 @@ Other Windows</source>
         <translation>Razporedi navpično</translation>
     </message>
     <message>
-        <source>View Side By Side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>View Side by Side</source>
         <translation type="obsolete">Vzporeden pogled</translation>
     </message>

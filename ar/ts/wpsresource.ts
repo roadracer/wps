@@ -6169,10 +6169,6 @@ Other Windows</source>
         <translation>تنظيم عمودي</translation>
     </message>
     <message>
-        <source>View Side By Side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>View Side by Side</source>
         <translation type="obsolete">عرض جنبا إلى جنب</translation>
     </message>

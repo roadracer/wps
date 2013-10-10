@@ -409,14 +409,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Get More...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Install Locale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Choose Language Installation Package</source>
         <translation type="unfinished"></translation>
     </message>
@@ -433,10 +425,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Choose your language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Reset personal template</source>
         <translation type="unfinished"></translation>
     </message>
@@ -446,6 +434,14 @@
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Install new language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get &amp;More...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
