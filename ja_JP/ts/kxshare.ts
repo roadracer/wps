@@ -498,10 +498,6 @@ Try to switch user interface!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>archives (*.zip)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Install Language Package</source>
         <translation type="unfinished"></translation>
     </message>
@@ -527,6 +523,10 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Get &amp;More...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

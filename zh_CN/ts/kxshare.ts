@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>archives (*.zip)</source>
-        <translation>压缩文档 (*.zip)</translation>
+        <translation type="obsolete">压缩文档 (*.zip)</translation>
     </message>
     <message>
         <source>Install Language Package</source>
@@ -568,6 +568,10 @@
     <message>
         <source>Get &amp;More...</source>
         <translation type="unfinished">获取更多...(&amp;M)</translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
+        <translation type="unfinished">压缩文档 (*.zip)</translation>
     </message>
 </context>
 <context>
