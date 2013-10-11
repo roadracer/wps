@@ -360,7 +360,7 @@
     </message>
     <message>
         <source>Fi&amp;nd What:</source>
-        <translation>查找内容(&amp;amp;N):</translation>
+        <translation>查找内容(&amp;N):</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1503,7 @@
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
-        <translation type="unfinished">设置拼写检查语言(&amp;S)</translation>
+        <translation>设置拼写检查语言(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -2391,11 +2391,11 @@ be recovered.</source>
     </message>
     <message>
         <source>Folder &amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件夹名称(&amp;N)：</translation>
     </message>
     <message>
         <source>&amp;Location:</source>
-        <translation>位置(&amp;amp;L):</translation>
+        <translation>位置(&amp;L):</translation>
     </message>
 </context>
 <context>
