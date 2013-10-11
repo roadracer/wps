@@ -1495,11 +1495,15 @@
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation>选项(&amp;amp;O)</translation>
+        <translation>选项(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Set Spell language</source>
-        <translation>设置拼写检查语言(&amp;amp;S)</translation>
+        <translation type="obsolete">设置拼写检查语言(&amp;amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
+        <translation type="unfinished">设置拼写检查语言(&amp;S)</translation>
     </message>
 </context>
 <context>

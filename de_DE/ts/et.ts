@@ -4131,7 +4131,7 @@ the same time allows workbook merging</source>
         <translation type="unfinished">Abbrechen</translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
+        <source>&amp;Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

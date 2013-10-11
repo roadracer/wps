@@ -4111,16 +4111,16 @@ the same time allows workbook merging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Undo Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
