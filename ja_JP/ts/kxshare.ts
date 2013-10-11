@@ -4057,7 +4057,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
-        <translation>%1 フォントが見つからないため、記号が正確に表示できません</translation>
+        <translation type="obsolete">%1 フォントが見つからないため、記号が正確に表示できません</translation>
     </message>
     <message>
         <source>Missing libcups.so: can not access printer!</source>
@@ -4070,6 +4070,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
         <translation>Kingsoft Office for Linuxの非対称解像度画面はテストされていません</translation>
+    </message>
+    <message>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4084,11 +4088,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>System Checking</source>
-        <translation>システム問題レポート</translation>
+        <translation type="obsolete">システム問題レポート</translation>
     </message>
     <message>
         <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
-        <translation>WPS for Linuxにていくつかの問題を検出ししたため、コンピューター上で正しく実行することができません</translation>
+        <translation type="obsolete">WPS for Linuxにていくつかの問題を検出ししたため、コンピューター上で正しく実行することができません</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -4101,6 +4105,14 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Resolution</source>
         <translation>固定</translation>
+    </message>
+    <message>
+        <source>System Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following issues were detected on this system:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

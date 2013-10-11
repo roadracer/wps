@@ -4248,7 +4248,7 @@ run. All other signed and unsigned macros are disabled.</source>
     <name>KxSystemCheckerCommand</name>
     <message>
         <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
-        <translation>系统缺失字体：%1，WPS无法正确地显示某些符号（公式）！</translation>
+        <translation type="obsolete">系统缺失字体：%1，WPS无法正确地显示某些符号（公式）！</translation>
     </message>
     <message>
         <source>Missing libcups.so: can not access printer!</source>
@@ -4261,6 +4261,10 @@ run. All other signed and unsigned macros are disabled.</source>
     <message>
         <source>, </source>
         <translation>、</translation>
+    </message>
+    <message>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
+        <translation type="unfinished">系统缺失字体：%1，WPS可能无法正确地显示某些公式符号！</translation>
     </message>
 </context>
 <context>
@@ -4275,11 +4279,11 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>System Checking</source>
-        <translation>系统检查</translation>
+        <translation type="obsolete">系统检查</translation>
     </message>
     <message>
         <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
-        <translation>检测到您的系统存在以下问题，可能导致WPS for Linux不能正确的工作。</translation>
+        <translation type="obsolete">检测到您的系统存在以下问题，可能导致WPS for Linux不能正确的工作。</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -4292,6 +4296,14 @@ run. All other signed and unsigned macros are disabled.</source>
     <message>
         <source>Resolution</source>
         <translation>解决方案</translation>
+    </message>
+    <message>
+        <source>System Check</source>
+        <translation type="unfinished">系统检查</translation>
+    </message>
+    <message>
+        <source>The following issues were detected on this system:</source>
+        <translation type="unfinished">检测到系统存在以下问题：</translation>
     </message>
 </context>
 <context>
