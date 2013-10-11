@@ -4230,15 +4230,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Missing libcups.so: can not access printer!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4273,15 +4273,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">Resolution</translation>
     </message>
     <message>
-        <source>System Checking</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4294,6 +4286,14 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Checking completed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following issues were detected on this system:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
