@@ -1994,11 +1994,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选项(&amp;O)</translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Set Spellcheck Language</source>
+        <translation type="unfinished">设置拼写检查语言(&amp;S)</translation>
     </message>
 </context>
 <context>

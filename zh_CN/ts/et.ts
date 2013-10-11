@@ -4318,7 +4318,11 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>&amp;Set Spell language</source>
-        <translation type="unfinished">设置拼写检查语言</translation>
+        <translation type="obsolete">设置拼写检查语言</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
+        <translation type="unfinished">设置拼写检查语言(&amp;S)</translation>
     </message>
 </context>
 <context>
