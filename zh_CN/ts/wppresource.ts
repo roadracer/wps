@@ -6864,7 +6864,7 @@ Master</source>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">演讲者备注</translation>
     </message>
     <message>
         <source>Object</source>
@@ -7120,7 +7120,7 @@ Master</source>
     </message>
     <message>
         <source>SlideShow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">幻灯片放映</translation>
     </message>
     <message>
         <source>Slides List</source>
