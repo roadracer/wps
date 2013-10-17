@@ -575,7 +575,7 @@
     </message>
     <message>
         <source>&amp;Follow system locale</source>
-        <translation type="unfinished">跟随系统locale</translation>
+        <translation type="unfinished">跟随系统语言</translation>
     </message>
 </context>
 <context>
