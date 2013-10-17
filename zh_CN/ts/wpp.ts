@@ -1331,11 +1331,11 @@
     </message>
     <message>
         <source>&amp;Background fill</source>
-        <translation>背景填充(&amp;amp;B)</translation>
+        <translation>背景填充(&amp;B)</translation>
     </message>
     <message>
         <source>I&amp;gnor the back ground of main</source>
-        <translation>忽略母版的背景图形(&amp;amp;G)</translation>
+        <translation>忽略母版的背景图形(&amp;G)</translation>
     </message>
 </context>
 <context>
