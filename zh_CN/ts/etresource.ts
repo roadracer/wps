@@ -3962,7 +3962,7 @@ Trig</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -8771,7 +8771,7 @@ AddIns</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation>删除单元格</translation>
+        <translation>单元格</translation>
     </message>
     <message>
         <source>Center</source>
@@ -8791,7 +8791,7 @@ AddIns</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -9120,7 +9120,7 @@ Center</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Rows and Columns</source>

@@ -1487,7 +1487,7 @@ Master</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -1535,7 +1535,7 @@ Master</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Select Column</source>
@@ -5113,7 +5113,7 @@ Settings</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -5229,7 +5229,7 @@ Settings</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -6402,7 +6402,7 @@ On</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -10300,7 +10300,7 @@ Settings</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10364,7 +10364,7 @@ Settings</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Rows and Columns</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1809,11 +1809,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation>删除单元格</translation>
+        <translation>单元格</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
@@ -1881,7 +1881,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Rows Above</source>
@@ -7517,7 +7517,7 @@ On</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation>删除单元格</translation>
+        <translation>单元格</translation>
     </message>
     <message>
         <source>Center Tab</source>
@@ -7589,7 +7589,7 @@ On</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>分栏</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
@@ -8319,7 +8319,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Rows Above</source>
@@ -12233,7 +12233,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">行和列</translation>
     </message>
     <message>
         <source>Select</source>
