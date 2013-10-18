@@ -573,6 +573,10 @@
         <source>ZIP File (*.zip)</source>
         <translation type="unfinished">压缩文档 (*.zip)</translation>
     </message>
+    <message>
+        <source>&amp;Follow system locale</source>
+        <translation type="unfinished">跟随系统语言</translation>
+    </message>
 </context>
 <context>
     <name>KNativeFileDialogEx</name>
