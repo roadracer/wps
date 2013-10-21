@@ -3513,12 +3513,12 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Bookmark</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished">编辑书签</translation>
+        <translation type="unfinished">书签</translation>
     </message>
     <message>
         <source>Footnote</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished">编辑脚注尾注</translation>
+        <translation type="unfinished">脚注</translation>
     </message>
     <message>
         <source>Endnote</source>
