@@ -2289,37 +2289,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     在右边进行筛选条件的设定然后点击“添加到列表”添加筛选条件。
     注意：第二算数如果要将数字串作为字符串进行查询，需要在两头手工添加单引号(&apos; &apos;)。</translation>
     </message>
-    <message>
-        <source>You cannot perform next operation due to one of the following reasons:
- 
- You haven&apos;t selected any field, please select fields from fields list first.
- 
-  The field list name is blank by chance.
- 
-  The generated query failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot perform next operation due to one of the following reasons:
- 
-  The query string is blank.
- 
-  The string you typed is not accordant with SQL grammar.
- 
-  The generated query is failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select fields from the left list, then click &quot;Add to the list&quot;.
-Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
-Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>et_excelrw</name>
@@ -9454,7 +9423,7 @@ There are several possible reasons:
         <source>The entered value is invalid.
 
 The values which can be typed here is restricted by other users.</source>
-        <translation type="obsolete">输入值非法。
+        <translation>输入值非法。
 
 其他用户已经限定了可以输入单元格的数值。</translation>
     </message>
@@ -9462,21 +9431,9 @@ The values which can be typed here is restricted by other users.</source>
         <source>
 
 Continue ?</source>
-        <translation type="obsolete">
+        <translation>
 
 是否继续？</translation>
-    </message>
-    <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11556,50 +11513,8 @@ the category you want, and then choose the other options.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The sort reference is invalid due to one the possible reasons below: 
-
-%s The first Sort By box is blank. 
-%s There are two same sort references. 
-%s The sort reference you entered is not within the current selection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message utf8="true">
-        <source>Only one picture can be inserted in each section of the %s.
-
-·To replace existing picture, click OK.
-·To keep existing picture, click Cancel button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The command you choose cannot be performed with multiple selections.
 Select a single range and click the command again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The reference you entered is not valid, or you did not provide a reference where one was required.
-
-To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If there are repeated contents in cells in the following range,
-the cells will be set in orange background.
-
-(Note: Please select the range with a single row or column)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If there are duplicate values when entering contents in the 
-following range,it reminds checking the correctness of the 
-contents.
-(Note: Please select the range with a single row or column)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>It compares the contents by rows after click OK. The duplica
-ted rows with the exact same contents will be deleted automa
-tically, only keep one row.
-(Note: The function only supports single range)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
