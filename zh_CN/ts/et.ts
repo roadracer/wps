@@ -7694,7 +7694,7 @@ t</source>
     </message>
     <message>
         <source>Center Across Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">跨列居中</translation>
     </message>
 </context>
 <context>
