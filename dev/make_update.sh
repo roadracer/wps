@@ -10,4 +10,4 @@ fi
 
 cur_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-$cur_dir/update.sh "-c $CODING" "-l $LNG"
+$cur_dir/update.sh "-c$CODING" "-l$LNG"
