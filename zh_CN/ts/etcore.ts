@@ -6029,7 +6029,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Bold Italic</source>
