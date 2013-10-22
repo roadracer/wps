@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
-<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>ColumnWidthSelector</name>
     <message>
@@ -13,7 +12,7 @@
     <name>Constraint</name>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>约束</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
@@ -1484,31 +1483,31 @@ place.(Remember that passwords are case-sensitive.)</source>
     <name>KxDlgCreatePivotTable</name>
     <message>
         <source>Create Pivot Table</source>
-        <translation type="unfinished">创建数据透视表</translation>
+        <translation>创建数据透视表</translation>
     </message>
     <message>
         <source>Choose the data that you want to analyize</source>
-        <translation type="unfinished">请选择要分析的数据</translation>
+        <translation>请选择要分析的数据</translation>
     </message>
     <message>
         <source>&amp;Select a range:</source>
-        <translation type="unfinished">请选择单元格区域(&amp;S):</translation>
+        <translation>请选择单元格区域(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Use another pivot table:</source>
-        <translation type="unfinished">使用另一个数据透视表(&amp;U):</translation>
+        <translation>使用另一个数据透视表(&amp;U):</translation>
     </message>
     <message>
         <source>Choose where you want the pivot table to be placed</source>
-        <translation type="unfinished">请选择放置数据透视表的位置</translation>
+        <translation>请选择放置数据透视表的位置</translation>
     </message>
     <message>
         <source>&amp;New Worksheet</source>
-        <translation type="unfinished">新工作表(&amp;N)</translation>
+        <translation>新工作表(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Existing Worksheet:</source>
-        <translation type="unfinished">现有工作表(&amp;E):</translation>
+        <translation>现有工作表(&amp;E):</translation>
     </message>
 </context>
 <context>
@@ -3181,19 +3180,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start With</source>
-        <translation type="unfinished">启动</translation>
+        <translation>启动</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation type="unfinished">启动:</translation>
+        <translation>启动:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
-        <translation type="unfinished">主页(&amp;g)</translation>
+        <translation>主页(&amp;g)</translation>
     </message>
     <message>
         <source>New Doc&amp;ument</source>
-        <translation type="unfinished">新建文档(&amp;u)</translation>
+        <translation>新建文档(&amp;u)</translation>
     </message>
     <message>
         <source>Set decimal symbol to ,</source>
@@ -3486,162 +3485,162 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgPivotTableFieldFmt</name>
     <message>
         <source>PivotTable Field</source>
-        <translation type="unfinished">数据透视表字段</translation>
+        <translation>数据透视表字段</translation>
     </message>
     <message>
         <source>Source field:</source>
-        <translation type="unfinished">源字段</translation>
+        <translation>源字段</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation type="unfinished">名称(&amp;M)</translation>
+        <translation>名称(&amp;M)</translation>
     </message>
     <message>
         <source>Summarize by</source>
-        <translation type="unfinished">汇总方式</translation>
+        <translation>汇总方式</translation>
     </message>
     <message>
         <source>&amp;Summarize value field by</source>
-        <translation type="unfinished">数据字段统计方式(&amp;S)</translation>
+        <translation>数据字段统计方式(&amp;S)</translation>
     </message>
     <message>
         <source>Choose the type of calculation that you want to use to summarize</source>
-        <translation type="unfinished">选择要汇总的数据字段的计算类型</translation>
+        <translation>选择要汇总的数据字段的计算类型</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished">分类汇总</translation>
+        <translation>分类汇总</translation>
     </message>
     <message>
         <source>Au&amp;tomatic</source>
-        <translation type="unfinished">自动(&amp;T)</translation>
+        <translation>自动(&amp;T)</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
-        <translation type="unfinished">自定义(&amp;U)</translation>
+        <translation>自定义(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">无(&amp;N)</translation>
+        <translation>无(&amp;N)</translation>
     </message>
     <message>
         <source>Show data as</source>
-        <translation type="unfinished">显示方式</translation>
+        <translation>显示方式</translation>
     </message>
     <message>
         <source>Show d&amp;ata as</source>
-        <translation type="unfinished">显示方式(&amp;A)</translation>
+        <translation>显示方式(&amp;A)</translation>
     </message>
     <message>
         <source>Base &amp;field:</source>
-        <translation type="unfinished">基本字段(&amp;F):</translation>
+        <translation>基本字段(&amp;F):</translation>
     </message>
     <message>
         <source>Base &amp;item:</source>
-        <translation type="unfinished">基本项(&amp;I):</translation>
+        <translation>基本项(&amp;I):</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished">显示</translation>
+        <translation>显示</translation>
     </message>
     <message>
         <source>&amp;Show items:</source>
-        <translation type="unfinished">显示项(&amp;S)</translation>
+        <translation>显示项(&amp;S)</translation>
     </message>
     <message>
         <source>S&amp;how items with no data</source>
-        <translation type="unfinished">显示空数据项(&amp;H)</translation>
+        <translation>显示空数据项(&amp;H)</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">布局</translation>
+        <translation>布局</translation>
     </message>
     <message>
         <source>Display Options</source>
-        <translation type="unfinished">显示选项</translation>
+        <translation>显示选项</translation>
     </message>
     <message>
         <source>Show items in &amp;tabular form</source>
-        <translation type="unfinished">以报表形式显示项目(&amp;T)</translation>
+        <translation>以报表形式显示项目(&amp;T)</translation>
     </message>
     <message>
         <source>Show items in &amp;outline form</source>
-        <translation type="unfinished">以大纲形式显示项目(&amp;O)</translation>
+        <translation>以大纲形式显示项目(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Display subtotals at top of group</source>
-        <translation type="unfinished">在组的顶部显示分类汇总(&amp;D)</translation>
+        <translation>在组的顶部显示分类汇总(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Insert blank line after each item</source>
-        <translation type="unfinished">在每项后面插入空行(&amp;I)</translation>
+        <translation>在每项后面插入空行(&amp;I)</translation>
     </message>
     <message>
         <source>Print Option</source>
-        <translation type="unfinished">打印选项</translation>
+        <translation>打印选项</translation>
     </message>
     <message>
         <source>Insert &amp;page break after each item</source>
-        <translation type="unfinished">在每项后面插入分页符(&amp;P)</translation>
+        <translation>在每项后面插入分页符(&amp;P)</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
-        <translation type="unfinished">高级(&amp;V)...</translation>
+        <translation>高级(&amp;V)...</translation>
     </message>
     <message>
         <source>Num&amp;ber...</source>
-        <translation type="unfinished">数字格式(&amp;B)...</translation>
+        <translation>数字格式(&amp;B)...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished">数据透视表选项</translation>
+        <translation>数据透视表选项</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">名称(&amp;N):</translation>
+        <translation>名称(&amp;N):</translation>
     </message>
     <message>
         <source>&amp;Grand totals for columns</source>
-        <translation type="unfinished">列统计(&amp;G)</translation>
+        <translation>列统计(&amp;G)</translation>
     </message>
     <message>
         <source>Page &amp;layout:</source>
-        <translation type="unfinished">页面布局(&amp;L):</translation>
+        <translation>页面布局(&amp;L):</translation>
     </message>
     <message>
         <source>Down, Then Over</source>
-        <translation type="unfinished">垂直并排</translation>
+        <translation>垂直并排</translation>
     </message>
     <message>
         <source>Over, Then Down</source>
-        <translation type="unfinished">水平并排</translation>
+        <translation>水平并排</translation>
     </message>
     <message>
         <source>Grand &amp;totals for rows</source>
-        <translation type="unfinished">列统计(&amp;T)</translation>
+        <translation>列统计(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Fields per row:</source>
-        <translation type="unfinished">每行字段数(&amp;F):</translation>
+        <translation>每行字段数(&amp;F):</translation>
     </message>
     <message>
         <source>Subtotal &amp;hidden page items</source>
-        <translation type="unfinished">隐藏的子汇总项(&amp;H)</translation>
+        <translation>隐藏的子汇总项(&amp;H)</translation>
     </message>
     <message>
         <source>For error &amp;values, show:</source>
-        <translation type="unfinished">对于错误值，显示(&amp;V):</translation>
+        <translation>对于错误值，显示(&amp;V):</translation>
     </message>
     <message>
         <source>&amp;Refresh on open</source>
-        <translation type="unfinished">打开时刷新(&amp;R)</translation>
+        <translation>打开时刷新(&amp;R)</translation>
     </message>
     <message>
         <source>For empty c&amp;ells, show:</source>
-        <translation type="unfinished">打开空单元格，显示(&amp;C):</translation>
+        <translation>打开空单元格，显示(&amp;C):</translation>
     </message>
 </context>
 <context>
@@ -3935,7 +3934,7 @@ change tracking from being removed.</source>
     </message>
     <message>
         <source>It compares the contents by rows after click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击[确]定后，将逐行进行内容比较。</translation>
     </message>
 </context>
 <context>
@@ -6175,7 +6174,7 @@ on iteration #%2.</source>
     <name>KxNameOptionsDlg</name>
     <message>
         <source>Default book name %1 is not valid, can&apos;t include %2.</source>
-        <translation type="unfinished">默认的工作薄名称“%1”无效，不可包含“%2”字符。</translation>
+        <translation>默认的工作薄名称“%1”无效，不可包含“%2”字符。</translation>
     </message>
 </context>
 <context>
@@ -6395,7 +6394,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>The word contains unallowable characters, we can&apos;t handle it.</source>
-        <translation>单词中有非法字符，无法处理！</translation>
+        <translation>单词中有非法字符，无法处理。</translation>
     </message>
     <message>
         <source>dictionary file(*.dic);;All files(*.*)</source>
@@ -6608,150 +6607,150 @@ file, then %2switch%3the file to ET shared workbook.</source>
     <name>KxPivotTableAdvOptionsDlg</name>
     <message>
         <source>PivotTable Field Advanced Options</source>
-        <translation type="unfinished">数据透视表字段高级选项</translation>
+        <translation>数据透视表字段高级选项</translation>
     </message>
     <message>
         <source>Auto Sort</source>
-        <translation type="unfinished">自动排序</translation>
+        <translation>自动排序</translation>
     </message>
     <message>
         <source>AutoSort options</source>
-        <translation type="unfinished">自动排序选项</translation>
+        <translation>自动排序选项</translation>
     </message>
     <message>
         <source>D&amp;efault(you can change item order manualy)</source>
-        <translation type="unfinished">默认(可以手动改变字段项的顺序)(&amp;E)</translation>
+        <translation>默认(可以手动改变字段项的顺序)(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation type="unfinished">升序(&amp;A)</translation>
+        <translation>升序(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
-        <translation type="unfinished">降序(&amp;D)</translation>
+        <translation>降序(&amp;D)</translation>
     </message>
     <message>
         <source>Usin&amp;g field:</source>
-        <translation type="unfinished">使用字段(&amp;G):</translation>
+        <translation>使用字段(&amp;G):</translation>
     </message>
     <message>
         <source>Top 10 Auto Show</source>
-        <translation type="unfinished">自动显示前 10 项</translation>
+        <translation>自动显示前 10 项</translation>
     </message>
     <message>
         <source>Top 10 AutoShow</source>
-        <translation type="unfinished">自动显示前 10 项</translation>
+        <translation>自动显示前 10 项</translation>
     </message>
     <message>
         <source>O&amp;ff</source>
-        <translation type="unfinished">关闭&amp;(F)</translation>
+        <translation>关闭&amp;(F)</translation>
     </message>
     <message>
         <source>O&amp;n</source>
-        <translation type="unfinished">打开(&amp;N)</translation>
+        <translation>打开(&amp;N)</translation>
     </message>
     <message>
         <source>S&amp;how:</source>
-        <translation type="unfinished">显示(&amp;H):</translation>
+        <translation>显示(&amp;H):</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished">最大</translation>
+        <translation>最大</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished">最小</translation>
+        <translation>最小</translation>
     </message>
     <message>
         <source>&amp;Using field:</source>
-        <translation type="unfinished">使用字段(&amp;U):</translation>
+        <translation>使用字段(&amp;U):</translation>
     </message>
     <message>
         <source>Page Field Options</source>
-        <translation type="unfinished">页字段选项</translation>
+        <translation>页字段选项</translation>
     </message>
     <message>
         <source>Page field options</source>
-        <translation type="unfinished">页字段选项</translation>
+        <translation>页字段选项</translation>
     </message>
     <message>
         <source>&amp;Retrieve external data for all page field items (faster perform&apos; +
             &apos;ance)</source>
-        <translation type="unfinished">同时检索所有页字段涉及的外部数据(减少透视次数)(&amp;R)</translation>
+        <translation>同时检索所有页字段涉及的外部数据(减少透视次数)(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Query external data source as you select each page field item (&apos; +
             &apos;requires less memory)</source>
-        <translation type="unfinished">当选择页字段项时，检索外部数据源(节省内存)(&amp;Q)</translation>
+        <translation>当选择页字段项时，检索外部数据源(节省内存)(&amp;Q)</translation>
     </message>
     <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
-        <translation type="unfinished">禁用对该字段进行透视(建议)(&amp;S)</translation>
+        <translation>禁用对该字段进行透视(建议)(&amp;S)</translation>
     </message>
 </context>
 <context>
     <name>KxPivotTableFieldFmtDlg</name>
     <message>
         <source>Show all</source>
-        <translation type="unfinished">(全部显示)</translation>
+        <translation>(全部显示)</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished">求和</translation>
+        <translation>求和</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished">计数</translation>
+        <translation>计数</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished">平均值</translation>
+        <translation>平均值</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished">最大值</translation>
+        <translation>最大值</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished">最小值</translation>
+        <translation>最小值</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished">乘积</translation>
+        <translation>乘积</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation type="unfinished">计数值</translation>
+        <translation>计数值</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished">标准偏差</translation>
+        <translation>标准偏差</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished">总体标准偏差</translation>
+        <translation>总体标准偏差</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished">方差</translation>
+        <translation>方差</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished">总体方差</translation>
+        <translation>总体方差</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
-        <translation type="unfinished">已有相同数据透视表字段名存在。</translation>
+        <translation>已有相同数据透视表字段名存在。</translation>
     </message>
     <message>
         <source>At least one item must be shown. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation type="unfinished">最少应显示一项。如果你不想显示字段，请取消当前操作，然后将该字段拖出报表。</translation>
+        <translation>最少应显示一项。如果你不想显示字段，请取消当前操作，然后将该字段拖出报表。</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
-        <translation type="unfinished">数据透视表字段名无效。 
+        <translation>数据透视表字段名无效。 
 在创建透视表时，必须使用组合为带有标志列列表的数据。 
 如果要更改透视表字段的名称，则必须键入字段的新名称。</translation>
     </message>
@@ -6760,15 +6759,15 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPivotTableOptionsDlg</name>
     <message>
         <source>&amp;Fields per column:</source>
-        <translation type="unfinished">每列字段数(&amp;F):</translation>
+        <translation>每列字段数(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Fields per row:</source>
-        <translation type="unfinished">每行字段数(&amp;F):</translation>
+        <translation>每行字段数(&amp;F):</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
-        <translation type="unfinished">数据透视表名称无效。</translation>
+        <translation>数据透视表名称无效。</translation>
     </message>
 </context>
 <context>
@@ -8118,7 +8117,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished">继续(&amp;C)</translation>
+        <translation>继续(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -8130,7 +8129,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Pause</source>
-        <translation type="unfinished">暂停(&amp;P)</translation>
+        <translation>暂停(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
@@ -8779,7 +8778,7 @@ t</source>
     <message>
         <source>Fail to convert %1 to Microsoft Excel 2003 shared workbook.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>将%1输出为Microsoft Excel 2003共享工作簿失败。</translation>
     </message>
     <message>
         <source>Microsoft Excel 2003 File (*.xls)</source>
@@ -8799,131 +8798,131 @@ t</source>
     </message>
     <message>
         <source>Change Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>改变约束</translation>
     </message>
     <message>
         <source>Answer</source>
-        <translation type="unfinished"></translation>
+        <translation>运算结果报告</translation>
     </message>
     <message>
         <source>Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>敏感性报告</translation>
     </message>
     <message>
         <source>Limits</source>
-        <translation type="unfinished"></translation>
+        <translation>极限值报告</translation>
     </message>
     <message>
         <source>Keep Solver Solution</source>
-        <translation type="unfinished"></translation>
+        <translation>保留规划求解的解</translation>
     </message>
     <message>
         <source>Click to accept the solution and place the resulting values in the adjustable cells..</source>
-        <translation type="unfinished"></translation>
+        <translation>单击可接受此解并将结果值放置在可调单元格中。</translation>
     </message>
     <message>
         <source>Restore Original Values</source>
-        <translation type="unfinished"></translation>
+        <translation>还原初值</translation>
     </message>
     <message>
         <source>Click to restore the original values in the adjustable cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>单击可还原可调单元格中的初值。</translation>
     </message>
     <message>
         <source>Reports</source>
-        <translation type="unfinished">报告</translation>
+        <translation>报告</translation>
     </message>
     <message>
         <source>Creates the type of report that you specify, and places each report on a separate sheet in the workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建指定的报告类型，并将每个报告放置在工作簿单独的工作表中。</translation>
     </message>
     <message>
         <source>Solver found a solution.  All Constraints and optimality conditions are satisfied.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解找到一解，可满足所有的约束及最优状况。</translation>
     </message>
     <message>
         <source>When Simplex LP is used, this means Solver has found a global optimal solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用单纯线性规划时，这意味着规划求解已找到一个全局最优解。</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum iteration limit was reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>当已达最多迭代次数时请停止。</translation>
     </message>
     <message>
         <source>Solver has stopped before finding a globally optimal solution. The best found solution, if any, will be given.</source>
-        <translation type="unfinished"></translation>
+        <translation>查找全局最优解之前，规划求解已停止。将提供找到的最佳解(如果存在)。</translation>
     </message>
     <message>
         <source>The Objective Cell values do not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>目标单元格的值未收敛。</translation>
     </message>
     <message>
         <source>Solver can make the Objective Cell as large (or small when minimizing) as it wants.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解可将目标单元格设置为需要的那么大(或最小化时设置为小)。</translation>
     </message>
     <message>
         <source>Solver could not find a feasible solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解找不到有用的解。</translation>
     </message>
     <message>
         <source>Solver can not find a point for which all Constraints are satisfied.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解找不到满足所有约束的点。</translation>
     </message>
     <message>
         <source>Users require the Solver stops.</source>
-        <translation type="unfinished"></translation>
+        <translation>用户要求规划求解停止。</translation>
     </message>
     <message>
         <source>The linearity conditions required by this LP Solver are not satisfied.</source>
-        <translation type="unfinished"></translation>
+        <translation>未满足此线性规划求解所需的线性条件。</translation>
     </message>
     <message>
         <source>Create a linearity report to see where the problem is.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建线性报告以查看问题所在。</translation>
     </message>
     <message>
         <source>The problem is too large for Solver to handle.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解的问题太大不能处理。</translation>
     </message>
     <message>
         <source>Solver is limited to 200 Variable Cells and 100 Constraints, plus bounds on the Variable Cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解仅限于 200 个可变单元格和 100 个约束，加可变单元格界限。</translation>
     </message>
     <message>
         <source>Solver encountered an error value in the Objective Cell or a Constraint cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解在目标单元格或约束单元格中遇到一个错误值。</translation>
     </message>
     <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解尝试可变单元格的某些值时，工作表中某单元格变为错误值。</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum time limit was reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>当已达最多迭代次数时请停止。</translation>
     </message>
     <message>
         <source>There is not enough memory available to solve the problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>此问题的求解无足够的空闲内存。</translation>
     </message>
     <message>
         <source>Solver requires more memory to solve this problem than is available on the machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>规划求解需要比计算机上可用的更多内存来求解此问题。</translation>
     </message>
     <message>
         <source>Error in model.  Please verify that all cells and Constraints are valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>模型错误。请确定所有的单元格和约束是否有效。</translation>
     </message>
     <message>
         <source>Perhaps some cells that are not Variable Cells are marked as Integer or Binary.</source>
-        <translation type="unfinished"></translation>
+        <translation>也可能是因为一些不是可变单元格的单元格被标记为整数或二进制。</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum number of feasible solutions was reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>当已达最多迭代次数时请停止。</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>达到可行解的最大数目时停止选择。</translation>
     </message>
 </context>
 <context>
@@ -9676,7 +9675,7 @@ t</source>
     </message>
     <message>
         <source>Browse File</source>
-        <translation type="unfinished">浏览文件</translation>
+        <translation>浏览文件</translation>
     </message>
     <message>
         <source>E&amp;xisting File or Web Page</source>
@@ -9688,11 +9687,11 @@ t</source>
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished">主页</translation>
+        <translation>主页</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished">超链接</translation>
+        <translation>超链接</translation>
     </message>
     <message>
         <source>Link to:</source>

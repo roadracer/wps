@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
-<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -2548,11 +2547,11 @@ Window</source>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>最小</translation>
+        <translation>最小化</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation>向下还</translation>
+        <translation>向下还原</translation>
     </message>
     <message>
         <source>WordArt</source>
