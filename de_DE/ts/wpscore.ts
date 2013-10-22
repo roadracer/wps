@@ -2032,7 +2032,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished">Diagramm</translation>
+        <translation type="obsolete">Diagramm</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -2096,7 +2096,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished">Überschrift</translation>
+        <translation type="obsolete">Überschrift</translation>
     </message>
     <message>
         <source>Find</source>
@@ -3275,24 +3275,12 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Bookmark</source>
-        <translation type="unfinished">Lesezeichen</translation>
+        <translation type="obsolete">Lesezeichen</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished">Fußnote</translation>
-    </message>
-    <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Fußnote</translation>
     </message>
     <message>
         <source>Paragraph number</source>
@@ -3462,6 +3450,46 @@ To continue saving as a macro-free workbook, click Yes.</source>
   Heading2.........................3
     Heading3.......................5</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Überschrift</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Lesezeichen</translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Fußnote</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Diagramm</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Tabelle</translation>
     </message>
     <message>
         <source>(none)

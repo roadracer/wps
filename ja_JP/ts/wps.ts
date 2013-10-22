@@ -2244,7 +2244,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>ブックマーク</translation>
+        <translation type="obsolete">ブックマーク</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -2252,11 +2252,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Endnote</source>
-        <translation>文末脚注</translation>
+        <translation type="obsolete">文末脚注</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>脚注</translation>
+        <translation type="obsolete">脚注</translation>
     </message>
     <message>
         <source>For &amp;Which</source>
@@ -2264,7 +2264,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Heading</source>
-        <translation>見出し</translation>
+        <translation type="obsolete">見出し</translation>
     </message>
     <message>
         <source>Include above/below(&amp;N)</source>
@@ -2276,7 +2276,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Numbered item</source>
-        <translation>ブックマークの参照先(W):</translation>
+        <translation type="obsolete">ブックマークの参照先(W):</translation>
     </message>
     <message>
         <source>Reference &amp;type:</source>

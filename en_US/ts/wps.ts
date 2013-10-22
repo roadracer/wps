@@ -2617,20 +2617,8 @@ use buttons to apply borders</source>
         <translation type="obsolete">Cross-reference</translation>
     </message>
     <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Footnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>For &amp;Witch</source>
         <translation type="obsolete">For &amp;Which</translation>
-    </message>
-    <message>
-        <source>Heading</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Include above/below(&amp;N)</source>
@@ -2674,14 +2662,6 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Reference &amp;type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

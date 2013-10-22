@@ -2518,7 +2518,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>书签</translation>
+        <translation type="obsolete">书签</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -2526,11 +2526,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Endnote</source>
-        <translation>尾注</translation>
+        <translation type="obsolete">尾注</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>脚注</translation>
+        <translation type="obsolete">脚注</translation>
     </message>
     <message>
         <source>For &amp;Which</source>
@@ -2538,7 +2538,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Heading</source>
-        <translation>标题</translation>
+        <translation type="obsolete">标题</translation>
     </message>
     <message>
         <source>Include above/below(&amp;N)</source>
@@ -2550,7 +2550,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Numbered item</source>
-        <translation>编号项</translation>
+        <translation type="obsolete">编号项</translation>
     </message>
     <message>
         <source>Reference &amp;type:</source>

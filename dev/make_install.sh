@@ -19,7 +19,7 @@ function install_dir
 	[ -d "$1" ] && cp -r "$1" "$DEST" && echo "Install" $1 "Succeed."
 }
 
-mkdir -p $DEST -m 755 && echo "Create $DEST"
+mkdir -p -m 755 $DEST && echo "Create $DEST"
 install_file "*.qm"
 install_file res.rcc
 install_file lang.conf

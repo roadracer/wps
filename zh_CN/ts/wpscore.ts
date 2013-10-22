@@ -2069,7 +2069,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Diagram</source>
-        <translation>图表</translation>
+        <translation type="obsolete">图表</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -2133,7 +2133,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Heading</source>
-        <translation>标题</translation>
+        <translation type="obsolete">标题</translation>
     </message>
     <message>
         <source>Find</source>
@@ -3313,23 +3313,23 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Numbered item</source>
-        <translation>编号项</translation>
+        <translation type="obsolete">编号项</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>编辑书签</translation>
+        <translation type="obsolete">编辑书签</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>编辑脚注尾注</translation>
+        <translation type="obsolete">编辑脚注尾注</translation>
     </message>
     <message>
         <source>Endnote</source>
-        <translation>尾注</translation>
+        <translation type="obsolete">尾注</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation>公式</translation>
+        <translation type="obsolete">公式</translation>
     </message>
     <message>
         <source>Paragraph number</source>
@@ -3499,6 +3499,46 @@ To continue saving as a macro-free workbook, click Yes.</source>
   Heading2.........................3
     Heading3.......................5</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">编号项</translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">标题</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">书签</translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">脚注</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">尾注</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">公式</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">图表</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">表格</translation>
     </message>
     <message>
         <source>(none)

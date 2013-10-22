@@ -2188,26 +2188,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Footnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>cbHyperlink</source>
         <translation type="unfinished"></translation>
     </message>
