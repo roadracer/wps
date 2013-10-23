@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
 <context>
@@ -5707,7 +5707,7 @@ Other Window</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>关闭窗口</translation>
+        <translation type="obsolete">关闭窗口</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -5775,7 +5775,7 @@ Other Window</source>
     </message>
     <message>
         <source>Split</source>
-        <translation>拆分</translation>
+        <translation type="obsolete">拆分</translation>
     </message>
     <message>
         <source>Switch Windows</source>
@@ -5823,6 +5823,17 @@ Other Window</source>
     <message>
         <source>COM Add-Ins</source>
         <translation>COM加载项</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_view.window</name>
+    <message>
+        <source>Close Window</source>
+        <translation>关闭当前窗口</translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation>拆分窗口</translation>
     </message>
 </context>
 <context>
