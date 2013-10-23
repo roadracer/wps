@@ -3455,15 +3455,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page(s) wide by </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hearder/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>页宽</translation>
     </message>
     <message>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>（无）</translation>
+    </message>
+    <message>
+        <source>Header/Footer</source>
+        <translation>页眉/页脚</translation>
     </message>
 </context>
 <context>
@@ -8213,11 +8213,11 @@ t</source>
     </message>
     <message>
         <source>Comma</source>
-        <translation>千位分隔</translation>
+        <translation type="obsolete">千位分隔</translation>
     </message>
     <message>
         <source>Comma[0]</source>
-        <translation>千位分隔[0]</translation>
+        <translation type="obsolete">千位分隔[0]</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -8229,11 +8229,11 @@ t</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation>货币</translation>
+        <translation type="obsolete">货币</translation>
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation>货币[0]</translation>
+        <translation type="obsolete">货币[0]</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -8297,7 +8297,7 @@ t</source>
     </message>
     <message>
         <source>Followed Hyperlink</source>
-        <translation>已访问的超链接</translation>
+        <translation type="obsolete">已访问的超链接</translation>
     </message>
     <message>
         <source>Font</source>
@@ -8421,7 +8421,7 @@ t</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation>超链接</translation>
+        <translation type="obsolete">超链接</translation>
     </message>
     <message>
         <source>IceBlue</source>
@@ -8525,7 +8525,7 @@ t</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>常规</translation>
+        <translation type="obsolete">常规</translation>
     </message>
     <message>
         <source>OceanBlue</source>
@@ -8549,7 +8549,7 @@ t</source>
     </message>
     <message>
         <source>Percent</source>
-        <translation>百分比</translation>
+        <translation type="obsolete">百分比</translation>
     </message>
     <message>
         <source>Periwinkle</source>
