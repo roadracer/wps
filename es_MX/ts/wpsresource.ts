@@ -581,10 +581,6 @@
         <translation>En línea con el texto</translation>
     </message>
     <message>
-        <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Picture</source>
         <translation>Insertar imagen</translation>
     </message>
@@ -650,10 +646,6 @@
     </message>
     <message>
         <source>Nudge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Object Select</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1583,10 +1575,6 @@ Merged Data</source>
         <translation>Convertir en chino tradicional</translation>
     </message>
     <message>
-        <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Equation</source>
         <translation>Ecuación</translation>
     </message>
@@ -1699,6 +1687,10 @@ Merged Data</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2155,23 +2147,15 @@ Merged Data</source>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation type="obsolete">Dibujar línea diagonal en la celda</translation>
+        <translation>Dibujar línea diagonal en la celda</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation type="obsolete">Dibujar línea diagonal en la celda</translation>
-    </message>
-    <message>
-        <source>Draw MutidiagonalCell</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibujar línea diagonal en la celda</translation>
     </message>
     <message>
         <source>Draw Table</source>
         <translation>Dibujar tabla</translation>
-    </message>
-    <message>
-        <source>DrawMutidiagonalCell</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -2207,11 +2191,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="obsolete">Estilos de tabla</translation>
-    </message>
-    <message>
-        <source>TableStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos de tabla</translation>
     </message>
 </context>
 <context>
@@ -2605,10 +2585,6 @@ On</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <source>Horizontal Text Box</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>In Front of Text</source>
         <translation>Delante del texto</translation>
     </message>
@@ -2821,10 +2797,6 @@ On</source>
         <translation>Vertical</translation>
     </message>
     <message>
-        <source>Vertical Text Box</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Weight</source>
         <translation>Tipo compuesto</translation>
     </message>
@@ -2842,10 +2814,6 @@ On</source>
     <message>
         <source>Backup Management</source>
         <translation>Gestión de copias de seguridad</translation>
-    </message>
-    <message>
-        <source>Change Version</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -2905,10 +2873,6 @@ On</source>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft Word 2007-2013 Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2976,10 +2940,6 @@ On</source>
         <translation>Propiedades</translation>
     </message>
     <message>
-        <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reload</source>
         <translation>Recargar</translation>
     </message>
@@ -3008,11 +2968,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>StudyOnline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation>Actualización en línea</translation>
     </message>
     <message>
-        <source>WPS New features</source>
+        <source>WPS -New features</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3032,10 +2996,6 @@ On</source>
     <message>
         <source>Auto Text</source>
         <translation>Texto automático</translation>
-    </message>
-    <message>
-        <source>Clip Art</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
@@ -3060,10 +3020,6 @@ On</source>
     <message>
         <source>Insert</source>
         <translation>Insertar</translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3297,11 +3253,6 @@ On</source>
         <translation>Tamaño de fuente</translation>
     </message>
     <message>
-        <source>Format
-Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Format Painter</source>
         <translation>Copiar formato</translation>
     </message>
@@ -3316,10 +3267,6 @@ Painter</source>
     <message>
         <source>Highlight</source>
         <translation>Resaltar</translation>
-    </message>
-    <message>
-        <source>Home Object Select</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3415,7 +3362,7 @@ Painter</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">Panel de selección</translation>
+        <translation>Panel de selección</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
@@ -3600,22 +3547,6 @@ Painter</source>
         <translation>Insertar Clip Art</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Links</source>
         <translation>Vínculos</translation>
     </message>
@@ -3666,11 +3597,6 @@ Painter</source>
     <message>
         <source>Shapes</source>
         <translation>Formas</translation>
-    </message>
-    <message>
-        <source>Sym
-bol</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -4138,10 +4064,6 @@ Different New Document</source>
     <message>
         <source>Rotate Right 90°</source>
         <translation>Girar 90° a la derecha</translation>
-    </message>
-    <message>
-        <source>Rotate Style</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5246,7 +5168,7 @@ Footnote/Endnote</source>
         <translation>Eliminar sección</translation>
     </message>
     <message>
-        <source>DetailedSettings</source>
+        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5801,6 +5723,10 @@ On/Off</source>
         <translation>Eliminar</translation>
     </message>
     <message>
+        <source>Detailed Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Distribute Columns Evenly</source>
         <translation>Distribuir columnas uniformemente</translation>
     </message>
@@ -6009,10 +5935,6 @@ Cells</source>
         <translation>Organizar todo</translation>
     </message>
     <message>
-        <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cascade</source>
         <translation>Cascada</translation>
     </message>
@@ -6028,10 +5950,6 @@ Other Windows</source>
     <message>
         <source>Close Window</source>
         <translation>Cerrar ventana</translation>
-    </message>
-    <message>
-        <source>Compared Side By Side</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6151,7 +6069,7 @@ Other Windows</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="obsolete">Ver en paralelo</translation>
+        <translation>Ver en paralelo</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -7312,10 +7230,6 @@ On</source>
         <translation>Traducción chino</translation>
     </message>
     <message>
-        <source>Clip Art</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clipboard</source>
         <translation>Portapapeles</translation>
     </message>
@@ -7665,10 +7579,6 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>From Scan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Full Screen</source>
         <translation>Lectura de pantalla completa</translation>
     </message>
@@ -7759,10 +7669,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Insert</source>
         <translation>Insertar</translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -9031,10 +8937,6 @@ Diagonal Line in Cell</source>
         <translation>Plantilla de Kingsoft Writer</translation>
     </message>
     <message>
-        <source>Microsoft Word 2007-2013 Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Documento de Microsoft Word 97-2003</translation>
     </message>
@@ -9128,6 +9030,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Study Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StudyOnline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9707,18 +9613,6 @@ Header and Footer</source>
     <message>
         <source>Insert Picture</source>
         <translation>Insertar imagen</translation>
-    </message>
-    <message>
-        <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -11135,7 +11029,6 @@ and Endnote</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <source>Delete All Comments in Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14121,17 +14014,6 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
 </context>
 <context>
-    <name>tips.DrawingToolsDetailedSettings</name>
-    <message>
-        <source>DrawingToolsDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DrawingToolsDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>tips.DropCap</name>
     <message>
         <source>Create a large capital letter at the beginning of a paragraph.</source>
@@ -14704,17 +14586,6 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
 </context>
 <context>
-    <name>tips.HomeDetailedSettings</name>
-    <message>
-        <source>HomeDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HomeDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase Indent</source>
@@ -15090,22 +14961,6 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertPictureFromFile Content2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertPictureFromFile Title2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkUrl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15764,17 +15619,6 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
 </context>
 <context>
-    <name>tips.PageLayoutDetailedSettings</name>
-    <message>
-        <source>PageLayoutDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PageLayoutDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>tips.PageNumber</name>
     <message>
         <source>Insert Page Number</source>
@@ -15853,17 +15697,6 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ParagraphDetailedSettings</name>
-    <message>
-        <source>ParagraphDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ParagraphDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15978,17 +15811,6 @@ Click the arrow to select detailed settings for the selected object.</source>
     <message>
         <source>Picture Size</source>
         <translation>Tamaño de imagen</translation>
-    </message>
-</context>
-<context>
-    <name>tips.PictureToolsDetailedSettings</name>
-    <message>
-        <source>PictureToolsDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PictureToolsDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16427,17 +16249,6 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>View Macros</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SectionDetailedSettings</name>
-    <message>
-        <source>SectionDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SectionDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17151,17 +16962,6 @@ This is often used to indicate that the document is to be treated specially, suc
     <message>
         <source>WordArt Alignment</source>
         <translation>Alineación de WordArt</translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtDetailedSettings</name>
-    <message>
-        <source>WordArtDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArtDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18394,10 +18194,6 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Herramientas de dibujo</translation>
     </message>
     <message>
-        <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
@@ -18616,10 +18412,6 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Drawing Tools</source>
         <translation>Herramientas de dibujo</translation>
-    </message>
-    <message>
-        <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>

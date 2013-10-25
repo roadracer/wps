@@ -9058,18 +9058,6 @@ The values which can be typed here is restricted by other users.</source>
 Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>et_undodesc</name>

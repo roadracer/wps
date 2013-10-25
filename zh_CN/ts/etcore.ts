@@ -371,7 +371,7 @@
         <source>Operand needs to be followed by a right bracket.</source>
         <translation>操作数后面需要右括号。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the worksheet name is not blank.</source>
         <translation>· 确认工作表名称不为空。</translation>
     </message>
@@ -431,7 +431,7 @@
         <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Kingsoft Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <translation>常用文件(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS表格文件(*.et)|*.et|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx)|*.xlsx|所有文件(*.*)|*.*||</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
         <translation>· 确认输入的名称不多于218个字符。</translation>
     </message>
@@ -603,7 +603,7 @@
         <source>Cannot copy or move array formulas in a shared workbook.</source>
         <translation>不能在共享工作簿中复制或移动数组公式。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
         <translation>· 确认输入的名称不多于31个字符。</translation>
     </message>
@@ -691,7 +691,7 @@
         <source>The operation will effect a large number of cells and it may take several minutes to complete. Do you want to continue?</source>
         <translation>将要执行的操作会影响大量单元格，而且可能需要很长时间才能完成，是否确实要继续？</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your modifications cannot be saved to “%s” owing to the share conflict. Please try to save it as another file.</source>
         <translation>由于共享冲突，您的更改不能保存到“%s”。请尝试保存到其他文件。</translation>
     </message>
@@ -803,7 +803,7 @@
         <source>The formula is too long to finish all the replacements.</source>
         <translation>公式过长，不能完成所有的替换。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the workbook name is not blank.</source>
         <translation>· 确认工作簿名称不为空。</translation>
     </message>
@@ -1095,7 +1095,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
         <source>Kingsoft Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the &quot;Copy&quot; and &quot;Paste&quot; commands to insert the data into the other worksheets of the workbook.</source>
         <translation>et 无法将工作表插入到目标工作簿中，因为目标工作簿的行数或列数比原工作簿少，若要将数据移动或复制到目标工作簿中，可以选中源数据，然后使用“复制”和“粘贴”命令，将数据插入到其它工作簿中的工作表中。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when Kingsoft Spreadsheets opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -1109,7 +1109,7 @@ Please try one of the following.
 ·确保此文件是可以识别的格式。
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Kingsoft Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -1121,7 +1121,7 @@ Please try one of the following.
 ·请文档的创建者改变此文档的权限控制级别。
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when Kingsoft Spreadsheets opening this file.
 Please try one of the following.
 •The current version of Kingsoft Spreadsheets does not support this file&apos;s permission contorl level, please update to the latest version.
@@ -1133,7 +1133,7 @@ Please try one of the following.
 ·请文档的创建者将此文档的权限控制级别改变为完全控制级别。
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when Kingsoft Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
 •Undo the previous operations and save it. 
 •Save it as text file. 
@@ -1146,7 +1146,7 @@ Please try one of the following.
 ·放弃对文件的修改。
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>There are links to other data sources in this workbook.
 
 •If you update the links, Kingsoft Spreadsheets will try to get the latest data.
@@ -1160,17 +1160,17 @@ Note that data links can be used to access and share confidential information wi
 
 注意，数据链接可用于访问和共享机密信息而不需要您的权限，并且可能执行其他有害操作。如果您不信任该工作簿的源，请不要更新该链接。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name does not contain any of the following characters: : / ?\ * [ ]
 • The first or last character cannot be single quotes.</source>
         <translation>· 确认名称中不包含以下字符:  : \ / ? * [ 或 ]。
 · 确认名称的第一个或者最后一个字符不能是单引号。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <translation>· 确认名称中不包含以下字符:  \ / : ? &quot; &lt; &gt; 或 |。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Kingsoft Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
 
 •Click a single cell, and then paste.
@@ -1179,7 +1179,7 @@ Note that data links can be used to access and share confidential information wi
 . 单击某个单元格，然后重新粘贴。
 . 选定一矩形区域，使该区域与原区域的大小和形状完全一致，然后重新粘贴。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selection is invalid.
 There are several possible reasons:
 
@@ -1193,13 +1193,13 @@ There are several possible reasons:
 . 如果使用“插入”菜单“名称”子菜单中的“指定”命令，那些包含区域名称数据的行或列，将不会包含在由此生成的命名区域中。
 . 如果所要指定的名称位于行或列中，操作时必须多选一行或一列。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Function(s) %s is/are used in %s 
 </source>
         <translation>·在 %s 使用了函数 %s 
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>This file may contain these special features below, and they may be lost if you save it as other formats.
 
 • Extended formatting rule and style.
@@ -1211,7 +1211,7 @@ There are several possible reasons:
 ·扩展的数值格式
 ·扩展的公式嵌套级数</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>There is a large amount of information in the Clipboard. Do you want to keep the information so as to paste it to other applications later?
 ·Press Yes to keep the information.
 ·Press No to delete the information so as to set free space.</source>
@@ -1221,7 +1221,7 @@ There are several possible reasons:
 
 ·要删除其中的信息以释放内存，请单击“否”按钮。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>This operation will remove the workbook from shared use. The revision record will be deleted, and other users who are editing this workbook will not be able to save their changes, even if you share this workbook again.
 
 Remove the workbook from shared use?
@@ -1235,11 +1235,11 @@ Remove the workbook from shared use?
 ·  要使工作簿只供个人使用，请单击“是”。
 ·  要取消此项操作，返回共享模式，请单击“否”。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
         <translation>转换“%s”失败，将以只读模式打开此文件。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Kingsoft Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
 
 ·If you want the first row of the selection or list used as labels and not as data, click OK.
@@ -1850,7 +1850,7 @@ Value: </source>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of ET if they:
 
 ·Reference cells outside of the row and column limit of an earlier of Excel
@@ -4163,7 +4163,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>Calculates the interest that should be paid within a specific investment period.</source>
         <translation>计算特定投资期内要支付的利息。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
         <translation>如果 Number 大于等于 step，返回 1，否则返回 0。</translation>
     </message>
@@ -5539,23 +5539,23 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</source>
         <translation>常用函数 全部 财务 日期与时间 数学与三角函数 统计 查找与引用 数据库 文本 逻辑 信息 用户定义 工程 DATE(year,month,day) 返回代表特定日期的序列号。 DATEVALUE(date_text) 返回以字符串所表示的日期值所对应的序列号。 返回以序列号表示的某日期的天数，介于 1 到 31 之间的整数。 HOUR(serial_number) 返回以序列号表示的某时间的小时数值，介于 0 到 23 之间的整数。 MINUTE(serial_number) 返回以序列号表示的某时间的分钟数值，介于 0 到 59 之间的整数。 MONTH(serial_number) 返回以序列号表示的某日期的月份，介于 1 到 12 之间的整数。 NETWORKDAYS(start_date,end_date,holidays) 返回两个日期之间的全部工作日数 NOW() 返回日期时间格式的当前日期和时间。 SECOND(serial_number) 返回以序列号表示的某时间的秒数值，介于 0 到 59 之间的整数。 TIME(hour,minute,second) 返回某一特定时间的序列值。 TIMEVALUE(time_text) 返回由文本字符串所代表的时间的序列值。 TODAY() 返回日期格式的当前日期。 WEEKDAY(serial_number,return_type) 返回某日期为星期几。默认情况下，其值为 1（星期天）到 7（星期六）之间的整数。 WEEKNUM(serial_num,return_type) 返回一个数字，该数字代表一年中的第几周。 YEAR(serial_number) 返回以序列号表示的某日期的年份，介于 1900 到 9999 之间的整数。 ABS(number) 返回给定数字的绝对值。（即不带符号的数值） ACOS(number) 求给定数值的反余弦，以弧度返回，幅度值范围是 0 到 PI ASIN(number) 返回给定参数的反正弦。弧度值的范围为 -pi/2 到 pi/2。 ATAN (number) 返回反正切值。弧度值的范围为 -pi/2 到 pi/2。 ATAN2(x_num,y_num) 返回给定的 X 及 Y 坐标值的反正切值。弧度值的范围为 -pi 到 pi 之间。（不包括 -pi） CEILING(number,significance) 将参数向上舍入（沿绝对值增大的方向）为最接近的整数，或最接近的指定基数的倍数。 COS(number) 返回给定角度的余弦值。 COSH(number) 返回数字的双曲余弦值。 DEGREES(angle) 将弧度转换为角度。 DIV(dividend,divisor) 除运算。 EVEN(number) 返回沿绝对值增大方向取整后最接近的偶数。 EXP(number) 返回 e 的 n 次幂。（常数 e = 2.71828182845904） FACT(number) 返回数的阶乘，一个数的阶乘等于 1*2*3*...* 该数。 GCD(number1,number2,...) 返回两个或多个整数的最大公约数。 FLOOR(number,significance) 按给定基数进行向下舍入计算。（沿绝对值减小的方向向下舍入） INT(number) 将数字向下舍入到最接近的整数。 LCM(number1,number2,...) 返回两个或多个整数的最小公倍数。 LN(number) 返回一个数的自然对数。自然对数以常数项 e (2.71828182845904) 为底。 LOG(number,base) 按所指定的底数，返回一个数的对数。 LOG10(number) 返回以 10 为底的对数。 MOD(number,divisor) 返回两数相除的余数。结果的正负号与除数相同。 ODD(number) 返回对指定数值沿绝对值增大方向取整后最接近的奇数。 PI() 返回数字 3.14159265358979，即数学常量 PI，精确到小数点后 14 位。 POWER(number,power) 返回给定数字的乘幂。 PRODUCT(number1,number2,...) 将所有以参数形式给出的数字相乘，并返回乘积值。 QUARTILE(array,quart) 返回数据集的四分位数。 RADIANS(angle) 将角度转换为弧度。 RAND() 返回大于等于 0 及小于 1 的均匀分布随机数，每次计算工作表时都将返回一个新的数值。 RANDBETWEEN(bottom,top) ROMAN(number,form) 将阿拉伯数字转换为文本形式的罗马数字。 返回位于两个指定数之间的一个随机整数。每次计算工作表时都将返回一个新的数值。 ROUND(number,num_digits) 返回某个数字按指定位数取整后的数字。 SIGN(number) 返回数字的符号。当数字为正数时返回 1，为零时返回 0，为负数时返回 -1。 SIN(number) 返回给定角度的正弦值。 SINH(number) 返回某一数字的双曲正弦值。 SKEW(number1,number2,...) 返回分布的偏斜度。偏斜度反映以平均值为中心的分布的不对称程度。 SQRT(number) 返回正平方根。 SQRTPI(number) 返回某数与 pi 的乘积的平方根。 STEYX(known_y&apos;s,known_x&apos;s) 返回通过线性回归法计算每个 x 的 y 预测值时所产生的标准误差。 SUBTOTAL(function_num,ref1,ref2,...) 返回数据清单或数据库中的分类汇总。 SUM(number1,number2, ...) 返回某一单元格区域中所有数值之和。 SUMIF(range,criteria,sum_range) 对满足条件的单元格求和。 SUMPRODUCT(array1,array2,array3, ...) 在给定的几组数组中，将数组间对应的元素相乘，并返回乘积之和。 TAN(number) 返回给定角度的正切值。 TANH(number) 返回某一数字的双曲正切。 ACOSH(number) 返回数值的反双曲余弦值 ASINH(number) 返回参数的反双曲正弦值。反双曲正弦值的双曲正弦即等于此函数的 number 参数值，因此 ASINH(SINH(number)) 等于 number 参数值。 ATANH(number) 返回参数的反双曲正切值，参数必须介于 -1 到 1 之间（除去 -1 和 1）。反双曲正切值的双曲正切即为该函数的 number 参数值，因此 ATANH(TANH(number)) 等于 number。 TRUNC(number,num_digits) 将数字的小数部分截去，返回整数。 SUMSQ(number1,number2, ...) 返回所有参数的平方和。参数可以是数值、数组、名称，或者是对数值单元格的引用。 COMBIN(number,number_chosen) 返回从给定元素数目的集合中提取若干元素的组合数。 COMBIN(number,number_chosen) 返回从给定元素数目的集合中提取若干元素的组合数。 COVAR(array1,array2) 返回协方差，即每对数据点的偏差乘积的平均数，利用协方差可以决定两个数据集之间的关系。 ROUNDDOWN(number,num_digits) 向下（绝对值减小的方向）舍入数字。 ROUNDUP(number,num_digits) 向上（绝对值增大的方向）舍入数字。 SERIESSUM(x,n,m,coefficients) 返回幂级数之和。 SUMX2MY2(array_x,array_y) 计算两数组中对应数值平方差的和。 SUMX2PY2(array_x,array_y) 计算两数组中对应数值平方和的和。 SUMXMY2(array_x,array_y) 求两数组中对应数值差的平方和 AVERAGE(number1,number2,...) 返回所有参数的平均值（算术平均值）。参数可以是数值、名称、数组、引用。 AVERAGEA(number1,number2,...) 返回所有参数的平均值。 TRUE 相当于 1, FALSE 相当于 0,参数为引用时：字符串 和 FALSE 相当于 0 AVEDEV(number1,number2,...) 返回一组数据与其均值的绝对偏差的平均值，ADEDEV 用于评测这组数据的离散度。 BINOMDIST(number_s,trials,probability_s,cumulative) 返回一元二项式分布的概率值。 CHIDIST(x,degrees_freedom) 返回 x^2 分布的单尾概率。 x^2 分布与 x^2 检验相关。使用 x^2 检验可以比较观察值和期望值 CHIINV(probability,degrees_freedom) 返回 x^2 分布单尾概率的反函数值 CHITEST(actual_range,expected_range) 返回独立性检验值。 CONFIDENCE(alpha,standard_dev,size) 返回总体平均值的置信区间。 CORREL(array1,array2) 返回两数组之间的相关系数 COUNT(value1,value2,...) 返回包含数字的单元格以及参数列表中的数字的个数。 COUNTA(value1,value2,...) 返回参数列表中非空单元格的个数。 COUNTBLANK(range) 计算区域中空白单元格的个数。 COUNTIF(range,criteria) 计算区域中满足给定条件的单元格的个数。 CRITBINOM(trials,probability_s,alpha) 返回使累积二项式分布大于等于临界值的最小值。 DEVSQ(number1,number2,...) 返回数据点与各自样本平均值偏差的平方和。 EXPONDIST(x,lambda,cumulative) 返回指数分布。 FDIST(x,degrees_freedom1,degrees_freedom2) 返回 F 概率分布。使用此函数可以确定两个数据系列是否存在变化程度上的不同。 FREQUENCY(data_array,bins_array) 以一列垂直数组返回某个区域中数据的频率分布。 FTEST(array1,array2) 返回 F 检验的结果。F 检验返回的是当数组 1 和数组 2 的方差无明显差异时的单尾概率。 GAMMADIST(x,alpha,beta,cumulative) 返回 γ 分布函数 GAMMAINV(probability,alpha,beta) 返回伽玛累积分布函数的反函数。 GAMMALN(x) 返回伽玛函数的自然对数，Γ(x)。 GROWTH(known_y&apos;s,known_x&apos;s,new_x&apos;s,stats) 根据现有的数据预测指数增长值。 GEOMEAN(number1,number2,...) 返回正数数组或区域的几何平均值。 HARMEAN(number1,number2,...) 返回数据集合的调和平均值。调和平均值与倒数的算术平均值互为倒数。 HYPGEOMDIST(sample_s,number_sample,population_s,number_population) 返回超几何分布。给定样本容量、样本总体容量和样本总体中成功的次数，函数返回样本取得给定成功次数的概率。 INTERCEPT(known_y&apos;s,known_x&apos;s) 利用现有的 x 值与 y 值计算直线与 y 轴的截距。 KURT(number1,number2,...) 返回数据集的峰值。峰值反映与正态分布相比某一分布的尖锐度或平坦度。 LARGE(array,k) 返回数据集中第 k 个最大值。 LINEST(known_y&apos;s,known_x&apos;s,const,stats) 使用最小二乘法对已知数据进行最佳直线拟合，并返回描述此直线的数组。（此函数返回数值数组，须以数组公式的形式输入） LOGINV(probability,mean,standard_dev) 返回 x 的对数正态累积分布函数的区间点，其中 ln(x) 是平均数和标准方差参数的正态分布 LOGNORMDIST(x,mean,standard_dev) 返回 x 的对数累积分布函数，其中 ln(x) 是服从参数 mean 和 standard_dev 的正态分布。 MAX(number1,number2,...) 返回参数列表中的最大值，忽略文本值和逻辑值。 MAXA(number1,number2,...) 返回参数列表中的最大值。（不忽略文本值和逻辑值） MEDIAN(number1,number2,...) 返回给定数值集合的中值。 MIN(number1,number2,...) 返回参数列表中的最小值，忽略文本值和逻辑值。 MINA(number1,number2,...) 返回参数列表中的最小值。（不忽略文本值和逻辑值） MODE(number1,number2,...) 返回在某一数组或数据区域中的众数。（出现频率最多的数） NEGBINOMDIST(number_f,number_s,probability_s) 返回负二项式分布函数。当成功概率为常量时，函数 NEGBINOMDIST 返回在到达极限次成功次数之前，出现失败次数的概率 NORMDIST(x,mean,standard_dev,cumulative) 返回指定平均值和标准偏差的正态分布函数。 NORMINV(probability,mean,standard_dev) 返回指定平均值和标准偏差的正态累积分布函数的反函数。 NORMSDIST(z) 返回标准正态累积分布函数，该分布的平均值为 0，标准偏差为 1。 NORMSINV(probability) 返回标准正态累积分布函数的反函数。该分布的平均值为 0，标准偏差为 1。 PERCENTRANK(array,x,significance) 返回特定数值在一个数据集中的百分比排位。 PERMUT(number,number_chosen) 返回从给定数目的对象集合中选取的若干对象的排列数。 PEARSON(array1,array2) 返回 Pearson（皮尔生）乘积矩相关系数 r（值在 -1.0 到 1.0 之间，包括 -1.0 和 1.0） PERCENTILE(array,k) 返回区域中数值的第 K 个百分点的值。 RANK(number,ref,order) 返回一个数字在数字列表中相对于其他数值的大小排位。 PROB(x_range,prob_range,lower_limit,upper_limit) 返回区域中的数值落在指定区间内的概率。 RSQ(known_y&apos;s,known_x&apos;s) 根据已知 y 值和已知 x 值计算得出的 Pearson 乘积矩相关系数的平方 SLOPE(known_y&apos;s,known_x&apos;s) 返回根据已知 y 值和已知 x 值中的数据点拟合的线性回归直线的斜率 SMALL(array,k) 返回数据集中第 k 个最小值。 STANDARDIZE(x,mean,standard_dev) 返回以指定算术平均值，和指定标准偏差的分布的正态化数值 STDEV(number1,number2,...) 计算基于给定样本的标准偏差。（忽略样本中的逻辑值及文本） STDEVA(number1,number2,...) 计算基于给定样本的标准偏差。（文本值和逻辑值也计算在内） STDEVP(number1,number2,...) 计算基于给定的样本总体的标准偏差。（忽略样本中的逻辑值及文本） STDEVPA(number1,number2,...) 计算基于给定的样本总体的标准偏差。（文本值和逻辑值也计算在内） TDIST(x,degrees_freedom,tails) 返回学生 t 分布的百分点（概率），t 分布用于小样本数据集合的假设检验。 TINV(probability,degrees_freedom) 返回作为概率和自由度函数的学生 t 分布的 t 值。 TTEST(array1,array2,tails,type) 返回与学生 t 检验相关的概率。可以使用函数 TTEST 判断两个样本是否可能来自两个具有相同平均值的总体。 TRIMMEAN(array,percent) 返回数据集的内部平均值。 VAR(number1,number2,...) 计算基于给定样本的方差。（忽略样本中的逻辑值及文本） VARA(number1,number2,...) 计算基于给定样本的方差。（文本值和逻辑值也计算在内） VARP(number1,number2,...) 计算基于给定的样本总体的方差。（忽略样本中的逻辑值及文本） VARPA(number1,number2,...) 计算基于给定的样本总体的方差。（文本值和逻辑值也计算在内） GAMMALN(x) 返回伽玛函数（Γ(x)）的自然对数。 FINV(probability,degrees_freedom1,degrees_freedom2) 返回 F 概率分布的反函数值。 FORECAST(x,known_y&apos;s,known_x&apos;s) 根据已有的数值计算或预测未来值。 BETADIST(x,alpha,beta,A,B) 返回累积 beta 分布的概率密度。 BETAINV(probability,alpha,beta,A,B) 返回具有给定概率的累积 beta 分布的区间点。 FISHER(x) 返回 Fisher 变换值。 FISHERINV(y) 返回 Fisher 逆变换值，如果 y = FISHER(x)，则 FISHERINV(y) = x。 PERMUT(number,number_chosen) 返回从给定元素数目的集合中选取若干元素的排列数。 POISSON(x,mean,cumulative) 返回泊松分布。泊松分布通常用于预测一段时间内事件发生的次数。 WEIBULL(x,alpha,beta,cumulative) 返回韦伯分布。使用此函数可以进行可靠性分析，比如计算设备的平均故障时间。 ZTEST(array,μ0,sigma) 返回 z 检验的单尾概率值。 ADDRESS(row_num,column_num,abs_num,a1,sheet_text) 按照给定的行号和列标，返回一个文本类型的单元格地址。 AREAS(reference) 返回引用中包含的区域个数。（区域表示连续的单元格区域或某个单元格） CHOOSE(index_num,value1,value2,...) 根据给定的索引值，返回数值参数列表中对应的数值。 COLUMN(reference) 返回指定引用的列号。 COLUMNS(array) 返回引用或数组的列数。 HLOOKUP(lookup_value,table_array,row_index_num,range_lookup) 在表格或数值数组的首行查找指定的数值，并由此返回表格或数组当前列中指定行处的数值。（默认情况下，表是升序的） INDEX(array,row_num,column_num) 返回数据清单或数组中的元素值，此元素由行序号和列序号的索引值给定。 INDIRECT(ref_text,a1) 返回由文本字符串所指定的引用。 LOOKUP(lookup_value,lookup_vector,result_vector)；LOOKUP(lookup_value,array) 从单行或单列或从数组中查找一个值。 MATCH(lookup_value,lookup_array,match_type) 返回在指定方式下与指定项匹配的数组中元素的相应位置。 OFFSET(reference,rows,cols,height,width) 以指定的引用为参照系，通过给定的偏移量、行数及列数返回一个新的引用。 ROW(reference) 返回指定引用的行号。 ROWS(array) 返回引用或数组的行数。 VLOOKUP(lookup_value,table_array,col_index_num,range_lookup) 在表格或数值数组的首列查找指定的数值，并由此返回表格或数组当前行中指定列处的数值。（默认情况下，表是升序的） ASC(text) 对于双字节字符集 (DBCS) 语言，将全角（双字节）英文字符更改为半角（单字节）字符。 CHAR(number) 返回数字代码所对应的字符。（指定的代码对应于计算机当前使用的字符集） CODE(text) 返回文本字符串中第一个字符的数字代码。（返回的代码对应于计算机当前使用的字符集） CONCATENATE (text1,text2,...) 将多个文本字符串合并成一个文本字符串。 EXACT(text1,text2) 比较两个字符串是否完全相同（区分大小写），返回 TRUE 或 FALSE。 FIND(find_text,within_text,start_num) 返回一个字符串在另一个字符串中出现的起始位置。（区分大小写，且不允许使用通配符） LEFT(text,num_chars) 从一个文本字符串的第一个字符开始返回指定个数的字符。 LEN(text) 返回文本字符串中的字符个数。 LOWER(text) 将文本字符串转换成字母全部小写形式。 LTRIM(text) 清除文本中左边的空格。 MID(text,start_num,num_chars) 从文本字符串中指定的位置开始，返回指定长度的字符串。 REPLACE(old_text,start_num,num_chars,new_text) 将一个字符串中的部分字符用另一字符串替换。 REPT(text,number_times) 根据指定的次数重复显示文本。可以通过函数 REPT 来不断地重复显示某一文本字符串，对单元格进行填充。 RIGHT(text,num_chars) 从一个文本字符串的最后一个字符开始返回指定个数的字符。 RTRIM(text) 清除文本中右边的空格。 SEARCH(find_text,within_text,start_num) 返回一个指定字符或文本字符串在字符串中第一次出现的位置，从左到右查找。（忽略大小写） SUBSTITUTE(text,old_text,new_text,instance_num) 将字符串中的部分字符替换成新字符串。 TEXT(value,format_text) 将数值转换为按指定数字格式表示的文本。 TRIM(text) 除了单词之间的单个空格外，清除文本中所有的空格。 UPPER(text) 将文本字符串转换成字母全部大写形式。 VALUE(text) 将代表数字的文本字符串转换成数字。 PROPER(text) 将一个文本字符串的首字母及任何非字母字符之后的首字母转换成大写，将其余的字母转换成小写。 DOLLAR(number,decimals) 按照货币格式（美元）及给定的小数位数，将数值转换成文本。 RMB(number,decimals) 按照货币格式（人民币）及给定的小数位数，将数值转换成文本。 AND(logical1,logical2, ...) 在参数组中，任何一个参数逻辑值为 FALSE，即返回 FALSE；只有当所有参数逻辑值为 TRUE，才返回 TRUE。 FALSE() 返回逻辑值 FALSE。 IF(logical_test,value_if_true,value_if_false) 判断一个条件是否满足：如果满足返回一个值，如果不满足则返回另外一个值。 NOT(logical) 对参数逻辑值求反。（当要确保一个值不等于某一特定值时，可以使用 NOT 函数） OR(logical1,logical2,...) 在参数组中，任何一个参数逻辑值为 TRUE，即返回 TRUE；只有当所有参数逻辑值为 FALSE，才返回 FALSE。 TRUE() 返回逻辑值 TRUE。 ERROR.TYPE(error_val) 返回与错误值对应的数字；如果没有错误，则返回 #N/A。 FORMULA(Ref) 返回单元格内的公式。 ISBLANK(value) 检查引用是否为空单元格，返回 TRUE 或 FALSE。 ISERR(value) 检测一个值是否为 #N/A 以外的错误值，返回 TRUE 或 FALSE。 ISERROR(value) 检测一个值是否为错误值，返回 TRUE 或 FALSE。 ISEVEN(value) 检测一个值是否为偶数，返回 TRUE 或 FALSE。 ISLOGICAL(value) 检测一个值是否为逻辑值，返回 TRUE 或 FALSE。 ISNA(value) 检测一个值是否为 #N/A，返回 TRUE 或 FALSE。 ISNONTEXT(value) 检测一个值是否为不是文本，返回 TRUE 或 FALSE；值为空白单元格时，返回 TRUE。 ISNUMBER(value) 检测一个值是否为数值，返回 TRUE 或 FALSE。 ISODD(value) 检测一个值是否为奇数，返回 TRUE 或 FALSE。 ISREF(value) 检测一个值是否为引用，返回 TRUE 或 FALSE。 ISTEXT(value) 检测一个值是否为文本，返回 TRUE 或 FALSE。 N(value) 返回转化为数值后的值。 NA() 返回错误值 #N/A。错误值 #N/A 表示“无法得到有效值”。 TYPE(value) 返回数值的类型。 DB(cost,salvage,life,period,month) 使用固定余额递减法，计算一笔资产在给定期间内的折旧值。 DDB(cost,salvage,life,period,factor) 使用双倍余额递减法或其他指定方法，计算一笔资产在给定期间内的折旧值。 FV(rate,nper,pmt,pv,type) 基于固定利率及等额分期付款方式，返回某项投资的未来值。 IPMT(rate,per,nper,pv,fv,type) 基于固定利率及等额分期付款方式，返回给定期数内对投资的利息偿还额。 IRR(values,guess) 返回由数值代表的一组现金流的内部收益率。 ISPMT(rate,per,nper,pv) 计算特定投资期内要支付的利息。 MIRR(values,finance_rate,reinvest_rate) 返回某一连续期间内现金流的修正内部收益率。函数 MIRR 同时考虑了投资的成本和现金再投资的收益率。 NPER(rate, pmt, pv, fv, type) 基于固定利率及等额分期付款方式，返回某项投资的总期数。 NPV(rate,value1,value2, ...) 通过使用贴现率以及一系列未来支出（负值）和收入（正值），返回一项投资的净现值。 PMT(rate,nper,pv,fv,type) 基于固定利率及等额分期付款方式，返回贷款的每期付款额。 PPMT(rate,per,nper,pv,fv,type) 基于固定利率及等额分期付款方式，返回投资在某一给定期间内的本金偿还额。 PV(rate,nper,pmt,fv,type) 返回投资的现值。现值为一系列未来付款的当前值的累积和。 RATE(nper,pmt,pv,fv,type,guess) 返回年金的各期利率。 SLN(cost,salvage,life) 返回某项资产在一个期间中的线性折旧值。 SYD(cost,salvage,life,per) 返回某项资产按年限总和折旧法计算的指定期间的折旧值。 VDB(cost,salvage,life,start_period,end_period,factor,no_switch) 使用双倍余额递减法或其他指定的方法，返回指定的任何期间内（包括部分期间）的资产折旧值。函数 VDB 代表可变余额递减法。 FACTDOUBLE(number) 返回数字的双倍阶乘。 MROUND(number,multiple) 返回参数按指定基数舍入后的数值。 MULTINOMIAL(number1,number2, ...) 返回参数和的阶乘与各参数阶乘乘积的比值。 QUOTIENT(numerator,denominator) 返回商的整数部分，该函数可用于舍掉商的小数部分。 BESSELI(x,n) 返回修正 Bessel 函数值，它与用纯虚数参数运算时的 Bessel 函数值相等。 BESSELJ(x,n) 返回 Bessel 函数值。 BESSELK(x,n) 返回修正 Bessel 函数值，它与用纯虚数参数运算时的 Bessel 函数值相等。 BESSELY(x,n) 返回 Bessel 函数值，也称为 Weber 函数或 Neumann 函数。 BIN2DEC(number) 将二进制数转化为十进制数。 BIN2HEX(number,places) 将二进制数转化为十六进制数。 BIN2OCT(number,places) 将二进制数转化为八进制数。 COMPLEX(real_num,i_num,suffix) 将实系数和虚系数转换为x+yi或x+yj的复数形式。 CONVERT(number,from_unit,to_unit) 将数值从一个度量系统转换到另一个度量系统。 DEC2BIN(number,places) 将十进制数转化为二进制数。 DEC2HEX(number,places) 将十进制数转化为十六进制数。 DEC2OCT(number,places) 将十进制数转化为八进制数。 DELTA(number1,number2) 测试两个数值是否相等。 ERF(lower_limit,upper_limit) 返回误差函数在上下限之间的积分。 ERFC(x) 返回从 x 到 ∞（无穷）积分的 ERF 函数的余误差函数。 GESTEP(number,step) 如果 Number 大于等于 step，返回 1，否则返回 0。 HEX2BIN(number,places) 将十六进制数转化为二进制数。 HEX2DEC(number) 将十六进制数转化为十进制数。 HEX2OCT(number,places) 将十六进制数转化为八进制数。 IMAGINARY(inumber) 返回以x+yi或x+yj文本格式表示的复数的虚系数。 IMARGUMENT(inumber) 计算指定复数对应的角度θ，θ用弧度表示。 IMCONJUGATE(inumber) 返回形式为x+yi或x+yj的复数的共轭复数。 IMCOS(inumber) 返回形式为x+yi或x+yj的复数的余弦值。 IMDIV(inumber1,inumber2) 计算x+yi或x+yj这两个形式表达的复数的商。 IMEXP(inumber) 计算以x+yi或x+yj形式表达的复数的指数。 IMLN(inumber) 返回形式为x+yi或x+yj的复数的自然对数。 IMLOG10(inumber) 返回形式为x+yi或x+yj的复数的常用对数（底数为10）。 IMLOG2(inumber) 返回形式为x+yi或x+yj的复数的常用对数（底数为2）。 IMPOWER(inumber,number) 计算以x+yi或x+yj形式表达的复数的整数幂。 IMPRODUCT(inumber1,inumber2,...) 计算以x+yi或x+yj形式表达的复数的乘积。 IMREAL(inumber) 返回形式为x+yi或x+yj的复数的实系数。 IMSIN(inumber) 返回形式为x+yi或x+yj的复数的正弦值。 IMSQRT(inumber) 返回形式为x+yi或x+yj的复数的平方根。 IMSUB(inumber1, inumber2) 返回两个复数的差值。 IMSUM(inumber1,inumber2,…) 返回形式为x+yi或x+yj的复数的和。 OCT2BIN(number,places) 将八进制数转化为二进制数。 OCT2DEC(number) 将八进制数转化为十进制数。 OCT2HEX(number,places) 将八进制数转化为十六进制数。 IMABS(inumber) 返回复数的绝对值（又叫模数）。 FIXED(number,decimals,no_commas) 用定点小数格式将数值舍入成特定位数并返回带或不带逗号的文本。 LENB(text) 返回文本中的字符个数。与双字节字符集(DBCS)一起使用 FINDB(find_text,within_text,start_num) 在一文字串中搜索另一文字串的起始位置。FINDB区分大小写，且不允许使用通配符，与双字节字符集(DBCS)一起使用 LEFTB(text,num_bytes) 返回字符串最左边指定数目的字符。与双字节字符集(DBCS)一起使用 MIDB(text,start_num,num_bytes) 从文本字符串中指定的位置开始，返回指定长度的字符串。与双字节字符集(DBCS)一起使用 REPLACEB(old_text,start_num,num_bytes,new_text) 将一个字符串中的部分字符用另一字符串替换。与双字节字符集(DBCS)一起使用 RIGHTB(text,num_bytes) 从一个文本字符串的最后一个字符开始返回指定个数的字符。与双字节字符集(DBCS)一起使用 SEARCHB(find_text,within_text,start_num) 返回一个指定字符或文本字符串在字符串中第一次出现的位置，从左到右查找（忽略大小写）。与双字节字符集(DBCS)一起使用 WIDECHAR(text) 将单字节字符串转换成双字节字符串。与双字节字符集(DBCS)一起使用 CLEAN(text) 删除文本中的所有非打印字符 T(value) 返回数值引用的文本 DAYS360(start_date,end_date,method) 按每年 360 天返回两个日期间相差的天数(每月 30 天) EOMONTH(start_date,months) 返回一串日期，表示指定月数之前或之后的月份的最后一天 EDATE(start_date,months) 返回代表指定日期 (start_date) 之前或之后用于指示月份数的日期。使用函数 EDATE 可以计算与发行日处于一月中同一天的到期日的日期。 WORKDAY(start_date,days,holidays) 返回某日期（起始日期）之前或之后相隔指定工作日的某一日期。工作日不包括周末和专门指定的假日。在计算发票到期日、预期交货时间或工作天数时，可以使用函数 WORKDAY 来扣除周末或假日. YEARFRAC(start_date,end_date,basis) 返回开始日期和终止日期之间的天数占全年天数的百分比。使用YEARFRAC工作函数可判别某一特定条件下全年效益或债务的比例 TRANSPOSE(array) 返回转置单元格区域，即将一行单元格区域转置成一列单元格区域，反之亦然。在行列数分别与数组的行列数相同的区域中，必须将 TRANSPOSE 输入为数组公式。使用 TRANSPOSE 可在工作表中转置数组的垂直和水平方向。 MMULT(array1,array2) 返回两数组的矩阵乘积，结果矩阵的行数与第一组数值的行数相同，矩阵的列数与第二组数值的列数相同 MINVERSE(array) MDETERM(array) 返回一个数组的矩阵行列式的值。 返回数组矩阵的逆距阵。 DCOUNT(database,field,criteria) 返回数据库或列表的列中满足指定条件并且包含数字的单元格个数。 DCOUNTA(database,field,criteria) 返回数据库或列表的列中满足指定条件的非空单元格个数。 DAVERAGE(database,field,criteria) 返回列表或数据库中满足指定条件的列中数值的平均值。 DGET(database,field,criteria) 从列表或数据库的列中提取符合指定条件的单个值。 DMAX(database,field,criteria) 返回列表或数据库的列中满足指定条件的最大数值。 DMIN(database,field,criteria) 返回列表或数据库的列中满足指定条件的最小数字。 DPRODUCT(database,field,criteria) 返回列表或数据库的列中满足指定条件的数值的乘积。 DSTDEV(database,field,criteria) 将列表或数据库的列中满足指定条件的数字作为一个样本，估算样本总体的标准偏差。 DSTDEVP(database,field,criteria) 将列表或数据库的列中满足指定条件的数字作为样本总体，计算总体的标准偏差。 DSUM(database,field,criteria) 返回列表或数据库的列中满足指定条件的数字之和。 DVAR(database,field,criteria) 将列表或数据库的列中满足指定条件的数字作为一个样本，估算样本总体的方差。 DVARP(database,field,criteria) 将列表或数据库的列中满足指定条件的数字作为样本总体，计算总体的方差。 LOGEST(known_y&apos;s,known_x&apos;s,const,stats) 在回归分析中，计算最符合数据的指数回归拟合曲线，并返回描述该曲线的数值数组。因为此函数返回数值数组，故必须以数组公式的形式输入。 TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const) 根据现有的数据预测线性增长值。 ACCRINTM(issue,settlement,rate,par,basis) 返回到期一次性付息有价证券的应计利息。 DATEDIF(start_date,end_date,unit) 计算两个日期之间的天数、月数或年数。 HYPERLINK(link_location, friendly_name) 创建一个快捷方式（跳转），用以打开存储在网络服务器、Intranet 或 Internet 中的文件。 ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis) 返回定期付息有价证券的应计利息。 CELL(info_type, reference) 返回某一引用区域的左上角单元格的格式、位置或内容等信息。 EVALUATE(formula_text) 对以文字表示的一个公式或表达式求值，并返回结果。 SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...) 对区域中满足多个条件的单元格求和。 COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…) 计算多个区域中满足给定条件的单元格的个数。 AVERAGEIF(range,criteria,average_range) 返回某个区域内满足给定条件的所有单元格的算术平均值。 AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…) 返回满足多重条件的所有单元格的算术平均值。 IFERROR(value,value_if_error) 如果公式的计算结果错误，则返回您指定的值；否则返回公式的结果。 DAY(serial_number) PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
         <translation>返回伽玛函数的自然对数，Γ(x)。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>ZTEST(array,μ0,sigma)</source>
         <translation>ZTEST(array,μ0,sigma)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
         <translation>计算指定复数对应的角度θ，θ用弧度表示。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
         <translation>常用函数 全部 财务 日期与时间 数学与三角函数 统计 查找与引用 数据库 文本 逻辑 信息 用户定义 工程 DATE(year,month,day) 返回代表特定日期的序列号。 DATEVALUE(date_text) 返回以字符串所表示的日期值所对应的序列号。 返回以序列号表示的某日期的天数，介于 1 到 31 之间的整数。 HOUR(serial_number) 返回以序列号表示的某时间的小时数值，介于 0 到 23 之间的整数。 MINUTE(serial_number) 返回以序列号表示的某时间的分钟数值，介于 0 到 59 之间的整数。 MONTH(serial_number) 返回以序列号表示的某日期的月份，介于 1 到 12 之间的整数。 NETWORKDAYS(start_date,end_date,holidays) 返回两个日期之间的全部工作日数 NOW() 返回日期时间格式的当前日期和时间。 SECOND(serial_number) 返回以序列号表示的某时间的秒数值，介于 0 到 59 之间的整数。 TIME(hour,minute,second) 返回某一特定时间的序列值。 TIMEVALUE(time_text) 返回由文本字符串所代表的时间的序列值。 TODAY() 返回日期格式的当前日期。 WEEKDAY(serial_number,return_type) 返回某日期为星期几。默认情况下，其值为 1（星期天）到 7（星期六）之间的整数。 WEEKNUM(serial_num,return_type) 返回一个数字，该数字代表一年中的第几周。 YEAR(serial_number) 返回以序列号表示的某日期的年份，介于 1900 到 9999 之间的整数。 ABS(number) 返回给定数字的绝对值。（即不带符号的数值） ACOS(number) 求给定数值的反余弦，以弧度返回，幅度值范围是 0 到 PI ASIN(number) 返回给定参数的反正弦。弧度值的范围为 -pi/2 到 pi/2。 ATAN (number) 返回反正切值。弧度值的范围为 -pi/2 到 pi/2。 ATAN2(x_num,y_num) 返回给定的 X 及 Y 坐标值的反正切值。弧度值的范围为 -pi 到 pi 之间。（不包括 -pi） CEILING(number,significance) 将参数向上舍入（沿绝对值增大的方向）为最接近的整数，或最接近的指定基数的倍数。 COS(number) 返回给定角度的余弦值。 COSH(number) 返回数字的双曲余弦值。 DEGREES(angle) 将弧度转换为角度。 DIV(dividend,divisor) 除运算。 EVEN(number) 返回沿绝对值增大方向取整后最接近的偶数。 EXP(number) 返回 e 的 n 次幂。（常数 e = 2.71828182845904） FACT(number) 返回数的阶乘，一个数的阶乘等于 1*2*3*...* 该数。 GCD(number1,number2,...) 返回两个或多个整数的最大公约数。 FLOOR(number,significance) 按给定基数进行向下舍入计算。（沿绝对值减小的方向向下舍入） INT(number) 将数字向下舍入到最接近的整数。 LCM(number1,number2,...) 返回两个或多个整数的最小公倍数。 LN(number) 返回一个数的自然对数。自然对数以常数项 e (2.71828182845904) 为底。 LOG(number,base) 按所指定的底数，返回一个数的对数。 LOG10(number) 返回以 10 为底的对数。 MOD(number,divisor) 返回两数相除的余数。结果的正负号与除数相同。 ODD(number) 返回对指定数值沿绝对值增大方向取整后最接近的奇数。 PI() 返回数字 3.14159265358979，即数学常量 PI，精确到小数点后 14 位。 POWER(number,power) 返回给定数字的乘幂。 PRODUCT(number1,number2,...) 将所有以参数形式给出的数字相乘，并返回乘积值。 QUARTILE(array,quart) 返回数据集的四分位数。 RADIANS(angle) 将角度转换为弧度。 RAND() 返回大于等于 0 及小于 1 的均匀分布随机数，每次计算工作表时都将返回一个新的数值。 RANDBETWEEN(bottom,top) ROMAN(number,form) 将阿拉伯数字转换为文本形式的罗马数字。 返回位于两个指定数之间的一个随机整数。每次计算工作表时都将返回一个新的数值。 ROUND(number,num_digits) 返回某个数字按指定位数取整后的数字。 SIGN(number) 返回数字的符号。当数字为正数时返回 1，为零时返回 0，为负数时返回 -1。 SIN(number) 返回给定角度的正弦值。 SINH(number) 返回某一数字的双曲正弦值。 SKEW(number1,number2,...) 返回分布的偏斜度。偏斜度反映以平均值为中心的分布的不对称程度。 SQRT(number) 返回正平方根。 SQRTPI(number) 返回某数与 pi 的乘积的平方根。 STEYX(known_y&apos;s,known_x&apos;s) 返回通过线性回归法计算每个 x 的 y 预测值时所产生的标准误差。 SUBTOTAL(function_num,ref1,ref2,...) 返回数据清单或数据库中的分类汇总。 SUM(number1,number2, ...) 返回某一单元格区域中所有数值之和。 SUMIF(range,criteria,sum_range) 对满足条件的单元格求和。 SUMPRODUCT(array1,array2,array3, ...) 在给定的几组数组中，将数组间对应的元素相乘，并返回乘积之和。 TAN(number) 返回给定角度的正切值。 TANH(number) 返回某一数字的双曲正切。 ACOSH(number) 返回数值的反双曲余弦值 ASINH(number) 返回参数的反双曲正弦值。反双曲正弦值的双曲正弦即等于此函数的 number 参数值，因此 ASINH(SINH(number)) 等于 number 参数值。 ATANH(number) 返回参数的反双曲正切值，参数必须介于 -1 到 1 之间（除去 -1 和 1）。反双曲正切值的双曲正切即为该函数的 number 参数值，因此 ATANH(TANH(number)) 等于 number。 TRUNC(number,num_digits) 将数字的小数部分截去，返回整数。 SUMSQ(number1,number2, ...) 返回所有参数的平方和。参数可以是数值、数组、名称，或者是对数值单元格的引用。 COMBIN(number,number_chosen) 返回从给定元素数目的集合中提取若干元素的组合数。 COMBIN(number,number_chosen) 返回从给定元素数目的集合中提取若干元素的组合数。 COVAR(array1,array2) 返回协方差，即每对数据点的偏差乘积的平均数，利用协方差可以决定两个数据集之间的关系。 ROUNDDOWN(number,num_digits) 向下（绝对值减小的方向）舍入数字。 ROUNDUP(number,num_digits) 向上（绝对值增大的方向）舍入数字。 SERIESSUM(x,n,m,coefficients) 返回幂级数之和。 SUMX2MY2(array_x,array_y) 计算两数组中对应数值平方差的和。 SUMX2PY2(array_x,array_y) 计算两数组中对应数值平方和的和。 SUMXMY2(array_x,array_y) 求两数组中对应数值差的平方和 AVERAGE(number1,number2,...) 返回所有参数的平均值（算术平均值）。参数可以是数值、名称、数组、引用。 AVERAGEA(number1,number2,...) 返回所有参数的平均值。 TRUE 相当于 1, FALSE 相当于 0,参数为引用时：字符串 和 FALSE 相当于 0 AVEDEV(number1,number2,...) 返回一组数据与其均值的绝对偏差的平均值，ADEDEV 用于评测这组数据的离散度。 BINOMDIST(number_s,trials,probability_s,cumulative) 返回一元二项式分布的概率值。 CHIDIST(x,degrees_freedom) 返回 x^2 分布的单尾概率。 x^2 分布与 x^2 检验相关。使用 x^2 检验可以比较观察值和期望值 CHIINV(probability,degrees_freedom) 返回 x^2 分布单尾概率的反函数值 CHITEST(actual_range,expected_range) 返回独立性检验值。 CONFIDENCE(alpha,standard_dev,size) 返回总体平均值的置信区间。 CORREL(array1,array2) 返回两数组之间的相关系数 COUNT(value1,value2,...) 返回包含数字的单元格以及参数列表中的数字的个数。 COUNTA(value1,value2,...) 返回参数列表中非空单元格的个数。 COUNTBLANK(range) 计算区域中空白单元格的个数。 COUNTIF(range,criteria) 计算区域中满足给定条件的单元格的个数。 CRITBINOM(trials,probability_s,alpha) 返回使累积二项式分布大于等于临界值的最小值。 DEVSQ(number1,number2,...) 返回数据点与各自样本平均值偏差的平方和。 EXPONDIST(x,lambda,cumulative) 返回指数分布。 FDIST(x,degrees_freedom1,degrees_freedom2) 返回 F 概率分布。使用此函数可以确定两个数据系列是否存在变化程度上的不同。 FREQUENCY(data_array,bins_array) 以一列垂直数组返回某个区域中数据的频率分布。 FTEST(array1,array2) 返回 F 检验的结果。F 检验返回的是当数组 1 和数组 2 的方差无明显差异时的单尾概率。 GAMMADIST(x,alpha,beta,cumulative) 返回 γ 分布函数 GAMMAINV(probability,alpha,beta) 返回伽玛累积分布函数的反函数。 GAMMALN(x) 返回伽玛函数的自然对数，Γ(x)。 GROWTH(known_y&apos;s,known_x&apos;s,new_x&apos;s,stats) 根据现有的数据预测指数增长值。 GEOMEAN(number1,number2,...) 返回正数数组或区域的几何平均值。 HARMEAN(number1,number2,...) 返回数据集合的调和平均值。调和平均值与倒数的算术平均值互为倒数。 HYPGEOMDIST(sample_s,number_sample,population_s,number_population) 返回超几何分布。给定样本容量、样本总体容量和样本总体中成功的次数，函数返回样本取得给定成功次数的概率。 INTERCEPT(known_y&apos;s,known_x&apos;s) 利用现有的 x 值与 y 值计算直线与 y 轴的截距。 KURT(number1,number2,...) 返回数据集的峰值。峰值反映与正态分布相比某一分布的尖锐度或平坦度。 LARGE(array,k) 返回数据集中第 k 个最大值。 LINEST(known_y&apos;s,known_x&apos;s,const,stats) 使用最小二乘法对已知数据进行最佳直线拟合，并返回描述此直线的数组。（此函数返回数值数组，须以数组公式的形式输入） LOGINV(probability,mean,standard_dev) 返回 x 的对数正态累积分布函数的区间点，其中 ln(x) 是平均数和标准方差参数的正态分布 LOGNORMDIST(x,mean,standard_dev) 返回 x 的对数累积分布函数，其中 ln(x) 是服从参数 mean 和 standard_dev 的正态分布。 MAX(number1,number2,...) 返回参数列表中的最大值，忽略文本值和逻辑值。 MAXA(number1,number2,...) 返回参数列表中的最大值。（不忽略文本值和逻辑值） MEDIAN(number1,number2,...) 返回给定数值集合的中值。 MIN(number1,number2,...) 返回参数列表中的最小值，忽略文本值和逻辑值。 MINA(number1,number2,...) 返回参数列表中的最小值。（不忽略文本值和逻辑值） MODE(number1,number2,...) 返回在某一数组或数据区域中的众数。（出现频率最多的数） NEGBINOMDIST(number_f,number_s,probability_s) 返回负二项式分布函数。当成功概率为常量时，函数 NEGBINOMDIST 返回在到达极限次成功次数之前，出现失败次数的概率 NORMDIST(x,mean,standard_dev,cumulative) 返回指定平均值和标准偏差的正态分布函数。 NORMINV(probability,mean,standard_dev) 返回指定平均值和标准偏差的正态累积分布函数的反函数。 NORMSDIST(z) 返回标准正态累积分布函数，该分布的平均值为 0，标准偏差为 1。 NORMSINV(probability) 返回标准正态累积分布函数的反函数。该分布的平均值为 0，标准偏差为 1。 PERCENTRANK(array,x,significance) 返回特定数值在一个数据集中的百分比排位。 PERMUT(number,number_chosen) 返回从给定数目的对象集合中选取的若干对象的排列数。 PEARSON(array1,array2) 返回 Pearson（皮尔生）乘积矩相关系数 r（值在 -1.0 到 1.0 之间，包括 -1.0 和 1.0） PERCENTILE(array,k) 返回区域中数值的第 K 个百分点的值。 RANK(number,ref,order) 返回一个数字在数字列表中相对于其他数值的大小排位。 PROB(x_range,prob_range,lower_limit,upper_limit) 返回区域中的数值落在指定区间内的概率。 RSQ(known_y&apos;s,known_x&apos;s) 根据已知 y 值和已知 x 值计算得出的 Pearson 乘积矩相关系数的平方 SLOPE(known_y&apos;s,known_x&apos;s) 返回根据已知 y 值和已知 x 值中的数据点拟合的线性回归直线的斜率 SMALL(array,k) 返回数据集中第 k 个最小值。 STANDARDIZE(x,mean,standard_dev) 返回以指定算术平均值，和指定标准偏差的分布的正态化数值 STDEV(number1,number2,...) 计算基于给定样本的标准偏差。（忽略样本中的逻辑值及文本） STDEVA(number1,number2,...) 计算基于给定样本的标准偏差。（文本值和逻辑值也计算在内） STDEVP(number1,number2,...) 计算基于给定的样本总体的标准偏差。（忽略样本中的逻辑值及文本） STDEVPA(number1,number2,...) 计算基于给定的样本总体的标准偏差。（文本值和逻辑值也计算在内） TDIST(x,degrees_freedom,tails) 返回学生 t 分布的百分点（概率），t 分布用于小样本数据集合的假设检验。 TINV(probability,degrees_freedom) 返回作为概率和自由度函数的学生 t 分布的 t 值。 TTEST(array1,array2,tails,type) 返回与学生 t 检验相关的概率。可以使用函数 TTEST 判断两个样本是否可能来自两个具有相同平均值的总体。 TRIMMEAN(array,percent) 返回数据集的内部平均值。 VAR(number1,number2,...) 计算基于给定样本的方差。（忽略样本中的逻辑值及文本） VARA(number1,number2,...) 计算基于给定样本的方差。（文本值和逻辑值也计算在内） VARP(number1,number2,...) 计算基于给定的样本总体的方差。（忽略样本中的逻辑值及文本） VARPA(number1,number2,...) 计算基于给定的样本总体的方差。（文本值和逻辑值也计算在内） GAMMALN(x) 返回伽玛函数（Γ(x)）的自然对数。 FINV(probability,degrees_freedom1,degrees_freedom2) 返回 F 概率分布的反函数值。 FORECAST(x,known_y&apos;s,known_x&apos;s) 根据已有的数值计算或预测未来值。 BETADIST(x,alpha,beta,A,B) 返回累积 beta 分布的概率密度。 BETAINV(probability,alpha,beta,A,B) 返回具有给定概率的累积 beta 分布的区间点。 FISHER(x) 返回 Fisher 变换值。 FISHERINV(y) 返回 Fisher 逆变换值，如果 y = FISHER(x)，则 FISHERINV(y) = x。 PERMUT(number,number_chosen) 返回从给定元素数目的集合中选取若干元素的排列数。 POISSON(x,mean,cumulative) 返回泊松分布。泊松分布通常用于预测一段时间内事件发生的次数。 WEIBULL(x,alpha,beta,cumulative) 返回韦伯分布。使用此函数可以进行可靠性分析，比如计算设备的平均故障时间。 ZTEST(array,μ0,sigma) 返回 z 检验的单尾概率值。 ADDRESS(row_num,column_num,abs_num,a1,sheet_text) 按照给定的行号和列标，返回一个文本类型的单元格地址。 AREAS(reference) 返回引用中包含的区域个数。（区域表示连续的单元格区域或某个单元格） CHOOSE(index_num,value1,value2,...) 根据给定的索引值，返回数值参数列表中对应的数值。 COLUMN(reference) 返回指定引用的列号。 COLUMNS(array) 返回引用或数组的列数。 HLOOKUP(lookup_value,table_array,row_index_num,range_lookup) 在表格或数值数组的首行查找指定的数值，并由此返回表格或数组当前列中指定行处的数值。（默认情况下，表是升序的） INDEX(array,row_num,column_num) 返回数据清单或数组中的元素值，此元素由行序号和列序号的索引值给定。 INDIRECT(ref_text,a1) 返回由文本字符串所指定的引用。 LOOKUP(lookup_value,lookup_vector,result_vector)；LOOKUP(lookup_value,array) 从单行或单列或从数组中查找一个值。 MATCH(lookup_value,lookup_array,match_type) 返回在指定方式下与指定项匹配的数组中元素的相应位置。 OFFSET(reference,rows,cols,height,width) 以指定的引用为参照系，通过给定的偏移量、行数及列数返回一个新的引用。 ROW(reference) 返回指定引用的行号。 ROWS(array) 返回引用或数组的行数。 VLOOKUP(lookup_value,table_array,col_index_num,range_lookup) 在表格或数值数组的首列查找指定的数值，并由此返回表格或数组当前行中指定列处的数值。（默认情况下，表是升序的） ASC(text) 对于双字节字符集 (DBCS) 语言，将全角（双字节）英文字符更改为半角（单字节）字符。 CHAR(number) 返回数字代码所对应的字符。（指定的代码对应于计算机当前使用的字符集） CODE(text) 返回文本字符串中第一个字符的数字代码。（返回的代码对应于计算机当前使用的字符集） CONCATENATE (text1,text2,...) 将多个文本字符串合并成一个文本字符串。 EXACT(text1,text2) 比较两个字符串是否完全相同（区分大小写），返回 TRUE 或 FALSE。 FIND(find_text,within_text,start_num) 返回一个字符串在另一个字符串中出现的起始位置。（区分大小写，且不允许使用通配符） LEFT(text,num_chars) 从一个文本字符串的第一个字符开始返回指定个数的字符。 LEN(text) 返回文本字符串中的字符个数。 LOWER(text) 将文本字符串转换成字母全部小写形式。 LTRIM(text) 清除文本中左边的空格。 MID(text,start_num,num_chars) 从文本字符串中指定的位置开始，返回指定长度的字符串。 REPLACE(old_text,start_num,num_chars,new_text) 将一个字符串中的部分字符用另一字符串替换。 REPT(text,number_times) 根据指定的次数重复显示文本。可以通过函数 REPT 来不断地重复显示某一文本字符串，对单元格进行填充。 RIGHT(text,num_chars) 从一个文本字符串的最后一个字符开始返回指定个数的字符。 RTRIM(text) 清除文本中右边的空格。 SEARCH(find_text,within_text,start_num) 返回一个指定字符或文本字符串在字符串中第一次出现的位置，从左到右查找。（忽略大小写） SUBSTITUTE(text,old_text,new_text,instance_num) 将字符串中的部分字符替换成新字符串。 TEXT(value,format_text) 将数值转换为按指定数字格式表示的文本。 TRIM(text) 除了单词之间的单个空格外，清除文本中所有的空格。 UPPER(text) 将文本字符串转换成字母全部大写形式。 VALUE(text) 将代表数字的文本字符串转换成数字。 PROPER(text) 将一个文本字符串的首字母及任何非字母字符之后的首字母转换成大写，将其余的字母转换成小写。 DOLLAR(number,decimals) 按照货币格式（美元）及给定的小数位数，将数值转换成文本。 RMB(number,decimals) 按照货币格式（人民币）及给定的小数位数，将数值转换成文本。 AND(logical1,logical2, ...) 在参数组中，任何一个参数逻辑值为 FALSE，即返回 FALSE；只有当所有参数逻辑值为 TRUE，才返回 TRUE。 FALSE() 返回逻辑值 FALSE。 IF(logical_test,value_if_true,value_if_false) 判断一个条件是否满足：如果满足返回一个值，如果不满足则返回另外一个值。 NOT(logical) 对参数逻辑值求反。（当要确保一个值不等于某一特定值时，可以使用 NOT 函数） OR(logical1,logical2,...) 在参数组中，任何一个参数逻辑值为 TRUE，即返回 TRUE；只有当所有参数逻辑值为 FALSE，才返回 FALSE。 TRUE() 返回逻辑值 TRUE。 ERROR.TYPE(error_val) 返回与错误值对应的数字；如果没有错误，则返回 #N/A。 FORMULA(Ref) 返回单元格内的公式。 ISBLANK(value) 检查引用是否为空单元格，返回 TRUE 或 FALSE。 ISERR(value) 检测一个值是否为 #N/A 以外的错误值，返回 TRUE 或 FALSE。 ISERROR(value) 检测一个值是否为错误值，返回 TRUE 或 FALSE。 ISEVEN(value) 检测一个值是否为偶数，返回 TRUE 或 FALSE。 ISLOGICAL(value) 检测一个值是否为逻辑值，返回 TRUE 或 FALSE。 ISNA(value) 检测一个值是否为 #N/A，返回 TRUE 或 FALSE。 ISNONTEXT(value) 检测一个值是否为不是文本，返回 TRUE 或 FALSE；值为空白单元格时，返回 TRUE。 ISNUMBER(value) 检测一个值是否为数值，返回 TRUE 或 FALSE。 ISODD(value) 检测一个值是否为奇数，返回 TRUE 或 FALSE。 ISREF(value) 检测一个值是否为引用，返回 TRUE 或 FALSE。 ISTEXT(value) 检测一个值是否为文本，返回 TRUE 或 FALSE。 N(value) 返回转化为数值后的值。 NA() 返回错误值 #N/A。错误值 #N/A 表示“无法得到有效值”。 TYPE(value) 返回数值的类型。 DB(cost,salvage,life,period,month) 使用固定余额递减法，计算一笔资产在给定期间内的折旧值。 DDB(cost,salvage,life,period,factor) 使用双倍余额递减法或其他指定方法，计算一笔资产在给定期间内的折旧值。 FV(rate,nper,pmt,pv,type) 基于固定利率及等额分期付款方式，返回某项投资的未来值。 IPMT(rate,per,nper,pv,fv,type) 基于固定利率及等额分期付款方式，返回给定期数内对投资的利息偿还额。 IRR(values,guess) 返回由数值代表的一组现金流的内部收益率。 ISPMT(rate,per,nper,pv) 计算特定投资期内要支付的利息。 MIRR(values,finance_rate,reinvest_rate) 返回某一连续期间内现金流的修正内部收益率。函数 MIRR 同时考虑了投资的成本和现金再投资的收益率。 NPER(rate, pmt, pv, fv, type) 基于固定利率及等额分期付款方式，返回某项投资的总期数。 NPV(rate,value1,value2, ...) 通过使用贴现率以及一系列未来支出（负值）和收入（正值），返回一项投资的净现值。 PMT(rate,nper,pv,fv,type) 基于固定利率及等额分期付款方式，返回贷款的每期付款额。 PPMT(rate,per,nper,pv,fv,type) 基于固定利率及等额分期付款方式，返回投资在某一给定期间内的本金偿还额。 PV(rate,nper,pmt,fv,type) 返回投资的现值。现值为一系列未来付款的当前值的累积和。 RATE(nper,pmt,pv,fv,type,guess) 返回年金的各期利率。 SLN(cost,salvage,life) 返回某项资产在一个期间中的线性折旧值。 SYD(cost,salvage,life,per) 返回某项资产按年限总和折旧法计算的指定期间的折旧值。 VDB(cost,salvage,life,start_period,end_period,factor,no_switch) 使用双倍余额递减法或其他指定的方法，返回指定的任何期间内（包括部分期间）的资产折旧值。函数 VDB 代表可变余额递减法。 FACTDOUBLE(number) 返回数字的双倍阶乘。 MROUND(number,multiple) 返回参数按指定基数舍入后的数值。 MULTINOMIAL(number1,number2, ...) 返回参数和的阶乘与各参数阶乘乘积的比值。 QUOTIENT(numerator,denominator) 返回商的整数部分，该函数可用于舍掉商的小数部分。 BESSELI(x,n) 返回修正 Bessel 函数值，它与用纯虚数参数运算时的 Bessel 函数值相等。 BESSELJ(x,n) 返回 Bessel 函数值。 BESSELK(x,n) 返回修正 Bessel 函数值，它与用纯虚数参数运算时的 Bessel 函数值相等。 BESSELY(x,n) 返回 Bessel 函数值，也称为 Weber 函数或 Neumann 函数。 BIN2DEC(number) 将二进制数转化为十进制数。 BIN2HEX(number,places) 将二进制数转化为十六进制数。 BIN2OCT(number,places) 将二进制数转化为八进制数。 COMPLEX(real_num,i_num,suffix) 将实系数和虚系数转换为x+yi或x+yj的复数形式。 CONVERT(number,from_unit,to_unit) 将数值从一个度量系统转换到另一个度量系统。 DEC2BIN(number,places) 将十进制数转化为二进制数。 DEC2HEX(number,places) 将十进制数转化为十六进制数。 DEC2OCT(number,places) 将十进制数转化为八进制数。 DELTA(number1,number2) 测试两个数值是否相等。 ERF(lower_limit,upper_limit) 返回误差函数在上下限之间的积分。 ERFC(x) 返回从 x 到 ∞（无穷）积分的 ERF 函数的余误差函数。 GESTEP(number,step) 如果 Number 大于等于 step，返回 1，否则返回 0。 HEX2BIN(number,places) 将十六进制数转化为二进制数。 HEX2DEC(number) 将十六进制数转化为十进制数。 HEX2OCT(number,places) 将十六进制数转化为八进制数。 IMAGINARY(inumber) 返回以x+yi或x+yj文本格式表示的复数的虚系数。 IMARGUMENT(inumber) 计算指定复数对应的角度θ，θ用弧度表示。 IMCONJUGATE(inumber) 返回形式为x+yi或x+yj的复数的共轭复数。 IMCOS(inumber) 返回形式为x+yi或x+yj的复数的余弦值。 IMDIV(inumber1,inumber2) 计算x+yi或x+yj这两个形式表达的复数的商。 IMEXP(inumber) 计算以x+yi或x+yj形式表达的复数的指数。 IMLN(inumber) 返回形式为x+yi或x+yj的复数的自然对数。 IMLOG10(inumber) 返回形式为x+yi或x+yj的复数的常用对数（底数为10）。 IMLOG2(inumber) 返回形式为x+yi或x+yj的复数的常用对数（底数为2）。 IMPOWER(inumber,number) 计算以x+yi或x+yj形式表达的复数的整数幂。 IMPRODUCT(inumber1,inumber2,...) 计算以x+yi或x+yj形式表达的复数的乘积。 IMREAL(inumber) 返回形式为x+yi或x+yj的复数的实系数。 IMSIN(inumber) 返回形式为x+yi或x+yj的复数的正弦值。 IMSQRT(inumber) 返回形式为x+yi或x+yj的复数的平方根。 IMSUB(inumber1, inumber2) 返回两个复数的差值。 IMSUM(inumber1,inumber2,…) 返回形式为x+yi或x+yj的复数的和。 OCT2BIN(number,places) 将八进制数转化为二进制数。 OCT2DEC(number) 将八进制数转化为十进制数。 OCT2HEX(number,places) 将八进制数转化为十六进制数。 IMABS(inumber) 返回复数的绝对值（又叫模数）。 FIXED(number,decimals,no_commas) 用定点小数格式将数值舍入成特定位数并返回带或不带逗号的文本。 LENB(text) 返回文本中的字符个数。与双字节字符集(DBCS)一起使用 FINDB(find_text,within_text,start_num) 在一文字串中搜索另一文字串的起始位置。FINDB区分大小写，且不允许使用通配符，与双字节字符集(DBCS)一起使用 LEFTB(text,num_bytes) 返回字符串最左边指定数目的字符。与双字节字符集(DBCS)一起使用 MIDB(text,start_num,num_bytes) 从文本字符串中指定的位置开始，返回指定长度的字符串。与双字节字符集(DBCS)一起使用 REPLACEB(old_text,start_num,num_bytes,new_text) 将一个字符串中的部分字符用另一字符串替换。与双字节字符集(DBCS)一起使用 RIGHTB(text,num_bytes) 从一个文本字符串的最后一个字符开始返回指定个数的字符。与双字节字符集(DBCS)一起使用 SEARCHB(find_text,within_text,start_num) 返回一个指定字符或文本字符串在字符串中第一次出现的位置，从左到右查找（忽略大小写）。与双字节字符集(DBCS)一起使用 WIDECHAR(text) 将单字节字符串转换成双字节字符串。与双字节字符集(DBCS)一起使用 CLEAN(text) 删除文本中的所有非打印字符 T(value) 返回数值引用的文本 DAYS360(start_date,end_date,method) 按每年 360 天返回两个日期间相差的天数(每月 30 天) EOMONTH(start_date,months) 返回一串日期，表示指定月数之前或之后的月份的最后一天 EDATE(start_date,months) 返回代表指定日期 (start_date) 之前或之后用于指示月份数的日期。使用函数 EDATE 可以计算与发行日处于一月中同一天的到期日的日期。 WORKDAY(start_date,days,holidays) 返回某日期（起始日期）之前或之后相隔指定工作日的某一日期。工作日不包括周末和专门指定的假日。在计算发票到期日、预期交货时间或工作天数时，可以使用函数 WORKDAY 来扣除周末或假日. YEARFRAC(start_date,end_date,basis) 返回开始日期和终止日期之间的天数占全年天数的百分比。使用YEARFRAC工作函数可判别某一特定条件下全年效益或债务的比例 TRANSPOSE(array) 返回转置单元格区域，即将一行单元格区域转置成一列单元格区域，反之亦然。在行列数分别与数组的行列数相同的区域中，必须将 TRANSPOSE 输入为数组公式。使用 TRANSPOSE 可在工作表中转置数组的垂直和水平方向。 MMULT(array1,array2) 返回两数组的矩阵乘积，结果矩阵的行数与第一组数值的行数相同，矩阵的列数与第二组数值的列数相同 MINVERSE(array) MDETERM(array) 返回一个数组的矩阵行列式的值。 返回数组矩阵的逆距阵。 DCOUNT(database,field,criteria) 返回数据库或列表的列中满足指定条件并且包含数字的单元格个数。 DCOUNTA(database,field,criteria) 返回数据库或列表的列中满足指定条件的非空单元格个数。 DAVERAGE(database,field,criteria) 返回列表或数据库中满足指定条件的列中数值的平均值。 DGET(database,field,criteria) 从列表或数据库的列中提取符合指定条件的单个值。 DMAX(database,field,criteria) 返回列表或数据库的列中满足指定条件的最大数值。 DMIN(database,field,criteria) 返回列表或数据库的列中满足指定条件的最小数字。 DPRODUCT(database,field,criteria) 返回列表或数据库的列中满足指定条件的数值的乘积。 DSTDEV(database,field,criteria) 将列表或数据库的列中满足指定条件的数字作为一个样本，估算样本总体的标准偏差。 DSTDEVP(database,field,criteria) 将列表或数据库的列中满足指定条件的数字作为样本总体，计算总体的标准偏差。 DSUM(database,field,criteria) 返回列表或数据库的列中满足指定条件的数字之和。 DVAR(database,field,criteria) 将列表或数据库的列中满足指定条件的数字作为一个样本，估算样本总体的方差。 DVARP(database,field,criteria) 将列表或数据库的列中满足指定条件的数字作为样本总体，计算总体的方差。 LOGEST(known_y&apos;s,known_x&apos;s,const,stats) 在回归分析中，计算最符合数据的指数回归拟合曲线，并返回描述该曲线的数值数组。因为此函数返回数值数组，故必须以数组公式的形式输入。 TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const) 根据现有的数据预测线性增长值。 ACCRINTM(issue,settlement,rate,par,basis) 返回到期一次性付息有价证券的应计利息。 DATEDIF(start_date,end_date,unit) 计算两个日期之间的天数、月数或年数。 HYPERLINK(link_location, friendly_name) 创建一个快捷方式（跳转），用以打开存储在网络服务器、Intranet 或 Internet 中的文件。 ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis) 返回定期付息有价证券的应计利息。 CELL(info_type, reference) 返回某一引用区域的左上角单元格的格式、位置或内容等信息。 EVALUATE(formula_text) 对以文字表示的一个公式或表达式求值，并返回结果。 SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...) 对区域中满足多个条件的单元格求和。 COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…) 计算多个区域中满足给定条件的单元格的个数。 AVERAGEIF(range,criteria,average_range) 返回某个区域内满足给定条件的所有单元格的算术平均值。 AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…) 返回满足多重条件的所有单元格的算术平均值。 IFERROR(value,value_if_error) 如果公式的计算结果错误，则返回您指定的值；否则返回公式的结果。 DAY(serial_number) PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <translation>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</translation>
     </message>
@@ -5871,7 +5871,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
         <source>Microsoft Excel 2007/2010 File(*.xlsx,*.xlsm)</source>
         <translation>Microsoft Excel 2007/2010 文件(*.xlsx; *.xlsm)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file type you selected does not support workbooks that contain multiple worksheets.
 
 •If you only want to save the active sheet, click OK.
@@ -5881,7 +5881,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
 ·如果您只要保存活动工作表，请单击“确定”按钮。
 ·如果您想要保存所有工作表，请使用不同的文件名将其分别保存，或选择一种支持多工作表的文件类型。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file type you specified may not support some features of this file. Do you want to keep the workbook in this format?
 
 •If you want to keep this format, and give up the incompatible features, click Yes.
@@ -5891,72 +5891,72 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
 ·如要保持这种格式，去掉所有不兼容的功能，请单击“是”。
 ·如要保留这些功能，请单击“否”。然后再用最新的 WPS表格 格式保存一份副本。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · AutoShapes, other objects, or charts
 </source>
         <translation> · 自选图形、其他对象或图表
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · External sheet reference
 </source>
         <translation> · 外部工作表引用
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · File encryption
 </source>
         <translation> · 文件加密</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Range-based user permissions
 </source>
         <translation> · 基于区域的用户权限
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Macro
 </source>
         <translation> · 宏
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · PivotTable
 </source>
         <translation> · 数据透视表
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Import Data
 </source>
         <translation> · 导入数据
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Multiple windows
 </source>
         <translation> · 多窗口
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Comments
 </source>
         <translation> · 批注
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Workbook
 </source>
         <translation> · 保护工作簿
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Sheet
 </source>
         <translation> · 保护工作表
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>A formula or sheet you want to move or copy contains the name &apos;%s&apos;,which already exists on the destination worksheet.Do you want to use this version of the name?
 
 ·To use the name as defined in the destination sheet,click Yes.
@@ -5966,7 +5966,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
 ·要保留目标工作表中的名称定义，请单击“是”按钮。
 ·要重新定义目标工作表中的名称，使之与源工作表中的名称引用的区域相一致，单击“否”按钮，然后在“名称冲突”对话框中输入新名称。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by ET,and must be modified.
 
 ·To use the name %s,click Yes.
@@ -6009,7 +6009,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>/</source>
         <translation>-</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
         <translation>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</translation>
     </message>
@@ -9386,7 +9386,7 @@ Please make sure the selected regions are continuous cells.</source>
         <source> is invalid for your system, do you want to continue?</source>
         <translation> 对您的系统无效，是否继续使用该字体?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Kingsoft Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
 
 •Click a single cell, and then paste.
@@ -9396,7 +9396,7 @@ Please make sure the selected regions are continuous cells.</source>
 . 单击某个单元格，然后重新粘贴。
 . 选定一矩形区域，使该区域与原区域的大小和形状完全一致，然后重新粘贴。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selection is invalid.
 There are several possible reasons:
 
@@ -9412,7 +9412,7 @@ There are several possible reasons:
 . 如果所要指定的名称位于行或列中，操作时必须多选一行或一列．
 . 如果单击“数据”菜单中的“模拟运算表”命令，选定区域必须为单一的矩形区域，并且行列数不能少于一。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The formula you typed contains errors. Kingsoft Spreadsheets will automatically correct it as: 
 &apos;%s
 •If you want to accept the correction, click OK.
@@ -9424,7 +9424,7 @@ There are several possible reasons:
 · 要关闭此信息框，由您自己来更正公式，请单击“取消”。
 · 如果不是输入公式，请避免在开头输入等号(=)、加号(+)或减号(-)。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The constant character string in the formula is too long. Kingsoft Spreadsheets will automatically correct it as:
 &apos;%s
 • To accept the correction, click Yes.
@@ -9436,7 +9436,7 @@ There are several possible reasons:
 · 要关闭此信息框，由您自己来更正公式，请单击“取消”。
 · 如果不是输入公式，请避免在开头输入等号(=)、加号(+)或减号(-)。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Kingsoft Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
 
 •If you do not want to  create the circular reference, click OK, and correct the formula.
@@ -9446,7 +9446,7 @@ There are several possible reasons:
 · 如属意外，请返回上一步操作的单元格改正公式。
 · 如果您期望通过循环引用返回正确的计算结果，请选择“选项”中的“迭代计算”。</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>μ0</source>
         <translation>假设总体平均值</translation>
     </message>
@@ -9454,7 +9454,7 @@ There are several possible reasons:
         <source>The entered value is invalid.
 
 The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished">输入值非法。
+        <translation type="obsolete">输入值非法。
 
 其他用户已经限定了可以输入单元格的数值。</translation>
     </message>
@@ -9462,7 +9462,7 @@ The values which can be typed here is restricted by other users.</source>
         <source>
 
 Continue ?</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 
 是否继续？</translation>
     </message>
@@ -11563,7 +11563,7 @@ the category you want, and then choose the other options.</source>
 %s The sort reference you entered is not within the current selection.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Only one picture can be inserted in each section of the %s.
 
 ·To replace existing picture, click OK.

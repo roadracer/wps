@@ -3287,11 +3287,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(none)</source>
+        <source>Hearder/Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Header/Footer</source>
+        <source>(none)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7472,8 +7472,36 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comma[0]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currency[0]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Percent</source>
-        <translation type="obsolete">Prozent</translation>
+        <translation type="unfinished">Prozent</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Followed Hyperlink</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Number Format</source>

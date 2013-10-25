@@ -3429,11 +3429,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(none)</source>
+        <source>Hearder/Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Header/Footer</source>
+        <source>(none)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8001,11 +8001,11 @@ t</source>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="obsolete">桁区切り</translation>
+        <translation>桁区切り</translation>
     </message>
     <message>
         <source>Comma[0]</source>
-        <translation type="obsolete">桁区切り[0]</translation>
+        <translation>桁区切り[0]</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -8017,11 +8017,11 @@ t</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="obsolete">通貨</translation>
+        <translation>通貨</translation>
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation type="obsolete">通貨[0]</translation>
+        <translation>通貨[0]</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -8085,7 +8085,7 @@ t</source>
     </message>
     <message>
         <source>Followed Hyperlink</source>
-        <translation type="obsolete">以下ハイパーリンク</translation>
+        <translation>以下ハイパーリンク</translation>
     </message>
     <message>
         <source>Font</source>
@@ -8214,7 +8214,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="obsolete">ハイパーリンク</translation>
+        <translation>ハイパーリンク</translation>
     </message>
     <message>
         <source>IceBlue</source>
@@ -8314,7 +8314,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">標準</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>OceanBlue</source>
@@ -8338,7 +8338,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Percent</source>
-        <translation type="obsolete">パーセント</translation>
+        <translation>パーセント</translation>
     </message>
     <message>
         <source>Periwinkle</source>

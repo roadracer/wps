@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
-<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -5708,7 +5707,7 @@ Other Window</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished">关闭窗口</translation>
+        <translation type="obsolete">关闭窗口</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -5776,7 +5775,7 @@ Other Window</source>
     </message>
     <message>
         <source>Split</source>
-        <translation type="unfinished">拆分</translation>
+        <translation type="obsolete">拆分</translation>
     </message>
     <message>
         <source>Switch Windows</source>
@@ -5830,11 +5829,11 @@ Other Window</source>
     <name>ongmani.ct_view.window</name>
     <message>
         <source>Close Window</source>
-        <translation type="obsolete">关闭当前窗口</translation>
+        <translation>关闭当前窗口</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation type="obsolete">拆分窗口</translation>
+        <translation>拆分窗口</translation>
     </message>
 </context>
 <context>

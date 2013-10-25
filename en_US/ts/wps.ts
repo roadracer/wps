@@ -6829,7 +6829,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>multiple, 2, 0.06, 132, 0.5</source>
-        <translation type="unfinished">Multiple, 2, 0.06, 132, 0.5</translation>
+        <translation type="obsolete">Multiple, 2, 0.06, 132, 0.5</translation>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 1</source>
@@ -6845,6 +6845,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiple, 2, 0.06, 132, 0.5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
