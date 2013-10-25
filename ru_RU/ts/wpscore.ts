@@ -1619,10 +1619,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.docx)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>*.wps;*.wpt;*.doc;*.dot; *.docx</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3203,31 +3199,6 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
-
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading1...........................1
-  Heading2.........................3
-    Heading3.......................5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Numbered item</source>
         <comment>TxCrossRefType</comment>
         <translation type="unfinished"></translation>
@@ -3266,6 +3237,31 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <source>Table</source>
         <comment>TxCrossRefType</comment>
         <translation type="unfinished">Таблица</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for page setup?
+This change will affect all new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all the new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
+
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................3
+    Heading3.......................5</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(none)

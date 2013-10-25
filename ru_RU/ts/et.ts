@@ -242,6 +242,9 @@ condition is true: </source>
         <source>Activate</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>KSelectSheetPage</name>
     <message>
         <source>&amp;Activate:</source>
         <translation type="unfinished"></translation>
@@ -3163,10 +3166,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hearder/Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(none)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3268,6 +3267,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Print...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header/Footer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7344,38 +7347,6 @@ t</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comma</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comma[0]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency[0]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Percent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Followed Hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

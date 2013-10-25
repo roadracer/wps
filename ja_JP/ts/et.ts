@@ -292,6 +292,9 @@ condition is true: </source>
         <source>OK</source>
         <translation type="obsolete">OK</translation>
     </message>
+</context>
+<context>
+    <name>KSelectSheetPage</name>
     <message>
         <source>&amp;Activate:</source>
         <translation type="unfinished"></translation>
@@ -3429,11 +3432,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hearder/Footer</source>
+        <source>(none)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(none)</source>
+        <source>Header/Footer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8001,11 +8004,11 @@ t</source>
     </message>
     <message>
         <source>Comma</source>
-        <translation>桁区切り</translation>
+        <translation type="obsolete">桁区切り</translation>
     </message>
     <message>
         <source>Comma[0]</source>
-        <translation>桁区切り[0]</translation>
+        <translation type="obsolete">桁区切り[0]</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -8017,11 +8020,11 @@ t</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation>通貨</translation>
+        <translation type="obsolete">通貨</translation>
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation>通貨[0]</translation>
+        <translation type="obsolete">通貨[0]</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -8085,7 +8088,7 @@ t</source>
     </message>
     <message>
         <source>Followed Hyperlink</source>
-        <translation>以下ハイパーリンク</translation>
+        <translation type="obsolete">以下ハイパーリンク</translation>
     </message>
     <message>
         <source>Font</source>
@@ -8214,7 +8217,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation>ハイパーリンク</translation>
+        <translation type="obsolete">ハイパーリンク</translation>
     </message>
     <message>
         <source>IceBlue</source>
@@ -8314,7 +8317,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>OceanBlue</source>
@@ -8338,7 +8341,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Percent</source>
-        <translation>パーセント</translation>
+        <translation type="obsolete">パーセント</translation>
     </message>
     <message>
         <source>Periwinkle</source>

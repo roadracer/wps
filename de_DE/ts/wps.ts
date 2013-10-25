@@ -5823,10 +5823,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Multiple, 2, 0.06, 132, 0.5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Snap to grid &amp;when document grid is defined</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5960,6 +5956,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Tabs...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

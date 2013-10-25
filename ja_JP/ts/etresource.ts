@@ -5771,7 +5771,7 @@ Other Window</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>元に戻す</translation>
+        <translation type="obsolete">元に戻す</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -5839,7 +5839,7 @@ Other Window</source>
     </message>
     <message>
         <source>Split</source>
-        <translation>分割</translation>
+        <translation type="obsolete">分割</translation>
     </message>
     <message>
         <source>Switch Windows</source>
@@ -5886,6 +5886,17 @@ Other Window</source>
     <name>ongmani.ct_view.COMAddIns</name>
     <message>
         <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_view.window</name>
+    <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

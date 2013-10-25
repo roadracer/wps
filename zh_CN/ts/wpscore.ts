@@ -1964,10 +1964,6 @@ Type a different name for the document you want to save.
         <source>Graphic objects can not be placed in a text box, label annotations, footnotes or endnotes.</source>
         <translation>不可将图形对象置于文本框、标注批注、脚注或尾注中。&quot;</translation>
     </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.docx)</source>
-        <translation></translation>
-    </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Writer is opening this file.
 Please try one of the following.
