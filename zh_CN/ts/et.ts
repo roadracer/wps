@@ -279,7 +279,14 @@ condition is true: </source>
     </message>
     <message>
         <source>&amp;Activate:</source>
-        <translation>活动文档(&amp;A):</translation>
+        <translation type="obsolete">活动文档(&amp;A):</translation>
+    </message>
+</context>
+<context>
+    <name>KSelectSheetPage</name>
+    <message>
+        <source>&amp;Activate:</source>
+        <translation type="unfinished">活动文档(&amp;A):</translation>
     </message>
 </context>
 <context>
@@ -2374,7 +2381,7 @@ printer and your screen.</source>
         <source>&amp;Search:</source>
         <translation>查找函数(&amp;S):</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
