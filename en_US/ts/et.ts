@@ -3384,7 +3384,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hearder/Footer</source>
-        <translation>Header and Footer</translation>
+        <translation type="obsolete">Header and Footer</translation>
     </message>
     <message>
         <source>Hori&amp;zontally</source>
@@ -3492,6 +3492,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;Blank&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header/Footer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7906,27 +7910,11 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Comma</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comma[0]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Context Reading Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Coral</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency[0]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7987,10 +7975,6 @@ t</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Followed Hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8114,10 +8098,6 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>IceBlue</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8218,10 +8198,6 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Normal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OceanBlue</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8239,10 +8215,6 @@ t</source>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Percent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
