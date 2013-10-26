@@ -192,14 +192,14 @@
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver en paralelo</translation>
+        <translation>Ver lado por lado</translation>
     </message>
 </context>
 <context>
     <name>classics.control_tool_box</name>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casilla de verificación</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de desplazamiento</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -522,7 +522,7 @@
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -582,7 +582,7 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar Clip Art</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -654,11 +654,11 @@
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar objeto</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Organizar</translation>
     </message>
     <message>
         <source>Oval</source>
@@ -666,7 +666,7 @@
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -1221,7 +1221,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>Outline Level</source>
@@ -1245,7 +1245,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Show Text Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar formato de texto</translation>
     </message>
     <message>
         <source>Update ToC</source>
@@ -1407,7 +1407,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar vista preliminar</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -1494,7 +1494,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisores</translation>
     </message>
     <message>
         <source>Show</source>
@@ -1502,15 +1502,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todas las revisiones en línea</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar revisiones en globos</translation>
     </message>
     <message>
         <source>Show the Revisor Information in the Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar la información del revisor en el globo</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1518,7 +1518,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Use Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar globos</translation>
     </message>
 </context>
 <context>
@@ -1648,11 +1648,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -1684,7 +1684,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Sum</translation>
     </message>
     <message>
         <source>Switch Language</source>
@@ -1699,7 +1699,7 @@ Merged Data</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar interfaz de usuario</translation>
     </message>
 </context>
 <context>
@@ -1778,7 +1778,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -1786,7 +1786,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -1826,7 +1826,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Sum</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -2052,7 +2052,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinar hacia arriba</translation>
     </message>
     <message>
         <source>Square</source>
@@ -2132,7 +2132,7 @@ Merged Data</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto vertical de WordArt</translation>
     </message>
 </context>
 <context>
@@ -2211,7 +2211,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de tabla</translation>
     </message>
 </context>
 <context>
@@ -2226,7 +2226,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casilla de verificación</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2246,11 +2246,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Control de herramientas</translation>
     </message>
     <message>
         <source>ControlProperties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades del control</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -2286,7 +2286,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de desplazamiento</translation>
     </message>
     <message>
         <source>Security</source>
@@ -2522,7 +2522,7 @@ On</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -2534,7 +2534,7 @@ On</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -2618,7 +2618,7 @@ On</source>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar formas</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -2690,7 +2690,7 @@ On</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2949,7 +2949,7 @@ On</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir desde Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -2977,7 +2977,7 @@ On</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprar número de serie</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -3063,7 +3063,7 @@ On</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar Clip Art</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3242,7 +3242,7 @@ On</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -3557,7 +3557,7 @@ Painter</source>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto del archivo</translation>
     </message>
     <message>
         <source>Form Field Option</source>
@@ -3601,19 +3601,19 @@ Painter</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen</translation>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen desde archivo</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen desde escáner</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar escáner</translation>
     </message>
     <message>
         <source>Links</source>
@@ -3830,7 +3830,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"></translation>
+        <translation>Colapsar</translation>
     </message>
     <message>
         <source>Demote</source>
@@ -3854,11 +3854,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>Outline Level</source>
@@ -3989,7 +3989,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -4017,7 +4017,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de Genko</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -4272,7 +4272,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Document Gridlines</source>
@@ -4554,7 +4554,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -4682,7 +4682,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -4925,7 +4925,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar vista preliminar</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -5188,7 +5188,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisores</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5196,15 +5196,15 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todas las revisiones en línea</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>mostrar la información del revisor en el globo</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar revisiones en globos</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -5212,7 +5212,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Use Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar globos</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -5870,7 +5870,7 @@ On/Off</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -5882,7 +5882,7 @@ On/Off</source>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -5959,7 +5959,7 @@ Cells</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Sum</translation>
     </message>
     <message>
         <source>Table</source>
@@ -5971,7 +5971,7 @@ Cells</source>
     </message>
     <message>
         <source>TableAutoAdjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto ajustar tabla</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -6031,7 +6031,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Compared Side By Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparación lado a lado</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6043,7 +6043,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Document View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista de documento</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -6151,7 +6151,7 @@ Other Windows</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="obsolete">Ver en paralelo</translation>
+        <translation type="obsolete">Ver lado por lado</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -6727,7 +6727,7 @@ On</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -6859,7 +6859,7 @@ On</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -6923,7 +6923,7 @@ On</source>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinar hacia arriba</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -7043,7 +7043,7 @@ On</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto vertical de WordArt</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
@@ -7114,11 +7114,11 @@ On</source>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>No has iniciado sesión</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir desde la nube</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -7138,7 +7138,7 @@ On</source>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>openwebweibo</source>
@@ -7201,7 +7201,7 @@ On</source>
     </message>
     <message>
         <source>Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto respaldo</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -7313,7 +7313,7 @@ On</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -7610,7 +7610,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto del archivo</translation>
     </message>
     <message>
         <source>First Line Indent</source>
@@ -7658,15 +7658,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórmula</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Desde archivo</translation>
     </message>
     <message>
         <source>From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Desde escáner</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -7678,7 +7678,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de Genko</translation>
     </message>
     <message>
         <source>Go to Endnote</source>
@@ -7738,7 +7738,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar diseño de párrafo</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -7762,7 +7762,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar Clip Art</translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -7818,11 +7818,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar sesión</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -7842,7 +7842,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -7850,7 +7850,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -7866,7 +7866,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo desde otras plantillas</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -7882,7 +7882,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>No has iniciado sesión</translation>
     </message>
     <message>
         <source>Number</source>
@@ -7906,7 +7906,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir desde Klive</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -7918,7 +7918,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir desde la nube</translation>
     </message>
     <message>
         <source>Option</source>
@@ -7930,7 +7930,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Organizar</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -8218,7 +8218,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Sum</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -8254,7 +8254,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientación del texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -8290,7 +8290,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver en paralelo</translation>
+        <translation>Ver lado por lado</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -8318,7 +8318,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>openwebweibo</source>
@@ -8333,7 +8333,7 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar interfaz de usuario</translation>
     </message>
     <message>
         <source>true</source>
@@ -8426,7 +8426,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casilla de verificación</translation>
     </message>
     <message>
         <source>Close</source>
@@ -8450,7 +8450,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Control de herramientas</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -8486,11 +8486,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de desplazamiento</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Seguridad</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -8689,7 +8689,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -8697,7 +8697,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -8761,7 +8761,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar formas</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -8825,7 +8825,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -9000,7 +9000,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -9372,7 +9372,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -9666,7 +9666,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto del archivo</translation>
     </message>
     <message>
         <source>Form Field Option</source>
@@ -9710,15 +9710,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen desde archivo</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen desde escáner</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar escáner</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -9944,7 +9944,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"></translation>
+        <translation>Colapsar</translation>
     </message>
     <message>
         <source>Demote</source>
@@ -9968,11 +9968,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>Outline Level</source>
@@ -10103,7 +10103,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -10131,7 +10131,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de Genko</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -10437,39 +10437,39 @@ Merged Data</source>
     <name>rainbow.ct_picturetools</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -10577,7 +10577,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -10701,7 +10701,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -10944,7 +10944,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar vista preliminar</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -10991,7 +10991,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas al pie</translation>
     </message>
     <message>
         <source>Insert
@@ -11136,7 +11136,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar todos los comentarios del documento</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -11184,7 +11184,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario anterior</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -11212,7 +11212,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisores</translation>
     </message>
     <message>
         <source>Show</source>
@@ -11220,15 +11220,15 @@ and Endnote</source>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todas las revisiones en línea</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>mostrar la información del revisor en el globo</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar revisiones en globos</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -11236,7 +11236,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Use Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar globos</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -11849,7 +11849,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -11861,7 +11861,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Repeat Headings</source>
@@ -11917,7 +11917,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Sum</translation>
     </message>
     <message>
         <source>Table</source>
@@ -11981,7 +11981,7 @@ Other Window</source>
     </message>
     <message>
         <source>Document View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista de documento</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -12089,7 +12089,7 @@ Other Window</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver en paralelo</translation>
+        <translation>Ver lado por lado</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -12651,7 +12651,7 @@ Other Window</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual tamaño</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -12779,7 +12779,7 @@ Other Window</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -12843,7 +12843,7 @@ Other Window</source>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinar hacia arriba</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -12963,7 +12963,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto vertical de WordArt</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
@@ -13014,11 +13014,11 @@ Other Window</source>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"></translation>
+        <translation>laboratorio</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -13026,7 +13026,7 @@ Other Window</source>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>No has iniciado sesión</translation>
     </message>
     <message>
         <source>Online Documents</source>
@@ -13034,7 +13034,7 @@ Other Window</source>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir desde la nube</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -13415,7 +13415,7 @@ This option is available when grid is defined.</source>
     <name>tips.BackgroundShapeFillColor</name>
     <message>
         <source>Choose a color for the background of the page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona un color para el fondo de la página.</translation>
     </message>
     <message>
         <source>Page Color</source>
@@ -13430,7 +13430,7 @@ This option is available when grid is defined.</source>
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica el formato de negrita al texto seleccionado.</translation>
     </message>
 </context>
 <context>
@@ -13473,7 +13473,9 @@ This option is available when grid is defined.</source>
         <source>Start a bulleted list.
 
 Click the arrow to choose different bullet styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia una lista con viñetas.
+
+Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</translation>
     </message>
 </context>
 <context>
@@ -13499,7 +13501,7 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13525,7 +13527,7 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
@@ -13544,7 +13546,7 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -13569,7 +13571,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13661,11 +13663,11 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borra todo el formato de la selección y deja el texto sin formato.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13757,14 +13759,14 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Close the current window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar la ventana actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.CmpSideBySide</name>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver en paralelo</translation>
+        <translation>Ver lado por lado</translation>
     </message>
     <message>
         <source>View two documents side by side to compare their contents.</source>
@@ -13775,7 +13777,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CollapseOnOutlining</name>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"></translation>
+        <translation>Colapsar</translation>
     </message>
     <message>
         <source>Collapse the selected item.</source>
@@ -13812,7 +13814,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia la selección y la coloca en el portapapeles.</translation>
     </message>
 </context>
 <context>
@@ -13823,11 +13825,11 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Insert Cover Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar portada</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13864,7 +13866,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Corta la selección y la pega en el portapapeles.</translation>
     </message>
 </context>
 <context>
@@ -13875,7 +13877,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Decrease the indent level of the paragraph.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reduce el nivel de sangría del párrafo.</translation>
     </message>
 </context>
 <context>
@@ -14135,7 +14137,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.DropCap</name>
     <message>
         <source>Create a large capital letter at the beginning of a paragraph.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea una letra capital al principio de un párrafo.</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -14143,7 +14145,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14268,7 +14270,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórmula</translation>
     </message>
 </context>
 <context>
@@ -14292,7 +14294,9 @@ Click the arrow to choose different fill types.</source>
     <name>tips.Find</name>
     <message>
         <source>Click the arrow to choose other options, such as Go To.</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca y selecciona un texto, un formato o un tipo de información específico dentro del documento.
+
+También puede reemplazar la información con nuevo texto o formato.</translation>
     </message>
     <message>
         <source>Find</source>
@@ -14302,7 +14306,7 @@ Click the arrow to choose different fill types.</source>
         <source>Find text in the document.
 
 Click the arrow to choose other options, such as Go To.</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca texto u otro contenido en el documento.</translation>
     </message>
 </context>
 <context>
@@ -14352,7 +14356,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -14367,7 +14371,7 @@ Click the arrow to choose a different text color.</source>
     <name>tips.FontName</name>
     <message>
         <source>Change the font face.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia la fuente.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -14378,7 +14382,7 @@ Click the arrow to choose a different text color.</source>
     <name>tips.FontSize</name>
     <message>
         <source>Change the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el tamaño de la fuente.</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -14404,7 +14408,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Center text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centra el texto.</translation>
     </message>
 </context>
 <context>
@@ -14415,14 +14419,17 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignJustify</name>
     <message>
         <source>Align text to both the left and right margins by adding extra space between words as necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinea el texto en los márgenes izquierdo y derecho y agrega espacios adicionales entre palabras si es necesario.
+
+De esta manera se crea una apariencia homogénea en los laterales izquierdo y derecho de la página.
+</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -14437,7 +14444,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinea el texto a la izquierda.</translation>
     </message>
 </context>
 <context>
@@ -14448,7 +14455,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>alinea el texto a la derecha.</translation>
     </message>
 </context>
 <context>
@@ -14468,7 +14475,9 @@ Click the arrow to choose a different text color.</source>
         <source>Copy formatting from one place to apply it to another.
 
 Double-click this button to apply the same formatting to multiple places in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia el formato de un sitio y lo aplica en otro.
+
+Haga doble click en este botón de nuevo para aplicar el mismo formato a varias ubicaciones en el documento.</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -14476,7 +14485,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14515,11 +14524,11 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de Genko</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14578,7 +14587,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar el tamaño de la fuente.</translation>
     </message>
 </context>
 <context>
@@ -14613,7 +14622,7 @@ This only affects tables which extend beyond a single page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
@@ -14636,7 +14645,7 @@ This only affects tables which extend beyond a single page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14675,7 +14684,7 @@ This only affects tables which extend beyond a single page.</source>
         <source>Make text look like it was marked with a highlighter pen.
 
 Click the arrow to select a different highlight color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el aspecto del texto como si estuviera marcado con un marcador.</translation>
     </message>
     <message>
         <source>Text Highlight Color</source>
@@ -14696,7 +14705,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14722,7 +14731,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Increase the indent level of the paragraph.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta el nivel de sangría del párrafo.</translation>
     </message>
 </context>
 <context>
@@ -14759,11 +14768,11 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta una nueva página en blanco en la posición actual.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14782,7 +14791,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14801,7 +14810,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14833,7 +14842,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14852,7 +14861,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14937,7 +14946,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14956,7 +14965,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14971,7 +14980,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
@@ -14996,7 +15005,7 @@ Set directory level for the selected paragraph and add a Table of Contents.</sou
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15052,11 +15061,11 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia la página siguiente en la posición actual.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15075,7 +15084,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15086,11 +15095,11 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.InsertPictureFromFile</name>
     <message>
         <source>Insert Picture from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen desde archivo</translation>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta una imagen de un archivo.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile Content2</source>
@@ -15110,7 +15119,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15173,7 +15182,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15184,7 +15193,7 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta texto decorativo en el documento.</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -15199,7 +15208,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>To solve the page break issue in mail merge, if N lines are to be shown in one page, then insert N-1 next fields.</source>
@@ -15218,7 +15227,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica el formato de cursiva al texto seleccionado.</translation>
     </message>
 </context>
 <context>
@@ -15272,7 +15281,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir desde la nube</translation>
     </message>
 </context>
 <context>
@@ -15331,7 +15340,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15381,7 +15390,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.LineSpacingShow</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el espaciado entre líneas del texto.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -15701,7 +15710,8 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
         <source>Start a numbered list.
 
 Click the arrow to choose from different numbering formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia una lista numerada.
+Haga clic en la flecha para seleccionar diferentes formatos de numeración.</translation>
     </message>
 </context>
 <context>
@@ -15782,11 +15792,11 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta números de páginas en el documento.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15819,15 +15829,15 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.PageOrientation</name>
     <message>
         <source>Page Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientación de página</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el diseño de la página entre horizontal o vertical.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16234,7 +16244,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Customize the borders of the selected cells or text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Personaliza los bordes de las celdas o texto seleccionado.</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -16242,7 +16252,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16268,7 +16278,7 @@ Results will be displayed in a cell following the selected cells in the same row
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el color del texto.</translation>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
@@ -16289,11 +16299,11 @@ Click the arrow to select a different text color.</source>
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different background colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Colorea el fondo del texto o párrafo seleccionado.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -16349,7 +16359,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.RelocateDownOnOutlining</name>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>Move the selected item down within the outline.</source>
@@ -16360,7 +16370,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.RelocateUpOnOutlining</name>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>Move the selected item up within the outline.</source>
@@ -16386,7 +16396,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -16460,7 +16470,9 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Select text or objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selcciona texo u objetos en el documento.
+
+Utilice seleccionar objeto para seleccionar objetos situados detrás del texto.</translation>
     </message>
 </context>
 <context>
@@ -16525,7 +16537,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efectos de sombra</translation>
     </message>
 </context>
 <context>
@@ -16547,11 +16559,11 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formas</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16592,14 +16604,14 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Show page number on first page</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el número de página en la primera página</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFormatting</name>
     <message>
         <source>Show Text Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar formato de texto</translation>
     </message>
     <message>
         <source>Show or hide all the text formatting in the outline.</source>
@@ -16667,7 +16679,7 @@ The selected level and all higher levels will be visible.</source>
     <name>tips.ShrinkFont</name>
     <message>
         <source>Decrease the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reduce el tamaño de la fuente.</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -16739,7 +16751,7 @@ The selected level and all higher levels will be visible.</source>
         <source>Draw a line through the middle of the selected text.
 
 Click the arrow to add an emphasis mark.</source>
-        <translation type="unfinished"></translation>
+        <translation>Traza una línea en medio del texto seleccionado.</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -16754,7 +16766,7 @@ Click the arrow to add an emphasis mark.</source>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Otras opciones</translation>
     </message>
 </context>
 <context>
@@ -16763,7 +16775,7 @@ Click the arrow to add an emphasis mark.</source>
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea letras minúsculas debajo de la línea base del texto.</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -16776,7 +16788,7 @@ Click the arrow to select superscript.</source>
         <source>Create small letters above the line of text.
 
 Click the arrow to select subscript.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea letras minúsculas encima de la línea de texto.</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -16809,11 +16821,11 @@ Click the arrow to select subscript.</source>
     <name>tips.Table</name>
     <message>
         <source>Insert or draw a table into the document, and convert text to table or vice versa.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta o dibuja una tabla en el documento.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Table</source>
@@ -16932,7 +16944,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -16977,7 +16989,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta cuadros de texto con formato previo.</translation>
     </message>
 </context>
 <context>
@@ -17010,7 +17022,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -17047,9 +17059,7 @@ Click the arrow to select different shading colors.</source>
         <translation>Subrayado</translation>
     </message>
     <message>
-        <source>Underline the selected text.
-
-Click the arrow to select different underlining styles.</source>
+        <source>Subraya el texto seleccionado.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17057,7 +17067,7 @@ Click the arrow to select different underlining styles.</source>
     <name>tips.UpdateTocOnOutlining</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
@@ -17250,7 +17260,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto vertical de WordArt</translation>
     </message>
 </context>
 <context>
@@ -17296,7 +17306,7 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
 </context>
 <context>
@@ -17313,7 +17323,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17332,7 +17342,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17358,7 +17368,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Split text into two or more columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Divide texto en dos o más columnas.</translation>
     </message>
 </context>
 <context>
@@ -17376,7 +17386,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_LineNumber</name>
     <message>
         <source>Add line numbers in the margin alongside of each line of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrega números de línea a los márgenes junto a cada línea del documento.</translation>
     </message>
     <message>
         <source>Line Numbers</source>
@@ -17384,7 +17394,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17410,11 +17420,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona los tamaños de los márgenes para todo el documento o para la sección actual.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17425,7 +17435,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_PageBorder</name>
     <message>
         <source>Add or change the border around the page of the current section or the entire document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrega o cambia el borde alrededor de la página.</translation>
     </message>
     <message>
         <source>Page Borders</source>
@@ -17436,18 +17446,18 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_PageSize</name>
     <message>
         <source>Choose a paper size for the current section or the entire document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige un tamaño de papel para la sección actual.</translation>
     </message>
     <message>
         <source>Page Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamáño de página</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -17470,7 +17480,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show Markup</source>
@@ -17500,7 +17510,9 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_Wrapping</name>
     <message>
         <source>Change the way text wraps around the selected object, such as square and behind text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica el modo en que se ajusta el texto al objeto seleccionado.
+
+Para configurar el objeto de manera que se mueva junto con el texto, seleccione "En línea con el texto".</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -17552,7 +17564,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pega el contenido del portapapeles.</translation>
     </message>
 </context>
 <context>
@@ -17602,7 +17614,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Insert Blank Paragraphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar párrafos en blanco</translation>
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
@@ -17645,11 +17657,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar sesión</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -17657,11 +17669,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>No has iniciado sesión</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir desde la nube</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -17681,7 +17693,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de sesión de usuario</translation>
     </message>
     <message>
         <source>Weibo Layout</source>
@@ -17707,19 +17719,19 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Control de herramientas</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibujo</translation>
     </message>
     <message>
         <source>Extended Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato extendido</translation>
     </message>
     <message>
         <source>Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <source>Forms</source>
@@ -17735,7 +17747,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de menú</translation>
     </message>
     <message>
         <source>Outlining</source>
@@ -17759,7 +17771,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Estándar</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
@@ -17771,7 +17783,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver en paralelo</translation>
+        <translation>Ver lado por lado</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -17786,7 +17798,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpscommon.mainwindow.commands</name>
     <message>
         <source>ActiveX Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control ActiveX</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -17818,23 +17830,23 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Browse Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver objetos</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver por marcador</translation>
     </message>
     <message>
         <source>Browse by Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver por comentario</translation>
     </message>
     <message>
         <source>Browse by Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver por página</translation>
     </message>
     <message>
         <source>Browse by Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver por sección</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17850,19 +17862,19 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para activar / desactivar la copia de seguridad automática</translation>
     </message>
     <message>
         <source>Click to turn on/off reviewing function</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para activar / desactivar la función de revisión</translation>
     </message>
     <message>
         <source>Click to turn on/off spelling check</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para activar / desactivar la revisión ortográfica</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -17870,23 +17882,23 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel de portapapeles</translation>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"></translation>
+        <translation>Colapsar</translation>
     </message>
     <message>
         <source>Comment Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual de comentario</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimir imágenes</translation>
     </message>
     <message>
         <source>Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Conector</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -17894,15 +17906,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva</translation>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva punto</translation>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento de la curva</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -17922,19 +17934,19 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation type="unfinished"></translation>
+        <translation>Colaboración del documento</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Endnotes Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual de nota al final</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -17950,7 +17962,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Fields Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual de campos</translation>
     </message>
     <message>
         <source>File</source>
@@ -17962,7 +17974,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Floating Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen flotante</translation>
     </message>
     <message>
         <source>Font</source>
@@ -17974,11 +17986,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <source>Frame Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual del marco</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -18002,7 +18014,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -18010,7 +18022,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual de hipervínculo</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -18062,11 +18074,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>MsgAtMe</source>
@@ -18102,7 +18114,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo desde más plantillas</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -18110,7 +18122,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto OLE</translation>
     </message>
     <message>
         <source>Open</source>
@@ -18142,7 +18154,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Print Directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir directamente</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -18170,7 +18182,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Rotate Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo rotación</translation>
     </message>
     <message>
         <source>S MsgAtMe</source>
@@ -18210,7 +18222,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Shapes Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual de formas</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -18246,7 +18258,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de herramienta de símbolo</translation>
     </message>
     <message>
         <source>Table</source>
@@ -18254,7 +18266,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Celdas de tabla</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -18262,7 +18274,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Table Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto de tabla</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -18274,7 +18286,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Text Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual del texto</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -18282,15 +18294,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Toggle Field Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar códigos de campo</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Barras de herramientas</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramientas</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -18310,7 +18322,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Update Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar campos</translation>
     </message>
     <message>
         <source>View</source>
@@ -18318,7 +18330,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>View Field Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver códigos de campo</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -18427,11 +18439,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar sesión</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -18447,11 +18459,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo desde más plantillas</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>No has iniciado sesión</translation>
     </message>
     <message>
         <source>Open</source>
@@ -18471,7 +18483,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño de párrafo</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -18483,7 +18495,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de herramientas de acceso rápido</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -18515,7 +18527,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar interfaz de usuario</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -18527,7 +18539,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de sesión de usuario</translation>
     </message>
     <message>
         <source>View</source>
@@ -18563,7 +18575,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>setting</source>
-        <translation type="unfinished"></translation>
+        <translation>configuración</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -18574,7 +18586,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar interfaz de usuario</translation>
     </message>
 </context>
 <context>
@@ -18599,7 +18611,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar cuenta</translation>
     </message>
     <message>
         <source>Change User Information</source>
@@ -18651,11 +18663,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar sesión</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -18667,7 +18679,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>No has iniciado sesión</translation>
     </message>
     <message>
         <source>Options</source>
@@ -18683,7 +18695,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño de párrafo</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -18695,7 +18707,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de herramientas de acceso rápido</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -18731,7 +18743,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar interfaz de usuario</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -18743,7 +18755,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de sesión de usuario</translation>
     </message>
     <message>
         <source>View</source>
@@ -18770,7 +18782,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar interfaz de usuario</translation>
     </message>
     <message>
         <source>true</source>
