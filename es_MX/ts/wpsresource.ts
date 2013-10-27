@@ -1912,6 +1912,17 @@ Merged Data</source>
     </message>
     <message>
         <source>Chevron Down</source>
+<<<<<<< HEAD
+        <translation>Cheurón hacia abajo</translation>
+    </message>
+    <message>
+        <source>Chevron Up</source>
+        <translation>Cheurón hacia arriba</translation>
+    </message>
+    <message>
+        <source>Circle (Curve)</source>
+        <translation>Círculo (Curva)</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1921,6 +1932,7 @@ Merged Data</source>
     <message>
         <source>Circle (Curve)</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Circle (Pour)</source>
@@ -1928,11 +1940,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Curve Down</source>
+<<<<<<< HEAD
+        <translation>Curva hacia abajo</translation>
+    </message>
+    <message>
+        <source>Curve Up</source>
+        <translation>Curva hacia arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Custom</source>
@@ -1940,6 +1960,25 @@ Merged Data</source>
     </message>
     <message>
         <source>Deflate</source>
+<<<<<<< HEAD
+        <translation>Desinflar</translation>
+    </message>
+    <message>
+        <source>Deflate Bottom</source>
+        <translation>Desinflar parte inferior</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate</source>
+        <translation>Desinflar inflar</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate Deflate</source>
+        <translation>Desinflar inflar desinflar</translation>
+    </message>
+    <message>
+        <source>Deflate Top</source>
+        <translation>Inflar parte superior</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1957,6 +1996,7 @@ Merged Data</source>
     <message>
         <source>Deflate Top</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Double Wave 1</source>
@@ -1972,6 +2012,21 @@ Merged Data</source>
     </message>
     <message>
         <source>Fade Down</source>
+<<<<<<< HEAD
+        <translation>Desaparecer por abajo</translation>
+    </message>
+    <message>
+        <source>Fade Left</source>
+        <translation>Desaparecer por la izquierda</translation>
+    </message>
+    <message>
+        <source>Fade Right</source>
+        <translation>Desaparecer por la derecha</translation>
+    </message>
+    <message>
+        <source>Fade Up</source>
+        <translation>Desaparecer por arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1985,6 +2040,7 @@ Merged Data</source>
     <message>
         <source>Fade Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Format WordArt</source>
@@ -2000,6 +2056,17 @@ Merged Data</source>
     </message>
     <message>
         <source>Inflate</source>
+<<<<<<< HEAD
+        <translation>Inflar</translation>
+    </message>
+    <message>
+        <source>Inflate Bottom</source>
+        <translation>Inflar parte inferior</translation>
+    </message>
+    <message>
+        <source>Inflate Top</source>
+        <translation>Inlfar parte superior</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2009,6 +2076,7 @@ Merged Data</source>
     <message>
         <source>Inflate Top</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -2060,7 +2128,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Stop</source>
+<<<<<<< HEAD
+        <translation>Detener</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -2084,11 +2156,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Triangle Down</source>
+<<<<<<< HEAD
+        <translation>Triángulo hacia abajo</translation>
+    </message>
+    <message>
+        <source>Triangle Up</source>
+        <translation>Triángulo hacia arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Triangle Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Very Loose</source>
@@ -2100,11 +2180,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Wave 1</source>
+<<<<<<< HEAD
+        <translation>Onda 1</translation>
+    </message>
+    <message>
+        <source>Wave 2</source>
+        <translation>Onda 2</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wave 2</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Word Justify</source>
@@ -2909,7 +2997,11 @@ On</source>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
+<<<<<<< HEAD
+        <translation>Documento de Microsoft Word 2007-2003</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -3031,11 +3123,19 @@ On</source>
     </message>
     <message>
         <source>Auto Text</source>
+<<<<<<< HEAD
+        <translation>Autotexto</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>Clip Art</translation>
+=======
         <translation>Texto automático</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Close</source>
@@ -6643,6 +6743,17 @@ On</source>
     </message>
     <message>
         <source>Chevron Down</source>
+<<<<<<< HEAD
+        <translation>Cheurón hacia abajo</translation>
+    </message>
+    <message>
+        <source>Chevron Up</source>
+        <translation>Cheurón hacia arriba</translation>
+    </message>
+    <message>
+        <source>Circle (Curve)</source>
+        <translation>Círculo (Curva)</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6652,6 +6763,7 @@ On</source>
     <message>
         <source>Circle (Curve)</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Circle (Pour)</source>
@@ -6659,11 +6771,19 @@ On</source>
     </message>
     <message>
         <source>Curve Down</source>
+<<<<<<< HEAD
+        <translation>Curva hacia abajo</translation>
+    </message>
+    <message>
+        <source>Curve Up</source>
+        <translation>Curva hacia arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Custom</source>
@@ -6683,6 +6803,25 @@ On</source>
     </message>
     <message>
         <source>Deflate</source>
+<<<<<<< HEAD
+        <translation>Desinflar</translation>
+    </message>
+    <message>
+        <source>Deflate Bottom</source>
+        <translation>Desinflar parte inferior</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate</source>
+        <translation>Desinflar inflar</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate Deflate</source>
+        <translation>Desinflar inflar desinflar</translation>
+    </message>
+    <message>
+        <source>Deflate Top</source>
+        <translation>Inflar parte superior</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6700,6 +6839,7 @@ On</source>
     <message>
         <source>Deflate Top</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -6739,6 +6879,21 @@ On</source>
     </message>
     <message>
         <source>Fade Down</source>
+<<<<<<< HEAD
+        <translation>Desaparecer por abajo</translation>
+    </message>
+    <message>
+        <source>Fade Left</source>
+        <translation>Desaparecer por la izquierda</translation>
+    </message>
+    <message>
+        <source>Fade Right</source>
+        <translation>Desaparecer por la derecha</translation>
+    </message>
+    <message>
+        <source>Fade Up</source>
+        <translation>Desaparecer por arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6752,6 +6907,7 @@ On</source>
     <message>
         <source>Fade Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -6795,6 +6951,17 @@ On</source>
     </message>
     <message>
         <source>Inflate</source>
+<<<<<<< HEAD
+        <translation>Inflar</translation>
+    </message>
+    <message>
+        <source>Inflate Bottom</source>
+        <translation>Inflar parte inferior</translation>
+    </message>
+    <message>
+        <source>Inflate Top</source>
+        <translation>Inlfar parte superior</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6804,6 +6971,7 @@ On</source>
     <message>
         <source>Inflate Top</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -6939,7 +7107,11 @@ On</source>
     </message>
     <message>
         <source>Stop</source>
+<<<<<<< HEAD
+        <translation>Detener</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -6967,11 +7139,19 @@ On</source>
     </message>
     <message>
         <source>Triangle Down</source>
+<<<<<<< HEAD
+        <translation>Triángulo hacia abajo</translation>
+    </message>
+    <message>
+        <source>Triangle Up</source>
+        <translation>Triángulo hacia arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Triangle Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Ungroup</source>
@@ -6987,11 +7167,19 @@ On</source>
     </message>
     <message>
         <source>Wave 1</source>
+<<<<<<< HEAD
+        <translation>Onda 1</translation>
+    </message>
+    <message>
+        <source>Wave 2</source>
+        <translation>Onda 2</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wave 2</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Weight</source>
@@ -7501,7 +7689,11 @@ On</source>
     </message>
     <message>
         <source>Document Protection</source>
+<<<<<<< HEAD
+        <translation>Restringir edición</translation>
+=======
         <translation>Protección de documento</translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Draw
@@ -9032,7 +9224,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
+<<<<<<< HEAD
+        <translation>Documento de Microsoft Word 2007-2003</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -9158,7 +9354,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Auto Text</source>
+<<<<<<< HEAD
+        <translation>Autotexto</translation>
+=======
         <translation>Texto automático</translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Close</source>
@@ -12503,7 +12703,11 @@ Other Window</source>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
+<<<<<<< HEAD
+        <translation>Arco hacia abajo (Curva)</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Arch Down (Pour)</source>
@@ -12511,7 +12715,11 @@ Other Window</source>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
+<<<<<<< HEAD
+        <translation>Arco hacia arriba (Curva)</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -12555,11 +12763,19 @@ Other Window</source>
     </message>
     <message>
         <source>Cascade Down</source>
+<<<<<<< HEAD
+        <translation>Cascada hacia abajo</translation>
+    </message>
+    <message>
+        <source>Cascade Up</source>
+        <translation>Cascada hacia arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cascade Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Center Alignment</source>
@@ -12567,6 +12783,17 @@ Other Window</source>
     </message>
     <message>
         <source>Chevron Down</source>
+<<<<<<< HEAD
+        <translation>Cheurón hacia abajo</translation>
+    </message>
+    <message>
+        <source>Chevron Up</source>
+        <translation>Cheurón hacia arriba</translation>
+    </message>
+    <message>
+        <source>Circle (Curve)</source>
+        <translation>Círculo (Curva)</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12576,6 +12803,7 @@ Other Window</source>
     <message>
         <source>Circle (Curve)</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Circle (Pour)</source>
@@ -12583,11 +12811,19 @@ Other Window</source>
     </message>
     <message>
         <source>Curve Down</source>
+<<<<<<< HEAD
+        <translation>Curva hacia abajo</translation>
+    </message>
+    <message>
+        <source>Curve Up</source>
+        <translation>Curva hacia arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Custom</source>
@@ -12607,6 +12843,25 @@ Other Window</source>
     </message>
     <message>
         <source>Deflate</source>
+<<<<<<< HEAD
+        <translation>Desinflar</translation>
+    </message>
+    <message>
+        <source>Deflate Bottom</source>
+        <translation>Desinflar parte inferior</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate</source>
+        <translation>Desinflar inflar</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate Deflate</source>
+        <translation>Desinflar inflar desinflar</translation>
+    </message>
+    <message>
+        <source>Deflate Top</source>
+        <translation>Inflar parte superior</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12624,6 +12879,7 @@ Other Window</source>
     <message>
         <source>Deflate Top</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -12639,11 +12895,19 @@ Other Window</source>
     </message>
     <message>
         <source>Double Wave 1</source>
+<<<<<<< HEAD
+        <translation>Onda 1 doble</translation>
+    </message>
+    <message>
+        <source>Double Wave 2</source>
+        <translation>Onda 2 doble</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Double Wave 2</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Edit Text</source>
@@ -12663,6 +12927,21 @@ Other Window</source>
     </message>
     <message>
         <source>Fade Down</source>
+<<<<<<< HEAD
+        <translation>Desaparecer por abajo</translation>
+    </message>
+    <message>
+        <source>Fade Left</source>
+        <translation>Desaparecer por la izquierda</translation>
+    </message>
+    <message>
+        <source>Fade Right</source>
+        <translation>Desaparecer por la derecha</translation>
+    </message>
+    <message>
+        <source>Fade Up</source>
+        <translation>Desaparecer por arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12676,6 +12955,7 @@ Other Window</source>
     <message>
         <source>Fade Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -12719,6 +12999,17 @@ Other Window</source>
     </message>
     <message>
         <source>Inflate</source>
+<<<<<<< HEAD
+        <translation>Inflar</translation>
+    </message>
+    <message>
+        <source>Inflate Bottom</source>
+        <translation>Inflar parte inferior</translation>
+    </message>
+    <message>
+        <source>Inflate Top</source>
+        <translation>Inlfar parte superior</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12728,6 +13019,7 @@ Other Window</source>
     <message>
         <source>Inflate Top</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -12859,7 +13151,11 @@ Other Window</source>
     </message>
     <message>
         <source>Stop</source>
+<<<<<<< HEAD
+        <translation>Detener</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -12887,11 +13183,19 @@ Other Window</source>
     </message>
     <message>
         <source>Triangle Down</source>
+<<<<<<< HEAD
+        <translation>Triángulo hacia abajo</translation>
+    </message>
+    <message>
+        <source>Triangle Up</source>
+        <translation>Triángulo hacia arriba</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Triangle Up</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Ungroup</source>
@@ -12907,11 +13211,19 @@ Other Window</source>
     </message>
     <message>
         <source>Wave 1</source>
+<<<<<<< HEAD
+        <translation>Onda 1</translation>
+    </message>
+    <message>
+        <source>Wave 2</source>
+        <translation>Onda 2</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wave 2</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Weight</source>
@@ -13145,7 +13457,11 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.3DStylePalette</name>
     <message>
         <source>3-D Effects</source>
+<<<<<<< HEAD
+        <translation>Efectos 3D</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
@@ -13456,7 +13772,11 @@ This option is available when grid is defined.</source>
     </message>
     <message>
         <source>Bring forward the selected object, so that it is not blocked by other objects.</source>
+<<<<<<< HEAD
+        <translation>Trae el objeto seleccionado hacia adelante de forma que quede oculto detrás de menos objetos.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
@@ -13630,7 +13950,11 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
+<<<<<<< HEAD
+        <translation>Comprueba la ortografía y gramática del texto en el documento.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
@@ -13855,7 +14179,11 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Use cross-reference to refer to headings and figures in the document.</source>
+<<<<<<< HEAD
+        <translation>Hace referencia a elementos como encabezados e ilustraciones en el documento.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
@@ -14348,7 +14676,11 @@ Click the arrow to choose other options, such as Go To.</source>
         <source>Change the text color.
 
 Click the arrow to choose a different text color.</source>
+<<<<<<< HEAD
+        <translation>Cambia el color del texto.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
@@ -14749,7 +15081,11 @@ This makes it easy to see what part of your form letter will be replaced by info
     <name>tips.InsertAutoText</name>
     <message>
         <source>Auto Text</source>
+<<<<<<< HEAD
+        <translation>Autotexto</translation>
+=======
         <translation>Texto automático</translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Insert auto text in the header or footer to easily view and locate the related article.</source>
@@ -14894,7 +15230,11 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertComment</name>
     <message>
         <source>Add a comment to the document about the selection.</source>
+<<<<<<< HEAD
+        <translation>Agrega un comentario sobre la selección.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Insert Comment</source>
@@ -14905,22 +15245,38 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date and Time</source>
+<<<<<<< HEAD
+        <translation>Fecha y hora</translation>
+    </message>
+    <message>
+        <source>Insert the current date or time into the current document.</source>
+        <translation>Inserta la fecha y hora actuales en el documento actual.</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
     <name>tips.InsertField</name>
     <message>
         <source>Insert Field</source>
+<<<<<<< HEAD
+        <translation>Insertar un campo</translation>
+    </message>
+    <message>
+        <source>Insert field into the document.</source>
+        <translation>Inserta un campo.</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert field into the document.</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
@@ -14938,11 +15294,19 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertFootnote</name>
     <message>
         <source>Add a footnote or endnote to the document.</source>
+<<<<<<< HEAD
+        <translation>Agrega una nota al pie o nota al final al documento.</translation>
+    </message>
+    <message>
+        <source>Insert Footnote / Endnote</source>
+        <translation>Insertar Nota al pie / Nota al final</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Footnote / Endnote</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14957,7 +15321,11 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertHyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
+<<<<<<< HEAD
+        <translation>Crea un vínculo a una página web, una imagen, una dirección de correo electrónico o un programa.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -14986,7 +15354,13 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
 
 Set directory level for the selected paragraph and add a Table of Contents.</source>
+<<<<<<< HEAD
+        <translation>Agrega una tabla de contenido al documento.
+
+Ajuste el nivel de directorio para el párrafo seleccionado y añade una tabla de contenidos.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15197,7 +15571,11 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>WordArt</source>
+<<<<<<< HEAD
+        <translation>WordArt</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
@@ -15597,7 +15975,11 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     <name>tips.NextComment</name>
     <message>
         <source>Navigate to the next comment in the document.</source>
+<<<<<<< HEAD
+        <translation>Se desplaza al siguiente comentario del documento.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Next Comment</source>
@@ -15722,7 +16104,11 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
+<<<<<<< HEAD
+        <translation>Muestra el panel de selección para ayudar a seleccionar objetos individuales y para cambiar el orden y la visibilidad.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
@@ -16016,7 +16402,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreviousComment</name>
     <message>
         <source>Navigate to the previous comment in the document.</source>
+<<<<<<< HEAD
+        <translation>Va al comentario anterior en el documento.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Previous Comment</source>
@@ -16185,11 +16575,19 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
+<<<<<<< HEAD
+        <translation>Restringir edición</translation>
+    </message>
+    <message>
+        <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
+        <translation>Restringe la forma en que los usuarios editan o dan formato a partes del documento especificando una contraseña.</translation>
+=======
         <translation>Protección de documento</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
@@ -16483,7 +16881,11 @@ Utilice seleccionar objeto para seleccionar objetos situados detrás del texto.<
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
+<<<<<<< HEAD
+        <translation>Lleva el objeto seleccionado hacia atrás para que quede oculto detrás de otros objetos.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
@@ -17030,7 +17432,11 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Track all changes made to the document, including insertions, deletions and formatting changes.</source>
+<<<<<<< HEAD
+        <translation>Controla todos los cambios realizados en el documento, incluidas las insercciones, eliminaciones y cambios de formato.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17071,11 +17477,19 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Update Table of Contents</source>
+<<<<<<< HEAD
+        <translation>Actualizar tabla</translation>
+    </message>
+    <message>
+        <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
+        <translation>Actualiza la tabla de contenido para que todas las entradas hagan referencia al número de página correcto.</translation>
+=======
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17134,7 +17548,13 @@ To enable this feature, turn on View Side by Side.</source>
         <source>Insert ghosted text and picture behind the content on the page.
 
 This is often used to indicate that the document is to be treated specially, such as encrypted and confidential material and to prohibit copying or mark the document source such as the addition of copyright logos and author information.</source>
+<<<<<<< HEAD
+        <translation>Inserta texto fantasma detrás del contenido de la página.
+
+Generalmente se utiliza para indicar que un documento se debe tratar de manera especial, como Confidencial o Urgente.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Watermark</source>
@@ -17267,7 +17687,13 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WordCount</name>
     <message>
         <source>Count the number of pages, words, characters and paragraphs in the document.</source>
+<<<<<<< HEAD
+        <translation>Busca el número de palabras, caracteres, párrafos y líneas del documento.
+
+También puede descubrir el recuento de palabras en la barra de estado en la parte inferior de la ventana.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Word Count</source>
@@ -17319,7 +17745,13 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
         <source>Align the edges of multiple selected objects.
 
 You can also center them or distribute them evenly across the page.</source>
+<<<<<<< HEAD
+        <translation>Alinea los bordes de varios objetos seleccionados.
+
+Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -17379,7 +17811,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
+<<<<<<< HEAD
+        <translation>Agrupar los objetos juntos para que se puedan considerar como un solo objeto.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
@@ -17465,7 +17901,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
+<<<<<<< HEAD
+        <translation>Gira o voltea el objeto seleccionado.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17538,7 +17978,11 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Delete Selected Comment</source>
+<<<<<<< HEAD
+        <translation>Elimina el comentario seleccionado.</translation>
+=======
         <translation type="unfinished"></translation>
+>>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
     </message>
 </context>
 <context>
