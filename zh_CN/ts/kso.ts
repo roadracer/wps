@@ -2390,11 +2390,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation>Kingsoft Writer</translation>
+        <translation>WPS 文字</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation>WPS 表格</translation>
     </message>
     <message>
         <source>System and Exception Information File</source>
@@ -2426,7 +2426,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Kingsoft Office</source>
-        <translation>Kingsoft Office</translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>call API</source>
@@ -2486,7 +2486,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation>WPS演示</translation>
+        <translation>WPS 演示</translation>
     </message>
     <message>
         <source>Restart</source>
