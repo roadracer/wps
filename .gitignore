@@ -3,5 +3,5 @@
 *.qm
 *.rcc
 *.swp
-
-/package
+*.zip
+packages

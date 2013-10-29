@@ -11,7 +11,6 @@ function die
 }
 if [ ! -d "$_last_pwd/../packages" ]; then
 	mkdir "$_last_pwd/../packages"
-	echo "this is an test"
 fi
 
 which zip || die "can not find zip"
