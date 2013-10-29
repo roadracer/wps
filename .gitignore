@@ -3,3 +3,5 @@
 *.qm
 *.rcc
 *.swp
+
+/package

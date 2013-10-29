@@ -13,3 +13,6 @@ uninstall:
 
 clean:
 	./each_locale $(MAKE) clean
+
+package:
+	./each_locale $(MAKE) package
