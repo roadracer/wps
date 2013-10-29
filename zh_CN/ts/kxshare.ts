@@ -6362,7 +6362,7 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>1988-2013 Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation>  1988-2013 珠海金山办公软件有限公司。</translation>
+        <translation type="obsolete">  1988-2013 珠海金山办公软件有限公司。</translation>
     </message>
     <message>
         <source>All rights reserved.</source>
@@ -6389,6 +6389,10 @@ The settings will take effect after restarting the application.</source>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation>  2013 北京金山办公软件有限公司和珠海金山办公软件有限公司。</translation>
     </message>
 </context>
 <context>
