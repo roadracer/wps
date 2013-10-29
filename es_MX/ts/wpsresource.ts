@@ -606,7 +606,7 @@
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -1864,7 +1864,7 @@ Merged Data</source>
     <name>classics.word_art</name>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia abajo (Curva)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
@@ -1872,7 +1872,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia arriba (Curva)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -1900,11 +1900,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascada hacia abajo</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascada hacia arriba</translation>
     </message>
     <message>
         <source>Center Alignment</source>
@@ -1959,12 +1959,28 @@ Merged Data</source>
         <translation>Inflar parte superior</translation>
     </message>
     <message>
+        <source>Deflate Bottom</source>
+        <translation>Desinflar parte inferior</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate</source>
+        <translation>Desinflar inflar</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate Deflate</source>
+        <translation>Desinflar inflar desinflar</translation>
+    </message>
+    <message>
+        <source>Deflate Top</source>
+        <translation>Inflar parte superior</translation>
+    </message>
+    <message>
         <source>Double Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 1 doble</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 2 doble</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -2116,7 +2132,7 @@ Merged Data</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado entre caracteres de WordArt</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -2634,7 +2650,7 @@ On</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -3419,7 +3435,7 @@ Painter</source>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer pegar predeterminado...</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -4638,7 +4654,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -6031,7 +6047,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Compared Side By Side</source>
-        <translation>Comparación lado a lado</translation>
+        <translation>Ver en paralelo</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6151,7 +6167,7 @@ Other Windows</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="obsolete">Ver lado por lado</translation>
+        <translation>Ver en paralelo</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -6579,7 +6595,7 @@ On</source>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia abajo (Curva)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
@@ -6587,7 +6603,7 @@ On</source>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia arriba (Curva)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -6631,11 +6647,11 @@ On</source>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascada hacia abajo</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascada hacia arriba</translation>
     </message>
     <message>
         <source>Center Alignment</source>
@@ -6702,6 +6718,22 @@ On</source>
         <translation>Inflar parte superior</translation>
     </message>
     <message>
+        <source>Deflate Bottom</source>
+        <translation>Desinflar parte inferior</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate</source>
+        <translation>Desinflar inflar</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate Deflate</source>
+        <translation>Desinflar inflar desinflar</translation>
+    </message>
+    <message>
+        <source>Deflate Top</source>
+        <translation>Inflar parte superior</translation>
+    </message>
+    <message>
         <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6715,11 +6747,11 @@ On</source>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 1 doble</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 2 doble</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -6819,7 +6851,7 @@ On</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -7011,11 +7043,11 @@ On</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado entre caracteres de WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Relleno de WordArt</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -7023,7 +7055,7 @@ On</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Contorno de WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -7502,11 +7534,6 @@ On</source>
     <message>
         <source>Document Protection</source>
         <translation>Restringir edición</translation>
-    </message>
-    <message>
-        <source>Draw
-Diagonal Line in Cell</source>
-        <translation>Dibujar línea diagonal en la celda</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -8290,7 +8317,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver lado por lado</translation>
+        <translation>Ver en paralelo</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -8773,7 +8800,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -9528,7 +9555,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer pegar predeterminado...</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -10657,7 +10684,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -12089,7 +12116,7 @@ Other Window</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver lado por lado</translation>
+        <translation>Ver en paralelo</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -12743,7 +12770,7 @@ Other Window</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -12931,11 +12958,11 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado entre caracteres de WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Relleno de WordArt</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -12943,7 +12970,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Contorno de WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -13073,11 +13100,11 @@ Other Window</source>
     <name>tips.100%</name>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>Zoom the document to 100% of the normal size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplique un zoom del 100% del tamaño normal al documento.</translation>
     </message>
 </context>
 <context>
@@ -13351,7 +13378,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloca en mosaico todas las ventanas de los programas abiertos en paralelo en la pantalla.</translation>
     </message>
 </context>
 <context>
@@ -13593,7 +13620,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.ChangeTextDirection</name>
     <message>
         <source>Customize the text layout direction in the current section, the entire document, or the selected text box and table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia la orientación del texto a vertical o apilado, o lo gira en la dirección deseada.</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -13766,11 +13793,11 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CmpSideBySide</name>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver lado por lado</translation>
+        <translation>Ver en paralelo</translation>
     </message>
     <message>
         <source>View two documents side by side to compare their contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra los dos documentos en paralelo para poder comparar el contenido.</translation>
     </message>
 </context>
 <context>
@@ -14108,7 +14135,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Zoom the document so that two pages fit in the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca el documento para que dos páginas se ajusten en la ventana.</translation>
     </message>
 </context>
 <context>
@@ -14496,11 +14523,11 @@ Haga doble click en este botón de nuevo para aplicar el mismo formato a varias 
     <name>tips.FullScreenMode</name>
     <message>
         <source>Full Screen Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Lectura de pantalla completa</translation>
     </message>
     <message>
         <source>View the document in full screen mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra el documento en vista de lectura a pantalla completa para maximizar el espacio disponible para lectura o comentarios del documento.</translation>
     </message>
 </context>
 <context>
@@ -14626,7 +14653,7 @@ This only affects tables which extend beyond a single page.</source>
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Edita el encabezado y pie de página del documento.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14764,7 +14791,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Click here to insert a horizontal or vertical blank page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic aquí para insertar una página en blanco horizontal o vertical.</translation>
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
@@ -14783,11 +14810,13 @@ This makes it easy to see what part of your form letter will be replaced by info
     <name>tips.InsertBookmark</name>
     <message>
         <source>Create a bookmark to assign a name to a specific point in a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea un marcador para asignar un nombre a un punto específico en un documento.
+
+Puede crear hipervínculos para pasar directamente a la ubicación del marcador.</translation>
     </message>
     <message>
         <source>Insert Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcador</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15105,11 +15134,11 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>InsertPictureFromFile Content2</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic aquí para insertar una imagen desde archivo.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile Title2</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen desde archivo</translation>
     </message>
     <message>
         <source>LinkText</source>
@@ -15180,7 +15209,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta símbolos que no existen en el teclado, como símbolos de copyright, símbolos de marca registrada, marcas de párrafo y caracteres Unicode.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15427,7 +15456,9 @@ Click the arrow to choose more outline styles.</source>
         <source>Synchronize the scrolling of two documents so that they scroll together.
 
 To enable this feature, turn on &quot;View Side by Side&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincroniza el desplazamiento de los dos documentos para que se desplacen juntos.
+
+Para habilitar esta característica, habilite la &quot;función Ver en paralelo.&quot;.</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -15449,11 +15480,11 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     <name>tips.Macro</name>
     <message>
         <source>View Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver macros</translation>
     </message>
     <message>
         <source>View the list of Macros, from which you can run, create or delete a macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
     </message>
 </context>
 <context>
@@ -15570,7 +15601,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre el panel de navegación, que permite navegar por el documento por encabezado, página o mediante la búsqueda de texto u objetos.</translation>
     </message>
 </context>
 <context>
@@ -15581,7 +15612,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre una nueva ventana que contenga una vista del documento actual.</translation>
     </message>
 </context>
 <context>
@@ -15654,44 +15685,44 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     <name>tips.NudgeShadowDown</name>
     <message>
         <source>Move the shadow of the selected object down.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover la sombra del objeto seleccionado hacia abajo.</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar sombra hacia abajo</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowLeft</name>
     <message>
         <source>Move the shadow of the selected object to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover la sombra del objeto seleccionado a la izquierda.</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar sombra a la izquierda</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowRight</name>
     <message>
         <source>Move the shadow of the selected object to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover la sombra del objeto seleccionado a la derecha.</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar sombra a la derecha</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowUp</name>
     <message>
         <source>Move the shadow of the selected object up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover la sombra del objeto seleccionado hacia arriba.</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar sombra hacia arriba</translation>
     </message>
 </context>
 <context>
@@ -15735,7 +15766,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Zoom the document so that an entire page fits in the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca el documento para que se ajuste toda la página en la ventana.</translation>
     </message>
 </context>
 <context>
@@ -15757,11 +15788,11 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     <name>tips.OutLine</name>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista esquema</translation>
     </message>
     <message>
         <source>View the document as an outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra el documento como un esquema y muestra las herramientas de esquema.</translation>
     </message>
 </context>
 <context>
@@ -15813,7 +15844,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Select number formats for page numbers in the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione los formatos de número para los números de página en el documento actual.</translation>
     </message>
 </context>
 <context>
@@ -15854,7 +15885,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el cuadro de diálogo Configurar página.</translation>
     </message>
 </context>
 <context>
@@ -15865,7 +15896,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca el documento para que el ancho de la página coincida con el ancho de la ventana.</translation>
     </message>
 </context>
 <context>
@@ -15911,7 +15942,7 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta o disminuye el contraste y el brillo de la imagen seleccionada.</translation>
     </message>
 </context>
 <context>
@@ -15933,7 +15964,7 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar la imagen para eliminar las partes no deseadas.</translation>
     </message>
 </context>
 <context>
@@ -16073,11 +16104,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.Print</name>
     <message>
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar ajustes detallados para la impresión, como la impresora, el intervalo de impresión, copias impresas, páginas por hoja y zoom.</translation>
     </message>
     <message>
         <source>Click here to set details of printing, or use default settings to print directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic aquí para configurar los detalles de impresión, o utilizar la configuración predeterminada para imprimir directamente.</translation>
     </message>
     <message>
         <source>Print</source>
@@ -16088,11 +16119,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrintDirect</name>
     <message>
         <source>Quick Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Impresión rápida</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar el documento directamente a la impresora predeterminada sin realizar cambios.</translation>
     </message>
 </context>
 <context>
@@ -16103,14 +16134,14 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra el documento tal y cómo aparecerá en la págian impresa.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver y hacer cambios en las páginas antes de imprimir.</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -16121,11 +16152,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Specify the zoom level of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique el nivel de zoom del documento actual.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
 </context>
 <context>
@@ -16136,7 +16167,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra las reglas utilizadas para medir y alinear objetos en el documento.</translation>
     </message>
 </context>
 <context>
@@ -16213,7 +16244,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show the Font dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el cuadro de diálogo Fuente.</translation>
     </message>
 </context>
 <context>
@@ -16224,7 +16255,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show the Paragraph dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el cuadro de diálogo Párrafo.</translation>
     </message>
 </context>
 <context>
@@ -16284,7 +16315,7 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en la flecha para seleccionar un color de texto diferente.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -16295,7 +16326,7 @@ Click the arrow to select a different text color.</source>
     <name>tips.RecentTableShadingColor</name>
     <message>
         <source>Click the arrow to select different background colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes colores de fondo.</translation>
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
@@ -16331,7 +16362,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.RejectChangeOnTB</name>
     <message>
         <source>Click the arrow to reject all changes in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en la flecha para rechazar todos los cambios en el documento.</translation>
     </message>
     <message>
         <source>Reject the current change and delete the comment.</source>
@@ -16346,7 +16377,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.RejectRevisionOnTB</name>
     <message>
         <source>Click here to reject all changes in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic aquí para rechazar todos los cambios en el documento.</translation>
     </message>
     <message>
         <source>Reject Change</source>
@@ -16354,7 +16385,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechazar el cambio actual y eliminar el comentario.</translation>
     </message>
 </context>
 <context>
@@ -16387,7 +16418,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Replace text content in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar el contenido del texto en el documento.</translation>
     </message>
 </context>
 <context>
@@ -16413,11 +16444,11 @@ Click the arrow to select different background colors.</source>
     <name>tips.RestartPageNumber</name>
     <message>
         <source>Reset the starting page number of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicie el número de página inicial del documento actual.</translation>
     </message>
     <message>
         <source>Restart Page Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar numeración de página</translation>
     </message>
 </context>
 <context>
@@ -16428,7 +16459,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar u ocultar la regla, que se utiliza para medir y alinear objetos en el documento.</translation>
     </message>
 </context>
 <context>
@@ -16513,7 +16544,9 @@ Utilice seleccionar objeto para seleccionar objetos situados detrás del texto.<
         <source>Set the shadow color of the selected object.
 
 Click the arrow to select different shadow colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajusta el color de la sombra del objeto seleccionado.
+
+Haga clic en la flecha para seleccionar diferentes colores de sombra.</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -16528,14 +16561,14 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa o desactiva la sombra del objeto seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowSetting</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir un efecto visual para el objeto seleccionado</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
@@ -16602,7 +16635,7 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.ShowFirstPageNumber</name>
     <message>
         <source>Show or hide the page number on the first page of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar u ocultar el número de página en la primera página del documento.</translation>
     </message>
     <message>
         <source>Show page number on first page</source>
@@ -16816,7 +16849,7 @@ Click the arrow to select subscript.</source>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasa a una ventana abierta actualmente diferente.</translation>
     </message>
 </context>
 <context>
@@ -16972,22 +17005,22 @@ Click the arrow to select different shading colors.</source>
     <name>tips.TaskPane</name>
     <message>
         <source>Show or hide task pane in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar u ocultar el panel de tareas en el documento.</translation>
     </message>
     <message>
         <source>Task Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel de tareas</translation>
     </message>
 </context>
 <context>
     <name>tips.TextBox</name>
     <message>
         <source>Click here to insert horizontal, vertical or multi-line text boxes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic aquí para insertar un cuadro de texto horizontal, vertical o cuadros de texto multilínea.</translation>
     </message>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibujar cuadro de texto horizontal</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
@@ -17094,7 +17127,9 @@ Click the arrow to select different shading colors.</source>
         <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
 
 To enable this feature, turn on View Side by Side.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablece la posición de la ventana del documento que se está comparando en paralelo para que compartan la pantalla.
+
+Para habilitar esta característica, active la función Ver en paralelo.</translation>
     </message>
 </context>
 <context>
@@ -17149,7 +17184,7 @@ Generalmente se utiliza para indicar que un documento se debe tratar de manera e
     <name>tips.WebLayoutView</name>
     <message>
         <source>View the document as it would look as a Web page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra el documento como sería como página web.</translation>
     </message>
     <message>
         <source>Web Layout</source>
@@ -17192,7 +17227,7 @@ Click the arrow to fill the WordArt in different ways.</source>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Relleno de WordArt</translation>
     </message>
 </context>
 <context>
@@ -17220,7 +17255,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Contorno de WordArt</translation>
     </message>
 </context>
 <context>
@@ -17308,7 +17343,9 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra el cuadro de diálogo Zoom para especificar el nivel de zoom del documento.
+
+En la mayoría de los casos, también puede usar los controles de zoom de la barra de estado en la parte inferior de la ventana para acercar o alejar el documento.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -17474,6 +17511,35 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     <message>
         <source>Rotate or flip the selected object.</source>
         <translation>Gira o voltea el objeto seleccionado.</translation>
+    </message>
+    <message>
+        <source>http://help.kingsoftstore.com/writer</source>
+        <translation>http://help.kingsoftstore.com/writer</translation>
+    </message>
+</context>
+<context>
+    <name>tips.m_ShowReviewer</name>
+    <message>
+        <source>Choose what kind of markup to show in the document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press F1 for more help.</source>
+        <translation>Pulse F1 para obtener ayuda.</translation>
+    </message>
+    <message>
+        <source>Show Markup</source>
+        <translation>Mostrar Marcas</translation>
+    </message>
+    <message>
+        <source>http://help.kingsoftstore.com/writer</source>
+        <translation>http://help.kingsoftstore.com/writer</translation>
+    </message>
+</context>
+<context>
+    <name>tips.m_Style</name>
+    <message>
+        <source>Click here to apply other options, such as clear formatting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17535,7 +17601,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic aquí para obtener más opciones como pegar únicamente los valores o el formato.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -17762,7 +17828,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver lado por lado</translation>
+        <translation>Ver en paralelo</translation>
     </message>
     <message>
         <source>WordArt</source>
