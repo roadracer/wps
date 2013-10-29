@@ -192,11 +192,7 @@
     </message>
     <message>
         <source>View Side by Side</source>
-<<<<<<< HEAD
         <translation>Ver en paralelo</translation>
-=======
-        <translation>Ver lado por lado</translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -610,11 +606,7 @@
     </message>
     <message>
         <source>Long Dash</source>
-<<<<<<< HEAD
         <translation>Guión largo</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -1872,15 +1864,7 @@ Merged Data</source>
     <name>classics.word_art</name>
     <message>
         <source>Arch Down (Curve)</source>
-<<<<<<< HEAD
         <translation>Arco hacia abajo (Curva)</translation>
-=======
-<<<<<<< HEAD
-        <translation>Arco hacia abajo (Curva)</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Arch Down (Pour)</source>
@@ -1888,15 +1872,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-<<<<<<< HEAD
         <translation>Arco hacia arriba (Curva)</translation>
-=======
-<<<<<<< HEAD
-        <translation>Arco hacia arriba (Curva)</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -1924,25 +1900,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Cascade Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Cascada hacia abajo</translation>
     </message>
     <message>
         <source>Cascade Up</source>
         <translation>Cascada hacia arriba</translation>
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cascade Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Center Alignment</source>
@@ -1950,13 +1912,6 @@ Merged Data</source>
     </message>
     <message>
         <source>Chevron Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Cheurón hacia abajo</translation>
     </message>
     <message>
@@ -1966,17 +1921,6 @@ Merged Data</source>
     <message>
         <source>Circle (Curve)</source>
         <translation>Círculo (Curva)</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    </message>
-    <message>
-        <source>Chevron Up</source>
-        <translation>Cheurón hacia arriba</translation>
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Chevron Up</source>
@@ -1985,11 +1929,6 @@ Merged Data</source>
     <message>
         <source>Circle (Curve)</source>
         <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Circle (Pour)</source>
@@ -1997,34 +1936,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Curve Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Curva hacia abajo</translation>
     </message>
     <message>
         <source>Curve Up</source>
         <translation>Curva hacia arriba</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Curve Up</source>
         <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Custom</source>
@@ -2032,13 +1952,6 @@ Merged Data</source>
     </message>
     <message>
         <source>Deflate</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Desinflar</translation>
     </message>
     <message>
@@ -2056,10 +1969,6 @@ Merged Data</source>
     <message>
         <source>Deflate Top</source>
         <translation>Inflar parte superior</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Deflate Bottom</source>
@@ -2074,7 +1983,6 @@ Merged Data</source>
         <translation>Desinflar inflar desinflar</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <source>Deflate Top</source>
         <translation>Inflar parte superior</translation>
     </message>
@@ -2085,43 +1993,6 @@ Merged Data</source>
     <message>
         <source>Double Wave 2</source>
         <translation>Onda 2 doble</translation>
-=======
-        <source>Double Wave 1</source>
-        <translation>Onda 1 doble</translation>
-    </message>
-    <message>
-        <source>Double Wave 2</source>
-        <translation>Onda 2 doble</translation>
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Inflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Inflate Deflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
-    </message>
-    <message>
-        <source>Double Wave 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double Wave 2</source>
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Edit Text</source>
@@ -2129,13 +2000,6 @@ Merged Data</source>
     </message>
     <message>
         <source>Fade Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Desaparecer por abajo</translation>
     </message>
     <message>
@@ -2149,10 +2013,6 @@ Merged Data</source>
     <message>
         <source>Fade Up</source>
         <translation>Desaparecer por arriba</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Fade Left</source>
@@ -2165,26 +2025,6 @@ Merged Data</source>
     <message>
         <source>Fade Up</source>
         <translation>Desaparecer por arriba</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Format WordArt</source>
@@ -2200,13 +2040,6 @@ Merged Data</source>
     </message>
     <message>
         <source>Inflate</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Inflar</translation>
     </message>
     <message>
@@ -2216,7 +2049,6 @@ Merged Data</source>
     <message>
         <source>Inflate Top</source>
         <translation>Inlfar parte superior</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -2225,25 +2057,6 @@ Merged Data</source>
     <message>
         <source>Inflate Top</source>
         <translation>Inlfar parte superior</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Inflate Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inflate Top</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -2295,19 +2108,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Stop</source>
-<<<<<<< HEAD
         <translation>Detener</translation>
-=======
-<<<<<<< HEAD
-        <translation>Detener</translation>
-=======
-<<<<<<< HEAD
-        <translation>Detener</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -2331,38 +2132,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Triangle Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Triángulo hacia abajo</translation>
     </message>
     <message>
         <source>Triangle Up</source>
         <translation>Triángulo hacia arriba</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Triangle Up</source>
         <translation>Triángulo hacia arriba</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Triangle Up</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Very Loose</source>
@@ -2374,38 +2152,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Wave 1</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Onda 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
         <translation>Onda 2</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Wave 2</source>
         <translation>Onda 2</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wave 2</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Word Justify</source>
@@ -2417,11 +2172,7 @@ Merged Data</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-<<<<<<< HEAD
         <translation>Espaciado entre caracteres de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -2939,11 +2690,7 @@ On</source>
     </message>
     <message>
         <source>Long Dash</source>
-<<<<<<< HEAD
         <translation>Guión largo</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -3218,19 +2965,7 @@ On</source>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-<<<<<<< HEAD
         <translation>Documento de Microsoft Word 2007-2003</translation>
-=======
-<<<<<<< HEAD
-        <translation>Documento de Microsoft Word 2007-2003</translation>
-=======
-<<<<<<< HEAD
-        <translation>Documento de Microsoft Word 2007-2003</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -3352,38 +3087,15 @@ On</source>
     </message>
     <message>
         <source>Auto Text</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Autotexto</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <translation>Clip Art</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Clip Art</source>
         <translation>Clip Art</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation>Texto automático</translation>
-    </message>
-    <message>
-        <source>Clip Art</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Close</source>
@@ -3763,19 +3475,11 @@ Painter</source>
     </message>
     <message>
         <source>Selection Pane</source>
-<<<<<<< HEAD
         <translation>Panel de selección</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
         <translation>Establecer pegar predeterminado...</translation>
-=======
-        <translation type="obsolete">Panel de selección</translation>
-    </message>
-    <message>
-        <source>Set Default Paste</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Shading Color</source>
@@ -4994,11 +4698,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Long Dash</source>
-<<<<<<< HEAD
         <translation>Guión largo</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -6391,11 +6091,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Compared Side By Side</source>
-<<<<<<< HEAD
         <translation>Ver en paralelo</translation>
-=======
-        <translation>Comparación lado a lado</translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Developer</source>
@@ -6515,11 +6211,7 @@ Other Windows</source>
     </message>
     <message>
         <source>View Side by Side</source>
-<<<<<<< HEAD
         <translation>Ver en paralelo</translation>
-=======
-        <translation type="obsolete">Ver lado por lado</translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -6947,15 +6639,7 @@ On</source>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-<<<<<<< HEAD
         <translation>Arco hacia abajo (Curva)</translation>
-=======
-<<<<<<< HEAD
-        <translation>Arco hacia abajo (Curva)</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Arch Down (Pour)</source>
@@ -6963,15 +6647,7 @@ On</source>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-<<<<<<< HEAD
         <translation>Arco hacia arriba (Curva)</translation>
-=======
-<<<<<<< HEAD
-        <translation>Arco hacia arriba (Curva)</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -7015,25 +6691,11 @@ On</source>
     </message>
     <message>
         <source>Cascade Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Cascada hacia abajo</translation>
     </message>
     <message>
         <source>Cascade Up</source>
         <translation>Cascada hacia arriba</translation>
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cascade Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Center Alignment</source>
@@ -7041,13 +6703,6 @@ On</source>
     </message>
     <message>
         <source>Chevron Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Cheurón hacia abajo</translation>
     </message>
     <message>
@@ -7057,21 +6712,6 @@ On</source>
     <message>
         <source>Circle (Curve)</source>
         <translation>Círculo (Curva)</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    </message>
-    <message>
-        <source>Chevron Up</source>
-        <translation>Cheurón hacia arriba</translation>
-    </message>
-    <message>
-        <source>Circle (Curve)</source>
-        <translation>Círculo (Curva)</translation>
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Chevron Up</source>
@@ -7080,11 +6720,6 @@ On</source>
     <message>
         <source>Circle (Curve)</source>
         <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Circle (Pour)</source>
@@ -7092,37 +6727,15 @@ On</source>
     </message>
     <message>
         <source>Curve Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Curva hacia abajo</translation>
     </message>
     <message>
         <source>Curve Up</source>
         <translation>Curva hacia arriba</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Curve Up</source>
         <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Custom</source>
@@ -7142,13 +6755,6 @@ On</source>
     </message>
     <message>
         <source>Deflate</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Desinflar</translation>
     </message>
     <message>
@@ -7166,10 +6772,6 @@ On</source>
     <message>
         <source>Deflate Top</source>
         <translation>Inflar parte superior</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Deflate Bottom</source>
@@ -7186,30 +6788,6 @@ On</source>
     <message>
         <source>Deflate Top</source>
         <translation>Inflar parte superior</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Inflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Inflate Deflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -7225,25 +6803,11 @@ On</source>
     </message>
     <message>
         <source>Double Wave 1</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Onda 1 doble</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
         <translation>Onda 2 doble</translation>
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double Wave 2</source>
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Edit Text</source>
@@ -7263,13 +6827,6 @@ On</source>
     </message>
     <message>
         <source>Fade Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Desaparecer por abajo</translation>
     </message>
     <message>
@@ -7283,10 +6840,6 @@ On</source>
     <message>
         <source>Fade Up</source>
         <translation>Desaparecer por arriba</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Fade Left</source>
@@ -7299,26 +6852,6 @@ On</source>
     <message>
         <source>Fade Up</source>
         <translation>Desaparecer por arriba</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -7362,13 +6895,6 @@ On</source>
     </message>
     <message>
         <source>Inflate</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Inflar</translation>
     </message>
     <message>
@@ -7378,7 +6904,6 @@ On</source>
     <message>
         <source>Inflate Top</source>
         <translation>Inlfar parte superior</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -7387,25 +6912,6 @@ On</source>
     <message>
         <source>Inflate Top</source>
         <translation>Inlfar parte superior</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Inflate Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inflate Top</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -7421,11 +6927,7 @@ On</source>
     </message>
     <message>
         <source>Long Dash</source>
-<<<<<<< HEAD
         <translation>Guión largo</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -7545,19 +7047,7 @@ On</source>
     </message>
     <message>
         <source>Stop</source>
-<<<<<<< HEAD
         <translation>Detener</translation>
-=======
-<<<<<<< HEAD
-        <translation>Detener</translation>
-=======
-<<<<<<< HEAD
-        <translation>Detener</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -7585,38 +7075,15 @@ On</source>
     </message>
     <message>
         <source>Triangle Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Triángulo hacia abajo</translation>
     </message>
     <message>
         <source>Triangle Up</source>
         <translation>Triángulo hacia arriba</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Triangle Up</source>
         <translation>Triángulo hacia arriba</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Triangle Up</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Ungroup</source>
@@ -7632,38 +7099,15 @@ On</source>
     </message>
     <message>
         <source>Wave 1</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Onda 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
         <translation>Onda 2</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Wave 2</source>
         <translation>Onda 2</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Wave 2</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Weight</source>
@@ -7683,23 +7127,11 @@ On</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-<<<<<<< HEAD
         <translation>Espaciado entre caracteres de WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
         <translation>Relleno de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Fill</source>
-<<<<<<< HEAD
-        <translation>Relleno de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -7707,15 +7139,7 @@ On</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-<<<<<<< HEAD
         <translation>Contorno de WordArt</translation>
-=======
-<<<<<<< HEAD
-        <translation>Contorno de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -8193,26 +7617,10 @@ On</source>
     </message>
     <message>
         <source>Document Protection</source>
-<<<<<<< HEAD
         <translation>Restringir edición</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-=======
-<<<<<<< HEAD
-        <translation>Restringir edición</translation>
-=======
-<<<<<<< HEAD
-        <translation>Restringir edición</translation>
-=======
-        <translation>Protección de documento</translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Draw
-Diagonal Line in Cell</source>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Dibujar línea diagonal en la celda</translation>
     </message>
     <message>
@@ -8997,11 +8405,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View Side by Side</source>
-<<<<<<< HEAD
         <translation>Ver en paralelo</translation>
-=======
-        <translation>Ver lado por lado</translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -9484,11 +8888,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Long Dash</source>
-<<<<<<< HEAD
         <translation>Guión largo</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -9747,19 +9147,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-<<<<<<< HEAD
         <translation>Documento de Microsoft Word 2007-2003</translation>
-=======
-<<<<<<< HEAD
-        <translation>Documento de Microsoft Word 2007-2003</translation>
-=======
-<<<<<<< HEAD
-        <translation>Documento de Microsoft Word 2007-2003</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -9885,19 +9273,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Auto Text</source>
-<<<<<<< HEAD
         <translation>Autotexto</translation>
-=======
-<<<<<<< HEAD
-        <translation>Autotexto</translation>
-=======
-<<<<<<< HEAD
-        <translation>Autotexto</translation>
-=======
-        <translation>Texto automático</translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Close</source>
@@ -10267,11 +9643,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Set Default Paste</source>
-<<<<<<< HEAD
         <translation>Establecer pegar predeterminado...</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Shading Color</source>
@@ -11400,11 +10772,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Long Dash</source>
-<<<<<<< HEAD
         <translation>Guión largo</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -12836,11 +12204,7 @@ Other Window</source>
     </message>
     <message>
         <source>View Side by Side</source>
-<<<<<<< HEAD
         <translation>Ver en paralelo</translation>
-=======
-        <translation>Ver lado por lado</translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -13254,19 +12618,7 @@ Other Window</source>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-<<<<<<< HEAD
         <translation>Arco hacia abajo (Curva)</translation>
-=======
-<<<<<<< HEAD
-        <translation>Arco hacia abajo (Curva)</translation>
-=======
-<<<<<<< HEAD
-        <translation>Arco hacia abajo (Curva)</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Arch Down (Pour)</source>
@@ -13274,19 +12626,7 @@ Other Window</source>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-<<<<<<< HEAD
         <translation>Arco hacia arriba (Curva)</translation>
-=======
-<<<<<<< HEAD
-        <translation>Arco hacia arriba (Curva)</translation>
-=======
-<<<<<<< HEAD
-        <translation>Arco hacia arriba (Curva)</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -13330,38 +12670,15 @@ Other Window</source>
     </message>
     <message>
         <source>Cascade Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Cascada hacia abajo</translation>
     </message>
     <message>
         <source>Cascade Up</source>
         <translation>Cascada hacia arriba</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Cascade Up</source>
         <translation>Cascada hacia arriba</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cascade Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Center Alignment</source>
@@ -13369,13 +12686,6 @@ Other Window</source>
     </message>
     <message>
         <source>Chevron Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Cheurón hacia abajo</translation>
     </message>
     <message>
@@ -13385,10 +12695,6 @@ Other Window</source>
     <message>
         <source>Circle (Curve)</source>
         <translation>Círculo (Curva)</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Chevron Up</source>
@@ -13397,22 +12703,6 @@ Other Window</source>
     <message>
         <source>Circle (Curve)</source>
         <translation>Círculo (Curva)</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chevron Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Circle (Curve)</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Circle (Pour)</source>
@@ -13420,38 +12710,15 @@ Other Window</source>
     </message>
     <message>
         <source>Curve Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Curva hacia abajo</translation>
     </message>
     <message>
         <source>Curve Up</source>
         <translation>Curva hacia arriba</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Curve Up</source>
         <translation>Curva hacia arriba</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Curve Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Custom</source>
@@ -13471,13 +12738,6 @@ Other Window</source>
     </message>
     <message>
         <source>Deflate</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Desinflar</translation>
     </message>
     <message>
@@ -13495,10 +12755,6 @@ Other Window</source>
     <message>
         <source>Deflate Top</source>
         <translation>Inflar parte superior</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Deflate Bottom</source>
@@ -13515,30 +12771,6 @@ Other Window</source>
     <message>
         <source>Deflate Top</source>
         <translation>Inflar parte superior</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Inflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Inflate Deflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -13554,39 +12786,15 @@ Other Window</source>
     </message>
     <message>
         <source>Double Wave 1</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Onda 1 doble</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
         <translation>Onda 2 doble</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Double Wave 2</source>
         <translation>Onda 2 doble</translation>
-=======
-<<<<<<< HEAD
-    </message>
-    <message>
-        <source>Double Wave 2</source>
-         <translation>Onda 2 doble</translation>
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double Wave 2</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Edit Text</source>
@@ -13606,13 +12814,6 @@ Other Window</source>
     </message>
     <message>
         <source>Fade Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Desaparecer por abajo</translation>
     </message>
     <message>
@@ -13626,10 +12827,6 @@ Other Window</source>
     <message>
         <source>Fade Up</source>
         <translation>Desaparecer por arriba</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Fade Left</source>
@@ -13642,26 +12839,6 @@ Other Window</source>
     <message>
         <source>Fade Up</source>
         <translation>Desaparecer por arriba</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -13705,13 +12882,6 @@ Other Window</source>
     </message>
     <message>
         <source>Inflate</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Inflar</translation>
     </message>
     <message>
@@ -13721,10 +12891,6 @@ Other Window</source>
     <message>
         <source>Inflate Top</source>
         <translation>Inlfar parte superior</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -13733,22 +12899,6 @@ Other Window</source>
     <message>
         <source>Inflate Top</source>
         <translation>Inlfar parte superior</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inflate Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inflate Top</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -13764,11 +12914,7 @@ Other Window</source>
     </message>
     <message>
         <source>Long Dash</source>
-<<<<<<< HEAD
         <translation>Guión largo</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -13884,19 +13030,7 @@ Other Window</source>
     </message>
     <message>
         <source>Stop</source>
-<<<<<<< HEAD
         <translation>Detener</translation>
-=======
-<<<<<<< HEAD
-        <translation>Detener</translation>
-=======
-<<<<<<< HEAD
-        <translation>Detener</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -13924,38 +13058,15 @@ Other Window</source>
     </message>
     <message>
         <source>Triangle Down</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Triángulo hacia abajo</translation>
     </message>
     <message>
         <source>Triangle Up</source>
         <translation>Triángulo hacia arriba</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Triangle Up</source>
         <translation>Triángulo hacia arriba</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Triangle Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Ungroup</source>
@@ -13971,38 +13082,15 @@ Other Window</source>
     </message>
     <message>
         <source>Wave 1</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Onda 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
         <translation>Onda 2</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Wave 2</source>
         <translation>Onda 2</translation>
-<<<<<<< HEAD
-=======
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wave 2</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Weight</source>
@@ -14022,23 +13110,11 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-<<<<<<< HEAD
         <translation>Espaciado entre caracteres de WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
         <translation>Relleno de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Fill</source>
-<<<<<<< HEAD
-        <translation>Relleno de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -14046,15 +13122,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-<<<<<<< HEAD
         <translation>Contorno de WordArt</translation>
-=======
-<<<<<<< HEAD
-        <translation>Contorno de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -14184,25 +13252,11 @@ Other Window</source>
     <name>tips.100%</name>
     <message>
         <source>100%</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>100%</translation>
     </message>
     <message>
         <source>Zoom the document to 100% of the normal size.</source>
         <translation>Aplique un zoom del 100% del tamaño normal al documento.</translation>
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom the document to 100% of the normal size.</source>
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -14270,19 +13324,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.3DStylePalette</name>
     <message>
         <source>3-D Effects</source>
-<<<<<<< HEAD
         <translation>Efectos 3D</translation>
-=======
-<<<<<<< HEAD
-        <translation>Efectos 3D</translation>
-=======
-<<<<<<< HEAD
-        <translation>Efectos 3D</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
@@ -14348,11 +13390,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.AcceptChangeOnTB</name>
     <message>
         <source>Accept the current change in the document.</source>
-<<<<<<< HEAD
         <translation></translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Accept the selected change</source>
@@ -14492,15 +13530,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
-<<<<<<< HEAD
         <translation>Coloca en mosaico todas las ventanas de los programas abiertos en paralelo en la pantalla.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Coloca en mosaico todas las ventanas de los programas abiertos en paralelo en pantalla.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -14605,19 +13635,7 @@ This option is available when grid is defined.</source>
     </message>
     <message>
         <source>Bring forward the selected object, so that it is not blocked by other objects.</source>
-<<<<<<< HEAD
         <translation>Trae el objeto seleccionado hacia adelante de forma que quede oculto detrás de menos objetos.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Trae el objeto seleccionado hacia adelante de forma que quede oculto detrás de menos objetos.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Trae el objeto seleccionado hacia adelante de forma que quede oculto detrás de menos objetos.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -14754,11 +13772,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.ChangeTextDirection</name>
     <message>
         <source>Customize the text layout direction in the current section, the entire document, or the selected text box and table.</source>
-<<<<<<< HEAD
         <translation>Cambia la orientación del texto a vertical o apilado, o lo gira en la dirección deseada.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Text Direction</source>
@@ -14795,19 +13809,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
-<<<<<<< HEAD
         <translation>Comprueba la ortografía y gramática del texto en el documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Comprueba la ortografía y gramática del texto en el documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Comprueba la ortografía y gramática del texto en el documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -14943,19 +13945,11 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CmpSideBySide</name>
     <message>
         <source>View Side by Side</source>
-<<<<<<< HEAD
         <translation>Ver en paralelo</translation>
     </message>
     <message>
         <source>View two documents side by side to compare their contents.</source>
         <translation>Muestra los dos documentos en paralelo para poder comparar el contenido.</translation>
-=======
-        <translation>Ver lado por lado</translation>
-    </message>
-    <message>
-        <source>View two documents side by side to compare their contents.</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -15040,19 +14034,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Use cross-reference to refer to headings and figures in the document.</source>
-<<<<<<< HEAD
         <translation>Hace referencia a elementos como encabezados e ilustraciones en el documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Hace referencia a elementos como encabezados e ilustraciones en el documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Hace referencia a elementos como encabezados e ilustraciones en el documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -15305,15 +14287,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Zoom the document so that two pages fit in the window.</source>
-<<<<<<< HEAD
         <translation>Acerca el documento para que dos páginas se ajusten en la ventana.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Acerca el documento para que dos páginas se ajusten en la ventana.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -15553,19 +14527,7 @@ Click the arrow to choose other options, such as Go To.</source>
         <source>Change the text color.
 
 Click the arrow to choose a different text color.</source>
-<<<<<<< HEAD
         <translation>Cambia el color del texto.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Cambia el color del texto.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Cambia el color del texto.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
@@ -15713,25 +14675,11 @@ Haga doble click en este botón de nuevo para aplicar el mismo formato a varias 
     <name>tips.FullScreenMode</name>
     <message>
         <source>Full Screen Mode</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Lectura de pantalla completa</translation>
     </message>
     <message>
         <source>View the document in full screen mode.</source>
         <translation>Muestra el documento en vista de lectura a pantalla completa para maximizar el espacio disponible para lectura o comentarios del documento.</translation>
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the document in full screen mode.</source>
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -15857,11 +14805,7 @@ This only affects tables which extend beyond a single page.</source>
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
-<<<<<<< HEAD
         <translation>Edita el encabezado y pie de página del documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15984,19 +14928,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     <name>tips.InsertAutoText</name>
     <message>
         <source>Auto Text</source>
-<<<<<<< HEAD
         <translation>Autotexto</translation>
-=======
-<<<<<<< HEAD
-        <translation>Autotexto</translation>
-=======
-<<<<<<< HEAD
-        <translation>Autotexto</translation>
-=======
-        <translation>Texto automático</translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert auto text in the header or footer to easily view and locate the related article.</source>
@@ -16011,11 +14943,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Click here to insert a horizontal or vertical blank page.</source>
-<<<<<<< HEAD
         <translation>Haga clic aquí para insertar una página en blanco horizontal o vertical.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
@@ -16034,7 +14962,6 @@ This makes it easy to see what part of your form letter will be replaced by info
     <name>tips.InsertBookmark</name>
     <message>
         <source>Create a bookmark to assign a name to a specific point in a document.</source>
-<<<<<<< HEAD
         <translation>Crea un marcador para asignar un nombre a un punto específico en un documento.
 
 Puede crear hipervínculos para pasar directamente a la ubicación del marcador.</translation>
@@ -16042,13 +14969,6 @@ Puede crear hipervínculos para pasar directamente a la ubicación del marcador.
     <message>
         <source>Insert Bookmark</source>
         <translation>Marcador</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Bookmark</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16155,19 +15075,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertComment</name>
     <message>
         <source>Add a comment to the document about the selection.</source>
-<<<<<<< HEAD
         <translation>Agrega un comentario sobre la selección.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Agrega un comentario sobre la selección.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Agrega un comentario sobre la selección.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert Comment</source>
@@ -16178,76 +15086,30 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date and Time</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Fecha y hora</translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
         <translation>Inserta la fecha y hora actuales en el documento actual.</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
         <translation>Inserta la fecha y hora actuales en el documento actual.</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Insert the current date or time into the current document.</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
     <name>tips.InsertField</name>
     <message>
         <source>Insert Field</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Insertar un campo</translation>
     </message>
     <message>
         <source>Insert field into the document.</source>
         <translation>Inserta un campo.</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Insert field into the document.</source>
          <translation>Inserta un campo.</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Insert field into the document.</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -16265,38 +15127,15 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertFootnote</name>
     <message>
         <source>Add a footnote or endnote to the document.</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Agrega una nota al pie o nota al final al documento.</translation>
     </message>
     <message>
         <source>Insert Footnote / Endnote</source>
         <translation>Insertar Nota al pie / Nota al final</translation>
-<<<<<<< HEAD
     </message>
     <message>
         <source>Insert Footnote / Endnote</source>
         <translation>Insertar Nota al pie / Nota al final</translation>
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
-    </message>
-    <message>
-        <source>Insert Footnote / Endnote</source>
-        <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16311,19 +15150,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertHyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
-<<<<<<< HEAD
         <translation>Crea un vínculo a una página web, una imagen, una dirección de correo electrónico o un programa.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Crea un vínculo a una página web, una imagen, una dirección de correo electrónico o un programa.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Crea un vínculo a una página web, una imagen, una dirección de correo electrónico o un programa.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -16352,25 +15179,9 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
 
 Set directory level for the selected paragraph and add a Table of Contents.</source>
-<<<<<<< HEAD
         <translation>Agrega una tabla de contenido al documento.
 
 Ajuste el nivel de directorio para el párrafo seleccionado y añade una tabla de contenidos.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Agrega una tabla de contenido al documento.
-
-Ajuste el nivel de directorio para el párrafo seleccionado y añade una tabla de contenidos.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Agrega una tabla de contenido al documento.
-
-Ajuste el nivel de directorio para el párrafo seleccionado y añade una tabla de contenidos.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16487,19 +15298,11 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>InsertPictureFromFile Content2</source>
-<<<<<<< HEAD
         <translation>Haga clic aquí para insertar una imagen desde archivo.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile Title2</source>
         <translation>Insertar imagen desde archivo</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertPictureFromFile Title2</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>LinkText</source>
@@ -16570,11 +15373,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-<<<<<<< HEAD
         <translation>Inserta símbolos que no existen en el teclado, como símbolos de copyright, símbolos de marca registrada, marcas de párrafo y caracteres Unicode.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16593,19 +15392,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>WordArt</source>
-<<<<<<< HEAD
         <translation>WordArt</translation>
-=======
-<<<<<<< HEAD
-        <translation>WordArt</translation>
-=======
-<<<<<<< HEAD
-        <translation>WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -16833,13 +15620,9 @@ Click the arrow to choose more outline styles.</source>
         <source>Synchronize the scrolling of two documents so that they scroll together.
 
 To enable this feature, turn on &quot;View Side by Side&quot;.</source>
-<<<<<<< HEAD
         <translation>Sincroniza el desplazamiento de los dos documentos para que se desplacen juntos.
 
 Para habilitar esta característica, habilite la &quot;función Ver en paralelo.&quot;.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -16861,19 +15644,11 @@ Para habilitar esta característica, habilite la &quot;función Ver en paralelo.
     <name>tips.Macro</name>
     <message>
         <source>View Macros</source>
-<<<<<<< HEAD
         <translation>Ver macros</translation>
     </message>
     <message>
         <source>View the list of Macros, from which you can run, create or delete a macro.</source>
         <translation>Muestra la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the list of Macros, from which you can run, create or delete a macro.</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -16990,11 +15765,7 @@ Para habilitar esta característica, habilite la &quot;función Ver en paralelo.
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
-<<<<<<< HEAD
         <translation>Abre el panel de navegación, que permite navegar por el documento por encabezado, página o mediante la búsqueda de texto u objetos.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17005,15 +15776,7 @@ Para habilitar esta característica, habilite la &quot;función Ver en paralelo.
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-<<<<<<< HEAD
         <translation>Abre una nueva ventana que contenga una vista del documento actual.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Abre una nueva ventana que contenga una vista del documento actual.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17031,19 +15794,7 @@ Para habilitar esta característica, habilite la &quot;función Ver en paralelo.
     <name>tips.NextComment</name>
     <message>
         <source>Navigate to the next comment in the document.</source>
-<<<<<<< HEAD
         <translation>Se desplaza al siguiente comentario del documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Se desplaza al siguiente comentario del documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Se desplaza al siguiente comentario del documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Next Comment</source>
@@ -17098,76 +15849,44 @@ Para habilitar esta característica, habilite la &quot;función Ver en paralelo.
     <name>tips.NudgeShadowDown</name>
     <message>
         <source>Move the shadow of the selected object down.</source>
-<<<<<<< HEAD
         <translation>Mover la sombra del objeto seleccionado hacia abajo.</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
         <translation>Empujar sombra hacia abajo</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowLeft</name>
     <message>
         <source>Move the shadow of the selected object to the left.</source>
-<<<<<<< HEAD
         <translation>Mover la sombra del objeto seleccionado a la izquierda.</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
         <translation>Empujar sombra a la izquierda</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowRight</name>
     <message>
         <source>Move the shadow of the selected object to the right.</source>
-<<<<<<< HEAD
         <translation>Mover la sombra del objeto seleccionado a la derecha.</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
         <translation>Empujar sombra a la derecha</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowUp</name>
     <message>
         <source>Move the shadow of the selected object up.</source>
-<<<<<<< HEAD
         <translation>Mover la sombra del objeto seleccionado hacia arriba.</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>Empujar sombra hacia arriba</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17178,11 +15897,7 @@ Para habilitar esta característica, habilite la &quot;función Ver en paralelo.
     </message>
     <message>
         <source>Click the arrow to choose from different numbering formats.</source>
-<<<<<<< HEAD
         <translation>Haga clic en la flecha para elegir entre diferentes formatos de numeración.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Numbering</source>
@@ -17204,19 +15919,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-<<<<<<< HEAD
         <translation>Muestra el panel de selección para ayudar a seleccionar objetos individuales y para cambiar el orden y la visibilidad.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Muestra el panel de selección para ayudar a seleccionar objetos individuales y para cambiar el orden y la visibilidad.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Muestra el panel de selección para ayudar a seleccionar objetos individuales y para cambiar el orden y la visibilidad.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17227,15 +15930,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Zoom the document so that an entire page fits in the window.</source>
-<<<<<<< HEAD
         <translation>Acerca el documento para que se ajuste toda la página en la ventana.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Acerca el documento para que se ajuste toda la página en la ventana.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17257,26 +15952,11 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     <name>tips.OutLine</name>
     <message>
         <source>Outline View</source>
-<<<<<<< HEAD
         <translation>Vista esquema</translation>
-=======
-<<<<<<< HEAD
-        <translation>Esquema</translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>View the document as an outline.</source>
         <translation>Muestra el documento como un esquema y muestra las herramientas de esquema.</translation>
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the document as an outline.</source>
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17328,11 +16008,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Select number formats for page numbers in the current document.</source>
-<<<<<<< HEAD
         <translation>Seleccione los formatos de número para los números de página en el documento actual.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17373,11 +16049,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-<<<<<<< HEAD
         <translation>Mostrar el cuadro de diálogo Configurar página.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17388,15 +16060,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
-<<<<<<< HEAD
         <translation>Acerca el documento para que el ancho de la página coincida con el ancho de la ventana.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Acerca el documento para que el ancho de la página coincida con el con el ancho de la ventana.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17442,11 +16106,7 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-<<<<<<< HEAD
         <translation>Aumenta o disminuye el contraste y el brillo de la imagen seleccionada.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17468,11 +16128,7 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-<<<<<<< HEAD
         <translation>Recortar la imagen para eliminar las partes no deseadas.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17557,19 +16213,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreviousComment</name>
     <message>
         <source>Navigate to the previous comment in the document.</source>
-<<<<<<< HEAD
         <translation>Va al comentario anterior en el documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Va al comentario anterior en el documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Va al comentario anterior en el documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Previous Comment</source>
@@ -17624,19 +16268,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.Print</name>
     <message>
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-<<<<<<< HEAD
         <translation>Aplicar ajustes detallados para la impresión, como la impresora, el intervalo de impresión, copias impresas, páginas por hoja y zoom.</translation>
     </message>
     <message>
         <source>Click here to set details of printing, or use default settings to print directly.</source>
         <translation>Haga clic aquí para configurar los detalles de impresión, o utilizar la configuración predeterminada para imprimir directamente.</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click here to set details of printing, or use default settings to print directly.</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Print</source>
@@ -17647,19 +16283,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrintDirect</name>
     <message>
         <source>Quick Print</source>
-<<<<<<< HEAD
         <translation>Impresión rápida</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
         <translation>Enviar el documento directamente a la impresora predeterminada sin realizar cambios.</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send the document directly to the default printer without making changes.</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17670,26 +16298,14 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
-<<<<<<< HEAD
         <translation>Muestra el documento tal y cómo aparecerá en la págian impresa.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Muestra el documento tal y cómo aparecerá en la página impresa.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-<<<<<<< HEAD
         <translation>Ver y hacer cambios en las páginas antes de imprimir.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Print Preview</source>
@@ -17700,19 +16316,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Specify the zoom level of the current document.</source>
-<<<<<<< HEAD
         <translation>Especifique el nivel de zoom del documento actual.</translation>
     </message>
     <message>
         <source>Zoom</source>
         <translation>Zoom</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17723,15 +16331,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
-<<<<<<< HEAD
         <translation>Muestra las reglas utilizadas para medir y alinear objetos en el documento.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Muestra las reglas utilizadas para medir y alinear objetos en el documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17782,31 +16382,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Restringir edición</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
         <translation>Restringe la forma en que los usuarios editan o dan formato a partes del documento especificando una contraseña.</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation>Protección de documento</translation>
-    </message>
-    <message>
-        <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17828,11 +16408,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show the Font dialog box.</source>
-<<<<<<< HEAD
         <translation>Mostrar el cuadro de diálogo Fuente.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17843,11 +16419,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show the Paragraph dialog box.</source>
-<<<<<<< HEAD
         <translation>Mostrar el cuadro de diálogo Párrafo.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -17907,11 +16479,7 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-<<<<<<< HEAD
         <translation>Haga clic en la flecha para seleccionar un color de texto diferente.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Text Color</source>
@@ -17922,11 +16490,7 @@ Click the arrow to select a different text color.</source>
     <name>tips.RecentTableShadingColor</name>
     <message>
         <source>Click the arrow to select different background colors.</source>
-<<<<<<< HEAD
         <translation>Haga clic en la flecha para seleccionar diferentes colores de fondo.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
@@ -17962,19 +16526,11 @@ Click the arrow to select different background colors.</source>
     <name>tips.RejectChangeOnTB</name>
     <message>
         <source>Click the arrow to reject all changes in the document.</source>
-<<<<<<< HEAD
         <translation>Haga clic en la flecha para rechazar todos los cambios en el documento.</translation>
     </message>
     <message>
         <source>Reject the current change and delete the comment.</source>
         <translation></translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reject the current change and delete the comment.</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Reject the selected change</source>
@@ -17985,11 +16541,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.RejectRevisionOnTB</name>
     <message>
         <source>Click here to reject all changes in the document.</source>
-<<<<<<< HEAD
         <translation>Haga clic aquí para rechazar todos los cambios en el documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Reject Change</source>
@@ -17997,11 +16549,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-<<<<<<< HEAD
         <translation>Rechazar el cambio actual y eliminar el comentario.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -18034,11 +16582,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Replace text content in the document.</source>
-<<<<<<< HEAD
         <translation>Reemplazar el contenido del texto en el documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -18064,19 +16608,11 @@ Click the arrow to select different background colors.</source>
     <name>tips.RestartPageNumber</name>
     <message>
         <source>Reset the starting page number of the current document.</source>
-<<<<<<< HEAD
         <translation>Reinicie el número de página inicial del documento actual.</translation>
     </message>
     <message>
         <source>Restart Page Numbering</source>
         <translation>Reiniciar numeración de página</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restart Page Numbering</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -18087,11 +16623,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
-<<<<<<< HEAD
         <translation>Mostrar u ocultar la regla, que se utiliza para medir y alinear objetos en el documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -18148,19 +16680,7 @@ Utilice seleccionar objeto para seleccionar objetos situados detrás del texto.<
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
-<<<<<<< HEAD
         <translation>Lleva el objeto seleccionado hacia atrás para que quede oculto detrás de otros objetos.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Lleva el objeto seleccionado hacia atrás para que quede oculto detrás de otros objetos.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Lleva el objeto seleccionado hacia atrás para que quede oculto detrás de otros objetos.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
@@ -18188,13 +16708,9 @@ Utilice seleccionar objeto para seleccionar objetos situados detrás del texto.<
         <source>Set the shadow color of the selected object.
 
 Click the arrow to select different shadow colors.</source>
-<<<<<<< HEAD
         <translation>Ajusta el color de la sombra del objeto seleccionado.
 
 Haga clic en la flecha para seleccionar diferentes colores de sombra.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Shadow Color</source>
@@ -18209,22 +16725,14 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
-<<<<<<< HEAD
         <translation>Activa o desactiva la sombra del objeto seleccionado.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
     <name>tips.ShadowSetting</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-<<<<<<< HEAD
         <translation>Añadir un efecto visual para el objeto seleccionado</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Shadow Effects</source>
@@ -18291,11 +16799,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
     <name>tips.ShowFirstPageNumber</name>
     <message>
         <source>Show or hide the page number on the first page of the document.</source>
-<<<<<<< HEAD
         <translation>Mostrar u ocultar el número de página en la primera página del documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Show page number on first page</source>
@@ -18509,11 +17013,7 @@ Click the arrow to select subscript.</source>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-<<<<<<< HEAD
         <translation>Pasa a una ventana abierta actualmente diferente.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -18669,38 +17169,22 @@ Click the arrow to select different shading colors.</source>
     <name>tips.TaskPane</name>
     <message>
         <source>Show or hide task pane in the document.</source>
-<<<<<<< HEAD
         <translation>Mostrar u ocultar el panel de tareas en el documento.</translation>
     </message>
     <message>
         <source>Task Pane</source>
         <translation>Panel de tareas</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Task Pane</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
     <name>tips.TextBox</name>
     <message>
         <source>Click here to insert horizontal, vertical or multi-line text boxes.</source>
-<<<<<<< HEAD
         <translation>Haga clic aquí para insertar un cuadro de texto horizontal, vertical o cuadros de texto multilínea.</translation>
     </message>
     <message>
         <source>Draw Horizontal Text Box</source>
         <translation>Dibujar cuadro de texto horizontal</translation>
-=======
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Draw Horizontal Text Box</source>
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert a text box into the document.</source>
@@ -18745,19 +17229,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Track all changes made to the document, including insertions, deletions and formatting changes.</source>
-<<<<<<< HEAD
         <translation>Controla todos los cambios realizados en el documento, incluidas las insercciones, eliminaciones y cambios de formato.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Controla todos los cambios realizados en el documento, incluidas las insercciones, eliminaciones y cambios de formato.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Controla todos los cambios realizados en el documento, incluidas las insercciones, eliminaciones y cambios de formato.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -18798,37 +17270,15 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Update Table of Contents</source>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
         <translation>Actualizar tabla</translation>
     </message>
     <message>
         <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
         <translation>Actualiza la tabla de contenido para que todas las entradas hagan referencia al número de página correcto.</translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
         <translation type="unfinished"></translation>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -18845,13 +17295,9 @@ Click the arrow to select different shading colors.</source>
         <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
 
 To enable this feature, turn on View Side by Side.</source>
-<<<<<<< HEAD
         <translation>Restablece la posición de la ventana del documento que se está comparando en paralelo para que compartan la pantalla.
 
 Para habilitar esta característica, active la función Ver en paralelo.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -18893,25 +17339,9 @@ Para habilitar esta característica, active la función Ver en paralelo.</transl
         <source>Insert ghosted text and picture behind the content on the page.
 
 This is often used to indicate that the document is to be treated specially, such as encrypted and confidential material and to prohibit copying or mark the document source such as the addition of copyright logos and author information.</source>
-<<<<<<< HEAD
         <translation>Inserta texto fantasma detrás del contenido de la página.
 
 Generalmente se utiliza para indicar que un documento se debe tratar de manera especial, como Confidencial o Urgente.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Inserta texto fantasma detrás del contenido de la página.
-
-Generalmente se utiliza para indicar que un documento se debe tratar de manera especial, como Confidencial o Urgente.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Inserta texto fantasma detrás del contenido de la página.
-
-Generalmente se utiliza para indicar que un documento se debe tratar de manera especial, como Confidencial o Urgente.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Watermark</source>
@@ -18922,15 +17352,7 @@ Generalmente se utiliza para indicar que un documento se debe tratar de manera e
     <name>tips.WebLayoutView</name>
     <message>
         <source>View the document as it would look as a Web page.</source>
-<<<<<<< HEAD
         <translation>Muestra el documento como sería como página web.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Muestra el documento como sería como página web.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Web Layout</source>
@@ -18973,15 +17395,7 @@ Click the arrow to fill the WordArt in different ways.</source>
     </message>
     <message>
         <source>WordArt Fill</source>
-<<<<<<< HEAD
         <translation>Relleno de WordArt</translation>
-=======
-<<<<<<< HEAD
-        <translation>Relleno de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -19009,15 +17423,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-<<<<<<< HEAD
         <translation>Contorno de WordArt</translation>
-=======
-<<<<<<< HEAD
-        <translation>Contorno de WordArt</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -19068,25 +17474,9 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WordCount</name>
     <message>
         <source>Count the number of pages, words, characters and paragraphs in the document.</source>
-<<<<<<< HEAD
         <translation>Busca el número de palabras, caracteres, párrafos y líneas del documento.
 
 También puede descubrir el recuento de palabras en la barra de estado en la parte inferior de la ventana.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Busca el número de palabras, caracteres, párrafos y líneas del documento.
-
-También puede descubrir el recuento de palabras en la barra de estado en la parte inferior de la ventana.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Busca el número de palabras, caracteres, párrafos y líneas del documento.
-
-También puede descubrir el recuento de palabras en la barra de estado en la parte inferior de la ventana.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Word Count</source>
@@ -19121,13 +17511,9 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-<<<<<<< HEAD
         <translation>Muestra el cuadro de diálogo Zoom para especificar el nivel de zoom del documento.
 
 En la mayoría de los casos, también puede usar los controles de zoom de la barra de estado en la parte inferior de la ventana para acercar o alejar el documento.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Zoom</source>
@@ -19144,25 +17530,9 @@ En la mayoría de los casos, también puede usar los controles de zoom de la bar
         <source>Align the edges of multiple selected objects.
 
 You can also center them or distribute them evenly across the page.</source>
-<<<<<<< HEAD
         <translation>Alinea los bordes de varios objetos seleccionados.
 
 Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Alinea los bordes de varios objetos seleccionados.
-
-Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Alinea los bordes de varios objetos seleccionados.
-
-Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -19177,11 +17547,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     <name>tips.m_Breaks</name>
     <message>
         <source>Add page, section or column breaks to the document.</source>
-<<<<<<< HEAD
         <translation></translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Insert Page and Section Breaks</source>
@@ -19226,19 +17592,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
-<<<<<<< HEAD
         <translation>Agrupar los objetos juntos para que se puedan considerar como un solo objeto.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Agrupar los objetos juntos para que se puedan considerar como un solo objeto.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Agrupar los objetos juntos para que se puedan considerar como un solo objeto.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -19324,19 +17678,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
-<<<<<<< HEAD
         <translation>Gira o voltea el objeto seleccionado.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Gira o voltea el objeto seleccionado.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Gira o voltea el objeto seleccionado.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -19409,19 +17751,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Delete Selected Comment</source>
-<<<<<<< HEAD
         <translation>Elimina el comentario seleccionado.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Elimina el comentario seleccionado.</translation>
-=======
-<<<<<<< HEAD
-        <translation>Elimina el comentario seleccionado.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> d04575aee0f66206bc6c1352531c23d6e16ddceb
->>>>>>> e502a6f825deef1ca2fe23a37ef2668bb50e3c45
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
 </context>
 <context>
@@ -19439,11 +17769,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-<<<<<<< HEAD
         <translation>Haga clic aquí para obtener más opciones como pegar únicamente los valores o el formato.</translation>
-=======
-        <translation type="unfinished"></translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>Paste</source>
@@ -19670,11 +17996,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>View Side by Side</source>
-<<<<<<< HEAD
         <translation>Ver en paralelo</translation>
-=======
-        <translation>Ver lado por lado</translation>
->>>>>>> 385e21edb4b7b378b0889d505efc9c8f6ad9964f
     </message>
     <message>
         <source>WordArt</source>
