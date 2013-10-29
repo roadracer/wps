@@ -2691,6 +2691,10 @@ You can click the button to recover files you work on.</source>
 ·放弃对文件的修改。
 (%s)</translation>
     </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
+        <translation>本软件包括: The FreeType Project, 根据其The FreeType License的授权条款获得免费授权;哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术;Hunspell拼写检查库, Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码;方正字体，根据方正官方授权用于WPS Office Linux版使用。</translation>
+    </message>
 </context>
 <context>
     <name>print</name>
