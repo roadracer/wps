@@ -6939,7 +6939,7 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>邮件反馈</translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -8389,7 +8389,7 @@ AddIns</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>邮件反馈</translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -12989,7 +12989,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.KOSCloudFeedbackTip</name>
     <message>
         <source>Feedback</source>
-        <translation>邮件反馈</translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>User Feedback</source>

@@ -2623,7 +2623,7 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>用户反馈</translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -6598,7 +6598,7 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished">邮件反馈</translation>
+        <translation type="unfinished">反馈</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -7220,7 +7220,7 @@ Master</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS 论坛</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -7988,7 +7988,7 @@ AddIns</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>用户反馈</translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>

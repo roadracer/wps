@@ -2842,7 +2842,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Feedback</source>
-        <translation>用户反馈</translation>
+        <translation>反馈</translation>
     </message>
 </context>
 <context>

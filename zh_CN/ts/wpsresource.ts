@@ -2951,7 +2951,7 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>邮件反馈</translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -9255,7 +9255,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>邮件反馈</translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
