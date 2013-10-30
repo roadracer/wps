@@ -6754,7 +6754,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="obsolete">WPS Office 主页</translation>
+        <translation>WPS Office 主页</translation>
     </message>
     <message>
         <source>Kingsoft Online</source>
@@ -7229,10 +7229,6 @@ Master</source>
     <message>
         <source>WPS New features</source>
         <translation>WPS Office 新特性</translation>
-    </message>
-    <message>
-        <source>WPS Office Homepage</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
