@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
-<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -7983,7 +7982,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>横向</translation>
+        <translation type="obsolete">横向</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -8539,7 +8538,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>竖向文本框</translation>
+        <translation type="obsolete">竖向文本框</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -8592,6 +8591,28 @@ Diagonal Line in Cell</source>
     <message>
         <source>wpsweibolayout</source>
         <translation>适合微博显示的页面</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertBlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation>横向</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖向</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertTextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation>横向文本框</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖向文本框</translation>
     </message>
 </context>
 <context>
