@@ -9078,7 +9078,7 @@ Document</source>
     <message>
         <source>The file you are opening changes the option of Automatic Recalculation to Manual Recalculation, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual Recalculation?</source>
-        <translation type="unfinished"></translation>
+        <translation type="O arquivo que você está abrindo muda a opção de recálculo automático para recálculo manual, o que faz com que o arquivo atual e outros arquivos não possam obter os resultados corretos durante o processo de edição. Você quer mudar para recálculo manual?"></translation>
     </message>
     <message>
         <source>Manual Recalculation</source>
@@ -9086,7 +9086,7 @@ Do you want to change to Manual Recalculation?</source>
     </message>
     <message>
         <source>Automatic Recalculation (Recommend)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Recálculo Automático (Recomendado)"></translation>
     </message>
 </context>
 </TS>
