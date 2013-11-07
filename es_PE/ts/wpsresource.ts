@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished">Enviar Detrás del Texto</translation>
+        <translation>Enviar Detrás del Texto</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -199,67 +199,67 @@
     <name>classics.control_tool_box</name>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casilla de Verificación</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro Combinado</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de Comando</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de Controles</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Diseño</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>List Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de Lista</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Más Controles</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de Opción</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Desplazamiento</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de Giro</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de Sustitución</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver Código</translation>
     </message>
 </context>
 <context>
@@ -298,95 +298,95 @@
     </message>
     <message>
         <source>3-D Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo 3-D 9</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -486,7 +486,7 @@
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Traer al Frente</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -1008,7 +1008,7 @@
     </message>
     <message>
         <source>Styles Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos de Ventana</translation>
     </message>
 </context>
 <context>
@@ -1064,11 +1064,11 @@
     <name>classics.header_and_footer</name>
     <message>
         <source>- Page -</source>
-        <translation type="unfinished"></translation>
+        <translation>- Página -</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Insert Auto Text</source>
@@ -1296,19 +1296,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Detrás del Texto</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Blanco y Negro</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar Imagen</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -1320,11 +1320,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galería</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de Grises</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -1336,7 +1336,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar Imagen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -2274,7 +2274,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>List Button</source>
-        <translation>Botones de Lista</translation>
+        <translation>Botón de Lista</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -2286,7 +2286,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Option Button</source>
-        <translation>Botones de Opción</translation>
+        <translation>Botón de Opción</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -2298,15 +2298,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation>Girar Botón</translation>
+        <translation>Botón de Giro</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Caja de Texto</translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation>Sustituir Botón</translation>
+        <translation>Botón de Sustitución</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -2471,7 +2471,7 @@ On</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>Detras del Texto</translation>
+        <translation>Detrás del Texto</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2483,7 +2483,7 @@ On</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Traer Adelante</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -2491,11 +2491,11 @@ On</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Traer al Frente</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -2559,19 +2559,19 @@ On</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de Fuente</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de Fuente</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de Fuente</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -2595,19 +2595,19 @@ On</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrandar fuente</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Resaltar</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -2631,11 +2631,11 @@ On</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio de Línea</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -2651,7 +2651,7 @@ On</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Más</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -2699,7 +2699,7 @@ On</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
@@ -2711,7 +2711,7 @@ On</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -2783,7 +2783,7 @@ On</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -3695,7 +3695,7 @@ bol</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -8247,7 +8247,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>Text Orientation</source>
@@ -8495,7 +8495,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -8902,7 +8902,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -9806,7 +9806,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -17763,7 +17763,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de Texto</translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -17775,7 +17775,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio de Trabajo</translation>
     </message>
 </context>
 <context>
