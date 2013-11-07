@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_PE">
 <defaultcodec>UTF-8</defaultcodec>
@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Direction</source>
-        <translation>Derección</translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Trae Adelante</translation>
+        <translation>Traer Adelante</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -169,11 +169,11 @@
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation>Detras del Texto</translation>
+        <translation>Enviar Detras del Texto</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>Enviar Atras</translation>
+        <translation>Enviar Atrás</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver Lado por Lado</translation>
+        <translation>Ver al Lado del Otro</translation>
     </message>
 </context>
 <context>
@@ -976,15 +976,15 @@
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de Fuente</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamaño de la Fuente</translation>
+        <translation>Tamaño de Fuente</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Resaltar</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -1000,7 +1000,7 @@
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Más Colores de Fuente</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -1407,19 +1407,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>Cerrar vista previa</translation>
+        <translation>Cerrar Vista Previa</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation>Una pagina</translation>
+        <translation>Una Página</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation>Dos páginas</translation>
+        <translation>Dos Páginas</translation>
     </message>
     <message>
         <source>View Ruler</source>
-        <translation>Ver regla</translation>
+        <translation>Ver Regla</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1699,7 +1699,7 @@ Merged Data</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Cambiar la interfaz de usuario</translation>
+        <translation>Cambiar Interfaz de Usuario</translation>
     </message>
     <message>
         <source>true</source>
@@ -2143,7 +2143,7 @@ Merged Data</source>
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation>Barra de herramientas perzonalizada</translation>
+        <translation>Barra de Herramientas Perzonalizada</translation>
     </message>
 </context>
 <context>
@@ -2167,7 +2167,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Draw MutidiagonalCell</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibujar Celda Multidiagonal</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -2175,19 +2175,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>DrawMutidiagonalCell</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibujar Celda Multidiagonal</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation>Borrador</translation>
+        <translation>Goma de Borrar</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Estilo de Linea</translation>
+        <translation>Estilo de Línea</translation>
     </message>
     <message>
         <source>Line Width</source>
-        <translation>Ancho de Linea</translation>
+        <translation>Ancho de Línea</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -2195,7 +2195,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>Más Colores de Linea</translation>
+        <translation>Más Colores de Línea</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -2215,7 +2215,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Tabla</translation>
     </message>
 </context>
 <context>
@@ -2242,7 +2242,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Command Button</source>
-        <translation>Boton de Comando</translation>
+        <translation>Botón de Comando</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -2298,7 +2298,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation>Boton con Flecha</translation>
+        <translation>Girar Botón</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -2306,7 +2306,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation>Boton de Conmutación</translation>
+        <translation>Sustituir Botón</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -2314,7 +2314,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>Editor Visual Basic</translation>
+        <translation>Editor de Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -2391,7 +2391,7 @@ On</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation>Align</translation>
+        <translation>Alinear</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -2842,23 +2842,23 @@ On</translation>
     <name>ongmani.ct_file</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>Acerda de Kingsof Writer</translation>
+        <translation>Acerca de Kingsof Writer</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Gestion de copias de seguridad</translation>
+        <translation>Gestión de Copias de Seguridad</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar Versión</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
-        <translation>Proteccion y propiedades del documento</translation>
+        <translation>Protección y Propiedades del Cocumento</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Encriptar</translation>
+        <translation>Cifrar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -2866,11 +2866,11 @@ On</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Realimentacion</translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>File Information</source>
-        <translation>Información del archiovo</translation>
+        <translation>Información del Archivo</translation>
     </message>
     <message>
         <source>File Menu Help</source>
@@ -2910,7 +2910,7 @@ On</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
@@ -2942,11 +2942,11 @@ On</translation>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Nuevo desde Plantilla Locales</translation>
+        <translation>Nuevo desde Plantillas Locales</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Nuevo desde Plnatillas en Linea</translation>
+        <translation>Nuevo desde Plantillas en Linea</translation>
     </message>
     <message>
         <source>Open</source>
@@ -4408,7 +4408,7 @@ Different New Document</source>
     <name>ongmani.ct_paragraph.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Más numeración</translation>
+        <translation>Más Numeración</translation>
     </message>
     <message>
         <source>Number</source>
@@ -8330,7 +8330,7 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Cambiar la interfaz de usuario</translation>
+        <translation>Cambiar Interfaz de Usuario</translation>
     </message>
     <message>
         <source>true</source>
@@ -8341,14 +8341,14 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Cambiar idioma</translation>
+        <translation>Cambiar Idioma</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation>Barra de herramientas perzonalizada</translation>
+        <translation>Barra de Herramientas Perzonalizada</translation>
     </message>
 </context>
 <context>
@@ -9144,7 +9144,7 @@ Diagonal Line in Cell</source>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda de Kingsoft Writer</translation>
     </message>
 </context>
 <context>
@@ -17767,7 +17767,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver Lado por Lado</translation>
+        <translation>Ver al Lado del Otro</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -18383,15 +18383,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Plantillas en línea Docer</translation>
+        <translation>Plantillas en Línea Docer</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation>Herramientas de dibujo</translation>
+        <translation>Herramientas de Dibujo</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Microblog Empresarial</translation>
     </message>
     <message>
         <source>File</source>
@@ -18407,11 +18407,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation>Encabezado/Pie de Página</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation>Ocultar la barra de herramientas</translation>
+        <translation>Ocultar la Barra de Herramientas</translation>
     </message>
     <message>
         <source>Home</source>
@@ -18423,11 +18423,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>Iniciar Sesion</translation>
+        <translation>Iniciar Sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Cerrar Sesion</translation>
+        <translation>Cerrar Sesión</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -18435,19 +18435,19 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Panel de navegacion</translation>
+        <translation>Panel de Navegación</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>Nuevo archivo en blanco</translation>
+        <translation>Nuevo Archivo en Blanco</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Nuevo de más plantillas</translation>
+        <translation>Nuevo de Más Plantillas</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>No ha iniciado sesion</translation>
+        <translation>No Ha Iniciado Sesión</translation>
     </message>
     <message>
         <source>Open</source>
@@ -18463,27 +18463,27 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>Diseño de pagina</translation>
+        <translation>Diseño de Página</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation>Diseño de parrafo</translation>
+        <translation>Diseño de Párrafo</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>Herramientas de imagen</translation>
+        <translation>Herramientas de Imagen</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Vista previa de impresión</translation>
+        <translation>Vista Previa de Impresión</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation>Barra de herramientas de acceso rápido</translation>
+        <translation>Barra de Herramientas de Acceso Rápido</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Documentos recientes</translation>
+        <translation>Documentos Recientes</translation>
     </message>
     <message>
         <source>References</source>
@@ -18499,31 +18499,31 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>Sección de navegacion</translation>
+        <translation>Sección de Navegación</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation>Mostrar la barra de herramientas</translation>
+        <translation>Mostrar la Barra de Herramientas</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation>Adherir la barra de herramientas</translation>
+        <translation>Fijar la Barra de Herramientas</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Cambiar la interfaz de usuario</translation>
+        <translation>Cambiar Interfaz de Usuario</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>Estilo de tabla</translation>
+        <translation>Estilo de Tabla</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation>Herramientas de tabla</translation>
+        <translation>Herramientas de Tabla</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation>Conexion de usuario</translation>
+        <translation>Inicio de sesión de usuario</translation>
     </message>
     <message>
         <source>View</source>
@@ -18531,23 +18531,23 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Que hay de nuevo</translation>
+        <translation>Qué Hay de Nuevo</translation>
     </message>
     <message>
         <source>Window Close</source>
-        <translation>Cerrar ventana</translation>
+        <translation>Cerrar Ventana</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation>Maximizar ventana</translation>
+        <translation>Maximizar Ventana</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>Minimizar ventana</translation>
+        <translation>Minimizar Ventana</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation>Restaurar ventana</translation>
+        <translation>Restaurar Ventana</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -18555,11 +18555,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Espacio de Trabajo</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation>Ajustes</translation>
+        <translation>ajuste</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -18570,7 +18570,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Cambiar la interfaz de usuario</translation>
+        <translation>Cambiar Interfaz de Usuario</translation>
     </message>
 </context>
 <context>
@@ -18599,7 +18599,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Cambiar Informazion de Usuario</translation>
+        <translation>Cambiar Información de Usuario</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -18607,15 +18607,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Plantillas en línea Docer</translation>
+        <translation>Plantillas en Línea Docer</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation>Herramientas de dibujo</translation>
+        <translation>Herramientas de Dibujo</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Microblog Empresarial</translation>
     </message>
     <message>
         <source>File</source>
@@ -18631,11 +18631,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation>Encabezado/Pie de Página</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation>Ocultar la barra de herramientas</translation>
+        <translation>Ocultar la Barra de Herramientas</translation>
     </message>
     <message>
         <source>Home</source>
@@ -18647,11 +18647,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>Iniciar Sesion</translation>
+        <translation>Iniciar Sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Cerrar Sesion</translation>
+        <translation>Cerrar Sesión</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -18659,11 +18659,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>Panel de navegacion</translation>
+        <translation>Panel de Navegación</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>No ha iniciado sesion</translation>
+        <translation>No Ha Iniciado Sesión</translation>
     </message>
     <message>
         <source>Options</source>
@@ -18675,15 +18675,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>Diseño de pagina</translation>
+        <translation>Diseño de Página</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation>Diseño de parrafo</translation>
+        <translation>Diseño de Párrafo</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>Herramientas de imagen</translation>
+        <translation>Herramientas de Imagen</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -18691,7 +18691,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation>Barra de herramientas de acceso rápido</translation>
+        <translation>Barra de Herramientas de Acceso Rápido</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -18711,35 +18711,35 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>Sección de navegacion</translation>
+        <translation>Sección de Navegación</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation>Mostrar la barra de herramientas</translation>
+        <translation>Mostrar la Barra de Herramientas</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation>Mostrar la barra de herramientas</translation>
+        <translation>Mostrar/Ocultar la Barra de Herramientas</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation>Adherir la barra de herramientas</translation>
+        <translation>Fijar la barra de herramientas</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Cambiar la interfaz de usuario</translation>
+        <translation>Cambiar Interfaz de Usuario</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>Estilo de tabla</translation>
+        <translation>Estilo de Tabla</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation>Herramientas de tabla</translation>
+        <translation>Herramientas de Tabla</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation>Conexion de usuario</translation>
+        <translation>Inicio de sesión de Usuario</translation>
     </message>
     <message>
         <source>View</source>
@@ -18747,7 +18747,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Que hay de nuevo</translation>
+        <translation>Qué Hay de Nuevo</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -18755,7 +18755,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Espacio de Trabajo</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -18766,11 +18766,11 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Cambiar la interfaz de usuario</translation>
+        <translation>Cambiar Interfaz de Usuario</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>Verdadero</translation>
+        <translation>verdadero</translation>
     </message>
 </context>
 <context>
