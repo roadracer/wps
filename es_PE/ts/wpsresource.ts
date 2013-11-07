@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation>Enviar Detras del Texto</translation>
+        <translation type="unfinished">Enviar Detrás del Texto</translation>
     </message>
     <message>
         <source>Send to Back</source>
