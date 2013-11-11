@@ -4355,66 +4355,66 @@
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation type="unfinished"></translation>
+        <translation type="Permitir modificar"></translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="Permitir copiar"></translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation type="unfinished"></translation>
+        <translation type="Permitir adicionar comentários"></translation>
     </message>
     <message>
         <source>Permission Print:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Permissão de Impressão"></translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation type="Impressão não permitida"></translation>
     </message>
     <message>
         <source>Print low quality only</source>
-        <translation type="unfinished"></translation>
+        <translation type="Imprimir apenas em baixa qualidade"></translation>
     </message>
     <message>
         <source>Free Print</source>
-        <translation type="unfinished"></translation>
+        <translation type="Imprimir Livremente"></translation>
     </message>
     <message>
         <source>File Open password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Abrir arquivo protegido"></translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished"></translation>
+        <translation type="S&amp;enha:"></translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation type="unfinished"></translation>
+        <translation type="C&amp;onfirmar"></translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished"></translation>
+        <translation type="Fechar quando completar a exportação"></translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation type="Exportar para o formato PDF"></translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Preparando para exportar arquivo PDF"></translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished"></translation>
+        <translation type="Abrir Arquivo"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="Cancelar"></translation>
     </message>
 </context>
 <context>
@@ -4453,7 +4453,7 @@
     </message>
     <message>
         <source>Click on diagram below or use buttons to apply borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="Clique no diagrama abaixo ou use os botões para aplicar bordas"></translation>
     </message>
     <message>
         <source>btnBorderUp</source>
@@ -4469,7 +4469,7 @@
     </message>
     <message>
         <source>Border Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="Visualizar Borda"></translation>
     </message>
     <message>
         <source>btnBorderSlash</source>
@@ -4493,7 +4493,7 @@
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation type="Preenchimento"></translation>
     </message>
     <message>
         <source>cbFillColor</source>
@@ -4517,59 +4517,59 @@
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation type="Caixa de Texto"></translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Alinhar Texto"></translation>
     </message>
     <message>
         <source>cbTextAlign</source>
-        <translation type="unfinished"></translation>
+        <translation type="cbAlinhar Texto"></translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="Topo"></translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="Médio"></translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="Inferior"></translation>
     </message>
     <message>
         <source>Top centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="Centralizar em Cima"></translation>
     </message>
     <message>
         <source>Middle centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="Centralizar no Meio"></translation>
     </message>
     <message>
         <source>Bottom centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="Centralizar em Baixo"></translation>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"></translation>
+        <translation type="Margem Interna"></translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;Esquerda:"></translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;Superior:"></translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;Direita:"></translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;Inferior:"></translation>
     </message>
     <message>
         <source>cbOrientation</source>
@@ -4588,7 +4588,7 @@
     </message>
     <message>
         <source>Slide preview:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Visualizar Slide"></translation>
     </message>
     <message>
         <source>&amp;Show and return</source>
@@ -4599,23 +4599,23 @@
     <name>kxdlgexportpresentationhint</name>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kingsoft Presentation"></translation>
     </message>
     <message>
         <source>Do you want to export every slide in the presentation or only the current slide?</source>
-        <translation type="unfinished"></translation>
+        <translation type="Você deseja exportar todos os slides da apresentação ou apenas o slide atual?"></translation>
     </message>
     <message>
         <source>&amp;Every Slide</source>
-        <translation type="unfinished"></translation>
+        <translation type="Todos os Slides"></translation>
     </message>
     <message>
         <source>&amp;Current Slide Only</source>
-        <translation type="unfinished"></translation>
+        <translation type="Apenas Slide Atual"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="Cancelar"></translation>
     </message>
 </context>
 </TS>
