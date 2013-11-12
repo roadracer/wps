@@ -5,195 +5,195 @@
     <name>CWpsTableStyle</name>
     <message>
         <source>Styless, no grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez sloga in mreže</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Poudari</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez sloga z mrežo</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel barvni slog</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji barvni slog</translation>
     </message>
     <message>
         <source>Deep Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog - poudari 1/poudari 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog - poudari 3/poudari 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog - poudari 5/poudari 6</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Prva vrstica</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadnja vrstica</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupina vrstic</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupina stolpcev</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Prvi stolpec</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadnji stolpec</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Vgrajeno</translation>
     </message>
     <message>
         <source>Styless, no grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez sloga in mreže</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Poudari</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez sloga z mrežo</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel barvni slog</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji barvni slog</translation>
     </message>
     <message>
         <source>Dark Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog - poudari 1/poudari 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog - poudari 3/poudari 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen barvni slog - poudari 5/poudari 6</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Najbližji rezultat</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="unfinished"></translation>
+        <translation>Izprano</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Sredina</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished"></translation>
+        <translation>Globoko</translation>
     </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Najbližji rezultat</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="unfinished"></translation>
+        <translation>Izprano</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Sredina</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished"></translation>
+        <translation>Globoko</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slog tabele:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti slogov tabele:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti slog tabele</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Apply Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi slog tabele</translation>
     </message>
 </context>
 </TS>
