@@ -5,15 +5,15 @@
     <name>KBeforeLoginTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>qq login</source>
-        <translation type="unfinished"></translation>
+        <translation>qq prijava</translation>
     </message>
     <message>
         <source>sina webo login</source>
-        <translation type="unfinished"></translation>
+        <translation>sina webo prijava</translation>
     </message>
     <message>
         <source>wps password logn</source>
@@ -28,19 +28,19 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsta:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost:</translation>
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation type="unfinished"></translation>
+        <translation>spremeni čas:</translation>
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="unfinished"></translation>
+        <translation>http://www.kingsoftstore.com/support/pc-office</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Načrtovana varnostna kopija</translation>
     </message>
     <message>
         <source>Explore Versions</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>netbackup rollback failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>netbackup razveljavitev ni uspela.</translation>
     </message>
 </context>
 <context>
@@ -132,22 +132,22 @@
     <message>
         <source>Create new folder</source>
         <comment>create new folder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari novo mapo</translation>
     </message>
 </context>
 <context>
     <name>KFileListView</name>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite izbrisati »%1«?</translation>
     </message>
     <message>
         <source>Delete file</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši datoteko</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos; files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite izbrisati »%1« datoteke?</translation>
     </message>
     <message>
         <source>Delete many objects</source>
@@ -158,7 +158,7 @@
     <name>KFileModeDelegate</name>
     <message>
         <source>The file path cannot be longer than 255 characters !</source>
-        <translation type="unfinished"></translation>
+        <translation>Pot datoteke ne sme biti daljše od 255 znakov!</translation>
     </message>
     <message>
         <source>The file name must not contain any of the characters:
@@ -172,7 +172,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>rename</source>
-        <translation type="unfinished"></translation>
+        <translation>preimenuj</translation>
     </message>
     <message>
         <source>The file name cannot be empty !</source>
@@ -181,14 +181,14 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>The file name already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke že obstaja!</translation>
     </message>
 </context>
 <context>
     <name>KFileViewPage</name>
     <message>
         <source>Save to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani v oblak</translation>
     </message>
     <message>
         <source>Back to previous directory</source>
@@ -201,7 +201,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Spletni dokumenti</translation>
     </message>
     <message>
         <source>Upward directory</source>
@@ -209,7 +209,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Create new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari novo mapo</translation>
     </message>
     <message>
         <source>&quot;view&quot; menu</source>
@@ -221,7 +221,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File &amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime &amp;datoteke:</translation>
     </message>
     <message>
         <source>Save &amp;Type:</source>
@@ -229,11 +229,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Shrani</translation>
     </message>
     <message>
         <source>&amp;Encryption</source>
@@ -245,7 +245,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Odpri</translation>
     </message>
     <message>
         <source>Open &amp;Type:</source>
@@ -281,7 +281,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>F1</source>
-        <translation type="unfinished"></translation>
+        <translation>F1</translation>
     </message>
     <message>
         <source>Rena&amp;me</source>
@@ -289,7 +289,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <source>R&amp;efresh</source>
@@ -345,7 +345,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -353,11 +353,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <source>Close the dialog!</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri pogovorno okno!</translation>
     </message>
     <message>
         <source>Create Quick &amp;Link</source>
@@ -477,18 +477,18 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupina</translation>
     </message>
 </context>
 <context>
     <name>KLiveEmbedDialogImpl</name>
     <message>
         <source>Open Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri oblak</translation>
     </message>
     <message>
         <source>Save to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani v oblak</translation>
     </message>
 </context>
 <context>
@@ -541,7 +541,7 @@ Are you sure to change?</source>
     <name>KxDlgNewFolder</name>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova mapa</translation>
     </message>
     <message>
         <source>&amp;Input new FolderName:</source>
@@ -576,7 +576,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
@@ -584,17 +584,17 @@ Are you sure to change?</source>
     <message>
         <source>Modified Date</source>
         <comment>description for content mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datum spremembe</translation>
     </message>
     <message>
         <source>Size</source>
         <comment>description for content mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>description for content mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>file manage</source>
@@ -604,12 +604,12 @@ Are you sure to change?</source>
     <message>
         <source>Local</source>
         <comment>Local tab in filedialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lokalno</translation>
     </message>
     <message>
         <source>Group</source>
         <comment>Group tab in filedialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Skupina</translation>
     </message>
     <message>
         <source>Save backup file to File Safe.</source>
@@ -618,58 +618,58 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Drive</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogon</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka</translation>
     </message>
     <message>
         <source>File Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mapa z datotekami</translation>
     </message>
     <message>
         <source>Shortcut</source>
         <comment>All other platforms</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bližnjica</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>Group</source>
         <comment>Match Windows Explorer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Skupina</translation>
     </message>
     <message>
         <source>Group Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mapa skupine</translation>
     </message>
 </context>
 <context>
     <name>KxFileSystemModel</name>
     <message>
         <source>%1 TB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 TB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bajtov</translation>
     </message>
     <message>
         <source>&lt;b&gt;The file &quot;%1&quot; is open.&lt;/b&gt;&lt;p&gt;Please close the file and try again.</source>
@@ -681,32 +681,32 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zvrst</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>All other platforms</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum spremembe</translation>
     </message>
 </context>
 <context>
     <name>KxLiveStateUpdateCache</name>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Niste prijavljeni</translation>
     </message>
     <message>
         <source>OS_Login tip</source>
@@ -714,7 +714,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Logged in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijavljeni.</translation>
     </message>
     <message>
         <source>OS_Logout tip</source>
@@ -722,7 +722,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>click icon</source>
-        <translation type="unfinished"></translation>
+        <translation>kliknite ikono</translation>
     </message>
     <message>
         <source>To view, launch collaboration information.</source>
@@ -741,7 +741,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Please enter from here</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosim, vnesite od tu</translation>
     </message>
     <message>
         <source>I known</source>
@@ -752,18 +752,18 @@ Are you sure to change?</source>
     <name>KxMovieButton</name>
     <message>
         <source>Refresh file list</source>
-        <translation type="unfinished"></translation>
+        <translation>Osveži seznam datotek</translation>
     </message>
     <message>
         <source>Synchronizing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhronizacija ...</translation>
     </message>
 </context>
 <context>
     <name>KxNewFolderDlg</name>
     <message>
         <source>The file path cannot be longer than 255 characters !</source>
-        <translation type="unfinished"></translation>
+        <translation>Pot datoteke ne sme biti daljše od 255 znakov!</translation>
     </message>
     <message>
         <source>The file name must not contain any of the characters:
@@ -772,7 +772,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>The file name already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke že obstaja!</translation>
     </message>
     <message>
         <source>new foler error:%1</source>
@@ -783,7 +783,7 @@ Are you sure to change?</source>
     <name>KxTpOfficeSpaceBaseWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>about:blank</source>
@@ -794,7 +794,7 @@ Are you sure to change?</source>
     <name>QObject</name>
     <message>
         <source>&apos;%1&apos; exists, can&apos;t complete the operation</source>
-        <translation type="unfinished"></translation>
+        <translation>»%1« obstaja, operacije ni bilo mogoče dokončati</translation>
     </message>
     <message>
         <source>Are you sure you want to forever delete &apos;%1&apos; files?</source>
@@ -814,7 +814,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Delete file</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši datoteko</translation>
     </message>
     <message>
         <source>Failed to delete the following files! Please check if the files are being used.</source>
@@ -829,7 +829,7 @@ Are you sure to change?</source>
     <name>kGuidBubble</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
 </context>
 <context>

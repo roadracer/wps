@@ -5,69 +5,69 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>galerija</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type="unfinished"></translation>
+        <translation>oblika</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje galerije</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>Od:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo</translation>
     </message>
     <message>
         <source>Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Napis:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznaka:</translation>
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Največje število napisa je 5</translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type="unfinished"></translation>
+        <translation>Več:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Imenik:</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opombe:</translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation type="unfinished"></translation>
+        <translation>Manj:</translation>
     </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Več</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation>Manj</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS galerija</translation>
     </message>
 </context>
 </TS>
