@@ -409,19 +409,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Get More...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Install Locale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Choose Language Installation Package</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>archives (*.zip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -430,10 +418,6 @@
     </message>
     <message>
         <source>installation fails, make sure to install the complete package!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose your language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -446,6 +430,22 @@
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Install new language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get &amp;More...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Follow system locale</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3649,10 +3649,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxSystemCheckerCommand</name>
     <message>
-        <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>, </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3664,19 +3660,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
-        <source>System Checking</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3693,6 +3685,14 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Checking completed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following issues were detected on this system:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
