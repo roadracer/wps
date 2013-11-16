@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
 <defaultcodec>UTF-8</defaultcodec>
@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver lado por lado</translation>
+        <translation>Ver en paralelo</translation>
     </message>
 </context>
 <context>
@@ -526,11 +526,11 @@
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -610,11 +610,11 @@
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -650,7 +650,7 @@
     </message>
     <message>
         <source>Nudge</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar</translation>
     </message>
     <message>
         <source>Object Select</source>
@@ -662,7 +662,7 @@
     </message>
     <message>
         <source>Oval</source>
-        <translation type="unfinished"></translation>
+        <translation>Óvalo</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -842,7 +842,7 @@
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Arriba</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -857,15 +857,15 @@
     <name>classics.extended_formatting</name>
     <message>
         <source>1.5 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 líneas</translation>
     </message>
     <message>
         <source>Character Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde de carácter</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombreado de carácter</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -873,7 +873,7 @@
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar caracteres</translation>
     </message>
     <message>
         <source>Double</source>
@@ -885,11 +885,11 @@
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca de énfasis</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodear caracteres</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -897,7 +897,7 @@
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Sencillo</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -968,7 +968,7 @@
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Escalado de carácter</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1959,22 +1959,6 @@ Merged Data</source>
         <translation>Inflar parte superior</translation>
     </message>
     <message>
-        <source>Deflate Bottom</source>
-        <translation>Desinflar parte inferior</translation>
-    </message>
-    <message>
-        <source>Deflate Inflate</source>
-        <translation>Desinflar inflar</translation>
-    </message>
-    <message>
-        <source>Deflate Inflate Deflate</source>
-        <translation>Desinflar inflar desinflar</translation>
-    </message>
-    <message>
-        <source>Deflate Top</source>
-        <translation>Inflar parte superior</translation>
-    </message>
-    <message>
         <source>Double Wave 1</source>
         <translation>Onda 1 doble</translation>
     </message>
@@ -2554,11 +2538,11 @@ On</source>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -2654,11 +2638,11 @@ On</source>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More</source>
@@ -3210,15 +3194,15 @@ On</source>
     </message>
     <message>
         <source>Character Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde de carácter</translation>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Escalado de carácter</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombreado de carácter</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -3234,7 +3218,7 @@ On</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar caracteres</translation>
     </message>
     <message>
         <source>Convert Case</source>
@@ -3266,11 +3250,11 @@ On</source>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca de énfasis</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodear caracteres</translation>
     </message>
     <message>
         <source>Enclose Characters...</source>
@@ -4009,7 +3993,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -4017,7 +4001,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4574,11 +4558,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4658,11 +4642,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -6718,22 +6702,6 @@ On</source>
         <translation>Inflar parte superior</translation>
     </message>
     <message>
-        <source>Deflate Bottom</source>
-        <translation>Desinflar parte inferior</translation>
-    </message>
-    <message>
-        <source>Deflate Inflate</source>
-        <translation>Desinflar inflar</translation>
-    </message>
-    <message>
-        <source>Deflate Inflate Deflate</source>
-        <translation>Desinflar inflar desinflar</translation>
-    </message>
-    <message>
-        <source>Deflate Top</source>
-        <translation>Inflar parte superior</translation>
-    </message>
-    <message>
         <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6763,11 +6731,11 @@ On</source>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -6855,11 +6823,11 @@ On</source>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -7397,7 +7365,7 @@ On</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar caracteres</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -7573,7 +7541,7 @@ On</source>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodear caracteres</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -8728,11 +8696,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8804,11 +8772,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9351,15 +9319,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Character Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde de carácter</translation>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Escalado de carácter</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombreado de carácter</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -9375,7 +9343,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar caracteres</translation>
     </message>
     <message>
         <source>Convert Case</source>
@@ -9407,11 +9375,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca de énfasis</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodear caracteres</translation>
     </message>
     <message>
         <source>Enclose Characters...</source>
@@ -10134,7 +10102,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -10142,7 +10110,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -10608,11 +10576,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -10688,11 +10656,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -11183,7 +11151,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Language</source>
-        <translation>Lenguaje</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -12682,11 +12650,11 @@ Other Window</source>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo ancho</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -12774,11 +12742,11 @@ Other Window</source>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -13635,14 +13603,14 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Character Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde de carácter</translation>
     </message>
 </context>
 <context>
     <name>tips.CharacterShading</name>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombreado de carácter</translation>
     </message>
     <message>
         <source>Shade the selected text with gray color.</source>
@@ -14211,7 +14179,7 @@ Click the arrow to add a strikethrough.</source>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca de énfasis</translation>
     </message>
 </context>
 <context>
@@ -14224,7 +14192,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodear caracteres</translation>
     </message>
 </context>
 <context>
@@ -17262,7 +17230,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WordArtSameLetterHeights</name>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismo altura</translation>
     </message>
     <message>
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
@@ -17557,7 +17525,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
         <source>Change the way text wraps around the selected object, such as square and behind text.</source>
         <translation>Modifica el modo en que se ajusta el texto al objeto seleccionado.
 
-Para configurar el objeto de manera que se mueva junto con el texto, seleccione "En línea con el texto".</translation>
+Para configurar el objeto de manera que se mueva junto con el texto, seleccione &quot;En línea con el texto&quot;.</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -17749,7 +17717,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <name>wpsclassics.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Writer</translation>
     </message>
 </context>
 <context>
@@ -18259,7 +18227,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Establecer idioma de corrección</translation>
+        <translation>Establecer idioma de corrección ortográfica</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -18417,7 +18385,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <name>wpsongmani.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Writer</translation>
     </message>
 </context>
 <context>
@@ -18645,7 +18613,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <name>wpsrainbow.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Writer</translation>
     </message>
 </context>
 <context>
@@ -18838,7 +18806,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Cambiar lenguaje</translation>
+        <translation>Cambiar Idioma</translation>
     </message>
 </context>
 </TS>
