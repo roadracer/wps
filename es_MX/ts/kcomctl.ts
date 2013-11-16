@@ -5,207 +5,207 @@
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión de prueba</translation>
     </message>
 </context>
 <context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
 </context>
 <context>
     <name>KColorCtrl</name>
     <message>
         <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation type="unfinished"></translation>
+        <translation>Negro,Marrón,Verde oliva,Verde oscuro,Verde turquesa oscuro,Azul oscuro,Año,Gris-80%,Rojo oscuro,Naranja,Amarillo oscuro,Verde,Verde turquesa,Azul,Azul grisáceo,Rojo,Naranja claro,Lima,Verde agua,Agua,Azul claro,Violeta,Gris-40%,Rosa,Dorado,Amarillo,Verde brillante,Turquesa,Azul cielo,Ciruela,Gris-25%,Rosa claro,Bronceado,Amarillo claro,Verde claro,Turquesa claro,Azul pálido,Lavanda,Blanco</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin color</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Más colores</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Efectos de relleno...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fondo</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Líneas de cuadrícula...</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin definir</translation>
     </message>
     <message>
         <source>Undefined Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget sin definir</translation>
     </message>
 </context>
 <context>
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Subiendo archivo...</translation>
     </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizar acceso rápido</translation>
     </message>
     <message>
         <source>Add to</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir a</translation>
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ocultar acceso rápido</translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageChooseDialog</name>
+    <message>
+        <source>Choose Language</source>
+        <translation>Elegir idioma</translation>
+    </message>
+    <message>
+        <source>&amp;Choose your language</source>
+        <translation>&amp;Elija su idioma</translation>
+    </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation>&amp;Reiniciar plantilla personal</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Información</translation>
+    </message>
+    <message>
+        <source>Settings will be effected after application restarted.</source>
+        <translation>Los ajustes surtirán efecto tras reiniciar la aplicación.</translation>
     </message>
 </context>
 <context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
 </context>
 <context>
     <name>KMDIMaximizeCommand</name>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximizar</translation>
     </message>
 </context>
 <context>
     <name>KMDIMinimizeCommand</name>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimizar</translation>
     </message>
 </context>
 <context>
     <name>KMDINextCommand</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
 </context>
 <context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KMainWindow</name>
-    <message>
-        <source>Ma&amp;ximize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unma&amp;ximize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mi&amp;nimize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use System &amp;Title Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar</translation>
     </message>
 </context>
 <context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Testo </translation>
     </message>
 </context>
 <context>
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueo de mayúsculas activado.</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener el bloqueo de mayúsculas activado puede causar que introduzca una contraseña errónea.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antes de introducir su contraseña debe pulsar la tecla &quot;Bloqueo de mayúsculas&quot; para desactivarlo.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No permitido.</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>No está autorizado a copiar del campo de contraseña.</translation>
     </message>
 </context>
 <context>
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Eliminar de la barra de herramientas de acceso rápido</translation>
     </message>
     <message>
         <source>&amp;Show quick access</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mostrar acceso rápido</translation>
     </message>
     <message>
         <source>More commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Más comandos</translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Unfixed from the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Despegar de la lista</translation>
     </message>
     <message>
         <source>Clear All Fixed Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar todos los archivos fijados</translation>
     </message>
     <message>
         <source>Fixed to the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Fijar a la lista</translation>
     </message>
     <message>
         <source>Clear All Unfixed Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar todos los archivos despegados</translation>
     </message>
 </context>
 <context>
     <name>KSystemMenuCommand</name>
     <message>
         <source>System Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú del sistema</translation>
     </message>
 </context>
 <context>
@@ -216,18 +216,18 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de texto</translation>
     </message>
 </context>
 <context>
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ninguno)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo palabras</translation>
     </message>
 </context>
 <context>
@@ -264,7 +264,7 @@ multiple=multiple
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor introducido debe estar entre %1 y %2.</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
@@ -275,7 +275,7 @@ multiple=multiple
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor introducido debe estar entre %1 y %2.</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
@@ -286,97 +286,97 @@ multiple=multiple
     <name>QMainWindow</name>
     <message>
         <source>Previous Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento anterior</translation>
     </message>
     <message>
         <source>Next Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento siguiente</translation>
     </message>
     <message>
         <source>Document List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de documentos</translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimizar</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximizar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueo numérico</translation>
     </message>
     <message>
         <source>NumLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueo numérico: Activado</translation>
     </message>
     <message>
         <source>NumLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueo numérico: Desactivado</translation>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueo de mayúsculas</translation>
     </message>
     <message>
         <source>CapsLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueo de mayúsculas: Activado</translation>
     </message>
     <message>
         <source>CapsLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueo de mayúsculas: Desactivado</translation>
     </message>
     <message>
         <source>OverWrite</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobreescribir</translation>
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar registro de la lista</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos recientes: </translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar de la lista</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar todo</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir carpeta</translation>
     </message>
 </context>
 </TS>
