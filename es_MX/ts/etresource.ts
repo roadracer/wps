@@ -13940,7 +13940,7 @@ Esto sólo es necesario si el cálculo automático ha sido desactivado.</transla
     <name>tips.SameLetterHeights</name>
     <message>
         <source>Even Height</source>
-        <translation>Igual altura</translation>
+        <translation>Misma altura</translation>
     </message>
     <message>
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
