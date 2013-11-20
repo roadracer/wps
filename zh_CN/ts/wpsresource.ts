@@ -3002,7 +3002,7 @@ On</source>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Word 2007-2013 文件（*.docx）</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -9324,7 +9324,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation>Word 2007/2010 文件（*.docx）</translation>
+        <translation>Word 2007-2013 文件（*.docx）</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
