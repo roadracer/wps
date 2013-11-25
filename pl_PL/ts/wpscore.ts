@@ -287,7 +287,7 @@
     <name>ruler</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia Strony</translation>
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Właściwości Tabeli</translation>
     </message>
     <message>
         <source>Columns Formatting Setup</source>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>Cannot merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można scalić</translation>
     </message>
     <message>
         <source>Cannot split the selection because it contains joined cells.</source>
@@ -445,11 +445,11 @@
     </message>
     <message>
         <source>TemplateProject</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt Szablonowy</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>ThisDocument</source>
@@ -521,39 +521,39 @@
     </message>
     <message>
         <source>Previous Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzedni Paragraf</translation>
     </message>
     <message>
         <source>Next Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny Paragraf</translation>
     </message>
     <message>
         <source>Sample Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykładowy Tekst</translation>
     </message>
     <message>
         <source>AaBbCc</source>
-        <translation type="unfinished"></translation>
+        <translation>AaBbCc</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wydrukować, upewnij się proszę, że twoja drukarka jest prawidłowo zainstalowana.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has reached the beginning of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer osiągnął początek dokumentu.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has reached the end of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer osiągnął koniec dokumentu.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer zakończył przeszukiwanie dokumentu.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the selection </source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer zakończył przeszukiwanie zaznaczenia.</translation>
     </message>
     <message>
         <source>No search item was found.</source>
@@ -561,39 +561,39 @@
     </message>
     <message>
         <source>Do you want to continue searching from the beginning?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz kontynuować wyszukiwanie od początku?</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz kontynuować wyszukiwanie od końca?</translation>
     </message>
     <message>
         <source>Do you want to search the other part of the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz przeszukać inną część dokumentu?</translation>
     </message>
     <message>
         <source>and has replaced %i items.</source>
-        <translation type="unfinished"></translation>
+        <translation>i zamienił %i elementów.</translation>
     </message>
     <message>
         <source>The special character %s is not valid for the Replace With box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Znak specjalny %s nie jest właściwy dla pola Zamień Z.</translation>
     </message>
     <message>
         <source>(Print Preview)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Podgląd Wydruku)</translation>
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"></translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <source> of </source>
-        <translation type="unfinished"></translation>
+        <translation>z</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
@@ -609,7 +609,7 @@
     </message>
     <message>
         <source>E-mail sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysyłka E-mail nie powiodła się.</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot merge the main document with the data source, because the date record is empty or unmatched with the inquiry.</source>
@@ -621,7 +621,7 @@
     </message>
     <message>
         <source>Attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Załącznik</translation>
     </message>
     <message>
         <source>%s already exists.
@@ -694,15 +694,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka</translation>
     </message>
     <message>
         <source>Font color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor Czcionki</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Domyślny)</translation>
     </message>
     <message>
         <source>(Asian)</source>
@@ -710,11 +710,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogrubienie</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursywa</translation>
     </message>
     <message>
         <source>No underline</source>
@@ -726,7 +726,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>Double underline</source>
@@ -830,7 +830,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryty</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -954,7 +954,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Wcięcie</translation>
     </message>
     <message>
         <source>Left </source>
@@ -974,7 +974,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Space </source>
-        <translation type="unfinished"></translation>
+        <translation>Spacja</translation>
     </message>
     <message>
         <source>Before</source>
@@ -3268,11 +3268,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie Pliki(*.*) | *.*; |</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie-Źródła Danych(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Office database connection(*.odc) | *.odc |</source>
