@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1795,7 +1795,7 @@ Center</source>
     </message>
     <message>
         <source>Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulare</translation>
     </message>
     <message>
         <source>Forms Toolbox</source>
@@ -1819,7 +1819,7 @@ Center</source>
     </message>
     <message>
         <source>Import Data</source>
-        <translation type="unfinished">Daten importieren</translation>
+        <translation>Daten importieren</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -1935,11 +1935,11 @@ Center</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsbereich</translation>
     </message>
     <message>
         <source>Worksheet Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsblatt Menübar</translation>
     </message>
 </context>
 <context>
@@ -2280,7 +2280,7 @@ Center</source>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoForm und Materialien</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -2300,7 +2300,7 @@ Center</source>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicherung</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -2368,7 +2368,7 @@ Center</source>
     </message>
     <message>
         <source>CArt</source>
-        <translation type="unfinished"></translation>
+        <translation>CArt</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -2376,7 +2376,7 @@ Center</source>
     </message>
     <message>
         <source>Calculate Active Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Berechne aktives Arbeitsblatt</translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -2464,7 +2464,7 @@ Center</source>
     </message>
     <message>
         <source>Check Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Prüfe autom. Sicherung</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2524,11 +2524,11 @@ Center</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwischenablage</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwischenablage Fenster</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2872,11 +2872,11 @@ Center</source>
     </message>
     <message>
         <source>Dlg Formula Box Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Dlg Formular Box Popup Menü</translation>
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenten Zusammmenführung</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
@@ -3264,11 +3264,11 @@ Center</source>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Docs</translation>
     </message>
     <message>
         <source>GoogleDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>GoogleDocs</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -3304,7 +3304,7 @@ Center</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Hilfe</translation>
     </message>
     <message>
         <source>Hi Lo Line Popup Menu</source>
@@ -3454,7 +3454,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Online Template</translation>
     </message>
     <message>
         <source>Label</source>
@@ -3574,7 +3574,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"></translation>
+        <translation>Materialien</translation>
     </message>
     <message>
         <source>Max</source>
@@ -3670,7 +3670,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht an Mich</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3694,7 +3694,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Excel 2007/2013 Arbeitsbuch</translation>
     </message>
     <message>
         <source>New From Default Temlate</source>
@@ -3722,19 +3722,19 @@ und zentrieren</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from More Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus weiteren Vorlagen</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Online-Vorlagen</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus anderen Vorlagen</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -3758,7 +3758,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Tab Seite</translation>
     </message>
     <message>
         <source>None</source>
@@ -3770,7 +3770,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Number in cell for text Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahl in Zelle für Text-Popup-Menü</translation>
     </message>
     <message>
         <source>Numberincell Fortext Popup Menu</source>
@@ -3866,7 +3866,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Pivot</source>
-        <translation type="unfinished"></translation>
+        <translation>Pivot</translation>
     </message>
     <message>
         <source>Pivot Table</source>
@@ -4086,11 +4086,11 @@ und zentrieren</translation>
     </message>
     <message>
         <source>S MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>S Nachricht an Mich</translation>
     </message>
     <message>
         <source>S Office space</source>
-        <translation type="unfinished"></translation>
+        <translation>S Office Bereich</translation>
     </message>
     <message>
         <source>Save</source>
@@ -4134,11 +4134,11 @@ und zentrieren</translation>
     </message>
     <message>
         <source>SelectShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Form auswählen</translation>
     </message>
     <message>
         <source>Selection and Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl und Sichtbarkeit</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -4182,7 +4182,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Reschtschreibsprache setzen</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -4286,7 +4286,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Form und Galerie</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
@@ -4386,7 +4386,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibung</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -4410,7 +4410,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Status Bar</translation>
     </message>
     <message>
         <source>Status Bar Popup Menu</source>
@@ -4466,15 +4466,15 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol Toolbar</translation>
     </message>
     <message>
         <source>TStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>TStile</translation>
     </message>
     <message>
         <source>Tab Bar New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tab Bar Neue Datei</translation>
     </message>
     <message>
         <source>Tab Color</source>
@@ -4548,7 +4548,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished">Menüleisten</translation>
+        <translation>Menüleisten</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -4716,7 +4716,7 @@ Fenster</translation>
     </message>
     <message>
         <source>WordArt Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt-Popup-Menü</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -4743,7 +4743,7 @@ Fenster</translation>
     <name>etcommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Spreadsheets Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets Hilfe</translation>
     </message>
 </context>
 <context>
@@ -4803,54 +4803,54 @@ Fenster</translation>
     <name>etongmani.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands</name>
     <message>
         <source>Add-ons</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterungen</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerinformation ändern</translation>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrammtools</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
-        <translation type="unfinished"></translation>
+        <translation>Taskfenster anpassen</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Daten</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwickler</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenwerkzeuge</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>EnterpriseMikroblog</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formate</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formeln</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -4862,7 +4862,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -4870,7 +4870,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Log off</source>
@@ -4890,15 +4890,15 @@ Fenster</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenlayout</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildwerkzeuge</translation>
     </message>
     <message>
         <source>PivotTable Tools</source>
@@ -4906,11 +4906,11 @@ Fenster</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckvorschau</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>QuickMenü</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -4918,11 +4918,11 @@ Fenster</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Überprüfung</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -4938,15 +4938,15 @@ Fenster</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzeroberfläche wechseln</translation>
     </message>
     <message>
         <source>Switch User</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer wechseln</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenformat</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -4954,11 +4954,11 @@ Fenster</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <source>Window Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster schließen</translation>
     </message>
     <message>
         <source>Window Max</source>
@@ -4974,15 +4974,15 @@ Fenster</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsbereich</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellung</translation>
     </message>
     <message>
         <source>test Rb Tab Widget</source>
@@ -5042,7 +5042,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Add-ons</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterungen</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -5110,7 +5110,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerinformation ändern</translation>
     </message>
     <message>
         <source>Changes</source>
@@ -5348,7 +5348,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>EnterpriseMikroblog</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -5400,7 +5400,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formate</translation>
     </message>
     <message>
         <source>Forms Toolbox</source>
@@ -5428,7 +5428,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Docs</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -5468,7 +5468,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüleiste ausblenden</translation>
     </message>
     <message>
         <source>Hide&amp;Unhide</source>
@@ -5484,7 +5484,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Homepage</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -5592,11 +5592,11 @@ Formatierung</translation>
     </message>
     <message>
         <source>Log off</source>
-        <translation type="unfinished"></translation>
+        <translation>Abmelden</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -5644,7 +5644,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Nachricht</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -5668,7 +5668,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Not logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht angemeldet</translation>
     </message>
     <message>
         <source>Number</source>
@@ -5812,7 +5812,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>QuickMenü</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -5984,7 +5984,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüleiste anzeigen</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
@@ -6028,7 +6028,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Stick the toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüleiste anheften</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -6068,7 +6068,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Switch User</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer wechseln</translation>
     </message>
     <message>
         <source>Switch Window</source>
@@ -6204,7 +6204,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer Login</translation>
     </message>
     <message>
         <source>Values</source>
@@ -6284,7 +6284,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsbereich</translation>
     </message>
     <message>
         <source>Workbook Views</source>
@@ -6306,7 +6306,7 @@ umbrechen</translation>
     </message>
     <message>
         <source>test Rb Tab Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>test Rb Tab Widget</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -6363,18 +6363,18 @@ umbrechen</translation>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzeroberfläche wechseln</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>wahr</translation>
     </message>
 </context>
 <context>
     <name>etrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache wechseln</translation>
     </message>
 </context>
 <context>
@@ -6404,7 +6404,7 @@ umbrechen</translation>
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Toolbar</translation>
     </message>
 </context>
 <context>
@@ -16001,9 +16001,6 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
     </message>
 </context>
 <context>
-    <name>tips.GoalSeek</name>
-</context>
-<context>
     <name>tips.Group</name>
     <message>
         <source>Group</source>
@@ -18285,13 +18282,10 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
 </context>
 <context>
-    <name>unnamed context</name>
-</context>
-<context>
     <name>workspacemenu</name>
     <message>
         <source>Enable automatic backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere autom. Sicherung</translation>
     </message>
     <message>
         <source>Explore Backup Dir</source>
