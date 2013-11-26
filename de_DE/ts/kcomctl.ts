@@ -28,7 +28,7 @@
     <name>KColorCtrl</name>
     <message>
         <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation>Schwarz,Braun,Olivgrün,Dunkelcyan,Dunkelblau,Indigo,Grau-80%,Dunkelrot,Orange,Dunkelgelb,Grün,Cyan,Blau,Blaugrau,Grau-50%,Rot,Hellorange,Limone,Seegrün.Aqua,Hellblau,Violett,Grau-40%,Pink,Gold,Gelb,leuchtend Grün,Türkis,Himmelblau,Pflaume,Grau-25%,Rose,Hellbraun,Hellgelb,Hellgrün,Helltürkis,Bleichblau,Lavendel,Weiß</translation>
+        <translation>Schwarz,Braun,Olivgrün,Dunkelgrün,Dunkelcyan,Dunkelblau,Indigo,Grau-80%,Dunkelrot,Orange,Dunkelgelb,Grün,Cyan,Blau,Blaugrau,Grau-50%,Rot,Hellorange,Limone,Seegrün,Aqua,Hellblau,Violett,Grau-40%,Pink,Gold,Gelb,leuchtend Grün,Türkis,Himmelblau,Pflaume,Grau-25%,Rose,Hellbraun,Hellgelb,Hellgrün,Helltürkis,Bleichblau,Lavendel,Weiß</translation>
     </message>
     <message>
         <source>No Color</source>
