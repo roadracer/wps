@@ -3406,7 +3406,7 @@ On</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>Zakładki</translation>
+        <translation>Tabulatory</translation>
     </message>
     <message>
         <source>Two Lines in One</source>

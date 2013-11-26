@@ -5,107 +5,107 @@
     <name>BordersAndShadingWidget</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez Wypełnienia</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Biały</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-5%</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-45%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-95%</translation>
     </message>
     <message>
         <source>Black </source>
-        <translation type="unfinished"></translation>
+        <translation>Czarny</translation>
     </message>
     <message>
         <source>Deep cyan</source>
@@ -121,11 +121,11 @@
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Niebieski</translation>
     </message>
     <message>
         <source>Light blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnoniebieski</translation>
     </message>
     <message>
         <source>Shadow blue</source>
@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Różowy</translation>
     </message>
     <message>
         <source>Glauconite</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Fioletowy</translation>
     </message>
     <message>
         <source>Deep green</source>
@@ -193,11 +193,11 @@
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Żółty</translation>
     </message>
     <message>
         <source>Golden</source>
-        <translation type="unfinished"></translation>
+        <translation>Złoty</translation>
     </message>
     <message>
         <source>Light orange</source>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Czerwony</translation>
     </message>
     <message>
         <source>Plum red</source>
@@ -213,7 +213,7 @@
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielony</translation>
     </message>
     <message>
         <source>Lime</source>
@@ -229,11 +229,11 @@
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomarańczowy</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Brązowy</translation>
     </message>
     <message>
         <source>Deep red</source>
@@ -329,7 +329,7 @@
     </message>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szerokość:</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
@@ -571,7 +571,7 @@
     <name>DlgKxColumns</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumny</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -740,7 +740,7 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczytywanie KUI</translation>
     </message>
 </context>
 <context>
@@ -795,7 +795,7 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczny</translation>
     </message>
 </context>
 <context>
@@ -806,18 +806,18 @@
     </message>
     <message>
         <source>Words only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko Wyrazy</translation>
     </message>
 </context>
 <context>
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -863,7 +863,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -944,22 +944,22 @@
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa zakładki jest nieprawidłowa.</translation>
     </message>
 </context>
 <context>
     <name>KxColumnsDlg</name>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznaczony tekst</translation>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznaczone sekcje</translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Cały dokument</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -997,14 +997,14 @@
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł</translation>
     </message>
 </context>
 <context>
     <name>KxContentsOptionsDlg</name>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł</translation>
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
@@ -1041,11 +1041,11 @@
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numer storny</translation>
     </message>
     <message>
         <source>Paragraph number</source>
-        <translation type="unfinished"></translation>
+        <translation>numer paragrafu</translation>
     </message>
     <message>
         <source>Paragraph number (No context)</source>
@@ -1149,7 +1149,7 @@
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakładki</translation>
     </message>
 </context>
 <context>
@@ -1215,7 +1215,7 @@
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"></translation>
+        <translation>Pełna ścieżka: </translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -1223,7 +1223,7 @@
     </message>
     <message>
         <source>New dictionary file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy plik słownika</translation>
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic</source>
@@ -1246,11 +1246,11 @@
     <name>KxCustomizeBulletedlistDlg</name>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mniej</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Więcej</translation>
     </message>
 </context>
 <context>
@@ -1261,18 +1261,18 @@
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mniej</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Więcej</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBookmarks</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakładki</translation>
     </message>
     <message>
         <source>&amp;Bookmark name:</source>
@@ -1280,7 +1280,7 @@
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortuj po:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
@@ -1296,19 +1296,19 @@
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dodaj</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Idź Do</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -1381,7 +1381,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Cały dokument</translation>
     </message>
     <message>
         <source>This section</source>
@@ -1691,7 +1691,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Example:</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykład:</translation>
     </message>
     <message>
         <source>Chart II-1, Table 1-A</source>
@@ -2006,7 +2006,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd Wydruku</translation>
     </message>
 </context>
 <context>
@@ -2445,7 +2445,7 @@ use buttons to apply borders</source>
     <name>KxDlgDeleteCells</name>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Komórki</translation>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
@@ -2763,7 +2763,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Please choose a field</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz pole</translation>
     </message>
     <message>
         <source>&amp;Field names:</source>
@@ -2918,11 +2918,11 @@ use buttons to apply borders</source>
     <name>KxDlgFindReplace</name>
     <message>
         <source>Find and Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź i Zamień</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Znajdź</translation>
     </message>
     <message>
         <source>Match Byte</source>
@@ -2950,15 +2950,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Search options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje Wyszukiwania</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szukaj:</translation>
     </message>
     <message>
         <source>Matc&amp;h case</source>
@@ -2986,7 +2986,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <source>Sp&amp;ecial Characters</source>
@@ -3010,11 +3010,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Idź Do</translation>
     </message>
     <message>
         <source>G&amp;o to what:</source>
@@ -3022,15 +3022,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekcja</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakładki</translation>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
@@ -3050,22 +3050,22 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Previou&amp;s</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Poprzedni</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Następny</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka</translation>
     </message>
     <message>
         <source>Fo&amp;nt</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Czcionka</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
@@ -3077,7 +3077,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rozmiar:</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
@@ -3089,7 +3089,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Czcionka:</translation>
     </message>
     <message>
         <source>Font Sty&amp;le:</source>
@@ -3121,7 +3121,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efekty</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
@@ -10232,7 +10232,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>MultSpinbox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -10262,15 +10262,15 @@ This change will affect all new documents based on the %1 template.</source>
     <name>SelectedFormatPanel</name>
     <message>
         <source>Clear Formatting(C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść Formatowanie(C)</translation>
     </message>
     <message>
         <source>new(N)...</source>
-        <translation type="unfinished"></translation>
+        <translation>nowy(N)...</translation>
     </message>
     <message>
         <source>modify(M)...</source>
-        <translation type="unfinished"></translation>
+        <translation>mdyfikuj(M)...</translation>
     </message>
 </context>
 <context>
@@ -10302,7 +10302,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj Adobe PDF</translation>
     </message>
     <message>
         <source>General</source>
@@ -10318,7 +10318,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Export Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj Opcje</translation>
     </message>
     <message>
         <source>Summar&amp;y Information</source>
@@ -10326,11 +10326,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Komentarz</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hiperłącze</translation>
     </message>
     <message>
         <source>Li&amp;nk of footnotes and endnotes</source>
@@ -10338,7 +10338,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Boo&amp;kmark</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zakładka</translation>
     </message>
     <message>
         <source>Con&amp;vert title styles to bookmarks</source>
@@ -10354,7 +10354,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia Dostępu</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permissions settings</source>
@@ -10362,11 +10362,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hasło:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Potwierdź:</translation>
     </message>
     <message>
         <source>Note:only set password,option following can be valid on note,and protected without others on note.</source>
@@ -10410,11 +10410,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hasło:</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Potwierdź:</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
@@ -10425,15 +10425,15 @@ This change will affect all new documents based on the %1 template.</source>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj Adobe PDF</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Otwórz Plik</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -10447,11 +10447,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>waterMarkDlg</name>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Znak Wodny</translation>
     </message>
     <message>
         <source>WaterMarkSetting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie Znaku Wodnego</translation>
     </message>
     <message>
         <source>p&amp;ictureWaterMark</source>
