@@ -1843,7 +1843,7 @@ Center</source>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation type="obsolete">Neue leere Arbeitsmappe</translation>
+        <translation type="obsolete">Neue Arbeitsmappe</translation>
     </message>
     <message>
         <source>NoTabPage</source>
@@ -3690,7 +3690,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation>Neue leere Arbeitsmappe</translation>
+        <translation>Neue Arbeitsmappe</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
@@ -4508,7 +4508,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation type="obsolete">Text in Spaltem</translation>
+        <translation type="obsolete">Text in Spalten</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
@@ -4993,14 +4993,14 @@ Fenster</translation>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzeroberfläche wechseln</translation>
     </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache wechseln</translation>
     </message>
 </context>
 <context>
@@ -5632,7 +5632,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation type="obsolete">Neue leere Arbeitsmappe</translation>
+        <translation type="obsolete">Neue Arbeitsmappe</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -7206,7 +7206,7 @@ On</source>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation>Neue leere Arbeitsmappe</translation>
+        <translation>Neue Arbeitsmappe</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
@@ -8876,91 +8876,91 @@ an/aus</translation>
     <name>ongmani.ct_review</name>
     <message>
         <source>Accept Revisions</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrekturen annehmen</translation>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
-        <translation type="unfinished"></translation>
+        <translation>Nutzern erlauben, Bereiche zu bearbeiten</translation>
     </message>
     <message>
         <source>Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibprüfung</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinesische Übersetzung</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar löschen</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar bearbeiten</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen hervorheben</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelle sperren</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Kommentar</translation>
     </message>
     <message>
         <source>Proofing</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulation</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsblatt schützen</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsmappe schützen</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsmappe schützen und freigeben</translation>
     </message>
     <message>
         <source>Reject Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen ablehnen</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Reschtschreibsprache setzen</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsmappe freigeben</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen verfolgen</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>In vereinfachtes Chinesisch übersetzen</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>In traditionelles Chinesisch übersetzen</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersetzung</translation>
     </message>
 </context>
 <context>
@@ -9131,142 +9131,142 @@ On/Off</source>
     <name>ongmani.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle anordnen</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Stufenverlauf</translation>
     </message>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Fenster schließen</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Fenster schließen</translation>
     </message>
     <message>
         <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwickler Werkzeuge</translation>
     </message>
     <message>
         <source>Formula Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Formelbar</translation>
     </message>
     <message>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfrieren</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Vollbild</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitternetz</translation>
     </message>
     <message>
         <source>Headings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Überschriften</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Makros</translation>
     </message>
     <message>
         <source>More Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Weitere Fenster</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Fenster</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau Seitenumbruch</translation>
     </message>
     <message>
         <source>Print Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitternetz drucken</translation>
     </message>
     <message>
         <source>Print Headings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Überschriften drucken</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Leseansicht</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sicherheit</translation>
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster wechseln</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Task Fenster</translation>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfrieren rückgängig</translation>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilen aufheben</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Visual-Basic-Editor</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster</translation>
     </message>
     <message>
         <source>Workbook Views</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsmappenansichten</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsblatt Optionen</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_view.COMAddIns</name>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>COM Erweiterungen</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_view.window</name>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster schließen</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilen</translation>
     </message>
 </context>
 <context>
@@ -10019,763 +10019,763 @@ On</source>
     <name>popupmenu</name>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Über Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Accept Revisions</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrekturen annehmen</translation>
     </message>
     <message>
         <source>Across Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Über mehrere Seiten</translation>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office aktivieren</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt hinzufügen</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text hinzufügen</translation>
     </message>
     <message>
         <source>Add Trendline</source>
-        <translation type="unfinished"></translation>
+        <translation>Trendlinie hinzufügen</translation>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterungen</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterter Filter</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <source>Allow User to Edit Ranges</source>
-        <translation type="unfinished"></translation>
+        <translation>Nutzer darf Bereiche bearbeiten</translation>
     </message>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Makro zuweisen</translation>
     </message>
     <message>
         <source>Auto Fill Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellen Auto-Ausfüllen</translation>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto Punkt</translation>
     </message>
     <message>
         <source>Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto Version</translation>
     </message>
     <message>
         <source>AutoFit Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaltenbreite automatisch anpassen</translation>
     </message>
     <message>
         <source>AutoFit Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenhöhe automatisch anpassen</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittelwert</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup-Management</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Weiter nach vorne</translation>
     </message>
     <message>
         <source>Bring To Front</source>
-        <translation type="unfinished"></translation>
+        <translation>In den Vordergrund</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>In den Vordergrund</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Stufenverlauf</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellen</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild ändern</translation>
     </message>
     <message>
         <source>Change Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkte ändern</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version wechseln</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramm</translation>
     </message>
     <message>
         <source>Chart Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrammoptionen</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrammtyp</translation>
     </message>
     <message>
         <source>Chinese Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinesisches Trennzeichen</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinesische Übersetzung</translation>
     </message>
     <message>
         <source>Circular References</source>
-        <translation type="unfinished"></translation>
+        <translation>Rund Referenzen</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Clear Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhalte löschen</translation>
     </message>
     <message>
         <source>Clear Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Gliederung löschen</translation>
     </message>
     <message>
         <source>Clear Print Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckbereich löschen</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwischenablage</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle schließen</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Fenster schließen</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad schließen</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster schließen</translation>
     </message>
     <message>
         <source>Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaltenbreite</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalten</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedingte Formatierung</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsolidieren</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhalte</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Steuerungs-Menü</translation>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="unfinished"></translation>
+        <translation>Steuerungs-Menü-Liste</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Text in Hyperlink umwandeln</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Text in Zahl umwandeln</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <source>Copy Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellen kopieren</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Eckpunkt</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Zählen</translation>
     </message>
     <message>
         <source>Count Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahlen zählen</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Gekrümmter Konnektor</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Gekrümmtes Segment</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausschneiden</translation>
     </message>
     <message>
         <source>Default Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Standartbreite</translation>
     </message>
     <message>
         <source>Define Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Definiere Namen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar löschen</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenumbruch löschen</translation>
     </message>
     <message>
         <source>Delete Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt löschen</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment löschen</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsblatt löschen</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikate</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar bearbeiten</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink bearbeiten</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Links bearbeiten</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text bearbeiten</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>In Formelleiste bearbeiten</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Gewinkelter Konnektor</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschlüsseln</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Gleichung</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <source>Error Checking Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler bei Prüfung der Optionen</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formel auswerten</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkte ändern verlassen</translation>
     </message>
     <message>
         <source>Explore Backup Dir</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sicherungsordner untersuchen</translation>
     </message>
     <message>
         <source>Explore Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Version untersuchen</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Als PDF exportieren</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei Objekt</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Füllen</translation>
     </message>
     <message>
         <source>Fill Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Tage eintragen</translation>
     </message>
     <message>
         <source>Fill Formatting Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur Formatierung eintragen</translation>
     </message>
     <message>
         <source>Fill Months</source>
-        <translation type="unfinished"></translation>
+        <translation>Monate eintragen</translation>
     </message>
     <message>
         <source>Fill Weekdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Wochentage eintragen</translation>
     </message>
     <message>
         <source>Fill Without Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohne Formatierung eintragen</translation>
     </message>
     <message>
         <source>Fill Years</source>
-        <translation type="unfinished"></translation>
+        <translation>Jahre eintragen</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgröße</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <source>Format Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Achse formatieren</translation>
     </message>
     <message>
         <source>Format Axis Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Achsentitel formatieren</translation>
     </message>
     <message>
         <source>Format Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellen formatieren</translation>
     </message>
     <message>
         <source>Format Chart Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrammbereich formatieren</translation>
     </message>
     <message>
         <source>Format Chart Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrammtitel formatieren</translation>
     </message>
     <message>
         <source>Format Data Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbeschriftungen formatieren</translation>
     </message>
     <message>
         <source>Format Data Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenpunkte formatieren</translation>
     </message>
     <message>
         <source>Format Data Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenreihen formatieren</translation>
     </message>
     <message>
         <source>Format Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Datentabelle formatieren</translation>
     </message>
     <message>
         <source>Format Display Unit Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheitenbeschriftung formatieren</translation>
     </message>
     <message>
         <source>Format Down Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Abwärts-Leisten formatieren</translation>
     </message>
     <message>
         <source>Format Droplines</source>
-        <translation type="unfinished"></translation>
+        <translation>Droplines formatieren</translation>
     </message>
     <message>
         <source>Format Error Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlerleisten formatieren</translation>
     </message>
     <message>
         <source>Format Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitternetz formatieren</translation>
     </message>
     <message>
         <source>Format High-Low Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>High-Low-Linien  formatieren</translation>
     </message>
     <message>
         <source>Format Leader Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorlaufleinen formatieren</translation>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legende formatieren</translation>
     </message>
     <message>
         <source>Format Legend Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendeneintrag formatieren</translation>
     </message>
     <message>
         <source>Format Legend Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendenschlüssel formatieren</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt formatieren</translation>
     </message>
     <message>
         <source>Format Plot Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Plot-Bereich formatieren</translation>
     </message>
     <message>
         <source>Format Series Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Reihenlinien formatieren</translation>
     </message>
     <message>
         <source>Format Trendline</source>
-        <translation type="unfinished"></translation>
+        <translation>Trendlinien formatieren</translation>
     </message>
     <message>
         <source>Format Up Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Obere Leisten formatieren</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formate</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
-        <translation type="unfinished"></translation>
+        <translation>Formel-Überwachung</translation>
     </message>
     <message>
         <source>Formula Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Formelfeld</translation>
     </message>
     <message>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfrieren</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus Datei</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Vollbild</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktion</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerie</translation>
     </message>
     <message>
         <source>Goal Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielwertsuche</translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafiken</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppieren</translation>
     </message>
     <message>
         <source>Group and Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppieren und Gliedern</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppieren</translation>
     </message>
     <message>
         <source>Growth Trend</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuwachstrend</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopf- &amp; Fußzeile</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausblenden</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail ausblenden</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen hervorheben</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikate hervorheben</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Homepage</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Daten importieren</translation>
     </message>
     <message>
         <source>Import External Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Externe Daten einbinden</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Atristic Clip einfügen</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar einfügen</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopierte Zellen einfügen</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgeschnittene Zellen einfügen</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenumbruch einfügen</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KOS Login wechseln</translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KOS Cloud Feedback</translation>
     </message>
     <message>
         <source>KOS Logout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KOS Logout</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KOS Coud Datei öffnen</translation>
     </message>
     <message>
         <source>KOS Save File to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KOS In Cloud Speichern</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KOS Benutzer Login</translation>
     </message>
     <message>
         <source>KOS View User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KOS Benutzerinformation anzeigen</translation>
     </message>
     <message>
         <source>Kingsoft Office BBS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Office BBS</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Office Community</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Office Homepage</translation>
     </message>
     <message>
         <source>Kingsoft Office New Features</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Office Neuigkeiten</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Linear Trend</source>
-        <translation type="unfinished"></translation>
+        <translation>Linearer Trend</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Mark Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Version markieren</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximum</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>More Histories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Weitere Hostorien</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arbeitsblatt verschieben/kopieren</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Fenster</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nichts</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicherungsordner öffnen</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner öffnen</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus Klive öffnen</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink öffnen</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad öffnen</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordnung</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenumbruch</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite einrichten</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Paste As Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Als Bild einfügen</translation>
     </message>
     <message>
         <source>Paste As Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Unformartiert Einfügen</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen als</translation>
     </message>
     <message>
         <source>Pick From Drop-down List</source>
@@ -10783,313 +10783,313 @@ On</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>PivotTabelle</translation>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Drucklayout</translation>
     </message>
     <message>
         <source>Print Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckbereich</translation>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Produkt-Center</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Produkt-Management-Center</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschaften</translation>
     </message>
     <message>
         <source>Protect</source>
-        <translation type="unfinished"></translation>
+        <translation>Schützen</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsblatt schützen</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsmappe schützen</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsmappe schützen und freigeben</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriennummer erwerben</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation type="unfinished"></translation>
+        <translation>Erneut anwenden</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikate ablehnen</translation>
     </message>
     <message>
         <source>Reject Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen ablehnen</translation>
     </message>
     <message>
         <source>Reload Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Textdatei erneut laden</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikate entfernen</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink entfernen</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Seitenumbrüche zurücksetzen</translation>
     </message>
     <message>
         <source>Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenhöhe</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles speichern</translation>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern als Bild</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern in Datei</translation>
     </message>
     <message>
         <source>Save to Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern in Klive</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicherheit</translation>
     </message>
     <message>
         <source>Select All Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Arbeitsblätter auswählen</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Daten auswählen</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach hinten schieben</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail versenden</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation type="unfinished"></translation>
+        <translation>In den Hintergrund</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>In den Hintergrund</translation>
     </message>
     <message>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Reihe</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoForm-Vorlage einstellen</translation>
     </message>
     <message>
         <source>Set Display Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeigebereich einstellen</translation>
     </message>
     <message>
         <source>Set Print Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckbereich einstellen</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsmappe freigeben</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsblatt</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail anzeigen</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr Fenster anzeigen</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Weicher Punkt</translation>
     </message>
     <message>
         <source>Solver</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Löser</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortieren</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilen</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppe Auto Version</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerader Konnektor</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerader Punkt</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerades Segment</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Online erlernern</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
+        <translation>Online erlernern</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwischensumme</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Summe</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Registerkartenfarbe</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenformat</translation>
     </message>
     <message>
         <source>Ten Thousand Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Zehntausender-Trennzeichen</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text in Spaltem</translation>
     </message>
     <message>
         <source>Thousand Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Tausender-Trennzeichen</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen verfolgen</translation>
     </message>
     <message>
         <source>UnSplit</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilen aufheben</translation>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfrieren rückgängig</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppierung aufheben</translation>
     </message>
     <message>
         <source>Ungroup Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppierung der Arbeitsblätter aufheben</translation>
     </message>
     <message>
         <source>Unhide</source>
-        <translation type="unfinished"></translation>
+        <translation>Einblenden</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach oben</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Online-Update</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Überprüfung</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code anzeigen</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzeroberfläche wechseln</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>wahr</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache wechseln</translation>
     </message>
 </context>
 <context>
@@ -13487,7 +13487,7 @@ Center</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechtschreibprüfung</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -17799,7 +17799,7 @@ You can sort the selected data in ascending or descending order.</source>
     <name>tips.SpellCheck</name>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechtschreibprüfung</translation>
     </message>
     <message>
         <source>Check the spelling of text.</source>
