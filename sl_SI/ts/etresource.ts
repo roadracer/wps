@@ -2692,6 +2692,22 @@ Okno</translation>
         <translation>Ogled</translation>
     </message>
     <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
     </message>
@@ -3743,7 +3759,7 @@ Vklop</translation>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>Več funkcij</translation>
+        <translation type="obsolete">Več funkcij</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -5587,7 +5603,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Zapri okno</translation>
+        <translation type="obsolete">Zapri okno</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -5655,7 +5671,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>Razdeli</translation>
+        <translation type="obsolete">Razdeli</translation>
     </message>
     <message>
         <source>Switch Windows</source>
@@ -5702,6 +5718,17 @@ Drugo okno</translation>
     <name>ongmani.ct_view.COMAddIns</name>
     <message>
         <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_view.window</name>
+    <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8516,7 +8543,7 @@ AddIns</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>Več funkcij</translation>
+        <translation type="obsolete">Več funkcij</translation>
     </message>
     <message>
         <source>Name Manager</source>

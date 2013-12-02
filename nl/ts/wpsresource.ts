@@ -7777,7 +7777,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontaal</translation>
+        <translation type="obsolete">Horizontaal</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -8309,7 +8309,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikaal</translation>
+        <translation type="obsolete">Vertikaal</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -8362,6 +8362,28 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>wpsweibolayout</source>
         <translation>wpsweibolayout</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertBlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertTextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18878,6 +18900,22 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>What&apos;s New</source>
         <translation>Wat is Nieuw</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>

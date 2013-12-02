@@ -48,11 +48,171 @@
     </message>
     <message>
         <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation>黑色,褐色,橄榄绿,深绿,深青,深蓝,靛蓝,灰色-80%,深红,橙色,深黄,绿色,青色,蓝色,篮-灰,灰色-50%,红色,浅橙色,酸橙色,海绿,水绿色,浅蓝,紫罗兰,灰色-40%,粉红,金色,黄色,鲜绿,青绿,天蓝,梅红,灰色-25%,玫瑰红,茶色,浅黄,浅绿,浅青绿,淡蓝,浅紫,白色</translation>
+        <translation type="obsolete">黑色,褐色,橄榄绿,深绿,深青,深蓝,靛蓝,灰色-80%,深红,橙色,深黄,绿色,青色,蓝色,篮-灰,灰色-50%,红色,浅橙色,酸橙色,海绿,水绿色,浅蓝,紫罗兰,灰色-40%,粉红,金色,黄色,鲜绿,青绿,天蓝,梅红,灰色-25%,玫瑰红,茶色,浅黄,浅绿,浅青绿,淡蓝,浅紫,白色</translation>
     </message>
     <message>
         <source>No Color</source>
         <translation>没有颜色</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished">黑色</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation type="unfinished">褐色</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="unfinished">橄榄绿</translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation type="unfinished">深绿</translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation type="unfinished">深青</translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation type="unfinished">深蓝</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation type="unfinished">靛蓝</translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation type="unfinished">灰色-80%</translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="unfinished">深红</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="unfinished">橙色</translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="unfinished">深黄</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="unfinished">绿色</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation type="unfinished">青色</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="unfinished">蓝色</translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation type="unfinished">篮-灰</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation type="unfinished">灰色-50%</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished">红色</translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="unfinished">浅橙色</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation type="unfinished">酸橙色</translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="unfinished">海绿</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="unfinished">水绿色</translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation type="unfinished">浅蓝</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="unfinished">紫罗兰</translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation type="unfinished">灰色-40%</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="unfinished">粉红</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="unfinished">金色</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="unfinished">黄色</translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation type="unfinished">鲜绿</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation type="unfinished">青绿</translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="unfinished">天蓝</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="unfinished">梅红</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation type="unfinished">灰色-25%</translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="unfinished">玫瑰红</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="unfinished">茶色</translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="unfinished">浅黄</translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="unfinished">浅绿</translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="unfinished">浅青绿</translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="unfinished">淡蓝</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation type="unfinished">浅紫</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation type="unfinished">白色</translation>
     </message>
 </context>
 <context>

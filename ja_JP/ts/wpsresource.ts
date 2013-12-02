@@ -7998,7 +7998,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>横方向</translation>
+        <translation type="obsolete">横方向</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -8550,7 +8550,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>縦書き</translation>
+        <translation type="obsolete">縦書き</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -8603,6 +8603,28 @@ Diagonal Line in Cell</source>
     <message>
         <source>wpsweibolayout</source>
         <translation>Kingsoft Weiboレイアウト</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertBlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertTextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19272,6 +19294,22 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>What&apos;s New</source>
         <translation>最新情報</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>

@@ -11496,7 +11496,7 @@ Continue ?</source>
 %s The sort reference you entered is not within the current selection.</source>
         <translation type="obsolete">排序引用无效。造成无效排序的可能原因是：\r\n\r\n%s “主要关键字”空缺。\r\n%s 两个排序引用雷同。\r\n%s 所输入的排序引用位于当前选定区域之外。</translation>
     </message>
-    <message>
+    <message utf8="both">
         <source>Only one picture can be inserted in each section of the %s.
 
 ·To replace existing picture, click OK.

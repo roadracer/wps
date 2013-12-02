@@ -2583,10 +2583,6 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6489,6 +6485,10 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Homepage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18317,6 +18317,22 @@ Transition</source>
     <message>
         <source>Window</source>
         <translation type="obsolete">Fenster</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wire Frame</source>

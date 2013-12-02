@@ -7765,7 +7765,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>أفقي</translation>
+        <translation type="obsolete">أفقي</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -8297,7 +8297,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>عمودي</translation>
+        <translation type="obsolete">عمودي</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -8349,6 +8349,28 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>wpsweibolayout</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertBlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertTextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18810,6 +18832,22 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>What&apos;s New</source>
         <translation>الجديد</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>
