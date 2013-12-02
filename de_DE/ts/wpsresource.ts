@@ -4686,7 +4686,7 @@ aktualisieren</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Bildgliederung</translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Picture Size</source>

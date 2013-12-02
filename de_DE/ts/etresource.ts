@@ -7775,8 +7775,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation type="unfinished">Zusammenführen
-über</translation>
+        <translation>Zusammenführen über</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -7784,8 +7783,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Merge&amp;Center</source>
-        <translation>Zentriert
-zusammenführen</translation>
+        <translation>Zentriert zusammenführen</translation>
     </message>
     <message>
         <source>Min</source>
