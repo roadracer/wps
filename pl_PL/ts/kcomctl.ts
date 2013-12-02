@@ -5,14 +5,14 @@
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja Próbna</translation>
     </message>
 </context>
 <context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
 </context>
 <context>
@@ -23,19 +23,19 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczny</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Więcej Kolorów</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;fekty Wypełnienia</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tło</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
@@ -206,68 +206,91 @@
     <name>KCommand</name>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Niezdefiniowany</translation>
     </message>
     <message>
         <source>Undefined Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Widżet Niezdefiniowany</translation>
     </message>
 </context>
 <context>
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysyłanie pliku...</translation>
     </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostosuj Szybki Dostęp</translation>
     </message>
     <message>
         <source>Add to</source>
-        <translation type="unfinished"></translation>
+        <traslation>Dodaj do</translation>
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukryj Szybki Dostęp</translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageChooseDialog</name>
+    <message>
+        <source>Choose Language</source>
+        <translation>Wybierz Język</translation>
+    </message>
+    <message>
+        <source>&amp;Choose your language</source>
+        <translation>&amp;Wybierz swój język</translation>
+    </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation>&amp;Resetuj osobisty szablon</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Informacje</translation>
+    </message>
+    <message>
+        <source>Settings will be effected after application restarted.</source>
+        <translation>Ustawienia wejdą w życie po ponownym uruchomieniu aplikacji.</translation>
     </message>
 </context>
 <context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
     <name>KMDIMaximizeCommand</name>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalizuj</translation>
     </message>
 </context>
 <context>
     <name>KMDIMinimizeCommand</name>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalizuj</translation>
     </message>
 </context>
 <context>
     <name>KMDINextCommand</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny</translation>
     </message>
 </context>
 <context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Przywróć</translation>
     </message>
 </context>
 <context>
@@ -297,45 +320,45 @@
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
 </context>
 <context>
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation type="unfinished"></translation>
+        <translation>Włączony Caps Lock.</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Włączony Caps Lock może prowadzić do błędnego wprowadzenia hasła.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przed wprowadzaniem hasła, powinieneś przycisnąć &quot;Caps Lock&quot; aby go wyłączyć.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedozwolone.</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie jest dozwolone kopiowanie z pola hasła.</translation>
     </message>
 </context>
 <context>
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z Paska Na&amp;rzędzi Szybkiego Dostępu</translation>
     </message>
     <message>
         <source>&amp;Show quick access</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż &amp;szybki dostęp</translation>
     </message>
     <message>
         <source>More commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej komend</translation>
     </message>
 </context>
 <context>
@@ -361,7 +384,7 @@
     <name>KSystemMenuCommand</name>
     <message>
         <source>System Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Systemowe</translation>
     </message>
 </context>
 <context>
@@ -379,11 +402,11 @@
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Żaden)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko Wyrazy</translation>
     </message>
 </context>
 <context>
@@ -420,7 +443,7 @@ multiple=multiple
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość wprowadzana musi zawierać się pomiędzy %1 a %2</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
@@ -431,7 +454,7 @@ multiple=multiple
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość wprowadzana musi zawierać się pomiędzy %1 a %2</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
@@ -442,49 +465,49 @@ multiple=multiple
     <name>QMainWindow</name>
     <message>
         <source>Previous Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzedni Dokument</translation>
     </message>
     <message>
         <source>Next Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastepny Dokument</translation>
     </message>
     <message>
         <source>Document List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista Dokumentów</translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Przywróć</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalizuj</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalizuj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>NumLock: On</source>
@@ -496,7 +519,7 @@ multiple=multiple
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>CapsLock: On</source>
@@ -508,31 +531,31 @@ multiple=multiple
     </message>
     <message>
         <source>OverWrite</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpisz</translation>
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń rekord z listy</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie Dokumenty: </translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z Listingu</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść Wszystko</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz Folder</translation>
     </message>
 </context>
 </TS>

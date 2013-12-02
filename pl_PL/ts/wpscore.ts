@@ -74,15 +74,15 @@
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd! Zakładka nie zdefiniowana.</translation>
     </message>
     <message>
         <source>Normal text</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalny Tekst</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Liczba</translation>
     </message>
     <message>
         <source>Date</source>
@@ -113,15 +113,15 @@
     </message>
     <message>
         <source>above</source>
-        <translation type="unfinished"></translation>
+        <translation>ponad</translation>
     </message>
     <message>
         <source>below</source>
-        <translation type="unfinished"></translation>
+        <translation>poniżej</translation>
     </message>
     <message>
         <source>on page</source>
-        <translation type="unfinished"></translation>
+        <translation>na stronie</translation>
     </message>
     <message>
         <source>Error! Reference source not found.</source>
@@ -167,7 +167,7 @@
     <name>field_parser_numbering</name>
     <message>
         <source>Error! Only for Main Document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bład! Tylko dla Głównego Dokumentu.</translation>
     </message>
     <message>
         <source>Error! Sequence not specified.</source>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>!Divisor is zero</source>
-        <translation type="unfinished"></translation>
+        <translation>!Dzielnik wynosi zero</translation>
     </message>
     <message>
         <source>Not in the table</source>
@@ -199,22 +199,22 @@
     </message>
     <message>
         <source>!Number is too big to set a format</source>
-        <translation type="unfinished"></translation>
+        <translation>!Liczba jest za duża aby ustawić format</translation>
     </message>
 </context>
 <context>
     <name>pagelayout</name>
     <message>
         <source>First Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsza Strona</translation>
     </message>
     <message>
         <source>Odd Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Storna Nieparzysta</translation>
     </message>
     <message>
         <source>Even Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona Parzysta</translation>
     </message>
     <message>
         <source> Header </source>
@@ -230,7 +230,7 @@
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation type="unfinished"></translation>
+        <translation>Taki sam jak poprzednia sekcja</translation>
     </message>
 </context>
 <context>
@@ -248,7 +248,7 @@
     <name>renderhost</name>
     <message>
         <source>Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdoział Strony</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -272,22 +272,22 @@
     </message>
     <message>
         <source>End of Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Koniec Sekcji</translation>
     </message>
     <message>
         <source>Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Podział Sekcji</translation>
     </message>
     <message>
         <source>The end of the protected section</source>
-        <translation type="unfinished"></translation>
+        <translation>Koniec zabezpieczonej sekcji</translation>
     </message>
 </context>
 <context>
     <name>ruler</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia Strony</translation>
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Właściwości Tabeli</translation>
     </message>
     <message>
         <source>Columns Formatting Setup</source>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>Cannot merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można scalić</translation>
     </message>
     <message>
         <source>Cannot split the selection because it contains joined cells.</source>
@@ -445,11 +445,11 @@
     </message>
     <message>
         <source>TemplateProject</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt Szablonowy</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>ThisDocument</source>
@@ -521,39 +521,39 @@
     </message>
     <message>
         <source>Previous Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzedni Paragraf</translation>
     </message>
     <message>
         <source>Next Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny Paragraf</translation>
     </message>
     <message>
         <source>Sample Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykładowy Tekst</translation>
     </message>
     <message>
         <source>AaBbCc</source>
-        <translation type="unfinished"></translation>
+        <translation>AaBbCc</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wydrukować, upewnij się proszę, że twoja drukarka jest prawidłowo zainstalowana.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has reached the beginning of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer osiągnął początek dokumentu.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has reached the end of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer osiągnął koniec dokumentu.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer zakończył przeszukiwanie dokumentu.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the selection </source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer zakończył przeszukiwanie zaznaczenia.</translation>
     </message>
     <message>
         <source>No search item was found.</source>
@@ -561,39 +561,39 @@
     </message>
     <message>
         <source>Do you want to continue searching from the beginning?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz kontynuować wyszukiwanie od początku?</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz kontynuować wyszukiwanie od końca?</translation>
     </message>
     <message>
         <source>Do you want to search the other part of the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz przeszukać inną część dokumentu?</translation>
     </message>
     <message>
         <source>and has replaced %i items.</source>
-        <translation type="unfinished"></translation>
+        <translation>i zamienił %i elementów.</translation>
     </message>
     <message>
         <source>The special character %s is not valid for the Replace With box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Znak specjalny %s nie jest właściwy dla pola Zamień Z.</translation>
     </message>
     <message>
         <source>(Print Preview)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Podgląd Wydruku)</translation>
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"></translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <source> of </source>
-        <translation type="unfinished"></translation>
+        <translation>z</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
@@ -605,11 +605,11 @@
     </message>
     <message>
         <source>Invalid E-mail address, sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy adres E-mail wysyłka nie powiodła się.</translation>
     </message>
     <message>
         <source>E-mail sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysyłka E-mail nie powiodła się.</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot merge the main document with the data source, because the date record is empty or unmatched with the inquiry.</source>
@@ -617,16 +617,17 @@
     </message>
     <message>
         <source>Kingsoft Writer cannot open the Data Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer nie mógł otworzyć Źródła Danych.</translation>
     </message>
     <message>
         <source>Attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Załącznik</translation>
     </message>
     <message>
         <source>%s already exists.
 Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%s istnieje.
+Czy chcesz zamienić?</translation>
     </message>
     <message>
         <source>The data source does not contain any visible table.</source>
@@ -646,11 +647,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>SpellingCheck: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie Pisowni: Włączone</translation>
     </message>
     <message>
         <source>SpellingCheck: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie Pisowni Wyłączone</translation>
     </message>
     <message utf8="true">
         <source>Some browsers may not be able to display single file Web pages where the path includes those characters &quot;!”, “#”, “%20”, “%23” or “%25”, etc.. Do you want to continue?</source>
@@ -662,7 +663,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Narzędzia</translation>
     </message>
     <message>
         <source>T&amp;ext tools</source>
@@ -694,15 +695,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka</translation>
     </message>
     <message>
         <source>Font color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor Czcionki</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Domyślny)</translation>
     </message>
     <message>
         <source>(Asian)</source>
@@ -710,11 +711,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">Pogrubienie</translation>
+        <translation>Pogrubienie</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished">Pochylenie</translation>
+        <translation>Kursywa</translation>
     </message>
     <message>
         <source>No underline</source>
@@ -726,7 +727,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished">Podkreślenie</translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>Double underline</source>
@@ -826,19 +827,19 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Podświetlenie</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryty</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Cień</translation>
     </message>
     <message>
         <source>Emboss</source>
@@ -934,7 +935,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -942,7 +943,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Justified</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyjustowany</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -954,7 +955,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Wcięcie</translation>
     </message>
     <message>
         <source>Left </source>
@@ -974,31 +975,31 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Space </source>
-        <translation type="unfinished"></translation>
+        <translation>Spacja</translation>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Przed</translation>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"></translation>
+        <translation>Za</translation>
     </message>
     <message>
         <source>Line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Interlinia</translation>
     </message>
     <message>
         <source>single</source>
-        <translation type="unfinished"></translation>
+        <translation>pojedyńcza</translation>
     </message>
     <message>
         <source>1.5 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 linii</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Podwójna</translation>
     </message>
     <message>
         <source>At least </source>
@@ -1182,11 +1183,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Even page</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona Parzysta</translation>
     </message>
     <message>
         <source>Odd page</source>
-        <translation type="unfinished"></translation>
+        <translation>Storna Nieparzysta</translation>
     </message>
     <message>
         <source>Different first page header and footer</source>
@@ -1342,19 +1343,19 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"></translation>
+        <translation>cal</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>ch</source>
@@ -1382,7 +1383,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source> Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Tło</translation>
     </message>
     <message>
         <source>15%:9</source>
@@ -1466,11 +1467,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>New column</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa kolumna</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margines</translation>
     </message>
     <message>
         <source>No bullets or numbering</source>
@@ -1490,7 +1491,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Okrąg</translation>
     </message>
     <message>
         <source>Complex Script Font</source>
@@ -1506,7 +1507,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>%s can&apos;t load!</source>
-        <translation type="unfinished"></translation>
+        <translation>%s nie można załadować!</translation>
     </message>
 </context>
 <context>
@@ -1553,11 +1554,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Failed to open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się otworzyć.</translation>
     </message>
     <message>
         <source>Failed to save.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się zapisać.</translation>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
@@ -1577,7 +1578,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>The password is not correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasło jest nieprawidłowe.</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
@@ -1702,7 +1703,8 @@ Please try one of the following.
     <message>
         <source>Try to save again? 
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spróbować zapisać ponownie? 
+(%s)</translation>
     </message>
     <message>
         <source>The document will be save as &quot;%s&quot; format, Do you want to continue?
@@ -1844,27 +1846,27 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <name>wpsshell</name>
     <message>
         <source>Above selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponad zaznaczonym elementem</translation>
     </message>
     <message>
         <source>Address 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 1</translation>
     </message>
     <message>
         <source>Address 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 2</translation>
     </message>
     <message>
         <source>Address 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 3</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mniej</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -1880,7 +1882,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystko</translation>
     </message>
     <message>
         <source>Error occurs when adding words.</source>
@@ -1892,23 +1894,23 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Cały dokument</translation>
     </message>
     <message>
         <source>Below selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniżej zaznaczonego elementu</translation>
     </message>
     <message>
         <source>Bookmark does not exist or is hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakładka nie istnieje lub jest ukryta.</translation>
     </message>
     <message>
         <source>Edge of page</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraniec strony.</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -1932,11 +1934,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <source>Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>Idź Do</translation>
     </message>
     <message>
         <source>Bullet:</source>
@@ -1952,7 +1954,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Cannot check spelling in the Original review.</source>
@@ -1964,7 +1966,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Komórka</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
@@ -1972,23 +1974,23 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Miasto</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Wyczyść</translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Columns %s</source>
-        <translation type="unfinished"></translation>
+        <translation>%s Kolumn</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Firma</translation>
     </message>
     <message>
         <source>When you convert this drawing object to a frame, some of the drawing object&apos;s formatting may be lost. Do you want to continue?</source>
@@ -1996,23 +1998,23 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Country or Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraj lub Region</translation>
     </message>
     <message>
         <source>Courtesy Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł Grzecznościowy</translation>
     </message>
     <message>
         <source>Created Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas Utworzenia</translation>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Własny Kolor</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Domyślny)</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -2020,23 +2022,23 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Are you sure to delete the default dictionary?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś pewien, że chcesz usunąć domyślny słownik?</translation>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas usuwania wyrazów.</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Dział</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <source>Incorrect dictionary! Can&apos;t modify!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy słownik! Nie można zmienić!</translation>
     </message>
     <message>
         <source>Final Showing Markup,Final,Original Showing Markup,Original</source>
@@ -2072,11 +2074,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>E-mail Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres E-mail</translation>
     </message>
     <message>
         <source>&amp;Enter bookmark number:</source>
@@ -2132,7 +2134,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Insert the number of the current page</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw numer aktualnej strony</translation>
     </message>
     <message>
         <source>Insert the page number containing the specified bookmark</source>
@@ -2152,7 +2154,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualny czas</translation>
     </message>
     <message>
         <source>Create a table of contents</source>
@@ -2168,11 +2170,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;Find / Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Znajdź / Zamień...</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Znajdź Następny</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document. The search item was not found.</source>
@@ -2184,7 +2186,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>First Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsze Imie</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -2192,7 +2194,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Go &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation>Idź &amp;do</translation>
     </message>
     <message>
         <source>Kingsoft Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
@@ -2200,7 +2202,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>height</source>
-        <translation type="unfinished"></translation>
+        <translation>wysokość</translation>
     </message>
     <message>
         <source>Kingsoft Writer is updating the table of contents. Select one of the following options:</source>
@@ -2208,11 +2210,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Home Fax</source>
-        <translation type="unfinished"></translation>
+        <translation>Fax Domowy</translation>
     </message>
     <message>
         <source>Home Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telfon Domowy</translation>
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
@@ -2224,11 +2226,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Input Permission Password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź Hasło Dostępu.</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liczba nie jest prawidłowa.</translation>
     </message>
     <message>
         <source>This font style name does not exist.</source>
@@ -2260,7 +2262,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>left/right</source>
-        <translation type="unfinished"></translation>
+        <translation>lewo/prawo</translation>
     </message>
     <message>
         <source>Level</source>
@@ -2268,15 +2270,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Line spacing: Single, </source>
-        <translation type="unfinished"></translation>
+        <translation>Interlinia: Pojedyńcza, </translation>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
-        <translation type="unfinished"></translation>
+        <translation>Interlinia: 1.5 linii, </translation>
     </message>
     <message>
         <source>Line spacing: Double, </source>
-        <translation type="unfinished"></translation>
+        <translation>Interlinia: Podwójna, </translation>
     </message>
     <message>
         <source>Lt Dwn Diagonal</source>
@@ -2344,11 +2346,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Modified Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas Modyfikacji</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Więcej</translation>
     </message>
     <message>
         <source>&amp;More Colors...</source>
@@ -2360,7 +2362,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Imię</translation>
     </message>
     <message>
         <source>New Bullet...</source>
@@ -2372,11 +2374,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Następna Zakładka</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny Komentarz</translation>
     </message>
     <message>
         <source>Next Find/GoTo</source>
@@ -2384,15 +2386,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Następna Strona</translation>
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Następna Sekcja</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Pseudonim</translation>
     </message>
     <message>
         <source>Can&apos;t find default dictionary. Please select a custom dictionary in the options, and recheck again.</source>
@@ -2472,31 +2474,31 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf</translation>
     </message>
     <message>
         <source>The password is incorrect!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasło jest nieprawidłowe.</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport do PDF w trakcie...</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport PDF zakńczony.</translation>
     </message>
     <message>
         <source>Exporting %d page...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie %d strony...</translation>
     </message>
     <message>
         <source>Exporting Labels...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie Etykiet...</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Przygotowanie do eksportu PDF...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -2504,99 +2506,99 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>5%</source>
-        <translation type="unfinished"></translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>10%</source>
-        <translation type="unfinished"></translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>12.5%</translation>
     </message>
     <message>
         <source>15%</source>
-        <translation type="unfinished"></translation>
+        <translation>15%</translation>
     </message>
     <message>
         <source>20%</source>
-        <translation type="unfinished"></translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
-        <translation type="unfinished"></translation>
+        <translation>25%</translation>
     </message>
     <message>
         <source>30%</source>
-        <translation type="unfinished"></translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>35%</source>
-        <translation type="unfinished"></translation>
+        <translation>35%</translation>
     </message>
     <message>
         <source>37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>37.5%</translation>
     </message>
     <message>
         <source>40%</source>
-        <translation type="unfinished"></translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>45%</source>
-        <translation type="unfinished"></translation>
+        <translation>45%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>55%</source>
-        <translation type="unfinished"></translation>
+        <translation>55%</translation>
     </message>
     <message>
         <source>60%</source>
-        <translation type="unfinished"></translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>62.5%</translation>
     </message>
     <message>
         <source>65%</source>
-        <translation type="unfinished"></translation>
+        <translation>65%</translation>
     </message>
     <message>
         <source>70%</source>
-        <translation type="unfinished"></translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished"></translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>85%</source>
-        <translation type="unfinished"></translation>
+        <translation>85%</translation>
     </message>
     <message>
         <source>87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>87.5%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished"></translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>95%</source>
-        <translation type="unfinished"></translation>
+        <translation>95%</translation>
     </message>
     <message>
         <source>(1-%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>(1-%s)</translation>
     </message>
     <message>
         <source>Phonetic Guide for First Name</source>
@@ -2608,15 +2610,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Postal Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod-Pocztowy</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzednia Zakładka</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzedni Komentarz</translation>
     </message>
     <message>
         <source>Previous Find/GoTo</source>
@@ -2624,15 +2626,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzednia Strona</translation>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzednia Sekcja</translation>
     </message>
     <message>
         <source>Document protec&amp;tion...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ochrona Dokumentu...</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -2640,11 +2642,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponów %d Akcji</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document and made %d replacements.</source>
@@ -2652,23 +2654,23 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Rows %s</source>
-        <translation type="unfinished"></translation>
+        <translation>%s Wierszy</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz Adobe PDF Jako</translation>
     </message>
     <message>
         <source>Search All</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź Wszystko</translation>
     </message>
     <message>
         <source>Search Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj w Dół</translation>
     </message>
     <message>
         <source>Search Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj do Góry</translation>
     </message>
     <message>
         <source>Selected sections</source>
@@ -2676,7 +2678,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznaczony Tekst</translation>
     </message>
     <message>
         <source>Select Folder:</source>
@@ -2696,7 +2698,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The spelling check is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie pisowni ukończone.</translation>
     </message>
     <message>
         <source>S&amp;plit</source>
@@ -2728,7 +2730,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -2736,7 +2738,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished">Tabela</translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -2756,11 +2758,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>top/bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>góra/dół</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl / Formatowanie</translation>
     </message>
     <message>
         <source>Type</source>
@@ -2772,15 +2774,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cofnij $d Akcji</translation>
     </message>
     <message>
         <source>Unique Identifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Unikalny Identyfikator</translation>
     </message>
     <message>
         <source>Remove &amp;Protection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń Ochronę...</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
@@ -2816,15 +2818,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Whole Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Cały Dokument</translation>
     </message>
     <message>
         <source>Find whole words only</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj tylko całych słów</translation>
     </message>
     <message>
         <source>width</source>
-        <translation type="unfinished"></translation>
+        <translation>szerokość</translation>
     </message>
     <message>
         <source>Underline words</source>
@@ -2936,7 +2938,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <source>PageRef</source>
@@ -2968,7 +2970,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished">Hiperłącze</translation>
+        <translation>Hiperłącze</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -2976,7 +2978,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
@@ -3028,35 +3030,35 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2008-8-8</source>
-        <translation type="unfinished"></translation>
+        <translation>2008-8-8</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>The value must be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość musi być pomiędzy %d a %d.</translation>
     </message>
     <message>
         <source>Input a correct number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz poprawną liczbę.</translation>
     </message>
     <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
@@ -3068,7 +3070,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numer Strony</translation>
     </message>
     <message>
         <source>Paragraph number</source>
@@ -3092,11 +3094,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Heading text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Nagłówka</translation>
     </message>
     <message>
         <source>Heading number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numer Nagłówka</translation>
     </message>
     <message>
         <source>Heading number(no context)</source>
@@ -3192,7 +3194,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Unit: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednostka: %s</translation>
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
@@ -3256,7 +3258,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Diagram</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagram</translation>
     </message>
     <message>
         <source>Table</source>
@@ -3273,15 +3275,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <name>wpsuil</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie Pliki(*.*) | *.*; |</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie-Źródła Danych(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Office database connection(*.odc) | *.odc |</source>
@@ -3317,11 +3319,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki Stron(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</translation>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Format RTF(*.rtf) | *.rtf; |</translation>
     </message>
     <message>
         <source>Word Documents(*.doc) | *.doc; |</source>
@@ -3365,15 +3367,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy Pusty Dokument</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy z Domyślnego Szablonu</translation>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy Z Domyślnego Szablonu</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -3405,7 +3407,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Podświetlenie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -3429,11 +3431,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwiększ-Wcięcie</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmniejsz-Wcięcie</translation>
     </message>
     <message>
         <source>Typing</source>
@@ -3445,39 +3447,39 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Interlinia</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypunktowanie</translation>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Powiększ-Czcionkę</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmniejsz-Czcionkę</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Przypis Górny</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Przypis Dolny</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka</translation>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor Podkreślenia</translation>
     </message>
     <message>
         <source>Paste Format</source>
@@ -3545,11 +3547,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Insert AutoText</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Auto Tekst</translation>
     </message>
     <message>
         <source>Add Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj Nagłówek/Stopke</translation>
     </message>
     <message>
         <source>Show/Hide Formatting Marks</source>
@@ -3557,7 +3559,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Select Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz Rozmiar Czcionki</translation>
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
@@ -3569,51 +3571,51 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolejność</translation>
     </message>
     <message>
         <source>Page Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość Strony</translation>
     </message>
     <message>
         <source>Text Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość Tekstu</translation>
     </message>
     <message>
         <source>Whole Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Cała Strona</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Dwie Strony</translation>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Szerokość Strony&quot;,-1</translation>
     </message>
     <message>
         <source>&quot;Text Width&quot;,-2</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Szerokość Tekstu&quot;,-2</translation>
     </message>
     <message>
         <source>&quot;Whole Page&quot;,-3</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Cała Strona&quot;,-3</translation>
     </message>
     <message>
         <source>&quot;Two Pages&quot;,-4</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Dwie Strony&quot;,-4</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Komentarz</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń Komentarz</translation>
     </message>
     <message>
         <source>Delete All Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń Wszystkie Komentarze</translation>
     </message>
     <message>
         <source>Delete All Comments Shown</source>
@@ -3621,11 +3623,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaakceptuj Zmianę</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaakceptuj Wszystkie Zmiany w Dokumencie</translation>
     </message>
     <message>
         <source>Accept All Changes Shown</source>
@@ -3633,11 +3635,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Odrzuć Zmianę</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Odrzuć Wszystkie Zmiany w Dokumencie</translation>
     </message>
     <message>
         <source>Reject All Changes Shown</source>
@@ -3677,11 +3679,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień Kierunek Tekstu</translation>
     </message>
     <message>
         <source>Columns Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatowanie Kolumn</translation>
     </message>
     <message>
         <source>Paragraph Formatting</source>
@@ -3709,19 +3711,19 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Insert Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Podział</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Data/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Data/Czas</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakładka</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -3741,27 +3743,27 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Hiperłącze</translation>
     </message>
     <message>
         <source>Insert Blank Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Puste POle</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished">Wstaw Obrazek</translation>
+        <translation>Wstaw Obrazek</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Tabelę</translation>
     </message>
     <message>
         <source>Insert Table Element</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Element Tabeli</translation>
     </message>
     <message>
         <source>Delete Table Element</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń Element Tabeli</translation>
     </message>
     <message>
         <source>Split Table</source>
@@ -3793,7 +3795,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Scal Komórki</translation>
     </message>
     <message>
         <source>Repeat Heading</source>
@@ -3817,7 +3819,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaiwenia Strony</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -3825,35 +3827,35 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystnij</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej Specjalne</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>Edit Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj Pole</translation>
     </message>
     <message>
         <source>Update Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj Pola</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj Komentarz</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń Hiperłącze</translation>
     </message>
     <message>
         <source>Convert to Endnotes</source>
@@ -3865,19 +3867,19 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można Cofnąć</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można Powtórzyć</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Cofnij</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Powtórz</translation>
     </message>
     <message>
         <source>Field To Text</source>
@@ -3885,11 +3887,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Lock Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokuj Pole</translation>
     </message>
     <message>
         <source>Unlock Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Odblokuj Pole</translation>
     </message>
     <message>
         <source>Insert Chart</source>
@@ -3930,15 +3932,15 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy Styl</translation>
     </message>
     <message>
         <source>Modify Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Modyfikuj Styl</translation>
     </message>
     <message>
         <source>Delete Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń Styl</translation>
     </message>
     <message>
         <source>Apply Style</source>
@@ -3946,15 +3948,15 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>Clear Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść Formatowanie</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz kontynuować wyszukiwanie od końca?</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the beginning?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz kontynuować wyszukiwanie od początku?</translation>
     </message>
     <message>
         <source>Do you want to delete the header and footer, and connect to the previous section?</source>
@@ -3983,19 +3985,19 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>wstawiony</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>usunięty</translation>
     </message>
     <message>
         <source>comment</source>
-        <translation type="unfinished"></translation>
+        <translation>komentarz</translation>
     </message>
     <message>
         <source>Page: </source>
-        <translation type="unfinished"></translation>
+        <translation>Strona: </translation>
     </message>
     <message>
         <source>Paste as Nested Table</source>
@@ -4003,15 +4005,15 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Paste Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej Wiersze</translation>
     </message>
     <message>
         <source>Paste Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej Kolmny</translation>
     </message>
     <message>
         <source>Paste Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej Komórki</translation>
     </message>
     <message>
         <source>Paste by Appending Table</source>
@@ -4023,15 +4025,15 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Remove Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń Ochronę</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś</translation>
     </message>
     <message>
         <source>Please make a selection first.</source>
@@ -4039,11 +4041,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>This is an invalid selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowe zanaczenie.</translation>
     </message>
     <message>
         <source>This function is provided in Kingsoft Office Professional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta funkcja jest dostępna w Kingsoft Office Professional.</translation>
     </message>
     <message>
         <source>Adjust Table Column Width</source>
@@ -4055,7 +4057,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Erase Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Wymaż Komórki</translation>
     </message>
     <message>
         <source>Add Vertical Border</source>
@@ -4075,11 +4077,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Table Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar Tabeli</translation>
     </message>
     <message>
         <source>Insert File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Plik</translation>
     </message>
     <message>
         <source>Click and Type</source>
@@ -4087,11 +4089,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Hide White Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj Białe Znaki</translation>
     </message>
     <message>
         <source>Show White Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż Białe Znaki</translation>
     </message>
     <message>
         <source>Mail Merge Insert Fields</source>
@@ -4131,11 +4133,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunięty</translation>
     </message>
     <message>
         <source>Inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstawiony</translation>
     </message>
     <message>
         <source>Close Compare Side by Side</source>
@@ -4159,7 +4161,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>[Disabled]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Wyłączony]</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -4167,7 +4169,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Śledź Zmiany</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -4175,7 +4177,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź Pisownię</translation>
     </message>
     <message>
         <source>Formatted</source>
@@ -4211,15 +4213,15 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Niesformatowany Tekst</translation>
     </message>
     <message>
         <source>Text With Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Sformatowany</translation>
     </message>
     <message>
         <source>Match the Current Format</source>
@@ -4227,11 +4229,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Przetłumacz</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <source>Auto Replace Paragraph Header Space With Indent</source>
@@ -4295,19 +4297,19 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Drukuj</translation>
     </message>
     <message>
         <source>Print directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Drukuj bezpośrednio</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw</translation>
     </message>
     <message>
         <source>Modify bullets and numbering</source>
@@ -4315,19 +4317,19 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished">Komentarz</translation>
+        <translation>Komentarz</translation>
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona X</translation>
     </message>
     <message>
         <source>Total of X pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Suma X stron</translation>
     </message>
     <message>
         <source>of X</source>
-        <translation type="unfinished"></translation>
+        <translation>z X</translation>
     </message>
     <message>
         <source>First Line: %.2f  Characters</source>
@@ -4371,7 +4373,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Clean Paragraph Space And Indent</source>
@@ -4399,7 +4401,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Format Line Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj Numer Linii</translation>
     </message>
 </context>
 </TS>

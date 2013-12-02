@@ -9,15 +9,15 @@
     </message>
     <message>
         <source>Object Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Obiekt Usunięty</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość Poza Zakresem</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy Parametr</translation>
     </message>
     <message>
         <source>Command Failed</source>
@@ -25,11 +25,11 @@
     </message>
     <message>
         <source>Unknown Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieznany Błąd</translation>
     </message>
     <message>
         <source>Invalid Argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy Argument</translation>
     </message>
     <message>
         <source>Item Exists</source>
@@ -45,18 +45,20 @@ Please check your system settings and ensure the temporary directory under the c
         <source>The current user does not have the permission to write in the temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktualny użytkownik nie ma praw zapisu do folderu tymczasowego.
+
+Proszę sprawdź ustawienia systemowe i upewnij się, że katalog tymczasowy aktualnego użytkownika jest dostępny i uruchom ponownie Kingsoft-Office.</translation>
     </message>
 </context>
 <context>
     <name>copypaste</name>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Niesformatowany Tekst</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wklejona jako tekst bez formatowania.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Writer</source>
@@ -124,7 +126,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (PNG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazek (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
@@ -132,7 +134,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (JFIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazek (JFIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
@@ -140,7 +142,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (GIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazek (GIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
@@ -148,7 +150,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitmapa</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
@@ -160,7 +162,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (JPG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazek (JPG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPEG picture.</source>
@@ -168,7 +170,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Sformatowany (RTF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text with font and table formatting.</source>
@@ -176,7 +178,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>HTML Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format HTML</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
@@ -203,7 +205,7 @@ Please check your system settings and ensure the temporary directory under the c
     <name>dguil</name>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie Obrazki(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -223,7 +225,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitmapa Windows(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
@@ -235,11 +237,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Obrazek</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw AutoKształt</translation>
     </message>
     <message>
         <source>Insert Connector</source>
@@ -251,7 +253,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Strzałkę</translation>
     </message>
     <message>
         <source>Insert Curve</source>
@@ -283,15 +285,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Rotate Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Obróć Obiekt</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś Obiekt</translation>
     </message>
     <message>
         <source>Resize Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień Rozmiar Obiektu</translation>
     </message>
     <message>
         <source>Adjust Object</source>
@@ -299,7 +301,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Make Same Height</source>
@@ -347,15 +349,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyrównaj do Lewej</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyrównaj do Prawej</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -383,11 +385,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message utf8="true">
         <source>Rotate Left 90º</source>
-        <translation type="unfinished"></translation>
+        <translation>Obróć w Lewo o 90º</translation>
     </message>
     <message utf8="true">
         <source>Rotate Right 90º</source>
-        <translation type="unfinished"></translation>
+        <translation>Obróć w Prawo o 90º</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -463,7 +465,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Cień</translation>
     </message>
     <message>
         <source>Toggle Shadow</source>
@@ -511,11 +513,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz Scieżkę</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij Ścieżkę</translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -675,7 +677,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Oval</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Owal</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
@@ -695,11 +697,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Obiekt OLE</translation>
     </message>
     <message>
         <source>Edit OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj Obiekt OLE</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -707,11 +709,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj Tekst</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj Tekst</translation>
     </message>
     <message>
         <source>Update Link</source>
@@ -743,7 +745,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -844,7 +846,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -852,7 +854,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer, please make sure it&apos;s safe before continuing. Do you want to continue?</source>
@@ -887,19 +889,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>drawing</name>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostokąt</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokrąglony Prostokąt</translation>
     </message>
     <message>
         <source>Oval</source>
-        <translation type="unfinished"></translation>
+        <translation>Owal</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Diament</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
@@ -915,7 +917,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"></translation>
+        <translation>Trapez</translation>
     </message>
     <message>
         <source>Hexagon</source>
@@ -927,15 +929,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Krzyż</translation>
     </message>
     <message>
         <source>5-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Gwiazda 5-cio Ramienna</translation>
     </message>
     <message>
         <source>Right Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Strzałka w Prawo</translation>
     </message>
     <message>
         <source>Thin Arrow</source>
@@ -959,11 +961,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Łuk</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linia</translation>
     </message>
     <message>
         <source>Plaque</source>
@@ -2174,7 +2176,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>filter</name>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki XML</translation>
     </message>
     <message>
         <source>XML Document Templates</source>
@@ -2222,27 +2224,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik Tektowy</translation>
     </message>
     <message>
         <source>Text Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki Tekstowe</translation>
     </message>
     <message>
         <source>RTF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik RTF</translation>
     </message>
     <message>
         <source>RTF Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki RTF</translation>
     </message>
     <message>
         <source>HTML File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik HTML</translation>
     </message>
     <message>
         <source>HTML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki HTML</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
@@ -2304,22 +2306,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>kso</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako</translation>
     </message>
 </context>
 <context>
     <name>ksocomm</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz Jako</translation>
     </message>
     <message>
         <source>Kingsoft Office</source>
@@ -2361,11 +2363,11 @@ File: %s
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie Pliki(*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -2377,7 +2379,7 @@ File: %s
     </message>
     <message>
         <source>run VBA</source>
-        <translation type="unfinished"></translation>
+        <translation>uruchom VBA</translation>
     </message>
     <message>
         <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
@@ -2622,7 +2624,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use printer settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj ustawień drukarki</translation>
     </message>
     <message>
         <source>Kingsoft Office cannot print. Please check whether the printer is turned on or connected.
@@ -2631,7 +2633,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Print to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Drukuj do pliku</translation>
     </message>
     <message>
         <source>All(*.*)|*.*|Printable File(*.prn)|*.prn</source>
@@ -2666,15 +2668,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzanie Kopią Zapasową</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy Dokument</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa Prezentacja</translation>
     </message>
     <message>
         <source>New Workbook</source>
@@ -2682,11 +2684,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie dokumenty</translation>
     </message>
     <message>
         <source>Recent presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie prezentacje</translation>
     </message>
     <message>
         <source>Recent workbooks</source>
@@ -2694,63 +2696,63 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>10%</source>
-        <translation type="unfinished"></translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>20%</source>
-        <translation type="unfinished"></translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
-        <translation type="unfinished"></translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>30%</source>
-        <translation type="unfinished"></translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>40%</source>
-        <translation type="unfinished"></translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5%</source>
-        <translation type="unfinished"></translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>60%</source>
-        <translation type="unfinished"></translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>70%</source>
-        <translation type="unfinished"></translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished"></translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished"></translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Failed to add Add-In</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieudane dodanie Dodatku</translation>
     </message>
     <message>
         <source>(All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Wszystko)</translation>
     </message>
     <message>
         <source>Error happens when application initializes. Error code: 0x%8.8x.</source>
@@ -2834,15 +2836,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>O Programie Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>O Programie Kingsoft Presentation</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>O Programie Kingsoft Writer</translation>
     </message>
     <message>
         <source>Cell Reference</source>
@@ -2870,7 +2872,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
@@ -2886,11 +2888,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Copy to</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj do</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dod&amp;aj</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2910,7 +2912,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modyfikuj</translation>
     </message>
     <message>
         <source>Custom Shows</source>
@@ -2954,7 +2956,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -2998,11 +3000,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj Hiperłącze</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
@@ -3050,7 +3052,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie Pliki(*.*)|*.*</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot access %s, the file name is invalid.</source>
@@ -3090,15 +3092,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik</translation>
     </message>
     <message>
         <source>The file name is incorrect, please input the filename with correct format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pliku jest niepoprawna, proszę podać właściwy format nazwy pliku.</translation>
     </message>
     <message>
         <source>File not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik nie znaleziony</translation>
     </message>
     <message>
         <source>First Slide</source>
@@ -3106,7 +3108,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>folder</translation>
     </message>
     <message>
         <source>GB</source>
@@ -3150,11 +3152,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw Hiperłącze</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy</translation>
     </message>
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
@@ -3230,103 +3232,103 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Złoty</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-35%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary-95%</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielony</translation>
     </message>
     <message>
         <source>IceBlue</source>
@@ -3510,7 +3512,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Loading DLL fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd ładowania biblioteki DLL</translation>
     </message>
     <message>
         <source>Loading %s fails. Application will terminate. Please check and try again.</source>
@@ -3618,7 +3620,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>All Files (*.*) | *.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie Pliki(*.*)|*.*</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
@@ -3670,7 +3672,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Initializing the printer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicjacja drukarki...</translation>
     </message>
     <message>
         <source>Printing %d page of %d</source>
@@ -3706,7 +3708,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz Jako</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
@@ -4214,7 +4216,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Pusty Dokument</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot access %s, the file name is invalid.</source>
@@ -4274,19 +4276,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Wróć</translation>
     </message>
     <message>
         <source>Forword</source>
-        <translation type="unfinished"></translation>
+        <translation>Naprzód</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Open in broser</source>
@@ -4302,7 +4304,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Educational material</source>
-        <translation type="unfinished"></translation>
+        <translation>Materiał Edukacyjny</translation>
     </message>
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
@@ -4370,11 +4372,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The previous tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzednia zakładka</translation>
     </message>
     <message>
         <source>The next tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Następna zakładka</translation>
     </message>
     <message>
         <source>Tab list</source>
@@ -4382,7 +4384,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>New document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy dokument</translation>
     </message>
     <message>
         <source>Document tab</source>
@@ -4398,7 +4400,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Verifying the serial number, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Weryfikacja klucza produktu, proszę czekać...</translation>
     </message>
     <message>
         <source>Fail to open email client automatically, please send email to %s to feedback information.</source>
