@@ -2733,6 +2733,22 @@ Window</source>
         <translation>表示</translation>
     </message>
     <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation>アート文字</translation>
     </message>
@@ -3816,7 +3832,7 @@ Trig</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>その他の機能</translation>
+        <translation type="obsolete">その他の機能</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -8737,7 +8753,7 @@ AddIns</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>その他の機能</translation>
+        <translation type="obsolete">その他の機能</translation>
     </message>
     <message>
         <source>Name Manager</source>

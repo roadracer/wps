@@ -2585,7 +2585,7 @@ Aan</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation>KingsoftOffice</translation>
+        <translation type="obsolete">KingsoftOffice</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
@@ -6503,7 +6503,7 @@ Aan</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="obsolete">Kingsoft Office Homepage</translation>
+        <translation type="unfinished">Kingsoft Office Homepage</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
@@ -15167,6 +15167,22 @@ Slide</source>
     </message>
     <message>
         <source>What News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

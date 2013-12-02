@@ -2686,6 +2686,22 @@ Window</source>
         <translation>Beeld</translation>
     </message>
     <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
     </message>
@@ -3728,10 +3744,6 @@ Aan</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Functoins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8397,10 +8409,6 @@ AddIns</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Functoins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

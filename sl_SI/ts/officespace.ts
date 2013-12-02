@@ -449,11 +449,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vrsta</translation>
     </message>
     <message>
         <source>Time</source>

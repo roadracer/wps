@@ -5735,35 +5735,35 @@ Always take this action</source>
     </message>
     <message>
         <source>Arabic (Saudi Arabia)</source>
-        <translation>阿拉伯语（沙特阿拉伯）</translation>
+        <translation type="obsolete">阿拉伯语（沙特阿拉伯）</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation>中文繁体（台湾）</translation>
+        <translation type="obsolete">中文繁体（台湾）</translation>
     </message>
     <message>
         <source>German (Germany)</source>
-        <translation>德语</translation>
+        <translation type="obsolete">德语</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation>英语（美国）</translation>
+        <translation type="obsolete">英语（美国）</translation>
     </message>
     <message>
         <source>Spanish (Spain)</source>
-        <translation>西班牙语</translation>
+        <translation type="obsolete">西班牙语</translation>
     </message>
     <message>
         <source>French (France)</source>
-        <translation>法语</translation>
+        <translation type="obsolete">法语</translation>
     </message>
     <message>
         <source>Italian (Italy)</source>
-        <translation>意大利语</translation>
+        <translation type="obsolete">意大利语</translation>
     </message>
     <message>
         <source>Dutch (The Netherlands)</source>
-        <translation>荷兰语（荷兰）</translation>
+        <translation type="obsolete">荷兰语（荷兰）</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
@@ -5771,507 +5771,503 @@ Always take this action</source>
     </message>
     <message>
         <source>Portuguese (Brazil)</source>
-        <translation>葡萄牙语（巴西）</translation>
+        <translation type="obsolete">葡萄牙语（巴西）</translation>
     </message>
     <message>
         <source>Swedish (Sweden)</source>
-        <translation>瑞典语</translation>
+        <translation type="obsolete">瑞典语</translation>
     </message>
     <message>
         <source>Azeri (Latin)</source>
-        <translation>阿泽（拉丁语）</translation>
+        <translation type="obsolete">阿泽（拉丁语）</translation>
     </message>
     <message>
         <source>Malay (Malaysia)</source>
-        <translation>马来语（马来西亚）</translation>
+        <translation type="obsolete">马来语（马来西亚）</translation>
     </message>
     <message>
         <source>Uzbek (Latin)</source>
-        <translation>乌兹别克（拉丁语）</translation>
+        <translation type="obsolete">乌兹别克（拉丁语）</translation>
     </message>
     <message>
         <source>Arabic (Iraq)</source>
-        <translation>阿拉伯语（伊拉克）</translation>
+        <translation type="obsolete">阿拉伯语（伊拉克）</translation>
     </message>
     <message>
         <source>Chinese (China)</source>
-        <translation>中文简体（中国）</translation>
+        <translation type="obsolete">中文简体（中国）</translation>
     </message>
     <message>
         <source>German (Switzerland)</source>
-        <translation>德语（瑞士）</translation>
+        <translation type="obsolete">德语（瑞士）</translation>
     </message>
     <message>
         <source>English (United Kingdom)</source>
-        <translation>英语（英国）</translation>
+        <translation type="obsolete">英语（英国）</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
-        <translation>西班牙（墨西哥）</translation>
+        <translation type="obsolete">西班牙（墨西哥）</translation>
     </message>
     <message>
         <source>French (Belgium)</source>
-        <translation>法语（比利时）</translation>
+        <translation type="obsolete">法语（比利时）</translation>
     </message>
     <message>
         <source>Italian (Switzerland)</source>
-        <translation>意大利语（瑞士）</translation>
+        <translation type="obsolete">意大利语（瑞士）</translation>
     </message>
     <message>
         <source>Dutch (Belgium)</source>
-        <translation>荷兰语（比利时)</translation>
+        <translation type="obsolete">荷兰语（比利时)</translation>
     </message>
     <message>
         <source>Norwegian (Nynorsk)</source>
-        <translation>新挪威语</translation>
+        <translation type="obsolete">新挪威语</translation>
     </message>
     <message>
         <source>Portuguese (Portugal)</source>
-        <translation>葡萄牙语（葡萄牙）</translation>
+        <translation type="obsolete">葡萄牙语（葡萄牙）</translation>
     </message>
     <message>
         <source>Romanian (Republic of Moldova)</source>
-        <translation>罗马尼亚（摩尔多瓦共和国语）</translation>
+        <translation type="obsolete">罗马尼亚（摩尔多瓦共和国语）</translation>
     </message>
     <message>
         <source>Russian (Republic of Moldova)</source>
-        <translation>俄语（摩尔多瓦共和国）</translation>
+        <translation type="obsolete">俄语（摩尔多瓦共和国）</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation>塞尔维亚（拉丁语）</translation>
+        <translation type="obsolete">塞尔维亚（拉丁语）</translation>
     </message>
     <message>
         <source>Swedish (Finland)</source>
-        <translation>瑞典语（芬兰）</translation>
+        <translation type="obsolete">瑞典语（芬兰）</translation>
     </message>
     <message>
         <source>Azeri (Cyrillic)</source>
-        <translation>阿泽里文（西里尔）</translation>
+        <translation type="obsolete">阿泽里文（西里尔）</translation>
     </message>
     <message>
         <source>Gaelic (Ireland)</source>
-        <translation>盖尔语（爱尔兰）</translation>
+        <translation type="obsolete">盖尔语（爱尔兰）</translation>
     </message>
     <message>
         <source>Malay (Brunei)</source>
-        <translation>马来语（文莱）</translation>
+        <translation type="obsolete">马来语（文莱）</translation>
     </message>
     <message>
         <source>Uzbek (Cyrillic)</source>
-        <translation>乌兹别克（西里尔）</translation>
+        <translation type="obsolete">乌兹别克（西里尔）</translation>
     </message>
     <message>
         <source>Arabic (Egypt)</source>
-        <translation>阿拉伯语（埃及）</translation>
+        <translation type="obsolete">阿拉伯语（埃及）</translation>
     </message>
     <message>
         <source>Chinese (Hong Kong SAR)</source>
-        <translation>中文繁体（香港）</translation>
+        <translation type="obsolete">中文繁体（香港）</translation>
     </message>
     <message>
         <source>German (Austria)</source>
-        <translation>德语（奥地利）</translation>
+        <translation type="obsolete">德语（奥地利）</translation>
     </message>
     <message>
         <source>English (Australia)</source>
-        <translation>英语（澳大利亚）</translation>
+        <translation type="obsolete">英语（澳大利亚）</translation>
     </message>
     <message>
         <source>French (Canada)</source>
-        <translation>法语（加拿大）</translation>
+        <translation type="obsolete">法语（加拿大）</translation>
     </message>
     <message>
         <source>Serbian (Cyrillic)</source>
-        <translation>塞尔维亚（西里尔）</translation>
+        <translation type="obsolete">塞尔维亚（西里尔）</translation>
     </message>
     <message>
         <source>Arabic (Libya)</source>
-        <translation>阿拉伯语（利比亚）</translation>
+        <translation type="obsolete">阿拉伯语（利比亚）</translation>
     </message>
     <message>
         <source>Chinese (Singapore)</source>
-        <translation>中文（新加坡）</translation>
+        <translation type="obsolete">中文（新加坡）</translation>
     </message>
     <message>
         <source>German (Luxembourg)</source>
-        <translation>德国（卢森堡）</translation>
+        <translation type="obsolete">德国（卢森堡）</translation>
     </message>
     <message>
         <source>English (Canada)</source>
-        <translation>英语（加拿大）</translation>
+        <translation type="obsolete">英语（加拿大）</translation>
     </message>
     <message>
         <source>Spanish (Guatemala)</source>
-        <translation>西班牙语（危地马拉）</translation>
+        <translation type="obsolete">西班牙语（危地马拉）</translation>
     </message>
     <message>
         <source>French (Switzerland)</source>
-        <translation>法语（瑞士）</translation>
+        <translation type="obsolete">法语（瑞士）</translation>
     </message>
     <message>
         <source>Arabic (Algeria)</source>
-        <translation>阿拉伯语（阿尔及利亚）</translation>
+        <translation type="obsolete">阿拉伯语（阿尔及利亚）</translation>
     </message>
     <message>
         <source>Chinese (Macau SAR)</source>
-        <translation>中文繁体（澳门）</translation>
+        <translation type="obsolete">中文繁体（澳门）</translation>
     </message>
     <message>
         <source>German (Liechtenstein)</source>
-        <translation>德语（列支敦士登）</translation>
+        <translation type="obsolete">德语（列支敦士登）</translation>
     </message>
     <message>
         <source>English (New Zealand)</source>
-        <translation>英语（新西兰）</translation>
+        <translation type="obsolete">英语（新西兰）</translation>
     </message>
     <message>
         <source>Spanish (Costa Rica)</source>
-        <translation>西班牙语（哥斯达黎加）</translation>
+        <translation type="obsolete">西班牙语（哥斯达黎加）</translation>
     </message>
     <message>
         <source>French (Luxembourg)</source>
-        <translation>法语（卢森堡）</translation>
+        <translation type="obsolete">法语（卢森堡）</translation>
     </message>
     <message>
         <source>Arabic (Morocco)</source>
-        <translation>阿拉伯语（摩洛哥）</translation>
+        <translation type="obsolete">阿拉伯语（摩洛哥）</translation>
     </message>
     <message>
         <source>English (Ireland)</source>
-        <translation>英语（爱尔兰）</translation>
+        <translation type="obsolete">英语（爱尔兰）</translation>
     </message>
     <message>
         <source>Spanish (Panama)</source>
-        <translation>西班牙语（巴拿马）</translation>
+        <translation type="obsolete">西班牙语（巴拿马）</translation>
     </message>
     <message>
         <source>Arabic (Tunisia)</source>
-        <translation>阿拉伯语（突尼斯）</translation>
+        <translation type="obsolete">阿拉伯语（突尼斯）</translation>
     </message>
     <message>
         <source>English (South Africa)</source>
-        <translation>英语（南非）</translation>
+        <translation type="obsolete">英语（南非）</translation>
     </message>
     <message>
         <source>Spanish (Dominican Republic)</source>
-        <translation>西班牙语（多米尼加共和国）</translation>
+        <translation type="obsolete">西班牙语（多米尼加共和国）</translation>
     </message>
     <message>
         <source>Arabic (Oman)</source>
-        <translation>阿拉伯语（阿曼）</translation>
+        <translation type="obsolete">阿拉伯语（阿曼）</translation>
     </message>
     <message>
         <source>English (Jamaica)</source>
-        <translation>英语（牙买加）</translation>
+        <translation type="obsolete">英语（牙买加）</translation>
     </message>
     <message>
         <source>Spanish (Venezuela)</source>
-        <translation>西班牙语（委内瑞拉）</translation>
+        <translation type="obsolete">西班牙语（委内瑞拉）</translation>
     </message>
     <message>
         <source>Arabic (Yemen)</source>
-        <translation>阿拉伯语（也门）</translation>
+        <translation type="obsolete">阿拉伯语（也门）</translation>
     </message>
     <message>
         <source>English (Caribbean)</source>
-        <translation>英语（加勒比）</translation>
+        <translation type="obsolete">英语（加勒比）</translation>
     </message>
     <message>
         <source>Spanish (Colombia)</source>
-        <translation>西班牙语（哥伦比亚）</translation>
+        <translation type="obsolete">西班牙语（哥伦比亚）</translation>
     </message>
     <message>
         <source>Arabic (Syria)</source>
-        <translation>阿拉伯语（叙利亚)</translation>
+        <translation type="obsolete">阿拉伯语（叙利亚)</translation>
     </message>
     <message>
         <source>English (Belize)</source>
-        <translation>英语（伯利兹）</translation>
+        <translation type="obsolete">英语（伯利兹）</translation>
     </message>
     <message>
         <source>Spanish (Peru)</source>
-        <translation>西班牙语（秘鲁）</translation>
+        <translation type="obsolete">西班牙语（秘鲁）</translation>
     </message>
     <message>
         <source>Arabic (Jordan)</source>
-        <translation>阿拉伯文（约旦）</translation>
+        <translation type="obsolete">阿拉伯文（约旦）</translation>
     </message>
     <message>
         <source>English (Trinidad)</source>
-        <translation>英语（特立尼达）</translation>
+        <translation type="obsolete">英语（特立尼达）</translation>
     </message>
     <message>
         <source>Spanish (Argentina)</source>
-        <translation>西班牙语（阿根廷）</translation>
+        <translation type="obsolete">西班牙语（阿根廷）</translation>
     </message>
     <message>
         <source>Arabic (Lebanon)</source>
-        <translation>阿拉伯语(黎巴嫩)</translation>
+        <translation type="obsolete">阿拉伯语(黎巴嫩)</translation>
     </message>
     <message>
         <source>Spanish (Ecuador)</source>
-        <translation>西班牙语（厄瓜多尔）</translation>
+        <translation type="obsolete">西班牙语（厄瓜多尔）</translation>
     </message>
     <message>
         <source>Arabic (Kuwait)</source>
-        <translation>阿拉伯语（科威特）</translation>
+        <translation type="obsolete">阿拉伯语（科威特）</translation>
     </message>
     <message>
         <source>English (Phillippines)</source>
-        <translation>英语（菲律宾）</translation>
+        <translation type="obsolete">英语（菲律宾）</translation>
     </message>
     <message>
         <source>Spanish (Chile)</source>
-        <translation>西班牙语（智利）</translation>
+        <translation type="obsolete">西班牙语（智利）</translation>
     </message>
     <message>
         <source>Arabic (United Arab Emirates)</source>
-        <translation>阿拉伯语(阿拉伯联合酋长国)</translation>
+        <translation type="obsolete">阿拉伯语(阿拉伯联合酋长国)</translation>
     </message>
     <message>
         <source>Spanish (Uruguay)</source>
-        <translation>西班牙语（乌拉圭）</translation>
+        <translation type="obsolete">西班牙语（乌拉圭）</translation>
     </message>
     <message>
         <source>Arabic (Bahrain)</source>
-        <translation>阿拉伯语（巴林）</translation>
+        <translation type="obsolete">阿拉伯语（巴林）</translation>
     </message>
     <message>
         <source>Spanish (Paraguay)</source>
-        <translation>西班牙语（巴拉圭）</translation>
+        <translation type="obsolete">西班牙语（巴拉圭）</translation>
     </message>
     <message>
         <source>Arabic (Qatar)</source>
-        <translation>阿拉伯语（卡塔尔）</translation>
+        <translation type="obsolete">阿拉伯语（卡塔尔）</translation>
     </message>
     <message>
         <source>Spanish (Bolivia)</source>
-        <translation>西班牙语（萨尔瓦多）</translation>
+        <translation type="obsolete">西班牙语（萨尔瓦多）</translation>
     </message>
     <message>
         <source>Spanish (El Salvador)</source>
-        <translation>西班牙语（萨尔瓦多）</translation>
+        <translation type="obsolete">西班牙语（萨尔瓦多）</translation>
     </message>
     <message>
         <source>Spanish (Honduras)</source>
-        <translation>西班牙语（洪都拉斯）</translation>
+        <translation type="obsolete">西班牙语（洪都拉斯）</translation>
     </message>
     <message>
         <source>Spanish (Nicaragua)</source>
-        <translation>西班牙语（尼加拉瓜）</translation>
+        <translation type="obsolete">西班牙语（尼加拉瓜）</translation>
     </message>
     <message>
         <source>Spanish (Puerto Rico)</source>
-        <translation>西班牙语（波多黎各）</translation>
+        <translation type="obsolete">西班牙语（波多黎各）</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>俄语</translation>
+        <translation type="obsolete">俄语</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation>保加利亚语</translation>
+        <translation type="obsolete">保加利亚语</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation>加泰罗尼亚语</translation>
+        <translation type="obsolete">加泰罗尼亚语</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation>捷克语</translation>
+        <translation type="obsolete">捷克语</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation>丹麦语</translation>
+        <translation type="obsolete">丹麦语</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation>希腊语</translation>
+        <translation type="obsolete">希腊语</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation>芬兰语</translation>
+        <translation type="obsolete">芬兰语</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>希伯来语</translation>
+        <translation type="obsolete">希伯来语</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation>匈牙利语</translation>
+        <translation type="obsolete">匈牙利语</translation>
     </message>
     <message>
         <source>Icelandic</source>
-        <translation>冰岛语</translation>
+        <translation type="obsolete">冰岛语</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>日本语</translation>
+        <translation type="obsolete">日本语</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation>朝鲜语</translation>
+        <translation type="obsolete">朝鲜语</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>波兰语</translation>
+        <translation type="obsolete">波兰语</translation>
     </message>
     <message>
         <source>Raeto-Romance</source>
-        <translation>里托罗曼斯文</translation>
+        <translation type="obsolete">里托罗曼斯文</translation>
     </message>
     <message>
         <source>Romanian (Romania)</source>
-        <translation>罗马尼亚语（罗马尼亚）</translation>
+        <translation type="obsolete">罗马尼亚语（罗马尼亚）</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation>克罗地亚语</translation>
+        <translation type="obsolete">克罗地亚语</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation>斯洛伐克语</translation>
+        <translation type="obsolete">斯洛伐克语</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation>阿尔巴尼亚语</translation>
+        <translation type="obsolete">阿尔巴尼亚语</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation>泰语</translation>
+        <translation type="obsolete">泰语</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation>土耳其语</translation>
+        <translation type="obsolete">土耳其语</translation>
     </message>
     <message>
         <source>Urdu</source>
-        <translation>乌尔都语</translation>
+        <translation type="obsolete">乌尔都语</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation>印尼语</translation>
+        <translation type="obsolete">印尼语</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation>乌克兰语</translation>
+        <translation type="obsolete">乌克兰语</translation>
     </message>
     <message>
         <source>Belarusian</source>
-        <translation>白俄罗斯语</translation>
+        <translation type="obsolete">白俄罗斯语</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation>斯洛文尼亚语</translation>
+        <translation type="obsolete">斯洛文尼亚语</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation>爱沙尼亚语</translation>
+        <translation type="obsolete">爱沙尼亚语</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation>拉脱维亚语</translation>
+        <translation type="obsolete">拉脱维亚语</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation>立陶宛语</translation>
+        <translation type="obsolete">立陶宛语</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation>波斯语</translation>
+        <translation type="obsolete">波斯语</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation>越南语</translation>
+        <translation type="obsolete">越南语</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation>亚美尼亚语</translation>
+        <translation type="obsolete">亚美尼亚语</translation>
     </message>
     <message>
         <source>Basque</source>
-        <translation>巴斯克语</translation>
+        <translation type="obsolete">巴斯克语</translation>
     </message>
     <message>
         <source>Sorbian</source>
-        <translation>索布语</translation>
+        <translation type="obsolete">索布语</translation>
     </message>
     <message>
         <source>FYRO Macedonian</source>
-        <translation>马其顿语</translation>
+        <translation type="obsolete">马其顿语</translation>
     </message>
     <message>
         <source>Sutu</source>
-        <translation>苏图语</translation>
+        <translation type="obsolete">苏图语</translation>
     </message>
     <message>
         <source>Tsonga</source>
-        <translation>特松加语</translation>
+        <translation type="obsolete">特松加语</translation>
     </message>
     <message>
         <source>Setsuana</source>
-        <translation>刹那语</translation>
+        <translation type="obsolete">刹那语</translation>
     </message>
     <message>
         <source>Xhosa</source>
-        <translation>科萨语</translation>
+        <translation type="obsolete">科萨语</translation>
     </message>
     <message>
         <source>Zulu</source>
-        <translation>祖鲁语</translation>
+        <translation type="obsolete">祖鲁语</translation>
     </message>
     <message>
         <source>Afrikaans</source>
-        <translation>印地文</translation>
+        <translation type="obsolete">印地文</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation>法罗群岛语</translation>
+        <translation type="obsolete">法罗群岛语</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation>印地文</translation>
+        <translation type="obsolete">印地文</translation>
     </message>
     <message>
         <source>Maltese</source>
-        <translation>马耳他语</translation>
+        <translation type="obsolete">马耳他语</translation>
     </message>
     <message>
         <source>Gaelic (Scotland)</source>
-        <translation>盖尔语（苏格兰）</translation>
+        <translation type="obsolete">盖尔语（苏格兰）</translation>
     </message>
     <message>
         <source>Yiddish</source>
-        <translation>意第绪语</translation>
+        <translation type="obsolete">意第绪语</translation>
     </message>
     <message>
         <source>Swahili</source>
-        <translation>斯瓦西里语</translation>
+        <translation type="obsolete">斯瓦西里语</translation>
     </message>
     <message>
         <source>Tatar</source>
-        <translation>鞑靼语</translation>
+        <translation type="obsolete">鞑靼语</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation>泰米尔语</translation>
+        <translation type="obsolete">泰米尔语</translation>
     </message>
     <message>
         <source>Marathi</source>
-        <translation>马拉地语</translation>
+        <translation type="obsolete">马拉地语</translation>
     </message>
     <message>
         <source>Sanskrit</source>
-        <translation>梵语</translation>
+        <translation type="obsolete">梵语</translation>
     </message>
     <message>
         <source>The selected dict was deleted, please select another dict.</source>
         <translation type="obsolete">所选择的拼写语言已经被删除，请重新选择拼写语言。</translation>
-    </message>
-    <message>
-        <source>Norwegian (BokmÃ¥l)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The selected dict has been deleted, please select another dict.</source>
