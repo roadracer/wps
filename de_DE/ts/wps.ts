@@ -6959,43 +6959,43 @@ use buttons to apply borders</source>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bitte tragen Sie das Passwort aus den Rechte-Einstellungen ein!</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Password Bestätigung stimmt nicht überein.</translation>
     </message>
     <message>
         <source>Permissions Password and Document Open Password must be different.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechte-Passwort und Dokumenten-Passwort müssen unterschiedlich sein.</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte geben Sie einen Dateinamen an.</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es existiert bereits ein Ordner mit diesem Namen. </translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der angegebene Ordner existiert nicht.</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben keine Schreibberechtigung in diesem Ordner.</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe PDF Datei speichern unter</translation>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf|All File(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF Datei(*.pdf)|*.pdf|Alle Dateien(*.*)|*.*</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die angebene Datei existiert bereits. Wollen Sie diese Datei überschreiben?</translation>
     </message>
 </context>
 <context>
