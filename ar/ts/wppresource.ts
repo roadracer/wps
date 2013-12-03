@@ -2586,7 +2586,7 @@ On</source>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation>KingsoftOffice</translation>
+        <translation type="obsolete">KingsoftOffice</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
@@ -6514,7 +6514,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="obsolete">الصفحة الرئيسية لـ Kingsoft-Office</translation>
+        <translation type="unfinished">الصفحة الرئيسية لـ Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
@@ -15251,6 +15251,22 @@ Slide</source>
     <message>
         <source>What News</source>
         <translation>ما الجديد</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>

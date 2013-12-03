@@ -3026,6 +3026,22 @@ Window</source>
         <translation type="obsolete">New Message</translation>
     </message>
     <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Word Art</source>
         <translation type="obsolete">WordArt</translation>
     </message>
@@ -4279,10 +4295,6 @@ On</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Functoins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9820,10 +9832,6 @@ Trig</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Functoins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -2751,6 +2751,22 @@ Window</source>
         <translation>视图</translation>
     </message>
     <message>
+        <source>Window Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished">最大化</translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished">最小化</translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished">还原</translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation>艺术字</translation>
     </message>
@@ -3839,7 +3855,7 @@ Trig</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>其他函数</translation>
+        <translation type="obsolete">其他函数</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -8679,7 +8695,7 @@ AddIns</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>其他函数</translation>
+        <translation type="obsolete">其他函数</translation>
     </message>
     <message>
         <source>Name Manager</source>

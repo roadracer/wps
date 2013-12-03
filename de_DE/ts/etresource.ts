@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de">
 <defaultcodec>UTF-8</defaultcodec>
@@ -6235,6 +6235,22 @@ Formatierung</translation>
         <translation type="obsolete">Fenster</translation>
     </message>
     <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wire Frame</source>
         <translation type="obsolete">Gittermodell</translation>
     </message>
@@ -7416,10 +7432,6 @@ On</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation>Mehr Funktionen</translation>
-    </message>
-    <message>
-        <source>More Functoins</source>
         <translation>Mehr Funktionen</translation>
     </message>
     <message>
@@ -12060,10 +12072,6 @@ AddIns</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Functoins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

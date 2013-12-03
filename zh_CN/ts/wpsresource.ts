@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -19272,6 +19273,22 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>What&apos;s New</source>
         <translation>新消息</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished">最大化</translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished">最小化</translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished">还原</translation>
     </message>
     <message>
         <source>WordArt</source>

@@ -2747,6 +2747,10 @@ You can click the button to recover files you work on.</source>
 (%s)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>print</name>

@@ -2693,6 +2693,22 @@ Window</source>
         <translation>عرض</translation>
     </message>
     <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
     </message>
@@ -3744,7 +3760,7 @@ On</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>مزيد من الدوال</translation>
+        <translation type="obsolete">مزيد من الدوال</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -8534,7 +8550,7 @@ AddIns</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>مزيد من الدوال</translation>
+        <translation type="obsolete">مزيد من الدوال</translation>
     </message>
     <message>
         <source>Name Manager</source>

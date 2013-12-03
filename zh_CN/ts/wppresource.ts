@@ -2678,10 +2678,6 @@ On</source>
         <translation>WPS 演示 模板文件（*.dpt）</translation>
     </message>
     <message>
-        <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>PowerPoint 文件（*.ppt）</translation>
     </message>
@@ -7229,6 +7225,10 @@ Master</source>
     <message>
         <source>WPS New features</source>
         <translation>WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished">WPS Office 主页</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
@@ -15637,6 +15637,22 @@ Slide</source>
     <message>
         <source>What News</source>
         <translation>新消息</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished">最大化</translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished">最小化</translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished">还原</translation>
     </message>
     <message>
         <source>WordArt</source>

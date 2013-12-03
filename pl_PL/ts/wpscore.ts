@@ -931,7 +931,7 @@ Czy chcesz zamienić?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lewo</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -939,7 +939,7 @@ Czy chcesz zamienić?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prawo</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -1620,10 +1620,6 @@ Czy chcesz zamienić?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.docx)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>*.wps;*.wpt;*.doc;*.dot; *.docx</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1838,6 +1834,13 @@ Type a different name for the document you want to save.
         <source>Graphic objects can not be placed in a text box, label annotations, footnotes or endnotes.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks: 
+· VB Project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsshell</name>
@@ -2008,12 +2011,6 @@ Type a different name for the document you want to save.
     <message>
         <source>Custom Color</source>
         <translation>Własny Kolor</translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for page setup?
-
-This change will affect all new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -2928,25 +2925,6 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you want to change the default settings for font?
-
-This change will affect all the new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for style?
-
-This change will affect all the new documents based on the %s template.
-
-
-Yes:	Save to template;
-
-No:	Do not save to template;
-
-Cancel:	Return to the dialog.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3004,12 +2982,6 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading1...........................1
-  Heading2.........................3
-    Heading3.......................5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3095,34 +3067,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>The search for &quot;%s&quot; is finished, no items were found.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Footnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Diagram</source>
-        <translation>Diagram</translation>
     </message>
     <message>
         <source>Page number</source>
@@ -3237,11 +3181,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(none)
-.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Formula:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3259,6 +3198,76 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for page setup?
+This change will affect all new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all the new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
+
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................3
+    Heading3.......................5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Równanie</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType</comment>
+        <translation>Diagram</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Tabela</translation>
+    </message>
+    <message>
+        <source>(none)
+.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3434,7 +3443,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyczyść</translation>
     </message>
     <message>
         <source>Line Spacing</source>

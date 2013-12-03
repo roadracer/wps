@@ -2685,10 +2685,6 @@ On</source>
         <translation>Kingsoft Presentation テンプレート(*.dpt)</translation>
     </message>
     <message>
-        <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>Micorosft PowerPoint ファイル(*.ppt)</translation>
     </message>
@@ -6754,7 +6750,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="obsolete">Kingsoft Office ホームページ</translation>
+        <translation type="unfinished">Kingsoft Office ホームページ</translation>
     </message>
     <message>
         <source>Kingsoft Online</source>
@@ -15579,6 +15575,22 @@ Slide</source>
     <message>
         <source>What News</source>
         <translation>更新情報</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>

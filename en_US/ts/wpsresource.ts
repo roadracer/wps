@@ -9313,10 +9313,6 @@ Diagonal Line in Cell</translation>
         <translation type="obsolete">Docer-Online Templates</translation>
     </message>
     <message>
-        <source>Horizontal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Horizontal Arrange</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9985,10 +9981,6 @@ Diagonal Line in Cell</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Vertical Arrange</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10066,6 +10058,28 @@ Diagonal Line in Cell</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertBlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertTextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -25491,6 +25505,22 @@ You can also center them or distribute them evenly across the page.</translation
     <message>
         <source>WhatNew</source>
         <translation type="obsolete">What&apos;s New</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>

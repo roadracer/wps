@@ -1764,12 +1764,12 @@ use buttons to apply borders</source>
         <translation>&amp;Možnosti</translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Undo</source>
         <translation>&amp;Razveljavi</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2094,7 +2094,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">-</translation>
     </message>
     <message>
         <source>g1</source>
@@ -2189,23 +2189,23 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Numbered item</source>
-        <translation>Oštevilčeni element</translation>
+        <translation type="obsolete">Oštevilčeni element</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation>Naslov</translation>
+        <translation type="obsolete">Naslov</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Zaznamki</translation>
+        <translation type="obsolete">Zaznamki</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>Sprotna opomba</translation>
+        <translation type="obsolete">Sprotna opomba</translation>
     </message>
     <message>
         <source>Endnote</source>
-        <translation>Končna opomba</translation>
+        <translation type="obsolete">Končna opomba</translation>
     </message>
     <message>
         <source>cbHyperlink</source>
@@ -3910,7 +3910,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">V&amp;se</translation>
     </message>
     <message>
         <source>Curr&amp;ent record</source>
@@ -3981,7 +3981,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">V&amp;se</translation>
     </message>
     <message>
         <source>rbCurrentRecord</source>
@@ -4180,7 +4180,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Style for following paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slog za &amp;naslednji odstavek:</translation>
     </message>
     <message>
         <source>cbxStyleFollow</source>
@@ -4503,7 +4503,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ch, 2, 0, 150,86, 0,5 {0, 0, 100, 1?}</translation>
     </message>
     <message>
         <source>&amp;entries</source>
@@ -4555,7 +4555,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>ch, 0, 0, 120, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ch, 2, 0, 150,86, 0,5 {0, 0, 120, 1?}</translation>
     </message>
     <message>
         <source>mi&amp;nutes</source>
@@ -5210,7 +5210,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Po&amp;ložaj:</translation>
     </message>
     <message>
         <source>Top of page(Header)</source>
@@ -5222,7 +5222,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P&amp;oravnava:</translation>
     </message>
     <message>
         <source>Left</source>
@@ -5250,7 +5250,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Number &amp;format:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblik&amp;a številk:</translation>
     </message>
     <message>
         <source>&amp;Show numher on first page</source>
@@ -5274,7 +5274,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Up&amp;orabi za:</translation>
     </message>
     <message>
         <source>Applied to this section</source>
@@ -5824,11 +5824,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Multiple, 2, 0.06, 132, 0.5</source>
-        <translation>Več, 2, 0,06, 132, 0,5</translation>
+        <translation type="obsolete">Več, 2, 0,06, 132, 0,5</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pripni na mrežo, ko je mreža dokumenta de&amp;finirana</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -5961,6 +5961,10 @@ use buttons to apply borders</source>
     <message>
         <source>&amp;Tabs...</source>
         <translation>&amp;Tabulatorji ...</translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6201,7 +6205,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znova &amp;vnesite geslo:</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered.(Remember that passwords are case sensitive.)</source>
@@ -6336,7 +6340,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;bsoluten položaj</translation>
     </message>
     <message>
         <source>pt, -2, -1584, 1584, 1</source>
@@ -6679,7 +6683,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Počisti vs&amp;e</translation>
     </message>
 </context>
 <context>
@@ -6741,7 +6745,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Bookmarks:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zaznamki:</translation>
     </message>
     <message>
         <source>&amp;Maximum length:</source>
@@ -7200,7 +7204,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nadaljuj iskanje</translation>
     </message>
     <message>
         <source>Use wildcards</source>
@@ -7920,7 +7924,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0#</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -7928,7 +7932,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1#</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -7936,7 +7940,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2#</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -7944,7 +7948,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3#</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -7952,7 +7956,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4#</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -7960,7 +7964,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5#</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -7968,15 +7972,15 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8#</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -8144,7 +8148,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0#</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -8152,7 +8156,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1#</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -8160,7 +8164,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2#</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -8168,7 +8172,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3#</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -8176,7 +8180,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4#</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -8184,7 +8188,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5#</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -8192,15 +8196,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8#</translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -8216,27 +8220,27 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Justify alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Objestranska poravnava</translation>
     </message>
     <message>
         <source>Single line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enojen razmik vrstic</translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1,5 razmik vrstic</translation>
     </message>
     <message>
         <source>Double line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dvojni razmik vrstic</translation>
     </message>
     <message>
         <source>Increase paragraph space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Povečaj razmik med odstavki</translation>
     </message>
     <message>
         <source>Decrease paragraph space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmanjšaj razmik med odstavki</translation>
     </message>
     <message>
         <source>Decrease indent</source>
@@ -8276,7 +8280,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Število mora biti med %1 in %2.</translation>
     </message>
     <message>
         <source>None</source>
@@ -8297,7 +8301,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Save Failed, Normal Template is occupied.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
     </message>
 </context>
 <context>
@@ -9632,7 +9636,7 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>&amp;Header</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Glava</translation>
     </message>
     <message>
         <source>None</source>
@@ -9734,7 +9738,7 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     <name>KxWpsHeaderFooterPageNumCommand</name>
     <message>
         <source>Set Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavi številko strani</translation>
     </message>
     <message>
         <source>Delete Page Number</source>
@@ -10527,7 +10531,7 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%</translation>
     </message>
     <message>
         <source>conten&amp;t:</source>

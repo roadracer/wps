@@ -2734,6 +2734,22 @@ Window</source>
         <translation>檢視</translation>
     </message>
     <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation>文字藝術師</translation>
     </message>
@@ -3816,7 +3832,7 @@ Trig</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>其他函數</translation>
+        <translation type="obsolete">其他函數</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -8525,7 +8541,7 @@ AddIns</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>其他函數</translation>
+        <translation type="obsolete">其他函數</translation>
     </message>
     <message>
         <source>Name Manager</source>

@@ -2679,10 +2679,6 @@ On</source>
         <translation>KingSoft Presentation 範本檔（*.dpt）</translation>
     </message>
     <message>
-        <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>PowerPoint 檔（*.ppt）</translation>
     </message>
@@ -6743,7 +6739,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="obsolete">KingSoft Office首頁</translation>
+        <translation type="unfinished">KingSoft Office首頁</translation>
     </message>
     <message>
         <source>Kingsoft Online</source>
@@ -15705,6 +15701,22 @@ Slide</source>
     <message>
         <source>What News</source>
         <translation>新消息</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>
