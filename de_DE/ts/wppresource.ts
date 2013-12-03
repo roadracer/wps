@@ -14243,7 +14243,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="obsolete">Neue leere Präsentation</translation>
+        <translation type="obsolete">Neue Präsentation</translation>
     </message>
     <message>
         <source>NoTabPage</source>
@@ -15965,7 +15965,7 @@ Folie</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation>Neue leere Präsentation</translation>
+        <translation>Neue Präsentation</translation>
     </message>
     <message>
         <source>New From Default Temlate</source>
