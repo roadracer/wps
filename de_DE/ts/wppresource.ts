@@ -2600,7 +2600,7 @@ On</source>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>Neue leere Datei</translation>
+        <translation>Neue Datei</translation>
     </message>
     <message>
         <source>New From Default Template</source>
@@ -14239,7 +14239,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation type="obsolete">Neue leere Datei</translation>
+        <translation type="obsolete">Neue Datei</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -17893,7 +17893,7 @@ Folie</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation type="obsolete">Neue leere Datei</translation>
+        <translation type="obsolete">Neue Datei</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
