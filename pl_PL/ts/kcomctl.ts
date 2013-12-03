@@ -228,34 +228,11 @@
     </message>
     <message>
         <source>Add to</source>
-        <traslation>Dodaj do</translation>
+        <translation>Dodaj do</translation>
     </message>
     <message>
         <source>&amp;Hide quick access</source>
         <translation>&amp;Ukryj Szybki Dostęp</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Choose Language</source>
-        <translation>Wybierz Język</translation>
-    </message>
-    <message>
-        <source>&amp;Choose your language</source>
-        <translation>&amp;Wybierz swój język</translation>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation>&amp;Resetuj osobisty szablon</translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation>Informacje</translation>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
-        <translation>Ustawienia wejdą w życie po ponownym uruchomieniu aplikacji.</translation>
     </message>
 </context>
 <context>
