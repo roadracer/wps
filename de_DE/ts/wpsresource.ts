@@ -2913,7 +2913,7 @@ On</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>Neues leeres Dokument</translation>
+        <translation>Neues Dokument</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -9057,7 +9057,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>Neues leeres Dokument</translation>
+        <translation>Neues Dokument</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -17862,11 +17862,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="obsolete">Neues leeres Dokument</translation>
+        <translation type="obsolete">Neues Dokument</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation type="obsolete">Neue leere Datei</translation>
+        <translation type="obsolete">Neue Datei</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -19880,11 +19880,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>Neues leeres Dokument</translation>
+        <translation>Neues Dokument</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>Neue leere Datei</translation>
+        <translation>Neue Datei</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -21419,7 +21419,7 @@ Datensatz</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>Neue leere Datei</translation>
+        <translation>Neue Datei</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -22422,11 +22422,11 @@ and Endnote</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="obsolete">Neues leeres Dokument</translation>
+        <translation type="obsolete">Neues Dokument</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation type="obsolete">Neue leere Datei</translation>
+        <translation type="obsolete">Neue Datei</translation>
     </message>
     <message>
         <source>New From Other Templates</source>
