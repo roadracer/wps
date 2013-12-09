@@ -1102,7 +1102,7 @@
     <name>classics.print_preview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1126,7 +1126,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -1245,7 +1245,7 @@
     <name>classics.slide_master_view</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -1289,7 +1289,7 @@ Master</source>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einblendezeiten testen</translation>
     </message>
     <message>
         <source>Slide Design</source>
@@ -1879,7 +1879,7 @@ Master</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -2604,7 +2604,7 @@ On</source>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation>Neu aus Standard-Vorlage</translation>
+        <translation type="unfinished">Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -2612,7 +2612,7 @@ On</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>Neu aus Standard-Vorlage</translation>
+        <translation type="unfinished">Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -4231,7 +4231,7 @@ On/Off</source>
     <name>ongmani.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4639,7 +4639,7 @@ On/Off</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Close
@@ -5987,47 +5987,47 @@ On</source>
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktionsschaltflächen</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktionseinstellungen</translation>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office aktivieren</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt hinzufügen</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text hinzufügen</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichten</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Schrift ausrichten</translation>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Folien</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Animationen</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil</translation>
     </message>
     <message>
         <source>Arrow Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil-Optionen</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
@@ -6035,91 +6035,91 @@ On</source>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto Punkt</translation>
     </message>
     <message>
         <source>Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto Version</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source>Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundmusik</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup-Management</translation>
     </message>
     <message>
         <source>Ballpoint Pen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kugelschreiber</translation>
     </message>
     <message>
         <source>Black Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwarzer Bildschirm</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen und Füllungen</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished">Weiter nach vorne</translation>
+        <translation>Weiter nach vorne</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished">In den Vordergrund</translation>
+        <translation>In den Vordergrund</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzählungszeichen und Nummerierung</translation>
     </message>
     <message>
         <source>By Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Titel</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>COM Erweiterungen</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Stufenverlauf</translation>
     </message>
     <message>
         <source>Center Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Registerkarte zentrieren</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished">Zentriert</translation>
+        <translation>Zentriert</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild ändern</translation>
     </message>
     <message>
         <source>Change Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkte ändern</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version wechseln</translation>
     </message>
     <message>
         <source>Change to</source>
-        <translation type="unfinished"></translation>
+        <translation>Wechseln zu</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinesisch-Umwandlung</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -6127,119 +6127,119 @@ On</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Schließen</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Fenster schließen</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad schließen</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster schließen</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalten</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Steuerungs-Menü</translation>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="unfinished"></translation>
+        <translation>Steuerungs-Menü-Liste</translation>
     </message>
     <message>
         <source>Convert Markup to Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Markup in Objekt umwandeln</translation>
     </message>
     <message>
         <source>Convert Path to AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad in AutoForm umwandeln</translation>
     </message>
     <message>
         <source>Copy Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar kopieren</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink kopieren</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Eckpunkt</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Gekrümmter Konnektor</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Gekrümmtes Segment</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Animation</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Bildschirmpräsentationen</translation>
     </message>
     <message>
         <source>Data Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Datendiagramm</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Datentabelle</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum und Uhrzeit</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezimal-Tabulator</translation>
     </message>
     <message>
         <source>Delete Current Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar löschen</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Master löschen</translation>
     </message>
     <message>
         <source>Delete Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt löschen</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment löschen</translation>
     </message>
     <message>
         <source>Delete Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Folie löschen</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Design-Vorlagen</translation>
     </message>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramm</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -6247,7 +6247,7 @@ On</source>
     </message>
     <message>
         <source>DrawShapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formen zeichnen</translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -6255,79 +6255,79 @@ On</source>
     </message>
     <message>
         <source>Duplicate Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienmaster duplizieren</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar bearbeiten</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink bearbeiten</translation>
     </message>
     <message>
         <source>Edit Movie Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Filmobjekt bearbeiten</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar bearbeiten</translation>
     </message>
     <message>
         <source>Edit Sound Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Soundobjekt bearbeiten</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text bearbeiten</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Gewinkelter Konnektor</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="unfinished">Verschlüsseln</translation>
+        <translation>Verschlüsseln</translation>
     </message>
     <message>
         <source>End Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentation beenden</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Gleichung</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Erase All Inks on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Ink-Notizen auf der Folie löschen</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Markups löschen</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Markups auf der Folie löschen</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktbearbeitung verlassen</translation>
     </message>
     <message>
         <source>Exit Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Textbearbeitung verlassen</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehen-Modus verlassen</translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sicherungsordner anschauen</translation>
     </message>
     <message>
         <source>Explor Version</source>
@@ -6335,19 +6335,19 @@ On</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished">Als PDF exportieren</translation>
+        <translation>Als PDF exportieren</translation>
     </message>
     <message>
         <source>Export to Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepackt exportieren</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished">Feedback</translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="unfinished">Datei Objekt</translation>
+        <translation>Datei Objekt</translation>
     </message>
     <message>
         <source>File Package</source>
@@ -6355,11 +6355,11 @@ On</source>
     </message>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Folie</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Font</source>
@@ -6371,19 +6371,19 @@ On</source>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus Datei</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerie</translation>
     </message>
     <message>
         <source>Go to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Zur Folie wechseln</translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafiken</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -6395,7 +6395,7 @@ On</source>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppierung</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -6403,27 +6403,27 @@ On</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopf- und Fußzeile</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hilfe</translation>
+        <translation>Hilfe</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgeblendet</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Folie ausblenden</translation>
     </message>
     <message>
         <source>Highlighter</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorhebung</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Startseite</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -6431,23 +6431,23 @@ On</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Ink-Farbe</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Artistic Clip einfügen</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalten einfügen</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen einfügen</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -6499,19 +6499,19 @@ On</source>
     </message>
     <message>
         <source>Last Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Folie</translation>
     </message>
     <message>
         <source>Last Viewed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuletzt angesehen</translation>
     </message>
     <message>
         <source>Left Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Linke Registerkarte</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -6523,47 +6523,47 @@ On</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Mark Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mark Version</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Markup</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Master</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Masterlayout</translation>
     </message>
     <message>
         <source>Menu Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentarbearbeitungs Menü</translation>
     </message>
     <message>
         <source>Menu New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neuer Kommentar Menü</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellen zusammenführen</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Film</translation>
     </message>
     <message>
         <source>Movies and Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Filme und Sounds</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Kommentar</translation>
     </message>
     <message>
         <source>New Slide</source>
@@ -6572,75 +6572,76 @@ On</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer
+Folienmaster</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Folienmaster</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Titelmaster</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Fenster</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächste</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notizen</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicherungsordner öffnen</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner öffnen</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished">Aus Klive öffnen</translation>
+        <translation>Aus Klive öffnen</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink öffnen</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad öffnen</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Befehl</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigramm</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigramm-Layout</translation>
     </message>
     <message>
         <source>OrgChart Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigramm auswählen</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -6652,7 +6653,7 @@ Master</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite einrichten</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -6660,39 +6661,39 @@ Master</source>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Anhalten</translation>
     </message>
     <message>
         <source>Pause Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundmusik anhalten</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Abspielen</translation>
     </message>
     <message>
         <source>Play Back</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hintergrund abspielen</translation>
     </message>
     <message>
         <source>Play Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Film abspielen</translation>
     </message>
     <message>
         <source>Play Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sound abspielen</translation>
     </message>
     <message>
         <source>Pointer Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeigeroptionen</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Master erhalten</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorherige</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -6700,55 +6701,55 @@ Master</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Produktmanagement-Center</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished">Eigenschaften</translation>
+        <translation>Eigenschaften</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished">Seriennummer erwerben</translation>
+        <translation>Seriennummer erwerben</translation>
     </message>
     <message>
         <source>Reconvert</source>
-        <translation type="unfinished"></translation>
+        <translation>Rückwandeln</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechteck</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einblendezeiten testen</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink entfernen</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Master umbenennen</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished">Schrift ersetzen</translation>
+        <translation>Schrift ersetzen</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsetzen</translation>
     </message>
     <message>
         <source>Resume Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundmusik fortsetzen</translation>
     </message>
     <message>
         <source>Reverse Path Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfadrichtung umkehren</translation>
     </message>
     <message>
         <source>Right Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechte Registerkarte</translation>
     </message>
     <message>
         <source>Roman</source>
@@ -6756,47 +6757,47 @@ Master</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles Speichern</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundbild speichern</translation>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation type="unfinished">Speichern in Klive</translation>
+        <translation>Speichern in Klive</translation>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern als Bild</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern in Datei</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirm</translation>
     </message>
     <message>
         <source>Scribble</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Freihandzeichnung</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicherheit</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelle auswählen</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -6804,7 +6805,7 @@ Master</source>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished">E-Mail versenden</translation>
+        <translation>E-Mail versenden</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -6812,63 +6813,63 @@ Master</source>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoForm-Standards festlegen</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ink-Markup anzeigen / ausblenden</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr Fenster anzeigen</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienlayout</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienmaster</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienzahl</translation>
     </message>
     <message>
         <source>Slide Show List</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentationsliste</translation>
     </message>
     <message>
         <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentationseinstellungen</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>Foliensortierung</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienübergang</translation>
     </message>
     <message>
         <source>SlideShow</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation</translation>
     </message>
     <message>
         <source>Slides List</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienliste</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Weicher Punkt</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellen teilen</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
@@ -6876,27 +6877,27 @@ Master</source>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerader Konnektor</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerader Punkt</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerades Segment</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished">Online erlernen</translation>
+        <translation>Online erlernen</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenstil</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -6908,7 +6909,7 @@ Master</source>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>Typographie</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -6916,15 +6917,15 @@ Master</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished">Behoben</translation>
+        <translation>Behoben</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Online-Update</translation>
     </message>
     <message>
         <source>Use Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Lupe verwenden</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -6932,11 +6933,11 @@ Master</source>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code anzeigen</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtbar</translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -6956,23 +6957,23 @@ Master</source>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="unfinished"></translation>
+        <translation>Wasserfarbenstift</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Welle</translation>
     </message>
     <message>
         <source>White Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Weißer Bildschirm</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
@@ -6988,7 +6989,7 @@ Master</source>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished">wahr</translation>
+        <translation>wahr</translation>
     </message>
     <message>
         <source>weiboshare</source>
@@ -7188,7 +7189,7 @@ Master</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite einrichten</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -7274,7 +7275,7 @@ AddIns</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -7771,7 +7772,7 @@ AddIns</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished">Neue Präsentation</translation>
+        <translation>Neue Präsentation</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -7783,19 +7784,19 @@ AddIns</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished">Neu aus Online-Vorlagen</translation>
+        <translation>Neu aus Online-Vorlagen</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Öffnen</translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished">Aus Klive öffnen</translation>
+        <translation>Aus Klive öffnen</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation type="unfinished">Andere Formate</translation>
+        <translation>Andere Formate</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -7807,11 +7808,11 @@ AddIns</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Drucken</translation>
+        <translation>Drucken</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Druckvorschau</translation>
+        <translation>Druckvorschau</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -9425,7 +9426,7 @@ Subordinate</source>
     <name>rainbow.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -9606,7 +9607,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibsprache setzen</translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
@@ -9784,7 +9785,7 @@ Subordinate</source>
     <name>rainbow.ct_slidemaster</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -9845,7 +9846,7 @@ Slide</source>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einblendezeiten testen</translation>
     </message>
     <message>
         <source>Set Up</source>
@@ -10123,7 +10124,7 @@ Other Window</source>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>Foliensortierung</translation>
     </message>
     <message>
         <source>Switch Window</source>
@@ -11330,7 +11331,7 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
 </context>
 <context>
@@ -12678,7 +12679,7 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite einrichten</translation>
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
@@ -12848,7 +12849,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrevClose</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Close the print preview and return to the presentation editing mode.</source>
@@ -13030,7 +13031,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einblendezeiten testen</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -13212,7 +13213,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentationseinstellungen</translation>
     </message>
 </context>
 <context>
@@ -13398,7 +13399,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.SlideMasterClose</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Close Slide Master View and return to the edit the slide show.</source>
@@ -15961,7 +15962,7 @@ Folie</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished">Neu</translation>
+        <translation>Neu</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -15985,7 +15986,7 @@ Folie</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished">Neue Präsentation</translation>
+        <translation>Neue Präsentation</translation>
     </message>
     <message>
         <source>New Slide</source>
@@ -16005,19 +16006,19 @@ Folie</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished">Neu aus Standard-Vorlage</translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus weiteren Vorlagen</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished">Neu aus Online-Vorlagen</translation>
+        <translation>Neu aus Online-Vorlagen</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus anderen Vorlagen</translation>
     </message>
     <message>
         <source>Next</source>
@@ -16433,7 +16434,7 @@ Folie</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibsprache setzen</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
