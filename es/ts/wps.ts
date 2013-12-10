@@ -4,48 +4,48 @@
 <context>
     <name>BordersAndShadingWidget</name>
     <message>
-        <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <source>Sin relleno</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>White</source>
-        <translation type="unfinished"></translation>
+        <source>Blanco</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-5%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-10%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-12.5%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-15%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-20%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-25%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-30%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-35%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
-        <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <source>Gris-37.5%</source>
+        <translation type="finished"></translation>
     </message>
     <message>
         <source>Gray-40%</source>
