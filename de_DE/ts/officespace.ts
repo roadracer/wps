@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="de_DE">
 <context>
     <name>KBeforeLoginTipWidget</name>
     <message>
@@ -419,7 +419,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Please save groupfile in group.</source>
-        <translation type="unfinished">Gruppendatei bitte in Gruppe speichern</translation>
+        <translation>Gruppendatei bitte in Gruppe speichern.</translation>
     </message>
     <message>
         <source>Save As</source>

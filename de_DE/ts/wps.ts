@@ -345,7 +345,7 @@
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>Advanced Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitertes Layout</translation>
     </message>
     <message>
         <source>Picture Position</source>
@@ -401,7 +401,7 @@
     </message>
     <message>
         <source>&amp;to the right of</source>
-        <translation type="unfinished"></translation>
+        <translation>Rech&amp;ts von</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -417,11 +417,11 @@
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Oben</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Unten</translation>
     </message>
     <message>
         <source>Inside</source>
@@ -437,7 +437,7 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Absatz</translation>
     </message>
     <message>
         <source>Line</source>
@@ -465,15 +465,15 @@
     </message>
     <message>
         <source>&amp;Lock anchor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anker sperren</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textumbruch</translation>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbruchart</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
@@ -481,55 +481,55 @@
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Dich&amp;t</translation>
     </message>
     <message>
         <source>T&amp;hrough</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Durc&amp;h</translation>
     </message>
     <message>
         <source>T&amp;op and bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oben und Unten</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hinterm Text</translation>
     </message>
     <message>
         <source>In &amp;front of text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vor dem Text</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Im Textfluss</translation>
     </message>
     <message>
         <source>Wrap text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text umbrechen</translation>
     </message>
     <message>
         <source>Both &amp;sides</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beide &amp;Seiten</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nur &amp;Links</translation>
     </message>
     <message>
         <source>&amp;Right only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nur &amp;Rechts</translation>
     </message>
     <message>
         <source>L&amp;argest only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nur Größte</translation>
     </message>
     <message>
         <source>Distance from text</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand zum Text</translation>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -537,15 +537,15 @@
     </message>
     <message>
         <source>L&amp;eft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Botto&amp;m</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <source>Ri&amp;ght</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
 </context>
 <context>
@@ -8902,15 +8902,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbruchsart</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Im Textfluss</translation>
     </message>
     <message>
         <source>To&amp;p and bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oben und Unten</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
@@ -8918,19 +8918,19 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hinterm Text</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dich&amp;t</translation>
     </message>
     <message>
         <source>In &amp;front of text</source>
-        <translation type="unfinished"></translation>
+        <translation>Vor dem Text</translation>
     </message>
     <message>
         <source>Horizontal alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale Ausrichtung</translation>
     </message>
     <message>
         <source>rbHorizontalLeft</source>
@@ -8938,7 +8938,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>rbHorizontalCenter</source>
@@ -8946,7 +8946,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mittig</translation>
     </message>
     <message>
         <source>rbHorizontalRight</source>
@@ -8954,7 +8954,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts</translation>
     </message>
     <message>
         <source>rbHorizontalOther</source>
@@ -8962,11 +8962,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Andere</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erweitert...</translation>
     </message>
 </context>
 <context>

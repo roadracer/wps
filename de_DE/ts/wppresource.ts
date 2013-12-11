@@ -2715,7 +2715,7 @@ On</source>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation Hilfe</translation>
     </message>
 </context>
 <context>
@@ -3051,7 +3051,7 @@ On</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus aktueller Folie</translation>
     </message>
     <message>
         <source>From Current Slide</source>
@@ -3215,7 +3215,7 @@ Slide</source>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished">Schrift ersetzen</translation>
+        <translation>Schrift ersetzen</translation>
     </message>
     <message>
         <source>Right</source>
@@ -3251,7 +3251,7 @@ Slide</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished">Auswahlfeld</translation>
+        <translation>Auswahlfeld</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -3345,39 +3345,39 @@ Slide</source>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr Nummerierungen</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahl</translation>
     </message>
 </context>
 <context>
@@ -12934,7 +12934,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Drucken</translation>
+        <translation>Drucken</translation>
     </message>
 </context>
 <context>
@@ -17243,7 +17243,7 @@ Folie</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar ausblenden</translation>
     </message>
     <message>
         <source>Home</source>
@@ -17295,7 +17295,7 @@ Folie</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Druckvorschau</translation>
+        <translation>Druckvorschau</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -17315,15 +17315,15 @@ Folie</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar einblenden</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar anzeigen / ausblenden</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienmaster</translation>
     </message>
     <message>
         <source>Slide Show</source>
@@ -17343,7 +17343,7 @@ Folie</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellen-Extras</translation>
     </message>
     <message>
         <source>View</source>
@@ -17371,7 +17371,7 @@ Folie</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Work space</source>
@@ -17383,7 +17383,7 @@ Folie</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>testRbTabWidget</translation>
     </message>
 </context>
 <context>
@@ -17754,7 +17754,7 @@ Folie</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar ausblenden</translation>
     </message>
     <message>
         <source>Home</source>
@@ -17926,7 +17926,7 @@ Folie</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Öffnen</translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Options</source>
@@ -18006,7 +18006,7 @@ Folie</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Druckvorschau</translation>
+        <translation>Druckvorschau</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
@@ -18162,7 +18162,7 @@ Folie</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar einblenden</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
@@ -18413,7 +18413,7 @@ Transition</source>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished">wahr</translation>
+        <translation>wahr</translation>
     </message>
 </context>
 <context>
