@@ -573,7 +573,7 @@ Proszę sprawdź ustawienia systemowe i upewnij się, że katalog tymczasowy akt
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Edytuj Hiperłącze</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -1093,15 +1093,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>8-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwiazda 5-cio Ramienna {8-?}</translation>
     </message>
     <message>
         <source>16-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwiazda 5-cio Ramienna {16-?}</translation>
     </message>
     <message>
         <source>32-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwiazda 5-cio Ramienna {32-?}</translation>
     </message>
     <message>
         <source>Rectangular Callout</source>
@@ -1229,7 +1229,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>24-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwiazda 5-cio Ramienna {24-?}</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
@@ -1601,7 +1601,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>4-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gwiazda 5-cio Ramienna {4-?}</translation>
     </message>
     <message>
         <source>Double Wave</source>
@@ -1737,7 +1737,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">folder</translation>
     </message>
     <message>
         <source>File Cab</source>
@@ -2065,7 +2065,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Obrazek</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -2455,7 +2455,7 @@ File: %s
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd</translation>
     </message>
     <message>
         <source>Network transfer failed! Error code: %d</source>
@@ -4244,11 +4244,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
     </message>
     <message>
         <source>Unknown picture file extension (.%s)</source>

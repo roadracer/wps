@@ -287,7 +287,7 @@
     <name>ColumnsManagerCtrl</name>
     <message>
         <source>%1:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1:</translation>
     </message>
     <message>
         <source>pt, 2, %1,</source>
@@ -388,7 +388,7 @@
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strona</translation>
     </message>
     <message>
         <source>Column</source>
@@ -709,7 +709,7 @@
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
 </context>
 <context>
@@ -1605,7 +1605,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaznaczony tekst</translation>
     </message>
 </context>
 <context>
@@ -1753,7 +1753,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Usuń</translation>
     </message>
     <message>
         <source>Cu&amp;stom Dictionaries...</source>
@@ -1851,11 +1851,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Czcionka:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rozmiar:</translation>
     </message>
     <message>
         <source>4</source>
@@ -2256,7 +2256,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
 </context>
 <context>
@@ -2523,7 +2523,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Czcionka:</translation>
     </message>
     <message>
         <source>&amp;Lines to drop:</source>
@@ -2562,7 +2562,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dodaj</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -2570,7 +2570,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Usuń</translation>
     </message>
     <message>
         <source>Run macro on</source>
@@ -2633,15 +2633,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dodaj</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Usuń</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
 </context>
 <context>
@@ -3200,7 +3200,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cały dokument</translation>
     </message>
     <message>
         <source>A&amp;pply changes to:</source>
@@ -3335,7 +3335,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strona</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
@@ -3542,7 +3542,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -4795,7 +4795,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatyczny</translation>
     </message>
     <message>
         <source>Preserve</source>
@@ -5238,7 +5238,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Mniej</translation>
     </message>
     <message>
         <source>Page numbering</source>
@@ -5437,7 +5437,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekcja</translation>
     </message>
     <message>
         <source>Section sta&amp;rt:</source>
@@ -5589,7 +5589,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolumny</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -5932,7 +5932,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatyczny</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
@@ -5975,7 +5975,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Czcionka:</translation>
     </message>
     <message>
         <source>&amp;Offset:</source>
@@ -5987,7 +5987,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rozmiar:</translation>
     </message>
     <message>
         <source>Preview </source>
@@ -6177,7 +6177,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Hasło:</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
@@ -6242,7 +6242,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
 </context>
 <context>
@@ -6336,7 +6336,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strona</translation>
     </message>
     <message>
         <source>Column</source>
@@ -6771,7 +6771,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Hasło:</translation>
     </message>
 </context>
 <context>
@@ -6902,7 +6902,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa zakładki jest nieprawidłowa.</translation>
     </message>
     <message>
         <source>The %1 DropDown Item is not allowed to be empty.</source>
@@ -6994,7 +6994,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7049,7 +7049,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strona</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
@@ -7212,7 +7212,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Nex&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Następny</translation>
     </message>
     <message>
         <source>Go &amp;To</source>
@@ -7268,11 +7268,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Więcej</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Mniej</translation>
     </message>
     <message>
         <source>Text Boxes in Main Document</source>
@@ -7471,7 +7471,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaznaczony tekst</translation>
     </message>
     <message>
         <source>In this section</source>
@@ -7483,11 +7483,11 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cały dokument</translation>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -7548,7 +7548,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tytuł</translation>
     </message>
     <message>
         <source>BookMark</source>
@@ -7713,7 +7713,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
 </context>
 <context>
@@ -8288,7 +8288,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatyczny</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -8347,15 +8347,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Mniej</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Więcej</translation>
     </message>
     <message>
         <source>Level %1</source>
@@ -8378,11 +8378,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Więcej</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Mniej</translation>
     </message>
     <message>
         <source>Read Number Format Error!</source>
@@ -8390,7 +8390,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
     <message>
         <source>?</source>
@@ -8461,7 +8461,7 @@ Cancel:	Return to the dialog.</source>
     <name>KxPageSetupDlg</name>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cały dokument</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -8469,7 +8469,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaznaczony tekst</translation>
     </message>
     <message>
         <source>This section</source>
@@ -8477,7 +8477,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaznaczone sekcje</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -8560,11 +8560,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -8736,7 +8736,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTextDirectionDlg</name>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cały dokument</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -8744,7 +8744,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaznaczony tekst</translation>
     </message>
     <message>
         <source>This section</source>
@@ -8752,7 +8752,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaznaczone sekcje</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -8819,7 +8819,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa zakładki jest nieprawidłowa.</translation>
     </message>
 </context>
 <context>
@@ -8997,14 +8997,14 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatyczny</translation>
     </message>
 </context>
 <context>
@@ -9127,7 +9127,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsBrowserModel</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -9425,7 +9425,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cały dokument</translation>
     </message>
     <message>
         <source>This section</source>
@@ -9607,7 +9607,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Numer storny</translation>
     </message>
     <message>
         <source>&amp;Header</source>
@@ -9699,7 +9699,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatyczny</translation>
     </message>
 </context>
 <context>
@@ -10152,7 +10152,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatyczny</translation>
     </message>
 </context>
 <context>
@@ -10200,7 +10200,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatyczny</translation>
     </message>
 </context>
 <context>
@@ -10296,7 +10296,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>StyleFormatPanel</name>
     <message>
         <source>modify(M)...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mdyfikuj(M)...</translation>
     </message>
     <message>
         <source>delete(D)...</source>

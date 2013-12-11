@@ -3620,11 +3620,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Complex Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复杂文种</translation>
     </message>
     <message>
         <source>Font Sty&amp;le:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字形(&amp;L):</translation>
     </message>
 </context>
 <context>

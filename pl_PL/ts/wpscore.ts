@@ -815,11 +815,11 @@ Czy chcesz zamienić?</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przypis Górny</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przypis Dolny</translation>
     </message>
     <message>
         <source>Superscript / Subscript</source>
@@ -1387,7 +1387,7 @@ Czy chcesz zamienić?</translation>
     </message>
     <message>
         <source>15%:9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">15%:9</translation>
     </message>
     <message>
         <source>Chinese(Hong Kong S.A.R);Chinese(Macao S.A.R);Chinese(Simplified);Chinese(Singapore);Chinese(Traditional);English(Australia);English(Belize);English(Canada);English(Caribbean);English(Ireland);English(Jamaica);English(New Zealand);English(Philippines);English(South Africa);English(Special Trinidad and Tobago);English(UK);English(United States);English(Zimbabwe);English(Indonesia);French(Belgium);French(Cameroon);French(Canada);French(Ivory Coast);French(France);French(Luxembourg);French(Mali);French(Monaco);French(Reunion Island);French(Senegal);French(Morocco);French(Haiti);French(Switzerland);French(West Indies);French(Democratic Republic);German(Austria);German(Germany);German(Liechtenstein);German(Luxembourg);German(Switzerland);Japanese;Portuguese(Brazil);Portuguese(Portugal);Russian(Moldova);Russian;Belarusian Language;Vietnamese;Korean;Thai;Italian(Italy);Italian(Switzerland);Greece:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</source>
@@ -2182,7 +2182,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Writer zakończył przeszukiwanie dokumentu.</translation>
     </message>
     <message>
         <source>First Name</source>
@@ -2410,7 +2410,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normalny</translation>
     </message>
     <message>
         <source>No Scaling</source>
@@ -3201,31 +3201,6 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
-
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading1...........................1
-  Heading2.........................3
-    Heading3.......................5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Numbered item</source>
         <comment>TxCrossRefType</comment>
         <translation type="unfinished"></translation>
@@ -3238,7 +3213,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Bookmark</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zakładka</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -3264,6 +3239,31 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <source>Table</source>
         <comment>TxCrossRefType</comment>
         <translation type="unfinished">Tabela</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for page setup?
+This change will affect all new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all the new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
+
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................3
+    Heading3.......................5</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(none)
@@ -3787,7 +3787,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Właściwości Tabeli</translation>
     </message>
     <message>
         <source>Split Cells</source>

@@ -8344,7 +8344,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Password Bestätigung stimmt nicht überein.</translation>
     </message>
 </context>
 <context>
@@ -8611,7 +8611,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Password Bestätigung stimmt nicht überein.</translation>
     </message>
 </context>
 <context>

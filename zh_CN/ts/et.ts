@@ -9612,11 +9612,11 @@ t</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">常规</translation>
     </message>
     <message>
         <source>Permission &amp;print:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打印权限(&amp;P):</translation>
     </message>
 </context>
 <context>
