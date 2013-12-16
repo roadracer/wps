@@ -1,0 +1,30 @@
+#all path is relative to Coding
+
+# shell2 projects
+[qt] kcomctl:           shell2/kcomctl
+[qt] kxshare:           shell2/kxshare
+[qt] kole:              shell2/kole
+[qt] wps:               shell2/wps
+[qt] wpp:               shell2/wpp
+[qt] et:                shell2/et
+
+# shell2 kui files
+[kui] wpsresource:      wps
+[kui] wppresource:      wpp
+[kui] etresource:       et
+
+# shell2 plugin projects
+[qt] wpstablestyle:     shell2/plugins/wpstablestyle
+[qt] ettablestyle:      shell2/plugins/ettablestyle
+[qt] khomepage:         shell2/plugins/khomepage
+[qt] ktreasurebox:      shell2/plugins/ktreasurebox
+[qt] wpp2doc:           shell2/plugins/wpp2doc
+[qt] wpponlinetemplate: shell2/plugins/wpponlinetemplate
+[qt] officespace:       shell2/plugins/officespace
+[qt] wpsgallery:        shell2/plugins/PersonlGallery/WPSGallery
+
+# core projects
+[core] kso:             include/kso/l10n/kso
+[core] wpscore:         include/kso/l10n/wps
+[core] wppcore:         include/kso/l10n/wpp
+[core] etcore:          include/kso/l10n/et

@@ -1,0 +1,8 @@
+*~
+*.bak
+*.qm
+*.rcc
+*.swp
+*.zip
+packages
+/.project
