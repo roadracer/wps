@@ -2228,12 +2228,32 @@ Merged Data</source>
 <context>
     <name>ongmani.ct_design</name>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished">所有框线</translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <translation type="unfinished">边框</translation>
+    </message>
+    <message>
         <source>Border Color</source>
         <translation>边框颜色</translation>
     </message>
     <message>
+        <source>Border and shading</source>
+        <translation type="unfinished">边框和底纹</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished">下框线</translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
         <translation>清除表格样式</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished">内部框线</translation>
     </message>
     <message>
         <source>Draw
@@ -2262,6 +2282,14 @@ Diagonal Line in Cell</source>
         <translation>擦除</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished">内部横框线</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished">左框线</translation>
+    </message>
+    <message>
         <source>Line Style</source>
         <translation>线型</translation>
     </message>
@@ -2278,12 +2306,28 @@ Diagonal Line in Cell</source>
         <translation>其他线条颜色</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished">无框线</translation>
+    </message>
+    <message>
         <source>Outside Border</source>
-        <translation>外侧框线</translation>
+        <translation type="obsolete">外侧框线</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished">外侧框线</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished">右框线</translation>
+    </message>
+    <message>
+        <source>Shading</source>
+        <translation type="unfinished">底纹</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>底纹颜色</translation>
+        <translation type="obsolete">底纹颜色</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2295,7 +2339,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表格样式</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished">上框线</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished">内部竖框线</translation>
     </message>
 </context>
 <context>
@@ -2935,7 +2987,15 @@ On</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换版本</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished">轻地址</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -3295,12 +3355,24 @@ Header and Footer</source>
         <translation>右对齐</translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished">所有框线</translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>中文版式</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished">边框和底纹</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished">下框线</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3345,6 +3417,10 @@ Header and Footer</source>
     <message>
         <source>Copy</source>
         <translation>复制</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished">内部框线</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3440,6 +3516,10 @@ Painter</source>
         <translation>选择窗格</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished">内部横框线</translation>
+    </message>
+    <message>
         <source>Increase Indent</source>
         <translation>增加缩进量</translation>
     </message>
@@ -3450,6 +3530,10 @@ Painter</source>
     <message>
         <source>Justify</source>
         <translation>两端对齐</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished">左框线</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3484,8 +3568,16 @@ Painter</source>
         <translation>新样式</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished">无框线</translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>外侧框线</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished">外侧框线</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3514,6 +3606,10 @@ Painter</source>
     <message>
         <source>Replace</source>
         <translation>替换</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished">右框线</translation>
     </message>
     <message>
         <source>Select</source>
@@ -3580,6 +3676,10 @@ Painter</source>
         <translation>制表符</translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished">上框线</translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>双行合一</translation>
     </message>
@@ -3590,6 +3690,10 @@ Painter</source>
     <message>
         <source>Underline Color</source>
         <translation>下划线颜色</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished">内部竖框线</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -3682,6 +3786,10 @@ Painter</source>
         <translation>书签</translation>
     </message>
     <message>
+        <source>Breaks</source>
+        <translation type="unfinished">分隔符</translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>图表</translation>
     </message>
@@ -3692,6 +3800,22 @@ Painter</source>
     <message>
         <source>Clip Art</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished">分栏符</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished">批注</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished">批注</translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation type="unfinished">连续分节符</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -3728,6 +3852,10 @@ Painter</source>
     <message>
         <source>Equation</source>
         <translation>公式</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation type="unfinished">偶数页分节符</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3810,12 +3938,20 @@ Painter</source>
         <translation>多行文字</translation>
     </message>
     <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished">下一页分节符</translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>数字</translation>
     </message>
     <message>
         <source>Object</source>
         <translation>对象</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation type="unfinished">奇数页分节符</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -3850,11 +3986,6 @@ Painter</source>
         <translation>形状</translation>
     </message>
     <message>
-        <source>Sym
-bol</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Symbol</source>
         <translation>符号</translation>
     </message>
@@ -3881,6 +4012,10 @@ bol</source>
     <message>
         <source>Text Form Field</source>
         <translation>文字型窗体域</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation type="unfinished">换行符</translation>
     </message>
     <message>
         <source>Text from File</source>
@@ -7313,6 +7448,10 @@ On</source>
         <translation>文件保险箱</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>WPS通行证</translation>
     </message>
@@ -7533,7 +7672,7 @@ On</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -7737,7 +7876,7 @@ On</source>
     </message>
     <message>
         <source>Document Protection</source>
-        <translation>保护文档</translation>
+        <translation type="obsolete">保护文档</translation>
     </message>
     <message>
         <source>Draw
@@ -8026,6 +8165,18 @@ Diagonal Line in Cell</source>
         <translation>隐藏</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
+    </message>
+    <message>
         <source>Kingsoft BBS</source>
         <translation>WPS 论坛</translation>
     </message>
@@ -8308,6 +8459,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Restart Numbering</source>
         <translation>重新开始编号</translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished">限制编辑</translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -8644,12 +8799,28 @@ Diagonal Line in Cell</source>
 <context>
     <name>rainbow.ct_design</name>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished">所有框线</translation>
+    </message>
+    <message>
         <source>Border Color</source>
         <translation>边框颜色</translation>
     </message>
     <message>
+        <source>Border and shading</source>
+        <translation type="unfinished">边框和底纹</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished">下框线</translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
         <translation>清除表格样式</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished">内部框线</translation>
     </message>
     <message>
         <source>Draw
@@ -8670,6 +8841,14 @@ Diagonal Line in Cell</source>
         <translation>擦除</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished">内部横框线</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished">左框线</translation>
+    </message>
+    <message>
         <source>Line Style</source>
         <translation>线型</translation>
     </message>
@@ -8686,8 +8865,20 @@ Diagonal Line in Cell</source>
         <translation>其他线条颜色</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished">无框线</translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>外侧框线</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished">外侧框线</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished">右框线</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -8700,6 +8891,14 @@ Diagonal Line in Cell</source>
     <message>
         <source>Table Styles</source>
         <translation>表格样式</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished">上框线</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished">内部竖框线</translation>
     </message>
 </context>
 <context>
@@ -9264,6 +9463,14 @@ Diagonal Line in Cell</source>
         <translation>切换版本</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>文档保护及属性</translation>
     </message>
@@ -9605,12 +9812,24 @@ Header and Footer</source>
         <translation>右对齐</translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished">所有框线</translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>中文版式</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished">边框和底纹</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished">下框线</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -9655,6 +9874,10 @@ Header and Footer</source>
     <message>
         <source>Copy</source>
         <translation>复制</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished">内部框线</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -9737,6 +9960,10 @@ Header and Footer</source>
         <translation>突出显示</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished">内部横框线</translation>
+    </message>
+    <message>
         <source>Increase Indent</source>
         <translation>增加缩进量</translation>
     </message>
@@ -9747,6 +9974,10 @@ Header and Footer</source>
     <message>
         <source>Justify</source>
         <translation>两端对齐</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished">左框线</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9781,8 +10012,16 @@ Header and Footer</source>
         <translation>新样式</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished">无框线</translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>外侧框线</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished">外侧框线</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9811,6 +10050,10 @@ Header and Footer</source>
     <message>
         <source>Replace</source>
         <translation type="obsolete">替换</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished">右框线</translation>
     </message>
     <message>
         <source>Select</source>
@@ -9877,6 +10120,10 @@ Header and Footer</source>
         <translation>文本颜色</translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished">上框线</translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>双行合一</translation>
     </message>
@@ -9887,6 +10134,10 @@ Header and Footer</source>
     <message>
         <source>Underline Color</source>
         <translation>下划线颜色</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished">内部竖框线</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -9979,6 +10230,10 @@ Header and Footer</source>
         <translation>书签</translation>
     </message>
     <message>
+        <source>Breaks</source>
+        <translation type="unfinished">分隔符</translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>图表</translation>
     </message>
@@ -9989,6 +10244,22 @@ Header and Footer</source>
     <message>
         <source>Clip Art</source>
         <translation>剪贴画</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished">分栏符</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished">批注</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished">批注</translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation type="unfinished">连续分节符</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -10025,6 +10296,10 @@ Header and Footer</source>
     <message>
         <source>Equation</source>
         <translation>公式</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation type="unfinished">偶数页分节符</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -10119,12 +10394,20 @@ Header and Footer</source>
         <translation>多行文字</translation>
     </message>
     <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished">下一页分节符</translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>数字</translation>
     </message>
     <message>
         <source>Object</source>
         <translation>对象</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation type="unfinished">奇数页分节符</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -10185,6 +10468,10 @@ Header and Footer</source>
     <message>
         <source>Text Form Field</source>
         <translation>文字型窗体域</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation type="unfinished">换行符</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -13388,6 +13675,10 @@ Other Window</source>
         <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>WPS通行证</translation>
     </message>
@@ -15665,6 +15956,17 @@ Click the arrow to insert file content into the document.</source>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished">扫一下二维码分享到手机；贴到微信或米聊大家编辑。</translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished">10秒钟！把文档：</translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>User Name or Password does not match</source>
@@ -16608,11 +16910,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
-        <translation>保护文档</translation>
+        <translation type="obsolete">保护文档</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
-        <translation>可以通过密码对文档进行保护不被更改或在更改时保留修改痕迹。</translation>
+        <translation type="obsolete">可以通过密码对文档进行保护不被更改或在更改时保留修改痕迹。</translation>
     </message>
 </context>
 <context>
@@ -16845,6 +17147,19 @@ Click the arrow to select different background colors.</source>
     <message>
         <source>Restart Page Numbering</source>
         <translation>重新开始编号</translation>
+    </message>
+</context>
+<context>
+    <name>tips.RestrictEditing</name>
+    <message>
+        <source>RestrictEditing Content</source>
+        <translation type="unfinished">限制人员对文档的特定部分编辑或设置格式的方式。
+
+您可以防止格式更改、强制跟踪所有更改或仅启用备注。</translation>
+    </message>
+    <message>
+        <source>RestrictEditing Title</source>
+        <translation type="unfinished">限制编辑</translation>
     </message>
 </context>
 <context>
@@ -18090,7 +18405,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Cloud Feedback</source>
@@ -18107,6 +18422,18 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Export as Images</source>
         <translation>输出为图片</translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>Login</source>
@@ -18354,6 +18681,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>剪贴板窗格</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished">文档分享</translation>
+    </message>
+    <message>
         <source>Collapse</source>
         <translation>折叠 </translation>
     </message>
@@ -18551,7 +18882,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>@我的消息</translation>
+        <translation type="obsolete">@我的消息</translation>
     </message>
     <message>
         <source>New</source>
@@ -18654,12 +18985,24 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>替换</translation>
     </message>
     <message>
+        <source>Restrict</source>
+        <translation type="unfinished">限制</translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished">限制编辑</translation>
+    </message>
+    <message>
         <source>Rotate Mode</source>
         <translation>旋转方式</translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished">分享</translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>@我的消息</translation>
+        <translation type="obsolete">@我的消息</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -18876,7 +19219,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -18925,6 +19268,14 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Insert</source>
         <translation>插入</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>Login</source>
@@ -19116,7 +19467,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -19161,6 +19512,14 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Insert</source>
         <translation>插入</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>Login</source>

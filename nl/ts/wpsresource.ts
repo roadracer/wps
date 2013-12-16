@@ -2152,12 +2152,32 @@ Samengevoegde Data</translation>
 <context>
     <name>ongmani.ct_design</name>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Border Color</source>
         <translation>Randkleur</translation>
     </message>
     <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
         <translation>Verwijder Tabelstijl</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw
@@ -2186,6 +2206,14 @@ Diagonale Lijn in Cel</translation>
         <translation>Gom</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Style</source>
         <translation>Lijn Stijl</translation>
     </message>
@@ -2202,12 +2230,28 @@ Diagonale Lijn in Cel</translation>
         <translation>Meer Lijnkleuren</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
-        <translation>Buitenste Rand</translation>
+        <translation type="obsolete">Buitenste Rand</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>Schaduwkleur</translation>
+        <translation type="obsolete">Schaduwkleur</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2219,6 +2263,14 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>TableStyle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2857,6 +2909,14 @@ Aan</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Document Beveiliging en Eigenschappen</translation>
     </message>
@@ -3190,12 +3250,24 @@ Aan</translation>
         <translation>Rechts Uitlijnen</translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>Aziatische Layout</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>Vet</translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3240,6 +3312,10 @@ Aan</translation>
     <message>
         <source>Copy</source>
         <translation>Kopiëren</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3335,6 +3411,10 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Indent</source>
         <translation>Vergroot Inspringing</translation>
     </message>
@@ -3345,6 +3425,10 @@ Painter</source>
     <message>
         <source>Justify</source>
         <translation>Rechtvaardigen</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3379,8 +3463,16 @@ Painter</source>
         <translation>Nieuwe Stijl</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>Buitenste Rand</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3409,6 +3501,10 @@ Painter</source>
     <message>
         <source>Replace</source>
         <translation>Vervangen</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select</source>
@@ -3475,6 +3571,10 @@ Painter</source>
         <translation>Tabbladen</translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>Twee Lijnen in Een</translation>
     </message>
@@ -3485,6 +3585,10 @@ Painter</source>
     <message>
         <source>Underline Color</source>
         <translation>Onderlijnkleur</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -3513,6 +3617,10 @@ Painter</source>
         <translation>Bladwijzers</translation>
     </message>
     <message>
+        <source>Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>Diagram</translation>
     </message>
@@ -3523,6 +3631,22 @@ Painter</source>
     <message>
         <source>Clip Art</source>
         <translation>Clip Art</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -3559,6 +3683,10 @@ Painter</source>
     <message>
         <source>Equation</source>
         <translation>Formule</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3641,12 +3769,20 @@ Painter</source>
         <translation>Tekst Op Meerdere Lijnen</translation>
     </message>
     <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Nummer</translation>
     </message>
     <message>
         <source>Object</source>
         <translation>Object</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -3712,6 +3848,10 @@ bol</source>
     <message>
         <source>Text Form Field</source>
         <translation>Tekst Formulierveld</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text from File</source>
@@ -7110,6 +7250,10 @@ Aan</translation>
         <translation>Automatische Bestandsbackup</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>KOS Mijn Account</translation>
     </message>
@@ -7330,7 +7474,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Gebruikersinformatie Wijzigen</translation>
+        <translation type="obsolete">Gebruikersinformatie Wijzigen</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -7535,7 +7679,7 @@ Aan</translation>
     </message>
     <message>
         <source>Document Protection</source>
-        <translation>Documentbeveiliging</translation>
+        <translation type="obsolete">Documentbeveiliging</translation>
     </message>
     <message>
         <source>Draw
@@ -7820,6 +7964,18 @@ Diagonale Lijn in Cel</translation>
         <translation>Onzichtbaar</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft BBS</source>
         <translation>Kingsoft BBS</translation>
     </message>
@@ -8094,6 +8250,10 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Restart Numbering</source>
         <translation>Herstart Nummering</translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -8414,12 +8574,28 @@ Diagonale Lijn in Cel</translation>
 <context>
     <name>rainbow.ct_design</name>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Border Color</source>
         <translation>Randkleur</translation>
     </message>
     <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
         <translation>Verwijder Tabelstijl</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw
@@ -8440,6 +8616,14 @@ Diagonale Lijn in Cel</translation>
         <translation>Gom</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Style</source>
         <translation>Lijnstijl</translation>
     </message>
@@ -8456,8 +8640,20 @@ Diagonale Lijn in Cel</translation>
         <translation>Meer Lijnkleuren</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>Buitenste Rand</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -8470,6 +8666,14 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Table Styles</source>
         <translation>Tabel Stijlen</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9033,6 +9237,14 @@ Diagonale Lijn in Cel</translation>
         <translation>Wijzig Versie</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Document Beveiliging en Eigenschappen</translation>
     </message>
@@ -9369,12 +9581,24 @@ Header and Footer</source>
         <translation>Rechts Uitlijnen</translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>Aziatische Layout</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>Vet</translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -9419,6 +9643,10 @@ Header and Footer</source>
     <message>
         <source>Copy</source>
         <translation>Kopiëren</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -9497,6 +9725,10 @@ Header and Footer</source>
         <translation>Markeer</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Indent</source>
         <translation>Vergroot Inspringing</translation>
     </message>
@@ -9507,6 +9739,10 @@ Header and Footer</source>
     <message>
         <source>Justify</source>
         <translation>Rechtvaardigen</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9541,8 +9777,16 @@ Header and Footer</source>
         <translation>Nieuwe Stijl</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>Buitenste Rand</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9567,6 +9811,10 @@ Header and Footer</source>
     <message>
         <source>Phonetic Guide...</source>
         <translation>Fonetische Gids...</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select</source>
@@ -9633,6 +9881,10 @@ Header and Footer</source>
         <translation>Tekstkleur</translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>Twee Lijnen in Een</translation>
     </message>
@@ -9643,6 +9895,10 @@ Header and Footer</source>
     <message>
         <source>Underline Color</source>
         <translation>Onderlijnkleur</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -9671,6 +9927,10 @@ Header and Footer</source>
         <translation>Bladwijzers</translation>
     </message>
     <message>
+        <source>Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>Diagram</translation>
     </message>
@@ -9681,6 +9941,22 @@ Header and Footer</source>
     <message>
         <source>Clip Art</source>
         <translation>Clip Art</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -9717,6 +9993,10 @@ Header and Footer</source>
     <message>
         <source>Equation</source>
         <translation>Formule</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9811,12 +10091,20 @@ Header and Footer</source>
         <translation>Tekst Op Meerdere Lijnen</translation>
     </message>
     <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Nummer</translation>
     </message>
     <message>
         <source>Object</source>
         <translation>Object</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -9877,6 +10165,10 @@ Header and Footer</source>
     <message>
         <source>Text Form Field</source>
         <translation>Tekst Formulierveld</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -13073,6 +13365,10 @@ Other Window</source>
         <translation>Help ons ons product te verbeteren.</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>KOS Mijn Account</translation>
     </message>
@@ -15346,6 +15642,17 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>User Name or Password does not match</source>
@@ -16289,11 +16596,11 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
-        <translation>Documentbeveiliging</translation>
+        <translation type="obsolete">Documentbeveiliging</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
-        <translation>De toegang tot het document beperken door een wachtwoord.</translation>
+        <translation type="obsolete">De toegang tot het document beperken door een wachtwoord.</translation>
     </message>
 </context>
 <context>
@@ -16526,6 +16833,17 @@ Klik op de pijl om een andere achtergrondkleur te kiezen.</translation>
     <message>
         <source>Restart Page Numbering</source>
         <translation>Herstart Paginanummering</translation>
+    </message>
+</context>
+<context>
+    <name>tips.RestrictEditing</name>
+    <message>
+        <source>RestrictEditing Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RestrictEditing Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17773,7 +18091,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Gebruikersinformatie Wijzigen</translation>
+        <translation type="obsolete">Gebruikersinformatie Wijzigen</translation>
     </message>
     <message>
         <source>Cloud Feedback</source>
@@ -17790,6 +18108,18 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>Export as Images</source>
         <translation>Exporteer als Afbeeldingen</translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -18021,6 +18351,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Klembordvenster</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Collapse</source>
         <translation>Samenvouwen</translation>
     </message>
@@ -18218,7 +18552,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>MsgAtMe</translation>
+        <translation type="obsolete">MsgAtMe</translation>
     </message>
     <message>
         <source>New</source>
@@ -18317,12 +18651,24 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Vervangen</translation>
     </message>
     <message>
+        <source>Restrict</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rotate Mode</source>
         <translation>Draaimodus</translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>S MsgAtMe</translation>
+        <translation type="obsolete">S MsgAtMe</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -18523,7 +18869,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Gebruikersinformatie Wijzigen</translation>
+        <translation type="obsolete">Gebruikersinformatie Wijzigen</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -18572,6 +18918,14 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>Insert</source>
         <translation>Invoegen</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -18751,7 +19105,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Gebruikersinformatie Wijzigen</translation>
+        <translation type="obsolete">Gebruikersinformatie Wijzigen</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -18796,6 +19150,14 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>Insert</source>
         <translation>Invoegen</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>

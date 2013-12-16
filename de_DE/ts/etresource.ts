@@ -2555,6 +2555,10 @@ Center</source>
         <translation type="obsolete">Fenster schließen</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Column</source>
         <translation type="obsolete">Spalte</translation>
     </message>
@@ -3077,6 +3081,14 @@ Center</source>
     <message>
         <source>Find</source>
         <translation>Suchen</translation>
+    </message>
+    <message>
+        <source>Find All Local Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Direct Reference</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -3609,6 +3621,10 @@ und zentrieren</translation>
         <translation type="obsolete">Mehr Helligkeit</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Contrast</source>
         <translation type="obsolete">Mehr Kontrast</translation>
     </message>
@@ -3670,7 +3686,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>Nachricht an Mich</translation>
+        <translation type="obsolete">Nachricht an Mich</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4085,8 +4101,12 @@ und zentrieren</translation>
         <translation type="obsolete">Zeilen</translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>S Nachricht an Mich</translation>
+        <translation type="obsolete">S Nachricht an Mich</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -4814,7 +4834,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation>Benutzerinformation ändern</translation>
+        <translation type="obsolete">Benutzerinformation ändern</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -4871,6 +4891,14 @@ Fenster</translation>
     <message>
         <source>Insert</source>
         <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Log off</source>
@@ -5110,7 +5138,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation>Benutzerinformation ändern</translation>
+        <translation type="obsolete">Benutzerinformation ändern</translation>
     </message>
     <message>
         <source>Changes</source>
@@ -5557,6 +5585,14 @@ Formatierung</translation>
     <message>
         <source>Insert WordArt</source>
         <translation type="obsolete">WordArt einfügen</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
@@ -7149,6 +7185,14 @@ On</source>
         <translation>Version wechseln</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Dokumenten Sicherheit und Eigenschaften</translation>
     </message>
@@ -7311,6 +7355,10 @@ On</source>
     <message>
         <source>Update Online</source>
         <translation>Online-Update</translation>
+    </message>
+    <message>
+        <source>User Feedback by mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -9189,6 +9237,10 @@ Other Window</source>
         <translation>Makros</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation>Weitere Fenster</translation>
     </message>
@@ -9973,6 +10025,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My Account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10636,6 +10692,10 @@ On</source>
         <translation>Seitenumbruch einfügen</translation>
     </message>
     <message>
+        <source>Insert Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Change Login</source>
         <translation type="unfinished">KOS Login wechseln</translation>
     </message>
@@ -10644,12 +10704,24 @@ On</source>
         <translation type="unfinished">KOS Cloud Feedback</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation type="unfinished">KOS Logout</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
         <translation type="unfinished">KOS Coud Datei öffnen</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Save File to Cloud</source>
@@ -10661,7 +10733,7 @@ On</source>
     </message>
     <message>
         <source>KOS View User Info</source>
-        <translation type="unfinished">KOS Benutzerinformation anzeigen</translation>
+        <translation type="obsolete">KOS Benutzerinformation anzeigen</translation>
     </message>
     <message>
         <source>Kingsoft Office BBS</source>
@@ -11784,6 +11856,14 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13791,6 +13871,10 @@ Other Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14540,6 +14624,10 @@ Other Windows</source>
     </message>
     <message>
         <source>KOS Cloud Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16341,6 +16429,17 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
@@ -16446,6 +16545,17 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.LoadMacro</name>
+    <message>
+        <source>LoadMacro Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LoadMacro Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18327,6 +18437,14 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18335,15 +18453,15 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

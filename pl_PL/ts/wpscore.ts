@@ -3244,7 +3244,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <source>Do you want to change the default settings for page setup?
 
 This change will affect all new documents based on the %s template.</source>
-        <translation>Czy chcesz zmienić domyślne ustawienia strony?
+        <translation type="obsolete">Czy chcesz zmienić domyślne ustawienia strony?
 
 Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawie szablonu %s.</translation>
     </message>
@@ -3252,7 +3252,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
         <source>Do you want to change the default settings for font?
 
 This change will affect all the new documents based on the %s template.</source>
-        <translation>Czy chcesz zmienić domyślne ustawienia dla czcionki?
+        <translation type="obsolete">Czy chcesz zmienić domyślne ustawienia dla czcionki?
 
 Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawie szablonu %s.</translation>
     </message>
@@ -3267,7 +3267,7 @@ Yes:	Save to template;
 No:	Do not save to template;
 
 Cancel:	Return to the dialog.</source>
-        <translation>Czy chcesz zmienić domyślne ustawienia dla stylu?
+        <translation type="obsolete">Czy chcesz zmienić domyślne ustawienia dla stylu?
 
 Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawie szablonu %s.
 
@@ -3283,13 +3283,42 @@ Anuluj:	Wróć do okna dialogowego.
         <source>Heading1...........................1
   Heading2.........................3
     Heading3.......................5</source>
-        <translation>Nagłówek1...........................1
+        <translation type="obsolete">Nagłówek1...........................1
   Nagłówek2.........................3
     Nagłówek3.......................5</translation>
     </message>
     <message>
+        <source>Do you want to change the default settings for page setup?
+This change will affect all new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all the new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
+
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................3
+    Heading3.......................5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>(none)
 .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4424,6 +4453,26 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Format Line Number</source>
         <translation>Formatuj Numer Linii</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

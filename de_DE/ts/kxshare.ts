@@ -234,11 +234,27 @@
         <source>%1 controls</source>
         <translation>%1 Steuerelemente</translation>
     </message>
+    <message>
+        <source>ActiveX Control (*.ocx;*.dll)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not register this control.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
         <source>(damaged file : %1 )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>error file list:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -346,6 +362,10 @@
         <source>Del</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>C,X,V,Z,Y</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
@@ -388,35 +408,35 @@
     <name>KInsertSymbolDlg</name>
     <message>
         <source>&amp;Insert</source>
-        <translation>&amp;Einfügen</translation>
+        <translation type="obsolete">&amp;Einfügen</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation>&amp;Symbole</translation>
+        <translation type="obsolete">&amp;Symbole</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation type="obsolete">Abbrechen</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation type="obsolete">Schließen</translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
-        <translation>Benutzer&amp;definierte Symbole</translation>
+        <translation type="obsolete">Benutzer&amp;definierte Symbole</translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
-        <translation type="unfinished">In Benutzerdefinierte S&amp;ymbole einfügen</translation>
+        <translation type="obsolete">In Benutzerdefinierte S&amp;ymbole einfügen</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation>S&amp;onderzeichen</translation>
+        <translation type="obsolete">S&amp;onderzeichen</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>Symbol</translation>
+        <translation type="obsolete">Symbol</translation>
     </message>
 </context>
 <context>
@@ -657,65 +677,65 @@
     <name>KSpecialCharTabWidget</name>
     <message>
         <source>&amp;Characters:</source>
-        <translation>&amp;Zeichen:</translation>
+        <translation type="obsolete">&amp;Zeichen:</translation>
     </message>
 </context>
 <context>
     <name>KSymbolBarTabWidget</name>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Entfernen</translation>
+        <translation type="obsolete">&amp;Entfernen</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation>Möchten Sie die Symbol-Menüleiste wirklich zurücksetzen?</translation>
+        <translation type="obsolete">Möchten Sie die Symbol-Menüleiste wirklich zurücksetzen?</translation>
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
-        <translation>Benutzerd&amp;efinierte Symbole:</translation>
+        <translation type="obsolete">Benutzerd&amp;efinierte Symbole:</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation>Verschieben nach &amp;unten</translation>
+        <translation type="obsolete">Verschieben nach &amp;unten</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation>Verschieben nach &amp;oben</translation>
+        <translation type="obsolete">Verschieben nach &amp;oben</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Keine</translation>
+        <translation type="obsolete">Keine</translation>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
-        <translation>Symbol-Menüleiste z&amp;urücksetzen</translation>
+        <translation type="obsolete">Symbol-Menüleiste z&amp;urücksetzen</translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation>Tasten&amp;kombinationen:</translation>
+        <translation type="obsolete">Tasten&amp;kombinationen:</translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation>Tastenkombinationen:</translation>
+        <translation type="obsolete">Tastenkombinationen:</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
-        <translation>T&amp;astenkombinationen festlegen</translation>
+        <translation type="obsolete">T&amp;astenkombinationen festlegen</translation>
     </message>
 </context>
 <context>
     <name>KSymbolTabWidget</name>
     <message>
         <source>&amp;Character code:</source>
-        <translation>&amp;Zeichencode:</translation>
+        <translation type="obsolete">&amp;Zeichencode:</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>&amp;Schriftart:</translation>
+        <translation type="obsolete">&amp;Schriftart:</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation>&amp;Aktuell benutzte Symbole:</translation>
+        <translation type="obsolete">&amp;Aktuell benutzte Symbole:</translation>
     </message>
     <message>
         <source>(normal text)</source>
@@ -723,19 +743,11 @@
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation>T&amp;eilmenge:</translation>
+        <translation type="obsolete">T&amp;eilmenge:</translation>
     </message>
     <message>
         <source>fro&amp;m:</source>
         <translation type="obsolete">vo&amp;n:</translation>
-    </message>
-    <message>
-        <source>(Normal Text)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fro&amp;m:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1328,6 +1340,13 @@
     <message>
         <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxControlsListCommand</name>
+    <message>
+        <source>Register Custom Control...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3267,6 +3286,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Update to Personal</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You also can download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Free.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
@@ -4897,7 +4928,7 @@ immer diese Aktion durchführen</translation>
     <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
 (The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="unfinished">Kingsoft Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
+        <translation type="obsolete">Kingsoft Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
 (Das System verwendet Kingsoft Office standardmäßig zum Öffnen von doc-, xls- und ppt-Dateien)</translation>
     </message>
     <message>
@@ -4993,11 +5024,6 @@ immer diese Aktion durchführen</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5023,6 +5049,16 @@ immer diese Aktion durchführen</translation>
     </message>
     <message>
         <source>The selected dict has been deleted, please select another dict.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -230,7 +230,7 @@
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation>文件正在同步...</translation>
+        <translation type="obsolete">文件正在同步...</translation>
     </message>
 </context>
 <context>

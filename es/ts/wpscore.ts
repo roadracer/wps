@@ -1134,7 +1134,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nivel</translation>
     </message>
     <message>
         <source>Numbering Style</source>
@@ -1386,7 +1386,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>15%:9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">15%:9</translation>
     </message>
     <message>
         <source>Chinese(Hong Kong S.A.R);Chinese(Macao S.A.R);Chinese(Simplified);Chinese(Singapore);Chinese(Traditional);English(Australia);English(Belize);English(Canada);English(Caribbean);English(Ireland);English(Jamaica);English(New Zealand);English(Philippines);English(South Africa);English(Special Trinidad and Tobago);English(UK);English(United States);English(Zimbabwe);English(Indonesia);French(Belgium);French(Cameroon);French(Canada);French(Ivory Coast);French(France);French(Luxembourg);French(Mali);French(Monaco);French(Reunion Island);French(Senegal);French(Morocco);French(Haiti);French(Switzerland);French(West Indies);French(Democratic Republic);German(Austria);German(Germany);German(Liechtenstein);German(Luxembourg);German(Switzerland);Japanese;Portuguese(Brazil);Portuguese(Portugal);Russian(Moldova);Russian;Belarusian Language;Vietnamese;Korean;Thai;Italian(Italy);Italian(Switzerland);Greece:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</source>
@@ -3040,7 +3040,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>2008-8-8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2008-8-8</translation>
     </message>
     <message>
         <source>20</source>
@@ -3216,7 +3216,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Footnote</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nota al pie</translation>
     </message>
     <message>
         <source>Endnote</source>
@@ -3226,7 +3226,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Equation</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecuación</translation>
     </message>
     <message>
         <source>Diagram</source>
@@ -3236,31 +3236,25 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Table</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabla</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-
-This change will affect all new documents based on the %s template.</source>
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-
-This change will affect all the new documents based on the %s template.</source>
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
 
-This change will affect all the new documents based on the %s template.
-
-
-Yes:	Save to template;
-
-No:	Do not save to template;
-
-Cancel:	Return to the dialog.</source>
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3272,6 +3266,10 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>(none)
 .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4405,6 +4403,26 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Format Line Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

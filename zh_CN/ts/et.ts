@@ -560,6 +560,78 @@ condition is true: </source>
         <source>Yesterday</source>
         <translation>昨天</translation>
     </message>
+    <message>
+        <source>Number filter</source>
+        <translation type="unfinished">数字筛选</translation>
+    </message>
+    <message>
+        <source>Date filter</source>
+        <translation type="unfinished">日期筛选</translation>
+    </message>
+    <message>
+        <source>Text filter</source>
+        <translation type="unfinished">文本筛选</translation>
+    </message>
+    <message>
+        <source>Not equal</source>
+        <translation type="unfinished">不等于</translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation type="unfinished">大于</translation>
+    </message>
+    <message>
+        <source>Greater than or equal to</source>
+        <translation type="unfinished">大于或等于</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished">小于</translation>
+    </message>
+    <message>
+        <source>Less than or equal to</source>
+        <translation type="unfinished">小于或等于</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished">介于</translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished">之前</translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished">之后</translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation type="unfinished">开头是</translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished">结尾是</translation>
+    </message>
+    <message>
+        <source>Contains</source>
+        <translation type="unfinished">包含</translation>
+    </message>
+    <message>
+        <source>Not contains</source>
+        <translation type="unfinished">不包含</translation>
+    </message>
+    <message>
+        <source>Color Sort</source>
+        <translation type="unfinished">颜色排序</translation>
+    </message>
+    <message>
+        <source>Filter by values</source>
+        <translation type="unfinished">内容筛选</translation>
+    </message>
+    <message>
+        <source>Filter by colors</source>
+        <translation type="unfinished">颜色筛选</translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -905,6 +977,10 @@ condition is true: </source>
 2.确认引用区域是单一的区域，并且至少有两行；
 3.确认引用区域是第一行且不存在空白的单元格，不包含错误值，而且每个单元格内的字符数不超过255个。</translation>
     </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
+        <translation type="unfinished">不能在新工作表上创建数据透视表，因为当前工作薄已经被保护。请您选择一个已经存在的工作表或者取消工作薄保护。</translation>
+    </message>
 </context>
 <context>
     <name>KxCustomHeaderFooterDlg</name>
@@ -1152,6 +1228,14 @@ To keep existing picture, click Cancel button.</source>
     <message>
         <source>Title</source>
         <translation>标题</translation>
+    </message>
+    <message>
+        <source>Specify who may edit the range without a password:</source>
+        <translation type="unfinished">指定不需要密码就可以编辑该区域的用户:</translation>
+    </message>
+    <message>
+        <source>&amp;Permissions...</source>
+        <translation type="unfinished">权限(&amp;P)...</translation>
     </message>
 </context>
 <context>
@@ -2567,6 +2651,10 @@ p, li { white-space: pre-wrap; }
         <source>Range &amp;password:</source>
         <translation>区域密码(&amp;P):</translation>
     </message>
+    <message>
+        <source>P&amp;ermissions...</source>
+        <translation type="unfinished">权限(&amp;E)...</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgOpenSharedWorkbook</name>
@@ -3134,10 +3222,6 @@ p, li { white-space: pre-wrap; }
         <translation>任务栏(&amp;A)</translation>
     </message>
     <message>
-        <source>Timing Backup</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Up</source>
         <translation>向上</translation>
     </message>
@@ -3204,6 +3288,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Set decimal symbol to ,</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished">启用定时备份(&amp;T)</translation>
+    </message>
+    <message>
+        <source>TimingBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished">智能备份(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -3286,7 +3386,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>宽度(&amp;W):</translation>
+        <translation type="obsolete">宽度(&amp;W):</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -3346,7 +3446,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Custom paper size</source>
-        <translation>自定义纸张大小</translation>
+        <translation type="obsolete">自定义纸张大小</translation>
     </message>
     <message>
         <source>Fi&amp;rst page number:</source>
@@ -3354,7 +3454,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation>高度(&amp;E):</translation>
+        <translation type="obsolete">高度(&amp;E):</translation>
     </message>
     <message>
         <source>He&amp;ader:</source>
@@ -3597,6 +3697,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Num&amp;ber...</source>
         <translation>数字格式(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>buttonGroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>buttonGroup_2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4139,7 +4247,7 @@ change tracking from being removed.</source>
     <message>
         <source>&amp;Allows multiple users to simultaneously edit, 
 the same time allows workbook merging</source>
-        <translation>允许多用户同时编辑，同时允许工作簿合并(&amp;A)</translation>
+        <translation type="obsolete">允许多用户同时编辑，同时允许工作簿合并(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Remove User</source>
@@ -4155,11 +4263,20 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>Using this &amp;workbook:</source>
-        <translation>正在使用本工作簿的用户(&amp;W):</translation>
+        <translation type="obsolete">正在使用本工作簿的用户(&amp;W):</translation>
     </message>
     <message>
         <source>&amp;Export xls...</source>
         <translation>导出为xls(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Allow changes by more than one user at the same time.
+This also allows workbook merging.</source>
+        <translation type="unfinished">允许多用户同时编辑，同时允许工作簿合并(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Who has this &amp;workbook open now:</source>
+        <translation type="unfinished">正在使用本工作簿的用户(&amp;W):</translation>
     </message>
 </context>
 <context>
@@ -5084,6 +5201,36 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtAfCellFormatButton</name>
+    <message>
+        <source>NONE</source>
+        <translation type="unfinished">(空)</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAutoFilterColorMenu</name>
+    <message>
+        <source>Filter by cell color:</source>
+        <translation type="unfinished">按单元格背景颜色筛选:</translation>
+    </message>
+    <message>
+        <source>No fill</source>
+        <translation type="unfinished">无填充</translation>
+    </message>
+    <message>
+        <source>Filter by font color:</source>
+        <translation type="unfinished">按文字颜色筛选:</translation>
+    </message>
+    <message>
+        <source>Auto color</source>
+        <translation type="unfinished">自动色</translation>
+    </message>
+    <message>
+        <source>Only one color</source>
+        <translation type="unfinished">本列仅包含一种颜色</translation>
+    </message>
+</context>
+<context>
     <name>KxEtAutoFilterList</name>
     <message>
         <source>(Column %1)</source>
@@ -5228,6 +5375,25 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtDlgInputBox</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">输入</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished">提示信息</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFontColorModel</name>
     <message>
         <source>Automatic</source>
@@ -5278,6 +5444,29 @@ protected.</source>
     <message>
         <source>Formula Box</source>
         <translation>编辑栏</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtInputBoxDlg</name>
+    <message>
+        <source>Number is not valid</source>
+        <translation type="unfinished">无效的数字</translation>
+    </message>
+    <message>
+        <source>Text is not valid</source>
+        <translation type="unfinished">无效的文本</translation>
+    </message>
+    <message>
+        <source>Logical Value is not valid</source>
+        <translation type="unfinished">无效的逻辑值</translation>
+    </message>
+    <message>
+        <source>Error Value is not valid</source>
+        <translation type="unfinished">无效的错误值</translation>
+    </message>
+    <message>
+        <source>Array value is not valid</source>
+        <translation type="unfinished">无效的数组值</translation>
     </message>
 </context>
 <context>
@@ -5351,6 +5540,13 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtReadingLayoutColorModel</name>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">默认</translation>
+    </message>
+</context>
+<context>
     <name>KxEtShadowColorModel</name>
     <message>
         <source>More Shadow Colors</source>
@@ -5369,11 +5565,11 @@ protected.</source>
     <name>KxEtSheetTabBar</name>
     <message>
         <source>Before Sheet</source>
-        <translation>前一工作表</translation>
+        <translation type="obsolete">前一工作表</translation>
     </message>
     <message>
         <source>Bellow Sheet</source>
-        <translation>后一工作表</translation>
+        <translation type="obsolete">后一工作表</translation>
     </message>
     <message>
         <source>More Sheets...</source>
@@ -5382,6 +5578,49 @@ protected.</source>
     <message>
         <source>New Sheet</source>
         <translation>新建工作表</translation>
+    </message>
+    <message>
+        <source>Switch Sheet</source>
+        <translation type="unfinished">切换工作表</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtSmartLabelAutoFill</name>
+    <message>
+        <source>auto fill options</source>
+        <translation type="unfinished">自动填充选项</translation>
+    </message>
+    <message>
+        <source>etFillCopy</source>
+        <translation type="unfinished">复制单元格(&amp;C)</translation>
+    </message>
+    <message>
+        <source>etFillFormats</source>
+        <translation type="unfinished">仅填充格式(&amp;F)</translation>
+    </message>
+    <message>
+        <source>etFillValues</source>
+        <translation type="unfinished">不带格式填充(&amp;O)</translation>
+    </message>
+    <message>
+        <source>etFillSeries</source>
+        <translation type="unfinished">以序列方式填充(&amp;S)</translation>
+    </message>
+    <message>
+        <source>etFillDays</source>
+        <translation type="unfinished">以天数填充(&amp;D)</translation>
+    </message>
+    <message>
+        <source>etFillWeekdays</source>
+        <translation type="unfinished">以工作日填充(&amp;W)</translation>
+    </message>
+    <message>
+        <source>etFillMonths</source>
+        <translation type="unfinished">以月填充(&amp;M)</translation>
+    </message>
+    <message>
+        <source>etFillYears</source>
+        <translation type="unfinished">以年填充(&amp;Y)</translation>
     </message>
 </context>
 <context>
@@ -5654,6 +5893,10 @@ protected.</source>
     <message>
         <source>WPS Form</source>
         <translation type="obsolete">WPS 表格</translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished">PDF转换器遇到了内存分配问题，请缩小文档大小或者图片大小！</translation>
     </message>
 </context>
 <context>
@@ -6135,6 +6378,10 @@ on iteration #%2.</source>
         <source>The search information is required!</source>
         <translation>查找信息不能为空！</translation>
     </message>
+    <message>
+        <source>Enter a name or description of the function you want to look for.</source>
+        <translation type="unfinished">请输入您要查找的函数名称或函数功能的简要描述...</translation>
+    </message>
 </context>
 <context>
     <name>KxInsertWorkSheetDlg</name>
@@ -6520,7 +6767,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>自定义大小</translation>
+        <translation type="obsolete">自定义大小</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -6683,16 +6930,26 @@ file, then %2switch%3the file to ET shared workbook.</source>
     <message>
         <source>&amp;Retrieve external data for all page field items (faster perform&apos; +
             &apos;ance)</source>
-        <translation>同时检索所有页字段涉及的外部数据(减少透视次数)(&amp;R)</translation>
+        <translation type="obsolete">同时检索所有页字段涉及的外部数据(减少透视次数)(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Query external data source as you select each page field item (&apos; +
             &apos;requires less memory)</source>
-        <translation>当选择页字段项时，检索外部数据源(节省内存)(&amp;Q)</translation>
+        <translation type="obsolete">当选择页字段项时，检索外部数据源(节省内存)(&amp;Q)</translation>
     </message>
     <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
         <translation>禁用对该字段进行透视(建议)(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve external data for all page field items
+ (faster perform&apos; +&apos;ance)</source>
+        <translation type="unfinished">同时检索所有页字段涉及的外部数据(减少透视次数)(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Query external data source as you select each
+ page field item (&apos;+&apos;requires less memory)</source>
+        <translation type="unfinished">当选择页字段项时，检索外部数据源(节省内存)(&amp;Q)</translation>
     </message>
 </context>
 <context>
@@ -7455,11 +7712,15 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>Text Import Wizard - Step %d of 3</source>
-        <translation>文本导入向导 - 3 步骤之 %1</translation>
+        <translation type="obsolete">文本导入向导 - 3 步骤之 %1</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation type="obsolete">输入的值应该介于 %1 和 %2 之间。</translation>
+    </message>
+    <message>
+        <source>Text Import Wizard - Step %1 of 3</source>
+        <translation type="unfinished">文本导入向导 - 3 步骤之 %1</translation>
     </message>
 </context>
 <context>
@@ -8930,6 +9191,15 @@ t</source>
     <message>
         <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
         <translation>达到可行解的最大数目时停止选择。</translation>
+    </message>
+    <message>
+        <source>The workbook is protected,
+and cannot generate reports.</source>
+        <translation type="unfinished">工作簿被保护，无法生成报告。</translation>
+    </message>
+    <message>
+        <source>Switch Sheet</source>
+        <translation type="unfinished">切换工作表</translation>
     </message>
 </context>
 <context>
