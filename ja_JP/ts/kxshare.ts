@@ -253,12 +253,28 @@ Try to switch user interface!</source>
         <source>%1 controls</source>
         <translation>%1 個のコントロール</translation>
     </message>
+    <message>
+        <source>ActiveX Control (*.ocx;*.dll)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not register this control.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
         <source>(damaged file : %1 )</source>
         <translation>（エラーファイル %1）</translation>
+    </message>
+    <message>
+        <source>error file list:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -403,6 +419,10 @@ Try to switch user interface!</source>
         <source>Tab,Enter,Num Enter,Left,Up,Right,Down,Esc,Delete,C,X,V,Z,Y</source>
         <translation>Tab, Enter, Num, Enter, Left, Up, Right, Down, Esc, Delete, C, X, V, Z, Y</translation>
     </message>
+    <message>
+        <source>C,X,V,Z,Y</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
@@ -456,35 +476,35 @@ Try to switch user interface!</source>
     <name>KInsertSymbolDlg</name>
     <message>
         <source>&amp;Insert</source>
-        <translation>挿入(&amp;I)</translation>
+        <translation type="obsolete">挿入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation>記号と特殊文字(&amp;S)</translation>
+        <translation type="obsolete">記号と特殊文字(&amp;S)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
-        <translation>記号バー(&amp;T)</translation>
+        <translation type="obsolete">記号バー(&amp;T)</translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
-        <translation>記号バーに挿入する(&amp;Y)</translation>
+        <translation type="obsolete">記号バーに挿入する(&amp;Y)</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation>特殊文字(&amp;P)</translation>
+        <translation type="obsolete">特殊文字(&amp;P)</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>記号と特殊文字</translation>
+        <translation type="obsolete">記号と特殊文字</translation>
     </message>
 </context>
 <context>
@@ -717,7 +737,7 @@ Try to switch user interface!</source>
     <name>KSpecialCharTabWidget</name>
     <message>
         <source>&amp;Characters:</source>
-        <translation>文字(&amp;C):</translation>
+        <translation type="obsolete">文字(&amp;C):</translation>
     </message>
 </context>
 <context>
@@ -763,27 +783,27 @@ Try to switch user interface!</source>
     <name>KSymbolBarTabWidget</name>
     <message>
         <source>&amp;Remove</source>
-        <translation>削除(&amp;R)</translation>
+        <translation type="obsolete">削除(&amp;R)</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation>記号と特殊文字ツールバーを再設定して、よろしいでしょうか？</translation>
+        <translation type="obsolete">記号と特殊文字ツールバーを再設定して、よろしいでしょうか？</translation>
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
-        <translation>ユーザー設定(&amp;O):</translation>
+        <translation type="obsolete">ユーザー設定(&amp;O):</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation>下へ移動(&amp;D)</translation>
+        <translation type="obsolete">下へ移動(&amp;D)</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation>上へ移動(&amp;U)</translation>
+        <translation type="obsolete">上へ移動(&amp;U)</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>なし</translation>
+        <translation type="obsolete">なし</translation>
     </message>
     <message>
         <source>Product Name</source>
@@ -791,46 +811,46 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
-        <translation>リセット(&amp;E)</translation>
+        <translation type="obsolete">リセット(&amp;E)</translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation>ショットカット キー(&amp;K):</translation>
+        <translation type="obsolete">ショットカット キー(&amp;K):</translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation>ショットカットキー:</translation>
+        <translation type="obsolete">ショットカットキー:</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
-        <translation>ショットカット キーを指定(&amp;H)</translation>
+        <translation type="obsolete">ショットカット キーを指定(&amp;H)</translation>
     </message>
 </context>
 <context>
     <name>KSymbolTabWidget</name>
     <message>
         <source>&amp;Character code:</source>
-        <translation>文字コード(&amp;C):</translation>
+        <translation type="obsolete">文字コード(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>フォント(&amp;F):</translation>
+        <translation type="obsolete">フォント(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation>最新使用した記号(&amp;R):</translation>
+        <translation type="obsolete">最新使用した記号(&amp;R):</translation>
     </message>
     <message>
         <source>(Normal Text)</source>
-        <translation>(標準テキスト)</translation>
+        <translation type="obsolete">(標準テキスト)</translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation>種類(&amp;U):</translation>
+        <translation type="obsolete">種類(&amp;U):</translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation>コード体系(&amp;M):</translation>
+        <translation type="obsolete">コード体系(&amp;M):</translation>
     </message>
 </context>
 <context>
@@ -1424,6 +1444,13 @@ Try to switch user interface!</source>
     <message>
         <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxControlsListCommand</name>
+    <message>
+        <source>Register Custom Control...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3558,6 +3585,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Your Kingsoft Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
         <translation>試用期限が過ぎたため、これ以降はキーボード入力無効のビューワーモードでのみお使いいただけます。シリアルを購入し、全ての機能を引き続きご利用下さい。</translation>
     </message>
+    <message>
+        <source>You also can download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Free.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
@@ -5392,11 +5431,6 @@ Always take this action</source>
         <translation>%1 のユーザー設定</translation>
     </message>
     <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Overwrite File?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5421,8 +5455,13 @@ Always take this action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

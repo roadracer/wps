@@ -221,7 +221,7 @@
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation>Subiendo archivo...</translation>
+        <translation type="obsolete">Subiendo archivo...</translation>
     </message>
 </context>
 <context>

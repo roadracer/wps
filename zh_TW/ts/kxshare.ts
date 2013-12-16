@@ -302,11 +302,27 @@
         <source>%1 controls</source>
         <translation>%1 個控制項</translation>
     </message>
+    <message>
+        <source>ActiveX Control (*.ocx;*.dll)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not register this control.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
         <source>(damaged file : %1 )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>error file list:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -410,6 +426,10 @@
         <source>Del</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>C,X,V,Z,Y</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
@@ -452,35 +472,35 @@
     <name>KInsertSymbolDlg</name>
     <message>
         <source>&amp;Insert</source>
-        <translation>插入(&amp;I)</translation>
+        <translation type="obsolete">插入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation>符號(&amp;S)</translation>
+        <translation type="obsolete">符號(&amp;S)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>關閉</translation>
+        <translation type="obsolete">關閉</translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
-        <translation>自定義符號(&amp;T)</translation>
+        <translation type="obsolete">自定義符號(&amp;T)</translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
-        <translation>插入到自定義符號(&amp;Y)</translation>
+        <translation type="obsolete">插入到自定義符號(&amp;Y)</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation>特殊字元(&amp;P)</translation>
+        <translation type="obsolete">特殊字元(&amp;P)</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>符號</translation>
+        <translation type="obsolete">符號</translation>
     </message>
 </context>
 <context>
@@ -713,77 +733,77 @@
     <name>KSpecialCharTabWidget</name>
     <message>
         <source>&amp;Characters:</source>
-        <translation>字元數(&amp;C)</translation>
+        <translation type="obsolete">字元數(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>KSymbolBarTabWidget</name>
     <message>
         <source>&amp;Remove</source>
-        <translation>移除(&amp;R)</translation>
+        <translation type="obsolete">移除(&amp;R)</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation>是否重設符號工具列？</translation>
+        <translation type="obsolete">是否重設符號工具列？</translation>
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
-        <translation>自定義符號(&amp;O)</translation>
+        <translation type="obsolete">自定義符號(&amp;O)</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation>下移(&amp;D)</translation>
+        <translation type="obsolete">下移(&amp;D)</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation>上移(&amp;U)</translation>
+        <translation type="obsolete">上移(&amp;U)</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>無</translation>
+        <translation type="obsolete">無</translation>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
-        <translation>重設符號工具列(&amp;E)</translation>
+        <translation type="obsolete">重設符號工具列(&amp;E)</translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation>快速鍵(&amp;K):</translation>
+        <translation type="obsolete">快速鍵(&amp;K):</translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation>快速鍵:</translation>
+        <translation type="obsolete">快速鍵:</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
-        <translation>指定快速鍵(&amp;H)</translation>
+        <translation type="obsolete">指定快速鍵(&amp;H)</translation>
     </message>
 </context>
 <context>
     <name>KSymbolTabWidget</name>
     <message>
         <source>&amp;Character code:</source>
-        <translation>字元代碼(&amp;C)</translation>
+        <translation type="obsolete">字元代碼(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>字型(&amp;F):</translation>
+        <translation type="obsolete">字型(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation>最近使用過的符號(&amp;R):</translation>
+        <translation type="obsolete">最近使用過的符號(&amp;R):</translation>
     </message>
     <message>
         <source>(Normal Text)</source>
-        <translation>(標準文字)</translation>
+        <translation type="obsolete">(標準文字)</translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation>子集合(&amp;U):</translation>
+        <translation type="obsolete">子集合(&amp;U):</translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation>從(&amp;M):</translation>
+        <translation type="obsolete">從(&amp;M):</translation>
     </message>
 </context>
 <context>
@@ -1372,6 +1392,13 @@
     <message>
         <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxControlsListCommand</name>
+    <message>
+        <source>Register Custom Control...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3282,6 +3309,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Update to Personal</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You also can download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Free.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
@@ -4980,11 +5019,6 @@ Always take this action</source>
         <translation>自訂 %1</translation>
     </message>
     <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5013,8 +5047,13 @@ Always take this action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

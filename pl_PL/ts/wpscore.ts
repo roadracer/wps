@@ -51,11 +51,11 @@
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd! Nazwa stylu niezdefiniowana.</translation>
     </message>
     <message>
         <source>Error! The style is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd! Styl nie jest ustawiony.</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -70,7 +70,7 @@
     </message>
     <message>
         <source> </source>
-        <translation type="unfinished"></translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
@@ -105,7 +105,7 @@
     <name>field_parser_links_and_reference</name>
     <message>
         <source>Error! Hyperlink reference is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd! Odnośnik hiperłącza jest nieprawidłowy.</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -141,11 +141,11 @@
     </message>
     <message>
         <source>Error! The file you specified cannot be open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd! Plik który wybrałeś nie może zostać otwarty.</translation>
     </message>
     <message>
         <source>Error! Filename not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd! Nazwa pliku niezdefiniowana.</translation>
     </message>
     <message>
         <source>Error! Title list level is invalid.</source>
@@ -248,7 +248,7 @@
     <name>renderhost</name>
     <message>
         <source>Page Break</source>
-        <translation>Pdoział Strony</translation>
+        <translation>Podział Strony</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -2162,7 +2162,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik istnieje. Czy chcesz go zastąpić?</translation>
     </message>
     <message>
         <source>&amp;Find All</source>
@@ -3242,6 +3242,53 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
+
+This change will affect all new documents based on the %s template.</source>
+        <translation type="obsolete">Czy chcesz zmienić domyślne ustawienia strony?
+
+Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawie szablonu %s.</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+
+This change will affect all the new documents based on the %s template.</source>
+        <translation type="obsolete">Czy chcesz zmienić domyślne ustawienia dla czcionki?
+
+Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawie szablonu %s.</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
+        <translation type="obsolete">Czy chcesz zmienić domyślne ustawienia dla stylu?
+
+Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawie szablonu %s.
+
+
+Tak:	Zapisz do szablonu;
+
+Nie:	Nie zapisuj do szablonu;
+
+Anuluj:	Wróć do okna dialogowego.
+</translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................3
+    Heading3.......................5</source>
+        <translation type="obsolete">Nagłówek1...........................1
+  Nagłówek2.........................3
+    Nagłówek3.......................5</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for page setup?
 This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3268,6 +3315,10 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>(none)
 .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3363,7 +3414,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Select Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz Źródło Danych</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4402,6 +4453,26 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Format Line Number</source>
         <translation>Formatuj Numer Linii</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

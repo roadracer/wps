@@ -2393,7 +2393,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>لوحة التحديد</translation>
+        <translation type="obsolete">لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2526,6 +2526,14 @@ On</source>
     </message>
     <message>
         <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3183,10 +3191,6 @@ Slide</source>
     <message>
         <source>No Shadow</source>
         <translation>بدون ظل</translation>
-    </message>
-    <message>
-        <source>Object Select</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -5918,6 +5922,10 @@ On</source>
         <translation>معلومات سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>حسابي في KOS</translation>
     </message>
@@ -6462,11 +6470,27 @@ On</source>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation>إدراج أعمدة</translation>
+        <translation type="obsolete">إدراج أعمدة</translation>
+    </message>
+    <message>
+        <source>Insert Columns Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>إدراج صفوف</translation>
+        <translation type="obsolete">إدراج صفوف</translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -6477,8 +6501,20 @@ On</source>
         <translation>تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>فتح ملف من سحابة KOS</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -6494,7 +6530,7 @@ On</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>عرض معلومات المستخدم في KOS</translation>
+        <translation type="obsolete">عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -6522,6 +6558,10 @@ On</source>
     </message>
     <message>
         <source>KingsoftOffice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KingsoftOffice_KSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6929,6 +6969,10 @@ Master</source>
     <message>
         <source>Symbol</source>
         <translation>رمز</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -7733,6 +7777,14 @@ AddIns</source>
     <message>
         <source>Change Version</source>
         <translation>تغيير الإصدار</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -10879,6 +10931,10 @@ Other Window</source>
         <translation>معلومات سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>حسابي في KOS</translation>
     </message>
@@ -12371,6 +12427,17 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <message>
         <source>KOSCloudInformationTip Title</source>
         <translation>معلومات سحابة KOS</translation>
+    </message>
+</context>
+<context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14178,8 +14245,20 @@ Click the arrow to choose more outline styles.</source>
         <translation>تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>فتح ملف من سحابة KOS</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -14195,7 +14274,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>عرض معلومات المستخدم في KOS</translation>
+        <translation type="obsolete">عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -14368,6 +14447,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Clipboard Pane</source>
         <translation>لوحة الحافظة</translation>
+    </message>
+    <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Colorize</source>
@@ -14553,7 +14636,7 @@ Slide</source>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>رسائلي</translation>
+        <translation type="obsolete">رسائلي</translation>
     </message>
     <message>
         <source>New</source>
@@ -14656,8 +14739,12 @@ Slide</source>
         <translation>قائمة منبثقة للمسطرة</translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>أخبار</translation>
+        <translation type="obsolete">أخبار</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -14934,6 +15021,14 @@ Slide</source>
         <translation>تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
@@ -14943,7 +15038,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>عرض معلومات المستخدم في KOS</translation>
+        <translation type="obsolete">عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -15149,8 +15244,16 @@ Slide</source>
         <translation>تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation>تسجيل الخروج من KOS</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
@@ -15158,7 +15261,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>عرض معلومات المستخدم في KOS</translation>
+        <translation type="obsolete">عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>Login</source>

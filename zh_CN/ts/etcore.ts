@@ -1535,6 +1535,10 @@ Remove the workbook from shared use?
         <source>Forming Sensitivity Report...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>No cells were found.</source>
+        <translation type="unfinished">未找到单元格。</translation>
+    </message>
 </context>
 <context>
     <name>et_appcore</name>
@@ -5559,6 +5563,14 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <translation>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</translation>
     </message>
+    <message>
+        <source>GETPIVOTDATA(data_field, pivot_table, field, item,...)</source>
+        <translation type="unfinished">GETPIVOTDATA(data_field, pivot_table, field, item,...)</translation>
+    </message>
+    <message>
+        <source>Extracts data stored in a PivotTable.</source>
+        <translation type="unfinished">提取存储在数据透视表的数据。</translation>
+    </message>
 </context>
 <context>
     <name>et_numfmt</name>
@@ -9477,6 +9489,18 @@ The values which can be typed here is restricted by other users.</source>
 
 Continue ?</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active document is not a worksheet or in unprotected state.</source>
+        <translation type="unfinished">活动文档不是工作表或未被保护。</translation>
+    </message>
+    <message>
+        <source>Cannot execute this command in Group Edit mode.</source>
+        <translation type="unfinished">在组编辑方式中不能执行此命令。</translation>
+    </message>
+    <message>
+        <source>Edit range without a password</source>
+        <translation type="unfinished">无需密码的编辑区域</translation>
     </message>
 </context>
 <context>

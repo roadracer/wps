@@ -5,195 +5,195 @@
     <name>CWpsTableStyle</name>
     <message>
         <source>Styless, no grid</source>
-        <translation type="unfinished">Style, bez siatki</translation>
+        <translation>Style, bez siatki</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished">Motywy Stylu</translation>
+        <translation>Motywy Stylu</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished">Podkreślenie</translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished">1-</translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Style, siatkowe</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished">2-</translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="unfinished">Jasny Kolor Stylu</translation>
+        <translation>Jasny Kolor Stylu</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="unfinished">Średni Kolor Stylu</translation>
+        <translation>Średni Kolor Stylu</translation>
     </message>
     <message>
         <source>Deep Color Style</source>
-        <translation type="unfinished">Ciemny Kolor Stylu</translation>
+        <translation>Głęboki Kolor Stylu</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="unfinished">Ciemny Kolor Stylu 2</translation>
+        <translation>Ciemny Kolor Stylu 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny Kolor Stylu 2 - Podkreślony 1/Podkreślony 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny Kolor Stylu 2 - Podkreślony 3/Podkreślony 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny Kolor Stylu 2 - Podkreślony 5/Podkreślony 6</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Pierwszy Wiersz</translation>
+        <translation>Pierwszy Wiersz</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Ostatni Wiersz</translation>
+        <translation>Ostatni Wiersz</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Naprzemienne-Wiersze</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Naprzemienne-Kolumny</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Pierwsza Kolumna</translation>
+        <translation>Pierwsza Kolumna</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Ostatnia Kolumna</translation>
+        <translation>Ostatnia Kolumna</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished">Wbudowane</translation>
+        <translation>Wbudowane</translation>
     </message>
     <message>
         <source>Styless, no grid</source>
-        <translation type="unfinished">Style, bez siatki</translation>
+        <translation>Style, bez siatki</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished">Motywy Stylów</translation>
+        <translation>Motywy Stylu</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished">Podkreślenie</translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished">1-</translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Style, siatkowe</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished">2-</translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="unfinished">Jasny Kolor Stylu</translation>
+        <translation>Jasny Kolor Stylu</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="unfinished">Średni Kolor Stylu</translation>
+        <translation>Średni Kolor Stylu</translation>
     </message>
     <message>
         <source>Dark Color Style</source>
-        <translation type="unfinished">Ciemny Kolor Stylu</translation>
+        <translation>Ciemny Kolor Stylu</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="unfinished">Ciemny Kolor Stylu 2</translation>
+        <translation>Ciemny Kolor Stylu 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny Kolor Stylu 2 - Podkreślony 1/Podkreślony 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny Kolor Stylu 2 - Podkreślony 3/Podkreślony 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny Kolor Stylu 2 - Podkreślony 5/Podkreślony 6</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished">Najlepsze dopasowanie</translation>
+        <translation>Najlepsze Dopasowanie</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="unfinished">Cienki</translation>
+        <translation>Cienki</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished">Średni</translation>
+        <translation>Średni</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished">Gruby</translation>
+        <translation>Głęboki</translation>
     </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished">Najlepsze dopasowanie</translation>
+        <translation>Najlepsze Dopasowanie</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="unfinished">Cienki</translation>
+        <translation>Cienki</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished">Średni</translation>
+        <translation>Średni</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished">Gruby</translation>
+        <translation>Głęboki</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished">Styl Tabeli</translation>
+        <translation>Styl Tabeli:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished">Opcje Stylu Tabeli</translation>
+        <translation>Opcje Stylu Tabeli:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished">Wyczyść Styl Tabeli</translation>
+        <translation>Wyczyść Styl Tabeli</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Apply Table Style</source>
-        <translation type="unfinished">Zastosuj Styl Tabeli</translation>
+        <translation>Zastosuj Styl Tabeli</translation>
     </message>
 </context>
 </TS>

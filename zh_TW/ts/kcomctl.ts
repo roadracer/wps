@@ -223,13 +223,6 @@
     </message>
 </context>
 <context>
-    <name>KDocTab</name>
-    <message>
-        <source>Uploading file...</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>

@@ -1854,6 +1854,10 @@ centrar</translation>
         <translation>Panel del portapapeles</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Column Popup Menu</source>
         <translation>Menú emergente de columna</translation>
     </message>
@@ -1970,6 +1974,14 @@ centrar</translation>
         <translation>Buscar</translation>
     </message>
     <message>
+        <source>Find All Local Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Direct Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format</source>
         <translation>Formato</translation>
     </message>
@@ -2054,7 +2066,7 @@ centrar</translation>
         <translation>Materiales</translation>
     </message>
     <message>
-        <source>MsgAtMe</source>
+        <source>More Colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2191,7 +2203,7 @@ centrar</translation>
         <translation>Menú emergente de fila</translation>
     </message>
     <message>
-        <source>S MsgAtMe</source>
+        <source>S CloudLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2346,7 +2358,7 @@ de tarea</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation type="unfinished">Cambiar información de usuario</translation>
+        <translation type="obsolete">Cambiar información de usuario</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2403,6 +2415,14 @@ de tarea</translation>
     <message>
         <source>Insert</source>
         <translation>Insertar</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Log off</source>
@@ -2554,7 +2574,7 @@ de tarea</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation>Cambiar información de usuario</translation>
+        <translation type="obsolete">Cambiar información de usuario</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2607,6 +2627,14 @@ de tarea</translation>
     <message>
         <source>Insert</source>
         <translation>Insertar</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Log off</source>
@@ -3464,6 +3492,14 @@ Activado</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Protección del documento y propiedades</translation>
     </message>
@@ -3634,6 +3670,10 @@ Activado</translation>
     <message>
         <source>Update Online</source>
         <translation>Actualizar en línea</translation>
+    </message>
+    <message>
+        <source>User Feedback by mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -5631,6 +5671,10 @@ otras ventanas</translation>
         <translation>Macros</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation>Más ventanas</translation>
     </message>
@@ -6421,6 +6465,10 @@ Activado</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My Account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7084,11 +7132,23 @@ Activado</translation>
         <translation>Insertar salto de página</translation>
     </message>
     <message>
+        <source>Insert Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Change Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7100,15 +7160,15 @@ Activado</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View User Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8242,6 +8302,14 @@ AddIns</source>
     <message>
         <source>Change Version</source>
         <translation>Cambiar versión</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -10258,6 +10326,10 @@ otras ventanas</translation>
         <translation>Macros</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation>Más ventanas</translation>
     </message>
@@ -11008,6 +11080,10 @@ de tarea</translation>
     </message>
     <message>
         <source>KOS Cloud Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12856,6 +12932,17 @@ Los saltos de página son insertados por encima y a la izquierda de la selecció
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
@@ -12962,6 +13049,17 @@ Los saltos de página son insertados por encima y a la izquierda de la selecció
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
         <translation>Establece la dirección de la iluminación para la forma 3-D seleccionada, y la fuerza de la iluminación, incluyendo brillante, iluminación normal y oscura.</translation>
+    </message>
+</context>
+<context>
+    <name>tips.LoadMacro</name>
+    <message>
+        <source>LoadMacro Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LoadMacro Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14914,6 +15012,14 @@ En la mayoría de los casos, también puede usar controles de zoom en la barra d
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14922,15 +15028,15 @@ En la mayoría de los casos, también puede usar controles de zoom en la barra d
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
