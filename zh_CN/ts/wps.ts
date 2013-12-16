@@ -870,6 +870,13 @@
     </message>
 </context>
 <context>
+    <name>KxAddUsersDlg</name>
+    <message>
+        <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
+        <translation type="unfinished">无法验证您输入的部分用户的用户名，因此无法将其添加到列表。</translation>
+    </message>
+</context>
+<context>
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
@@ -1435,6 +1442,21 @@
     <message>
         <source>Preview</source>
         <translation type="obsolete">预览</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddUsers</name>
+    <message>
+        <source>Add Users</source>
+        <translation type="unfinished">添加用户</translation>
+    </message>
+    <message>
+        <source>Enter user names,separated by semicolons:</source>
+        <translation type="unfinished">输入用户名称，使用分号分隔:</translation>
+    </message>
+    <message>
+        <source>Example:user1;DOMAIN\name;someone@example.com</source>
+        <translation type="unfinished">例如: user1; DOMAIN\name; someone@example.com</translation>
     </message>
 </context>
 <context>
@@ -3274,6 +3296,14 @@ use buttons to apply borders</source>
         <source>TRUE</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Click below button for advanced setting</source>
+        <translation type="unfinished">单击下面的按钮可设置高级域选项</translation>
+    </message>
+    <message>
+        <source>Contents...</source>
+        <translation type="unfinished">目录...</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFindReplace</name>
@@ -3291,7 +3321,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Enter section number:</source>
-        <translation>输入节号(&amp;E):</translation>
+        <translation type="obsolete">输入节号(&amp;E):</translation>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
@@ -3319,15 +3349,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation>搜索(&amp;S):</translation>
+        <translation type="obsolete">搜索(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Use wildcards</source>
-        <translation>使用通配符(&amp;U)</translation>
+        <translation type="obsolete">使用通配符(&amp;U)</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>书签</translation>
+        <translation type="obsolete">书签</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3353,11 +3383,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Find</source>
-        <translation>查找</translation>
+        <translation type="obsolete">查找</translation>
     </message>
     <message>
         <source>Find whole words onl&amp;y</source>
-        <translation>全字匹配(&amp;Y)</translation>
+        <translation type="obsolete">全字匹配(&amp;Y)</translation>
     </message>
     <message>
         <source>G&amp;o to what:</source>
@@ -3365,19 +3395,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Highligh&amp;t all items found in:</source>
-        <translation>突出显示所有在该范围找到的项目(&amp;T):</translation>
+        <translation type="obsolete">突出显示所有在该范围找到的项目(&amp;T):</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation>查找和替换</translation>
+        <translation type="obsolete">查找和替换</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation>常规(&amp;L)   </translation>
+        <translation type="obsolete">常规(&amp;L)   </translation>
     </message>
     <message>
         <source>Matc&amp;h case</source>
-        <translation>区分大小写(&amp;H)</translation>
+        <translation type="obsolete">区分大小写(&amp;H)</translation>
     </message>
     <message>
         <source>Match Byte</source>
@@ -3385,7 +3415,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Match half/full for&amp;ms</source>
-        <translation>区分全/半角(&amp;M)</translation>
+        <translation type="obsolete">区分全/半角(&amp;M)</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
@@ -3405,7 +3435,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation>替换</translation>
+        <translation type="obsolete">替换</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
@@ -3413,11 +3443,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Replace w&amp;ith:</source>
-        <translation>替换为(&amp;I):</translation>
+        <translation type="obsolete">替换为(&amp;I):</translation>
     </message>
     <message>
         <source>Search options</source>
-        <translation>搜索选项</translation>
+        <translation type="obsolete">搜索选项</translation>
     </message>
     <message>
         <source>Search options:</source>
@@ -3438,6 +3468,113 @@ use buttons to apply borders</source>
     <message>
         <source>Sp&amp;ecial Characters</source>
         <translation>特殊字符(&amp;E)</translation>
+    </message>
+    <message>
+        <source>KxDlgFindReplace</source>
+        <translation type="unfinished">查找和替换</translation>
+    </message>
+    <message>
+        <source>Format Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format options:</source>
+        <translation type="unfinished">格式:</translation>
+    </message>
+    <message>
+        <source>find result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More Options</source>
+        <translation type="unfinished">高级搜索(&amp;M)</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat</source>
+        <translation type="unfinished">格式(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Match half/full For&amp;ms</source>
+        <translation type="unfinished">区分全/半角(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Ma&amp;tch Suffix</source>
+        <translation type="unfinished">区分后缀(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Ignore Sp&amp;ace</source>
+        <translation type="unfinished">忽略空格(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Sear&amp;ch:</source>
+        <translation type="unfinished">搜索(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Matc&amp;h Case</source>
+        <translation type="unfinished">区分大小写(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Match Prefi&amp;x</source>
+        <translation type="unfinished">区分前缀(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Find Whole Words Onl&amp;y</source>
+        <translation type="unfinished">全字匹配(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>&amp;Use Wildcards</source>
+        <translation type="unfinished">使用通配符(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Ignore Punct(&amp;S)</source>
+        <translation type="unfinished">忽略标点符号(&amp;S)</translation>
+    </message>
+    <message>
+        <source>find options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace W&amp;ith:</source>
+        <translation type="unfinished">替换为(&amp;I):</translation>
+    </message>
+    <message>
+        <source>replace options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation type="unfinished">书签</translation>
+    </message>
+    <message>
+        <source>&amp;Enter note number:</source>
+        <translation type="unfinished">输入节号(&amp;E):</translation>
+    </message>
+    <message>
+        <source>highlight the &amp;result</source>
+        <translation type="unfinished">突出显示查找内容(&amp;R)</translation>
+    </message>
+    <message>
+        <source>F&amp;ind Scope</source>
+        <translation type="unfinished">在以下范围中查找(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Find &amp;Back</source>
+        <translation type="unfinished">查找上一处(&amp;B)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFindStyle</name>
+    <message>
+        <source>find text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Find Style</source>
+        <translation type="unfinished">查找样式</translation>
+    </message>
+    <message>
+        <source>description</source>
+        <translation type="unfinished">说明</translation>
     </message>
 </context>
 <context>
@@ -3724,6 +3861,49 @@ use buttons to apply borders</source>
     <message>
         <source>Whole document</source>
         <translation>整篇文档</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFormatRestrictions</name>
+    <message>
+        <source>Formatting Restrictions</source>
+        <translation type="unfinished">限制格式设置</translation>
+    </message>
+    <message>
+        <source>Styles</source>
+        <translation type="unfinished">样式</translation>
+    </message>
+    <message>
+        <source>By restricting formatting to the styles you select,you prevent the ability to modify styles and the ability to apply direct formatting to the document.Select the styles you want to allow to be used in this document.</source>
+        <translation type="unfinished">通过对选定的样式限制格式，可以防止样式被修改，也可以防止对文档直接应用格式。请选择您希望在文档中允许使用的样式。</translation>
+    </message>
+    <message>
+        <source>Show(&amp;D):</source>
+        <translation type="unfinished">显示(&amp;D):</translation>
+    </message>
+    <message>
+        <source>The current permission to use the style(&amp;P):</source>
+        <translation type="unfinished">当前允许使用的样式(&amp;P):</translation>
+    </message>
+    <message>
+        <source>The restriction of the use of style(&amp;E):</source>
+        <translation type="unfinished">限制使用的样式(&amp;E):</translation>
+    </message>
+    <message>
+        <source> Restrict(&amp;L) &gt; </source>
+        <translation type="unfinished"> 限制(&amp;L) &gt; </translation>
+    </message>
+    <message>
+        <source> All Restrict(&amp;R) &gt;&gt; </source>
+        <translation type="unfinished"> 全部限制(&amp;R) &gt;&gt; </translation>
+    </message>
+    <message>
+        <source> &lt; Permit(&amp;A) </source>
+        <translation type="unfinished"> &lt; 允许(&amp;A) </translation>
+    </message>
+    <message>
+        <source> &lt;&lt; All Permit(&amp;O) </source>
+        <translation type="unfinished"> &lt;&lt; 全部允许(&amp;O) </translation>
     </message>
 </context>
 <context>
@@ -5086,7 +5266,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</source>
-        <translation>注意：密码区分大小写，请妥善保管密码，一旦丢失或遗忘，则无法恢复。</translation>
+        <translation type="obsolete">注意：密码区分大小写，请妥善保管密码，一旦丢失或遗忘，则无法恢复。</translation>
     </message>
     <message>
         <source>Centimeters</source>
@@ -5799,6 +5979,14 @@ use buttons to apply borders</source>
     <message>
         <source>&amp;New Document</source>
         <translation>新建文档(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished">启用定时备份(&amp;T)</translation>
+    </message>
+    <message>
+        <source>RadioButton</source>
+        <translation type="unfinished">智能备份(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6708,6 +6896,14 @@ use buttons to apply borders</source>
         <source>pt</source>
         <translation>磅</translation>
     </message>
+    <message>
+        <source>0-1-0</source>
+        <translation type="unfinished">0-1-0%</translation>
+    </message>
+    <message>
+        <source>1-2-1</source>
+        <translation type="unfinished">1-2-1%</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPrint</name>
@@ -6844,27 +7040,27 @@ use buttons to apply borders</source>
     <name>KxDlgProtectDocument</name>
     <message>
         <source>&amp;Form fields</source>
-        <translation>窗体域(&amp;F)</translation>
+        <translation type="obsolete">窗体域(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;No changes(Read only)</source>
-        <translation>只读(&amp;N)</translation>
+        <translation type="obsolete">只读(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation>密码(&amp;P):</translation>
+        <translation type="obsolete">密码(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
-        <translation>再次输入(&amp;R):</translation>
+        <translation type="obsolete">再次输入(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Select Sections...</source>
-        <translation>选择节(&amp;S)...</translation>
+        <translation type="obsolete">选择节(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Track changes</source>
-        <translation>修订(&amp;T)</translation>
+        <translation type="obsolete">修订(&amp;T)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;  color:#99b4d1;&quot;&gt;&amp;Select Sections...&lt;/span&gt;&lt;/a&gt;</source>
@@ -6872,26 +7068,46 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered.(Remember that passwords are case sensitive.)</source>
-        <translation>注意：密码区分大小写，请妥善保管密码，一旦丢失或遗忘，则无法恢复。</translation>
+        <translation type="obsolete">注意：密码区分大小写，请妥善保管密码，一旦丢失或遗忘，则无法恢复。</translation>
     </message>
     <message>
         <source>Protect content</source>
-        <translation>保护内容</translation>
+        <translation type="obsolete">保护内容</translation>
     </message>
     <message>
         <source>Document Protection</source>
-        <translation>保护文档</translation>
+        <translation type="obsolete">保护文档</translation>
     </message>
     <message>
         <source>You can track or lock the document to read-only by specifying an unlock password here.</source>
-        <translation>在此处指定一个开启的密码，这样你就可以将该文件锁定为只读形式。</translation>
+        <translation type="obsolete">在此处指定一个开启的密码，这样你就可以将该文件锁定为只读形式。</translation>
+    </message>
+    <message>
+        <source>Start Protection</source>
+        <translation type="unfinished">启动保护</translation>
+    </message>
+    <message>
+        <source>Protection Password</source>
+        <translation type="unfinished">保护密码</translation>
+    </message>
+    <message>
+        <source>The password can be set to null, but a malicious user could delete password and edit documents, recommended fill password.</source>
+        <translation type="unfinished">密码可设置为空，不过恶意用户可能会删除密码和编辑文件，建议填写密码。</translation>
+    </message>
+    <message>
+        <source>&amp;Enter new passowrd(optional):</source>
+        <translation type="unfinished">新密码(可选)(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Reenter &amp;password to confirm:</source>
+        <translation type="unfinished">确认新密码(&amp;P):</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSectionProtect</name>
     <message>
         <source>In protecting Window, Selected Section has also been Protected. </source>
-        <translation>当保护文档中的窗体时，选中的节也将受到保护。</translation>
+        <translation type="obsolete">当保护文档中的窗体时，选中的节也将受到保护。</translation>
     </message>
     <message>
         <source>Protected &amp;Sections:</source>
@@ -6900,6 +7116,10 @@ use buttons to apply borders</source>
     <message>
         <source>Section Protection</source>
         <translation>节保护</translation>
+    </message>
+    <message>
+        <source>In protecting Window, Selected Section also been Protected. </source>
+        <translation type="unfinished">当保护文档中的窗体时，选中的节也将受到保护。</translation>
     </message>
 </context>
 <context>
@@ -7490,7 +7710,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Remove Protect</source>
-        <translation>取消文档保护</translation>
+        <translation type="obsolete">取消文档保护</translation>
+    </message>
+    <message>
+        <source>Unprotect Document</source>
+        <translation type="unfinished">取消文档保护</translation>
     </message>
 </context>
 <context>
@@ -7668,6 +7892,21 @@ Do you want to:</source>
     </message>
 </context>
 <context>
+    <name>KxExpUserListPanel</name>
+    <message>
+        <source>&amp;Find next region this user can edit</source>
+        <translation type="unfinished">查找此用户可以编辑的下一区域(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Show all regions this user can edit</source>
+        <translation type="unfinished">显示此用户可以编辑的所有区域(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Remove all editing permissions for this user</source>
+        <translation type="unfinished">删除此用户的所有编辑权限(&amp;R)</translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>&amp;Advanced</source>
@@ -7755,6 +7994,10 @@ Do you want to:</source>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>正在准备导出 PDF 文件...</translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished">PDF转换器遇到了内存分配问题，请缩小文档大小或者图片大小!</translation>
     </message>
 </context>
 <context>
@@ -7946,11 +8189,11 @@ Do you want to:</source>
     </message>
     <message>
         <source>&amp;Find All</source>
-        <translation>查找全部(&amp;F)</translation>
+        <translation type="obsolete">查找全部(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation>查找下一处(&amp;F)</translation>
+        <translation type="obsolete">查找下一处(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Find What Text</source>
@@ -7962,11 +8205,11 @@ Do you want to:</source>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>常规(&amp;L)</translation>
+        <translation type="obsolete">常规(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>高级(&amp;M)</translation>
+        <translation type="obsolete">高级(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Paragraph Mark</source>
@@ -8074,19 +8317,19 @@ Do you want to:</source>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document and made %1 replacements.</source>
-        <translation>已完成对文档的搜索，并完成 %1 处替换。</translation>
+        <translation type="obsolete">已完成对文档的搜索，并完成 %1 处替换。</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document.</source>
-        <translation>WPS文字 已经查找完整个文档。</translation>
+        <translation type="obsolete">WPS文字 已经查找完整个文档。</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document. The search item was not found.</source>
-        <translation>已完成对文档的搜索，未找到搜索项。</translation>
+        <translation type="obsolete">已完成对文档的搜索，未找到搜索项。</translation>
     </message>
     <message>
         <source>Main document</source>
-        <translation>主文档</translation>
+        <translation type="obsolete">主文档</translation>
     </message>
     <message>
         <source>Manual &amp;Line Break</source>
@@ -8138,11 +8381,11 @@ Do you want to:</source>
     </message>
     <message>
         <source>Text Boxes in Headers and Footers</source>
-        <translation>页眉页脚中的文本框</translation>
+        <translation type="obsolete">页眉页脚中的文本框</translation>
     </message>
     <message>
         <source>Text Boxes in Main Document</source>
-        <translation>主文档中的文本框</translation>
+        <translation type="obsolete">主文档中的文本框</translation>
     </message>
     <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
@@ -8162,7 +8405,206 @@ Do you want to:</source>
     </message>
     <message>
         <source>no items were found.</source>
-        <translation>未找到搜索项。</translation>
+        <translation type="obsolete">未找到搜索项。</translation>
+    </message>
+    <message>
+        <source>Search options:</source>
+        <translation type="unfinished">选项:</translation>
+    </message>
+    <message>
+        <source>Format options:</source>
+        <translation type="unfinished">格式:</translation>
+    </message>
+    <message>
+        <source>Text Boxes</source>
+        <translation type="unfinished">文本框</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">文档</translation>
+    </message>
+    <message>
+        <source>has finished searching the %1.</source>
+        <translation type="unfinished">已完成对%1的搜索。</translation>
+    </message>
+    <message>
+        <source>The search item was not found.</source>
+        <translation type="unfinished">无法找到您所查找的内容。</translation>
+    </message>
+    <message>
+        <source>has finished searching and made %1 replacements.</source>
+        <translation type="unfinished">全部完成。 完成 %1 处替换。</translation>
+    </message>
+    <message>
+        <source>Match Prefix</source>
+        <translation type="unfinished">区分前缀</translation>
+    </message>
+    <message>
+        <source>,Match Prefix</source>
+        <translation type="unfinished">,区分前缀</translation>
+    </message>
+    <message>
+        <source>Match Suffix</source>
+        <translation type="unfinished">区分后缀</translation>
+    </message>
+    <message>
+        <source>,Match Suffix</source>
+        <translation type="unfinished">,区分后缀</translation>
+    </message>
+    <message>
+        <source>Ignore Punct</source>
+        <translation type="unfinished">忽略标点符号</translation>
+    </message>
+    <message>
+        <source>,Ignore Punct</source>
+        <translation type="unfinished">,忽略标点符号</translation>
+    </message>
+    <message>
+        <source>Ignore Space</source>
+        <translation type="unfinished">忽略空格</translation>
+    </message>
+    <message>
+        <source>,Ignore Space</source>
+        <translation type="unfinished">,忽略空格</translation>
+    </message>
+    <message>
+        <source>style:%1</source>
+        <translation type="unfinished">样式:%1</translation>
+    </message>
+    <message>
+        <source>not highlight</source>
+        <translation type="unfinished">非突出显示</translation>
+    </message>
+    <message>
+        <source>highlight</source>
+        <translation type="unfinished">突出显示</translation>
+    </message>
+    <message>
+        <source>More Options(&amp;L)</source>
+        <translation type="unfinished">高级搜索(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;More Options</source>
+        <translation type="unfinished">高级搜索(&amp;M)</translation>
+    </message>
+    <message>
+        <source>[only format]</source>
+        <translation type="unfinished">[只设格式]</translation>
+    </message>
+    <message>
+        <source>&amp;Font</source>
+        <translation type="unfinished">字体(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>&amp;paragraph</source>
+        <translation type="unfinished">段落(&amp;P)...</translation>
+    </message>
+    <message>
+        <source>&amp;tab</source>
+        <translation type="unfinished">制表位(&amp;T)...</translation>
+    </message>
+    <message>
+        <source>&amp;style</source>
+        <translation type="unfinished">样式(&amp;S)...</translation>
+    </message>
+    <message>
+        <source>&amp;highlight</source>
+        <translation type="unfinished">突出显示(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;clear Format</source>
+        <translation type="unfinished">清除格式设置(&amp;C)</translation>
+    </message>
+    <message>
+        <source>find font</source>
+        <translation type="unfinished">查找字体</translation>
+    </message>
+    <message>
+        <source>replace font</source>
+        <translation type="unfinished">替换字体</translation>
+    </message>
+    <message>
+        <source>find Para</source>
+        <translation type="unfinished">查找段落</translation>
+    </message>
+    <message>
+        <source>replace Para</source>
+        <translation type="unfinished">替换段落</translation>
+    </message>
+    <message>
+        <source>find Tab</source>
+        <translation type="unfinished">查找制表位</translation>
+    </message>
+    <message>
+        <source>replace Tab</source>
+        <translation type="unfinished">替换制表位</translation>
+    </message>
+    <message>
+        <source>find Style</source>
+        <translation type="unfinished">查找样式</translation>
+    </message>
+    <message>
+        <source>replace Style</source>
+        <translation type="unfinished">替换样式</translation>
+    </message>
+    <message>
+        <source>Current &amp;Selection</source>
+        <translation type="unfinished">当前所选内容(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Main Document</source>
+        <translation type="unfinished">主文档(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Headers and Footers</source>
+        <translation type="unfinished">页眉和页脚(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Footnotes</source>
+        <translation type="unfinished">脚注(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Endnotes</source>
+        <translation type="unfinished">尾注(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Comments</source>
+        <translation type="unfinished">批注(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Text Boxes in Main Document</source>
+        <translation type="unfinished">主文档中的文本框(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Text &amp;Boxes in Headers and Footers</source>
+        <translation type="unfinished">页眉和页脚中的文本框(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Highlight All</source>
+        <translation type="unfinished">全部突出显示(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;clear All Highlight</source>
+        <translation type="unfinished">清除突出显示(&amp;C)</translation>
+    </message>
+    <message>
+        <source>WPS has find %1 item that fit the condition.</source>
+        <translation type="unfinished">WPS文字 找到 %1 个与此条件相匹配的项</translation>
+    </message>
+    <message>
+        <source>WPS can not find item that fit the condition.</source>
+        <translation type="unfinished">WPS文字 找不到与此条件相匹配的项</translation>
+    </message>
+    <message>
+        <source>WPS has highlight %1 item. If you want to clear the highlight, please click highlight ALL button, and click clear highlight</source>
+        <translation type="unfinished">WPS文字 突出显示了 %1 项。若要清除突出显示，请单击“突出显示查找内容”，然后单击“清除突出显示”</translation>
+    </message>
+</context>
+<context>
+    <name>KxFindStyleDlg</name>
+    <message>
+        <source>No Style</source>
+        <translation type="unfinished">  (无样式)</translation>
     </message>
 </context>
 <context>
@@ -8245,6 +8687,14 @@ This change will affect all the new documents based on the %1 template.</source>
         <source>Measured value must be between %1 pt and %2 pt</source>
         <translation>度量值必须介于 %1 磅 和 %2 磅 之间</translation>
     </message>
+    <message>
+        <source>Not Italic</source>
+        <translation type="unfinished">非倾斜</translation>
+    </message>
+    <message>
+        <source>Not Bold</source>
+        <translation type="unfinished">非加粗</translation>
+    </message>
 </context>
 <context>
     <name>KxFootAndEndnoteDlg</name>
@@ -8307,6 +8757,29 @@ This change will affect all the new documents based on the %1 template.</source>
     <message>
         <source>(&amp;A)</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatRestrictionsDlg</name>
+    <message>
+        <source>The Document Used Styles</source>
+        <translation type="unfinished">本文使用的样式</translation>
+    </message>
+    <message>
+        <source>The Built-in Styles</source>
+        <translation type="unfinished">内置样式</translation>
+    </message>
+    <message>
+        <source>The User Defined Styles</source>
+        <translation type="unfinished">用户自定义的样式</translation>
+    </message>
+    <message>
+        <source>The All Styles</source>
+        <translation type="unfinished">所有样式</translation>
+    </message>
+    <message>
+        <source>This document may contain formatting or styles that arent&apos;t allowed.Do you want to remove them?</source>
+        <translation type="unfinished">该文档可能包含不允许的格式或样式。您是否希望将其删除？</translation>
     </message>
 </context>
 <context>
@@ -8884,6 +9357,13 @@ Cancel:	Return to the dialog.</source>
     </message>
 </context>
 <context>
+    <name>KxNewLabelDlg</name>
+    <message>
+        <source>This caption label is not valid</source>
+        <translation type="unfinished">题注标签无效</translation>
+    </message>
+</context>
+<context>
     <name>KxNewStyleDlg</name>
     <message>
         <source>%1 +%2%3%4%5%6%7%8%9</source>
@@ -9132,7 +9612,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Document Protec&amp;tion...</source>
-        <translation>保护文档(&amp;T)...</translation>
+        <translation type="obsolete">保护文档(&amp;T)...</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -9144,7 +9624,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Remove &amp;Protection...</source>
-        <translation>取消文档保护(&amp;T)</translation>
+        <translation type="obsolete">取消文档保护(&amp;T)</translation>
     </message>
     <message>
         <source>Select Folder:</source>
@@ -9548,7 +10028,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxProtectDocumentDlg</name>
     <message>
         <source>Section </source>
-        <translation>节 </translation>
+        <translation type="obsolete">节 </translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
@@ -9812,6 +10292,160 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>What you entered has formatting error.</source>
         <translation>您输入的内容格式错误。</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpDocProtection</name>
+    <message>
+        <source>Limit formating to a selection of styles</source>
+        <translation type="unfinished">限制对选定的样式设置格式</translation>
+    </message>
+    <message>
+        <source>Settings...</source>
+        <translation type="unfinished">设置...</translation>
+    </message>
+    <message>
+        <source>Setting the document protection type</source>
+        <translation type="unfinished">设置文档的保护方式</translation>
+    </message>
+    <message>
+        <source>Read Only</source>
+        <translation type="unfinished">只读</translation>
+    </message>
+    <message>
+        <source>Tracked changes</source>
+        <translation type="unfinished">修订</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished">批注</translation>
+    </message>
+    <message>
+        <source>Filling in forms</source>
+        <translation type="unfinished">填写窗体</translation>
+    </message>
+    <message>
+        <source>Groups:</source>
+        <translation type="unfinished">组:</translation>
+    </message>
+    <message>
+        <source>Individuals:</source>
+        <translation type="unfinished">单个用户:</translation>
+    </message>
+    <message>
+        <source>Start Protection...</source>
+        <translation type="unfinished">启动保护...</translation>
+    </message>
+    <message>
+        <source>This document is protected from unintentional editing.</source>
+        <translation type="unfinished">文档受保护，以防止误编辑。</translation>
+    </message>
+    <message>
+        <source>Highlight the regions I can edit</source>
+        <translation type="unfinished">突出显示可编辑的区域</translation>
+    </message>
+    <message>
+        <source>Find Next Region I Can Edit</source>
+        <translation type="unfinished">查找下一个可编辑的区域</translation>
+    </message>
+    <message>
+        <source>Show All Regions I Can Edit</source>
+        <translation type="unfinished">显示可编辑的所有区域</translation>
+    </message>
+    <message>
+        <source>Stop Protection...</source>
+        <translation type="unfinished">停止保护...</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpDocProtectionWidget</name>
+    <message>
+        <source>Select Sections...</source>
+        <translation type="unfinished">选择节...</translation>
+    </message>
+    <message>
+        <source>More Users...</source>
+        <translation type="unfinished">更多用户...</translation>
+    </message>
+    <message>
+        <source>If you make this change in document protection, WPS will ignore all the exceptions in this document.
+
+Do you want to remove the ignored exceptions?</source>
+        <translation type="unfinished">如果在文档保护中进行此修改，WPS 将忽略文档中的所有例外项。
+
+是否删除被忽略的例外项?</translation>
+    </message>
+    <message>
+        <source>Section </source>
+        <translation type="unfinished">节 </translation>
+    </message>
+    <message>
+        <source>Read only, Can prevent the document has been modified. However, you can set the edit region.
+Select the part of the contents in the document, and select the users can edit.</source>
+        <translation type="unfinished">只读，可以防止文档被修改。不过，你可以设置允许编辑的区域。
+在文档中选择部分内容，并选择可以对其进行编辑的用户。</translation>
+    </message>
+    <message>
+        <source>Tracked changes, Allows you to modify the document, but modify records will be tracked to show.</source>
+        <translation type="unfinished">修订，允许修改文档，但修改记录将以修订方式展现。</translation>
+    </message>
+    <message>
+        <source>Comments, Only allowed to insert annotations in the document. However, you can set the edit region.
+Select the part of the contents in the document, and select the users can edit.</source>
+        <translation type="unfinished">批注，只允许在文档中插入批注。不过，你可以设置允许编辑的区域。
+在文档中选择部分内容，并选择可以对其进行编辑的用户。</translation>
+    </message>
+    <message>
+        <source>Filling in forms, Can prevent the document has been modified, only fill in the form field content.</source>
+        <translation type="unfinished">填写窗体，可以防止文档被修改，只能在窗体域中填写内容。</translation>
+    </message>
+    <message>
+        <source>You may only view this region.</source>
+        <translation type="unfinished">只能查看此区域。</translation>
+    </message>
+    <message>
+        <source>You may edit in this region,but all change will be tracked.</source>
+        <translation type="unfinished">可以在此区域中编辑，但所有更改将作为修订。</translation>
+    </message>
+    <message>
+        <source>You may only insert comments into this region.</source>
+        <translation type="unfinished">只能在此区域中插入批注。</translation>
+    </message>
+    <message>
+        <source>You may only fill in forms in this region.</source>
+        <translation type="unfinished">只能在此区域中填写窗体。</translation>
+    </message>
+    <message>
+        <source>You may freely edit in this region.</source>
+        <translation type="unfinished">可以在此区域内自由编辑。</translation>
+    </message>
+    <message>
+        <source>You may format text only with certain styles.</source>
+        <translation type="unfinished">仅可使用部分样式格式化文本。</translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <translation type="unfinished">每个人</translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation type="unfinished">管理员</translation>
+    </message>
+    <message>
+        <source>Contributors</source>
+        <translation type="unfinished">贡献者</translation>
+    </message>
+    <message>
+        <source>Users with full control</source>
+        <translation type="unfinished">拥有完全控制权限的用户</translation>
+    </message>
+    <message>
+        <source>Users with permission to change</source>
+        <translation type="unfinished">拥有更改权限的用户</translation>
+    </message>
+    <message>
+        <source>Current user</source>
+        <translation type="unfinished">当前用户</translation>
     </message>
 </context>
 <context>

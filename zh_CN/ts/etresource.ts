@@ -1890,6 +1890,10 @@ Center</source>
         <translation>剪贴板</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished">文档分享</translation>
+    </message>
+    <message>
         <source>Column Popup Menu</source>
         <translation>列</translation>
     </message>
@@ -2006,6 +2010,14 @@ Center</source>
         <translation>查找</translation>
     </message>
     <message>
+        <source>Find All Local Reference</source>
+        <translation type="unfinished">查找所有本地引用</translation>
+    </message>
+    <message>
+        <source>Find Direct Reference</source>
+        <translation type="unfinished">查找直接引用</translation>
+    </message>
+    <message>
         <source>Format</source>
         <translation>格式</translation>
     </message>
@@ -2090,8 +2102,8 @@ Center</source>
         <translation>素材</translation>
     </message>
     <message>
-        <source>MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <source>More Colors</source>
+        <translation type="unfinished">其他的颜色</translation>
     </message>
     <message>
         <source>Name Box</source>
@@ -2238,8 +2250,8 @@ Center</source>
         <translation>行</translation>
     </message>
     <message>
-        <source>S MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <source>S CloudLink</source>
+        <translation type="unfinished">分享</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -2392,7 +2404,7 @@ Window</source>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2453,6 +2465,14 @@ Window</source>
     <message>
         <source>Insert</source>
         <translation>插入</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>Log off</source>
@@ -2608,7 +2628,7 @@ Window</source>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2661,6 +2681,14 @@ Window</source>
     <message>
         <source>Insert</source>
         <translation>插入</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>Log off</source>
@@ -3542,6 +3570,14 @@ On</source>
         <translation>切换版本</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>文档保护及属性</translation>
     </message>
@@ -3724,6 +3760,10 @@ On</source>
     <message>
         <source>Update Online</source>
         <translation>检查更新</translation>
+    </message>
+    <message>
+        <source>User Feedback by mail</source>
+        <translation type="unfinished">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -5759,6 +5799,10 @@ Other Window</source>
         <translation>宏</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished">其他的颜色</translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation>其他窗口</translation>
     </message>
@@ -6547,6 +6591,10 @@ On</source>
         <translation>新手指引</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>KOS My Account</source>
         <translation>WPS通行证</translation>
     </message>
@@ -7218,6 +7266,10 @@ On</source>
         <translation>插入分页符</translation>
     </message>
     <message>
+        <source>Insert Sheet</source>
+        <translation type="unfinished">插入工作表</translation>
+    </message>
+    <message>
         <source>KOS Change Login</source>
         <translation>切换账号</translation>
     </message>
@@ -7226,12 +7278,24 @@ On</source>
         <translation>用户反馈</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation>注销</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
         <translation>从快盘打开</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>KOS Save File to Cloud</source>
@@ -7243,7 +7307,7 @@ On</source>
     </message>
     <message>
         <source>KOS View User Info</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Kingsoft Office BBS</source>
@@ -8390,6 +8454,14 @@ AddIns</source>
     <message>
         <source>Change Version</source>
         <translation>切换版本</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished">轻地址</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -10433,6 +10505,10 @@ Other Windows</source>
         <translation>宏</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished">其他的颜色</translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation>其他窗口</translation>
     </message>
@@ -11183,6 +11259,10 @@ Other Windows</source>
     <message>
         <source>KOS Cloud Information</source>
         <translation>新手指引</translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -13028,6 +13108,17 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished">扫一下二维码分享到手机；贴到微信或米聊大家编辑。</translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished">10秒钟！把文档：</translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
@@ -13134,6 +13225,17 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
         <translation>选择文档中所选三维形状的照明角度，包括设置光线的明亮、普通、阴暗。</translation>
+    </message>
+</context>
+<context>
+    <name>tips.LoadMacro</name>
+    <message>
+        <source>LoadMacro Content</source>
+        <translation type="unfinished">管理可用于此文件的加载项。</translation>
+    </message>
+    <message>
+        <source>LoadMacro Title</source>
+        <translation type="unfinished">加载宏</translation>
     </message>
 </context>
 <context>
@@ -15052,12 +15154,24 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>用户反馈</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation>注销</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
         <translation>从快盘打开</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>KOS Save File to Cloud</source>
@@ -15069,7 +15183,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Login</source>

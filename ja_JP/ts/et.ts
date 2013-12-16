@@ -603,6 +603,78 @@ condition is true: </source>
         <source>top 10...</source>
         <translation type="obsolete">トップテン</translation>
     </message>
+    <message>
+        <source>Number filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not contains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by colors</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -945,6 +1017,10 @@ condition is true: </source>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxCustomHeaderFooterDlg</name>
@@ -1181,6 +1257,14 @@ To keep existing picture, click Cancel button.</source>
     <message>
         <source>Title</source>
         <translation>タイトル</translation>
+    </message>
+    <message>
+        <source>Specify who may edit the range without a password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Permissions...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2534,6 +2618,10 @@ p, li { white-space: pre-wrap; }
         <source>Range &amp;password:</source>
         <translation>範囲とパスワード(&amp;P):</translation>
     </message>
+    <message>
+        <source>P&amp;ermissions...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgOpenSharedWorkbook</name>
@@ -3102,7 +3190,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Timing Backup</source>
-        <translation>バックアップのタイミング</translation>
+        <translation type="obsolete">バックアップのタイミング</translation>
     </message>
     <message>
         <source>Up</source>
@@ -3170,6 +3258,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Set decimal symbol to ,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TimingBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3253,7 +3357,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>幅(&amp;W):</translation>
+        <translation type="obsolete">幅(&amp;W):</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -3313,7 +3417,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Custom paper size</source>
-        <translation>ユーザー設定の用紙サイズ</translation>
+        <translation type="obsolete">ユーザー設定の用紙サイズ</translation>
     </message>
     <message>
         <source>Fi&amp;rst page number:</source>
@@ -3321,7 +3425,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation>高さ(&amp;E):</translation>
+        <translation type="obsolete">高さ(&amp;E):</translation>
     </message>
     <message>
         <source>He&amp;ader:</source>
@@ -3563,6 +3667,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Num&amp;ber...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>buttonGroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>buttonGroup_2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4106,7 +4218,7 @@ change tracking from being removed.</source>
     <message>
         <source>&amp;Allows multiple users to simultaneously edit, 
 the same time allows workbook merging</source>
-        <translation>複数のユーザーによる同時編集とブックの結合を許可する(&amp;A)</translation>
+        <translation type="obsolete">複数のユーザーによる同時編集とブックの結合を許可する(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Remove User</source>
@@ -4122,11 +4234,20 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>Using this &amp;workbook:</source>
-        <translation>現在このブックを開いているユーザー(W)
+        <translation type="obsolete">現在このブックを開いているユーザー(W)
 </translation>
     </message>
     <message>
         <source>&amp;Export xls...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Allow changes by more than one user at the same time.
+This also allows workbook merging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Who has this &amp;workbook open now:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5032,6 +5153,13 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtAfCellFormatButton</name>
+    <message>
+        <source>NONE</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtApplication</name>
     <message>
         <source>%1 is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>
@@ -5048,6 +5176,29 @@ protected.</source>
     <message>
         <source>The file %1 you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
         <translation type="obsolete">指定したファイル %1 は、サポートされていない形式です。「OK」をクリックし、「名前を付けて保存」のダイアログボックスでその他の形式を指定して下さい</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAutoFilterColorMenu</name>
+    <message>
+        <source>Filter by cell color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by font color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only one color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5415,6 +5566,25 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtDlgInputBox</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">ダイアログ</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtFontColorModel</name>
     <message>
         <source>Automatic</source>
@@ -5468,6 +5638,29 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtInputBoxDlg</name>
+    <message>
+        <source>Number is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical Value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error Value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Array value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtLineColorModel</name>
     <message>
         <source>No Line Color</source>
@@ -5518,6 +5711,13 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtReadingLayoutColorModel</name>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtShadowColorModel</name>
     <message>
         <source>other shadow color</source>
@@ -5535,11 +5735,46 @@ protected.</source>
         <translation>新しいシート</translation>
     </message>
     <message>
-        <source>Before Sheet</source>
+        <source>Switch Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtSmartLabelAutoFill</name>
+    <message>
+        <source>auto fill options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bellow Sheet</source>
+        <source>etFillCopy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillFormats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillValues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillSeries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillDays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillWeekdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillMonths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillYears</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5729,6 +5964,10 @@ protected.</source>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>PDFファイルの出力準備中</translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6202,6 +6441,10 @@ on iteration #%2.</source>
         <source>The search information is required!</source>
         <translation>検索情報が必要です</translation>
     </message>
+    <message>
+        <source>Enter a name or description of the function you want to look for.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxInsertWorkSheetDlg</name>
@@ -6564,7 +6807,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -6725,17 +6968,17 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Retrieve external data for all page field items (faster perform&apos; +
-            &apos;ance)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Query external data source as you select each page field item (&apos; +
-            &apos;requires less memory)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve external data for all page field items
+ (faster perform&apos; +&apos;ance)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Query external data source as you select each
+ page field item (&apos;+&apos;requires less memory)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7248,7 +7491,11 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>Text Import Wizard - Step %d of 3</source>
-        <translation>データの区切り位置 設定ウィザード - Step 3 of 3</translation>
+        <translation type="obsolete">データの区切り位置 設定ウィザード - Step 3 of 3</translation>
+    </message>
+    <message>
+        <source>Text Import Wizard - Step %1 of 3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8718,6 +8965,15 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The workbook is protected,
+and cannot generate reports.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Sheet</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

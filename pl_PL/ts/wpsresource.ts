@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2149,12 +2149,32 @@ Merged Data</source>
 <context>
     <name>ongmani.ct_design</name>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Border Color</source>
         <translation>Kolor Obramowania</translation>
     </message>
     <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
         <translation>Wyczyść Styl Tabeli</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw MutidiagonalCell</source>
@@ -2173,6 +2193,14 @@ Merged Data</source>
         <translation>Gumka</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Style</source>
         <translation>Styl linii</translation>
     </message>
@@ -2189,11 +2217,19 @@ Merged Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Outside Border</source>
+        <source>No Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shading Color</source>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2202,6 +2238,14 @@ Merged Data</source>
     </message>
     <message>
         <source>TableStyle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2839,6 +2883,14 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3168,11 +3220,23 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3218,6 +3282,10 @@ On</source>
     <message>
         <source>Copy</source>
         <translation>Kopiuj</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3313,6 +3381,10 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Indent</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3322,6 +3394,10 @@ Painter</source>
     </message>
     <message>
         <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3357,7 +3433,15 @@ Painter</source>
         <translation>Nowy Styl</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3387,6 +3471,10 @@ Painter</source>
     <message>
         <source>Replace</source>
         <translation>Zamień</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select</source>
@@ -3449,6 +3537,10 @@ Painter</source>
         <translation>Tabulatory</translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3459,6 +3551,10 @@ Painter</source>
     <message>
         <source>Underline Color</source>
         <translation>Kolor Podkreślenia</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -3487,6 +3583,10 @@ Painter</source>
         <translation>Zakładki</translation>
     </message>
     <message>
+        <source>Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>Wykres</translation>
     </message>
@@ -3496,6 +3596,22 @@ Painter</source>
     </message>
     <message>
         <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3532,6 +3648,10 @@ Painter</source>
     </message>
     <message>
         <source>Equation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3615,12 +3735,20 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Liczba</translation>
     </message>
     <message>
         <source>Object</source>
         <translation>Obiekt</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -3685,6 +3813,10 @@ bol</source>
     </message>
     <message>
         <source>Text Form Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7060,6 +7192,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7280,7 +7416,7 @@ On</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Zmień Informacje o Użytkowniku</translation>
+        <translation type="obsolete">Zmień Informacje o Użytkowniku</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -7480,10 +7616,6 @@ On</source>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document Protection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7766,6 +7898,18 @@ Diagonal Line in Cell</source>
         <translation>Niewidoczny</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft BBS</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8040,6 +8184,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Restart Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8357,11 +8505,27 @@ Diagonal Line in Cell</source>
 <context>
     <name>rainbow.ct_design</name>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Border Color</source>
         <translation>Kolor obramowania</translation>
     </message>
     <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8382,6 +8546,14 @@ Diagonal Line in Cell</source>
         <translation>Gumka</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Style</source>
         <translation>Styl linii</translation>
     </message>
@@ -8398,7 +8570,19 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8411,6 +8595,14 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8975,6 +9167,14 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9306,12 +9506,24 @@ Header and Footer</source>
         <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>Pogrubienie</translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -9356,6 +9568,10 @@ Header and Footer</source>
     <message>
         <source>Copy</source>
         <translation>Kopiuj</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -9434,6 +9650,10 @@ Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Indent</source>
         <translation>Zwiększ Wcięcie</translation>
     </message>
@@ -9444,6 +9664,10 @@ Header and Footer</source>
     <message>
         <source>Justify</source>
         <translation>Wyjustuj</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9478,7 +9702,15 @@ Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9503,6 +9735,10 @@ Header and Footer</source>
     </message>
     <message>
         <source>Phonetic Guide...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9570,6 +9806,10 @@ Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9580,6 +9820,10 @@ Header and Footer</source>
     <message>
         <source>Underline Color</source>
         <translation>Kolor Podkreślenia</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -9608,6 +9852,10 @@ Header and Footer</source>
         <translation>Zakładki</translation>
     </message>
     <message>
+        <source>Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>Wykres</translation>
     </message>
@@ -9617,6 +9865,22 @@ Header and Footer</source>
     </message>
     <message>
         <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9654,6 +9918,10 @@ Header and Footer</source>
     <message>
         <source>Equation</source>
         <translation>Równanie</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9748,11 +10016,19 @@ Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Liczba</translation>
     </message>
     <message>
         <source>Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9813,6 +10089,10 @@ Header and Footer</source>
     </message>
     <message>
         <source>Text Form Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13004,6 +13284,10 @@ Other Window</source>
         <translation>Pomóż udoskonalić nasz produkt.</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15243,6 +15527,17 @@ Click the arrow to insert file content into the document.</source>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>User Name or Password does not match</source>
@@ -16172,14 +16467,6 @@ Click the arrow to select detailed settings for the selected object.</source>
 </context>
 <context>
     <name>tips.ProtectDocument</name>
-    <message>
-        <source>Document Protection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.RB_Clipboard</name>
@@ -16404,6 +16691,17 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Restart Page Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.RestrictEditing</name>
+    <message>
+        <source>RestrictEditing Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RestrictEditing Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17624,7 +17922,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Zmień Informacje o Użytkowniku</translation>
+        <translation type="obsolete">Zmień Informacje o Użytkowniku</translation>
     </message>
     <message>
         <source>Cloud Feedback</source>
@@ -17641,6 +17939,18 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Export as Images</source>
         <translation>Eksportuj jako Obrazki</translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -17873,6 +18183,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Collapse</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18069,10 +18383,6 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Przesuń w górę</translation>
     </message>
     <message>
-        <source>MsgAtMe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New</source>
         <translation>Nowy</translation>
     </message>
@@ -18169,11 +18479,19 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Zamień</translation>
     </message>
     <message>
+        <source>Restrict</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rotate Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S MsgAtMe</source>
+        <source>S CloudLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18375,7 +18693,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Zmień Informacje o Użytkowniku</translation>
+        <translation type="obsolete">Zmień Informacje o Użytkowniku</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -18424,6 +18742,14 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Insert</source>
         <translation>Wstaw</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -18603,7 +18929,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Zmień Informacje o Użytkowniku</translation>
+        <translation type="obsolete">Zmień Informacje o Użytkowniku</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -18648,6 +18974,14 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Insert</source>
         <translation>Wstaw</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>

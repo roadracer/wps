@@ -232,10 +232,6 @@
         <source>File is uploading...</source>
         <translation type="obsolete">File is being uploaded...</translation>
     </message>
-    <message>
-        <source>Uploading file...</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>

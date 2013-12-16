@@ -230,7 +230,7 @@
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation>ファイルのアップロード中です</translation>
+        <translation type="obsolete">ファイルのアップロード中です</translation>
     </message>
 </context>
 <context>

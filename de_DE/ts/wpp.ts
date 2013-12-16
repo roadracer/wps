@@ -6,95 +6,43 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>0</source>
-        <translation type="unfinished">2- {0?}</translation>
+        <translation type="obsolete">2- {0?}</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">2- {1?}</translation>
+        <translation type="obsolete">2- {1?}</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished">2- {2?}</translation>
+        <translation type="obsolete">2- {2?}</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">2- {3?}</translation>
+        <translation type="obsolete">2- {3?}</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">2- {4?}</translation>
+        <translation type="obsolete">2- {4?}</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished">2- {5?}</translation>
+        <translation type="obsolete">2- {5?}</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">2- {6?}</translation>
+        <translation type="obsolete">2- {6?}</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished">2- {7?}</translation>
+        <translation type="obsolete">2- {7?}</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished">2- {8?}</translation>
+        <translation type="obsolete">2- {8?}</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">2- {9?}</translation>
-    </message>
-    <message>
-        <source>(0)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(4)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(5)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(6)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(7)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(8)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(9)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(10)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">2- {9?}</translation>
     </message>
     <message>
         <source>None</source>
@@ -866,6 +814,13 @@
     <message>
         <source>Automatic</source>
         <translation type="unfinished">Automatisch</translation>
+    </message>
+</context>
+<context>
+    <name>KWppZoomSlider</name>
+    <message id="0">
+        <source>Slide Zoom Fit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1922,6 +1877,14 @@
         <source>New Doc&amp;ument</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -2731,6 +2694,10 @@
         <source>Encountered an error when opening PDF file!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFindReplaceDlg</name>
@@ -3217,10 +3184,6 @@
 <context>
     <name>KxTpSlideTransition</name>
     <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Apply to selected slides:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3274,6 +3237,10 @@
     </message>
     <message>
         <source>loop play, to the next voice began</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

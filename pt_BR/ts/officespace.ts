@@ -2,6 +2,13 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="pt_BR">
 <context>
+    <name>KActiveDialogAtStartup</name>
+    <message>
+        <source>https://vip.wps.cn/openapi/card/activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KBeforeLoginTipWidget</name>
     <message>
         <source>Form</source>
@@ -9,15 +16,156 @@
     </message>
     <message>
         <source>qq login</source>
-        <translation>qq login</translation>
+        <translation type="obsolete">qq login</translation>
     </message>
     <message>
         <source>sina webo login</source>
-        <translation>sina webo login</translation>
+        <translation type="obsolete">sina webo login</translation>
     </message>
     <message>
         <source>wps password logn</source>
-        <translation>wps password logn</translation>
+        <translation type="obsolete">wps password logn</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished">Etiqueta de texto</translation>
+    </message>
+    <message>
+        <source>webHomeLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>introduce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>homepage link of qingbangong</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>help link of qingbangong</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileStateItem</name>
+    <message>
+        <source>nologin, check fail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>nologin, upload fail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is not belong to current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileStatePanel</name>
+    <message>
+        <source>window_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>qingdizhi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>user cancel task</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has new version, please check on cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has new version, please refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>checking new file version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>uploading to cloud server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file has been synced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sync ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>default error message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloud fileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloud dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileUpdateView</name>
+    <message>
+        <source>UpdateNewVersionView</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>clickLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>tipLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>some one update document, click refresh.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh  cloud document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>some one updated document, click check.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check cloud document</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -125,6 +273,13 @@
     <message>
         <source>netbackup rollback failed.</source>
         <translation>Reversão de netbackup falhou.</translation>
+    </message>
+</context>
+<context>
+    <name>KCreateCloudLinkDlg</name>
+    <message>
+        <source>Sure you want to cancel the emission qing address?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -415,7 +570,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Please save groupfile in group.</source>
-        <translation>Por favor, salvar arquivo de grupo em grupo.</translation>
+        <translation type="obsolete">Por favor, salvar arquivo de grupo em grupo.</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -427,11 +582,11 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>File name error, please enter a correct file name format.</source>
-        <translation>Erro no nome do arquivo, por favor insira um formato de nome correto.</translation>
+        <translation type="obsolete">Erro no nome do arquivo, por favor insira um formato de nome correto.</translation>
     </message>
     <message>
         <source>%1 already exists, are you sure you want to replace it?</source>
-        <translation>%1 já existe, você tem certeza que quer substituí-lo?</translation>
+        <translation type="obsolete">%1 já existe, você tem certeza que quer substituí-lo?</translation>
     </message>
     <message>
         <source>Confirm to Save As</source>
@@ -481,6 +636,30 @@ Você tem certeza aque quer mudar?</translation>
         <source>Group</source>
         <translation>Grupo</translation>
     </message>
+    <message>
+        <source>help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File %1 is not existence .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name error, please enter a correct format file name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 already exists, Sure you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Save error, you could replace save in current view only.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get Files Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KLiveEmbedDialogImpl</name>
@@ -498,6 +677,25 @@ Você tem certeza aque quer mudar?</translation>
     <message>
         <source>please login kuaipan</source>
         <translation>por favor, acesse kuaipan</translation>
+    </message>
+</context>
+<context>
+    <name>KOpenCloudLinkOKTip</name>
+    <message>
+        <source>看不见的标题</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;open_ok_tip_1&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;open_ok_tip_2&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>i_know_and_never_show_again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -540,6 +738,63 @@ Você tem certeza aque quer mudar?</translation>
     </message>
 </context>
 <context>
+    <name>KSendCloudLinkOKTip</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Formulário</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;send_ok_tip_1&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;send_ok_tip_2&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>never_show_again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check_my_cloudlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckUploadDlg</name>
+    <message>
+        <source>commit error, please retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>commit ok, will uploading at background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking upload, Please wait..</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckUpload</name>
+    <message>
+        <source>Committing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking upload, Please wait..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Cancelar</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgNewFolder</name>
     <message>
         <source>New Folder</source>
@@ -551,7 +806,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etiqueta de texto</translation>
+        <translation type="obsolete">Etiqueta de texto</translation>
     </message>
     <message>
         <source>Newing Folder, Please wait..</source>
@@ -643,12 +898,47 @@ Você tem certeza aque quer mudar?</translation>
     <message>
         <source>Group</source>
         <comment>Match Windows Explorer</comment>
-        <translation>Gupo</translation>
+        <translation type="obsolete">Gupo</translation>
     </message>
     <message>
         <source>Group Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation>Pasta de grupo</translation>
+        <translation type="obsolete">Pasta de grupo</translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Qing Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receive Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Group</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Group</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group Folder</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished">Pasta de grupo</translation>
     </message>
 </context>
 <context>
@@ -783,14 +1073,21 @@ Você tem certeza aque quer mudar?</translation>
     </message>
 </context>
 <context>
+    <name>KxTpCloudLinkWidget</name>
+    <message>
+        <source>sending cloudlink failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpOfficeSpaceBaseWidget</name>
     <message>
         <source>Form</source>
-        <translation>Formulário</translation>
+        <translation type="obsolete">Formulário</translation>
     </message>
     <message>
         <source>about:blank</source>
-        <translation>about:blank</translation>
+        <translation type="obsolete">about:blank</translation>
     </message>
 </context>
 <context>
@@ -827,12 +1124,27 @@ Você tem certeza aque quer mudar?</translation>
         <source>Failed to cut the following files! Please check if the files are being used.</source>
         <translation>Falha ao recortar os seguintes arquivos! Por favor, verifique se os arquivos estão sendo usados.</translation>
     </message>
+    <message>
+        <source>qingbangong</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kGuidBubble</name>
     <message>
         <source>Form</source>
         <translation>Formulário</translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSHireCommand</name>
+    <message>
+        <source>Authorization update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Business authorization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

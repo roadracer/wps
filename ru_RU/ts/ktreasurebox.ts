@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
 <defaultcodec>UTF-8</defaultcodec>
@@ -10,22 +10,23 @@
     </message>
     <message>
         <source>Treasure_Box_Prompt_No</source>
-        <translation type="unfinished">Нет, спасибо.</translation>
+        <translation type="obsolete">Нет, спасибо.</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Text</source>
-        <translation type="unfinished">Многие люди используют этот инструмент. Вы хотели бы попробовать?</translation>
+        <translation type="obsolete">Многие люди используют этот инструмент. Вы хотели бы попробовать?</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Title</source>
-        <translation type="unfinished">Kingsoft Office рекомендации</translation>
+        <translation type="obsolete">Kingsoft Office рекомендации</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Yes</source>
-        <translation type="unfinished">Все в порядке</translation>
+        <translation type="obsolete">Все в порядке</translation>
     </message>
     <message>
         <source>Kingsoft Office recommendation</source>
+        <translation></translation>
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>

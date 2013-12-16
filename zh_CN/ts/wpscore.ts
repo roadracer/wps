@@ -3539,7 +3539,12 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>(none)
 .</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(无)
+.</translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <translation type="unfinished">不允许您编辑此所选内容，因为它受保护。</translation>
     </message>
 </context>
 <context>
@@ -4733,6 +4738,26 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>The checkbox or drop-down form field in vertical text is ignored, so it cannot be shown.</source>
         <translation>竖排文字中的复选框型/下拉列表型窗体域被忽略，不能显示。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished">WPS 已完成对文档的搜索</translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished">添加保护例外项</translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished">删除保护例外项</translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished">删除所有可编辑的区域</translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <translation type="unfinished">Excel 2007/2010 文件(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
     </message>
 </context>
 </TS>
