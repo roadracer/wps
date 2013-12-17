@@ -2218,7 +2218,7 @@ Merged Data</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Obramowanie zewnętrzne</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -3438,11 +3438,11 @@ Painter</source>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obramowanie zewnętrzne</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obramowanie zewnętrzne</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -8579,7 +8579,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obramowanie zewnętrzne</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -9711,7 +9711,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Krawędzie zewnętrzne</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -16525,7 +16525,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obramowanie zewnętrzne</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
