@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Notes Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stran opomb:</translation>
     </message>
     <message>
         <source>Being converted</source>
@@ -22,11 +22,11 @@
     </message>
     <message>
         <source> Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuta</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekunda</translation>
     </message>
     <message>
         <source>Ready to convert, please wait</source>
@@ -57,11 +57,11 @@
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri datoteko</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi diapozitiv</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>
@@ -128,27 +128,27 @@
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>Number slides in the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Število diapozitivov v dokumentu</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled</translation>
     </message>
     <message>
         <source>Conversion Includes</source>
@@ -171,11 +171,11 @@
     <name>kxProgressdlg</name>
     <message>
         <source>The conversion is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvarjanje je končano.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Converting to Kingsoft Writer document encountered an error.</source>
@@ -216,7 +216,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kot</translation>
     </message>
     <message>
         <source>The file &quot;</source>
@@ -224,7 +224,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;</translation>
     </message>
     <message>
         <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>

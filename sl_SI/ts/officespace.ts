@@ -2,13 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
 <context>
-    <name>KActiveDialogAtStartup</name>
-    <message>
-        <source>https://vip.wps.cn/openapi/card/activate</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KBeforeLoginTipWidget</name>
     <message>
         <source>Form</source>
@@ -16,151 +9,14 @@
     </message>
     <message>
         <source>qq login</source>
-        <translation type="obsolete">qq prijava</translation>
+        <translation>qq prijava</translation>
     </message>
     <message>
         <source>sina webo login</source>
-        <translation type="obsolete">sina webo prijava</translation>
+        <translation>sina webo prijava</translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>webHomeLink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>introduce</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>homepage link of qingbangong</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>help link of qingbangong</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KCloudFileStateItem</name>
-    <message>
-        <source>nologin, check fail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>nologin, upload fail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>file is not belong to current user</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KCloudFileStatePanel</name>
-    <message>
-        <source>window_title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>qingdizhi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>dir</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>refresh</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>filename</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>none</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>user cancel task</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>has new version, please check on cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>has new version, please refresh</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>checking new file version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>uploading to cloud server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>file has been synced</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>sync ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>default error message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cloud fileName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cloud dir</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>check</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KCloudFileUpdateView</name>
-    <message>
-        <source>UpdateNewVersionView</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>clickLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>tipLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>some one update document, click refresh.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>refresh  cloud document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>some one updated document, click check.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>check cloud document</source>
+        <source>wps password logn</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -208,7 +64,7 @@
     </message>
     <message>
         <source>Explore Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Razišči različice</translation>
     </message>
     <message>
         <source>Login klive before auto backup.</source>
@@ -256,11 +112,11 @@
     </message>
     <message>
         <source>Login klive before opening files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava klive pred odpiranjem datoteke.</translation>
     </message>
     <message>
         <source>Login klive before deleting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava klive pred brisanjem datotek.</translation>
     </message>
     <message>
         <source>netbackup recover file</source>
@@ -269,13 +125,6 @@
     <message>
         <source>netbackup rollback failed.</source>
         <translation>netbackup razveljavitev ni uspela.</translation>
-    </message>
-</context>
-<context>
-    <name>KCreateCloudLinkDlg</name>
-    <message>
-        <source>Sure you want to cancel the emission qing address?</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -328,7 +177,7 @@ Are you sure to change?</source>
     <message>
         <source>The file name cannot be empty !</source>
         <comment>The file name cannot been empty!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke ne more biti prazno !</translation>
     </message>
     <message>
         <source>The file name already exists!</source>
@@ -408,11 +257,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Small</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Majhno</translation>
     </message>
     <message>
         <source>&amp;Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Na sredino</translation>
     </message>
     <message>
         <source>&amp;List</source>
@@ -420,15 +269,15 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrobnost&amp;i</translation>
     </message>
     <message>
         <source>&amp;Content</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vsebini</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pomoč</translation>
     </message>
     <message>
         <source>F1</source>
@@ -448,7 +297,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;zreži</translation>
     </message>
     <message>
         <source>Cut the current selection&apos;s contents to the clipboard</source>
@@ -456,11 +305,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiraj</translation>
     </message>
     <message>
         <source>Copy the current selection&apos;s contents to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj vsebino trenutnega izbora v odložišče</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
@@ -468,7 +317,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Paste the clipboard&apos;s contents into the current selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi vsebino odlozišča v trenutni izbor</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -476,7 +325,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Delete the current selection&apos;s contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrišite vsebino trenutnega izbora</translation>
     </message>
     <message>
         <source>D&amp;irect Delete</source>
@@ -488,11 +337,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Select all the files!</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite vse datoteke!</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvel&amp;javi</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -516,11 +365,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Create Quick Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari Hitro povezavo</translation>
     </message>
     <message>
         <source>&amp;back</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;azaj</translation>
     </message>
     <message>
         <source>Go back directory</source>
@@ -560,14 +409,26 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File %1 does not exist .</source>
+        <translation>Datoteka %1 ne obstaja.</translation>
+    </message>
+    <message>
+        <source>Please save groupfile in group.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kot</translation>
     </message>
     <message>
         <source>File name too long, please enter a name smaller than %1.</source>
+        <translation>Ime datoteke je predolgo, vnesite ime, ki je manjše od %1.</translation>
+    </message>
+    <message>
+        <source>File name error, please enter a correct file name format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 already exists, are you sure you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -576,7 +437,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Loading files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalaganje datoteke, prosimo počakajte...</translation>
     </message>
     <message>
         <source>&amp;Sort Mode</source>
@@ -584,23 +445,23 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
+        <translation>ImeDatoteke</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Vrsta</translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Nara&amp;ščajoče</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
@@ -618,30 +479,6 @@ Are you sure to change?</source>
         <source>Group</source>
         <translation>Skupina</translation>
     </message>
-    <message>
-        <source>help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File %1 is not existence .</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File name error, please enter a correct format file name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 already exists, Sure you want to replace it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Save error, you could replace save in current view only.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get Files Error!</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KLiveEmbedDialogImpl</name>
@@ -658,25 +495,6 @@ Are you sure to change?</source>
     <name>KLiveSvr</name>
     <message>
         <source>please login kuaipan</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KOpenCloudLinkOKTip</name>
-    <message>
-        <source>看不见的标题</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;span&gt;open_ok_tip_1&lt;/span&gt;
-&lt;br/&gt;
-&lt;span&gt;open_ok_tip_2&lt;/span&gt;
-&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>i_know_and_never_show_again</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -720,63 +538,6 @@ Are you sure to change?</source>
     </message>
 </context>
 <context>
-    <name>KSendCloudLinkOKTip</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished">Obrazec</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;span&gt;send_ok_tip_1&lt;/span&gt;
-&lt;br/&gt;
-&lt;span&gt;send_ok_tip_2&lt;/span&gt;
-&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>never_show_again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>check_my_cloudlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxCheckUploadDlg</name>
-    <message>
-        <source>commit error, please retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>commit ok, will uploading at background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking upload, Please wait..</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgCheckUpload</name>
-    <message>
-        <source>Committing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking upload, Please wait..</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxDlgNewFolder</name>
     <message>
         <source>New Folder</source>
@@ -787,27 +548,31 @@ Are you sure to change?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Newing Folder, Please wait..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prekliči</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSyncProcess</name>
     <message>
         <source>Synchronize progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhroniziraj napredek</translation>
     </message>
     <message>
         <source>Synchronizing, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhronizacija, prosimo počakajte...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -876,47 +641,12 @@ Are you sure to change?</source>
     <message>
         <source>Group</source>
         <comment>Match Windows Explorer</comment>
-        <translation type="obsolete">Skupina</translation>
+        <translation>Skupina</translation>
     </message>
     <message>
         <source>Group Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation type="obsolete">Mapa skupine</translation>
-    </message>
-    <message>
-        <source>Private Space</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Qing Address</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send Address</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Receive Address</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My Group</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Normal Group</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Group Folder</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished">Mapa skupine</translation>
+        <translation>Mapa skupine</translation>
     </message>
 </context>
 <context>
@@ -947,7 +677,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File is being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka se uporablja.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1050,17 +780,14 @@ Are you sure to change?</source>
     </message>
 </context>
 <context>
-    <name>KxTpCloudLinkWidget</name>
-    <message>
-        <source>sending cloudlink failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxTpOfficeSpaceBaseWidget</name>
     <message>
         <source>Form</source>
-        <translation type="obsolete">Obrazec</translation>
+        <translation>Obrazec</translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1071,7 +798,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Are you sure you want to forever delete &apos;%1&apos; files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite za vedno izbrisati &apos;%1&apos; datoteke?</translation>
     </message>
     <message>
         <source>Delete many objects</source>
@@ -1083,7 +810,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;permanently?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite izbrisati &apos;%1&apos; trajno?</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -1091,14 +818,10 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Failed to delete the following files! Please check if the files are being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni bilo mogoče izbrisati naslednjih datotek! Prosimo, da preverite, če se datoteke uporabljajo.</translation>
     </message>
     <message>
         <source>Failed to cut the following files! Please check if the files are being used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>qingbangong</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1107,17 +830,6 @@ Are you sure to change?</source>
     <message>
         <source>Form</source>
         <translation>Obrazec</translation>
-    </message>
-</context>
-<context>
-    <name>kxKOSHireCommand</name>
-    <message>
-        <source>Authorization update</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Business authorization</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
