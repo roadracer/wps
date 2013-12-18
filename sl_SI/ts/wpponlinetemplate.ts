@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Spletne predloge</translation>
     </message>
     <message>
         <source>My Favorit</source>
@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>Local Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalne predloge</translation>
     </message>
 </context>
 <context>

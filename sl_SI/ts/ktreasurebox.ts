@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Kingsoft Office recommendation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office priporočilo</translation>
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>No thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne, hvala.</translation>
     </message>
 </context>
 </TS>
