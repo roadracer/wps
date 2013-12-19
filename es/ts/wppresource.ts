@@ -629,7 +629,7 @@
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Group</source>
@@ -1051,7 +1051,7 @@
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambos</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -1067,7 +1067,7 @@
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependientes a la izquierda</translation>
     </message>
     <message>
         <source>Level</source>
@@ -1075,7 +1075,7 @@
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependientes a la derecha</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -1217,7 +1217,7 @@
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Encabezado y pie de página</translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -1352,11 +1352,11 @@
     </message>
     <message>
         <source>Delete Master</source>
-        <translation>Eliminar patrón</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation>Diseño de patrón</translation>
+        <translation>Diseño del patrón</translation>
     </message>
     <message>
         <source>New Slide
@@ -1365,11 +1365,11 @@ Master</source>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation>Nuevo patron de diapositiva</translation>
+        <translation>Insertar patrón de diapositivas</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>Nuevo patrón de título</translation>
+        <translation>Insertar diseño</translation>
     </message>
     <message>
         <source>Preserve Master</source>
@@ -2366,7 +2366,7 @@ On</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -3178,7 +3178,7 @@ Slide</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -3535,11 +3535,11 @@ Slide</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Encabezado y pie de página</translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3854,7 +3854,7 @@ Slide</source>
     </message>
     <message>
         <source>Text Font Color</source>
-        <translation>Color de fuente del texto</translation>
+        <translation>Relleno de texto</translation>
     </message>
     <message>
         <source>TextAdapted</source>
@@ -3880,7 +3880,7 @@ Slide</source>
     <name>ongmani.ct_orgchart.OrgChartAndDiagram</name>
     <message>
         <source>Add Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar asistente</translation>
     </message>
     <message>
         <source>Add Coworker</source>
@@ -3916,7 +3916,7 @@ Slide</source>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambos</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -3936,19 +3936,19 @@ Slide</source>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependientes a la izquierda</translation>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer gráfico</translation>
     </message>
     <message>
         <source>ResetLayout</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer diseño</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependientes a la derecha</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -4131,7 +4131,7 @@ Slide</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -4378,7 +4378,7 @@ On/Off</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Encabezado y pie de página</translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -4734,7 +4734,7 @@ On/Off</source>
     </message>
     <message>
         <source>Backdrop</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos de fondo</translation>
     </message>
     <message>
         <source>Background</source>
@@ -4759,7 +4759,7 @@ Master View</source>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation>Eliminar patrón</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Edit Master</source>
@@ -4783,7 +4783,7 @@ Master View</source>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation>Diseño de patrón</translation>
+        <translation>Diseño del patrón</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -4800,11 +4800,11 @@ Master</source>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation>Nuevo patron de diapositiva</translation>
+        <translation>Insertar patrón de diapositivas</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>Nuevo patrón de título</translation>
+        <translation>Insertar diseño</translation>
     </message>
     <message>
         <source>Preserve Master</source>
@@ -4904,7 +4904,8 @@ Slide</source>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation>Configuración de la presentación con diapositivas</translation>
+        <translation>Configuración de la 
+presentación con diapositivas</translation>
     </message>
     <message>
         <source>Slide Show From Beginning</source>
@@ -5043,7 +5044,7 @@ Settings</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -5223,7 +5224,7 @@ Other Window</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -5275,7 +5276,7 @@ Other Window</source>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation>Diapositiva patrón</translation>
+        <translation>Patrón de diapositivas</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -5283,7 +5284,7 @@ Other Window</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>Cambiar ventana</translation>
+        <translation>Cambiar ventanas</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -5743,7 +5744,7 @@ On</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -6332,7 +6333,7 @@ On</source>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation>Eliminar patrón</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Delete Point</source>
@@ -6500,7 +6501,7 @@ On</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Group</source>
@@ -6516,7 +6517,7 @@ On</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Encabezado y pie de página</translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Help</source>
@@ -6672,7 +6673,7 @@ On</source>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation>Diseño de patrón</translation>
+        <translation>Diseño del patrón</translation>
     </message>
     <message>
         <source>Menu Edit Comment</source>
@@ -6709,11 +6710,11 @@ Master</source>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation>Nuevo patron de diapositiva</translation>
+        <translation>Insertar patrón de diapositivas</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>Nuevo patrón de título</translation>
+        <translation>Insertar diseño</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -6961,7 +6962,7 @@ Master</source>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation>Diapositiva patrón</translation>
+        <translation>Patrón de diapositivas</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -7170,7 +7171,7 @@ Master</source>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambos</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -7218,7 +7219,7 @@ Master</source>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependientes a la izquierda</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -7234,7 +7235,7 @@ Master</source>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependientes a la derecha</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -7678,7 +7679,7 @@ AddIns</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -8387,7 +8388,7 @@ Slide</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -8760,7 +8761,7 @@ Slide</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -9083,7 +9084,7 @@ Slide</source>
     </message>
     <message>
         <source>Text Font Color</source>
-        <translation>Color de fuente del texto</translation>
+        <translation>Relleno de texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -9110,7 +9111,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Add Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar asistente</translation>
     </message>
     <message>
         <source>Add Coworker</source>
@@ -9134,7 +9135,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambos</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -9154,7 +9155,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependientes a la izquierda</translation>
     </message>
     <message>
         <source>Level</source>
@@ -9162,15 +9163,15 @@ Subordinate</source>
     </message>
     <message>
         <source>Reset Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer diseño</translation>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer gráfico</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependientes a la derecha</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -9353,7 +9354,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -9606,7 +9607,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Encabezado y pie de página</translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -9933,7 +9934,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation>Eliminar patrón</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Edit Master</source>
@@ -9941,7 +9942,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation>Diseño de patrón</translation>
+        <translation>Diseño del patrón</translation>
     </message>
     <message>
         <source>New Slide
@@ -9950,11 +9951,11 @@ Master</source>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation>Nuevo patron de diapositiva</translation>
+        <translation>Insertar patrón de diapositivas</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>Nuevo patrón de título</translation>
+        <translation>Insertar diseño</translation>
     </message>
     <message>
         <source>Preserve Master</source>
@@ -10008,7 +10009,8 @@ Transition</source>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation>Configuración de la presentación con diapositivas</translation>
+        <translation>Configuración de la 
+presentación con diapositivas</translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -10216,7 +10218,7 @@ Other Window</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -10264,7 +10266,7 @@ Other Window</source>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation>Diapositiva patrón</translation>
+        <translation>Patrón de diapositivas</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -10714,7 +10716,7 @@ Other Window</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>Cuadrícula y guías</translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -11166,7 +11168,7 @@ Haga clic en la flecha para seleccionar entre diferentes colores 3-D.</translati
     </message>
     <message>
         <source>Add an action to the selected object to secify what should happen when you click on it or hover over it with your mouse.</source>
-        <translation>Añadir una acción al objeto seleccionado para especificar lo que debería suceder cuando se hace clic en él o pasar sobre él con el ratón.</translation>
+        <translation>Agrega una acción al objeto seleccionado para especificar lo que debería pasar cuando haga clic en él o cuando se mantiene el mouse sobre él.</translation>
     </message>
 </context>
 <context>
@@ -11331,7 +11333,7 @@ Haga clic en la flecha para seleccionar entre diferentes colores 3-D.</translati
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Set border style, color and width of the current slide.</source>
@@ -11435,7 +11437,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
     <name>tips.ChangeTextDir</name>
     <message>
         <source>Change the orientation of text to horizontal or vertical.</source>
-        <translation>Cambiar la orientación del texto a horizontal o vertical.</translation>
+        <translation>Cambia la orientación del texto a vertical o apilado, o lo gira en la dirección deseada.</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -11608,7 +11610,7 @@ Una proyección de diapositivas personalizada muestra sólo las diapositivas sel
     </message>
     <message>
         <source>Decrease the indent level.</source>
-        <translation>Disminuir el nivel de sangría.</translation>
+        <translation>Disminuye el nivel de sangría.</translation>
     </message>
 </context>
 <context>
@@ -11637,22 +11639,24 @@ Una proyección de diapositivas personalizada muestra sólo las diapositivas sel
     <name>tips.DeleteComment</name>
     <message>
         <source>Delete Comment</source>
-        <translation>Eliminar</translation>
+        <translation>Eliminar comentario</translation>
     </message>
     <message>
         <source>Delete the comments.</source>
-        <translation>Eliminar los comentarios.</translation>
+        <translation>Elimina el comentario seleccionado.
+
+Haga clic en la flecha para eliminar el marcado de la presentación.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteMaster</name>
     <message>
         <source>Delete Master</source>
-        <translation>Eliminar patrón</translation>
+        <translation>Eliminar diapositiva</translation>
     </message>
     <message>
         <source>Delete the selected slide master.</source>
-        <translation>Elimina la diapositiva patrón seleccionada.</translation>
+        <translation>Quita esta diapositiva de la presentación.</translation>
     </message>
 </context>
 <context>
@@ -11777,7 +11781,7 @@ Una proyección de diapositivas personalizada muestra sólo las diapositivas sel
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -11829,11 +11833,11 @@ Haga clic en la flecha para seleccionar una alineación diferente.</translation>
     <name>tips.DynamicShape</name>
     <message>
         <source>Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts.</source>
-        <translation>Insertar formas ya elaboradas, como rectángulos y círculos, flechas, líneas, símbolos de diagrama de flujo y llamadas.</translation>
+        <translation>Inserta formas previamente diseñadas como rectángulos y círculos, flechas, líneas, símbolos de diagrama de flujo y llamadas.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -11848,11 +11852,11 @@ Haga clic en la flecha para seleccionar una alineación diferente.</translation>
     <name>tips.EditComment</name>
     <message>
         <source>Edit the comments.</source>
-        <translation>Editar los comentarios.</translation>
+        <translation>Edita el comentario seleccionado.</translation>
     </message>
     <message>
         <source>EditComment</source>
-        <translation>Editar comentario</translation>
+        <translation>Modificar comentario</translation>
     </message>
 </context>
 <context>
@@ -11885,7 +11889,7 @@ Haga clic en la flecha para seleccionar una alineación diferente.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Use the Equation Editor to insert mathematical formulas.</source>
@@ -11987,7 +11991,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -12080,7 +12084,7 @@ Haga doble click en este botón de nuevo para aplicar el mismo formato a varias 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12108,7 +12112,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
-        <translation>Activar / desactivar la cuadrícula con el que puede alinear objetos en el documento.</translation>
+        <translation>Muestra guías de dibujo ajustables con las cuales se pueden alinear objetos en la diapositiva.</translation>
     </message>
 </context>
 <context>
@@ -12126,15 +12130,17 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.HeaderFooter</name>
     <message>
         <source>Edit the Header or Footer of the document.</source>
-        <translation>Editar el encabezado o pie de página del documento.</translation>
+        <translation>Edita el encabezado o el pie de página del documento.
+
+La información del encabezado o del pie de página aparecerá en la parte superior o inferior de cada página impresa.</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12164,7 +12170,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12179,7 +12185,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation>Aumentar el tamaño de la fuente.</translation>
+        <translation>Aumenta el tamaño de la fuente.</translation>
     </message>
 </context>
 <context>
@@ -12220,7 +12226,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12294,7 +12300,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12309,18 +12315,20 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Insert an embedded object.</source>
-        <translation>Inserte un objeto incrustado.</translation>
+        <translation>Inserta un objeto incrustado.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertOrgChart</name>
     <message>
         <source>InsertOrgChart Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un elemento gráfico SmartArt para comunicar información visualmente.
+
+Los elementos gráficos SmartArt incluyen listas gráficas y diagramas de procesos, así como gráficos más complejos como diagramas de Venn y organigramas.</translation>
     </message>
     <message>
         <source>InsertOrgChart Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar gráfico SmartArt</translation>
     </message>
     <message>
         <source>LinkText</source>
@@ -12343,7 +12351,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12376,7 +12384,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.InsertSymbol</name>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation>Inserta símbolos que no existen en el teclado, como símbolos de copyright, símbolos de marca registrada, marcas de párrafo y caracteres Unicode.</translation>
+        <translation>Inserta caracteres que no existen en el teclado, como símbolos de copyright, símbolos de marca registrada, marcas de párrafo y caracteres Unicode.</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -12387,11 +12395,11 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.InsertTable</name>
     <message>
         <source>Insert or draw a table into the current slide.</source>
-        <translation>Insertar o dibujar una tabla en la diapositiva actual.</translation>
+        <translation>Inserta o dibuja una tabla en el documento.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Table</source>
@@ -12410,7 +12418,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12436,7 +12444,9 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.Justify</name>
     <message>
         <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinea el texto en los márgenes izquierdo y derecho y agrega espacios adicionales entre palabras si es necesario.
+
+De esta manera se crea una apariencia homogénea en los laterales izquierdo y derecho de la página.</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -12611,26 +12621,26 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.MasterLayout</name>
     <message>
         <source>Master Layout</source>
-        <translation>Diseño de patrón</translation>
+        <translation>Diseño del patrón</translation>
     </message>
     <message>
         <source>Set the placeholder elements contained in the slide master.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona los elementos para incluir en el patrón de diapositivas.</translation>
     </message>
 </context>
 <context>
     <name>tips.Media</name>
     <message>
         <source>Insert a movie into the presentation.</source>
-        <translation>Insertar una película en la presentación.</translation>
+        <translation>Inserta un clip de video en la diapositiva.</translation>
     </message>
     <message>
         <source>Movie from File</source>
-        <translation>Película desde archivo</translation>
+        <translation>Video de archivo...</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12652,18 +12662,18 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.NewComment</name>
     <message>
         <source>Create a new comment.</source>
-        <translation>Crear un nuevo comentario.</translation>
+        <translation>Agrega un comentario sobre la selección.</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>Nuevo comentario</translation>
+        <translation>Insertar comentario</translation>
     </message>
 </context>
 <context>
     <name>tips.NewSlide</name>
     <message>
         <source>Add a slide to the presentation.</source>
-        <translation>Agregar una diapositiva a la presentación.</translation>
+        <translation>Agrega una diapositiva a la presentación.</translation>
     </message>
     <message>
         <source>New Slide</source>
@@ -12671,7 +12681,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12693,15 +12703,15 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.NewSlideMaster</name>
     <message>
         <source>Insert a new slide master.</source>
-        <translation>Insertar una nueva diapositiva patrón.</translation>
+        <translation>Agrega un nuevo patrón de diapositivas a la presentación.</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation>Nuevo patron de diapositiva</translation>
+        <translation>Insertar patrón de diapositivas</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12712,11 +12722,13 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.NewTitleMaster</name>
     <message>
         <source>Insert a slide master with a new title style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrega un diseño personalizado al patrón de diapositivas.
+
+Puede agregar diapositivas fácilmente que coincidan con el diseño de la presentación.</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>Nuevo patrón de título</translation>
+        <translation>Insertar diseño</translation>
     </message>
 </context>
 <context>
@@ -12734,11 +12746,11 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.NextComment</name>
     <message>
         <source>Next Comment</source>
-        <translation>Siguiente</translation>
+        <translation>Siguiente comentario</translation>
     </message>
     <message>
         <source>Next comment.</source>
-        <translation>Siguiente comentario.</translation>
+        <translation>Se desplaza al siguiente comentario del documento.</translation>
     </message>
 </context>
 <context>
@@ -12800,7 +12812,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     <name>tips.Numbering</name>
     <message>
         <source>Click the arrow to choose different numbering formats.</source>
-        <translation>Haga clic en la flecha para elegir diferentes formatos de numeración.</translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes formatos de numeración.</translation>
     </message>
     <message>
         <source>Numbering</source>
@@ -12830,11 +12842,13 @@ Haga clic en la flecha para elegir diferentes formatos de numeración.</translat
     <name>tips.OrgChartLayout</name>
     <message>
         <source>OrgChartLayout Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia el diseño de rama de la forma seleccionada.
+
+Esta opción está disponible únicamente si está utilizando un diseño de organigrama, bajo la categoría Jerarquía.</translation>
     </message>
     <message>
         <source>OrgChartLayout Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño de organigrama</translation>
     </message>
 </context>
 <context>
@@ -12856,7 +12870,7 @@ Haga clic en la flecha para elegir diferentes formatos de numeración.</translat
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation>Mostrar el cuadro de diálogo Configurar página.</translation>
+        <translation>Muestra el cuadro de diálogo Configurar página.</translation>
     </message>
 </context>
 <context>
@@ -13004,22 +13018,22 @@ Haga clic en la flecha para seleccionar la configuración detallada para el obje
     <name>tips.PreComment</name>
     <message>
         <source>Pre Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario anterior</translation>
     </message>
     <message>
         <source>Previous comment.</source>
-        <translation>Anterior</translation>
+        <translation>Va al comentario anterior en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.PreserveMaster</name>
     <message>
         <source>Preserve Master</source>
-        <translation>Preservar patrón</translation>
+        <translation>Conservar</translation>
     </message>
     <message>
         <source>Preserve the selected master slide. Even if it is unused it can still remain in the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantenga el patrón seleccionado para que permanezca en la presentación aunque no se esté utilizando.</translation>
     </message>
 </context>
 <context>
@@ -13181,7 +13195,7 @@ Haga clic en la flecha para seleccionar la configuración detallada para el obje
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Use colors, gradients, textures, and pictures to fill the selected table in the current presentation slide.
@@ -13200,11 +13214,13 @@ Click the arrow to select different fill options.</source>
         <source>Launches a full-screen slide show in which you can rehearse your presentation.
 
 The amount of time you spend on each slide is recorded and you can save those timings to run the show automatically in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia una presentación con diapositivas de pantalla completa en la que ensayar la presentación.
+
+La cantidad de tiempo invertido en cada diapositiva se graba y dichos intervalos se pueden guardar para ejecutar la presentación automáticamente en el futuro.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
@@ -13219,11 +13235,13 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.RenameMaster</name>
     <message>
         <source>Rename Master</source>
-        <translation>Renombrar patrón</translation>
+        <translation>Cambiar nombre</translation>
     </message>
     <message>
         <source>Rename the selected master slide.</source>
-        <translation>Cambiar el nombre de la diapositiva patrón seleccionada</translation>
+        <translation>Cambia el nombre del diseño personalizado.
+
+El nombre se muestra en la galería de diseño cuando agrega diapositivas a la presentación.</translation>
     </message>
 </context>
 <context>
@@ -13238,18 +13256,18 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Replace text in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplaza texto en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.ResetLayout</name>
     <message>
         <source>ResetLayout Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarta todos los cambios de formato realizados en el diseño de gráfico SmartArt.</translation>
     </message>
     <message>
         <source>ResetLayout Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer diseño</translation>
     </message>
 </context>
 <context>
@@ -13260,7 +13278,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -13275,18 +13293,18 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.ResetShape</name>
     <message>
         <source>ResetShape Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarta todos los cambios de formato realizados en el gráfico SmartArt.</translation>
     </message>
     <message>
         <source>ResetShape Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer gráfico</translation>
     </message>
 </context>
 <context>
     <name>tips.Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -13309,7 +13327,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>View the rulers, used to measure and line up objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra las reglas utilizadas para medir y alinear objetos en el documento.</translation>
     </message>
 </context>
 <context>
@@ -13386,18 +13404,18 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.SetUpShow</name>
     <message>
         <source>Bring up the Slide Show Settings dialog box, and set up the advanced options for the slide show, such as kiosk mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura las opciones avanzadas para la presentación, como el modo de pantalla completa.</translation>
     </message>
     <message>
         <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar presentación</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowButton</name>
     <message>
         <source>Set the shadow effects to the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrega una sombra detrás del texto seleccionado para resaltarlo en la diapositiva.</translation>
     </message>
     <message>
         <source>Text Shadow</source>
@@ -13466,7 +13484,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
 
 Click the arrow to select from different ways to fill.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellena la forma seleccionada con un color sólido, degradado, imagen o textura.</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -13487,9 +13505,7 @@ Click the arrow to select from different ways to fill.</source>
         <source>Specify the color, width, and line style for the outline of the selected shape.
 
 Click the arrow to choose more outline styles.</source>
-        <translation>Especifique el color, ancho y estilo de línea para el contorno de la forma seleccionada.
-
-Haga clic en la flecha para elegir más estilos de esquema.</translation>
+        <translation>Especifica el color, ancho y estilo de línea del contorno de la forma seleccionada.</translation>
     </message>
 </context>
 <context>
@@ -13507,18 +13523,18 @@ Haga clic en la flecha para elegir más estilos de esquema.</translation>
     </message>
     <message>
         <source>Turn on gridlines to which you can align objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa las líneas de cuadrícula para alinear los objetos del documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideMark</name>
     <message>
         <source>Show / Hide Comments</source>
-        <translation>Mostrar / Ocultar comentarios</translation>
+        <translation>Mostrar marcas</translation>
     </message>
     <message>
         <source>Show or hide the comments.</source>
-        <translation>Mostrar u ocultar los comentarios.</translation>
+        <translation>Muestra comentarios y otras anotaciones.</translation>
     </message>
 </context>
 <context>
@@ -13575,25 +13591,25 @@ No aparecerá durante la presentación a pantalla completa.</translation>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation>Vista patrón de diapositivas</translation>
+        <translation>Vista Patrón de diapositivas</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideMasterClose</name>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Cerrar vista Patrón</translation>
     </message>
     <message>
         <source>Close Slide Master View and return to the edit the slide show.</source>
-        <translation>Cierra la vista diapositiva patrón y vuelve al documento para editar la presentación.</translation>
+        <translation>Cierra la vista Patrón y vuelve al documento para editar la presentación.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideNumber</name>
     <message>
         <source>Insert Slide Number</source>
-        <translation>Insertar número de diapositiva</translation>
+        <translation>Insertar número de diapositiva.</translation>
     </message>
     <message>
         <source>Insert the slide number. The slide number reflects the position of the slide within the presentation.</source>
@@ -13610,7 +13626,7 @@ El número de diapositiva refleja la posición de la diapositiva dentro de la pr
     </message>
     <message>
         <source>Switch the slide orientation between portrait and landscape.</source>
-        <translation>Cambiar la orientación de la diapositiva entre horizontal y vertical.</translation>
+        <translation>Cambia la orientación de diapositivas entre horizontal y vertical.</translation>
     </message>
 </context>
 <context>
@@ -13639,11 +13655,11 @@ El número de diapositiva refleja la posición de la diapositiva dentro de la pr
     <name>tips.SlideShowFromCurrent</name>
     <message>
         <source>From Current Slide</source>
-        <translation>Desde la diapositiva actual</translation>
+        <translation>Presentación con diapositivas desde la diapositiva actual</translation>
     </message>
     <message>
         <source>Start the slide show from the current slide.</source>
-        <translation>Inicia la presentación desde la diapositiva actual.</translation>
+        <translation>Inicia la presentación desde la diapositiva acual.</translation>
     </message>
 </context>
 <context>
@@ -13694,15 +13710,15 @@ El número de diapositiva refleja la posición de la diapositiva dentro de la pr
     <name>tips.Sound</name>
     <message>
         <source>Insert a sound clip or music into the slide.</source>
-        <translation>Insertar un clip de sonido o música en la diapositiva.</translation>
+        <translation>Inserta un clip de audio en la diapositiva.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Sound from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio de archivo...</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -13750,7 +13766,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation>Superíndice</translation>
+        <translation>Crea letras minúsculas debajo de la línea base del texto.</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -13851,11 +13867,11 @@ Click the arrow to select subscript.</source>
     <name>tips.TextBox</name>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation>Dibujar cuadro de texto horizontal</translation>
+        <translation>Cuadro de texto</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation>Inserta cuadros de texto con formato previo.</translation>
+        <translation>Inserta un cuadro de texto en el documento o agrega texto a la forma seleccionada.</translation>
     </message>
 </context>
 <context>
@@ -13879,9 +13895,7 @@ Click the arrow to select subscript.</source>
         <source>Set the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation>Ajustar el color del texto.
-
-Haga clic en la flecha para seleccionar un color de texto diferente.</translation>
+        <translation>Rellena el texto con un color sólido degradado, imagen o textura.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -14198,7 +14212,9 @@ Haga clic en la flecha para elegir más estilos de esquema.</translation>
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra el cuadro de diálogo Zoom para especificar el nivel de zoom del documento.
+
+En la mayoría de los casos, también puede usar los controles de zoom de la barra de estado en la parte inferior de la ventana para acercar o alejar el documento.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -15060,7 +15076,7 @@ Slide</source>
     </message>
     <message>
         <source>Org Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>SmartArt</translation>
     </message>
     <message>
         <source>Picture Tool</source>
@@ -15096,7 +15112,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation>Diapositiva patrón</translation>
+        <translation>Patrón de diapositivas</translation>
     </message>
     <message>
         <source>Slide Show</source>
@@ -15327,7 +15343,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation>Diapositiva patrón</translation>
+        <translation>Patrón de diapositivas</translation>
     </message>
     <message>
         <source>Slide Show</source>
