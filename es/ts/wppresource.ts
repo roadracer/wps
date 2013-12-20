@@ -12332,7 +12332,7 @@ Los elementos gráficos SmartArt incluyen listas gráficas y diagramas de proces
     </message>
     <message>
         <source>LinkText</source>
-        <translation>Enlazar texto</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>LinkUrl</source>

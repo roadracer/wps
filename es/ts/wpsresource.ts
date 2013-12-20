@@ -13823,7 +13823,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13849,7 +13849,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
@@ -13868,7 +13868,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -13895,7 +13895,7 @@ Haga clic en la flecha para elegir Guía fonética, encerrar caracteres y opcion
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13991,7 +13991,7 @@ Haga clic en la flecha para elegir Guía fonética, encerrar caracteres y opcion
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14155,7 +14155,7 @@ Puede agregar el título, autor, fecha y otros datos.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14185,7 +14185,9 @@ El texto fluirá del cuadro de texto actual al vinculado.</translation>
     </message>
     <message>
         <source>Use cross-reference to refer to headings and figures in the document.</source>
-        <translation>Hace referencia a elementos como encabezados e ilustraciones en el documento.</translation>
+        <translation>Hace referencia a elementos como encabezados, ilustraciones y tablas insertando una referencia cruzada como, "Ver tabla 6 a continuación" o "Volver a la página 8".  
+
+Las referencias cruzadas se actualizan automáticamente si mueve el contenido a otra ubicación. De forma predeterminada, las referencias cruzadas se insertan como hipervínculos.</translation>
     </message>
 </context>
 <context>
@@ -14475,7 +14477,7 @@ El texto fluirá del cuadro de texto actual al vinculado.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14690,7 +14692,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -14819,7 +14821,7 @@ Haga doble click en este botón de nuevo para aplicar el mismo formato a varias 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14864,7 +14866,7 @@ Kingsoft Galería de Fuentes en línea requieren conexión a Internet. My Galler
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14923,7 +14925,7 @@ Kingsoft Galería de Fuentes en línea requieren conexión a Internet. My Galler
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation>Aumentar el tamaño de la fuente.</translation>
+        <translation>Aumenta el tamaño de la fuente.</translation>
     </message>
 </context>
 <context>
@@ -14960,7 +14962,7 @@ Esto sólo afecta a las tablas que se extienden más allá de una sola página.<
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
@@ -14983,7 +14985,7 @@ Esto sólo afecta a las tablas que se extienden más allá de una sola página.<
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15045,7 +15047,7 @@ Esto hace que sea fácil ver qué parte de su formulario será reemplazado por l
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15108,11 +15110,11 @@ Esto hace que sea fácil ver qué parte de su formulario será reemplazado por l
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
-        <translation>Inserta una nueva página en blanco en la posición actual.</translation>
+        <translation>Inserta una nueva página en blanco en la posición del cursor.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15133,7 +15135,7 @@ Puede crear hipervínculos para pasar directamente a la ubicación del marcador.
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15157,7 +15159,7 @@ metereológicos comunes.&quot;</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15191,7 +15193,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15210,7 +15212,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15295,7 +15297,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15314,7 +15316,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15329,7 +15331,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
@@ -15356,7 +15358,7 @@ Ajuste el nivel de directorio para el párrafo seleccionado y añade una tabla d
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15416,7 +15418,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
@@ -15439,7 +15441,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15474,7 +15476,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15537,7 +15539,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15563,7 +15565,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>To solve the page break issue in mail merge, if N lines are to be shown in one page, then insert N-1 next fields.</source>
@@ -15706,7 +15708,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15758,7 +15760,9 @@ Haga clic en la flecha para elegir más estilos de esquema.</translation>
     <name>tips.LineSpacingShow</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation>Cambia el espaciado entre líneas del texto.</translation>
+        <translation>Cambia el espaciado entre líneas del texto.
+
+También puede personalizar la cantidad de espacio agregado antes y despúes de los párrafos.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -16083,6 +16087,7 @@ Por ejemplo, puede indicar que el campo personalizado &quot;&quot;Particular&quo
 
 Click the arrow to choose from different numbering formats.</source>
         <translation>Inicia una lista numerada.
+
 Haga clic en la flecha para seleccionar diferentes formatos de numeración.</translation>
     </message>
 </context>
@@ -16164,7 +16169,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
@@ -16205,7 +16210,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
@@ -16630,7 +16635,7 @@ Haga clic en la flecha para seleccionar la configuración detallada para el obje
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16683,7 +16688,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -16776,7 +16781,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -16952,7 +16957,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -17220,7 +17225,7 @@ Click the arrow to select subscript.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Table</source>
@@ -17337,13 +17342,11 @@ Haga clic en la flecha para seleccionar diferentes colores de borde.</translatio
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different shading colors.</source>
-        <translation>Colorea el fondo detrás del texto o el párrafo seleccionado.
-
-Haga clic en la flecha para seleccionar diferentes colores de sombreado.</translation>
+        <translation>Colorea el fondo del texto o párrafo seleccionado.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -17421,7 +17424,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombreado.</transl
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -17470,7 +17473,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     <name>tips.UpdateTocOnOutlining</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
@@ -17742,7 +17745,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17761,7 +17764,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17813,7 +17816,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17839,7 +17842,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
@@ -17876,7 +17879,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     <name>tips.m_Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -17899,7 +17902,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show Markup</source>

@@ -89,11 +89,11 @@
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla</translation>
     </message>
     <message>
         <source>Text&lt;Date and Time&gt;</source>
@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto</translation>
     </message>
     <message>
         <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
@@ -139,11 +139,11 @@
     <name>objtable</name>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efectos de relleno</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes y relleno</translation>
     </message>
     <message>
         <source>Split Cell</source>
@@ -151,15 +151,15 @@
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar celdas</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar filas encima</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar filas debajo</translation>
     </message>
     <message>
         <source>Insert Columns to the Left</source>
@@ -179,27 +179,27 @@
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de relleno</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear en la parte superior</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrar verticalmente</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear en la parte inferior</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir filas uniformemente</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir columnas uniformemente</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -245,11 +245,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slide </source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositiva </translation>
     </message>
     <message>
         <source>Slide %d of %d</source>
-        <translation type="unfinished"></translation>
+        <source>Diapositiva %d de %d</source>
     </message>
     <message>
         <source>End Show</source>
@@ -328,7 +328,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Text Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombra de texto</translation>
     </message>
     <message>
         <source>Text Emboss</source>
@@ -344,35 +344,35 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Interlineado</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de línea</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Viñetas y numeración</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear a la izquierda</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear a la derecha</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -380,7 +380,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Roman</source>
@@ -392,15 +392,15 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de objeto</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar número de diapositiva</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha y hora</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -408,11 +408,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar sangría</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Disminuir sangría</translation>
     </message>
     <message>
         <source>Demote</source>
@@ -436,19 +436,19 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar hipervínculo</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar hipervínculo</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar tamaño de fuente</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Disminuir tamaño de fuente</translation>
     </message>
     <message>
         <source>&lt;header&gt;</source>
@@ -468,14 +468,14 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar formato</translation>
     </message>
 </context>
 <context>
     <name>wppcore</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Presentación</translation>
     </message>
     <message>
         <source>Click to add first slide</source>
@@ -495,7 +495,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositiva</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -503,7 +503,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Patrón de diapositivas</translation>
     </message>
     <message>
         <source>Title Master</source>
@@ -523,7 +523,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Module</source>
@@ -531,7 +531,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Transición de diapositiva</translation>
     </message>
     <message>
         <source>Slow</source>
@@ -991,7 +991,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Big title</source>
@@ -1258,7 +1258,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar formato</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
@@ -1270,7 +1270,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes y relleno</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -1501,11 +1501,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar diapositiva</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas del orador</translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -2446,7 +2446,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Arriba</translation>
     </message>
     <message>
         <source>&amp;Up</source>
@@ -2906,7 +2906,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Descend</source>
@@ -3054,7 +3054,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Disappear</source>
@@ -3230,7 +3230,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
@@ -3238,7 +3238,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar</translation>
     </message>
     <message>
         <source>Change</source>
@@ -3262,7 +3262,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Copy %sof %s</source>
@@ -3470,7 +3470,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Transición de diapositiva</translation>
     </message>
     <message>
         <source>Hyperlink to Other File</source>
@@ -3522,7 +3522,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de relleno</translation>
     </message>
     <message>
         <source>&amp;Fill Color</source>
@@ -3554,7 +3554,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de línea</translation>
     </message>
     <message>
         <source>&amp;Line Color</source>
@@ -3622,7 +3622,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Normal View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista normal</translation>
     </message>
     <message>
         <source>(No Suggestions)</source>
@@ -4102,7 +4102,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de diapositiva</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -4110,7 +4110,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Normal (Restore Panes)</source>
@@ -4118,43 +4118,43 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>400 %</source>
-        <translation type="unfinished"></translation>
+        <translation>400 %</translation>
     </message>
     <message>
         <source>300 %</source>
-        <translation type="unfinished"></translation>
+        <translation>300 %</translation>
     </message>
     <message>
         <source>200 %</source>
-        <translation type="unfinished"></translation>
+        <translation>200 %</translation>
     </message>
     <message>
         <source>150 %</source>
-        <translation type="unfinished"></translation>
+        <translation>150 %</translation>
     </message>
     <message>
         <source>100 %</source>
-        <translation type="unfinished"></translation>
+        <translation>100 %</translation>
     </message>
     <message>
         <source>75 %</source>
-        <translation type="unfinished"></translation>
+        <translation>75 %</translation>
     </message>
     <message>
         <source>66 %</source>
-        <translation type="unfinished"></translation>
+        <translation>66 %</translation>
     </message>
     <message>
         <source>50 %</source>
-        <translation type="unfinished"></translation>
+        <translation>50 %</translation>
     </message>
     <message>
         <source>33 %</source>
-        <translation type="unfinished"></translation>
+        <translation>33 %</translation>
     </message>
     <message>
         <source>25 %</source>
-        <translation type="unfinished"></translation>
+        <translation>25 %</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -4166,7 +4166,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivas</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
@@ -4198,7 +4198,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista esquema</translation>
     </message>
     <message>
         <source>Notes Pages (1 slide per page)</source>
@@ -4210,7 +4210,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar página</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
@@ -4246,39 +4246,39 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar</translation>
     </message>
     <message>
         <source>Delete Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar diapositiva</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Preservar patrón</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Renombrar patrón</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Guías</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Encabez. pie pág.</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar número de diapositiva.</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha y hora</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -4286,7 +4286,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva diapositiva</translation>
     </message>
     <message>
         <source>Insert New Slide Master</source>
@@ -4310,11 +4310,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Font Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineación de fuente</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineación</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -4322,23 +4322,23 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Interlineado</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de línea</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño del patrón</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos de fondo</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de objeto</translation>
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
@@ -4358,15 +4358,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar hipervínculo</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar hipervínculo</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar diapositiva</translation>
     </message>
     <message>
         <source>Custom Shows</source>
@@ -4390,15 +4390,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Text Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombra de texto</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar tamaño de fuente</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Disminuir tamaño de fuente</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -4406,7 +4406,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Numeración</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -4426,15 +4426,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar sangría</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Disminuir sangría</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas del orador</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -4498,7 +4498,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen</translation>
     </message>
     <message>
         <source>Insert Media</source>
@@ -4506,19 +4506,19 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de relleno</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de línea</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de sombra</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color 3-D</translation>
     </message>
     <message>
         <source>Insert Sound from File</source>
@@ -4530,7 +4530,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar tabla</translation>
     </message>
     <message>
         <source>Insert Chart</source>
@@ -4558,11 +4558,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir filas uniformemente</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir columnas uniformemente</translation>
     </message>
     <message>
         <source>Kingsoft Office has not found any installed printers.</source>
@@ -4578,7 +4578,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágen</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -4586,7 +4586,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir texto</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -4598,15 +4598,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de video (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
-        <translation type="unfinished"></translation>
+        <translation>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</source>
@@ -4614,7 +4614,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz</source>
-        <translation type="unfinished"></translation>
+        <translation>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz</translation>
     </message>
     <message>
         <source>Windows Video File(avi) (*.avi)</source>
@@ -4622,7 +4622,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.avi</source>
-        <translation type="unfinished"></translation>
+        <translation>*.avi</translation>
     </message>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</source>
@@ -4630,7 +4630,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</source>
-        <translation type="unfinished"></translation>
+        <translation>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</translation>
     </message>
     <message>
         <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
@@ -4638,7 +4638,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.wmv;*.wvx</source>
-        <translation type="unfinished"></translation>
+        <translation>*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>Insert Sound</source>
@@ -4646,11 +4646,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de audio (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</translation>
     </message>
     <message>
         <source>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</source>
-        <translation type="unfinished"></translation>
+        <translation>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</translation>
     </message>
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
@@ -4658,7 +4658,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.au;*.snd</source>
-        <translation type="unfinished"></translation>
+        <translation>*.au;*.snd</translation>
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
@@ -4666,7 +4666,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.mp3;*.m3u</source>
-        <translation type="unfinished"></translation>
+        <translation>*.mp3;*.m3u</translation>
     </message>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
@@ -4674,7 +4674,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.mid;*.midi;*.rmi</source>
-        <translation type="unfinished"></translation>
+        <translation>*.mid;*.midi;*.rmi</translation>
     </message>
     <message>
         <source>Windows Audio File(wav) (*.wav)</source>
@@ -4682,7 +4682,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.wav</source>
-        <translation type="unfinished"></translation>
+        <translation>*.wav</translation>
     </message>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.waw)</source>
@@ -4690,11 +4690,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>*.wma;*.waw</source>
-        <translation type="unfinished"></translation>
+        <translation>*.wma;*.waw</translation>
     </message>
     <message>
         <source>Click to add notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para agregar notas</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
@@ -4726,7 +4726,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todas las marcas de revisión</translation>
     </message>
     <message>
         <source>Erase All Markups on Slide</source>
@@ -4742,7 +4742,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Flash Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserte animación Flash</translation>
     </message>
     <message>
         <source>Insert background music from the current slide</source>
@@ -4758,19 +4758,19 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva presentación en blanco</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo a partir de plantillas predeterminadas</translation>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo a partir de plantillas predeterminadas</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortografía</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -4810,11 +4810,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Superíndice</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Subíndice</translation>
     </message>
     <message>
         <source>This operation will delete a slide and its note page and graphics. Do you want to continue?</source>
@@ -4834,11 +4834,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Print directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Impresión rápida</translation>
     </message>
     <message>
         <source>Play the Animation</source>
