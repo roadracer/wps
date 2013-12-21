@@ -59,14 +59,14 @@
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error!</translation>
     </message>
 </context>
 <context>
     <name>field_parser_common</name>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source> </source>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Marcador no definido.</translation>
     </message>
     <message>
         <source>Normal text</source>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <source>Table Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancho de tabla</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -359,23 +359,23 @@
     </message>
     <message>
         <source>Left Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen izquierdo</translation>
     </message>
     <message>
         <source>Right Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen derecho</translation>
     </message>
     <message>
         <source>Top Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen superior</translation>
     </message>
     <message>
         <source>Bottom Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen inferior</translation>
     </message>
     <message>
         <source>Move Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Move columna</translation>
     </message>
     <message>
         <source>Adjust Left</source>
@@ -441,7 +441,7 @@
     <name>wpscore</name>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyecto</translation>
     </message>
     <message>
         <source>TemplateProject</source>
@@ -457,11 +457,11 @@
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -469,7 +469,7 @@
     </message>
     <message>
         <source>Figure</source>
-        <translation type="unfinished"></translation>
+        <translation>Figura</translation>
     </message>
     <message>
         <source>Table</source>
@@ -830,7 +830,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Oculto</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -914,11 +914,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Encabezado</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Pie de página</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -934,7 +934,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Right</source>
@@ -942,7 +942,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Justified</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificado</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -994,11 +994,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>1.5 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 líneas</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Doble</translation>
     </message>
     <message>
         <source>At least </source>
@@ -1010,7 +1010,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Multiple </source>
-        <translation type="unfinished"></translation>
+        <translation>Múltiple</translation>
     </message>
     <message>
         <source>Widow/Orphan control</source>
@@ -1134,7 +1134,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Level</source>
-        <translation type="unfinished">Nivel</translation>
+        <translation>Nivel</translation>
     </message>
     <message>
         <source>Numbering Style</source>
@@ -1386,7 +1386,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>15%:9</source>
-        <translation type="unfinished">15%:9</translation>
+        <translation>15%:9</translation>
     </message>
     <message>
         <source>Chinese(Hong Kong S.A.R);Chinese(Macao S.A.R);Chinese(Simplified);Chinese(Singapore);Chinese(Traditional);English(Australia);English(Belize);English(Canada);English(Caribbean);English(Ireland);English(Jamaica);English(New Zealand);English(Philippines);English(South Africa);English(Special Trinidad and Tobago);English(UK);English(United States);English(Zimbabwe);English(Indonesia);French(Belgium);French(Cameroon);French(Canada);French(Ivory Coast);French(France);French(Luxembourg);French(Mali);French(Monaco);French(Reunion Island);French(Senegal);French(Morocco);French(Haiti);French(Switzerland);French(West Indies);French(Democratic Republic);German(Austria);German(Germany);German(Liechtenstein);German(Luxembourg);German(Switzerland);Japanese;Portuguese(Brazil);Portuguese(Portugal);Russian(Moldova);Russian;Belarusian Language;Vietnamese;Korean;Thai;Italian(Italy);Italian(Switzerland);Greece:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</source>
@@ -1442,11 +1442,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde</translation>
     </message>
     <message>
         <source>No border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Between</source>
@@ -1490,7 +1490,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Círculo</translation>
     </message>
     <message>
         <source>Complex Script Font</source>
@@ -1502,7 +1502,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer</translation>
     </message>
     <message>
         <source>%s can&apos;t load!</source>
@@ -1596,11 +1596,11 @@ Do you want to replace it?</source>
     <name>wpscore_persist</name>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla</translation>
     </message>
     <message>
         <source>normal.wpt</source>
@@ -1612,7 +1612,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>templates</source>
-        <translation type="unfinished"></translation>
+        <translation>plantillas</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
@@ -3240,21 +3240,27 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
+
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
+
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
 
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
