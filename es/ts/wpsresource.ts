@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2146,11 +2146,11 @@ Merged Data</source>
     <name>ongmani.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -2158,11 +2158,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde y sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -2203,7 +2203,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -2223,7 +2223,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -2231,15 +2231,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -2259,7 +2259,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
@@ -3238,7 +3238,7 @@ On</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -3254,7 +3254,7 @@ On</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3415,7 +3415,7 @@ Painter</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3451,7 +3451,7 @@ Painter</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -3459,7 +3459,7 @@ Painter</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3491,7 +3491,7 @@ Painter</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>Select</source>
@@ -3559,7 +3559,7 @@ Painter</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -3605,7 +3605,7 @@ Painter</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltos</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -3621,19 +3621,19 @@ Painter</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de columna</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección continuo</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -8218,7 +8218,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir edición</translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -8540,7 +8540,7 @@ Diagonal Line in Cell</source>
     <name>rainbow.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -8552,7 +8552,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -8585,7 +8585,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -8605,7 +8605,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -8613,11 +8613,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -8633,7 +8633,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
@@ -9542,7 +9542,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -9558,7 +9558,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -9702,7 +9702,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9738,7 +9738,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -9746,7 +9746,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9774,7 +9774,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>Select</source>
@@ -9842,7 +9842,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -9888,7 +9888,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltos</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -9904,19 +9904,19 @@ Header and Footer</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de columna</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección continuo</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -11569,7 +11569,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Salto de sección continuos</translation>
+        <translation>Salto de sección continuo</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -14185,7 +14185,7 @@ El texto fluirá del cuadro de texto actual al vinculado.</translation>
     </message>
     <message>
         <source>Use cross-reference to refer to headings and figures in the document.</source>
-        <translation>Hace referencia a elementos como encabezados, ilustraciones y tablas insertando una referencia cruzada como, "Ver tabla 6 a continuación" o "Volver a la página 8".  
+        <translation>Hace referencia a elementos como encabezados, ilustraciones y tablas insertando una referencia cruzada como, &quot;Ver tabla 6 a continuación&quot; o &quot;Volver a la página 8&quot;.  
 
 Las referencias cruzadas se actualizan automáticamente si mueve el contenido a otra ubicación. De forma predeterminada, las referencias cruzadas se insertan como hipervínculos.</translation>
     </message>
@@ -15146,12 +15146,7 @@ Puede crear hipervínculos para pasar directamente a la ubicación del marcador.
     <name>tips.InsertCaption</name>
     <message>
         <source>Add a descriptive caption to a picture or a table.</source>
-        <translation>Agrega un título o imagen a una imagen.
-
-Un título es una línea de texto que aparece debajo de un objeto para describirlo.
-
-Por ejemplo: &quot;Ilustración 7: Patrones
-metereológicos comunes.&quot;</translation>
+        <translation>Agrega un título descriptivo una imagen o tabla.</translation>
     </message>
     <message>
         <source>Insert Caption</source>
@@ -16631,7 +16626,7 @@ Haga clic en la flecha para seleccionar la configuración detallada para el obje
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Bordes externos</translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16737,7 +16732,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-        <translation>Rechazar el cambio actual y eliminar el comentario.</translation>
+        <translation>Rechazar el cambio actual y eliminar el comentario</translation>
     </message>
 </context>
 <context>
@@ -16931,7 +16926,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
     <name>tips.ShadowSetting</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation>Añadir un efecto visual para el objeto seleccionado</translation>
+        <translation>Añadir un efecto visual para el objeto seleccionado.</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
@@ -17090,7 +17085,7 @@ El nivel seleccionado y todos los niveles superiores serán visibles.</translati
     <name>tips.SimplifiedChinese</name>
     <message>
         <source>Convert the document to Simplified Chinese.</source>
-        <translation>Convertir el documento a Chino simplificado</translation>
+        <translation>Convertir el documento a Chino simplificado.</translation>
     </message>
     <message>
         <source>Simplified</source>
@@ -17960,7 +17955,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Delete Selected Comment</source>
-        <translation>Elimina el comentario seleccionado.</translation>
+        <translation>Elimina el comentario seleccionado</translation>
     </message>
 </context>
 <context>
@@ -18620,11 +18615,11 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Restrict</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir edición</translation>
     </message>
     <message>
         <source>Rotate Mode</source>
