@@ -1624,19 +1624,19 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     <name>KxDlgEditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar texto de WordArt</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>Fu&amp;ente:</translation>
+        <translation>F&amp;uente:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>Tama&amp;ño:</translation>
+        <translation>Ta&amp;maño:</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Te&amp;xto:</translation>
     </message>
     <message utf8="true">
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -5344,11 +5344,11 @@ Document</source>
     <name>wordartdlg</name>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galería de WordArt</translation>
     </message>
     <message>
         <source>Select a &amp;WordArt style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seleccione un estilo de WordArt:</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
