@@ -535,83 +535,83 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lento</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Rápido</translation>
     </message>
     <message>
         <source>No Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin transición</translation>
     </message>
     <message>
         <source>Blinds Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Persianas horizontales</translation>
     </message>
     <message>
         <source>Blinds Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Persianas verticales</translation>
     </message>
     <message>
         <source>Box In</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuadro entrante</translation>
     </message>
     <message>
         <source>Box Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuadro saliente</translation>
     </message>
     <message>
         <source>Checkerboard Across</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadros bicolores hacia el lado</translation>
     </message>
     <message>
         <source>Checkerboard Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadros bicolores hacia abajo</translation>
     </message>
     <message>
         <source>Comb Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido horizontal</translation>
     </message>
     <message>
         <source>Comb Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido vertical</translation>
     </message>
     <message>
         <source>Cover Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir hacia abajo</translation>
     </message>
     <message>
         <source>Cover Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir a la izquierda</translation>
     </message>
     <message>
         <source>Cover Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir a la derecha</translation>
     </message>
     <message>
         <source>Cover Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir hacia arriba</translation>
     </message>
     <message>
         <source>Cover Left-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir a la izquierda y abajo</translation>
     </message>
     <message>
         <source>Cover Left-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir a la izquierda y arriba</translation>
     </message>
     <message>
         <source>Cover Right-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir a la derecha y abajo</translation>
     </message>
     <message>
         <source>Cover Right-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir a la derecha y arriba</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -619,263 +619,263 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Cut Through Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar en negro</translation>
     </message>
     <message>
         <source>Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Disolver</translation>
     </message>
     <message>
         <source>Fade Smoothly</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer suavemente</translation>
     </message>
     <message>
         <source>Fade Through Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Desvanecimiento en negro</translation>
     </message>
     <message>
         <source>Newsflash</source>
-        <translation type="unfinished"></translation>
+        <translation>Dar vueltas</translation>
     </message>
     <message>
         <source>Push Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar hacia abajo</translation>
     </message>
     <message>
         <source>Push Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar hacia la izquierda</translation>
     </message>
     <message>
         <source>Push Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar hacia la derecha</translation>
     </message>
     <message>
         <source>Push Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar hacia arriba</translation>
     </message>
     <message>
         <source>Random Bars Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Barras horizontales al azar</translation>
     </message>
     <message>
         <source>Random Bars Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Barras verticales al azar</translation>
     </message>
     <message>
         <source>Shape Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Formar un círculo</translation>
     </message>
     <message>
         <source>Shape Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Formar un rombo</translation>
     </message>
     <message>
         <source>Shape Plus</source>
-        <translation type="unfinished"></translation>
+        <translation>Formar una cruz</translation>
     </message>
     <message>
         <source>Split Horizontal In</source>
-        <translation type="unfinished"></translation>
+        <translation>División horizontal entrante</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
-        <translation type="unfinished"></translation>
+        <translation>División horizontal saliente</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
-        <translation type="unfinished"></translation>
+        <translation>División vertical entrante</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
-        <translation type="unfinished"></translation>
+        <translation>División vertical saliente</translation>
     </message>
     <message>
         <source>Strips Left-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubrir hacia la izquierda y abajo</translation>
     </message>
     <message>
         <source>Strips Left-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubrir hacia la izquierda y arriba</translation>
     </message>
     <message>
         <source>Strips Right-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubrir hacia la derecha y abajo</translation>
     </message>
     <message>
         <source>Strips Right-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubrir hacia al derecha y arriba</translation>
     </message>
     <message>
         <source>Uncover Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar hacia abajo</translation>
     </message>
     <message>
         <source>Uncover Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar hacia la izquierda</translation>
     </message>
     <message>
         <source>Uncover Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar hacia la derecha</translation>
     </message>
     <message>
         <source>Uncover Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar hacia arriva</translation>
     </message>
     <message>
         <source>Uncover Left-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar hacia la izquierda y abajo</translation>
     </message>
     <message>
         <source>Uncover Left-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar hacia la izquierda y arriba</translation>
     </message>
     <message>
         <source>Uncover Right-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar hacia la derecha y abajo</translation>
     </message>
     <message>
         <source>Uncover Right-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar hacia la derecha y arriba</translation>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuña</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 1 Spoke</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda en sentido de agujas del reloj, 1 radio</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 2 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda en sentido de agujas del reloj, 2 radios</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 3 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda en sentido de agujas del reloj, 3 radios</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 4 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda en sentido de agujas del reloj, 4 radios</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 8 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda en sentido de agujas del reloj, 8 radios</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido hacia abajo</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido hacia la izquierda</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido hacia la derecha</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido hacia arriba</translation>
     </message>
     <message>
         <source>Random Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Transición al azar</translation>
     </message>
     <message>
         <source>[No sound]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Sin sonido]</translation>
     </message>
     <message>
         <source>[Stop previous sound]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Detener sonido anterior]</translation>
     </message>
     <message>
         <source>Applause</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplauso</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha</translation>
     </message>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bomba</translation>
     </message>
     <message>
         <source>Breeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisa</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara</translation>
     </message>
     <message>
         <source>Cash Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Caja registradora</translation>
     </message>
     <message>
         <source>Chime</source>
-        <translation type="unfinished"></translation>
+        <translation>Campana</translation>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"></translation>
+        <translation>Moneda</translation>
     </message>
     <message>
         <source>Drum Roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Redoble de tambores</translation>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosión</translation>
     </message>
     <message>
         <source>Hammer</source>
-        <translation type="unfinished"></translation>
+        <translation>Martillo</translation>
     </message>
     <message>
         <source>Laser</source>
-        <translation type="unfinished"></translation>
+        <translation>Láser</translation>
     </message>
     <message>
         <source>Push</source>
-        <translation type="unfinished"></translation>
+        <translation>Empuje</translation>
     </message>
     <message>
         <source>Suction</source>
-        <translation type="unfinished"></translation>
+        <translation>Succión</translation>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Máquina de escribir</translation>
     </message>
     <message>
         <source>Voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltaje</translation>
     </message>
     <message>
         <source>Whoosh</source>
-        <translation type="unfinished"></translation>
+        <translation>Látigo</translation>
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Viento</translation>
     </message>
     <message>
         <source>Other sound...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otro sonido...</translation>
     </message>
     <message>
         <source>Sound Files(*.wav)|*.wav</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de sonido (*.wav)</translation>
     </message>
     <message>
         <source>Add Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar sonido</translation>
     </message>
     <message>
         <source>Used in This Presentation</source>
@@ -891,23 +891,23 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>No animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin animación</translation>
     </message>
     <message>
         <source>Subtle</source>
-        <translation type="unfinished"></translation>
+        <translation>Sutil</translation>
     </message>
     <message>
         <source>Moderate</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderado</translation>
     </message>
     <message>
         <source>Exciting</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamativo</translation>
     </message>
     <message>
         <source>Appear</source>
-        <translation type="unfinished"></translation>
+        <translation>Aparecer</translation>
     </message>
     <message>
         <source>Appear and dim</source>
@@ -1039,7 +1039,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>No Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin animación</translation>
     </message>
     <message>
         <source>Body: Appear</source>
@@ -1549,311 +1549,311 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin estilo ni cuadrícula</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 1 - Acento 1</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 1 - Acento 2</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 1 - Acento 3</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 1 - Acento 4</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 1 - Acento 5</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 1 - Acento 6</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin estilo, cuadrícula de la tabla</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 2 - Acento 1</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 2 - Acento 2</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 2 - Acento 3</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 2 - Acento 4</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 2 - Acento 5</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático 2 - Acento 6</translation>
     </message>
     <message>
         <source>Light Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 1</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 1 - Acento 1</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 1 - Acento 2</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 1 - Acento 3</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 1 - Acento 4</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 1 - Acento 5</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 1 - Acento 6</translation>
     </message>
     <message>
         <source>Light Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 2</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 2 - Acento 1</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 2 - Acento 2</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 2 - Acento 3</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 2 - Acento 4</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 2 - Acento 5</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 2 - Acento 6</translation>
     </message>
     <message>
         <source>Light Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 3</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 3 - Acento 1</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 3 - Acento 2</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 3 - Acento 3</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 3 - Acento 4</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 3 - Acento 5</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro 3 - Acento 6</translation>
     </message>
     <message>
         <source>Medium Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 1</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 1 - Acento 1</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 1 - Acento 2</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 1 - Acento 3</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 1 - Acento 4</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 1 - Acento 5</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 1 - Acento 6</translation>
     </message>
     <message>
         <source>Medium Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 2</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 2 - Acento 1</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 2 - Acento 2</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 2 - Acento 3</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 2 - Acento 4</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Medium Style 2 - Accent 5</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 2 - Acento 6</translation>
     </message>
     <message>
         <source>Medium Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 3</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 3 - Acento 1</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 3 - Acento 2</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 3 - Acento 3</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 3 - Acento 4</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 3 - Acento 5</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 3 - Acento 6</translation>
     </message>
     <message>
         <source>Medium Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 4</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 4 - Acento 1</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 4 - Acento 2</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 4 - Acento 3</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 4 - Acento 4</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 4 - Acento 5</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio 4 - Acento 6</translation>
     </message>
     <message>
         <source>Dark Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 1</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 1 - Acento 1</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 1 - Acento 2</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 1 - Acento 3</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 1 - Acento 4</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 1 - Acento 5</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 1 - Acento 6</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 2</translation>
     </message>
     <message>
         <source>Dark Style 2 - Accent 1/Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 2 - Acento 1/Acento 2</translation>
     </message>
     <message>
         <source>Dark Style 2 - Accent 3/Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 2 - Acento 3/Acento 4</translation>
     </message>
     <message>
         <source>Dark Style 2 - Accent 5/Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 2 - Acento 5/Acento 6</translation>
     </message>
     <message>
         <source>Best Match for Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejor coincidencia de documento</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
     <message>
         <source>Converting from Traditional to Simplified...</source>
@@ -2858,7 +2858,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Appear</source>
-        <translation type="unfinished"></translation>
+        <translation>Aparecer</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -3190,7 +3190,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Exciting</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamativo</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
@@ -3390,7 +3390,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Moderate</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderado</translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -3710,7 +3710,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Subtle</source>
-        <translation type="unfinished"></translation>
+        <translation>Sutil</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has finished searching the presentation. %d replacements were made.</source>

@@ -153,15 +153,15 @@
     <name>DlgFindReplace</name>
     <message>
         <source>FindReplaceDlg</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation type="unfinished"></translation>
+        <translation>Coincidir &amp;mayúsculas y minúsculas</translation>
     </message>
     <message>
         <source>Find &amp;whole words only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo p&amp;alabras completas</translation>
     </message>
     <message>
         <source>Match half/full width for&amp;ms</source>
@@ -169,27 +169,27 @@
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar &amp;siguiente</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reemplazar...</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar &amp;todas</translation>
     </message>
     <message>
         <source>Fi&amp;nd What:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Buscar:</translation>
     </message>
     <message>
         <source>Re&amp;place with:</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;eemplazar con:</translation>
     </message>
 </context>
 <context>
@@ -262,23 +262,23 @@
     <name>DlgKxSetupShow</name>
     <message>
         <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar presentación</translation>
     </message>
     <message>
         <source>Show type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de presentación</translation>
     </message>
     <message>
         <source>&amp;Presented by a speaker(Full screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizada por un &amp;orador (pantalla completa)</translation>
     </message>
     <message>
         <source>Browsed at a &amp;kiosk(Full screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xaminada en esposición (pantalla completa)</translation>
     </message>
     <message>
         <source>&amp;Browsed by an individual(window)</source>
-        <translation type="unfinished"></translation>
+        <translation>Examinada de forma individual (ventana)</translation>
     </message>
     <message>
         <source>S&amp;how Scrollbar</source>
@@ -286,63 +286,63 @@
     </message>
     <message>
         <source>Show options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de presentación</translation>
     </message>
     <message>
         <source>&amp;Loop continuously until &apos;Esc&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Repetir el ciclo hasta presionar &apos;Esc&apos;</translation>
     </message>
     <message>
         <source>P&amp;en color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Color de la pluma:</translation>
     </message>
     <message>
         <source>&amp;Show Without Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin &amp;animación</translation>
     </message>
     <message>
         <source>Show Without &amp;Narration</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar sin &amp;narración</translation>
     </message>
     <message>
         <source>Show slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar diapositivas</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Todas</translation>
     </message>
     <message>
         <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Desde:</translation>
     </message>
     <message>
         <source>&amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hasta:</translation>
     </message>
     <message>
         <source>&amp;Custom show:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Presentación personalizada:</translation>
     </message>
     <message>
         <source>Advance slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Avance de diapositivas</translation>
     </message>
     <message>
         <source>&amp;Manually</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Manual</translation>
     </message>
     <message>
         <source>&amp;Using timings, if present</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usar los intervalos de diapositiva guardados</translation>
     </message>
     <message>
         <source>Multiple monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>Varios monitores</translation>
     </message>
     <message>
         <source>Display slide show &amp;on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar presentación &amp;en:</translation>
     </message>
     <message>
         <source>Double-&amp;Screen Extend Mode Guide</source>
@@ -350,7 +350,7 @@
     </message>
     <message>
         <source>Sho&amp;w presenter view</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar v&amp;ista del oredador</translation>
     </message>
 </context>
 <context>
@@ -3072,19 +3072,19 @@
     <name>KxTpSlideTransition</name>
     <message>
         <source>Apply to selected slides:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a las diapositivas seleccionadas:</translation>
     </message>
     <message>
         <source>Modify transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar transición</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad:</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonido:</translation>
     </message>
     <message>
         <source>loop play, to the next voice began</source>
@@ -3092,15 +3092,15 @@
     </message>
     <message>
         <source>Advance slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzar a la diapositiva</translation>
     </message>
     <message>
         <source>On mouse click</source>
-        <translation type="unfinished"></translation>
+        <translation>Al hacer clic con el mouse</translation>
     </message>
     <message>
         <source>Automatically after</source>
-        <translation type="unfinished"></translation>
+        <translation>Automáticamente después de:</translation>
     </message>
     <message>
         <source>Rehearse Current Page</source>
@@ -3112,15 +3112,15 @@
     </message>
     <message>
         <source>Apply to All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a todo</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Presentación</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -3774,239 +3774,239 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguna</translation>
     </message>
     <message>
         <source>Blinds 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Persianas 1</translation>
     </message>
     <message>
         <source>Blinds 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Persianas 2</translation>
     </message>
     <message>
         <source>Box In</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuadro entrante</translation>
     </message>
     <message>
         <source>Box Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuadro saliente</translation>
     </message>
     <message>
         <source>Chess 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadros bicolores 1</translation>
     </message>
     <message>
         <source>Chess 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadros bicolores 2</translation>
     </message>
     <message>
         <source>Comb 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido 1</translation>
     </message>
     <message>
         <source>Comb 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido 2</translation>
     </message>
     <message>
         <source>Cover Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir hacia abajo</translation>
     </message>
     <message>
         <source>Cover Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir a la izquierda</translation>
     </message>
     <message>
         <source>Cover Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir a la derecha</translation>
     </message>
     <message>
         <source>Cover Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir hacia arriba</translation>
     </message>
     <message>
         <source>Cover 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir 1</translation>
     </message>
     <message>
         <source>Cover 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir 2</translation>
     </message>
     <message>
         <source>Cover 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir 3</translation>
     </message>
     <message>
         <source>Cover 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubrir 4</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Cut Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar en negro</translation>
     </message>
     <message>
         <source>Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Disolver</translation>
     </message>
     <message>
         <source>Fade Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer suavemente</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Desvanecimiento en negro</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Dar vueltas</translation>
     </message>
     <message>
         <source>Push Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar hacia abajo</translation>
     </message>
     <message>
         <source>Push Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar hacia la izquierda</translation>
     </message>
     <message>
         <source>Push Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar hacia la derecha</translation>
     </message>
     <message>
         <source>Push Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar hacia arriba</translation>
     </message>
     <message>
         <source>Random 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Barras horizontales 1</translation>
     </message>
     <message>
         <source>Random 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Barras verticales 2</translation>
     </message>
     <message>
         <source>Circle Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Formar un círculo</translation>
     </message>
     <message>
         <source>Diamond Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Formar un rombo</translation>
     </message>
     <message>
         <source>Plus Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Formar una cruz</translation>
     </message>
     <message>
         <source>Split 1</source>
-        <translation type="unfinished"></translation>
+        <translation>División 1</translation>
     </message>
     <message>
         <source>Split 2</source>
-        <translation type="unfinished"></translation>
+        <translation>División 2</translation>
     </message>
     <message>
         <source>Split 3</source>
-        <translation type="unfinished"></translation>
+        <translation>División 3</translation>
     </message>
     <message>
         <source>Split 4</source>
-        <translation type="unfinished"></translation>
+        <translation>División 4</translation>
     </message>
     <message>
         <source>Strips 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubrir 1</translation>
     </message>
     <message>
         <source>Strips 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubrir 2</translation>
     </message>
     <message>
         <source>Strips 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubrir 3</translation>
     </message>
     <message>
         <source>Strips 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubrir 4</translation>
     </message>
     <message>
         <source>Uncover 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 1</translation>
     </message>
     <message>
         <source>Uncover 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 2</translation>
     </message>
     <message>
         <source>Uncover 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 3</translation>
     </message>
     <message>
         <source>Uncover 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 4</translation>
     </message>
     <message>
         <source>Uncover 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 5</translation>
     </message>
     <message>
         <source>Uncover 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 6</translation>
     </message>
     <message>
         <source>Uncover 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 7</translation>
     </message>
     <message>
         <source>Uncover 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 8</translation>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuña</translation>
     </message>
     <message>
         <source>Wheel 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda 1</translation>
     </message>
     <message>
         <source>Wheel 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda 2</translation>
     </message>
     <message>
         <source>Wheel 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda 3</translation>
     </message>
     <message>
         <source>Wheel 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda 4</translation>
     </message>
     <message>
         <source>Wheel 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Rueda 8</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido hacia abajo</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido hacia la izquierda</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido hacia la derecha</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrido hacia arriba</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Transición al azar</translation>
     </message>
 </context>
 <context>
