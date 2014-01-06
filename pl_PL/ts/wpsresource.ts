@@ -4577,27 +4577,27 @@ Different New Document</source>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do spodu</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj centralnie</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do środka</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do góry</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -4609,11 +4609,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Za tekstem</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Czarno biały</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -4629,7 +4629,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmień obraz</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4641,11 +4641,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komresuj Obrazy</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wykardruj</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -4685,11 +4685,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć horyzontalnie</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć wertykalnie</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -4709,11 +4709,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odcienie szarości</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Siatka</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -4737,11 +4737,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Clip Art</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Obraz</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -4749,11 +4749,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmniejsz Jasność</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmniejsz Kontrast</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -4769,11 +4769,11 @@ Different New Document</source>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zwiększ Jasność</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zwiększ Kontrast</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -4793,7 +4793,7 @@ Different New Document</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez cienia</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4809,7 +4809,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Picture Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dostosuj Obrazek</translation>
     </message>
     <message>
         <source>Picture Fill</source>
@@ -4833,7 +4833,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resetuj Obrazek</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -4881,95 +4881,95 @@ Different New Document</source>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Włącz Cień</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ustawienia Cienia</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 15</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Cienia 9</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -5072,7 +5072,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Powiększenie</translation>
     </message>
 </context>
 <context>
@@ -5095,7 +5095,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przypisy</translation>
     </message>
     <message>
         <source>Insert
@@ -5112,39 +5112,39 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Level 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 1</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 2</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 3</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 4</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 5</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 6</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 7</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 8</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poziom 9</translation>
     </message>
     <message>
         <source>Mail Merge</source>
@@ -5235,7 +5235,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuń Wszystkie Komentarze w tym dokumencie</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -5251,7 +5251,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dodaj Komentarz</translation>
     </message>
     <message>
         <source>Language</source>
@@ -5311,7 +5311,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -18400,7 +18400,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New File</source>
-        <translation></translation>
+        <translation>Nowy Plik</translation>
     </message>
     <message>
         <source>New from Default Template</source>
