@@ -12,79 +12,79 @@
     <name>CTableStyle</name>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin estilo ni cuadrícula</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo temático</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin estilo, cuadrícula de la tabla</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo claro</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 2 - Énfasis 1/Énfasis 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 2 - Énfasis 3/Énfasis 4</translation>
     </message>
     <message>
         <source>Dark Styl 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo oscuro 2 - Énfasis 5/Énfasis 6</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera fila</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Última fila</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Filas con bandas</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas con bandas</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera columna</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Última columna</translation>
     </message>
 </context>
 <context>
@@ -196,46 +196,46 @@
     <name>DlgKxCustomShows</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Presentaciones personalizadas</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Presentaciones personalizadas:</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nueva...</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modi&amp;ficar...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Quitar</translation>
     </message>
     <message>
         <source>Cop&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Copiar</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce&amp;rrar</translation>
     </message>
     <message>
         <source>&amp;Show</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mostrar</translation>
     </message>
 </context>
 <context>
     <name>DlgKxDefineCustomShows</name>
     <message>
         <source>Define Custom Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir presentación personalizada</translation>
     </message>
     <message>
         <source>Slide show &amp;name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nombre de la presentación con diapositivas:</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -243,19 +243,19 @@
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diapositivas de la presentación:</translation>
     </message>
     <message>
         <source>&amp;Add &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Agregar &gt;&gt;</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Quitar</translation>
     </message>
     <message>
         <source>S&amp;lides in custom show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivas de la presentación personali&amp;zada:</translation>
     </message>
 </context>
 <context>
@@ -913,23 +913,23 @@
     <name>KxDlgBackground</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Fondo</translation>
     </message>
     <message>
         <source>&amp;Background fill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Relleno de fondo</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplicar</translation>
     </message>
     <message>
         <source>Apply &amp;to All</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a &amp;todo</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vista previa</translation>
     </message>
     <message>
         <source>I&amp;gnor the back ground of main</source>
@@ -937,14 +937,14 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBkgndMusicTip</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -982,98 +982,98 @@
     <name>KxDlgBulletsNumbering</name>
     <message>
         <source>Bullet and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Numeración y viñetas</translation>
     </message>
     <message>
         <source>Bulleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Con viñetas</translation>
     </message>
     <message>
         <source>S&amp;ize:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tamaño:</translation>
     </message>
     <message>
         <source>% of text</source>
-        <translation type="unfinished"></translation>
+        <translation>% de texto</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Color:</translation>
     </message>
     <message>
         <source>&amp;Picture...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Imagen...</translation>
     </message>
     <message>
         <source>C&amp;ustomize...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pers&amp;onalizar...</translation>
     </message>
     <message>
         <source>Numbered</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerada</translation>
     </message>
     <message>
         <source>&amp;Begin at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comen&amp;zar por:</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restablecer</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortografía y gramática</translation>
     </message>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation>Párrafo:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>La palabra no está en el diccionario</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabiar a:</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sug&amp;erencias:</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cambiar</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Cam&amp;biar todas</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Om&amp;itir una vez</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir toda&amp;s</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;gregar al diccionario</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opciones...</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1081,18 +1081,18 @@
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer idioma de corrección ortográfica</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha y hora</translation>
     </message>
     <message>
         <source>&amp;Available formats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato&amp;s disponibles:</translation>
     </message>
     <message>
         <source>&amp;Language(Country/Area):</source>
@@ -1100,7 +1100,7 @@
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Actualizar automáticamente</translation>
     </message>
 </context>
 <context>
@@ -1126,7 +1126,7 @@
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
@@ -1943,7 +1943,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2101,47 +2101,47 @@
     <name>KxDlgViewZoom</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Zoom to</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>&amp;Fix</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajustar</translation>
     </message>
     <message>
         <source>&amp;400%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;400%</translation>
     </message>
     <message>
         <source>&amp;200%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;200%</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;100%</translation>
     </message>
     <message>
         <source>&amp;66%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;66%</translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;50%</translation>
     </message>
     <message>
         <source>&amp;33%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;33%</translation>
     </message>
     <message>
         <source>&amp;Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Porcentaje:</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
 </context>
 <context>
@@ -3172,7 +3172,7 @@
     <name>KxWidgetPosition</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Position on slide</source>
@@ -4214,27 +4214,27 @@
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Order:</source>
@@ -4341,22 +4341,22 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>kdlgFormatTable</name>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde</translation>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Estilo:</translation>
     </message>
     <message>
         <source>lwLineStyle</source>
@@ -4364,7 +4364,7 @@
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;olor:</translation>
     </message>
     <message>
         <source>cmbBorderColor</source>
@@ -4372,7 +4372,7 @@
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anc&amp;ho:</translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
@@ -4380,7 +4380,7 @@
     </message>
     <message>
         <source>Click on diagram below or use buttons to apply borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en uno de los diagramas de abajo o use los botones para aplicar bordes.</translation>
     </message>
     <message>
         <source>btnBorderUp</source>
@@ -4542,7 +4542,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 </TS>
