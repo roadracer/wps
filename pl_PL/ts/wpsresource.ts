@@ -422,59 +422,59 @@
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl Strzałki 9</translation>
     </message>
     <message>
         <source>Auto Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Autokształty</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przed tekstem</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -542,15 +542,15 @@
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć Horyzontalnie</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć Wertykalnie</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolor Czcionki</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -582,15 +582,15 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Clip Art</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Obraz</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw WordArt</translation>
     </message>
     <message>
         <source>Left</source>
@@ -3213,11 +3213,11 @@ On</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do Lewej</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do Prawej</translation>
     </message>
     <message>
         <source>All Borders</source>
@@ -3229,7 +3229,7 @@ On</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pogróbienie</translation>
     </message>
     <message>
         <source>Border and shading</source>
@@ -3265,11 +3265,11 @@ On</source>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyczyść style</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schowek</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -3394,11 +3394,11 @@ Painter</source>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyjustuj</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lewy Margines</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3434,7 +3434,7 @@ Painter</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez Marginesów</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -3522,7 +3522,7 @@ Painter</source>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Style / Formatowanie</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -3616,11 +3616,11 @@ Painter</source>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konwertuj Tabele na Tekst</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konwertuj Tekst na Tabele</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -3688,7 +3688,7 @@ Painter</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horyzontalnie</translation>
     </message>
     <message>
         <source>Horizontal Blank Page</source>
@@ -3704,23 +3704,23 @@ Painter</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Clip Art</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Obraz</translation>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Obraz z Pliku</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Obraz ze Skanera</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wstaw Skan</translation>
     </message>
     <message>
         <source>Links</source>
@@ -3728,7 +3728,7 @@ Painter</source>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Więcej symboli</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -12718,63 +12718,63 @@ Other Window</source>
     <name>rainbow.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6 pt</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do Dołu</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do Środka</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do Lewej</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"<>/translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do Prawej</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -17716,7 +17716,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -17727,7 +17727,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Page Borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Marginesy Strony</translation>
     </message>
 </context>
 <context>
@@ -17787,7 +17787,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nowy Styl</translation>
     </message>
     <message>
         <source>Show the New Style dialog box, and create a new style in the Styles and Formatting task pane.</source>
@@ -18002,7 +18002,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpsclassics.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wrter</translation>
     </message>
 </context>
 <context>
