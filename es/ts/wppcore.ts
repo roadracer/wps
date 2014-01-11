@@ -5,87 +5,87 @@
     <name>aeobean</name>
     <message>
         <source>Applause</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplauso</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha</translation>
     </message>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bomba</translation>
     </message>
     <message>
         <source>Breeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisa</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara</translation>
     </message>
     <message>
         <source>Cash register</source>
-        <translation type="unfinished"></translation>
+        <translation>Caja registradora</translation>
     </message>
     <message>
         <source>Chime</source>
-        <translation type="unfinished"></translation>
+        <translation>Campana</translation>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"></translation>
+        <translation>Moneda</translation>
     </message>
     <message>
         <source>Drum roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Redoble de tambores</translation>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosión</translation>
     </message>
     <message>
         <source>Hammer</source>
-        <translation type="unfinished"></translation>
+        <translation>Martillo</translation>
     </message>
     <message>
         <source>Laser</source>
-        <translation type="unfinished"></translation>
+        <translation>Láser</translation>
     </message>
     <message>
         <source>Push</source>
-        <translation type="unfinished"></translation>
+        <translation>Empuje</translation>
     </message>
     <message>
         <source>Suction</source>
-        <translation type="unfinished"></translation>
+        <translation>Succión</translation>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Máquina de escribir</translation>
     </message>
     <message>
         <source>Voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltaje</translation>
     </message>
     <message>
         <source>Whoosh</source>
-        <translation type="unfinished"></translation>
+        <translation>Látigo</translation>
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Viento</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animación personalizada</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Text</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>Split Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir celda</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -163,19 +163,19 @@
     </message>
     <message>
         <source>Insert Columns to the Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar columnas a la izquierda</translation>
     </message>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar columnas a la derecha</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar columnas</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar filas</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -203,11 +203,11 @@
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar la dirección del texto</translation>
     </message>
     <message>
         <source>Edit Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar tabla</translation>
     </message>
 </context>
 <context>
@@ -292,11 +292,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastrar y soltar</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicar</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -479,7 +479,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Click to add first slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para añadir la primera diapositiva</translation>
     </message>
     <message>
         <source>Custom Design</source>
@@ -487,11 +487,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Default Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño por defecto</translation>
     </message>
     <message>
         <source>Read-Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo lectura</translation>
     </message>
     <message>
         <source>Slide</source>
@@ -879,15 +879,15 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Used in This Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizado en esta presentación</translation>
     </message>
     <message>
         <source>Recently Used</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizado ​​recientemente</translation>
     </message>
     <message>
         <source>Available For Use</source>
-        <translation type="unfinished"></translation>
+        <translation>Disponible para utilizar</translation>
     </message>
     <message>
         <source>No animation</source>
@@ -1967,7 +1967,7 @@ Fifth level</source>
     <name>wpprender</name>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -1975,11 +1975,11 @@ Fifth level</source>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositiva %d</translation>
     </message>
     <message>
         <source>Slide%d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositiva%d</translation>
     </message>
 </context>
 <context>
@@ -1998,15 +1998,15 @@ Fifth level</source>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animación personalizada</translation>
     </message>
     <message>
         <source>1 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>1 cm</translation>
     </message>
     <message>
         <source>2 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>2 cm</translation>
     </message>
     <message>
         <source>2 grids per cm</source>
@@ -2014,7 +2014,7 @@ Fifth level</source>
     </message>
     <message>
         <source>3 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>3 cm</translation>
     </message>
     <message>
         <source>3 grids per cm</source>
@@ -2022,7 +2022,7 @@ Fifth level</source>
     </message>
     <message>
         <source>4 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>4 cm</translation>
     </message>
     <message>
         <source>4 grids per cm</source>
@@ -2030,7 +2030,7 @@ Fifth level</source>
     </message>
     <message>
         <source>5 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 cm</translation>
     </message>
     <message>
         <source>5 grids per cm</source>
@@ -2050,7 +2050,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <source>Add Effect</source>
@@ -2074,7 +2074,7 @@ Fifth level</source>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las diapositivas</translation>
     </message>
     <message>
         <source>Hide After Animation</source>
@@ -2262,11 +2262,11 @@ Fifth level</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>&amp;Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Horizontal</translation>
     </message>
     <message>
         <source>Split Horizontal In</source>
@@ -2454,11 +2454,11 @@ Fifth level</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertical</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
@@ -3506,11 +3506,11 @@ Fifth level</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Color</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -3542,7 +3542,7 @@ Fifth level</source>
     </message>
     <message>
         <source>&amp;Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de &amp;fuente</translation>
     </message>
     <message>
         <source>Font Style</source>
@@ -3558,7 +3558,7 @@ Fifth level</source>
     </message>
     <message>
         <source>&amp;Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de &amp;línea</translation>
     </message>
     <message>
         <source>Size</source>
@@ -3890,7 +3890,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad:</translation>
     </message>
     <message>
         <source>Sp&amp;eed:</source>
@@ -3898,7 +3898,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Rápido</translation>
     </message>
     <message>
         <source>%d seconds(Fast)</source>
@@ -3922,7 +3922,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Very Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy rápido</translation>
     </message>
     <message>
         <source>%.1f seconds(Very Fast)</source>
@@ -3930,7 +3930,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Very Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy lento</translation>
     </message>
     <message>
         <source>%d seconds(Very Slow)</source>
@@ -4106,7 +4106,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de página</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -4214,11 +4214,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation>No se puede deshacer</translation>
+        <translation>&apos;No se puede deshacer</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation>No se puede repetir</translation>
+        <translation>No se puede repeti&apos;r</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -4298,7 +4298,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Duplicate Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar diapositiva duplicada</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -4414,7 +4414,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar la dirección del texto</translation>
     </message>
     <message>
         <source>Increase Paragraph Spacing</source>
@@ -4806,7 +4806,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -4842,11 +4842,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Play the Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir animación</translation>
     </message>
     <message>
         <source>Play background music</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir música de fondo</translation>
     </message>
 </context>
 </TS>
