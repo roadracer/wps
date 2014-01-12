@@ -8197,7 +8197,7 @@ t</source>
     </message>
     <message>
         <source>Microsoft Excel 2003 File (*.xls)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Microsoft Excel 2003 (*.xls)</translation>
     </message>
     <message>
         <source>integer</source>
