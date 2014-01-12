@@ -23,11 +23,11 @@
     <name>KxTpOnlineTemplateWidget</name>
     <message>
         <source>Using Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Usando plantilla</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantillas en línea</translation>
     </message>
     <message>
         <source>My Favorit</source>
@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>Local Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantillas locales</translation>
     </message>
 </context>
 <context>

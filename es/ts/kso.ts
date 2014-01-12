@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Object Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto eliminado</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Unknown Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error desconocido</translation>
     </message>
     <message>
         <source>Invalid Argument</source>
@@ -39,72 +39,76 @@
         <source>Temporary directory does not exist or failed to create temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>El directorio temporal no existe o ha fallado la creación del directorio temporal.
+
+Por favor, compruebe la configuración de su sistema y asegúrese de que el directorio temporal es accesible al usuario actual, y luego reinice Kingsoft Office.</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>El usuario actual no tiene permiso para escribir en el directorio temporal.
+
+Por favor, compruebe la configuración de su sistema y asegúrese de que el directorio temporal es accesible al usuario actual, y luego reinice Kingsoft Office.</translation>
     </message>
 </context>
 <context>
     <name>copypaste</name>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto sin formato</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como texto sin ningún formato.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Writer</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Writer.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Writer.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Spreadsheets.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Presentation.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Mail</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Mail.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Mail.</translation>
     </message>
     <message>
         <source>Data of WPS Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
-        <translation type="unfinished"></translation>
+        <translation>%s Objeto</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como un objeto OLE.</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
@@ -124,35 +128,35 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (PNG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen PNG.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (JFIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen JFIF.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (GIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen GIF.</translation>
     </message>
     <message>
         <source>Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de bits</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen de mapa de bits.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
@@ -160,35 +164,35 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (JPG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (JPG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPEG picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen JPEG.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto con formato (RTF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text with font and table formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapeles se insertará como texto con formato de fuente y tabla.</translation>
     </message>
     <message>
         <source>HTML Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato HTML</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como formato HTML.</translation>
     </message>
     <message>
         <source>MS Office Drawing Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto de dibujo de MS Office</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Office Drawing.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como Office Drawing.</translation>
     </message>
     <message>
         <source>FILES</source>
@@ -4437,8 +4441,10 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
-To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
-If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
