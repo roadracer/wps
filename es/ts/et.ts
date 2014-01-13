@@ -105,11 +105,11 @@
     </message>
     <message>
         <source>Cell value is</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor de la celda es</translation>
     </message>
     <message>
         <source>Formula is</source>
-        <translation type="unfinished"></translation>
+        <translation>La fórmula es</translation>
     </message>
     <message>
         <source>between</source>
@@ -829,7 +829,7 @@ la condición es verdadera: </translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entero</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -3457,7 +3457,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño</translation>
     </message>
     <message>
         <source>Display Options</source>
@@ -4800,7 +4800,7 @@ protected.</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso</translation>
     </message>
     <message>
         <source>Information</source>
@@ -4885,7 +4885,7 @@ protected.</source>
     </message>
     <message>
         <source>Source is open</source>
-        <translation type="unfinished"></translation>
+        <translation>La fuente está abierta</translation>
     </message>
     <message>
         <source>Error: Source not found</source>
@@ -4905,15 +4905,15 @@ protected.</source>
     </message>
     <message>
         <source>Warning: Values not updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso: Valores no actualizados</translation>
     </message>
     <message>
         <source>Warning: Source not recalculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso: Fuente no recalculada</translation>
     </message>
     <message>
         <source>Warning: Open source to update values</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso: Abra la fuente para actualizar los valores</translation>
     </message>
 </context>
 <context>
@@ -6124,11 +6124,11 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>The changes to Standard Font and FontSize won&apos;t take effect until you create a new Workbook.</source>
-        <translation>Los cambios a la fuente predeterminada y el tamaño de fuente no tendrán efecto hasta que cree un uevo libro.</translation>
+        <translation>Los cambios a la fuente predeterminada y el tamaño de fuente no surtirán efecto hasta que cree un uevo libro.</translation>
     </message>
     <message>
         <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart Kingsoft Spreadsheets.</source>
-        <translation>Los cambios a números decimales no tendrán efecto hasta que cierre y vuelva a iniciar Kingsoft Spreadsheets.</translation>
+        <translation>Los cambios a números decimales no surtirán efecto hasta que cierre y vuelva a iniciar Kingsoft Spreadsheets.</translation>
     </message>
 </context>
 <context>
@@ -8885,7 +8885,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Note: only if you set the password, the following permission settings will take effect, and will prevent the settings from being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: sólo si establece la contraseña la siguiente configuración de permisos surtirá efecto y evitará que la configuración sea cambiada por otros.</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>

@@ -16,7 +16,7 @@
     <name>KWppOnlineTemplate</name>
     <message>
         <source>Blank Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño en blanco</translation>
     </message>
 </context>
 <context>

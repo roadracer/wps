@@ -2519,7 +2519,7 @@ File: %s
     <message>
         <source> Professional</source>
         <comment>versionType</comment>
-        <translation> Profesional</translation>
+        <translation> Professional</translation>
     </message>
     <message>
         <source> Persional</source>
@@ -2678,27 +2678,27 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo documento</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva presentación</translation>
     </message>
     <message>
         <source>New Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo libro</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos recientes</translation>
     </message>
     <message>
         <source>Recent presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Presentaciones recientes</translation>
     </message>
     <message>
         <source>Recent workbooks</source>
-        <translation type="unfinished"></translation>
+        <translation>Libros recientes</translation>
     </message>
     <message>
         <source>10%</source>
