@@ -1214,6 +1214,10 @@ To fix the links, select a single sheet and click Edit Links.</source>
         <source>Forming Sensitivity Report...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>No cells were found.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_appcore</name>
@@ -4439,6 +4443,14 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Returns the price per $100 face value of a security that pays periodic interest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GETPIVOTDATA(data_field, pivot_table, field, item,...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extracts data stored in a PivotTable.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8135,6 +8147,18 @@ The values which can be typed here is restricted by other users.</source>
         <source>
 
 Continue ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active document is not a worksheet or in unprotected state.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot execute this command in Group Edit mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit range without a password</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1849,6 +1849,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Column Popup Menu</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1965,6 +1969,14 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Find All Local Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Direct Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2049,7 +2061,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MsgAtMe</source>
+        <source>More Colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2185,7 +2197,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S MsgAtMe</source>
+        <source>S CloudLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2334,10 +2346,6 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change User Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Chart Tools</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2391,6 +2399,14 @@ Window</source>
     </message>
     <message>
         <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2538,10 +2554,6 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change User Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Chart Tools</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2591,6 +2603,14 @@ Window</source>
     </message>
     <message>
         <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3448,6 +3468,14 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3609,6 +3637,10 @@ On</source>
     </message>
     <message>
         <source>Update Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Feedback by mail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5498,6 +5530,10 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6282,6 +6318,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My Account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6945,11 +6985,23 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Change Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6961,15 +7013,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View User Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8093,6 +8145,14 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10100,6 +10160,10 @@ Other Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10849,6 +10913,10 @@ Other Windows</source>
     </message>
     <message>
         <source>KOS Cloud Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12653,6 +12721,17 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
@@ -12758,6 +12837,17 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.LoadMacro</name>
+    <message>
+        <source>LoadMacro Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LoadMacro Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14639,6 +14729,14 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14647,15 +14745,15 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

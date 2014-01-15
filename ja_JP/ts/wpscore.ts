@@ -3476,6 +3476,10 @@ To continue saving as a macro-free workbook, click Yes.</source>
 .</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsshell::wpsshell</name>
@@ -4666,6 +4670,26 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>The checkbox or drop-down form field in vertical text is ignored, so it cannot be shown.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

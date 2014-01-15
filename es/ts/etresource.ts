@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
 <defaultcodec>UTF-8</defaultcodec>
@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Color 3-D</translation>
+        <translation>Color 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3-D</translation>
+        <translation>Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Más colores 3-D</translation>
+        <translation>Más colores 3D</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -266,91 +266,91 @@
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Configuración de 3-D</translation>
+        <translation>Configuración de 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Estilo 3-D</translation>
+        <translation>Estilo 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>Estilo 3-D 1</translation>
+        <translation>Estilo 3D 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>Estilo 3-D 10</translation>
+        <translation>Estilo 3D 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>Estilo 3-D 11</translation>
+        <translation>Estilo 3D 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>Estilo 3-D 12</translation>
+        <translation>Estilo 3D 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>Estilo 3-D 13</translation>
+        <translation>Estilo 3D 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>Estilo 3-D 14</translation>
+        <translation>Estilo 3D 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>Estilo 3-D 15</translation>
+        <translation>Estilo 3D 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>Estilo 3-D 16</translation>
+        <translation>Estilo 3D 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>Estilo 3-D 17</translation>
+        <translation>Estilo 3D 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>Estilo 3-D 18</translation>
+        <translation>Estilo 3D 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>Estilo 3-D 19</translation>
+        <translation>Estilo 3D 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>Estilo 3-D 2</translation>
+        <translation>Estilo 3D 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>Estilo 3-D 20</translation>
+        <translation>Estilo 3D 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>Estilo 3-D 3</translation>
+        <translation>Estilo 3D 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>Estilo 3-D 4</translation>
+        <translation>Estilo 3D 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>Estilo 3-D 5</translation>
+        <translation>Estilo 3D 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>Estilo 3-D 6</translation>
+        <translation>Estilo 3D 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>Estilo 3-D 7</translation>
+        <translation>Estilo 3D 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>Estilo 3-D 8</translation>
+        <translation>Estilo 3D 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>Estilo 3-D 9</translation>
+        <translation>Estilo 3D 9</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -582,7 +582,7 @@
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Sin 3-D</translation>
+        <translation>Sin 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -1704,7 +1704,7 @@ centrar</translation>
     <name>etclassics.mainwindow.commands</name>
     <message>
         <source>3-D Settings</source>
-        <translation>Configuración de 3-D</translation>
+        <translation>Configuración de 3D</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -1854,6 +1854,10 @@ centrar</translation>
         <translation>Panel del portapapeles</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Column Popup Menu</source>
         <translation>Menú emergente de columna</translation>
     </message>
@@ -1955,7 +1959,7 @@ centrar</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comentarios</translation>
     </message>
     <message>
         <source>File</source>
@@ -1968,6 +1972,14 @@ centrar</translation>
     <message>
         <source>Find</source>
         <translation>Buscar</translation>
+    </message>
+    <message>
+        <source>Find All Local Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Direct Reference</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format</source>
@@ -2054,7 +2066,7 @@ centrar</translation>
         <translation>Materiales</translation>
     </message>
     <message>
-        <source>MsgAtMe</source>
+        <source>More Colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2191,7 +2203,7 @@ centrar</translation>
         <translation>Menú emergente de fila</translation>
     </message>
     <message>
-        <source>S MsgAtMe</source>
+        <source>S CloudLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2321,7 +2333,7 @@ de tarea</translation>
     <name>etcommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Spreadsheets Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda de Kingsoft Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -2335,7 +2347,7 @@ de tarea</translation>
     <name>etongmani.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -2346,7 +2358,7 @@ de tarea</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation type="unfinished">Cambiar información de usuario</translation>
+        <translation type="obsolete">Cambiar información de usuario</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2403,6 +2415,14 @@ de tarea</translation>
     <message>
         <source>Insert</source>
         <translation>Insertar</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Log off</source>
@@ -2543,7 +2563,7 @@ de tarea</translation>
     <name>etrainbow.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -2554,7 +2574,7 @@ de tarea</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation>Cambiar información de usuario</translation>
+        <translation type="obsolete">Cambiar información de usuario</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2607,6 +2627,14 @@ de tarea</translation>
     <message>
         <source>Insert</source>
         <translation>Insertar</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Log off</source>
@@ -3113,12 +3141,12 @@ OLE DB Query</source>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
+        <translation>3D
 Activado</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3-D Activado</translation>
+        <translation>3D Activado</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -3464,6 +3492,14 @@ Activado</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Protección del documento y propiedades</translation>
     </message>
@@ -3477,7 +3513,7 @@ Activado</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comentarios</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -3634,6 +3670,10 @@ Activado</translation>
     <message>
         <source>Update Online</source>
         <translation>Actualizar en línea</translation>
+    </message>
+    <message>
+        <source>User Feedback by mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -5387,7 +5427,7 @@ On/Off</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer idioma de correción ortográfica</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -5426,15 +5466,15 @@ On/Off</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Color 3-D</translation>
+        <translation>Color 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3-D</translation>
+        <translation>Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Configuración de 3-D</translation>
+        <translation>Configuración de 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -5482,7 +5522,7 @@ On/Off</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Más colores 3-D</translation>
+        <translation>Más colores 3D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -5490,7 +5530,7 @@ On/Off</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Sin 3-D</translation>
+        <translation>Sin 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -5631,6 +5671,10 @@ otras ventanas</translation>
         <translation>Macros</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation>Más controles</translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation>Más ventanas</translation>
     </message>
@@ -5719,7 +5763,7 @@ de tarea</translation>
     <name>ongmani.ct_view.window</name>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar ventana</translation>
     </message>
     <message>
         <source>Split</source>
@@ -5742,15 +5786,15 @@ de tarea</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Color 3-D</translation>
+        <translation>Color 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3-D</translation>
+        <translation>Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Estilo 3-D</translation>
+        <translation>Estilo 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -5798,7 +5842,7 @@ de tarea</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Más colores 3-D</translation>
+        <translation>Más colores 3D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -5806,7 +5850,7 @@ de tarea</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Sin 3-D</translation>
+        <translation>Sin 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -5923,12 +5967,12 @@ On/Off</source>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
+        <translation>3D
 Activado</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3-D Activado</translation>
+        <translation>3D Activado</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -6421,6 +6465,10 @@ Activado</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My Account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6825,7 +6873,7 @@ Activado</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comentarios</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -7084,11 +7132,23 @@ Activado</translation>
         <translation>Insertar salto de página</translation>
     </message>
     <message>
+        <source>Insert Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Change Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7100,15 +7160,15 @@ Activado</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View User Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8244,6 +8304,14 @@ AddIns</source>
         <translation>Cambiar versión</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Protección del documento y propiedades</translation>
     </message>
@@ -8257,7 +8325,7 @@ AddIns</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comentarios</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -8443,7 +8511,7 @@ AddIns</source>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular hoja</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -10050,19 +10118,19 @@ centrar</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Color 3-D</translation>
+        <translation>Color 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3-D</translation>
+        <translation>Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Configuración de 3-D</translation>
+        <translation>Configuración de 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Estilo 3-D</translation>
+        <translation>Estilo 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -10110,7 +10178,7 @@ centrar</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Más colores 3-D</translation>
+        <translation>Más colores 3D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -10118,7 +10186,7 @@ centrar</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Sin 3-D</translation>
+        <translation>Sin 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -10258,6 +10326,10 @@ otras ventanas</translation>
         <translation>Macros</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation>Más controles</translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation>Más ventanas</translation>
     </message>
@@ -10351,15 +10423,15 @@ de tarea</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Color 3-D</translation>
+        <translation>Color 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3-D</translation>
+        <translation>Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Configuración de 3-D</translation>
+        <translation>Configuración de 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -10407,7 +10479,7 @@ de tarea</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Más colores 3-D</translation>
+        <translation>Más colores 3D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -10415,7 +10487,7 @@ de tarea</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Sin 3-D</translation>
+        <translation>Sin 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -11011,6 +11083,10 @@ de tarea</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My Account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11067,26 +11143,26 @@ de tarea</translation>
     <name>tips.3DColor</name>
     <message>
         <source>3-D Color</source>
-        <translation>Color 3-D</translation>
+        <translation>Color 3D</translation>
     </message>
     <message>
         <source>Click the arrow to select from different 3-D colors.</source>
-        <translation>Haga click en la flecha para seleccionar diferentes colores 3-D.</translation>
+        <translation>Haga click en la flecha para seleccionar diferentes colores 3D.</translation>
     </message>
     <message>
         <source>Fill the selected 3-D shape with color.
 
 Click the arrow to select from different 3-D colors.</source>
-        <translation>Rellena la forma 3-D seleccionada con color.
+        <translation>Rellena la forma 3D seleccionada con color.
 
-Haga click en la flecha para seleccionar diferentes colores 3-D.</translation>
+Haga click en la flecha para seleccionar diferentes colores 3D.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DDepthMenu</name>
     <message>
         <source>Change the height of the selected 3-D shape.</source>
-        <translation>Cambia la altura de la forma 3-D seleccionada.</translation>
+        <translation>Cambia la altura de la forma 3D seleccionada.</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -11097,29 +11173,29 @@ Haga click en la flecha para seleccionar diferentes colores 3-D.</translation>
     <name>tips.3DOnOff</name>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3-D</translation>
+        <translation>Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>Turn on or off the 3-D effect applied to the shape.</source>
-        <translation>Activa o desactiva el efecto 3-D aplicado a la forma.</translation>
+        <translation>Activa o desactiva el efecto 3D aplicado a la forma.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DStylePalette</name>
     <message>
         <source>3-D Settings</source>
-        <translation>Configuración de 3-D</translation>
+        <translation>Configuración de 3D</translation>
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
-        <translation>Añade un efecto 3-D a la forma.</translation>
+        <translation>Añade un efecto 3D a la forma.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DSurfaceMenu</name>
     <message>
         <source>Choose a surface effect for the selected 3-D shape in the document.</source>
-        <translation>Elegir un efecto de superficie para la forma 3-D seleccionada en el documento.</translation>
+        <translation>Elegir un efecto de superficie para la forma 3D seleccionada en el documento.</translation>
     </message>
     <message>
         <source>Surface Effects</source>
@@ -11982,7 +12058,7 @@ Por ejemplo, elegir Euros en lugar de Dólares.</translation>
     <name>tips.Direction</name>
     <message>
         <source>Choose the direction effect of the selected 3-D Shape.</source>
-        <translation>Elegir la dirección del efecto de la forma 3-D seleccionada.</translation>
+        <translation>Elegir la dirección del efecto de la forma 3D seleccionada.</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -12500,7 +12576,7 @@ Haga doble click en este botón para aplicar el mismo formato a vario lugares de
     <name>tips.FuncCatMoreFunctions</name>
     <message>
         <source>Browse and select from lists of statistical, engineering, and information functions.</source>
-        <translation type="unfinished">Examinar y seleccionar de listas de funciones estadísticas, de ingeniería y de información.</translation>
+        <translation>Examinar y seleccionar de listas de funciones estadísticas, de ingeniería y de información.</translation>
     </message>
     <message>
         <source>More Functions</source>
@@ -12530,9 +12606,6 @@ Haga doble click en este botón para aplicar el mismo formato a vario lugares de
 The online gallery, included in the Kingsoft Office gallery, can be used when you access the Internet. My Gallery allows you to access the gallery without a connection to the Internet after you log in.</source>
         <translation>La galería de Kingsoft Office tiene imágenes que puede usar, guardar o editar.</translation>
     </message>
-</context>
-<context>
-    <name>tips.GoalSeek</name>
 </context>
 <context>
     <name>tips.Group</name>
@@ -12837,11 +12910,11 @@ Los saltos de página son insertados por encima y a la izquierda de la selecció
     <name>tips.KOSCloudFeedbackTip</name>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios</translation>
     </message>
     <message>
         <source>Your feedback will help us improve our products.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sus comentarios nos ayudarán a mejorar nuestros productos.</translation>
     </message>
 </context>
 <context>
@@ -12853,6 +12926,17 @@ Los saltos de página son insertados por encima y a la izquierda de la selecció
     <message>
         <source>Newbie Guide</source>
         <translation>Guía para principiantes</translation>
+    </message>
+</context>
+<context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12961,7 +13045,18 @@ Los saltos de página son insertados por encima y a la izquierda de la selecció
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
-        <translation>Establece la dirección de la iluminación para la forma 3-D seleccionada, y la fuerza de la iluminación, incluyendo brillante, iluminación normal y oscura.</translation>
+        <translation>Establece la dirección de la iluminación para la forma 3D seleccionada, y la fuerza de la iluminación, incluyendo brillante, iluminación normal y oscura.</translation>
+    </message>
+</context>
+<context>
+    <name>tips.LoadMacro</name>
+    <message>
+        <source>LoadMacro Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LoadMacro Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14914,6 +15009,14 @@ En la mayoría de los casos, también puede usar controles de zoom en la barra d
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14922,15 +15025,15 @@ En la mayoría de los casos, también puede usar controles de zoom en la barra d
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

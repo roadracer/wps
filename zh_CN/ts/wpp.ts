@@ -6,95 +6,87 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>.</source>
-        <translation>、</translation>
-    </message>
-    <message>
-        <source>(0)</source>
-        <translation></translation>
+        <translation type="obsolete">、</translation>
     </message>
     <message>
         <source>(1)</source>
-        <translation>①</translation>
+        <translation type="obsolete">①</translation>
     </message>
     <message>
         <source>(10)</source>
-        <translation>⑩</translation>
+        <translation type="obsolete">⑩</translation>
     </message>
     <message>
         <source>(2)</source>
-        <translation>②</translation>
+        <translation type="obsolete">②</translation>
     </message>
     <message>
         <source>(3)</source>
-        <translation>③</translation>
+        <translation type="obsolete">③</translation>
     </message>
     <message>
         <source>(4)</source>
-        <translation>④</translation>
+        <translation type="obsolete">④</translation>
     </message>
     <message>
         <source>(5)</source>
-        <translation>⑤</translation>
+        <translation type="obsolete">⑤</translation>
     </message>
     <message>
         <source>(6)</source>
-        <translation>⑥</translation>
+        <translation type="obsolete">⑥</translation>
     </message>
     <message>
         <source>(7)</source>
-        <translation>⑦</translation>
+        <translation type="obsolete">⑦</translation>
     </message>
     <message>
         <source>(8)</source>
-        <translation>⑧</translation>
+        <translation type="obsolete">⑧</translation>
     </message>
     <message>
         <source>(9)</source>
-        <translation>⑨</translation>
-    </message>
-    <message>
-        <source>)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">⑨</translation>
     </message>
     <message>
         <source>0</source>
-        <translation>О</translation>
+        <translation type="obsolete">О</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>一</translation>
+        <translation type="obsolete">一</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>二</translation>
+        <translation type="obsolete">二</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>三</translation>
+        <translation type="obsolete">三</translation>
     </message>
     <message>
         <source>4</source>
-        <translation>四</translation>
+        <translation type="obsolete">四</translation>
     </message>
     <message>
         <source>5</source>
-        <translation>五</translation>
+        <translation type="obsolete">五</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>六</translation>
+        <translation type="obsolete">六</translation>
     </message>
     <message>
         <source>7</source>
-        <translation>七</translation>
+        <translation type="obsolete">七</translation>
     </message>
     <message>
         <source>8</source>
-        <translation>八</translation>
+        <translation type="obsolete">八</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>九</translation>
+        <translation type="obsolete">九</translation>
     </message>
     <message>
         <source>None</source>
@@ -1078,6 +1070,13 @@
     <message>
         <source>Automatic</source>
         <translation>自动</translation>
+    </message>
+</context>
+<context>
+    <name>KWppZoomSlider</name>
+    <message id="0">
+        <source>Slide Zoom Fit</source>
+        <translation type="unfinished">最佳显示比例</translation>
     </message>
 </context>
 <context>
@@ -2362,6 +2361,14 @@ be recovered.</source>
         <source>New Doc&amp;ument</source>
         <translation>新建文档(&amp;u)</translation>
     </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished">启用定时备份(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished">智能备份(&amp;S)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -3395,6 +3402,10 @@ be recovered.</source>
         <source>WPS Preseentation</source>
         <translation type="obsolete">WPS 演示</translation>
     </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished">PDF转换器遇到了内存分配问题，请缩小文档大小或者图片大小！</translation>
+    </message>
 </context>
 <context>
     <name>KxFindReplaceDlg</name>
@@ -4088,7 +4099,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>来自</translation>
+        <translation type="obsolete">来自</translation>
     </message>
     <message>
         <source>Apply to Master</source>
@@ -4141,6 +4152,10 @@ be recovered.</source>
     <message>
         <source>loop play, to the next voice began</source>
         <translation>循环播放，到下一声音开始时</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished">幻灯片切换</translation>
     </message>
 </context>
 <context>

@@ -234,11 +234,27 @@
         <source>%1 controls</source>
         <translation>%1 Steuerelemente</translation>
     </message>
+    <message>
+        <source>ActiveX Control (*.ocx;*.dll)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not register this control.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
         <source>(damaged file : %1 )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>error file list:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -346,6 +362,10 @@
         <source>Del</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>C,X,V,Z,Y</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
@@ -388,35 +408,35 @@
     <name>KInsertSymbolDlg</name>
     <message>
         <source>&amp;Insert</source>
-        <translation>&amp;Einfügen</translation>
+        <translation type="obsolete">&amp;Einfügen</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation>&amp;Symbole</translation>
+        <translation type="obsolete">&amp;Symbole</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation type="obsolete">Abbrechen</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation type="obsolete">Schließen</translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
-        <translation>Benutzer&amp;definierte Symbole</translation>
+        <translation type="obsolete">Benutzer&amp;definierte Symbole</translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
-        <translation type="unfinished">In Benutzerdefinierte S&amp;ymbole einfügen</translation>
+        <translation type="obsolete">In Benutzerdefinierte S&amp;ymbole einfügen</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation>S&amp;onderzeichen</translation>
+        <translation type="obsolete">S&amp;onderzeichen</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>Symbol</translation>
+        <translation type="obsolete">Symbol</translation>
     </message>
 </context>
 <context>
@@ -657,65 +677,65 @@
     <name>KSpecialCharTabWidget</name>
     <message>
         <source>&amp;Characters:</source>
-        <translation>&amp;Zeichen:</translation>
+        <translation type="obsolete">&amp;Zeichen:</translation>
     </message>
 </context>
 <context>
     <name>KSymbolBarTabWidget</name>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Entfernen</translation>
+        <translation type="obsolete">&amp;Entfernen</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation>Möchten Sie die Symbol-Menüleiste wirklich zurücksetzen?</translation>
+        <translation type="obsolete">Möchten Sie die Symbol-Menüleiste wirklich zurücksetzen?</translation>
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
-        <translation>Benutzerd&amp;efinierte Symbole:</translation>
+        <translation type="obsolete">Benutzerd&amp;efinierte Symbole:</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation>Verschieben nach &amp;unten</translation>
+        <translation type="obsolete">Verschieben nach &amp;unten</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation>Verschieben nach &amp;oben</translation>
+        <translation type="obsolete">Verschieben nach &amp;oben</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Keine</translation>
+        <translation type="obsolete">Keine</translation>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
-        <translation>Symbol-Menüleiste z&amp;urücksetzen</translation>
+        <translation type="obsolete">Symbol-Menüleiste z&amp;urücksetzen</translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation>Tasten&amp;kombinationen:</translation>
+        <translation type="obsolete">Tasten&amp;kombinationen:</translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation>Tastenkombinationen:</translation>
+        <translation type="obsolete">Tastenkombinationen:</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
-        <translation>T&amp;astenkombinationen festlegen</translation>
+        <translation type="obsolete">T&amp;astenkombinationen festlegen</translation>
     </message>
 </context>
 <context>
     <name>KSymbolTabWidget</name>
     <message>
         <source>&amp;Character code:</source>
-        <translation>&amp;Zeichencode:</translation>
+        <translation type="obsolete">&amp;Zeichencode:</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>&amp;Schriftart:</translation>
+        <translation type="obsolete">&amp;Schriftart:</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation>&amp;Aktuell benutzte Symbole:</translation>
+        <translation type="obsolete">&amp;Aktuell benutzte Symbole:</translation>
     </message>
     <message>
         <source>(normal text)</source>
@@ -723,19 +743,11 @@
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation>T&amp;eilmenge:</translation>
+        <translation type="obsolete">T&amp;eilmenge:</translation>
     </message>
     <message>
         <source>fro&amp;m:</source>
         <translation type="obsolete">vo&amp;n:</translation>
-    </message>
-    <message>
-        <source>(Normal Text)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fro&amp;m:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1274,19 +1286,19 @@
     <name>KxColorAndLineWidget</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Füllung</translation>
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Linie</translation>
     </message>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 pt</translation>
     </message>
     <message>
         <source>&amp;Straight</source>
@@ -1328,6 +1340,13 @@
     <message>
         <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxControlsListCommand</name>
+    <message>
+        <source>Register Custom Control...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2738,23 +2757,23 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxFormatShapeDlg</name>
     <message>
         <source>Colors and Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Farben und Linien</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafik</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfeld</translation>
     </message>
 </context>
 <context>
@@ -3265,6 +3284,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Update to Personal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You also can download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Free.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4271,11 +4302,11 @@ of services and features.</source>
     <name>KxWidgetColorAndLines</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formatiere AutoForm</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farbe:</translation>
     </message>
     <message>
         <source>Co&amp;nnector:</source>
@@ -4283,7 +4314,7 @@ of services and features.</source>
     </message>
     <message>
         <source>ucWeight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dicke</translation>
     </message>
     <message>
         <source>cm</source>
@@ -4303,23 +4334,23 @@ of services and features.</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Fülleffekt</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farbe:</translation>
     </message>
     <message>
         <source>ccFillColor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Füllfarbe</translation>
     </message>
     <message>
         <source>&amp;Transparency:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Transparenz:</translation>
     </message>
     <message>
         <source>ucTransparentcy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transparenz</translation>
     </message>
     <message>
         <source>%</source>
@@ -4331,66 +4362,66 @@ of services and features.</source>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linie</translation>
     </message>
     <message>
         <source>ccLineColor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linienfarbe</translation>
     </message>
     <message>
         <source>cbStyle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stil</translation>
     </message>
     <message>
         <source>cbbDashStyle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strichtyp</translation>
     </message>
     <message>
         <source>&amp;Weight:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dicke:</translation>
     </message>
     <message>
         <source>cbBeginStyle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anfangsstil</translation>
     </message>
     <message>
         <source>cbEndStyle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endstil</translation>
     </message>
     <message>
         <source>cbBeginSize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anfangsgröße</translation>
     </message>
     <message>
         <source>cbEndSize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endgröße</translation>
     </message>
     <message>
         <source>De&amp;fault for new Objects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standart &amp;für neue Objekte</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetPicture</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>Crop from</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abschneiden</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Helligkeit:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts:</translation>
     </message>
     <message>
         <source>%, 1, 0, 100, 1</source>
@@ -4402,15 +4433,15 @@ of services and features.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatisch</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Graustufen</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schwarz-Weiß</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -4418,54 +4449,54 @@ of services and features.</source>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ko&amp;ntrast:</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farbe:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben:</translation>
     </message>
     <message>
         <source>Image control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bildsteuerung</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ko&amp;mprimieren...</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zurück&amp;setzen</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetSize</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Höhe:</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Original Größe</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitenverhältnis sperren</translation>
     </message>
     <message>
         <source>Relative to original  picture size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Relativ zur Original Größe</translation>
     </message>
     <message>
         <source>Best scale for slide show</source>
@@ -4473,11 +4504,11 @@ of services and features.</source>
     </message>
     <message>
         <source>Res&amp;olution:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auflösung</translation>
     </message>
     <message>
         <source>cbResolution</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auflösung</translation>
     </message>
     <message>
         <source>640 x 480</source>
@@ -4501,47 +4532,47 @@ of services and features.</source>
     </message>
     <message>
         <source>Size and rotate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Größe und Rotation</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Höh&amp;e:</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formhöhe</translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Breite:</translation>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formbreite</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rotation:</translation>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rotation</translation>
     </message>
     <message>
         <source>degree, 0, -3600, 3600, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Grad, 0, -3600, 3600, 1</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skalierung</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Höhe:</translation>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skalierungshöhe</translation>
     </message>
     <message>
         <source>%, 0, 0, 10675, 1</source>
@@ -4549,19 +4580,19 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Breite:</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skalierungsbreite</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Breite:</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -4897,7 +4928,7 @@ immer diese Aktion durchführen</translation>
     <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
 (The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="unfinished">Kingsoft Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
+        <translation type="obsolete">Kingsoft Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
 (Das System verwendet Kingsoft Office standardmäßig zum Öffnen von doc-, xls- und ppt-Dateien)</translation>
     </message>
     <message>
@@ -4993,11 +5024,6 @@ immer diese Aktion durchführen</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5023,6 +5049,16 @@ immer diese Aktion durchführen</translation>
     </message>
     <message>
         <source>The selected dict has been deleted, please select another dict.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5144,23 +5180,23 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>compressPictures</name>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder komprimieren</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwenden</translation>
     </message>
     <message>
         <source>&amp;Select pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Selektiertes Bild</translation>
     </message>
     <message>
         <source>&amp;All pictures in document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Alle Bilder im Dokument</translation>
     </message>
     <message>
         <source>Change resolution</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auflösung verändern</translation>
     </message>
     <message>
         <source>&amp;Web/Screen</source>
@@ -5168,23 +5204,23 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Druck</translation>
     </message>
     <message>
         <source>&amp;No change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kei&amp;ne Änderung</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bilder komprimieren</translation>
     </message>
     <message>
         <source>D&amp;elete cropped areas of pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Entferne abgeschnittene Bereiche der Bilder</translation>
     </message>
 </context>
 <context>
@@ -5335,27 +5371,27 @@ Document</source>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibsprache setzen</translation>
     </message>
     <message>
         <source>Available Language:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verfügbare Sprachen:</translation>
     </message>
     <message>
         <source>The speller automatically use dictonaries of the selected language,if available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Der Prüfer nutzt automatisch Wörterbücher der ausgewälten Sprache, wenn vorhanden.</translation>
     </message>
     <message>
         <source>Set as default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Als Standard setzen</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Weitere</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installieren</translation>
     </message>
     <message>
         <source>Close</source>

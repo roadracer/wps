@@ -5,23 +5,23 @@
     <name>et_app</name>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Preglednice</translation>
     </message>
     <message>
         <source>VBAProject</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt VBA</translation>
     </message>
     <message>
         <source>ThisWorkbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta delovni zvezek</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul</translation>
     </message>
     <message>
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
@@ -98,11 +98,11 @@ Please try one of the following.
     </message>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke XML</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kot</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
@@ -110,11 +110,11 @@ Please try one of the following.
     </message>
     <message>
         <source>(Read Only)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Samo za branje)</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>
@@ -146,11 +146,11 @@ Please try one of the following.
     </message>
     <message>
         <source>Opening the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje datoteke. Prosimo, počakajte ...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Shranjevanje datoteke. Prosimo, počakajte ...</translation>
     </message>
     <message>
         <source>To prevent possible losing data, Kingsoft Spreadsheets cannot shove nonblank cells off the worksheet.
@@ -170,11 +170,11 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     </message>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvezek</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>List</translation>
     </message>
     <message>
         <source>%s is an invalid workbook name.</source>
@@ -196,11 +196,11 @@ If you want to hide, delete, or move the selected sheet(s), you must first inser
     </message>
     <message>
         <source>Unknown User</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznani uporabnik</translation>
     </message>
     <message>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation>Courier</translation>
     </message>
     <message>
         <source>Cannot insert, because there are merged cells.</source>
@@ -216,7 +216,7 @@ If you want to hide, delete, or move the selected sheet(s), you must first inser
     </message>
     <message>
         <source>Cannot merge overlapping ranges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsegov, ki se prekrivajo, ni mogoče spojiti.</translation>
     </message>
     <message>
         <source>A document with the name &quot;%s&quot; is already open. You cannot open two documents with the same name, even if the documents are in different folders.
@@ -239,7 +239,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni mogoče natisniti ,preverite, ali je tiskalnik pravilno nameščen.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets finds nothing to print.</source>
@@ -292,7 +292,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>Cannot open the specified file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Določene datoteke ni mogoče odpreti.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot finish this operation due to insufficient memory.</source>
@@ -320,7 +320,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>This command cannot be used on multiple selections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tega ukaza ni mogoče uporabiti na izboru več predmetov.</translation>
     </message>
     <message>
         <source>Source reference area overlaps with target area.</source>
@@ -356,7 +356,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>Formula is too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula je predolga.</translation>
     </message>
     <message>
         <source>Content in cell is too long.</source>
@@ -364,7 +364,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>No source references specified for consolidation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Za uskladitev ni določen sklic na vir.</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
@@ -429,79 +429,79 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>Average=</source>
-        <translation type="unfinished"></translation>
+        <translation>Povprečje=</translation>
     </message>
     <message>
         <source>Count=</source>
-        <translation type="unfinished"></translation>
+        <translation>Štetje=</translation>
     </message>
     <message>
         <source>Count Nums=</source>
-        <translation type="unfinished"></translation>
+        <translation>Štetje štev=</translation>
     </message>
     <message>
         <source>Max=</source>
-        <translation type="unfinished"></translation>
+        <translation>Max=</translation>
     </message>
     <message>
         <source>Min=</source>
-        <translation type="unfinished"></translation>
+        <translation>Min=</translation>
     </message>
     <message>
         <source>Sum=</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsota=</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Povprečje</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation type="unfinished"></translation>
+        <translation>Štetje štev</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"></translation>
+        <translation>Izdelek</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOdk</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOdkp</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished"></translation>
+        <translation>Varianca</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished"></translation>
+        <translation>Varp</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsota</translation>
     </message>
     <message>
         <source>Grand Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupna vsota</translation>
     </message>
     <message>
         <source>Total </source>
-        <translation type="unfinished"></translation>
+        <translation>Vsota </translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
@@ -536,7 +536,7 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>DefaultChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Privzeti grafikon</translation>
     </message>
     <message>
         <source>DefaultChartStandard</source>
@@ -548,7 +548,7 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>CustomList</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam po meri</translation>
     </message>
     <message>
         <source>ListCount</source>
@@ -577,7 +577,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>8.1</source>
-        <translation type="unfinished"></translation>
+        <translation>8.1</translation>
     </message>
     <message>
         <source>[%s]%s:
@@ -598,7 +598,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>%s of %d records found</source>
-        <translation type="unfinished"></translation>
+        <translation>Št. najdenih zapisov: %s of %d</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
@@ -610,7 +610,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafikon</translation>
     </message>
     <message>
         <source>Workbook in %s</source>
@@ -618,7 +618,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Delovni zvezek</translation>
     </message>
     <message>
         <source>The destination cells may contain some data values will be lost when continue, do you want to continue?</source>
@@ -672,31 +672,31 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznaka</translation>
     </message>
     <message>
         <source>Group Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Okvirček skupine</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumb</translation>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrditveno polje</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbirni gumb</translation>
     </message>
     <message>
         <source>Tahoma</source>
-        <translation type="unfinished"></translation>
+        <translation>Tahoma</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>Some text formats in the file may be modified, because it exceeds the number of utmost permitted formats.</source>
@@ -720,11 +720,11 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vneseno besedilo ni veljaven sklic niti definirano ime.</translation>
     </message>
     <message>
         <source>This command is not available in a shared workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukaz ni na voljo za delovni zvezek v skupni rabi.</translation>
     </message>
     <message>
         <source>Cannot modify or delete array formulas in shared workbooks.</source>
@@ -740,15 +740,15 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Document is not saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument ni shranjen.</translation>
     </message>
     <message>
         <source>This file is no longer shared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta datoteka ni več v skupni rabi.</translation>
     </message>
     <message>
         <source>The workbook has been updated with changes saved by other users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delovni zvezek je bil posodobljen s spremembami, ki so jih shranili drugi uporabniki.</translation>
     </message>
     <message>
         <source>You are no longer connected to this file. Another user may have removed you from the user list, or replaced it.
@@ -767,7 +767,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>The file %s cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke %s ni mogoče najti.</translation>
     </message>
     <message>
         <source>This file is locked. Try it again later.</source>
@@ -775,7 +775,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>(Exclusive)</source>
-        <translation type="unfinished"></translation>
+        <translation>(izključno)</translation>
     </message>
     <message>
         <source>Your changes on sheet &apos;%s&apos;:</source>
@@ -791,7 +791,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>(Shared)</source>
-        <translation type="unfinished"></translation>
+        <translation>(V skupni rabi)</translation>
     </message>
     <message>
         <source>The workbook is created by %s in exclusive mode.</source>
@@ -834,11 +834,11 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     </message>
     <message>
         <source>hundred millions</source>
-        <translation type="unfinished"></translation>
+        <translation>sto milijonov</translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>ten thousand</source>
@@ -854,7 +854,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     </message>
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukaza ni bilo mogoče dokončati z uporabo navedenega obsega. Izberite eno samo celico iz obsega in ponovite ukaz.</translation>
     </message>
     <message>
         <source>You cannot use this command on a list or range that contains merged cells.</source>
@@ -870,7 +870,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     </message>
     <message>
         <source>Too many fields in the data form.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveč polj v podatkovnem obrazcu.</translation>
     </message>
     <message>
         <source>Cannot extend list or database.</source>
@@ -878,7 +878,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     </message>
     <message>
         <source>Cannot enter a formula in a data form.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnos formule v podatkovni obrazec ni mogoč.</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
@@ -890,7 +890,10 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
 ·If you want the first row of the selection or list used as labels and not as data, click OK.
 ·If you selected a subset of cells in error, select a single cell, and try the command again.
 ·To create column labels, click Cancel, and enter a text label at the top of each column of data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel ne more določiti, katera vrstica na vašem seznamu ali v izboru vsebuje oznake stolpcev, ki so zahtevani za ta ukaz.
+ Če želite uporabiti prvo vrstico izbora ali seznama kot nalepke in ne kot podatke, kliknite »V redu«.
+ Če ste izbrali podmnožico celic z napako, izberite eno samo celico in ponovite ukaz.
+ Če želite ustvariti oznake stolpcev, kliknite »Prekliči« in vnesite oznako z besedilom na vrhu vsakega podatkovnega stolpca.</translation>
     </message>
     <message>
         <source>The displayed records will be deleted.</source>
@@ -898,7 +901,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     </message>
     <message>
         <source>Calculating</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračunavanje</translation>
     </message>
     <message>
         <source>Processor(s)</source>
@@ -910,7 +913,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     </message>
     <message>
         <source>&quot;Filter&quot;Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Filtrirni&quot; način</translation>
     </message>
     <message>
         <source>This workbook contains one or more links that cannot be updated.
@@ -924,7 +927,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>[Compatibility Mode]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Združljivostni način]</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the &quot;Copy&quot; and &quot;Paste&quot; commands to insert the data into the other worksheets of the workbook.</source>
@@ -936,31 +939,31 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Value Of</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost od</translation>
     </message>
     <message>
         <source>Objective Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celica s cilji</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celica</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Original Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvirna vrednost</translation>
     </message>
     <message>
         <source>(Empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Prazno)</translation>
     </message>
     <message>
         <source>Variable Cell</source>
@@ -968,115 +971,115 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Omejitve</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stanje</translation>
     </message>
     <message>
         <source>Slack</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezerva</translation>
     </message>
     <message>
         <source>Not Binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez vpenjanja</translation>
     </message>
     <message>
         <source>Binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Vpenjanje</translation>
     </message>
     <message>
         <source>Final</source>
-        <translation type="unfinished"></translation>
+        <translation>Končna</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Celo število</translation>
     </message>
     <message>
         <source>Contin</source>
-        <translation type="unfinished"></translation>
+        <translation>Contin</translation>
     </message>
     <message>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojiško</translation>
     </message>
     <message>
         <source>Forming Limits Report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripravljanje poročila o mejah...</translation>
     </message>
     <message>
         <source>Limits Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Poročilo o mejah</translation>
     </message>
     <message>
         <source>Objective</source>
-        <translation type="unfinished"></translation>
+        <translation>Cilj</translation>
     </message>
     <message>
         <source>Max Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Največji dovoljeni čas</translation>
     </message>
     <message>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovitve</translation>
     </message>
     <message>
         <source>Precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Natančnost</translation>
     </message>
     <message>
         <source>Use Automatic Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi samodejno prilagajanje</translation>
     </message>
     <message>
         <source>Show Iteration Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži rezultat ponovitev</translation>
     </message>
     <message>
         <source>Convergence</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvergenca</translation>
     </message>
     <message>
         <source>Max Integer Solutions</source>
-        <translation type="unfinished"></translation>
+        <translation>Največje dovoljeno število celoštevilskih rešitev</translation>
     </message>
     <message>
         <source>Integer Tolerance</source>
-        <translation type="unfinished"></translation>
+        <translation>Toleranca celega števila</translation>
     </message>
     <message>
         <source>Solve Without Integer Constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Reši brez celoštevilskih omejitev</translation>
     </message>
     <message>
         <source>Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Poročila</translation>
     </message>
     <message>
         <source>Sensitivity Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Poročilo o občutljivosti</translation>
     </message>
     <message>
         <source>Unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation>Neomejeno</translation>
     </message>
     <message>
         <source>Assume NonNegative</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvidevaj nenegativno</translation>
     </message>
     <message>
         <source>Cell Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost celice</translation>
     </message>
     <message>
         <source>Objective Cell Section</source>
@@ -1092,35 +1095,35 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Meja</translation>
     </message>
     <message>
         <source>Subproblem</source>
-        <translation type="unfinished"></translation>
+        <translation>Podproblem</translation>
     </message>
     <message>
         <source>Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenljivke</translation>
     </message>
     <message>
         <source>Report Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Poročilo ustvarjeno</translation>
     </message>
     <message>
         <source>Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Delovni list</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat</translation>
     </message>
     <message>
         <source>Solver Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehanizem reševalnika</translation>
     </message>
     <message>
         <source>Solver Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti reševalnika</translation>
     </message>
     <message>
         <source>sec</source>
@@ -1128,55 +1131,55 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekunde</translation>
     </message>
     <message>
         <source>Solution Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas rešitve</translation>
     </message>
     <message>
         <source>Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehanizem</translation>
     </message>
     <message>
         <source>Simplex LP</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpleksno linearno programiranje</translation>
     </message>
     <message>
         <source>Answer Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Poročilo o odgovorih</translation>
     </message>
     <message>
         <source>Max Subproblems</source>
-        <translation type="unfinished"></translation>
+        <translation>Največje dovoljeno število podproblemov</translation>
     </message>
     <message>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodnja</translation>
     </message>
     <message>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgornja</translation>
     </message>
     <message>
         <source>Reduced</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšan</translation>
     </message>
     <message>
         <source>Coefficient</source>
-        <translation type="unfinished"></translation>
+        <translation>Koeficient</translation>
     </message>
     <message>
         <source>Allowable</source>
-        <translation type="unfinished"></translation>
+        <translation>Dovoljeno</translation>
     </message>
     <message>
         <source>Increase</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšaj</translation>
     </message>
     <message>
         <source>R.H. Sid</source>
@@ -1184,19 +1187,19 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Cena</translation>
     </message>
     <message>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation>Znesek</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>senca</translation>
     </message>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Omejitev</translation>
     </message>
     <message>
         <source>Trail Solution</source>
@@ -1204,15 +1207,15 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Setting Up Problem...</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavljanje problema...</translation>
     </message>
     <message>
         <source>Forming Answer Report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripravljanje poročila o odgovorih...</translation>
     </message>
     <message>
         <source>Forming Sensitivity Report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripravljanje poročila o občutljivosti ...</translation>
     </message>
 </context>
 <context>
@@ -1227,23 +1230,23 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Insert Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljanje stolpca</translation>
     </message>
     <message>
         <source>Insert Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi vrstico</translation>
     </message>
     <message>
         <source>Delete Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrišite stolpec</translation>
     </message>
     <message>
         <source>Delete Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši vrstico</translation>
     </message>
     <message>
         <source>Insert Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi delovni list</translation>
     </message>
     <message>
         <source>Rename Worksheet</source>
@@ -1275,7 +1278,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>&lt;Empty&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Prazno&gt;</translation>
     </message>
     <message>
         <source>Rename the %s  worksheet to %s</source>
@@ -1287,99 +1290,99 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Everyone</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsi</translation>
     </message>
     <message>
         <source>Everyone but Me</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsi razen mene</translation>
     </message>
     <message>
         <source>Result of rejected action</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat zavrnjenega dejanja</translation>
     </message>
     <message>
         <source>Won</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprejeto</translation>
     </message>
     <message>
         <source>cell %s</source>
-        <translation type="unfinished"></translation>
+        <translation>celica %s</translation>
     </message>
     <message>
         <source>cells %s</source>
-        <translation type="unfinished"></translation>
+        <translation>celice %</translation>
     </message>
     <message>
         <source>row %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstica %s</translation>
     </message>
     <message>
         <source>rows %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstice %s</translation>
     </message>
     <message>
         <source>column %s</source>
-        <translation type="unfinished"></translation>
+        <translation>stolpec %s</translation>
     </message>
     <message>
         <source>columns %s</source>
-        <translation type="unfinished"></translation>
+        <translation>stolpci %s</translation>
     </message>
     <message>
         <source>Cell Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba celice</translation>
     </message>
     <message>
         <source>Range Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Premik obsega</translation>
     </message>
     <message>
         <source>Row Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljanje vrstice</translation>
     </message>
     <message>
         <source>Column Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljanje stolpca</translation>
     </message>
     <message>
         <source>Row Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje vrstice</translation>
     </message>
     <message>
         <source>Column Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje stolpca</translation>
     </message>
     <message>
         <source>Worksheet Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Delovni list - vstavljanje</translation>
     </message>
     <message>
         <source>Worksheet Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Preimenovanje delovnega lista</translation>
     </message>
     <message>
         <source>Name Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba imena</translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source> (result of rejected action)</source>
-        <translation type="unfinished"></translation>
+        <translation>(rezultat zavrnitve)</translation>
     </message>
     <message>
         <source>Inserted %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljeno %s</translation>
     </message>
     <message>
         <source>Deleted %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrisano %s</translation>
     </message>
     <message>
         <source>Moved %s to %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Premik %s to %s</translation>
     </message>
     <message>
         <source>Changed cell %s from &apos;%s&apos; to &apos;%s&apos;</source>
@@ -1387,11 +1390,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Renamed sheet from &apos;%s&apos; to &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>List preimenovan iz »&apos;%s&apos; v &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Inserted sheet &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljeni list &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Changed the name &apos;%s&apos; to &apos;%s&apos;</source>
@@ -1399,7 +1402,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>&lt;blank&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;prazno&gt;</translation>
     </message>
     <message>
         <source>Changed name &apos;%s&apos; from &apos;%s&apos; to &apos;%s&apos;</source>
@@ -1407,11 +1410,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>(Showing All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Prikazuje vse)</translation>
     </message>
     <message>
         <source>Top %s items</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgornjih %s elementov</translation>
     </message>
     <message>
         <source>Top %s percent</source>
@@ -1419,7 +1422,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Bottom %s items</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodnjih %s elementov</translation>
     </message>
     <message>
         <source>Bottom %s percent</source>
@@ -1427,19 +1430,19 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>In</translation>
     </message>
     <message>
         <source>(Blank)</source>
-        <translation type="unfinished"></translation>
+        <translation>(prazno)</translation>
     </message>
     <message>
         <source>Column %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Stolpec %s</translation>
     </message>
     <message>
         <source>%s items meet the requirement of the active column in %d records</source>
@@ -1463,7 +1466,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta postopek zahteva enako velikost združenih celic.</translation>
     </message>
     <message>
         <source>The selected range contains array.</source>
@@ -1483,7 +1486,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>The reference is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sklic je neveljaven.</translation>
     </message>
 </context>
 <context>
@@ -1491,18 +1494,19 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>
 Value: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Vrednost: </translation>
     </message>
     <message>
         <source>Charts</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafikoni</translation>
     </message>
 </context>
 <context>
     <name>et_core</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Navadno</translation>
     </message>
     <message utf8="true">
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of ET if they:
@@ -1559,35 +1563,35 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Grand Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupna vsota</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Podatki</translation>
     </message>
     <message>
         <source>#NULL!</source>
-        <translation type="unfinished"></translation>
+        <translation>#NIČ!</translation>
     </message>
     <message>
         <source>#DIV/0!</source>
-        <translation type="unfinished"></translation>
+        <translation>#DEL/0!</translation>
     </message>
     <message>
         <source>#VALUE!</source>
-        <translation type="unfinished"></translation>
+        <translation>#VREDN!</translation>
     </message>
     <message>
         <source>#REF!</source>
-        <translation type="unfinished"></translation>
+        <translation>#SKLIC!</translation>
     </message>
     <message>
         <source>#NAME?</source>
-        <translation type="unfinished"></translation>
+        <translation>#IME?</translation>
     </message>
     <message>
         <source>#NUM!</source>
-        <translation type="unfinished"></translation>
+        <translation>#ŠTEV!</translation>
     </message>
     <message>
         <source>#N/A</source>
@@ -1595,15 +1599,15 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>%d-Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>%d-Četrtletje</translation>
     </message>
     <message>
         <source>(blank)</source>
-        <translation type="unfinished"></translation>
+        <translation>(prazno)</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsota</translation>
     </message>
     <message>
         <source>(All)</source>
@@ -1611,11 +1615,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>(Multiple Items)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Več elementov)</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrtilna tabela</translation>
     </message>
     <message>
         <source>Call Fail</source>
@@ -1627,11 +1631,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>A PivotTable report cannot overlap another PivotTable report.</source>
-        <translation type="unfinished"></translation>
+        <translation>A PivotTable report cannot overlap another PivotTable report.</translation>
     </message>
     <message>
         <source>Do you want to replace the contents of the destination cells in %s?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite zamenjati vsebino ciljnih celic v %s?</translation>
     </message>
     <message>
         <source>AutoSort must be turned off to move items in a field.</source>
@@ -1639,7 +1643,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Cannot change part of a merged cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela spojene celice ni bilo mogoče spremeniti.</translation>
     </message>
     <message>
         <source>You cannot change, move a part of, or insert cells in a PivotTable report. If you want to insert cells on the worksheet, drag the entire report out of the way. To move or add data to a report, do one of the following:
@@ -1655,7 +1659,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Cannot open PivotTable source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvorne datoteke za vrtilno tabelo ni mogoče odpreti.</translation>
     </message>
     <message>
         <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
@@ -1677,7 +1681,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source.The connection string is blank.The string you typed is not corret.The generated connection failed.</source>
@@ -1685,23 +1689,23 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Field names</source>
-        <translation type="unfinished"></translation>
+        <translation>Imena polj</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrsti po</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Naraščajoče</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Padajoče</translation>
     </message>
     <message>
         <source>Second operand</source>
-        <translation type="unfinished"></translation>
+        <translation>Drugi operand</translation>
     </message>
     <message>
         <source>Operation condition</source>
@@ -1709,27 +1713,27 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>večje</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation>manjše</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>enako</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>ni enako</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>večje ali enako</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>manjše ali enako</translation>
     </message>
     <message>
         <source>like</source>
@@ -1737,27 +1741,27 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>not like</source>
-        <translation type="unfinished"></translation>
+        <translation>ni kot</translation>
     </message>
     <message>
         <source>Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>Relacija</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>In</translation>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali</translation>
     </message>
     <message>
         <source>Connect string:</source>
-        <translation type="unfinished"></translation>
+        <translation>Niz za povezovanje:</translation>
     </message>
     <message>
         <source>Query string:</source>
-        <translation type="unfinished"></translation>
+        <translation>Niz poizvedbe:</translation>
     </message>
     <message>
         <source>Error password or user name!</source>
@@ -1765,27 +1769,27 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source> &gt;,</source>
-        <translation type="unfinished"></translation>
+        <translation> &gt;,</translation>
     </message>
     <message>
         <source> &lt;,</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;,</translation>
     </message>
     <message>
         <source> =,</source>
-        <translation type="unfinished"></translation>
+        <translation>=,</translation>
     </message>
     <message>
         <source> !=,</source>
-        <translation type="unfinished"></translation>
+        <translation> !=,</translation>
     </message>
     <message>
         <source> &gt;=,</source>
-        <translation type="unfinished"></translation>
+        <translation> &gt;=,</translation>
     </message>
     <message>
         <source> &lt;=,</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;=,</translation>
     </message>
     <message>
         <source> LIKE,</source>
@@ -1793,11 +1797,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source> NOT LIKE,</source>
-        <translation type="unfinished"></translation>
+        <translation>NOT LIKE,</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source> AND,</source>
@@ -1805,11 +1809,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source> OR,</source>
-        <translation type="unfinished"></translation>
+        <translation>ALI</translation>
     </message>
     <message>
         <source>Query failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Poizvedba ni uspela!</translation>
     </message>
     <message>
         <source>Link failed!</source>
@@ -1837,11 +1841,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Connections:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezave:</translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Poizvedba</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Text Files(*.txt)|*.txt|All Files(*.*)|*.*||</source>
@@ -1853,7 +1857,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Import Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvoz podatkov</translation>
     </message>
     <message>
         <source>Initialization Error!</source>
@@ -1895,243 +1899,243 @@ Notice: if the second operand queries the number as text, single quotes should b
     <name>et_funclib</name>
     <message>
         <source>In common use</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogosto uporabljeno</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse</translation>
     </message>
     <message>
         <source>Financial</source>
-        <translation type="unfinished"></translation>
+        <translation>Finance</translation>
     </message>
     <message>
         <source>Date &amp; Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum in ura</translation>
     </message>
     <message>
         <source>Math &amp; Trig</source>
-        <translation type="unfinished"></translation>
+        <translation>Matematika in trigonometrija</translation>
     </message>
     <message>
         <source>Statistical</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistika</translation>
     </message>
     <message>
         <source>Lookup &amp; Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled in sklici</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Zbirka podatkov</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo</translation>
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Logične</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacije</translation>
     </message>
     <message>
         <source>User Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabniško določeno</translation>
     </message>
     <message>
         <source>Engineering</source>
-        <translation type="unfinished"></translation>
+        <translation>Inženiring</translation>
     </message>
     <message>
         <source>DATE(year,month,day)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum(leto,mesec,dan)</translation>
     </message>
     <message>
         <source>Returns the number that represents the date in Kingsoft Spreadsheets date-time code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število, ki predstavlja datum v kodi za datum in uro programa Kingsoft Spreadsheets.</translation>
     </message>
     <message>
         <source>DATEVALUE(date_text)</source>
-        <translation type="unfinished"></translation>
+        <translation>DATEVALUE(besedilo_datuma)</translation>
     </message>
     <message>
         <source>Converts a date in the form of text to a number that represents the date in Kingsoft Spreadsheets date-time code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori datum v obliki besedila v število, ki predstavlja datum v Kingsoft Spreadsheets kodi za datum in uro.</translation>
     </message>
     <message>
         <source>Returns the day of the month, a number from 1 to 31.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne dan v mesecu, število med 1 in 31.</translation>
     </message>
     <message>
         <source>HOUR(serial_number)</source>
-        <translation type="unfinished"></translation>
+        <translation>HOUR(serijska_številka)</translation>
     </message>
     <message>
         <source>Returns the hour as a number from 0(12:00 A.M.) to 23(11:00 P.M.).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne uro, ki je število med 0 (polnoč) in 23 (23:00).</translation>
     </message>
     <message>
         <source>MINUTE(serial_number)</source>
-        <translation type="unfinished"></translation>
+        <translation>MINUTE(serijska_številka)</translation>
     </message>
     <message>
         <source>Returns the minute, a number from 0 to 59.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne minute, ki so celo število med 0 in 59.</translation>
     </message>
     <message>
         <source>MONTH(serial_number)</source>
-        <translation type="unfinished"></translation>
+        <translation>MONTH(serijska_številka)</translation>
     </message>
     <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne mesec, ki je število od 1 (januar) do 12 (december).</translation>
     </message>
     <message>
         <source>NETWORKDAYS(start_date,end_date,holidays)</source>
-        <translation type="unfinished"></translation>
+        <translation>NETWORKDAYS(začetni_datum,končni_datum,parzniki)</translation>
     </message>
     <message>
         <source>Returns the number of whole workdays between two dates.(Workdays don&apos;t include weekends and legal holidays.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število celotnih delovnih dni med dvema datuma</translation>
     </message>
     <message>
         <source>NOW()</source>
-        <translation type="unfinished"></translation>
+        <translation>NOW()</translation>
     </message>
     <message>
         <source>Returns the current date and time formatted as a date and time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne trenutni datum in uro, oblikovano kot datum in čas.</translation>
     </message>
     <message>
         <source>SECOND(serial_number)</source>
-        <translation type="unfinished"></translation>
+        <translation>SECOND(serijska_številka)</translation>
     </message>
     <message>
         <source>Returns the second, a number from 0 to 59.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne sekunde, ki so celo število med 0 in 59.</translation>
     </message>
     <message>
         <source>TIME(hour,minute,second)</source>
-        <translation type="unfinished"></translation>
+        <translation>TIME(ura,minuta,sekunda)</translation>
     </message>
     <message>
         <source>Converts hours, minutes, and seconds given as numbers to a Kingsoft Spreadsheets serial number, formatted with a time format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori ure, minute in sekunde, navedene kot števila, v Kingsoft Spreadsheets zaporedno število v časovni obliki.</translation>
     </message>
     <message>
         <source>TIMEVALUE(time_text)</source>
-        <translation type="unfinished"></translation>
+        <translation>TIMEVALUE(besedilo_ure)</translation>
     </message>
     <message>
         <source>Converts a text time to an Kingsoft Spreadsheets serial number for a time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori uro, zapisano v besedilni obliki, v Excelovo zaporedno število za uro; števila od 0 (12:00:00) do 0,999988426 (23:59:59). Po vnosu formule oblikujte število z obliko zapisa ure.</translation>
     </message>
     <message>
         <source>TODAY()</source>
-        <translation type="unfinished"></translation>
+        <translation>TODAY()</translation>
     </message>
     <message>
         <source>Returns the current date formatted as a date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne trenutni datum, oblikovan kot datum.</translation>
     </message>
     <message>
         <source>WEEKDAY(serial_number,return_type)</source>
-        <translation type="unfinished"></translation>
+        <translation>WEEKDAY(serijska_številka,vrsta_rezultata)</translation>
     </message>
     <message>
         <source>Returns a number from 1 to 7 identifying the day of the week of a date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število od 1 do 7, ki označuje dan v tednu datuma.</translation>
     </message>
     <message>
         <source>WEEKNUM(serial_num,return_type)</source>
-        <translation type="unfinished"></translation>
+        <translation>WEEKNUM(serijska_številka,vrsta_vrednost)</translation>
     </message>
     <message>
         <source>Returns the number identifying the order of the week of a year.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število tednov v letu.</translation>
     </message>
     <message>
         <source>YEAR(serial_number)</source>
-        <translation type="unfinished"></translation>
+        <translation>YEAR(serijska_številka)</translation>
     </message>
     <message>
         <source>Returns the year of a date, an integer in the range 1900-9999.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne leto datuma, ki je celo število v intervalu od 1900 - 9999.</translation>
     </message>
     <message>
         <source>ABS(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Abs(število)</translation>
     </message>
     <message>
         <source>Returns the absolute value of a number, a number without its sign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne absolutno vrednost števila, število brez predznaka.</translation>
     </message>
     <message>
         <source>ACOS(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>ACOS(število)</translation>
     </message>
     <message>
         <source>Returns the arccosine of a number, in radians in the range 0 to Pi. The arccosine is the angle whose cosine is Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne arkus kosinus števila, v radianih, iz obsega od 0 do Pi. Arkus kosinus je kot, katerega kosinus je dano število.</translation>
     </message>
     <message>
         <source>ASIN(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASIN(število)</translation>
     </message>
     <message>
         <source>Returns the arcsine of a number within radians from -Pi/2 to Pi/2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne arkus sinus števila v radianih, iz obsega od -Pi/2 do Pi/2.</translation>
     </message>
     <message>
         <source>ATAN (number)</source>
-        <translation type="unfinished"></translation>
+        <translation>ATAN (število)</translation>
     </message>
     <message>
         <source>Returns the arctangent of a number in radians, in the range -Pi/2 to Pi/2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne arkus tangens števila v radianih, iz obsega od -Pi/2 do Pi/2.</translation>
     </message>
     <message>
         <source>ATAN2(x_num,y_num)</source>
-        <translation type="unfinished"></translation>
+        <translation>ATAN2(št_x,št_y)</translation>
     </message>
     <message>
         <source>Returns the arctangent of the specified x- and y- coordinates, in radians between -Pi and Pi, excluding -Pi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne arkus tangens podanih x- in y-koordinat v radianih, iz obsega od -Pi do Pi, brez -Pi.</translation>
     </message>
     <message>
         <source>CEILING(number,significance)</source>
-        <translation type="unfinished"></translation>
+        <translation>CEILING(število,pomembnost)</translation>
     </message>
     <message>
         <source>Rounds a number up, to the nearest integer or to the nearest multiple of significance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži število navzgor, na najbližje celo število ali na najbližji mnogokratnik značilnega števila.</translation>
     </message>
     <message>
         <source>COS(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>COS(število)</translation>
     </message>
     <message>
         <source>Returns the cosine of a given angle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kosinus danega kota.</translation>
     </message>
     <message>
         <source>COSH(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>COSH(število)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic cosine of a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne hiperbolični kosinus števila.</translation>
     </message>
     <message>
         <source>DEGREES(angle)</source>
-        <translation type="unfinished"></translation>
+        <translation>DEGREES(kot)</translation>
     </message>
     <message>
         <source>Converts radians to degrees.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori radiane v stopinje.</translation>
     </message>
     <message>
         <source>DIV(dividend,divisor)</source>
@@ -2143,323 +2147,323 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>EVEN(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>EVEN(število)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži pozitivno število navzgor in negativno število navzdol na najbližje sodo celo število.</translation>
     </message>
     <message>
         <source>EXP(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>EXP(število)</translation>
     </message>
     <message>
         <source>Returns e raised to the power of a given number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne e na potenco danega števila.</translation>
     </message>
     <message>
         <source>FACT(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>FACT(število)</translation>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne fakulteto števila, ki je enaka 1*2*3*...*število.</translation>
     </message>
     <message>
         <source>GCD(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>GCD(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the greatest common divisors of two or more integers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne največji skupni delitelj.</translation>
     </message>
     <message>
         <source>FLOOR(number,significance)</source>
-        <translation type="unfinished"></translation>
+        <translation>FLOOR(število,pomembnost)</translation>
     </message>
     <message>
         <source>Rounds a number down, toward zero, to the nearest multiple of significance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži število navzdol proti 0 do najbližjega mnogokratnika značilnega števila.</translation>
     </message>
     <message>
         <source>INT(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>INT(število)</translation>
     </message>
     <message>
         <source>Rounds a number down to the nearest integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Število zaokroži navzdol do najbližjega celega števila.</translation>
     </message>
     <message>
         <source>LCM(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>LCM(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the lease common multiples of two or more integers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne najmanjši skupni mnogokratnik.</translation>
     </message>
     <message>
         <source>LN(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>LN(številko)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne naravni logaritem števila.</translation>
     </message>
     <message>
         <source>LOG(number,base)</source>
-        <translation type="unfinished"></translation>
+        <translation>LOG(število,osnova)</translation>
     </message>
     <message>
         <source>Returns the logarithm of a number to the base you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne logaritem števila z osnovo, ki jo določite.</translation>
     </message>
     <message>
         <source>LOG10(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>LOG10(število)</translation>
     </message>
     <message>
         <source>Returns the base-10 logarithm of a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne desetiški logaritem števila.</translation>
     </message>
     <message>
         <source>MOD(number,divisor)</source>
-        <translation type="unfinished"></translation>
+        <translation>MOD(število,delitelj)</translation>
     </message>
     <message>
         <source>Returns the remainder after a number is divided by a divisor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne ostanek deljenja.</translation>
     </message>
     <message>
         <source>ODD(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>ODD(število)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest odd integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži pozitivno število navzgor in negativno število navzdol do najbližjega lihega celega števila.</translation>
     </message>
     <message>
         <source>PI()</source>
-        <translation type="unfinished"></translation>
+        <translation>PI()</translation>
     </message>
     <message>
         <source>Returns the value of Pi, 3.14159265358979, accurate to 15 digits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne vrednost Pi na 15 decimalnih mest točno (3,14159265358979).</translation>
     </message>
     <message>
         <source>POWER(number,power)</source>
-        <translation type="unfinished"></translation>
+        <translation>POWER(število,potenca)</translation>
     </message>
     <message>
         <source>Returns the result of a number raised to a power.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne potenco števila.</translation>
     </message>
     <message>
         <source>PRODUCT(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>PRODUCT(število1,število2,...)</translation>
     </message>
     <message>
         <source>Multiplies all the numbers given as arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Množi števila, ki so bila podana kot argumenti.</translation>
     </message>
     <message>
         <source>QUARTILE(array,quart)</source>
-        <translation type="unfinished"></translation>
+        <translation>QUARTILE(matrika,kvartil)</translation>
     </message>
     <message>
         <source>Returns the quartile of a data set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kvartil nabora podatkov.</translation>
     </message>
     <message>
         <source>RADIANS(angle)</source>
-        <translation type="unfinished"></translation>
+        <translation>RADIANS(kot)</translation>
     </message>
     <message>
         <source>Converts degrees to radians.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori stopinje v radiane.</translation>
     </message>
     <message>
         <source>RAND()</source>
-        <translation type="unfinished"></translation>
+        <translation>RAND()</translation>
     </message>
     <message>
         <source>Returns a random number greater than or equal to 0 and less than 1, evenly distributed (changes on recalculation).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne naključno število, ki je večje ali enako 0 in manjše od 1, enakomerno porazdeljeno (spremembe ponovnega preračuna).</translation>
     </message>
     <message>
         <source>RANDBETWEEN(bottom,top)</source>
-        <translation type="unfinished"></translation>
+        <translation>RANDBETWEEN(najmanjše,največje)</translation>
     </message>
     <message>
         <source>ROMAN(number,form)</source>
-        <translation type="unfinished"></translation>
+        <translation>ROMAN(število,oblika)</translation>
     </message>
     <message>
         <source>Converts an Arabic numeral to Roman, as text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori arabsko številko v rimsko v obliki besedila.</translation>
     </message>
     <message>
         <source>Returns a random integer between the two numbers you specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne naključno število med navedenimi števili.</translation>
     </message>
     <message>
         <source>ROUND(number,num_digits)</source>
-        <translation type="unfinished"></translation>
+        <translation>ROUND(število,št_števk)</translation>
     </message>
     <message>
         <source>Rounds a number to a specified number of digits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži število prek določenega števila števk.</translation>
     </message>
     <message>
         <source>SIGN(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>SIGN(število)</translation>
     </message>
     <message>
         <source>Returns the sign of a number: 1 if the number is positive, zero if the number is zero, or -1 if the number is negative.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne predznak števila: 1, če je število pozitivno, nič, če je število nič, ali -1, če je število negativno.</translation>
     </message>
     <message>
         <source>SIN(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>SIN(število)</translation>
     </message>
     <message>
         <source>Returns the sine of a given angle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne sinus danega kota.</translation>
     </message>
     <message>
         <source>SINH(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>SINH(število)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic sine of a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne hiperbolični sinus števila.</translation>
     </message>
     <message>
         <source>SKEW(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>SKEW(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the skewness of a distribution: a characterization of the degree of asymmetry of a distribution around its mean.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne asimetrijo porazdelitve, ki je označitev stopnje asimetrije porazdelitve okoli njene srednje vrednosti.</translation>
     </message>
     <message>
         <source>SQRT(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>SQRT(število)</translation>
     </message>
     <message>
         <source>Returns the square root of a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne pozitivni kvadratni koren števila.</translation>
     </message>
     <message>
         <source>SQRTPI(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>SQRTPI(število)</translation>
     </message>
     <message>
         <source>Returns the square root of a number which has been multiplied by Pi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kvadrtani koren za (število * pi).</translation>
     </message>
     <message>
         <source>STEYX(known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"></translation>
+        <translation>STEYX(znani_y-i,znani_x-i)</translation>
     </message>
     <message>
         <source>Returns the standard deviation of the predicted y-value for each x in the linear regression.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne standardno napako predvidenih y- vrednosti za vsak x v regresiji.</translation>
     </message>
     <message>
         <source>SUBTOTAL(function_num,ref1,ref2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUBTOTAL(št_funkcije,sklic1,sklic2,...)</translation>
     </message>
     <message>
         <source>Returns a subtotal in list or database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne delno vsoto s seznama ali iz zbirke podatkov.</translation>
     </message>
     <message>
         <source>SUM(number1,number2, ...)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUM(število1,število2, ...)</translation>
     </message>
     <message>
         <source>Returns the sum of all the numbers in a range of cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sešteje vsa števila v obsegu celic.</translation>
     </message>
     <message>
         <source>SUMIF(range,criteria,sum_range)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUMIF(obseg,pogoji,obseg_seštevanja)</translation>
     </message>
     <message>
         <source>Sums the cells that meet the given criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sešteje celice, ki jih določa podan pogoj ali kriterij.</translation>
     </message>
     <message>
         <source>SUMPRODUCT(array1,array2,array3, ...)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUMPRODUCT(matrika1,matrika2,matrika3, ...)</translation>
     </message>
     <message>
         <source>Multiplies the corresponding data in the given arrays and then returns the sum of the products.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne vsoto produktov ustreznih obsegov ali matrik.</translation>
     </message>
     <message>
         <source>TAN(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>TAN(število)</translation>
     </message>
     <message>
         <source>Returns the tangent of a given angle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne tangens danega kota.</translation>
     </message>
     <message>
         <source>TANH(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>TANH(število)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic tangent of a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne hiperbolični tangens števila.</translation>
     </message>
     <message>
         <source>ACOSH(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>ACOSH(število)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic cosine of a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzni hiperbolični kosinus števila.</translation>
     </message>
     <message>
         <source>ASINH(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASINH(število)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is number, so ASINH(SINH(number)) equals number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzni hiperbolični sinus števila.</translation>
     </message>
     <message>
         <source>ATANH(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>ATANH(število)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzni hiperbolični tangens števila.</translation>
     </message>
     <message>
         <source>TRUNC(number,num_digits)</source>
-        <translation type="unfinished"></translation>
+        <translation>TRUNC(število,št_števk)</translation>
     </message>
     <message>
         <source>Returns an integer by removing the decimal part of the number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prireže število na celo število tako, da odstrani decimalni del števila ali ulomek.</translation>
     </message>
     <message>
         <source>SUMSQ(number1,number2, ...)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUMSQ(število1,število2, ...)</translation>
     </message>
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contian numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne vsoto kvadratov argumentov. Argumenti so lahko števila, matrike, imena ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
-        <translation type="unfinished"></translation>
+        <translation>COMBIN(število,izbrano_število)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število kombinacij za dano število predmetov.</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
@@ -2467,771 +2471,771 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
-        <translation type="unfinished"></translation>
+        <translation>COVAR(matrika1,matrika2)</translation>
     </message>
     <message>
         <source>Returns covariance, the average of the products of deviations for each data point pair. Use covariance to determine the relationship between two data sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kovarianco, ki je povprečje produktov odklonov za vsak par podatkovnih točk v dveh podatkovnih množicah.</translation>
     </message>
     <message>
         <source>ROUNDDOWN(number,num_digits)</source>
-        <translation type="unfinished"></translation>
+        <translation>ROUNDDOWN(število,št_števk)</translation>
     </message>
     <message>
         <source>Rounds a number down, towards zero.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži število navzdol proti nič.</translation>
     </message>
     <message>
         <source>ROUNDUP(number,num_digits)</source>
-        <translation type="unfinished"></translation>
+        <translation>ROUNDUP(število,št_števk)</translation>
     </message>
     <message>
         <source>Rounds a number up, away from zero.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži število navzgor, stran od nič.</translation>
     </message>
     <message>
         <source>SERIESSUM(x,n,m,coefficients)</source>
-        <translation type="unfinished"></translation>
+        <translation>SERIESSUM(x,n,m,koeficienti)</translation>
     </message>
     <message>
         <source>Returns the sum of a power series.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne vsoto potenciranih nizov.</translation>
     </message>
     <message>
         <source>SUMX2MY2(array_x,array_y)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUMX2MY2(matrika_x,matrika_y)</translation>
     </message>
     <message>
         <source>Returns the sum of the differences of squares of corresponding values in two arrays.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna vsoto razlik kvadratov pripadajočih števil v dveh obsegih ali matrikah.</translation>
     </message>
     <message>
         <source>SUMX2PY2(array_x,array_y)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUMX2PY2(matrika_x,matrika_y)</translation>
     </message>
     <message>
         <source>Returns the sum of the sum squares of corresponding values in two arrays.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna skupno vsoto vseh vsot kvadratov števil v dveh pripadajočih obsegih ali matrikah.</translation>
     </message>
     <message>
         <source>SUMXMY2(array_x,array_y)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUMXMY2(matrika_x,matrika_y)</translation>
     </message>
     <message>
         <source>Returns the sum of squares of differences of corresponding values in two arrays.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna vsoto kvadratov razlik v dveh pripadajočih obsegih ali matrikah.</translation>
     </message>
     <message>
         <source>AVERAGE(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>AVERAGE(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of its arguments, which can be numbers, names, arrays or references that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne aritmetično povprečno vrednost njegovih argumentov, ki so lahko števila, imena, matrike ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>AVERAGEA(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>AVERAGEA(vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of the given arguments. Evaluates text and FALSE in arguments as 0, TRUE as 1. Arguments can be numbers, names, arrays or references.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne aritmetično povprečno vrednost svojih argumentov. Besedilo in logična vrednost FALSE v argumentih se ovrednoti kot 0, logična vrednost TRUE pa kot 1. Argumenti so lahko števila, imena, matrike ali sklici.</translation>
     </message>
     <message>
         <source>AVEDEV(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>AVEDEV(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the average of the absolute deviations of data points from their mean. AVEDEV is a measure of the variability in a data set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne povprečje absolutnih odstopanj podatkovnih točk od srednje vrednosti. Argumenti so lahko števila ali imena, matrike ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>BINOMDIST(number_s,trials,probability_s,cumulative)</source>
-        <translation type="unfinished"></translation>
+        <translation>BINOMDIST(število_s,poskusi,verjetnost_s,kumulativno)</translation>
     </message>
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne posamezno binomsko porazdelitveno verjetnost.</translation>
     </message>
     <message>
         <source>CHIDIST(x,degrees_freedom)</source>
-        <translation type="unfinished"></translation>
+        <translation>CHIDIST(x,stop_prostosti)</translation>
     </message>
     <message>
         <source>Returns the one-tailed probability of the chi-squared distribution. The c2 distribution is associated with a c2 test. Use the c2 test to compare observed and expected values. </source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne verjetnost dvorepe porazdelitve Hi-kvadrat.</translation>
     </message>
     <message>
         <source>CHIINV(probability,degrees_freedom)</source>
-        <translation type="unfinished"></translation>
+        <translation>CHIINV(verjetnost,stop_prostosti)</translation>
     </message>
     <message>
         <source>Returns the inverse of the one-tailed probability of the chi-squared distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno verjetnost porazdelitve Hi-kvadrat.</translation>
     </message>
     <message>
         <source>CHITEST(actual_range,expected_range)</source>
-        <translation type="unfinished"></translation>
+        <translation>CHITEST(dejanski_obseg,pričakovani_obseg)</translation>
     </message>
     <message>
         <source>Returns the test for independence. </source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne preizkus neodvisnosti.</translation>
     </message>
     <message>
         <source>CONFIDENCE(alpha,standard_dev,size)</source>
-        <translation type="unfinished"></translation>
+        <translation>CONFIDENCE(alfa,standardni_odklon,velikost)</translation>
     </message>
     <message>
         <source>Returns the confidence interval for a population mean, using a normal distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Z normalno porazdelitvijo vrne interval zaupanja za populacijsko srednjo vrednost.</translation>
     </message>
     <message>
         <source>CORREL(array1,array2)</source>
-        <translation type="unfinished"></translation>
+        <translation>CORREL(matrika1,matrika2)</translation>
     </message>
     <message>
         <source>Returns the correlation coefficient between two data sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne korelacijski koeficient med dvema naboroma podatkov.</translation>
     </message>
     <message>
         <source>COUNT(value1,value2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>COUNT(vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Returns the number of cells containing numbers and of numbers in the list of arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prešteje celice v obsegu, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>COUNTA(value1,value2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>COUNTA(vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Counts the number of cells that are not empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prešteje neprazne celice v obsegu.</translation>
     </message>
     <message>
         <source>COUNTBLANK(range)</source>
-        <translation type="unfinished"></translation>
+        <translation>COUNTBLANK(obseg)</translation>
     </message>
     <message>
         <source>Counts the number of empty cells in a specified range of cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna število praznih celic v danem obsegu.</translation>
     </message>
     <message>
         <source>COUNTIF(range,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>COUNTIF(obseg,pogoji)</translation>
     </message>
     <message>
         <source>Counts the number of cells within a range that meet the given condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prešteje celice v obsegu, ki se ujemajo z danim pogojem.</translation>
     </message>
     <message>
         <source>CRITBINOM(trials,probability_s,alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>CRITBINOM(poskusi,verjetnost_s,alfa)</translation>
     </message>
     <message>
         <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne najmanjšo vrednost, za katero je kumulativna binomska porazdelitev večja ali enaka vrednosti kriterija.</translation>
     </message>
     <message>
         <source>DEVSQ(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>DEVSQ(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne vsoto kvadratov odklonov podatkovnih točk iz njihovih vzorčnih srednjih vrednosti.</translation>
     </message>
     <message>
         <source>EXPONDIST(x,lambda,cumulative)</source>
-        <translation type="unfinished"></translation>
+        <translation>EXPONDIST(x,lambda,komulativno)</translation>
     </message>
     <message>
         <source>Returns the exponential distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne eksponentno porazdelitev.</translation>
     </message>
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
-        <translation type="unfinished"></translation>
+        <translation>FDIST(x,stop_prostosti1,stop_prostosti2)</translation>
     </message>
     <message>
         <source>Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne F-porazdelitev (dvorepo) verjetnosti (stopnja razpršenosti) za dve podatkovni množiči.</translation>
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
-        <translation type="unfinished"></translation>
+        <translation>FREQUENCY(matrika_podatkov,matrika_predalov)</translation>
     </message>
     <message>
         <source>Calculates how often values occur within a range of values and then returns a vertical array of numbers having one more element than Bins_array.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preračuna, kako pogosto se vrednosti pojavljajo v obsegu vrednosti, in nato vrne navpično matriko števil, ki ima en element več kot Bins_array.</translation>
     </message>
     <message>
         <source>FTEST(array1,array2)</source>
-        <translation type="unfinished"></translation>
+        <translation>FTEST(matrika1,matrika2)</translation>
     </message>
     <message>
         <source>Returns the result of an F-test, the one-tailed probability that the variances in Array1 and Array2 are not significantly different.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne rezultat F-preizkusa, ki je dvorepa verjetnost, da se varianci argumentov »matrika1« in »matrika2« bistveno ne razlikujeta.</translation>
     </message>
     <message>
         <source>GAMMADIST(x,alpha,beta,cumulative)</source>
-        <translation type="unfinished"></translation>
+        <translation>GAMMADIST(x,alfa,beta,kumulativno)</translation>
     </message>
     <message>
         <source>Returns the gamma distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne gama porazdelitev.</translation>
     </message>
     <message>
         <source>GAMMAINV(probability,alpha,beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>GAMMAINV(verjetnost,alfa,beta)</translation>
     </message>
     <message>
         <source>Returns the inverse of the gamma cumulative distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno gama kumulativno porazdelitev.</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
-        <translation type="unfinished"></translation>
+        <translation>GAMMALN(x)</translation>
     </message>
     <message utf8="true">
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne naravni logaritem gama funkcije.</translation>
     </message>
     <message>
         <source>GROWTH(known_y&apos;s,known_x&apos;s,new_x&apos;s,stats)</source>
-        <translation type="unfinished"></translation>
+        <translation>GROWTH(znani_y-i,znani_x-i,novi_x-i,konstanta)</translation>
     </message>
     <message>
         <source>Predicts the exponential growth by using existing data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne števila v trendu eksponentne rasti, ujemajočem z znanimi podatkovnimi točkami.</translation>
     </message>
     <message>
         <source>GEOMEAN(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>GEOMEAN(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the geometric mean of an array or range of positive numeric data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne geometrično srednjo vrednost matrike ali obsega pozitivnih številskih podatkov.</translation>
     </message>
     <message>
         <source>HARMEAN(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>HARMEAN(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the arithmetic mean of reciprocals.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne harmonično srednjo vrednost za nabor pozitivnih števil. Harmonična srednja vrednost je obratna vrednost aritmetične srednje vrednosti za obratne (recipročne) vrednosti.</translation>
     </message>
     <message>
         <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
-        <translation type="unfinished"></translation>
+        <translation>HYPGEOMDISTvzorec_s,velikost_vzorca,populacija_s,velikost_populacije)</translation>
     </message>
     <message>
         <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne hipergeometrično porazdelitev.</translation>
     </message>
     <message>
         <source>INTERCEPT(known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"></translation>
+        <translation>INTERCEPT(znani_y-1,znani_x-i)</translation>
     </message>
     <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna presečišče regresijske premice, ki gre skozi podatkovne točke znanih x- ov in znanih y -ov, z osjo y.</translation>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>KURT(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness or flatness of a distribution compared with the normal distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne sploščenost podatkovne množice.</translation>
     </message>
     <message>
         <source>LARGE(array,k)</source>
-        <translation type="unfinished"></translation>
+        <translation>LARGE(matrika,k)</translation>
     </message>
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne k- to največjo vrednost nabora podatkov, na primer peto največje število.</translation>
     </message>
     <message>
         <source>LINEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
-        <translation type="unfinished"></translation>
+        <translation>LINEST(znani_y-i,znani_x-i,konstanta,statistika)</translation>
     </message>
     <message>
         <source>Returns statistics that describe a linear trend matching known data points, by fitting a straight line using the least squares method.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne statistiko, ki opisuje linearni trend, ujemajoč z znanimi podatkovnimi točkami, s prilagajanjem premici po metodi najmanjših kvadratov.</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
-        <translation type="unfinished"></translation>
+        <translation>LOGINV(verjetnost,srednja_vrednost,standardni_odklon)</translation>
     </message>
     <message>
         <source>Returns the inverse of the lognormal cumulative distribution function of x, where ln(x) is the normal distribution of parameters Mean and Standard_dev.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno logaritmično normalno kumulativno porazdelitev funkcije x-a, kjer je ln(x) normalno porazdeljen, s parametroma »Srednja_vrednost« in »Standardni_odklon«.</translation>
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
-        <translation type="unfinished"></translation>
+        <translation>LOGNORMDIST(x,srednja_vrednost,standardni_odklon)</translation>
     </message>
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kumulativno logaritmično normalno porazdelitev za x, kjer je ln(x) normalno porazdeljen, s parametroma »Srednja_vrednost«.</translation>
     </message>
     <message>
         <source>MAX(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>MAX(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Ignores logical values and text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne največjo vrednost v množici vrednosti. Prezre logične vrednosti in besedilo.</translation>
     </message>
     <message>
         <source>MAXA(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>MAXA(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Does not ignore logical values and text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne največjo vrednost v množici vrednosti. Ne prezre logičnih vrednosti ali besedila.</translation>
     </message>
     <message>
         <source>MEDIAN(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>MEDIAN(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the median of the given numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne mediano ali število v sredini množice danih števil.</translation>
     </message>
     <message>
         <source>MIN(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>MIN(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the minimum value in a list of arguments. Ignores logical values and text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne najmanjšo vrednost v množici vrednosti. Prezre logične vrednosti in besedilo.</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>MINA(vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Returns the minimum value in a list of arguments. Does not ignore logical values and text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne najmanjšo vrednost v množici vrednosti. Ne prezre logičnih vrednosti in besedila.</translation>
     </message>
     <message>
         <source>MODE(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>MODE(število1,število2,...)</translation>
     </message>
     <message>
         <source>Returns the most common number (most frequently occurring) in an array or range of data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne najpogostejšo vrednost v matriki ali v obsegu podatkov.</translation>
     </message>
     <message>
         <source>NEGBINOMDIST(number_f,number_s,probability_s)</source>
-        <translation type="unfinished"></translation>
+        <translation>NEGBINOMDIST(število_f,število_s,verjetnost_s)</translation>
     </message>
     <message>
         <source>Returns the negative binomial distribution, the probability that there will be Number_f failures before the Number_s-th success, with Probability_s probability of a success.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne negativno binomsko porazdelitev, ki je verjetnost, da boste doživeli »število_f« neuspehov pred uspehom, ki je po vrstnem redu »število_s«, upoštevajoč, da je konstantna verjetnost uspeha enaka »verjetnost_s«.</translation>
     </message>
     <message>
         <source>NORMDIST(x,mean,standard_dev,cumulative)</source>
-        <translation type="unfinished"></translation>
+        <translation>NORMDIST(x,srednja_vrednost,standardni_odklon,kumulativno)</translation>
     </message>
     <message>
         <source>Returns the normal cumulative distribution for the specified mean and standard deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne normalno kumulativno porazdelitev za navedeno srednjo vrednost in standardni odklon</translation>
     </message>
     <message>
         <source>NORMINV(probability,mean,standard_dev)</source>
-        <translation type="unfinished"></translation>
+        <translation>NORMINV(verjetnost,srednja_vrednost,standardni_odklon)</translation>
     </message>
     <message>
         <source>Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno normalno kumulativno porazdelitev za navedeno srednjo vrednost in standardni odklon.</translation>
     </message>
     <message>
         <source>NORMSDIST(z)</source>
-        <translation type="unfinished"></translation>
+        <translation>NORMSDIST(z)</translation>
     </message>
     <message>
         <source>Returns the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne standardno normalno kumulativno porazdelitev (ima srednjo vrednost nič in standardni odklon ena).</translation>
     </message>
     <message>
         <source>NORMSINV(probability)</source>
-        <translation type="unfinished"></translation>
+        <translation>NORMSINV(verjetnost)</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution fuction with a mean of zero and a standard deviation of one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno standardno normalno kumulativno porazdelitev (ima srednjo vrednost nič in standardni odklon ena).</translation>
     </message>
     <message>
         <source>PERCENTRANK(array,x,significance)</source>
-        <translation type="unfinished"></translation>
+        <translation>PERCENTRANK(matrika,x,pomembnost)</translation>
     </message>
     <message>
         <source>Returns the percentage rank of a value in a data set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne rang vrednosti v množici podatkov kot odstotek podatkovne množice.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
-        <translation type="unfinished"></translation>
+        <translation>PERMUT(število,število_izbranih)</translation>
     </message>
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število permutacij za dano število predmetov, ki so lahko izbrani izmed vseh predmetov.</translation>
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
-        <translation type="unfinished"></translation>
+        <translation>PEARSON(matrika1,matrika2)</translation>
     </message>
     <message>
         <source>Returns the Pearson product moment correlation coefficient, r, a dimensionless index that ranges from -1.0 to 1.0 inclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne Pearsonov korelacijski koeficient r.</translation>
     </message>
     <message>
         <source>PERCENTILE(array,k)</source>
-        <translation type="unfinished"></translation>
+        <translation>PERCENTILE(matrika,k)</translation>
     </message>
     <message>
         <source>Returns the k-th percentile of values in a range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne k-ti percentil vrednosti v obsegu.</translation>
     </message>
     <message>
         <source>RANK(number,ref,order)</source>
-        <translation type="unfinished"></translation>
+        <translation>RANK(število,sklic,vrstni_red)</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne rang števila na seznamu števil.</translation>
     </message>
     <message>
         <source>PROB(x_range,prob_range,lower_limit,upper_limit)</source>
-        <translation type="unfinished"></translation>
+        <translation>PROB(x_obseg,verjet_obseg,spodnja_meja,zgornja_meja)</translation>
     </message>
     <message>
         <source>Returns the probability that values in a range which are between two limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne verjetnost, da so vrednosti obsega med obema mejama ali enake spodnji meji.</translation>
     </message>
     <message>
         <source>RSQ(known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"></translation>
+        <translation>RSQ(znani_y-i,znani_x-i)</translation>
     </message>
     <message>
         <source>RSQ(Returns the square of the Pearson product moment correlation coefficient through data points in known_y&apos;s and known_x&apos;s.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kvadrat Pearsonovega korelacijskega koeficienta</translation>
     </message>
     <message>
         <source>SLOPE(known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"></translation>
+        <translation>SLOPE(znani_y-i,znani_x-i)</translation>
     </message>
     <message>
         <source>Returns the slope of the linear regression line through data points in known_y&apos;s and known_x&apos;s.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne naklon regresijske premice skozi dane podatkovne točke.</translation>
     </message>
     <message>
         <source>SMALL(array,k)</source>
-        <translation type="unfinished"></translation>
+        <translation>SMALL(matrika,k)</translation>
     </message>
     <message>
         <source>Returns the k-th smallest value in a data set. For example, the fourth smallest number if k equals four.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne k- to najmanjšo vrednost nabora podatkov, na primer peto najmanjše število.</translation>
     </message>
     <message>
         <source>STANDARDIZE(x,mean,standard_dev)</source>
-        <translation type="unfinished"></translation>
+        <translation>STANDARDIZIRANJE(x,srednja_vrednsost,standardni_odklon)</translation>
     </message>
     <message>
         <source>Returns a normalized value from a distribution characterized by mean and standard_dev.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne normalizirano vrednost iz porazdelitve, ki je označena s srednjo vrednostjo in standardnim odklonom.</translation>
     </message>
     <message>
         <source>STDEV(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>STDEV(število1,število2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on a sample(ignores logical values and text in the sample).</source>
-        <translation type="unfinished"></translation>
+        <translation>Oceni standardni odklon glede na vzorec (v vzorcu prezre logične vrednosti in besedilo).</translation>
     </message>
     <message>
         <source>STDEVA(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>STDEVA(vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugotovi standardni odklon, ki temelji na vzorcu, ki vsebuje logične vrednosti in besedilo. Besedilo in logična vrednost FALSE imata vrednost 0, logična vrednost TRUE pa ima vrednost 1.</translation>
     </message>
     <message>
         <source>STDEVP(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>STDEVP(število1,število2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population (ignores logical values and text).</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna standardni odklon na podlagi celotne populacije, navedene v obliki argumentov (prezre logične vrednosti in besedilo).</translation>
     </message>
     <message>
         <source>STDEVPA(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>STDEVPA(vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population. Doesn&apos;t ignore logical values and text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna standardni odklon, ki temelji na celotni populaciji, vključno z logičnimi vrednostmi in besedilom. Besedilo in logična vrednost FALSE imata vrednost 0, logična vrednost TRUE pa ima vrednost 1.</translation>
     </message>
     <message>
         <source>TDIST(x,degrees_freedom,tails)</source>
-        <translation type="unfinished"></translation>
+        <translation>TDIST(x,stop_prostosti,repi)</translation>
     </message>
     <message>
         <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne Studentovo t- porazdelitev.</translation>
     </message>
     <message>
         <source>TINV(probability,degrees_freedom)</source>
-        <translation type="unfinished"></translation>
+        <translation>TINV(verjetnost,stop_prostosti)</translation>
     </message>
     <message>
         <source>Returns the t-value of the Student&apos;s t-distribution as a function of the probability and the degrees of freedom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne dvorepo inverzno Studentovo t- porazdelitev.</translation>
     </message>
     <message>
         <source>TTEST(array1,array2,tails,type)</source>
-        <translation type="unfinished"></translation>
+        <translation>TTEST(matrika1,matrika2,repi,vrsta)</translation>
     </message>
     <message>
         <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne verjetnost, povezano s Studentovim t- preskusom.</translation>
     </message>
     <message>
         <source>TRIMMEAN(array,percent)</source>
-        <translation type="unfinished"></translation>
+        <translation>TRIMMEAN(matrika,odstotek)</translation>
     </message>
     <message>
         <source>Returns the mean of the interior of a data set. </source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne srednjo vrednost iz množice podatkovnih vrednosti.</translation>
     </message>
     <message>
         <source>VAR(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>VAR(število1,število2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on a sample(ignores logical values and text in the sample).</source>
-        <translation type="unfinished"></translation>
+        <translation>Oceni odmik glede na vzorec ( v vzorcu prezre logične vrednosti in besedilo).</translation>
     </message>
     <message>
         <source>VARA(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>VARA(vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugotovi varianco, ki temelji na vzorcu, ki vsebuje tudi logične vrednosti in besedilo. Besedilo in logična vrednost FALSE imata vrednost 0, logična vrednost TRUE pa ima vrednost 1.</translation>
     </message>
     <message>
         <source>VARP(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>VARP(število1,število2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(ignores logical values and text in the population).</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna varianco na podlagi celotne populacije (v populaciji prezre logične vrednosti in besedilo).</translation>
     </message>
     <message>
         <source>VARPA(number1,number2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>VARPA(vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(includes logical values and text in the population).</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna varianco, ki temelji na celotni populaciji, ki vsebuje tudi logične vrednosti in besedilo. Besedilo in logična vrednost FALSE imata vrednost 0, logična vrednost TRUE pa ima vrednost 1.</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of the gamma function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne naravni logaritem gama funkcije.</translation>
     </message>
     <message>
         <source>FINV(probability,degrees_freedom1,degrees_freedom2)</source>
-        <translation type="unfinished"></translation>
+        <translation>FINV(verjetnost,stop_prostosti1,stop_prostosti2)</translation>
     </message>
     <message>
         <source>Returns the inverse of the F probability distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno F verjetnostno porazdelitev.</translation>
     </message>
     <message>
         <source>FORECAST(x,known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"></translation>
+        <translation>FORECAST(x,znani_y-i,znani_x-i)</translation>
     </message>
     <message>
         <source>Calculates or predicts a future value by using the existing values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna ali predvidi bodočo vrednost vzdolž linearnega trenda z uporabo obstoječih vrednosti.</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
-        <translation type="unfinished"></translation>
+        <translation>BETADIST(x,alfa,beta,A,B)</translation>
     </message>
     <message>
         <source>Returns the cumulative beta probability density function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kumulativno porazdelitev beta gostote verjetnosti.</translation>
     </message>
     <message>
         <source>BETAINV(probability,alpha,beta,A,B)</source>
-        <translation type="unfinished"></translation>
+        <translation>BETAINV(verjetnost,alfa,beta,A,B)</translation>
     </message>
     <message>
         <source>Returns the inverse of the cumulative beta probability density function (BETADIST).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno kumulativno porazdelitev beta gostote verjetnosti (BETADIST).</translation>
     </message>
     <message>
         <source>FISHER(x)</source>
-        <translation type="unfinished"></translation>
+        <translation>FISHER(x)</translation>
     </message>
     <message>
         <source>Returns the Fisher transformation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne Fischerjevo transformacijo.</translation>
     </message>
     <message>
         <source>FISHERINV(y)</source>
-        <translation type="unfinished"></translation>
+        <translation>FISHERINV(y)</translation>
     </message>
     <message>
         <source>Returns the inverse of the Fisher transformation. If y = FISHER(x), then FISHRINV(y) = x.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno Fischerjevo transformacijo. Če y = FISHER(x), potem FISHERINV(y) = x.</translation>
     </message>
     <message>
         <source>POISSON(x,mean,cumulative)</source>
-        <translation type="unfinished"></translation>
+        <translation>POISSON(x,srednja_vrednost,kumulativno)</translation>
     </message>
     <message>
         <source>Returns the Poisson distribution. Poisson distribution is commonly used to predict the number of events over a specific time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne Poissonovo porazdelitev.</translation>
     </message>
     <message>
         <source>WEIBULL(x,alpha,beta,cumulative)</source>
-        <translation type="unfinished"></translation>
+        <translation>WEIBULL(x,alfa,beta,kumulativno)</translation>
     </message>
     <message>
         <source>Returns the Weibull distribution. Use this function in reliability analysis, such as calculating a device&apos;s mean time to failure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne Weibullovo porazdelitev.</translation>
     </message>
     <message utf8="true">
         <source>ZTEST(array,μ0,sigma)</source>
-        <translation type="unfinished"></translation>
+        <translation>ZTEST(matrika,μ0,sigma)</translation>
     </message>
     <message>
         <source>Returns the one-tailed probability-value of a z-test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne enorepo P- vrednost z- preizkusa.</translation>
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
-        <translation type="unfinished"></translation>
+        <translation>ADDRESS(št_vrstice,št_stolpca,abs_št,a1,besedilo_lista)</translation>
     </message>
     <message>
         <source>Creates a cell reference as text according to the specified row and column numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari sklic na celico kot besedilo. Podati morate številko vrstice in številko stolpca.</translation>
     </message>
     <message>
         <source>AREAS(reference)</source>
-        <translation type="unfinished"></translation>
+        <translation>AREAS(sklic)</translation>
     </message>
     <message>
         <source>Returns the number of areas in a reference. An area is a range of contiguous cells or a single cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število področij v sklicu. Področje je obseg povezanih celic ali ena sama.</translation>
     </message>
     <message>
         <source>CHOOSE(index_num,value1,value2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>CHOOSE(št_indeksa,vrednost1,vrednost2,...)</translation>
     </message>
     <message>
         <source>Returns a value from the list of arguments based on the given index number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbere vrednost ali dejanje, ki naj se izvede, s seznama vrednosti, ki temelji na indeksni številki.</translation>
     </message>
     <message>
         <source>COLUMN(reference)</source>
-        <translation type="unfinished"></translation>
+        <translation>COLUMN(sklic)</translation>
     </message>
     <message>
         <source>Returns the column number of a reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne številko stolpca danega sklica.</translation>
     </message>
     <message>
         <source>COLUMNS(array)</source>
-        <translation type="unfinished"></translation>
+        <translation>COLUMNS(matrika)</translation>
     </message>
     <message>
         <source>Returns the number of columns in an array or reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število stolpcev v matriki ali v sklicu.</translation>
     </message>
     <message>
         <source>HLOOKUP(lookup_value,table_array,row_index_num,range_lookup)</source>
-        <translation type="unfinished"></translation>
+        <translation>HLOOKUP(iskana_vrednost,matrika_tabele,št_indeksa_vrstice,obseg_iskanja)</translation>
     </message>
     <message>
         <source>Looks for a value in the top row of a table or array of values and returns a value in the same column from a row you specify in the table or array (The table is ascending by default) .</source>
-        <translation type="unfinished"></translation>
+        <translation>Poišče vrednost v zgornji vrstici tabele ali matrike vrednosti in vrne vrednost iz istega stolpca in vrstice, ki jo vi določite.</translation>
     </message>
     <message>
         <source>INDEX(array,row_num,column_num)</source>
-        <translation type="unfinished"></translation>
+        <translation>INDEX(matrika,št_vrstice,št_stolpca)</translation>
     </message>
     <message>
         <source>Returns the value of an element in a table or an array, selected by the row and column number indexes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne vrednost ali sklic na celico v preseku določene vrstice in stolpca v navedenem obsegu.</translation>
     </message>
     <message>
         <source>INDIRECT(ref_text,a1)</source>
-        <translation type="unfinished"></translation>
+        <translation>INDIRECT(besedilo_sklica,a1)</translation>
     </message>
     <message>
         <source>Returns the reference specified by a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne sklic, ki ga določa besedilni niz.</translation>
     </message>
     <message>
         <source>LOOKUP(lookup_value,lookup_vector,result_vector);LOOKUP(lookup_value,array)</source>
-        <translation type="unfinished"></translation>
+        <translation>LOOKUP(iskalna_vrednost,vektor_iskanja,vektor_rezultata);LOOKUP(iskalna_vrednost_matrika)</translation>
     </message>
     <message>
         <source>Looks up a value either from a one-row or one-column range or from an array.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poišče vrednost bodisi iz obsega, ki vsebuje le eno vrstico ali le en stolpec, bodisi iz matrike.</translation>
     </message>
     <message>
         <source>MATCH(lookup_value,lookup_array,match_type)</source>
-        <translation type="unfinished"></translation>
+        <translation>MATCH(iskalna_vrednost,matrika_iskanja,vrsta_ujemanja)</translation>
     </message>
     <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne relativni položaj elementa v matriki, ki se ujema z navedeno vrednostjo v navedenem vrstnem redu.</translation>
     </message>
     <message>
         <source>OFFSET(reference,rows,cols,height,width)</source>
-        <translation type="unfinished"></translation>
+        <translation>OFFSET(sklic,vrstice,stolpci,višina,širina)</translation>
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne sklic na obseg, ki je dano število vrstic in stolpcev iz danega sklica.</translation>
     </message>
     <message>
         <source>ROW(reference)</source>
-        <translation type="unfinished"></translation>
+        <translation>ROW(sklic)</translation>
     </message>
     <message>
         <source>Returns the internal row number of a specified reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne številko vrstice za sklic.</translation>
     </message>
     <message>
         <source>ROWS(array)</source>
-        <translation type="unfinished"></translation>
+        <translation>ROWS(matrika)</translation>
     </message>
     <message>
         <source>Returns the number of rows in a reference or array.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število vrstic v sklicu ali v matriki.</translation>
     </message>
     <message>
         <source>VLOOKUP(lookup_value,table_array,col_index_num,range_lookup)</source>
-        <translation type="unfinished"></translation>
+        <translation>VLOOKUP(iskana_vrednost,matrika_tabele,št_indeksa_stolpca,obseg_iskanja)</translation>
     </message>
     <message>
         <source>Searches a specified value in the leftmost column of a table and returns a value in the current row from a column you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poišče vrednost v skrajnem levem stolpcu tabele in vrne vrednost v isti vrstici iz stolpca, ki ga navedete. Privzeto mora biti tabela urejena v naraščajočem vrstnem redu.</translation>
     </message>
     <message>
         <source>ASC(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASC(besedilo)</translation>
     </message>
     <message>
         <source>Converts full-width (double-byte) characters to half-width (single-byte) characters. Use with double-byte character sets (DBCS).</source>
@@ -3239,67 +3243,67 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>CHAR(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>CHAR(število)</translation>
     </message>
     <message>
         <source>Returns the character specified by the code number from the character set for your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne znak, ki ga določa kodno število, iz nabora znakov vašega računalnika.</translation>
     </message>
     <message>
         <source>CODE(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>CODE(besedilo)</translation>
     </message>
     <message>
         <source>Returns a numeric code for the first character in a text string, in the character set used by your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne številsko kodo prvega znaka v besedilnem nizu, v naboru znakov, ki ga uporablja računalnik.</translation>
     </message>
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>CONCATENATE (besedilo1,besedilo2,...)</translation>
     </message>
     <message>
         <source>Joins several text strings into one text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Združi več besedilnih nizov v enega.</translation>
     </message>
     <message>
         <source>EXACT(text1,text2)</source>
-        <translation type="unfinished"></translation>
+        <translation>EXACT(besedilo1,besedilo2)</translation>
     </message>
     <message>
         <source>Returns TRUE if one string is exactly equal to another string (EXACTLY means case-sensitive); returns FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali sta dva besedilna niza popolnoma enaka, in vrne TRUE ali FALSE. EXACT loči velike in male črke.</translation>
     </message>
     <message>
         <source>FIND(find_text,within_text,start_num)</source>
-        <translation type="unfinished"></translation>
+        <translation>FIND(iskano_besedilo,v_besedilu,začetni_znak)</translation>
     </message>
     <message>
         <source>Returns the starting position of one text string within another(case-sensitive and wildcard characters are not allowed).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne začetni položaj besedilnega niza v drugem besedilnem nizu. FIND loči velike in male črke.</translation>
     </message>
     <message>
         <source>LEFT(text,num_chars)</source>
-        <translation type="unfinished"></translation>
+        <translation>LEFT(besedilo,št_znakov)</translation>
     </message>
     <message>
         <source>Returns the characters with a specified number from the first character of a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne določeno število znakov od začetka besedilnega niza.</translation>
     </message>
     <message>
         <source>LEN(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>LEN(besedilo)</translation>
     </message>
     <message>
         <source>Returns the length of a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število znakov v besedilnem nizu.</translation>
     </message>
     <message>
         <source>LOWER(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>LOWER(besedilo)</translation>
     </message>
     <message>
         <source>Returns the lower-case version of a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori vse črke v besedilnem nizu v male črke.</translation>
     </message>
     <message>
         <source>LTRIM(text)</source>
@@ -3311,35 +3315,35 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
-        <translation type="unfinished"></translation>
+        <translation>MID(besedilo,prvi_znak,št_znakov)</translation>
     </message>
     <message>
         <source>Returns the characters with a specified length from a given starting position in a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne znake iz sredine besedilnega niza, če sta podana začetni položaj in dolžina.</translation>
     </message>
     <message>
         <source>REPLACE(old_text,start_num,num_chars,new_text)</source>
-        <translation type="unfinished"></translation>
+        <translation>REPLACE(staro_besedilo;mesto_znaka;št_znakov;novo_besedilo)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenja del besedilnega niza z drugim besedilnim nizom.</translation>
     </message>
     <message>
         <source>REPT(text,number_times)</source>
-        <translation type="unfinished"></translation>
+        <translation>REPT(besedilo,št_ponovitev)</translation>
     </message>
     <message>
         <source>Returns the repetitions of string for specified times. You can use REPT to fill a cell with a text string repeatedly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovi besedilo tolikokrat, kolikor krat je navedeno. Uporabite REPT, če želite zapolniti celico z več ponovitvami besedilnega niza.</translation>
     </message>
     <message>
         <source>RIGHT(text,num_chars)</source>
-        <translation type="unfinished"></translation>
+        <translation>RIGHT(besedilo,št_znakov)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the end of a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne določeno število znakov od konca besedilnega niza.</translation>
     </message>
     <message>
         <source>RTRIM(text)</source>
@@ -3351,63 +3355,63 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>
-        <translation type="unfinished"></translation>
+        <translation>SEARCH(iskano_besedilo,v_besedilu,št_začetka)</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne številko znaka, kjer je prvič – gledano z leve proti desni - najden poseben znak ali besedilni niz (ne loči velikih in malih črk).</translation>
     </message>
     <message>
         <source>SUBSTITUTE(text,old_text,new_text,instance_num)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUBSTITUTE(besedilo,staro_besedilo,novo_besedilo,št_primerka)</translation>
     </message>
     <message>
         <source>Replaces part of the old text with new text in a string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenja staro besedilo z novim v besedilnem nizu.</translation>
     </message>
     <message>
         <source>TEXT(value,format_text)</source>
-        <translation type="unfinished"></translation>
+        <translation>TEXT(vrednost,oblika_besedila)</translation>
     </message>
     <message>
         <source>Returns value as a string with the specified format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost pretvori v besedilo v točno določeni obliki zapisa števila.</translation>
     </message>
     <message>
         <source>TRIM(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>TRIM(besedilo)</translation>
     </message>
     <message>
         <source>Returns text with only single spaces between words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iz besedilnega niza odstrani vse presledke, razen enojnih presledkov med besedami.</translation>
     </message>
     <message>
         <source>UPPER(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>UPPER(besedilo)</translation>
     </message>
     <message>
         <source>Returns the upper-case version of a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori besedilni niz v vse velike črke.</translation>
     </message>
     <message>
         <source>VALUE(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>VALUE(besedilo)</translation>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori besedilni niz, ki predstavlja število, v število.</translation>
     </message>
     <message>
         <source>PROPER(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>PROPER(besedilo)</translation>
     </message>
     <message>
         <source>Capitalizes the initials of all the words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori besedilni niz v velike in male črke; vsako prvo črko v besedi v veliko začetnico, vse preostale črke pa pretvori v male.</translation>
     </message>
     <message>
         <source>DOLLAR(number,decimals)</source>
-        <translation type="unfinished"></translation>
+        <translation>DOLLAR(število,decimalna_mesta)</translation>
     </message>
     <message>
         <source>Converts a number to text, using currency format(US dollar) and the specified digits.</source>
@@ -3415,7 +3419,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>RMB(number,decimals)</source>
-        <translation type="unfinished"></translation>
+        <translation>RMB(število,decimalna_mesta)</translation>
     </message>
     <message>
         <source>Converts a number to text, using currency format(RMB) and the specified digits.</source>
@@ -3423,59 +3427,59 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>AND(logical1,logical2, ...)</source>
-        <translation type="unfinished"></translation>
+        <translation>AND(logično1,logično2, ...)</translation>
     </message>
     <message>
         <source>Returns FASLE if any of the arguments are FALSE; returns TRUE only if all arguments are TRUE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali imajo vsi argumenti vrednost TRUE, in vrne vrednost TRUE, če imajo vsi argumenti vrednost TRUE.</translation>
     </message>
     <message>
         <source>FALSE()</source>
-        <translation type="unfinished"></translation>
+        <translation>FALSE()</translation>
     </message>
     <message>
         <source>Returns the logical value FALSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne logično vrednost FALSE.</translation>
     </message>
     <message>
         <source>IF(logical_test,value_if_true,value_if_false)</source>
-        <translation type="unfinished"></translation>
+        <translation>IF(logični_test,vrednost_če_je_true,vrednost_če_je_false)</translation>
     </message>
     <message>
         <source>Checks whether a condition is met, and returns one value if TRUE, and another value if FALSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je pogoj izpolnjen, in vrne eno vrednost, če je TRUE, in drugo vrednost, če je FALSE.</translation>
     </message>
     <message>
         <source>NOT(logical)</source>
-        <translation type="unfinished"></translation>
+        <translation>NOT(logično)</translation>
     </message>
     <message>
         <source>Reverses the logical value of the argument.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni FALSE v TRUE ali TRUE v FALSE.</translation>
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>OR(logično1,logično2,...)</translation>
     </message>
     <message>
         <source>Returns TRUE if any of the arguments are TRUE; returns FALSE only if all arguments are FALSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali ima kateri argument vrednost TRUE; vrne vrednost TRUE ali FALSE. Vrne vrednost FALSE, če imajo vsi argumenti vrednost FALSE.</translation>
     </message>
     <message>
         <source>TRUE()</source>
-        <translation type="unfinished"></translation>
+        <translation>TRUE()</translation>
     </message>
     <message>
         <source>Returns the logical value TRUE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne logično vrednost TRUE.</translation>
     </message>
     <message>
         <source>ERROR.TYPE(error_val)</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR.TYPE(vrednost_napake)</translation>
     </message>
     <message>
         <source>Returns a number corresponding to the given error value; returns #N/A if no error exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število, ki ustreza vrednosti napake.</translation>
     </message>
     <message>
         <source>FORMULA(Ref)</source>
@@ -3487,599 +3491,599 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>ISBLANK(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISBLANK(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value refers to an empty cell and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali gre za sklic na prazno celico, in vrne TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>ISERR(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISERR(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is an error (#VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL) excluding #N/A; returns FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je vrednost napaka (#VREDN!, #SKLIC!, #DEL/0!, #ŠTEV!, #IME? ali #NIČ!), z izjemo #N/V, in vrne vrednost TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>ISERROR(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISERROR(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is an error (#N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL); returns FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je vrednost napaka (#N/V, #VREDN!, #SKLIC!, #DEL/0!, #ŠTEV!, #IME? ali #NIČ!) in vrne TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>ISEVEN(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISEVEN(število)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne TRUE, če je število sodo.</translation>
     </message>
     <message>
         <source>ISLOGICAL(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISLOGICAL(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is a logical value and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je vrednost logična vrednost (TRUE ali FALSE), in vrne TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>ISNA(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISNA(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is #N/A and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je vrednost #N/V, in vrne TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>ISNONTEXT(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISNONTEXT(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is not text (blank cells are not text) and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali vrednost ni besedilo (prazne celice niso besedilo), in vrne TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>ISNUMBER(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISNUMBER(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is a number and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je vrednost število, in vrne TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>ISODD(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISODD(število)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is odd and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne TRUE, če je število liho.</translation>
     </message>
     <message>
         <source>ISREF(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISREF(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if the value is a reference and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je vrednost sklic, in vrne TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>ISTEXT(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISTEXT(vrednost)</translation>
     </message>
     <message>
         <source>Returns TRUE if the value is text and FALSE otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je vrednost besedilo, in vrne TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>N(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>N(vrednost)</translation>
     </message>
     <message>
         <source>Returns a value that has been converted to a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori neštevilsko vrednost v število, datume v zaporedna števila, TRUE v 1, kar koli drugega pa v 0 (nič).</translation>
     </message>
     <message>
         <source>NA()</source>
-        <translation type="unfinished"></translation>
+        <translation>NA()</translation>
     </message>
     <message>
         <source>Returns the error value #N/A, the abbreviation of &quot;value not available&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne vrednost napake #N/V (vrednost ni na voljo).</translation>
     </message>
     <message>
         <source>TYPE(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>TYPE(vrednost)</translation>
     </message>
     <message>
         <source>Returns a number representing the data type of a value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne celo število, ki predstavlja podatkovno vrsto vrednosti: število = 1; besedilo = 2; logična vrednost = 4; vrednost napake = 16; matrika = 64.</translation>
     </message>
     <message>
         <source>DB(cost,salvage,life,period,month)</source>
-        <translation type="unfinished"></translation>
+        <translation>DB(stroški,vrednost_po_amor,št_obdobij,obdobje,mesec)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the fixed-declining balance method.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne amortizacijo sredstva za določeno obdobje po metodi fiksnopojemajočega salda.</translation>
     </message>
     <message>
         <source>DDB(cost,salvage,life,period,factor)</source>
-        <translation type="unfinished"></translation>
+        <translation>DDB(stroški,vrednost_po_amor,št_obdobij,obdobje,faktor)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne amortizacijo sredstva za določeno obdobje z metodo dvojnopojemajočega salda ali s kakšno drugo metodo, ki jo določite.</translation>
     </message>
     <message>
         <source>FV(rate,nper,pmt,pv,type)</source>
-        <translation type="unfinished"></translation>
+        <translation>FV(mera,obdobja,plačilo,sv,vrsta)</translation>
     </message>
     <message>
         <source>Returns the future value of an investment based on periodic, constant payments and a constant interest rate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne bodočo vrednost naložbe, ki temelji na periodičnih, enakih plačilih in nespremenljivi obrestni meri.</translation>
     </message>
     <message>
         <source>IPMT(rate,per,nper,pv,fv,type)</source>
-        <translation type="unfinished"></translation>
+        <translation>IPMT(mera,obdobje,št_plačil,sv,pv,vrsta)</translation>
     </message>
     <message>
         <source>Returns the amount of interest payment for an investment within a given period, based on periodic, constant payments and a constant interest rate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne plačilo obresti za naložbo v navedenem obdobju, ki temelji na periodičnih, enakih plačilih in nespremenljivi obrestni meri.</translation>
     </message>
     <message>
         <source>IRR(values,guess)</source>
-        <translation type="unfinished"></translation>
+        <translation>IRR(vrednosti,domneva)</translation>
     </message>
     <message>
         <source>Returns the internal rate of return that is represented by numbers for a series of cash flows. </source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne notranjo stopnjo donosa za vrsto denarnih tokov.</translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPMT(rmera,obdobje,št_obdobij,sv)</translation>
     </message>
     <message>
         <source>Calculates the interest that should be paid within a specific investment period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne obresti, plačane v določenem obdobju naložbe.</translation>
     </message>
     <message>
         <source>MIRR(values,finance_rate,reinvest_rate)</source>
-        <translation type="unfinished"></translation>
+        <translation>MIRR(vrednosti,obrestna_mera,mera_reinvesticije)</translation>
     </message>
     <message>
         <source>Returns the modified internal rate of return for the given periodic cash flows. MIRR takes both the cost of the investment and the interest received on reinvestment of cash into account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne notranjo stopnjo donosa za vrsto periodičnih denarnih tokov, upoštevajoč oba: ceno naložbe in obresti na vnovično naložbo denarja.</translation>
     </message>
     <message>
         <source>NPER(rate, pmt, pv, fv, type)</source>
-        <translation type="unfinished"></translation>
+        <translation>NPER(mera, plačilo, sv, pv, vrsta)</translation>
     </message>
     <message>
         <source>Returns the number of payment periods for an investment based on periodic, constant payments and a constant interest rate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število obdobij za naložbo, ki temelji na periodičnih, enakih plačilih in nespremenljivi obrestni meri.</translation>
     </message>
     <message>
         <source>NPV(rate,value1,value2, ...)</source>
-        <translation type="unfinished"></translation>
+        <translation>NPV(stopnja,vrednost1,vrednost2, ...)</translation>
     </message>
     <message>
         <source>Returns the net present value of an investment, using a discount rate and a series of future periodic payments and income.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne sedanjo neto vrednost naložbe, ki temelji na diskontni stopnji in na vrsti bodočih plačil (negativne vrednosti) in prihodku (pozitivne vrednosti).</translation>
     </message>
     <message>
         <source>PMT(rate,nper,pv,fv,type)</source>
-        <translation type="unfinished"></translation>
+        <translation>PMT(mera,obdobja,sv,pv,vrsta)</translation>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna plačilo za posojilo, ki temelji na enakih plačilih in nespremenljivi obrestni meri.</translation>
     </message>
     <message>
         <source>PPMT(rate,per,nper,pv,fv,type)</source>
-        <translation type="unfinished"></translation>
+        <translation>PPMT(mera,obdobja,št_plačil,sv,pv,vrsta)</translation>
     </message>
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne plačilo na glavnico za naložbo, ki temelji na enakih plačilih in nespremenljivi obrestni meri.</translation>
     </message>
     <message>
         <source>PV(rate,nper,pmt,fv,type)</source>
-        <translation type="unfinished"></translation>
+        <translation>PV(mera,obdobja,plačilo,sv,vrsta)</translation>
     </message>
     <message>
         <source>Returns the present value of an investment, calculating from a series of future payments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne sedanjo vrednost naložbe: celotna vsota vrednosti vrste bodočih plačil v tem trenutku.</translation>
     </message>
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
-        <translation type="unfinished"></translation>
+        <translation>RATE(obdobja,plačilo,sv,pv,vrsta,domneva)</translation>
     </message>
     <message>
         <source>Returns the interest rate per period of an annuity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne rang števila na seznamu števil, ki je relativna velikost števila glede na druge vrednosti na seznamu.</translation>
     </message>
     <message>
         <source>SLN(cost,salvage,life)</source>
-        <translation type="unfinished"></translation>
+        <translation>SLN(stroški,vrednost_po_amor,št_obdobij)</translation>
     </message>
     <message>
         <source>Returns the linear depreciation of an asset per period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne linearno amortizacijo sredstva za eno obdobje.</translation>
     </message>
     <message>
         <source>SYD(cost,salvage,life,per)</source>
-        <translation type="unfinished"></translation>
+        <translation>SYD(stroški,vrednost_po_amor,št_obdobij,obdobje)</translation>
     </message>
     <message>
         <source>Returns the sum-of-years&apos; digits depreciation of an asset for a specified period, which is based on its cost, salvage value and anticipated life.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne amortizacijo po metodi vsote letnih števk za sredstvo prek določenega obdobja.</translation>
     </message>
     <message>
         <source>VDB(cost,salvage,life,start_period,end_period,factor,no_switch)</source>
-        <translation type="unfinished"></translation>
+        <translation>VDB(stroški,vrednost_po_amor,št_obdobij,začetno_obdobje,končno_obdobje,faktor,brez_preklopa)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne amortizacijo sredstva za poljubno obdobje (tudi za delna obdobja), ki ga določite, z metodo dvojnopojemajočega salda ali s kakšno drugo metodo, ki jo določite.</translation>
     </message>
     <message>
         <source>FACTDOUBLE(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>FACTDOUBLE(število)</translation>
     </message>
     <message>
         <source>Returns the double factorial of a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne dvojno fakulteto števila.</translation>
     </message>
     <message>
         <source>MROUND(number,multiple)</source>
-        <translation type="unfinished"></translation>
+        <translation>MROUND(število,večkratnik)</translation>
     </message>
     <message>
         <source>Returns a given number rounded to a special multiple.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število, zaokroženo na želeni večkratnik.</translation>
     </message>
     <message>
         <source>MULTINOMIAL(number1,number2, ...)</source>
-        <translation type="unfinished"></translation>
+        <translation>MULTINOMIAL(število1,število2, ...)</translation>
     </message>
     <message>
         <source>Returns the ratio of the factorial of a sum of values to the product of the factorials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne mnogočlenski niz števil.</translation>
     </message>
     <message>
         <source>QUOTIENT(numerator,denominator)</source>
-        <translation type="unfinished"></translation>
+        <translation>QUOTIENT(deljenec,delitelj)</translation>
     </message>
     <message>
         <source>Returns the integer portion of a division. When using this function, you can discard the remainder of a division.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne del celega števila deljenja.</translation>
     </message>
     <message>
         <source>BESSELI(x,n)</source>
-        <translation type="unfinished"></translation>
+        <translation>BESSELI(x,n)</translation>
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne spremenjeno Besselovo funkcijo In(x).</translation>
     </message>
     <message>
         <source>BESSELJ(x,n)</source>
-        <translation type="unfinished"></translation>
+        <translation>BESSELJ(x,n)</translation>
     </message>
     <message>
         <source>Returns the Bessel function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne Besselovo funkcijo.</translation>
     </message>
     <message>
         <source>BESSELK(x,n)</source>
-        <translation type="unfinished"></translation>
+        <translation>BESSELK(x,n)</translation>
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel functions evaluated for purely imaginary arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne spremenjeno Besselovo funkcijo Kn(x).</translation>
     </message>
     <message>
         <source>BESSELY(x,n)</source>
-        <translation type="unfinished"></translation>
+        <translation>BESSELY(x,n)</translation>
     </message>
     <message>
         <source>Returns the Bessel function(also called the Weber function or the Neumann function).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne Besselovo funkcijo Yn(x).</translation>
     </message>
     <message>
         <source>BIN2DEC(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>BIN2DEC(število)</translation>
     </message>
     <message>
         <source>Converts a binary number to decimal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori dvojiško število v desetiško.</translation>
     </message>
     <message>
         <source>BIN2HEX(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>BIN2HEX(število,mesta)</translation>
     </message>
     <message>
         <source>Converts a binary number to hexadecimal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori dvojiško število v šestnajstiško.</translation>
     </message>
     <message>
         <source>BIN2OCT(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>BIN2OCT(število,mesta)</translation>
     </message>
     <message>
         <source>Converts a binary number to octal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori dvojiško število v osmiško.</translation>
     </message>
     <message>
         <source>COMPLEX(real_num,i_num,suffix)</source>
-        <translation type="unfinished"></translation>
+        <translation>COMPLEX(realno_št,i_št,pripona)</translation>
     </message>
     <message>
         <source>Converts real and imaginary coefficients to a complex number with the form of x + yi or x + yj.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori realne in imaginarne koeficiente v kompleksna števila.</translation>
     </message>
     <message>
         <source>CONVERT(number,from_unit,to_unit)</source>
-        <translation type="unfinished"></translation>
+        <translation>CONVERT(število,od_enote,do_enote)</translation>
     </message>
     <message>
         <source>Converts a number from one measurement system to another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori število iz enega merskega sistema v drugega.</translation>
     </message>
     <message>
         <source>DEC2BIN(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>DEC2BIN(število,mesta)</translation>
     </message>
     <message>
         <source>Converts a decimal number to binary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori desetiško število v dvojiško.</translation>
     </message>
     <message>
         <source>DEC2HEX(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>DEC2HEX(število,mesta)</translation>
     </message>
     <message>
         <source>Converts a decimal number to hexadecimal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori desetiško število v šestnajstiško.</translation>
     </message>
     <message>
         <source>DEC2OCT(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>DEC2OCT(število,mesta)</translation>
     </message>
     <message>
         <source>Converts a decimal number to octal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori desetiško število v osmiško.</translation>
     </message>
     <message>
         <source>DELTA(number1,number2)</source>
-        <translation type="unfinished"></translation>
+        <translation>DELTA(število1,število2)</translation>
     </message>
     <message>
         <source>Tests if two values are equal. </source>
-        <translation type="unfinished"></translation>
+        <translation>Preskusi, ali sta dve števili enaki.</translation>
     </message>
     <message>
         <source>ERF(lower_limit,upper_limit)</source>
-        <translation type="unfinished"></translation>
+        <translation>ERF(spodnja_meja,zgornja_meja)</translation>
     </message>
     <message>
         <source>Returns the error function whose integral is between lower_limit and upper_limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne funkcijo napake.</translation>
     </message>
     <message>
         <source>ERFC(x)</source>
-        <translation type="unfinished"></translation>
+        <translation>ERFC(x)</translation>
     </message>
     <message>
         <source>Returns the complementary ERF function whose integral is between x and infinity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne komplementarno funkcijo napake.</translation>
     </message>
     <message>
         <source>GESTEP(number,step)</source>
-        <translation type="unfinished"></translation>
+        <translation>GESTEP(število,korak)</translation>
     </message>
     <message utf8="true">
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
-        <translation type="unfinished"></translation>
+        <translation>Preskusi, ali je število večje od mejne vrednosti.</translation>
     </message>
     <message>
         <source>HEX2BIN(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>HEX2BIN(število,mesta)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to binary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori šestnajstiško število v dvojiško.</translation>
     </message>
     <message>
         <source>HEX2DEC(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>HEX2DEC(število)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to decimal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori šestnajstiško število v desetiško.</translation>
     </message>
     <message>
         <source>HEX2OCT(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>HEX2OCT(število,mesta)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to octal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori šestnajstiško število v osmiško.</translation>
     </message>
     <message>
         <source>IMAGINARY(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMAGINARY(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the imaginary coefficient of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne imaginarni koeficient kompleksnega števila.</translation>
     </message>
     <message>
         <source>IMARGUMENT(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMARGUMENT(ištevilo)</translation>
     </message>
     <message utf8="true">
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne argument q, kot, izražen v radianih.</translation>
     </message>
     <message>
         <source>IMCONJUGATE(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMCONJUGATE(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the complex conjugate of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kompleksno izpeljanko kompleksnega števila.</translation>
     </message>
     <message>
         <source>IMCOS(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMCOS(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the cosine of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kosinus kompleksnega števila.</translation>
     </message>
     <message>
         <source>IMDIV(inumber1,inumber2)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMDIV(ištevilo1,ištevilo2)</translation>
     </message>
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne količnik dveh kompleksnih števil.</translation>
     </message>
     <message>
         <source>IMEXP(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMEXP(ištevilo)</translation>
     </message>
     <message>
         <source>Calculates the exponential of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne eksponent kompleksnega števila.</translation>
     </message>
     <message>
         <source>IMLN(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMEXP(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a complex number in x + yi or x + yj text format</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne naravni logaritem kompleksnega števila</translation>
     </message>
     <message>
         <source>IMLOG10(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMLOG10(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne logaritem z osnovo 10 kompleksnega števila.</translation>
     </message>
     <message>
         <source>IMLOG2(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMLOG2(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the base-2 logarithm of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne logaritem z osnovo 2 kompleksnega števila.</translation>
     </message>
     <message>
         <source>IMPOWER(inumber,number)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMPOWER(ištevilo,število)</translation>
     </message>
     <message>
         <source>Calculates a complex number in x + yi or x + yj text format raised to a power.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kompleksno število potencirano na celo število.</translation>
     </message>
     <message>
         <source>IMPRODUCT(inumber1,inumber2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMPRODUCT(ištevilo1,ištevilo2,...)</translation>
     </message>
     <message>
         <source>Calculates the product of complex numbers in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne zmnožek 1 do 255 kompleksnih števil.</translation>
     </message>
     <message>
         <source>IMREAL(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMREAL(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the real coefficient of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne realni koeficient kompleksnega števila.</translation>
     </message>
     <message>
         <source>IMSIN(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMSIN(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the sine of a complex number in x + yi or x + yj text format</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne sinus kompleksnega števila</translation>
     </message>
     <message>
         <source>IMSQRT(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMSQRT(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the square root of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kvadratni koren kompleksnega števila.</translation>
     </message>
     <message>
         <source>IMSUB(inumber1, inumber2)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMSUB(ištevilo1, ištevilo2)</translation>
     </message>
     <message>
         <source>Returns the difference of two complex numbers in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne razliko dveh kompleksnih števil.</translation>
     </message>
     <message>
         <source>IMSUM(inumber1,inumber2,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMSUM(ištevilo1,ištevilo2,...)</translation>
     </message>
     <message>
         <source>Returns the sum of two or more complex numbers in x + yi or x + yj text format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne vsoto kompleksnih števil.</translation>
     </message>
     <message>
         <source>OCT2BIN(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>OCT2BIN(število,mesta)</translation>
     </message>
     <message>
         <source>Converts an octal number to binary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori osmiško število v dvojiško.</translation>
     </message>
     <message>
         <source>OCT2DEC(number)</source>
-        <translation type="unfinished"></translation>
+        <translation>OCT2DEC(število)</translation>
     </message>
     <message>
         <source>Converts an octal number to decimal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori osmiško število v desetiško.</translation>
     </message>
     <message>
         <source>OCT2HEX(number,places)</source>
-        <translation type="unfinished"></translation>
+        <translation>OCT2HEX(število,mesta)</translation>
     </message>
     <message>
         <source>Converts an octal number to hexadecimal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori osmiško število v šestnajstiško.</translation>
     </message>
     <message>
         <source>IMABS(inumber)</source>
-        <translation type="unfinished"></translation>
+        <translation>IMABS(ištevilo)</translation>
     </message>
     <message>
         <source>Returns the absolute value (modulus) of a complex number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne absolutno vrednost (modul) kompleksnega števila.</translation>
     </message>
     <message>
         <source>FIXED(number,decimals, no_commas)</source>
-        <translation type="unfinished"></translation>
+        <translation>FIXED(število,decimalna_mesta, brez_vejic)</translation>
     </message>
     <message>
         <source>Rounds a number to the specified number of decimals in decimal format and returns the result as text with or without commas.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži številko na določeno število decimalnih mest in vrne rezultat kot besedilo z vejicami ali brez njih.</translation>
     </message>
     <message>
         <source>LENB(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>LENB(besedilo)</translation>
     </message>
     <message>
         <source>Returns the number of charcters in the text. Use with double-byte characters(DBCS).</source>
@@ -4087,7 +4091,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>FINDB(find_text,within_text,start_num)</source>
-        <translation type="unfinished"></translation>
+        <translation>FINDB(iskano_besedilo,v_besedilu,začetni_znak)</translation>
     </message>
     <message>
         <source>Searches another text string&apos;s starting location in one text string. FINDB is case-sensitive and doesn&apos;t allow to use wildcard. Use with double-byte characters(DBCS).</source>
@@ -4095,7 +4099,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>LEFTB(text,num_bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation>LEFTB(besedilo,št_bajtov)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the leftmost appointed location of a text string. Use with double-byte character set(DBCS).</source>
@@ -4103,7 +4107,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>MIDB(text,start_num,num_bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation>MIDB(besedilo,začetni_položaj,št_bajtov)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the appointed location of a text string. Use with double-byte character set(DBCS).</source>
@@ -4111,7 +4115,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>REPLACEB(old_text,start_num,num_bytes,new_text)</source>
-        <translation type="unfinished"></translation>
+        <translation>REPLACEB(staro_besedilo,mesto_znaka,št_bajtov,novo_besedilo)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string. Use with double-byte character set(DBCS).</source>
@@ -4119,7 +4123,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>RIGHTB(text,num_bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation>RIGHTB(besedilo,št_bajtov)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the last character of a text string. Use with double-byte character set(DBCS).</source>
@@ -4127,7 +4131,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>SEARCHB(find_text,within_text,start_num)</source>
-        <translation type="unfinished"></translation>
+        <translation>SEARCHB(iskalno_besedilo,v_besedilu,št_začetka)</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
@@ -4143,215 +4147,215 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>CLEAN(text)</source>
-        <translation type="unfinished"></translation>
+        <translation>CLEAN(besedilo)</translation>
     </message>
     <message>
         <source>Removes all nonprintable characters from text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iz besedila odstrani vse znake, ki se ne tiskajo.</translation>
     </message>
     <message>
         <source>T(value)</source>
-        <translation type="unfinished"></translation>
+        <translation>T(vrednost)</translation>
     </message>
     <message>
         <source>Returns the text that value refers to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri, ali je vrednost besedilo; če je, vrne besedilo če ni, vrne dvojne narekovaje (prazno besedilo).</translation>
     </message>
     <message>
         <source>DAYS360(start_date,end_date,method)</source>
-        <translation type="unfinished"></translation>
+        <translation>DAYS360(začetni_datum,končni_datum,metoda)</translation>
     </message>
     <message>
         <source>Returns the number of days between two dates based on a 360-day year (30 days a month, 12 months a year),which is used in some accounting calculations. Use this function to help compute payments if your accounting system is based on 30 days a month and 12 months a year.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne število dni med dvema datumoma v 360- dnevnem letu (dvanajst 30- dnevnih mesecev).</translation>
     </message>
     <message>
         <source>EOMONTH(start_date,months)</source>
-        <translation type="unfinished"></translation>
+        <translation>EOMONTH(začetni_datum,mesci)</translation>
     </message>
     <message>
         <source>Returns the serial number for the last day of the month that is the indicated number of month before or after start_date. Use EOMONTH to calculate maturity dates that fall on the last day of the month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne zaporedno število zadnjega dneva meseca pred ali po navedenem številu mesecev.</translation>
     </message>
     <message>
         <source>EDATE(start_date,months)</source>
-        <translation type="unfinished"></translation>
+        <translation>EDATE(začetni_datum,mesci)</translation>
     </message>
     <message>
         <source>Returns the serial number that represents the date that is the indicated number of months before or after a date (the start_date). Use EDATE function to calculate the maturity dates that fall on the same day of the month as the date of issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne zaporedno število datuma, ki je določeno število mesecev pred ali po začetnem datumu.</translation>
     </message>
     <message>
         <source>WORKDAY(start_date,days,holidays)</source>
-        <translation type="unfinished"></translation>
+        <translation>WORKDAY(začetni_datum,dnevi,prazniki)</translation>
     </message>
     <message>
         <source>Returns a date that represents a date that is the indicated number of working days before or after a date (the starting date). The weekend and the dates specified as holidays are not included in working days. Use WORKDAY function to exclude weekend or holidays when you calculate invoice due dates, expected delivery date or the number of days you worked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne zaporedno številko datuma pred ali po navedenem številu delovnih dni.</translation>
     </message>
     <message>
         <source>YEARFRAC(start_date,end_date,basis)</source>
-        <translation type="unfinished"></translation>
+        <translation>YEARFRAC(začetni_datum, konči_datum,osnova)</translation>
     </message>
     <message>
         <source>Returns the percentage of the year represented by the number of whole days between two dates (the start_date and end_date). Use YEARFRAC function to identify the proportion of a whole year&apos;s benefits or obligations under some specified condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne ulomek leta, ki predstavlja število celih dni med začetnim in končnim datumom.</translation>
     </message>
     <message>
         <source>TRANSPOSE(array)</source>
-        <translation type="unfinished"></translation>
+        <translation>TRANSPOSE(matrika)</translation>
     </message>
     <message>
         <source>Returns a horizontal range of cells as a vertical range, or vice versa. TRANSPOSE must be entered as an array formula in the range that has the same numbers of rows or columns respectively with those of an array. Use TRANSPOSE to shift the vertical or horizontal orientation of an array in the worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori navpični obseg celic v vodoravni obseg in obratno.</translation>
     </message>
     <message>
         <source>MMULT(array1,array2)</source>
-        <translation type="unfinished"></translation>
+        <translation>MMULT(matrika1,matrika2)</translation>
     </message>
     <message>
         <source>Returns the matrix product of two arrays. The result is that the array has the same number of rows with array 1 and the same number of columns with array 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne produkt dveh matrik, ki je matrika z enakim številom vrstic kot »matrika1« in z enakim številom stolpcev kot »matrika2«.</translation>
     </message>
     <message>
         <source>MINVERSE(array)</source>
-        <translation type="unfinished"></translation>
+        <translation>MINVERSE(matrika)</translation>
     </message>
     <message>
         <source>MDETERM(array)</source>
-        <translation type="unfinished"></translation>
+        <translation>MDETERM(matrika)</translation>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne determinanto matrike.</translation>
     </message>
     <message>
         <source>Returns the inverse matrix for the matrix stored in an array.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne inverzno matriko matrike, shranjene v polju.</translation>
     </message>
     <message>
         <source>DCOUNT(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DCOUNT(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Returns the number of cells containing numbers in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prešteje celice s števili v polju (stolpcu) zapisov zbirke podatkov, ki ustrezajo pogojem, ki ste jih določili.</translation>
     </message>
     <message>
         <source>DCOUNTA(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DCOUNTA(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Returns the number of nonblank cells in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prešteje neprazne celice v polju (stolpcu) zapisov zbirke podatkov, ki ustrezajo pogojem, ki ste jih določili.</translation>
     </message>
     <message>
         <source>DAVERAGE(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DAVERAGE(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Averages the values in a column in a list or database that match conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna povprečje vrednosti v stolpcu, na seznamu ali v zbirki podatkov, ki ustrezajo navedenim pogojem.</translation>
     </message>
     <message>
         <source>DGET(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DGET(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Extracts a single value in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iz zbirke podatkov izvleče en zapis, ki ustreza pogojem, ki ste jih določili.</translation>
     </message>
     <message>
         <source>DMAX(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DMAX(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Returns the largest value in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne največje število v polju (stolpcu) zapisov zbirke podatkov, ki ustreza pogojem, ki ste jih določili.</translation>
     </message>
     <message>
         <source>DMIN(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DMIN(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Returns the smallest number in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne najmanjše število v polju (stolpcu) zapisov zbirke podatkov, ki ustreza pogojem, ki ste jih določili.</translation>
     </message>
     <message>
         <source>DPRODUCT(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DPRODUCT(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Returns the product of the values in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmnoži vrednosti v polju (stolpcu) zapisov zbirke podatkov, ki ustrezajo pogojem, ki ste jih določili.</translation>
     </message>
     <message>
         <source>DSTDEV(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DSTDEV(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Estimates the standard deviation of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na osnovi izbranih vnosov zbirke podatkov oceni standardni odklon. Ocena temelji na vzorcu.</translation>
     </message>
     <message>
         <source>DSTDEVP(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DSTDEVP(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Calculates the standard deviation of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna standardni odklon, ki temelji na celotni populaciji izbranih vnosov zbirke podatkov.</translation>
     </message>
     <message>
         <source>DSUM(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DSUM(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Returns the sum of the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sešteje števila v polju (stolpcu) zapisov zbirke podatkov, ki ustrezajo pogojem, ki ste jih določili.</translation>
     </message>
     <message>
         <source>DVAR(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DVAR(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na osnovi izbranih vnosov zbirke podatkov oceni varianco. Ocena temelji na vzorcu.</translation>
     </message>
     <message>
         <source>DVARP(database,field,criteria)</source>
-        <translation type="unfinished"></translation>
+        <translation>DVARP(zbirka_podatkov,polje,pogoji)</translation>
     </message>
     <message>
         <source>Calculate the variance of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračuna varianco celotne populacije izbranih vnosov zbirke podatkov.</translation>
     </message>
     <message>
         <source>LOGEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
-        <translation type="unfinished"></translation>
+        <translation>LOGEST(znani_y-i,znani_x-i,konstanta,statistika)</translation>
     </message>
     <message>
         <source>In regression analysis, calculate an exponential curve that fits the data most and return an array of values that describe the curve. Since the function returns an array of values, it must be entered as an array formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne statistiko, s katero je opisana eksponentna krivulja, ki ustreza znanim podatkovnim točkam.</translation>
     </message>
     <message>
         <source>TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const)</source>
-        <translation type="unfinished"></translation>
+        <translation>TREND(znani_y-i,znani_x-i,konstanta)</translation>
     </message>
     <message>
         <source>Predicts the linear increasing amount based on the current data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne števila v linearnem trendu, ujemajočem z znanimi podatkovnimi točkami po metodi najmanjših kvadratov.</translation>
     </message>
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>
-        <translation type="unfinished"></translation>
+        <translation>ACCRINTM(izdaja,poravnava,mera,vrednost,osnova)</translation>
     </message>
     <message>
         <source>Returns the interests of the securities whose interests should be paid off once the time is due.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne povečane obresti za vrednostni papir, ki periodično izplačuje obresti.</translation>
     </message>
     <message>
         <source>DATEDIF(start_date,end_date,unit)</source>
-        <translation type="unfinished"></translation>
+        <translation>DATEDIF(začetni_datum,končni_datum,enota)</translation>
     </message>
     <message>
         <source>Counts the numbers of days, months or years between the two dates.</source>
@@ -4359,27 +4363,27 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>HYPERLINK(link_location, friendly_name)</source>
-        <translation type="unfinished"></translation>
+        <translation>HYPERLINK(mesto_povezave, prijazno_ime)</translation>
     </message>
     <message>
         <source>Creates a shortcut or jump that opens a document stored on a network server, Intranet or Internet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari bližnjico ali skok, ki odpre dokument, shranjen na vašem disku, v omrežnem strežniku ali v internetu.</translation>
     </message>
     <message>
         <source>ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis)</source>
-        <translation type="unfinished"></translation>
+        <translation>ACCRINT(izdaja,prve_obresti,poravnava,mera,vrednost,pogostost,osnova)</translation>
     </message>
     <message>
         <source>Returns the accrued interest for a security that pays periodic interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne povečane obresti za vrednostni papir, ki periodično izplačuje obresti.</translation>
     </message>
     <message>
         <source>CELL(info_type, reference)</source>
-        <translation type="unfinished"></translation>
+        <translation>CELL(vrsta_informacij, sklic)</translation>
     </message>
     <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne informacijo o oblikovanju, mestu ali vsebini prve celice glede na vrstni red branja lista v sklicu.</translation>
     </message>
     <message>
         <source>EVALUATE(formula_text)</source>
@@ -4391,55 +4395,55 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</source>
-        <translation type="unfinished"></translation>
+        <translation>SUMIFS(obseg_seštevanja, obseg_pogojev1, pogoji1, [obseg_pogojev2, pogoji2], ...)</translation>
     </message>
     <message>
         <source>Adds the cells specified by a given set of conditions or criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doda celice, ki jih navaja dani niz pogojev ali kriterijev.</translation>
     </message>
     <message utf8="true">
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
-        <translation type="unfinished"></translation>
+        <translation>COUNTIFS(obseg_pogojev1, pogoji1, [obseg_pogojev2, pogoji2],…)</translation>
     </message>
     <message>
         <source>Counts the number of cells specified by a given set of conditions or criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prešteje celice, ki jih navaja dani niz pogojev ali kriterijev.</translation>
     </message>
     <message>
         <source>AVERAGEIF(range,criteria,average_range)</source>
-        <translation type="unfinished"></translation>
+        <translation>AVERAGEIF(obseg,pogoji,obseg_za_povprečje)</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Najde povprečje (aritmetično povprečno vrednost) za celice, navedene z danim pogojem ali kriterijem.</translation>
     </message>
     <message utf8="true">
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
-        <translation type="unfinished"></translation>
+        <translation>AVERAGEIFS(obseg_za_povprečje,obseg_pogojev1,pogoji1,obseg_pogojev2,pogoji2,…)</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given set of conditions or criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>Najde povprečje (aritmetično povprečno vrednost) za celice, navedene v danem nizu pogojev ali kriterijev.</translation>
     </message>
     <message>
         <source>IFERROR(value,value_if_error)</source>
-        <translation type="unfinished"></translation>
+        <translation>IFERROR(vrednost,vrednost_če_napaka)</translation>
     </message>
     <message>
         <source>Returns the value you specify if the calculated result of the formula is an error and the calculated result otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne value_if_error, če je izraz napaka, in vrednost samega izraza.</translation>
     </message>
     <message>
         <source>DAY(serial_number)</source>
-        <translation type="unfinished"></translation>
+        <translation>DAY(serijska_številka)</translation>
     </message>
     <message>
         <source>PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</source>
-        <translation type="unfinished"></translation>
+        <translation>PRICE(poravnava,zapadlost,stopnja,obresti,odkup,pogostost,[osnova])</translation>
     </message>
     <message>
         <source>Returns the price per $100 face value of a security that pays periodic interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne ceno vrednostnega papirja na €100 imenske vrednosti, ki izplača periodične obresti.</translation>
     </message>
 </context>
 <context>
@@ -4454,11 +4458,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>XML Files(*.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke XML (*.xml)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke(*.*)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Files(*.et; *.ett)</source>
@@ -4486,7 +4490,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>XML SpreadSheet(*.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation>Preglednica XML(*.xml)</translation>
     </message>
     <message>
         <source>XML SpreadSheet Template(*.xmt)</source>
@@ -4494,15 +4498,15 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Text(Tab delimited)(*.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo (Ločeno s tabulatorji)(*.txt)</translation>
     </message>
     <message>
         <source>CSV (Comma delimited)(*.csv)</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV (Ločeno z vejico)(*.csv)</translation>
     </message>
     <message>
         <source>Unicode Text(*.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unicode besedilo(*.txt)</translation>
     </message>
     <message utf8="true">
         <source>The file type you selected does not support workbooks that contain multiple worksheets.
@@ -4528,7 +4532,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Web Pages(*.htm; *.html)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spletne strani(*.htm;*.hmtl)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets File(*.et)</source>
@@ -4540,7 +4544,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>dBase Files(*.dbf)</source>
-        <translation type="unfinished"></translation>
+        <translation>dBaseove datoteke (*.dbf)</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Files(*.xlsx)</source>
@@ -4562,21 +4566,24 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>The following features from your workbook will not be saved in the XML Spreadsheet:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>V preglednico XML ne bodo shranjene tele funkcije iz delovnega zvezka:
+
+</translation>
     </message>
     <message>
         <source>
 Do you want to continue saving as an XML Spreadsheet?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite nadaljevati shranjevanje v preglednico XML?</translation>
     </message>
     <message utf8="true">
         <source> · AutoShapes, other objects, or charts
 </source>
-        <translation type="unfinished"></translation>
+        <translation>   Samooblike, drugi predmeti ali grafikoni
+</translation>
     </message>
     <message>
         <source>A sheet in the workbook you are trying to save is password protected. Password protected sheets cannot be saved in an XML Spreadsheet. To save this file as an XML Spreadsheet, you must first remove the password.</source>
-        <translation type="unfinished"></translation>
+        <translation>A sheet in the workbook you are trying to save is password protected. Password protected sheets cannot be saved in an XML Spreadsheet. To save this file as an XML Spreadsheet, you must first remove the password.</translation>
     </message>
     <message>
         <source>A sheet in the workbook you are trying to save is command protected. Command protected sheets cannot be saved in an XML Spreadsheet. To save this file as an XML Spreadsheet, you must first remove the command.</source>
@@ -4614,22 +4621,26 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
     <message utf8="true">
         <source> · Range-based user permissions
 </source>
-        <translation type="unfinished"></translation>
+        <translation>   Uporabniška dovoljenja na osnovi obsega
+</translation>
     </message>
     <message utf8="true">
         <source> · Macro
 </source>
-        <translation type="unfinished"></translation>
+        <translation>   Makro
+</translation>
     </message>
     <message utf8="true">
         <source> · PivotTable
 </source>
-        <translation type="unfinished"></translation>
+        <translation> · vrtilna tabela
+</translation>
     </message>
     <message utf8="true">
         <source> · Import Data
 </source>
-        <translation type="unfinished"></translation>
+        <translation>   Uvoz podatkov
+</translation>
     </message>
     <message utf8="true">
         <source> · Multiple windows
@@ -4639,32 +4650,38 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
     <message>
         <source>The path is too long. Try a shorter name.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Pot je predolga. Poskusite s krajšim imenom.
+</translation>
     </message>
     <message utf8="true">
         <source> · Comments
 </source>
-        <translation type="unfinished"></translation>
+        <translation>   Pripombe
+</translation>
     </message>
     <message utf8="true">
         <source> · Protect Workbook
 </source>
-        <translation type="unfinished"></translation>
+        <translation>   Zaščiti delovni zvezek
+</translation>
     </message>
     <message utf8="true">
         <source> · Protect Sheet
 </source>
-        <translation type="unfinished"></translation>
+        <translation>   Zaščiti list
+</translation>
     </message>
     <message>
         <source>.Outline information
 </source>
-        <translation type="unfinished"></translation>
+        <translation>.Orisna informacija
+</translation>
     </message>
     <message>
         <source>.Range-based user permissions 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>.Uporabniška dovoljenja na osnovi obsega
+</translation>
     </message>
     <message>
         <source>You can not save the following functions in macro-disabled workbook:
@@ -4709,22 +4726,22 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Chart Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov grafikona</translation>
     </message>
 </context>
 <context>
     <name>et_render</name>
     <message>
         <source>No Format Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika ni določena</translation>
     </message>
     <message>
         <source>AaBbCcYyZz</source>
-        <translation type="unfinished"></translation>
+        <translation>AaBbCcZzŽž</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripomba</translation>
     </message>
     <message utf8="true">
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
@@ -4739,93 +4756,93 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Cell:</source>
-        <translation type="unfinished"></translation>
+        <translation>Celica:</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripomba:</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation>/</translation>
     </message>
 </context>
 <context>
     <name>et_styles</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Navadno</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"></translation>
+        <translation>Vejica</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstotek</translation>
     </message>
     <message>
         <source>Comma[0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Vejica[0]</translation>
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta[0]</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperpovezava</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Obiskana hiperpovezava</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Krepko</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation>bold</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ležeče</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>italic</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Krepko ležeče</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation>Običajno</translation>
     </message>
     <message>
         <source>regular</source>
-        <translation type="unfinished"></translation>
+        <translation>običajno</translation>
     </message>
     <message>
         <source>Page %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Stran %d</translation>
     </message>
     <message>
         <source>Page %d of %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Stran %d od %d</translation>
     </message>
 </context>
 <context>
     <name>et_uil</name>
     <message>
         <source>This command cannot be used on multiple selections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tega ukaza ni mogoče uporabiti na izboru več predmetov.</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
@@ -4846,7 +4863,7 @@ There are several possible reasons:
     </message>
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukaza ni bilo mogoče dokončati z uporabo navedenega obsega. Izberite eno samo celico iz obsega in ponovite ukaz.</translation>
     </message>
     <message>
         <source>The sheet(s) you are deleting is not empty. If you want to delete the data permanently, please click OK or press Enter on the keyboard.</source>
@@ -4854,11 +4871,11 @@ There are several possible reasons:
     </message>
     <message>
         <source>Font size must be between 1 and 409 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost pisave mora biti med 1 in 409 točkami.</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbor</translation>
     </message>
     <message>
         <source>&quot;Selection&quot;, -1</source>
@@ -4870,7 +4887,7 @@ There are several possible reasons:
     </message>
     <message>
         <source>Number format is too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika zapisa števila je predolga.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Please enter a number within this range and try again.</source>
@@ -4907,7 +4924,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
     </message>
     <message>
         <source>Do you want to replace the contents of the destination cells?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite zamenjati vsebino ciljnih celic?</translation>
     </message>
     <message>
         <source>Please exit editing cell or formula first before closing the window.</source>
@@ -4936,11 +4953,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljanje</translation>
     </message>
     <message>
         <source> Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi</translation>
     </message>
     <message>
         <source>SelectingRange</source>
@@ -4948,7 +4965,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>OVR</source>
-        <translation type="unfinished"></translation>
+        <translation>PRE</translation>
     </message>
     <message>
         <source>Click to follow the link.</source>
@@ -4956,23 +4973,23 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Višina</translation>
     </message>
     <message>
         <source>Centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>Centimeter</translation>
     </message>
     <message>
         <source>Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokažite</translation>
     </message>
     <message>
         <source>=today()</source>
-        <translation type="unfinished"></translation>
+        <translation>=danes()</translation>
     </message>
     <message>
         <source>=now()</source>
@@ -4980,27 +4997,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Protect Sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaščiti list...</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani zaščito lista</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaščiti delovni zvezek</translation>
     </message>
     <message>
         <source>Unprotect Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani zaščito zvezka</translation>
     </message>
     <message>
         <source>Sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>List...</translation>
     </message>
     <message>
         <source>Book...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvezek...</translation>
     </message>
     <message>
         <source>Unprotect Book</source>
@@ -5008,7 +5025,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Workbook is protected and cannot be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delovni zvezek je zaščiten tako, da ga ni mogoče spremeniti.</translation>
     </message>
     <message>
         <source>Parameter error in Data Validation.</source>
@@ -5048,7 +5065,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite vrednost.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
@@ -5100,7 +5117,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite datum.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
@@ -5144,7 +5161,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite čas.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
@@ -5188,7 +5205,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Nov prazen delovni zvezek</translation>
     </message>
     <message>
         <source>New From Default Template</source>
@@ -5200,15 +5217,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Format Text box...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikuj polje z besedilom...</translation>
     </message>
     <message>
         <source>Format Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikuj celice</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Celice</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
@@ -5219,11 +5236,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri datoteko</translation>
     </message>
     <message>
         <source>Al</source>
@@ -5231,103 +5248,103 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Abs_num</source>
-        <translation type="unfinished"></translation>
+        <translation>št_stolpca,abs</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot</translation>
     </message>
     <message>
         <source>Array</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrika</translation>
     </message>
     <message>
         <source>Array1</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrika1</translation>
     </message>
     <message>
         <source>Array2</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrika2</translation>
     </message>
     <message>
         <source>Base</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnova</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodaj</translation>
     </message>
     <message>
         <source>Col_index_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_indeksa_stolpca</translation>
     </message>
     <message>
         <source>Cols</source>
-        <translation type="unfinished"></translation>
+        <translation>stolpci</translation>
     </message>
     <message>
         <source>Column_num</source>
-        <translation type="unfinished"></translation>
+        <translation>št_stolpca</translation>
     </message>
     <message>
         <source>Const</source>
-        <translation type="unfinished"></translation>
+        <translation>konstanta</translation>
     </message>
     <message>
         <source>Criteria</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogoji</translation>
     </message>
     <message>
         <source>Date_text</source>
-        <translation type="unfinished"></translation>
+        <translation>besedilo_datuma</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Dan</translation>
     </message>
     <message>
         <source>Dividend</source>
-        <translation type="unfinished"></translation>
+        <translation>Deljenec</translation>
     </message>
     <message>
         <source>Divisor</source>
-        <translation type="unfinished"></translation>
+        <translation>Delitelj</translation>
     </message>
     <message>
         <source>End_date</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;končni_datum</translation>
     </message>
     <message>
         <source>Error_val</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost_napake</translation>
     </message>
     <message>
         <source>Find_text</source>
-        <translation type="unfinished"></translation>
+        <translation>Iskano_besedilo</translation>
     </message>
     <message>
         <source>Format_text</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika_besedila</translation>
     </message>
     <message>
         <source>Function_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_funkcije</translation>
     </message>
     <message>
         <source>Holidays</source>
-        <translation type="unfinished"></translation>
+        <translation>Prazniki</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Ura</translation>
     </message>
     <message>
         <source>Index_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_indeksa</translation>
     </message>
     <message>
         <source>Instance_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_primerka</translation>
     </message>
     <message>
         <source>K</source>
@@ -5343,75 +5360,75 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Logične</translation>
     </message>
     <message>
         <source>Logical_test</source>
-        <translation type="unfinished"></translation>
+        <translation>Logični_test</translation>
     </message>
     <message>
         <source>Lookup_array</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrika_iskanja</translation>
     </message>
     <message>
         <source>Lookup_value</source>
-        <translation type="unfinished"></translation>
+        <translation>Iskana_vrednost</translation>
     </message>
     <message>
         <source>Lookup_vector</source>
-        <translation type="unfinished"></translation>
+        <translation>Vektor_iskanja</translation>
     </message>
     <message>
         <source>Match_type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta_ujemanja</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuta</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesec</translation>
     </message>
     <message>
         <source>New_text</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo_besedilo</translation>
     </message>
     <message>
         <source>Num_chars</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_znakov</translation>
     </message>
     <message>
         <source>Num_digits</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_števk</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Število</translation>
     </message>
     <message>
         <source>Number_times</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_ponovitev</translation>
     </message>
     <message>
         <source>Old_text</source>
-        <translation type="unfinished"></translation>
+        <translation>Staro_besedilo</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstni red</translation>
     </message>
     <message>
         <source>Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Potenčna</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Obseg</translation>
     </message>
     <message>
         <source>Range_lookup</source>
-        <translation type="unfinished"></translation>
+        <translation>Obseg_iskanja</translation>
     </message>
     <message>
         <source>Ref</source>
@@ -5419,27 +5436,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Ref_text</source>
-        <translation type="unfinished"></translation>
+        <translation>besedilo_sklica</translation>
     </message>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Sklic</translation>
     </message>
     <message>
         <source>Result_vector</source>
-        <translation type="unfinished"></translation>
+        <translation>Vektor_rezultata</translation>
     </message>
     <message>
         <source>Return_type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta_vrednosti</translation>
     </message>
     <message>
         <source>Row_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_vrstice</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstice</translation>
     </message>
     <message>
         <source>Second</source>
@@ -5447,103 +5464,103 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Serial_number</source>
-        <translation type="unfinished"></translation>
+        <translation>Serijska_številka</translation>
     </message>
     <message>
         <source>Sheet_text</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo_lista</translation>
     </message>
     <message>
         <source>Significance</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomembnost</translation>
     </message>
     <message>
         <source>Start_date</source>
-        <translation type="unfinished"></translation>
+        <translation>Začetni_datum</translation>
     </message>
     <message>
         <source>Start_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Prvi_znak</translation>
     </message>
     <message>
         <source>Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistika</translation>
     </message>
     <message>
         <source>Sum_range</source>
-        <translation type="unfinished"></translation>
+        <translation>Obseg_seštevanja</translation>
     </message>
     <message>
         <source>Table_array</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrika_tabele</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo</translation>
     </message>
     <message>
         <source>Time_text</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo_ure</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost</translation>
     </message>
     <message>
         <source>Value_if_false</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost_če_je_false</translation>
     </message>
     <message>
         <source>Value_if_true</source>
-        <translation type="unfinished"></translation>
+        <translation>vrednost_če_je_true</translation>
     </message>
     <message>
         <source>Within_text</source>
-        <translation type="unfinished"></translation>
+        <translation>v_besedilu</translation>
     </message>
     <message>
         <source>X_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_x</translation>
     </message>
     <message>
         <source>Y_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_y</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Leto</translation>
     </message>
     <message>
         <source>Area_num</source>
-        <translation type="unfinished"></translation>
+        <translation>št_področja</translation>
     </message>
     <message>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation>Znesek</translation>
     </message>
     <message>
         <source>Salvage</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost_po_amor</translation>
     </message>
     <message>
         <source>Life</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_obdobij</translation>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"></translation>
+        <translation>Obdobje</translation>
     </message>
     <message>
         <source>Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Faktor</translation>
     </message>
     <message>
         <source>Pv</source>
-        <translation type="unfinished"></translation>
+        <translation>Sv</translation>
     </message>
     <message>
         <source>Fv</source>
@@ -5551,63 +5568,63 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Pmt</source>
-        <translation type="unfinished"></translation>
+        <translation>Plačilo</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Mera</translation>
     </message>
     <message>
         <source>Nper</source>
-        <translation type="unfinished"></translation>
+        <translation>Št_obdobij</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>Per</source>
-        <translation type="unfinished"></translation>
+        <translation>Obdobje</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednosti</translation>
     </message>
     <message>
         <source>Finance_rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrestna_mera</translation>
     </message>
     <message>
         <source>Reinvest_rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Mera_reinvesticije</translation>
     </message>
     <message>
         <source>Guess</source>
-        <translation type="unfinished"></translation>
+        <translation>Domneva</translation>
     </message>
     <message>
         <source>Start_period</source>
-        <translation type="unfinished"></translation>
+        <translation>začetno_obdobje</translation>
     </message>
     <message>
         <source>End_period</source>
-        <translation type="unfinished"></translation>
+        <translation>Končno_obdobje</translation>
     </message>
     <message>
         <source>No_switch</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez_preklopa</translation>
     </message>
     <message>
         <source>Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstotek</translation>
     </message>
     <message>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <source>Quartile</source>
-        <translation type="unfinished"></translation>
+        <translation>Kvartil</translation>
     </message>
     <message>
         <source>New_x&apos;s</source>
@@ -5619,51 +5636,51 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Standard deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardni odklon</translation>
     </message>
     <message>
         <source>Returns the cumulative distribution function</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne kumulativno porazdelitveno funkcijo</translation>
     </message>
     <message>
         <source>Distribution Probability</source>
-        <translation type="unfinished"></translation>
+        <translation>Porazdelivena verjetnost</translation>
     </message>
     <message>
         <source>Degrees of freedom</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopnja prostosti</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <source>Number_f</source>
-        <translation type="unfinished"></translation>
+        <translation>Število_f</translation>
     </message>
     <message>
         <source>Number_s</source>
-        <translation type="unfinished"></translation>
+        <translation>Število_s</translation>
     </message>
     <message>
         <source>Probability_s</source>
-        <translation type="unfinished"></translation>
+        <translation>Verjetnost_s</translation>
     </message>
     <message>
         <source>Sample_s</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzorec_s</translation>
     </message>
     <message>
         <source>Number_sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Številka_vzorca</translation>
     </message>
     <message>
         <source>Population_s</source>
-        <translation type="unfinished"></translation>
+        <translation>Populacija_s</translation>
     </message>
     <message>
         <source>Number_population</source>
@@ -5671,11 +5688,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Standard_dev</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardni_odklon</translation>
     </message>
     <message>
         <source>Sample Standard Deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardni odklon vzorca</translation>
     </message>
     <message utf8="true">
         <source>μ0</source>
@@ -5683,23 +5700,23 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Actual_range</source>
-        <translation type="unfinished"></translation>
+        <translation>Dejanski_obseg</translation>
     </message>
     <message>
         <source>Expected_range</source>
-        <translation type="unfinished"></translation>
+        <translation>Pričakovani_obseg</translation>
     </message>
     <message>
         <source>Number_chosen</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrano_število</translation>
     </message>
     <message>
         <source>Data_array</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrika_podatkov</translation>
     </message>
     <message>
         <source>Bins_array</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrika_predalov</translation>
     </message>
     <message>
         <source>N</source>
@@ -5711,11 +5728,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Coefficients</source>
-        <translation type="unfinished"></translation>
+        <translation>Koeficienti</translation>
     </message>
     <message>
         <source>Value X</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost X</translation>
     </message>
     <message>
         <source>Lower bound of the X range</source>
@@ -5739,19 +5756,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Trials</source>
-        <translation type="unfinished"></translation>
+        <translation>Poskusi</translation>
     </message>
     <message>
         <source>X_range</source>
-        <translation type="unfinished"></translation>
+        <translation>X_obseg</translation>
     </message>
     <message>
         <source>Prob_range</source>
-        <translation type="unfinished"></translation>
+        <translation>Verjet_obseg</translation>
     </message>
     <message>
         <source>Lambda</source>
-        <translation type="unfinished"></translation>
+        <translation>Lambda</translation>
     </message>
     <message>
         <source>Integral lower bound</source>
@@ -5767,39 +5784,39 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesta</translation>
     </message>
     <message>
         <source>Real_num</source>
-        <translation type="unfinished"></translation>
+        <translation>Realno_št</translation>
     </message>
     <message>
         <source>I_num</source>
-        <translation type="unfinished"></translation>
+        <translation>I_št</translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripona</translation>
     </message>
     <message>
         <source>Inumber</source>
-        <translation type="unfinished"></translation>
+        <translation>Ištevilo</translation>
     </message>
     <message>
         <source>From_unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Od_enote</translation>
     </message>
     <message>
         <source>To_unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Do_enote</translation>
     </message>
     <message>
         <source>Decimals</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimalna_mesta</translation>
     </message>
     <message>
         <source>no_commas</source>
-        <translation type="unfinished"></translation>
+        <translation>brez_vejic</translation>
     </message>
     <message>
         <source>Bytes number</source>
@@ -5807,23 +5824,23 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Basis</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnova</translation>
     </message>
     <message>
         <source>Method</source>
-        <translation type="unfinished"></translation>
+        <translation>Metoda</translation>
     </message>
     <message>
         <source>Number of months</source>
-        <translation type="unfinished"></translation>
+        <translation>Število mesecev</translation>
     </message>
     <message>
         <source>Number of days</source>
-        <translation type="unfinished"></translation>
+        <translation>Število dni</translation>
     </message>
     <message>
         <source>Database range</source>
-        <translation type="unfinished"></translation>
+        <translation>Obseg zbirke podatkov</translation>
     </message>
     <message>
         <source>Operation field</source>
@@ -5831,63 +5848,63 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Date of issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum izdaje</translation>
     </message>
     <message>
         <source>Maturity date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum zapadlosti</translation>
     </message>
     <message>
         <source>Face value</source>
-        <translation type="unfinished"></translation>
+        <translation>Imenske vrednosti</translation>
     </message>
     <message>
         <source>decimal number</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimalno število</translation>
     </message>
     <message>
         <source>binary number</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojiško število</translation>
     </message>
     <message>
         <source>Up to one digit (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Do ene števke (%s)</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Do dve števki (%s)</translation>
     </message>
     <message>
         <source>Up to three digits (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Do tri števke (%s)</translation>
     </message>
     <message>
         <source>As halves (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot polovice (%s)</translation>
     </message>
     <message>
         <source>As quarters (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot četrtine (%s)</translation>
     </message>
     <message>
         <source>As eighths (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot osmine (%s)</translation>
     </message>
     <message>
         <source>As sixteenths (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot šestnajstine (%s)</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot desetine (%s)</translation>
     </message>
     <message>
         <source>As hundredths (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot stotine (%s)</translation>
     </message>
     <message>
         <source>Zip code</source>
-        <translation type="unfinished"></translation>
+        <translation>Poštna številka</translation>
     </message>
     <message>
         <source>Lower Case Chinese number</source>
@@ -5915,19 +5932,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Levo</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Desno</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Noga</translation>
     </message>
     <message>
         <source>You have not selected the data to be parsed.</source>
@@ -5951,7 +5968,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>The spelling check is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preverjanje črkovanja je dokončano.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
@@ -5963,23 +5980,23 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Cell </source>
-        <translation type="unfinished"></translation>
+        <translation>Celica</translation>
     </message>
     <message>
         <source>Text box </source>
-        <translation type="unfinished"></translation>
+        <translation>Polje z besedilom</translation>
     </message>
     <message>
         <source>Left section </source>
-        <translation type="unfinished"></translation>
+        <translation>Levi odsek </translation>
     </message>
     <message>
         <source>Center section </source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek na sredini</translation>
     </message>
     <message>
         <source>Right section </source>
-        <translation type="unfinished"></translation>
+        <translation>Desni odsek</translation>
     </message>
     <message>
         <source>The comment of </source>
@@ -5987,7 +6004,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Chart </source>
-        <translation type="unfinished"></translation>
+        <translation>Grafikon</translation>
     </message>
     <message>
         <source>This function is provided in Kingsoft Office 2009 Professional Edition.</source>
@@ -6007,31 +6024,31 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>List</translation>
     </message>
     <message>
         <source>[Disabled]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Onemogočeno]</translation>
     </message>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvezek</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvoz podatkov</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Veljavnost</translation>
     </message>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodeli makro</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Preverjanje črkovanja</translation>
     </message>
     <message>
         <source>It&apos;s not allowed to open the file when editing the cell.</source>
@@ -6039,7 +6056,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Accept or Reject Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprejem ali zavrnitev sprememb</translation>
     </message>
     <message>
         <source>Close the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
@@ -6059,11 +6076,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevedi</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Išči</translation>
     </message>
     <message>
         <source>The number in the cell is a text value, or has an apostrophe ahead of the value.</source>
@@ -6083,11 +6100,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznaka</translation>
     </message>
     <message>
         <source>Group Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Okvirček skupine</translation>
     </message>
     <message>
         <source>Botton</source>
@@ -6095,27 +6112,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrditveno polje</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbirni gumb</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje s seznamom</translation>
     </message>
     <message>
         <source>Drop-down box</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Drsni trak</translation>
     </message>
     <message>
         <source>Spinner</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomikalnik</translation>
     </message>
     <message>
         <source>Hyperlink position</source>
@@ -6123,31 +6140,31 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Display text</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži besedilo</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaščiti delovni zvezek in ga daj v skupno rabo</translation>
     </message>
     <message>
         <source>Protect Shared Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaščiti delovni zvezek v skupni rabi</translation>
     </message>
     <message>
         <source>Unprotect Shared Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani zaščito delovnega zvezka v skupni rabi</translation>
     </message>
     <message>
         <source>Unprotect Sharing</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani zaščito skupne rabe</translation>
     </message>
     <message>
         <source>Value Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum valutacije</translation>
     </message>
     <message>
         <source>Transaction Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum transakcije</translation>
     </message>
     <message>
         <source>Number of paying interest annually</source>
@@ -6171,19 +6188,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvorba v kitajščino</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevedi v poenostavljeno kitajščino</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevedi v tradicionalno kitajščino</translation>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta postopek zahteva enako velikost združenih celic</translation>
     </message>
     <message>
         <source>Draw Grid</source>
@@ -6191,27 +6208,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Draw Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Nariši obrobo</translation>
     </message>
     <message>
         <source>Info_type</source>
-        <translation type="unfinished"></translation>
+        <translation>vrsta_informacij</translation>
     </message>
     <message>
         <source>is the real number for which you want the absolute value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je realno število, ki mu želite poiskati absolutno vrednost.</translation>
     </message>
     <message>
         <source>is the cosine of the angle you want and must be from -1 to 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>je kosinus želenega kota, ki mora biti med -1 in 1.</translation>
     </message>
     <message>
         <source>is any real number equal to or greater than 1</source>
-        <translation type="unfinished"></translation>
+        <translation>je katero koli realno število, ki je enako ali večje kot 1</translation>
     </message>
     <message>
         <source>is the row number to use in the cell reference: Row_number =1 for row</source>
-        <translation type="unfinished"></translation>
+        <translation>je številka vrstice pri sklicevanju na celico: Št_vrstice = 1 za vrstico</translation>
     </message>
     <message>
         <source>is the column number to use in the cell reference. For example Column_number = 4 for column D.</source>
@@ -6227,7 +6244,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is text specifying the name of the worksheet to be used as the external reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo za določanje imena delovnega lista, ki se uporabi kot zunanji sklic.</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
@@ -6235,7 +6252,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a reference to a cell or range of cells and can refer to multiple areas.</source>
-        <translation type="unfinished"></translation>
+        <translation>je sklic na celico ali obseg celic in se lahko sklicuje na več področij.</translation>
     </message>
     <message>
         <source>is the text you want to convert to single-byte, or reference to text cell.</source>
@@ -6243,7 +6260,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the sine of the angle you want and must be from -1 to 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>je sinus iskanega kota, ki mora biti med -1 in 1.</translation>
     </message>
     <message>
         <source>is any real number equal or greater than 1.</source>
@@ -6251,19 +6268,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the tangent of the angle you want.</source>
-        <translation type="unfinished"></translation>
+        <translation>je tangens želenega kota.</translation>
     </message>
     <message>
         <source>is the x-coordinate of the point.</source>
-        <translation type="unfinished"></translation>
+        <translation>je x-koordinata točke.</translation>
     </message>
     <message>
         <source>is the y-coordinate of the point.</source>
-        <translation type="unfinished"></translation>
+        <translation>je y-koordinata točke.</translation>
     </message>
     <message>
         <source>is any real number between -1 and 1 excluding -1 and 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>je katero koli realno število med -1 in 1 brez -1 in 1.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
@@ -6283,11 +6300,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the value between A and B at which to evaluate the function.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je vrednost med A in B, pri kateri se vrednoti.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution and must be greater than 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>je parameter porazdelitve in mora biti večji od 0.</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range =0.</source>
@@ -6295,47 +6312,47 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is probability associated with the beta distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>je verjetnost, povezana z beta porazdelitvijo.</translation>
     </message>
     <message>
         <source>is the number of successes in trials.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število neodvisnih preizkusov.</translation>
     </message>
     <message>
         <source>is the number of independent trials.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število neodvisnih preizkusov.</translation>
     </message>
     <message>
         <source>is the probability of success on each trial.</source>
-        <translation type="unfinished"></translation>
+        <translation>je verjetnost uspešnosti posameznega poskusa.</translation>
     </message>
     <message>
         <source>is the value you want to round.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki jo želite zaokrožiti.</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round.</source>
-        <translation type="unfinished"></translation>
+        <translation>je mnogokratnik, s katerim želite zaokroževati.</translation>
     </message>
     <message>
         <source>is a text value that specifies what type of cell information you want.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki navaja vrsto želene informacije o celici.</translation>
     </message>
     <message>
         <source>is the cell that you want information about.</source>
-        <translation type="unfinished"></translation>
+        <translation>je celica, o kateri želite informacije.</translation>
     </message>
     <message>
         <source>is a number between 1 and 255 specifying which character you want.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je število med 1 in 255, s katerim določite želeni znak.</translation>
     </message>
     <message>
         <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, pri kateri želite vrednotiti porazdelitev, in je nenegativno število.</translation>
     </message>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število stopenj prostosti, ki je število med 1 in 10^10 in ni 10^10.</translation>
     </message>
     <message>
         <source>is a probability associated with the chi-squared distribution, a value betwwen 0 and 1 inclusive.</source>
@@ -6343,11 +6360,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the range of data that contains observations to test against expected values.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je obseg podatkov z opazovanji za preskus pričakovanih vrednosti.</translation>
     </message>
     <message>
         <source>is the range of data that contains the ratio of the product of row totals and column totals to the grand total.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je obseg podatkov z razmerji vsot vrst in vsot stolpcev proti skupni vsoti.</translation>
     </message>
     <message>
         <source>specifies which value argument is selected. Index_num must be betwwen 1 and 29, or a formula or a reference to a number betwwen 1 to 29.</source>
@@ -6359,27 +6376,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is any worksheet information from which you want to remove nonprintable characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>je kateri koli delovni list, s katerega želimo odstraniti znake, ki se ne tiskajo.</translation>
     </message>
     <message>
         <source>is the text for which you want the code of the first character.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki mu določate kodo prvega znaka.</translation>
     </message>
     <message>
         <source>is the cell or range of contiguous cells for which you want the column number. If omitted, the cell containing the COLUMN function is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>je celica ali obseg celic, ki jim določate številko stolpca. Če tega ni, je uporabljena celica, ki vsebuje funkcijo COLUMN.</translation>
     </message>
     <message>
         <source>is an array or array formula, or a reference to a range of cells for which you want the number of columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali matrična formula oziroma sklic na obseg celic, za katerega določate število stolpcev.</translation>
     </message>
     <message>
         <source>is the total number of items.</source>
-        <translation type="unfinished"></translation>
+        <translation>je skupno število elementov.</translation>
     </message>
     <message>
         <source>is the number of items in each combination.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število predmetov v vsaki kombinaciji.</translation>
     </message>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
@@ -6395,7 +6412,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the sample size.</source>
-        <translation type="unfinished"></translation>
+        <translation>je velikost vzorca.</translation>
     </message>
     <message>
         <source>is a cell range of values. The values should be numbers, names, arrays, or reference that contain numbers. </source>
@@ -6403,15 +6420,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a second cell range of values. The values should be numbers, names, arrays, or references that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je drug obseg celic z vrednostmi. Vrednosti morajo biti števila, imena, matrike ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the cosine.</source>
-        <translation type="unfinished"></translation>
+        <translation>je kot v radianih, za katerega želite poiskati kosinus.</translation>
     </message>
     <message>
         <source>is any real number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je katero koli realno število.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
@@ -6423,11 +6440,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the range from which you want to count the empty cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg, v katerem želite prešteti prazne celice.</translation>
     </message>
     <message>
         <source>is the range of cells from which you want to count nonblank cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg celic, v katerem želite prešteti neprazne celice.</translation>
     </message>
     <message>
         <source>is the condition or criteria in the form of a number, experession, or text that defines which cells will be used to find the average.</source>
@@ -6435,7 +6452,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the first cell range of integers and must be numbers, arrays, or references that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je prvi obseg celic celih števil, ki morajo biti števila, matrike ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>is the second cell range of integers and must be numbers, arrays, or reference that contain numbers.</source>
@@ -6443,15 +6460,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the number of Bernoulli trials.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število Bernoullijevih poskusov.</translation>
     </message>
     <message>
         <source>is the probability of success on each trial, a number between 0 and 1 inclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation>je verjetnost uspešnosti posameznega poskusa in je število med 0 in vključno 1.</translation>
     </message>
     <message>
         <source>is the criterion value, a number between 0 and 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost kriterija in je število med 0 in 1.</translation>
     </message>
     <message>
         <source>is a number from 1904 to 9999.</source>
@@ -6459,11 +6476,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a number from 1 to 12 representing the month of the year.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število od 1 do 12, ki predstavlja mesec v letu.</translation>
     </message>
     <message>
         <source>is a number from 1 to 31 representing the day of the month.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število od 1 do 31, ki predstavlja dan v mesecu.</translation>
     </message>
     <message>
         <source>is text that represents a date in a Kingsoft Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
@@ -6471,7 +6488,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg celic, ki sestavlja seznam ali zbirko podatkov. Zbirka podatkov je seznam sorodnih podatkov.</translation>
     </message>
     <message>
         <source>is either the label of the column in double quotation marks or a number that represents the column&apos;s position in the list.</source>
@@ -6479,7 +6496,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the range of cells that contains the conditions you specify. The range includes a column label and one cell below the label for a condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg celic s pogoji, ki jih določite sami. Obseg vsebuje oznako stolpca in celico pod njo, ki vsebuje pogoj.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by Kingsoft Spreadsheets.</source>
@@ -6487,7 +6504,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>start_date and end_date are the two dates between which you want to know the number of days.</source>
-        <translation type="unfinished"></translation>
+        <translation>začetni_datum in končni_datum sta datuma, katerih število dni želite dobiti.</translation>
     </message>
     <message>
         <source>is a logical value specifying the calculation method; U.S.(NASD) = FALSE or omitted; European = TRUE.</source>
@@ -6495,31 +6512,31 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the initial cost of the asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>je začetna cena sredstva.</translation>
     </message>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>je rešena vrednost na koncu življenjske dobe sredstva.</translation>
     </message>
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
-        <translation type="unfinished"></translation>
+        <translation>!je rešena vrednost na koncu življenjske dobe sredstva.!je število obdobij, prek katerih se amortizira sredstvo (imenovano tudi življenjska doba sredstva).</translation>
     </message>
     <message>
         <source>is the period for which you want to calculate the depreciation. Period must use the same units as life.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obdobje, za katerega želite izračunati amortizacijo. Obdobje mora biti v istih enotah kot življenjska doba.</translation>
     </message>
     <message>
         <source>is the number of months in the first year. If month is omitted, it is assumed to be 12.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je število mesecev v prvem letu. Kadar jih izpustimo, se privzame 12 mesecev.</translation>
     </message>
     <message>
         <source>is the rate at which the balance declines. If Factor is omitted, it is assumed to be 2(the double-declining balance method).</source>
-        <translation type="unfinished"></translation>
+        <translation>je hitrost upadanja salda. Izpustitev faktorja pomeni, da je ta 2 (metoda dvojnopojemajočega salda).</translation>
     </message>
     <message>
         <source>is the angle in radians that you want to convert.</source>
-        <translation type="unfinished"></translation>
+        <translation>je kot v radianih, ki ga želite pretvoriti.</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
@@ -6535,27 +6552,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the value to round.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki se zaokroži.</translation>
     </message>
     <message>
         <source>is the first text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>je prvi besedilni niz.</translation>
     </message>
     <message>
         <source>is the second text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>is the second text string.</translation>
     </message>
     <message>
         <source>is the exponent applied to the base e. The constant e equals 2.71828182845904, the base of the natural logarithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>je eksponent z osnovo e. Konstanta e je enaka 2,71828182845904 in je osnova naravnega logaritma.</translation>
     </message>
     <message>
         <source>is the value of the function, a nonnegative number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost funkcije in je nenegativno število.</translation>
     </message>
     <message>
         <source>is the parameter value, a positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost parametra in je pozitivno število.</translation>
     </message>
     <message>
         <source>is a logical value for the function to return; the cumulative distribution function = TRUE; the probability density function = FALSE.</source>
@@ -6563,7 +6580,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the nonnegative number you want the factorial of.</source>
-        <translation type="unfinished"></translation>
+        <translation>je nenegativno število, ki mu želite določiti fakulteto.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a nonnagative number.</source>
@@ -6575,11 +6592,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text containing the text you want to find.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki ga želite poiskati.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search. The first character in Within_text is character number 1. If omitted, Start_num = 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>določi znak, pri katerem se iskanje začne. Prvi znak v Within_text je znak številka 1. Če izpuščeno, velja Start_num = 1.</translation>
     </message>
     <message>
         <source>is the text you want to search.</source>
@@ -6587,39 +6604,39 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>specifies the character at which to start the search.</source>
-        <translation type="unfinished"></translation>
+        <translation>določi znak, pri katerem se iskanje začne.</translation>
     </message>
     <message>
         <source>is probability associated with the F cumulative distribution, a number between 0 and 1 inclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation>je verjetnost, povezana s F-kumulativno porazdelitvijo, in je število med 0 in vključno 1.</translation>
     </message>
     <message>
         <source>is the value for which you want the transformation, a number between -1 and 1, excluding -1 and 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>je številska vrednost, ki jo želite pretvoriti, in je število med -1 in 1, ni pa -1 ali 1.</translation>
     </message>
     <message>
         <source>is the value for which you want to perform the inverse of the transformation.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki jo želite pretvoriti.</translation>
     </message>
     <message>
         <source>is the number you want to round and convert to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, ki ga želite zaokrožiti in pretvoriti v besedilo.</translation>
     </message>
     <message>
         <source>is the number of digits to the right of the decimal point. If omitted, Decimals = 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število števk desno od decimalne vejice. Če nič ne vnesete, sta decimalki dve.</translation>
     </message>
     <message>
         <source>is a logical value: do not display commas in the returned text = TRUE; do display commas in the returned text = FALSE or omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: ne prikaže ločil tisočic v vrnjenem besedilu = TRUE; prikaže ločila v vrnjenem besedilu = FALSE ali ni določena.</translation>
     </message>
     <message>
         <source>is the numeric value you want to round.</source>
-        <translation type="unfinished"></translation>
+        <translation>je številska vrednost, ki jo želite zaokrožiti.</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round. Number and Significance must either both be positive or both be negative.</source>
-        <translation type="unfinished"></translation>
+        <translation>je mnogokratnik, na katerega želite zaokroževati. Število in značilno število morata biti ali obe pozitivni ali obe negativni.</translation>
     </message>
     <message>
         <source>is the data point for which you want to predict value and must be a numeric value.</source>
@@ -6627,7 +6644,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=mx+b.</source>
-        <translation type="unfinished"></translation>
+        <translation>je nabor y-vrednosti, ki so vam že znane za razmerje y = mx + b.</translation>
     </message>
     <message>
         <source>is a rangge or array of x-values you already know in the relationship y=mx + b.</source>
@@ -6635,19 +6652,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is an array of or reference to a set of values for which you want to count frequencies (blanks and text are ignored).</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika vrednosti ali sklic na množico vrednosti, v kateri želite šteti frekvence (presledki in besedilo so prezrti).</translation>
     </message>
     <message>
         <source>is an array of or reference to intervals into which you want to group the values in data_array.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali sklic na intervale, v katerih želite razvrščati v skupine vrednosti iz »matrika_podatkov«.</translation>
     </message>
     <message>
         <source>is the first array or range of data and can be numbers or names, arrays, or references that contain numbers (blanks are ignored).</source>
-        <translation type="unfinished"></translation>
+        <translation>je prva matrika ali obseg podatkov, ki so lahko števila ali imena, matrike ali sklici, ki vsebujejo števila (presledki se prezrejo).</translation>
     </message>
     <message>
         <source>is the second array or range of data and can be numbers or names, arrays, or references that contain numbers (blanks are ignored).</source>
-        <translation type="unfinished"></translation>
+        <translation>je druga matrika ali obseg podatkov, ki so lahko števila ali imena, matrike ali sklici, ki vsebujejo števila (presledki se prezrejo).</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
@@ -6655,15 +6672,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the total number of payment periods in the investment.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je skupno število plačilnih obdobij na naložbo.</translation>
     </message>
     <message>
         <source>is the payment made each period and cannot change over the life of the investment.</source>
-        <translation type="unfinished"></translation>
+        <translation>je plačilo, izvedeno v vsakem obdobju, in se ne more spremeniti prek življenja naložbe.</translation>
     </message>
     <message>
         <source>is the present value, or the lump-sum amount that a series of future payments is worth now. If omitted, Pv = 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je sedanja vrednost ali enkratni znesek, ki predstavlja sedanjo vrednost vrste bodočih plačil. Če je izpuščena, je sedanja vrednost 0.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the begining of the period = 1: payment at the end of the period = 0 or omitted.</source>
@@ -6675,15 +6692,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a parameter to the distribution, a positive number. If beta = 1,GAMMADIST returns the standard gamma distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>je parameter porazdelitve in je pozitivno število. Če je beta = 1, GAMMADIST vrne standardno gama porazdelitev.</translation>
     </message>
     <message>
         <source>is a logical value: return the cumulative distribution function = TRUE; return the probability mass function = FALSE or omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: vrne kumulativno porazdelitveno funkcijo = TRUE; vrne verjetnostno masno funkcijo = FALSE ali izpuščeno.</translation>
     </message>
     <message>
         <source>is the probability associated with the gamma distribution, a number between 0 and 1, inclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation>je verjetnost, povezana z gama porazdelitvijo, in je število med 0 in vključno 1.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution, a positive number. If beta = 1,GAMMAINV returns the standard gamma distribution.</source>
@@ -6691,7 +6708,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the value for which you want to calculate GAMMALN, a positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, za katero želite izračunati pozitivno število GAMMALN.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
@@ -6703,7 +6720,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je nabor y-vrednosti, ki jih že poznate v odnosu y = b*m^x, in je matrika ali obseg pozitivnih števil.</translation>
     </message>
     <message>
         <source>is an optional set of x-values that you may already know in the relationship y=b*m^x, an array or range the same size as Known_y&apos;s.</source>
@@ -6711,11 +6728,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>are new x-values for which you want GROWTH to return corresponding y-values.</source>
-        <translation type="unfinished"></translation>
+        <translation>so nove x-vrednosti, za katere želite, da GROWTH vrne ustrezne y-vrednosti.</translation>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE; b is set equal to 1 if Const = FALSE or omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: konstanta b se izračuna normalno, če je konstanta enaka TRUE; b je 1, če je konstanta enaka FALSE ali vrednost ni določena.</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
@@ -6723,7 +6740,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the value to be found in the first row of the table and can be a value, a reference, or a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki naj se poišče v prvi vrstici tabele, in je lahko vrednost, sklic ali besedilni niz.</translation>
     </message>
     <message>
         <source>is the table of text, numbers, or logical values, in which data is looked up. Table_array can be a reference to range or a range name.</source>
@@ -6731,7 +6748,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the row number in Table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>je številka vrstice v table_array, iz katere naj se vrne ujemajoča vrednost. Prva vrstica vrednosti v tabeli je vrstica 1.</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in accending order) = TRUE or omitted; find an exact match = FALSE.</source>
@@ -6743,75 +6760,75 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text giving the path and file name to the document to be opened, a hard drive location, UNC address, or URL path.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki označuje pot in datotečno ime dokumenta, ki ga želite odpreti, mesto diska, naslov UNC ali pot spletnega naslova.</translation>
     </message>
     <message>
         <source>is text or a number that is displayed in the cell. If omitted, the cell displays the Link_location text.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo ali številka, ki je prikazana v celici. Če jo izpustite, bo v celici prikazano besedilo Link_location.</translation>
     </message>
     <message>
         <source>is the number of successes in the sample.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število uspehov v vzorcu.</translation>
     </message>
     <message>
         <source>is the size of the sample.</source>
-        <translation type="unfinished"></translation>
+        <translation>je velikost vzorca.</translation>
     </message>
     <message>
         <source>is the number of successes in the population.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število uspehov v populaciji.</translation>
     </message>
     <message>
         <source>is the population size.</source>
-        <translation type="unfinished"></translation>
+        <translation>je velikost populacije.</translation>
     </message>
     <message>
         <source>is any value or expression that can be evaluated to TRUE or FALSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>je katera koli vrednost ali izraz, ki se lahko vrednoti s TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>is the value that is returned if Logical_test is TRUE. If omitted, TRUE is returned. You can nest up to seven IF functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki se vrne, če je »Logični_test« enak TRUE. Če je izpuščena, se vrne TRUE. Gnezdite lahko do sedem funkcij IF.</translation>
     </message>
     <message>
         <source>is the value that is returned if Logical_test is FALSE. If omitted, FALSE is returned.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki se vrne, če je »Logični_test« enak FALSE. Če je izpuščena, se vrne FALSE.</translation>
     </message>
     <message>
         <source>is a range of cells or an array constant.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg celic ali matrična konstanta.</translation>
     </message>
     <message>
         <source>selects the row in Array or Reference from which to return a value. If omitted, Column_num is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>izbere vrstico v matriki ali v sklicu, iz katerega bo vrnjena vrednost. Če to izpustite, morate navesti argument »Št_stolpca«.</translation>
     </message>
     <message>
         <source>selects the column in Array or Reference from which to return a value. If omitted, Row_num is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>izbere stolpec v matriki ali v sklicu, iz katerega bo vrnjena vrednost. Če to izpustite, morate navesti argument »Št_vrstice«.</translation>
     </message>
     <message>
         <source>selects a range in Reference from which to return a value. The first area selected or entered is area 1, the second area is area 2, and so on.</source>
-        <translation type="unfinished"></translation>
+        <translation>izbere obseg v sklicu, iz katerega bo vrnjena vrednost. Najprej je izbrano ali vneseno področje 1, nato področje 2 itd.</translation>
     </message>
     <message>
         <source>is a reference to a cell that contains an A1 or R1C1 style reference, a name defined as a reference, or a reference to a cell as a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>je sklic na celico, ki vsebuje A1- ali R1C1- slog sklicevanja, ime, ki je določeno kot sklic, ali sklic na celico, kot na besedilni niz.</translation>
     </message>
     <message>
         <source>is a logical value that specifies the type of reference in Ref_text: R1C1-style = FALSE; A1-style = TRUE or omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost, ki določa vrsto sklicevanja v argumentu »Besedilo_sklica«: slog R1C1 = FALSE; slog A1 = TRUE ali ni določeno.</translation>
     </message>
     <message>
         <source>is the real number you want to round down to an integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>je realno število, ki ga želite zaokrožiti navzdol v celo število.</translation>
     </message>
     <message>
         <source>is the dependent set of observations or data and can be numbers or names, arrays, or references that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je odvisen nabor opazovanj ali podatkov, ki so lahko števila ali imena, matrike ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>is the independent set of observations or data and can be numbers or names, arrays, or references that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je neodvisen nabor opazovanj ali podatkov, ki so lahko števila ali imena, matrike ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
@@ -6819,7 +6836,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
-        <translation type="unfinished"></translation>
+        <translation>število plačilnih obdobij za naložbo.</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -6827,19 +6844,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the future value, or a cash balance you want to attain after the last payment is made. If omitted, zero is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>je bodoča vrednost ali blagajniško stanje, ki ga želite doseči po izvedbi zadnjega plačila. Če izpustite, je uporabljena vrednost nič.</translation>
     </message>
     <message>
         <source>is an array or a reference to cells that contain numbers for which you want to calculate the internal rate of return.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali sklic na celice s števili, ki jim želite določiti notranjo stopnjo donosa.</translation>
     </message>
     <message>
         <source>is a number that you guess is close to the result of IRR; 0.1(10 percent) if omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, za katerega ugibate, da je blizu rezultatu IRR; 0.1 (10 odstotkov), če je izpuščeno.</translation>
     </message>
     <message>
         <source>is the cell or a name that refers to the cell you want to test.</source>
-        <translation type="unfinished"></translation>
+        <translation>je celica ali ime, ki se sklicuje na celico, ki jo želite preskusiti.</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be name that refers to a cell, formula, or value.</source>
@@ -6863,7 +6880,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the array or range of data for which you want to determine the k-th largest value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali obseg podatkov, za katero želite določiti k-to največjo vrednost.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
@@ -6887,7 +6904,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text whose length you want to find. Spaces count as characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki mu želite poiskati dolžino. Presledki se štejejo kot znaki.</translation>
     </message>
     <message>
         <source>is the text whose number of characters you want to find.</source>
@@ -6895,27 +6912,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE or omitted; b is set equal to 1 if Const = FALSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: konstanta b se izračuna normalno, če je konstanta enaka TRUE ali ni določeno; b je enako 1, če je konstanta enaka FALSE.</translation>
     </message>
     <message>
         <source>is a logical value: return additonal regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: konstanta b se izračuna normalno, če je konstanta enaka TRUE ali ni določeno; b je enako 1, če je konstanta enaka FALSE.</translation>
     </message>
     <message>
         <source>is the positive real number for which you want the natural logarithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>je pozitivno realno število, ki mu želite določiti naravni logaritem.</translation>
     </message>
     <message>
         <source>is the text you want to convert to lowercase. Characters in Text that are not letters are not changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki ga želite pretvoriti v male črke. Znaki v besedilu, ki niso črke, ne bodo spremenjeni.</translation>
     </message>
     <message>
         <source>is the positive real number for which you want the logarithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>je pozitivno realno število, ki mu želite določiti logaritem.</translation>
     </message>
     <message>
         <source>is the positive real number for which you want the base-10 logarithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>je pozitivno realno število, ki mu želite določiti desetiški logaritem.</translation>
     </message>
     <message>
         <source>is a probability associated with the lognormal distribution, a number betwwen 0 and 1, inclusive.</source>
@@ -6923,35 +6940,35 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the mean o ln(x).</source>
-        <translation type="unfinished"></translation>
+        <translation>je srednja vrednost za ln(x).</translation>
     </message>
     <message>
         <source>is the standard deviation of ln(x), a positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je standardni odklon za ln(x) in je pozitivno število.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, pri kateri želite vrednotiti funkcijo, in je pozitivno število.</translation>
     </message>
     <message>
         <source>is a value that LOOKUP searches for in Lookup_vector and can be a number, text, a logical value, or a name or reference to a value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki jo LOOKUP išče v parametru »Vektor_iskanja« in je lahko številka, besedilo, logična vrednost, ime ali sklic na vrednost.</translation>
     </message>
     <message>
         <source>is a range that contains only one row or one column of text, numbers, or logical values, placed in ascending order.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg, ki vsebuje le eno vrstico ali le en stolpec besedila, števil ali logičnih vrednosti, razporejenih v naraščajočem vrstnem redu.</translation>
     </message>
     <message>
         <source>is a range that contains only one row or column, the same size as Lookup_vector.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg, ki vsebuje le eno vrstico ali le en stolpec enake velikosti kot »Vektor_iskanja«.</translation>
     </message>
     <message>
         <source>is a value that LOOKUP searches for in Array and can be a number, text, a logical value, or a name or reference to a value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki jo LOOKUP išče v matriki, in je lahko število, besedilo, logična vrednost, ime ali sklic na vrednost.</translation>
     </message>
     <message>
         <source>is a range of cells that contain text, number, or logical values that you want to compare with Lookup_value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg celic, ki vsebujejo besedilo, števila ali logične vrednosti, ki jih želite primerjati z »Vektor_iskanja«.</translation>
     </message>
     <message>
         <source>is the text string you want to convert. Characters in Text that are not letters are not changed.</source>
@@ -6959,7 +6976,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the value you use to find the value you want in the array, a number, text, or logical value, or a reference to one of these.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki jo uporabite za iskanje vrednosti v matriki, številka, logična vrednost ali sklic na eno od tega.</translation>
     </message>
     <message>
         <source>is a contiguous range of cells containing possible lookup value, an array of values, or a reference to an array.</source>
@@ -6967,7 +6984,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a number 1, 0, or -1 indicating which value to return.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število 1, 0, ali -1, ki označuje, katera vrednost naj se vrne.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
@@ -6979,7 +6996,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a numeric array with an equal number of rows and columns, either a cell range or an array constant.</source>
-        <translation type="unfinished"></translation>
+        <translation>je številska matrika z enakim številom vrstic in stolpcev, obseg celic ali matrična konstanta.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
@@ -6987,15 +7004,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilni niz, v katerem so znaki, ki jih želite izvleči.</translation>
     </message>
     <message>
         <source>is the position of the first character you want to extract. The first character in Text is 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>je položaj prvega znaka, ki ga želite izvleči iz besedila. Prvi znak v besedilu je 1.</translation>
     </message>
     <message>
         <source>specifies how many characters to return from Text.</source>
-        <translation type="unfinished"></translation>
+        <translation>specifies how many characters to return from Text.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
@@ -7015,15 +7032,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obrestna mera, ki jo plačate za denar v denarnih tokovih.</translation>
     </message>
     <message>
         <source>is the interest rate you receive on the cash flows as you reinvest them.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obrestna mera, ki jo prejmete na denarna tokova med vnovično naložbo.</translation>
     </message>
     <message>
         <source>is the first array of numbers to multiply and must have the same number of columns as Array2 has rows.</source>
-        <translation type="unfinished"></translation>
+        <translation>je prva matrika števil za množenje in mora imeti enako število stolpcev kot ima »matrika2« vrstic.</translation>
     </message>
     <message>
         <source>is the second array of numbers to multiply and must have the same number of columns as Array1 has rows.</source>
@@ -7035,7 +7052,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the number by which you want to divide Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, s katerim želite deliti število.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
@@ -7047,31 +7064,31 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the value you want converted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki jo želite pretvoriti.</translation>
     </message>
     <message>
         <source>is the number of failures.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število neuspehov.</translation>
     </message>
     <message>
         <source>is the number of successes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je število uspehov.</translation>
     </message>
     <message>
         <source>is the value for which you want the distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, za katero iščete porazdelitev.</translation>
     </message>
     <message>
         <source>is the arithmetic mean of the distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>je aritmetična srednja vrednost porazdelitve.</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je standardni odklon porazdelitve in je pozitivno število.</translation>
     </message>
     <message>
         <source>is a logical value: for the cumulative distribution function, use TRUE; for the probability density function, use FALSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: za kumulativno porazdelitveno funkcijo uporabite TRUE; za verjetnostno masno funkcijo pa FALSE.</translation>
     </message>
     <message>
         <source>is a probability corresponding to the normal distribution, a number betwwen 0 and 1 inclusive.</source>
@@ -7079,11 +7096,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation>je verjetnost, ki ustreza normalni porazdelitvi, in je število med 0 in vključno 1.</translation>
     </message>
     <message>
         <source>is a value or expression that can be evaluated to TRUE or FALSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost ali izraz, ki se vrednoti kot TRUE ali FALSE.</translation>
     </message>
     <message>
         <source>is the payment made each period, it change over the life of the investment.</source>
@@ -7091,15 +7108,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the present value, or the lump-sum amount that a series of future payments is worth now.</source>
-        <translation type="unfinished"></translation>
+        <translation>je sedanja vrednost ali enkratni znesek, ki predstavlja sedanjo vrednost vrste bodočih plačil.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: plačilo v začetku obdobja = 1; plačilo na koncu obdobja = 0 ali izpuščeno.</translation>
     </message>
     <message>
         <source>is the rate of discount over the length of one period.</source>
-        <translation type="unfinished"></translation>
+        <translation>je diskontna stopnja v enem obdobju.</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
@@ -7107,23 +7124,23 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the reference from which you want to base the offset, a reference to a cell or range of adjacent cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>je sklic, na katerem temelji odmik, in je sklic na celico ali na obseg priležnih celic.</translation>
     </message>
     <message>
         <source>is the number of rows, up or down, that you want the upper-left cell of the result to refer to.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število vrstic, navzgor ali navzdol, na katere naj se sklicuje zgornja leva celica rezultata.</translation>
     </message>
     <message>
         <source>is the number of columns, to the left or right, that you want the upper-left cell of the result to refer to.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je število stolpcev, levo ali desno, na katere naj se sklicuje zgornja leva celica rezultata.</translation>
     </message>
     <message>
         <source>is the height, in number of rows, that you want the result to be, the same height as Reference if omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je višina v številu vrstic, ki jo želite za rezultat. Če to opustite, bo višina enaka, kot je določeno v argumentu Sklic«.</translation>
     </message>
     <message>
         <source>is the width, in number of columns, that you want the result to be, the same width as Reference if omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je širina v številu stolpcev, ki jo želite za rezultat. Če to opustite, bo širina enaka, kot je določeno v polju Reference.</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
@@ -7131,15 +7148,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a set of independent values.</source>
-        <translation type="unfinished"></translation>
+        <translation>je nabor neodvisnih vrednosti.</translation>
     </message>
     <message>
         <source>is a set of dependent values.</source>
-        <translation type="unfinished"></translation>
+        <translation>je nabor odvisnih vrednosti.</translation>
     </message>
     <message>
         <source>is the array or range of data that defines relative standing.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali obseg podatkov, ki določa relativni položaj.</translation>
     </message>
     <message>
         <source>is the percent value that is between 0 through 1, inclusive.</source>
@@ -7147,7 +7164,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the value for which you want to know the rank.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, za katero želite poznati rang.</translation>
     </message>
     <message>
         <source>is an optional value that identifies the number of singnificant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
@@ -7155,27 +7172,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the total number of objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>je skupno število predmetov.</translation>
     </message>
     <message>
         <source>in the number of objects in each permutation.</source>
-        <translation type="unfinished"></translation>
+        <translation>v število predmetov v vsaki permutaciji.</translation>
     </message>
     <message>
         <source>is a reference to a cell containing a phonetic string.</source>
-        <translation type="unfinished"></translation>
+        <translation>je sklic na celico, ki vsebuje fonetični niz.</translation>
     </message>
     <message>
         <source>is the total number of payment periods for the loan or investment.</source>
-        <translation type="unfinished"></translation>
+        <translation>je skupno število plačilnih obdobij na posojilo ali naložbo.</translation>
     </message>
     <message>
         <source>is the present value: the total amount that a series of future payments is worth now.</source>
-        <translation type="unfinished"></translation>
+        <translation>je sedanja vrednost: skupen znesek, enak sedanji vrednosti vrste bodočih plači.</translation>
     </message>
     <message>
         <source>is the number of events.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število dogodkov.</translation>
     </message>
     <message>
         <source>is the expected number value, a positive number.</source>
@@ -7183,35 +7200,35 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a logical value: for the cumulative Poisson probability, use TRUE; for the Poisson probability mass function, use FALSE.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: za kumulativno Poissonovo verjetnost uporabite TRUE, za Poissonovo verjetnostno masno funkcijo pa FALSE.</translation>
     </message>
     <message>
         <source>is the base number, any real number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je osnova potence in je lahko katero koli realno število.</translation>
     </message>
     <message>
         <source>is the exponent, to which the base number is raised.</source>
-        <translation type="unfinished"></translation>
+        <translation>je eksponent potence.</translation>
     </message>
     <message>
         <source>specifies the period and must be in the range 1 to nper.</source>
-        <translation type="unfinished"></translation>
+        <translation>določa obdobje in mora biti v obsegu od 1 do nper.</translation>
     </message>
     <message>
         <source>is the range of numeric values of x with which there are associated probabilities.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg številskih vrednosti za x, ki so pridružene verjetnosti.</translation>
     </message>
     <message>
         <source>is the set of probabilities associated with values in X_range, values between 0 and 1 and excluding 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>je nabor verjetnosti, povezanih z vrednostmi v »X_obseg«, in so vrednosti med 0 in 1 in niso 0.</translation>
     </message>
     <message>
         <source>is the lower bound on the value for which you want a probability.</source>
-        <translation type="unfinished"></translation>
+        <translation>je spodnja meja za vrednost, za katero določate verjetnost.</translation>
     </message>
     <message>
         <source>is the optional upper bound on the value. If omitted,PROB returns the probability that X_range values are equal to Lower_limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>je izbirna zgornja meja vrednosti. Če jo izpustite, PROB vrne verjetnost, da so vrednosti v »X_obseg« enake »spodnja_meja«.</translation>
     </message>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
@@ -7219,19 +7236,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing text to partially capitalize.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo v narekovajih, formula, ki vrne besedilo ali sklic na celico z besedilom, kjer želite delno postaviti velike začetnice.</translation>
     </message>
     <message>
         <source>is the payment made each period; it cannot change over the life of the investment.</source>
-        <translation type="unfinished"></translation>
+        <translation>je plačilo, nakazano v vsakem obdobju; ne sme se spreminjati prek življenja naložbe.</translation>
     </message>
     <message>
         <source>is the value representing the timing of payment: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, ki označuje, kdaj so plačila dospela: na začetku obdobja = 1; na koncu obdobja = 0 ali ni določeno.</translation>
     </message>
     <message>
         <source>is the array or cell range of numeric values for which you want the quartile value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali obseg celic s številskimi vrednostmi, za katere želite določiti kvartilne vrednosti.</translation>
     </message>
     <message>
         <source>is a number value = 0; lst quartile = 1; median value = 2; 3rd quartile = 3; maximum value = 4.</source>
@@ -7239,31 +7256,31 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is an angle in degrees that you want to convert.</source>
-        <translation type="unfinished"></translation>
+        <translation>je kot v stopinjah, ki ga želite pretvoriti.</translation>
     </message>
     <message>
         <source>is the number for which you want to find the rank.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, ki mu želite poiskati rang.</translation>
     </message>
     <message>
         <source>is an array of, or a reference to, a list of numbers. Nonnumeric values are ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika števil ali sklic na seznam števil. Neštevilske vrednosti se ne upoštevajo.</translation>
     </message>
     <message>
         <source>is a number: rank in the list sorted descending = 0 or omitted; rank in the list sorted ascending = any nonzero value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število: če je 0 ali izpuščeno, bo rang urejen padajoče; če je katera koli neničelna vrednost, bo rang urejen naraščajoče.</translation>
     </message>
     <message>
         <source>is the payment made each period and cannot change over the life of the loan or investment.</source>
-        <translation type="unfinished"></translation>
+        <translation>je plačilo, izvedeno v vsakem obdobju, in se ne more spremeniti prek življenja posojila ali naložbe.</translation>
     </message>
     <message>
         <source>is text in which you want to replace some characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, v katerem želite zamenjati nekatere znake.</translation>
     </message>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je mesto znaka v starem besedilu, ki ga želite zamenjati z novim besedilom.</translation>
     </message>
     <message>
         <source>is the number of the characters in Old_text that you want to replace.</source>
@@ -7271,7 +7288,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text that will replace characters in Old_text.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki bo zamenjalo znake v starem besedilu.</translation>
     </message>
     <message>
         <source>is the text in which you want to replace.</source>
@@ -7283,15 +7300,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text you want to repeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki ga želite ponavljati.</translation>
     </message>
     <message>
         <source>is a positive number specifying the number of times to repeat text.</source>
-        <translation type="unfinished"></translation>
+        <translation>je pozitivno število, ki določa, kolikokrat se besedilo ponovi.</translation>
     </message>
     <message>
         <source>specifies how many characters you want to extract, 1 if omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>določa, koliko znakov želite izvleči. Enega, če je izpuščeno.</translation>
     </message>
     <message>
         <source>is the text containing part characters you want to exact.</source>
@@ -7299,7 +7316,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>specifies how many characters you want to extract.</source>
-        <translation type="unfinished"></translation>
+        <translation>določa, koliko znakov želite izvleči.</translation>
     </message>
     <message>
         <source>is an array, a reference to a cell with numbers, a formula which can import numbers.</source>
@@ -7311,7 +7328,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the Arabic numeral you want to convert.</source>
-        <translation type="unfinished"></translation>
+        <translation>je arabska številka, ki jo želite pretvoriti.</translation>
     </message>
     <message>
         <source>is a number specifying the type of Roman numeral you want.</source>
@@ -7319,7 +7336,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the number you want to round.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, ki ga želite zaokrožiti.</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearst integer.</source>
@@ -7327,7 +7344,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is any real number that you want rounded down.</source>
-        <translation type="unfinished"></translation>
+        <translation>je katero koli realno število, ki ga želite zaokrožiti navzdol.</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearst integer.</source>
@@ -7335,31 +7352,31 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is any real number that you want rounded up.</source>
-        <translation type="unfinished"></translation>
+        <translation>je katero koli realno število, ki ga želite zaokrožiti.</translation>
     </message>
     <message>
         <source>is the rate at which the balance declines, 2 (double-declining balance) if omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je mera, s katero saldo upada. Če jo izpustite, je privzeta vrednost 2 (način dvojnopojemajočega salda).</translation>
     </message>
     <message>
         <source>is the cell or a single range of cells for which you want the row number; if omitted, returns the cell containing the ROW function.</source>
-        <translation type="unfinished"></translation>
+        <translation>je celica ali obseg celic, za katere želite število vrstice; če je izpuščeno, vrne celico, ki vsebuje funkcijo ROW.</translation>
     </message>
     <message>
         <source>is an array, an array formula, or a reference to a range of cells for which you want the number of rows.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika, matrična formula ali sklic na obseg celic, za katere želimo poznati število vrstic.</translation>
     </message>
     <message>
         <source>is an array or range of data points and can be numbers or names, arrays, or references that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali obseg podatkovnih točk, ki so lahko števila ali imena, matrike ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
-        <translation type="unfinished"></translation>
+        <translation>je ime »ID_programa« za registrirani dodatek COM za avtomatizacijo. Ime zapišite v narekovajih.</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <translation type="unfinished"></translation>
+        <translation>ime zapišite v narekovajih.!je ime strežnika, v katerem naj se bi dodatek izvajal. Navedite ime v narekovajih. Če se dodatek izvaja lokalno, uporabite prazen niz.</translation>
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
@@ -7367,11 +7384,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text you want to find. You can use the ? and * wildcard characters; use ~? and ~* to find the ? and * characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki ga želite poiskati. Uporabite lahko nadomestna znaka »?« in »*«. Če želite iskati znaka »?« in »*«, uporabite »~?« in »~*«.</translation>
     </message>
     <message>
         <source>is the text in which you want to search for Find_text.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki ga želite poiskati.</translation>
     </message>
     <message>
         <source>is the character number in Within_text, counting from the left, at which you want to star searching. If omitted, 1 is used.</source>
@@ -7391,31 +7408,31 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period =1; payment at the end of the period =0 or omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je logična vrednost: plačilo v začetku obdobja = 1; plačilo na koncu obdobja = 0 ali izpuščeno.</translation>
     </message>
     <message>
         <source>switch to straight-line depreciation when depreciation is greater than the declining balance = FALSE or omitted; do not switch = TRUE.</source>
-        <translation type="unfinished"></translation>
+        <translation>preklopi na linearno amortizacijo, ko je amortizacija večja od izračunanega upadajočega salda = FALSE ali izpuščeno; program ne preklopi = TRUE.</translation>
     </message>
     <message>
         <source>is an array or cell range of numeric dependent data points and can be numbers or names, arrays, or references that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali obseg celic številsko odvisnih podatkovnih točk, ki so lahko števila ali imena, matrike ali sklici, ki vsebujejo števila.</translation>
     </message>
     <message>
         <source>is an array or range of numerical data for which you want to determine the k-th smallest value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je matrika ali obseg številskih podatkov, za katere želite določiti k-to najmanjšo vrednost.</translation>
     </message>
     <message>
         <source>is the position (from the smallest) in the array or range of the value to return.</source>
-        <translation type="unfinished"></translation>
+        <translation>je mesto vrednosti za vračanje (od najmanjšega) v matriki ali v obsegu celic.</translation>
     </message>
     <message>
         <source>is the number for which you want the square root.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, ki mu želite določiti kvadratni koren.</translation>
     </message>
     <message>
         <source>is the value you want to normalize.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki jo želite normalizirati.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
@@ -7443,7 +7460,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text you want to replace Old_text.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, s katerim želite zamenjati »Staro_besedilo.</translation>
     </message>
     <message>
         <source>specifies which occurence of Old_text you want to replace. If omitted, every instance of Old_text is replaced.</source>
@@ -7451,7 +7468,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the number 1 to 11 that specifies the summary function for the subtotal.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število med 1 do 11, ki navaja, katera funkcija se uporabi za izračun delnih vsot na seznamu.</translation>
     </message>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
@@ -7463,7 +7480,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the range of cells you want evaluated.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg celic, katere želite ovrednotiti za določen pogoj.</translation>
     </message>
     <message>
         <source>is the actual cells to sum.</source>
@@ -7483,27 +7500,27 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the second range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>is the first range or array of numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je prvi obseg ali matrika števil.</translation>
     </message>
     <message>
         <source>is the second range or array of numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>je drugi obseg ali matrika števil.</translation>
     </message>
     <message>
         <source>is the value you want to test.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki jo želite preskusiti.</translation>
     </message>
     <message>
         <source>is the numeric value at which to evaluate the distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>je številčna vrednosti, pri kateri se porazdelitev vrednoti.</translation>
     </message>
     <message>
         <source>degrees of freedom</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopnja prostosti</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: ont-tailed distribution = 1; tow-tailed distribution = 2.</source>
@@ -7511,23 +7528,23 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a number, a formula that evaluates to a numeric value, or a reference to a cell containing a numeric value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je številska vrednost, formula za vrednotenje na številsko vrednost ali sklic na celico s številsko vrednostjo.</translation>
     </message>
     <message>
         <source>is a number format in text form from the Category box on the Number tab in the Format Cells dialog box (not General).</source>
-        <translation type="unfinished"></translation>
+        <translation>je številska oblika v besedilni obliki iz pogovornega okna »Oblika celic«, zavihka »Številke« in polja »Kategorija« (ne »Splošno«).</translation>
     </message>
     <message>
         <source>is a number from 0 to 23 representing the hour.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število med 0 in 23, ki predstavlja uro.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število med 0 in 59, ki predstavlja minuto.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the second.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število med 0 in 59, ki predstavlja sekundo.</translation>
     </message>
     <message>
         <source>is a text string that gives a time in any one of the Kingsoft Spreadsheets time formats (date information in the string is ignored).</source>
@@ -7539,11 +7556,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a positive integer indicating the number of degrees of freedom to characterize the distribution.</source>
-        <translation type="unfinished"></translation>
+        <translation>je pozitivno celo število, ki označuje število stopenj prostosti in tako tudi porazdelitev.</translation>
     </message>
     <message>
         <source>is a range of cells on a worksheet or an array of values that you want to transpose.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg celic na delovnem listu ali matrika vrednosti, ki jo želite transponirati.</translation>
     </message>
     <message>
         <source>is an optional range or array of x-values that you konw in the relationship y = mx+b, an array the same size as Know_y&apos;s.</source>
@@ -7551,7 +7568,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a range or array of new x-values for which you want TREND to return corresponding y-values.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg ali matrika novih x-vrednosti, za katere naj TREND vrne pripadajoče y-vrednosti.</translation>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const =TRUE or omitted; b set equal to 0 if Const = FALSE.</source>
@@ -7559,19 +7576,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text from which you want spaces removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, iz katerega želite odstraniti presledke.</translation>
     </message>
     <message>
         <source>is the range or array of values to trim and average.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg ali matrika vrednosti, ki se obreže in izračuna povprečje.</translation>
     </message>
     <message>
         <source>is the fractional number of data points to exclude from the top and bottom of the data set.</source>
-        <translation type="unfinished"></translation>
+        <translation>je racionalno število (ulomek) – delež podatkovnih točk, ki jih želite izločiti iz računanja.</translation>
     </message>
     <message>
         <source>is the number you want to truncate.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, ki ga želite prirezati.</translation>
     </message>
     <message>
         <source>is a number specifies the precision of the truncation, 0(zero) if omitted.</source>
@@ -7579,19 +7596,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the first data set.</source>
-        <translation type="unfinished"></translation>
+        <translation>je prvi nabor podatkov.</translation>
     </message>
     <message>
         <source>is the second data set.</source>
-        <translation type="unfinished"></translation>
+        <translation>je drugi nabor podatkov.</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: one-tailed distribution = 1; two-tailed distribution = 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>določa, koliko repov porazdelitve bo vrnila funkcija: enorepa porazdelitev = 1; dvorepa porazdelitev = 2.</translation>
     </message>
     <message>
         <source>is the kind of t-test: paired = 1, two-sample equal variance(homoscedastic) = 2, two-sample unequal variance = 3.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrsta t-preizkusa: v paru = 1; dvovzorčni, z enako varianco (homoskedastični) = 2; dvovzorčni, z neenako varianco = 3.</translation>
     </message>
     <message>
         <source>can be any value.</source>
@@ -7599,11 +7616,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the text you want converted to uppercase, a reference or a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo, ki ga želite pretvoriti v velike črke, sklic ali besedilni niz.</translation>
     </message>
     <message>
         <source>is the text enclosed in quotation marks or a reference to a cell containing the text you want to convert.</source>
-        <translation type="unfinished"></translation>
+        <translation>je besedilo v narekovajih ali sklic na celice z besedilom, ki ga želite pretvoriti.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
@@ -7623,11 +7640,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the ending period for which you want to calculate the depreciation, in the same units as Life.</source>
-        <translation type="unfinished"></translation>
+        <translation>je zadnje obdobje, za katerega želite izračunati amortizacijo, in mora biti v istih časovnih enotah kot »št_obdobij«.</translation>
     </message>
     <message>
         <source>is the value to be found in the first column of the table, and can be a value, a reference, or a text string.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, ki naj se poišče v prvem stolpcu matrike in je lahko vrednost, sklic ali besedilni niz.</translation>
     </message>
     <message>
         <source>is a table of text, number, or logical values in which data is looked up. Table_array can be a reference to a range or a range name.</source>
@@ -7635,7 +7652,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the row number in table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>je številka vrstice v table_array, iz katere naj se vrne ujemajoča vrednost. Prva vrstica vrednosti v tabeli je vrstica 1.</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
@@ -7643,19 +7660,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the number that represents a date.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število, ki predstavlja datum.</translation>
     </message>
     <message>
         <source>is a number: for Sunday = 1 through Saturday = 7, use 1; for Monday = 1 through Sunday = 7, use 2; for Monday = 0 through Sunday = 6, use 3.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število: za nedeljo = 1 do sobote = 7, uporabite 1; za ponedeljek = 1 do nedelje = 7, uporabite 2; za ponedeljek = 0 do nedelje = 6, uporabite 3.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a nonnegative number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost, pri kateri se vrednoti funkcija, in je nenegativno število.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution, a positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je parameter porazdelitve in je pozitivno število.</translation>
     </message>
     <message>
         <source>is the text that you want to convert to double-byte, or references to text cells.</source>
@@ -7667,7 +7684,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the value to test.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrednost za preskus.</translation>
     </message>
     <message>
         <source>is the population (know) standard deviation. If omitted, the sample standard deviation is used.</source>
@@ -7683,7 +7700,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavno</translation>
     </message>
     <message>
         <source>is the security&apos;s issue date, expressed as a serial date number.</source>
@@ -7691,23 +7708,23 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the type of day count basis to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vrsta na osnovi štetja dni za uporabo.</translation>
     </message>
     <message>
         <source>is the base of the logarithm; 10 if omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>je osnova logaritma; 10, če je izpuščeno.</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round number.</source>
-        <translation type="unfinished"></translation>
+        <translation>je večkratnik, na katerega želite zaokrožiti število.</translation>
     </message>
     <message>
         <source>is the number of characters to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število znakov za uporabo.</translation>
     </message>
     <message>
         <source>number</source>
-        <translation type="unfinished"></translation>
+        <translation>število</translation>
     </message>
     <message>
         <source>any</source>
@@ -7715,19 +7732,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>logical values</source>
-        <translation type="unfinished"></translation>
+        <translation>Logične vrednosti</translation>
     </message>
     <message>
         <source>text</source>
-        <translation type="unfinished"></translation>
+        <translation>besedilo</translation>
     </message>
     <message>
         <source>reference</source>
-        <translation type="unfinished"></translation>
+        <translation>sklic</translation>
     </message>
     <message>
         <source>array</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrika</translation>
     </message>
     <message>
         <source>is the type of result you want to return.(&quot;Y&quot;,&quot;M&quot;,&quot;D&quot;)</source>
@@ -7735,7 +7752,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the hexadecimal number you want to convert.</source>
-        <translation type="unfinished"></translation>
+        <translation>je šestnajstiško število, ki ga želite pretvoriti.</translation>
     </message>
     <message>
         <source>is the security&apos;s annual coupon rate.</source>
@@ -7747,51 +7764,51 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a serial date number that represents the start date.</source>
-        <translation type="unfinished"></translation>
+        <translation>je zaporedna številka datuma, ki predstavlja začetni datum.</translation>
     </message>
     <message>
         <source>is a serial date number that represents the end date.</source>
-        <translation type="unfinished"></translation>
+        <translation>je zaporedna številka datuma, ki predstavlja končni datum.</translation>
     </message>
     <message>
         <source>is the number of months before or after start_date.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število mesecev pred ali po začetnem datumu.</translation>
     </message>
     <message>
         <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays an floating holidays.</source>
-        <translation type="unfinished"></translation>
+        <translation>je izbirni niz ene ali več zaporednih številk datuma, ki bodo izključene iz delovnega koledarja, kot so državni in zvezni prazniki ter porodniški dopusti.</translation>
     </message>
     <message>
         <source>is a number(1 or 2) that determines the type of the return value.</source>
-        <translation type="unfinished"></translation>
+        <translation>je število (1 ali 2), ki določa vrsto vrnjene vrednosti.</translation>
     </message>
     <message>
         <source>is the binary number you want to convert.</source>
-        <translation type="unfinished"></translation>
+        <translation>je dvojiško število, ki ga želite pretvoriti.</translation>
     </message>
     <message>
         <source>is the decimal integer you want to convert.</source>
-        <translation type="unfinished"></translation>
+        <translation>je desetiško celo število, ki ga želite pretvoriti.</translation>
     </message>
     <message>
         <source>#NULL!</source>
-        <translation type="unfinished"></translation>
+        <translation>#NIČ!</translation>
     </message>
     <message>
         <source>#DIV/0!</source>
-        <translation type="unfinished"></translation>
+        <translation>#DEL/0!</translation>
     </message>
     <message>
         <source>#VALUE!</source>
-        <translation type="unfinished"></translation>
+        <translation>#VREDN!</translation>
     </message>
     <message>
         <source>#REF!</source>
-        <translation type="unfinished"></translation>
+        <translation>#SKLIC!</translation>
     </message>
     <message>
         <source>#NUM!</source>
-        <translation type="unfinished"></translation>
+        <translation>#ŠTEV!</translation>
     </message>
     <message>
         <source>#N/A</source>
@@ -7799,7 +7816,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>#NAME?</source>
-        <translation type="unfinished"></translation>
+        <translation>#IME?</translation>
     </message>
     <message>
         <source>is the security&apos;s due date, expressed as a serial date number.</source>
@@ -7807,11 +7824,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is an optional array of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays an floating holidays.</source>
-        <translation type="unfinished"></translation>
+        <translation>je izbirna matrika ene ali več zaporednih številk datuma, ki bodo izključene iz delovnega koledarja, kot so državni in zvezni prazniki ter porodniški dopusti.</translation>
     </message>
     <message>
         <source>is your guess for what the rate will be; if omitted, Guess =0.1 (10 percent).</source>
-        <translation type="unfinished"></translation>
+        <translation>je vaša domneva, kakšna bo mera. Če je izpuščeno, je vaša domneva (Domneva) enaka 0,1 (10 odstotkov).</translation>
     </message>
     <message>
         <source>is the number by which pi is multiplied.</source>
@@ -7823,11 +7840,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the units for number.</source>
-        <translation type="unfinished"></translation>
+        <translation>!je vrednost v iz_enot za pretvorbo.</translation>
     </message>
     <message>
         <source>is the units for the result.</source>
-        <translation type="unfinished"></translation>
+        <translation>je enot za število!je enot za rezultat.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
@@ -7835,19 +7852,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the smallest integer RANDBETWEEN will return.</source>
-        <translation type="unfinished"></translation>
+        <translation>je najmanjše celo število, ki ga vrne funkcija RANDBETWEEN.</translation>
     </message>
     <message>
         <source>is the largest integer RANDBETWEEN will return.</source>
-        <translation type="unfinished"></translation>
+        <translation>je največje celo število, ki ga vrne funkcija RANDBETWEEN.</translation>
     </message>
     <message>
         <source>formula_text</source>
-        <translation type="unfinished"></translation>
+        <translation>besedilo_formule</translation>
     </message>
     <message>
         <source>is the value for which to return the double factorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrne dvojno fakulteto števila!je vrednost, za katero želite dvojno fakulteto.</translation>
     </message>
     <message>
         <source>Please select a single row or column to operate.</source>
@@ -7887,15 +7904,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>value_if_error</source>
-        <translation type="unfinished"></translation>
+        <translation>vrednost_če_napaka</translation>
     </message>
     <message>
         <source>Average_range</source>
-        <translation type="unfinished"></translation>
+        <translation>Obseg_za_povprečje</translation>
     </message>
     <message>
         <source>is the input value to the power series.</source>
-        <translation type="unfinished"></translation>
+        <translation>je vnosna vrednost za potencirane nize.</translation>
     </message>
     <message>
         <source>is the actual cells to be used to find the average. If omitted, cells in the range will be used.</source>
@@ -7907,19 +7924,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the range of cells you want evaluated for the particular condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>je obseg celic, katere želite ovrednotiti za določen pogoj.</translation>
     </message>
     <message>
         <source>(empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Prazno)</translation>
     </message>
     <message>
         <source>Yld</source>
-        <translation type="unfinished"></translation>
+        <translation>Donos</translation>
     </message>
     <message>
         <source>Redemption</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkup</translation>
     </message>
     <message>
         <source>RecentFunction</source>
@@ -7927,7 +7944,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>More Functions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Več funkcij...</translation>
     </message>
     <message>
         <source>1 to 30 of skewness parameter needs to be calculated. You can refer to the single array or the array, not separate parameters in comma.</source>
@@ -7951,7 +7968,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>The order of the function</source>
-        <translation type="unfinished"></translation>
+        <translation>Je red funkcije</translation>
     </message>
     <message>
         <source>The real coefficient of plural</source>
@@ -7967,11 +7984,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>The first number</source>
-        <translation type="unfinished"></translation>
+        <translation>Prva številka</translation>
     </message>
     <message>
         <source>The second number</source>
-        <translation type="unfinished"></translation>
+        <translation>Druga številka</translation>
     </message>
     <message>
         <source>The lower bound of integrated ERF</source>
@@ -7987,7 +8004,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Prag</translation>
     </message>
     <message>
         <source>Calculate the plural of its absolute value</source>
@@ -8083,15 +8100,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Octal number</source>
-        <translation type="unfinished"></translation>
+        <translation>Osmiško število</translation>
     </message>
     <message>
         <source>Plural 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Množina 1</translation>
     </message>
     <message>
         <source>Plural 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Množina 2</translation>
     </message>
     <message>
         <source>The document of &quot;%s&quot; has been opened. The changes can not be saved if re-opening it. Do you want to re-open &quot;%s&quot; ?</source>
@@ -8123,19 +8140,9 @@ The values which can be typed here is restricted by other users.</source>
         <source>
 
 Continue ?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The entered value is invalid.
+        <translation>
 
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
-        <translation type="unfinished"></translation>
+Ali želite nadaljevati?</translation>
     </message>
 </context>
 <context>
@@ -8146,11 +8153,11 @@ Continue ?</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Razveljavi</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uveljavi</translation>
     </message>
     <message>
         <source>Typing %s in &quot;%s&quot;</source>
@@ -8162,7 +8169,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Can&apos;t &amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ni mogoče uveljaviti</translation>
     </message>
     <message>
         <source>&amp;Undo %s </source>
@@ -8174,419 +8181,419 @@ Continue ?</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebno lepljenje</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj</translation>
     </message>
     <message>
         <source>Copy Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj celice</translation>
     </message>
     <message>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Nizi</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Dol</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Desno</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Navzgor</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Levo</translation>
     </message>
     <message>
         <source>Across Worksheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Prek delovnih listov</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti</translation>
     </message>
     <message>
         <source>Delete Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši pripombe</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Povleci in spusti</translation>
     </message>
     <message>
         <source>Insert Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi celice</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi kopirane celice</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi stolpce</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi vrstice</translation>
     </message>
     <message>
         <source>Define Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Določanje imena</translation>
     </message>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljanje funkcije</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreminjanje vrste grafikona</translation>
     </message>
     <message>
         <source>Set Chart Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi obliko grafikona</translation>
     </message>
     <message>
         <source>Add Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj legendo</translation>
     </message>
     <message>
         <source>Delete Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši legendo</translation>
     </message>
     <message>
         <source>Series in Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Nizi v vrsticah</translation>
     </message>
     <message>
         <source>Series in Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Nizi v stolpcih</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperpovezava</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani hiperpovezavo</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi prelom strani</translation>
     </message>
     <message>
         <source>Remove Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani prelom strani</translation>
     </message>
     <message>
         <source>Set Print Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi območje tiskanja</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripomba</translation>
     </message>
     <message>
         <source>Create Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari ime</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Slog</translation>
     </message>
     <message>
         <source>Format Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikuj celice</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Višina</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina</translation>
     </message>
     <message>
         <source>Standard Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardna širina</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij list</translation>
     </message>
     <message>
         <source>Unhide Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Razkrij liste</translation>
     </message>
     <message>
         <source>Rename Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Preimenuj list</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Ozadje</translation>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva zavihka</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogojno oblikovanje</translation>
     </message>
     <message>
         <source>Hide Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij vrstico</translation>
     </message>
     <message>
         <source>Hide Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij stolpec</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Razkrij vrstice</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Razkrij stolpce</translation>
     </message>
     <message>
         <source>AutoFit</source>
-        <translation type="unfinished"></translation>
+        <translation>Samoprilagodi</translation>
     </message>
     <message>
         <source>AutoFitSelection</source>
-        <translation type="unfinished"></translation>
+        <translation>Samoprilagodi izboru</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrsti</translation>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejni filter</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži vse</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Delne vsote</translation>
     </message>
     <message>
         <source>Remove Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani delne vsote</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"></translation>
+        <translation>Usklajevanje</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Združi</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdruži</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij podrobnosti</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaz podrobnosti</translation>
     </message>
     <message>
         <source>Clear Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti oris</translation>
     </message>
     <message>
         <source>Freeze Panes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamrzni podokna</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsota</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejna vsota</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Povprečje</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrsti naraščajoče</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrsti padajoče</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Preslikovalnik oblik</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisava</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Krepko</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ležeče</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Podčrtano</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pisave</translation>
     </message>
     <message>
         <source>Horizontal Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodoravna poravnava</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnava</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji in usredini</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Percent Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstotkovni slog</translation>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Slog ločila tisočic</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj število decimalnih mest</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšaj število decimalnih mest</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva polnila</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva črte</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Senca</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>3D barva</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedavna barva polnila</translation>
     </message>
     <message>
         <source>Cell Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Polnilo barve celice</translation>
     </message>
     <message>
         <source>Recent Cell Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedavna barva polnila celice</translation>
     </message>
     <message>
         <source>Recent Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedavna barva pisave</translation>
     </message>
     <message>
         <source>Name Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje z imenom</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljanje</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Recent Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedavne obrobe</translation>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrobe</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi simbol</translation>
     </message>
     <message>
         <source>Auto Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Samozapolnitev</translation>
     </message>
     <message>
         <source>Copy Range </source>
-        <translation type="unfinished"></translation>
+        <translation>Obseg kopiranja </translation>
     </message>
     <message>
         <source>Cut Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Obseg izrezovanja</translation>
     </message>
     <message>
         <source>Copy Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj oblikovanje</translation>
     </message>
     <message>
         <source>Move Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni prelom strani</translation>
     </message>
     <message>
         <source>Unfold/Fold</source>
@@ -8594,23 +8601,23 @@ Continue ?</source>
     </message>
     <message>
         <source>Print Preview Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava predogleda tiskanja</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvoz podatkov</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Osveži podatke</translation>
     </message>
     <message>
         <source>Import Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvoz besedilne datoteke</translation>
     </message>
     <message>
         <source>Text to Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo v število</translation>
     </message>
     <message>
         <source>Move Chart Item</source>
@@ -8630,11 +8637,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi v ospredje</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošlji v ozadje</translation>
     </message>
     <message>
         <source>Clear Chart Item</source>
@@ -8642,7 +8649,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Izreži</translation>
     </message>
     <message>
         <source>Expand/Fold</source>
@@ -8650,54 +8657,54 @@ Continue ?</source>
     </message>
     <message>
         <source>Show Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži plasti</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Veljavnost</translation>
     </message>
     <message>
         <source>Recalculate</source>
-        <translation type="unfinished"></translation>
+        <translation>Preračunaj</translation>
     </message>
     <message>
         <source>Datasheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Podatkovni list</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi sliko</translation>
     </message>
     <message>
         <source>Add Trendline</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj trendno črto</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnosti obsega podatkov</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranjevanje dvojnikov</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Označi dvojnike</translation>
     </message>
 </context>
 <context>
     <name>etshell</name>
     <message>
         <source>Blank Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Prazna predloga</translation>
     </message>
     <message>
         <source>AaBbCc</source>
-        <translation type="unfinished"></translation>
+        <translation>AaBbCc</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Preglednice</translation>
     </message>
     <message>
         <source>Accepted changes</source>
@@ -8705,15 +8712,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj osebni slovar</translation>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mo&amp;žnosti &lt;&lt;</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodat&amp;no ...</translation>
     </message>
     <message>
         <source>(All)</source>
@@ -8721,27 +8728,27 @@ Continue ?</source>
     </message>
     <message>
         <source>Any value</source>
-        <translation type="unfinished"></translation>
+        <translation>Poljubna vrednost</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrditev gesla ni enaka prvemu vnosu.</translation>
     </message>
     <message>
         <source>Error in parse line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Napaka v vrstici razčlenjanja.</translation>
     </message>
     <message>
         <source>The password you supplied is not correct. Verify that the CAPS LOCK key is off and be sure to use the correct capitalization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesli ste nepravilno geslo. Preverite, ali je tipka CAPS LOCK izklopljena in pravilno uporabite velike in male črke.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnos ni uporaben. Morda je potrebno celo ali decimalno število.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
@@ -8753,27 +8760,27 @@ Continue ?</source>
     </message>
     <message>
         <source>(Blank)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Prazno)</translation>
     </message>
     <message>
         <source>(Blanks)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Prazno)</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Krepko</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Obroba</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodaj</translation>
     </message>
     <message>
         <source>Bottom Aligned</source>
@@ -8781,15 +8788,15 @@ Continue ?</source>
     </message>
     <message>
         <source>(Custom...)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Po meri ...)</translation>
     </message>
     <message>
         <source>*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke(*.*)</translation>
     </message>
     <message>
         <source>$00000304</source>
@@ -8797,23 +8804,23 @@ Continue ?</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Prebrskaj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Cannot bring up the properties dialog because the printer returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne more prikazati pogovornega okna za lastnosti, ker je tiskalnik vrnil napako.</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrtilna tabela</translation>
     </message>
     <message>
         <source>Convert Text to Columns Wizard - Step %d of 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Čarovnik za pretvarjanje besedila v stolpce - Korak %d od 3</translation>
     </message>
     <message>
         <source> - Fill in</source>
@@ -8821,7 +8828,7 @@ Continue ?</source>
     </message>
     <message>
         <source>&amp;Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dodatno</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
@@ -8829,19 +8836,19 @@ Continue ?</source>
     </message>
     <message>
         <source> - Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation> - Sklic:</translation>
     </message>
     <message>
         <source>Text Import Wizard - Step %d of 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Čarovnik za uvoz besedila - Korak %d od 3</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Na sredino</translation>
     </message>
     <message>
         <source>Center Across</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini prek</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
@@ -8849,11 +8856,11 @@ Continue ?</source>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Manjka zahtevana najmanjša vrednost ali največja vrednost.</translation>
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Določiti morate pogoje za vse pogojne oblike.</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
@@ -8861,15 +8868,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Drop Column Fields Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem spustite polja stolpca</translation>
     </message>
     <message>
         <source>Column Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Območje stolpca</translation>
     </message>
     <message>
         <source>Col %s</source>
@@ -8881,31 +8888,31 @@ Continue ?</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva</translation>
     </message>
     <message>
         <source>Column %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Stolpec %s</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"></translation>
+        <translation>Vejica</translation>
     </message>
     <message>
         <source>Comma[0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Vejica[0]</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogoj &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogoj &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogoj &amp;3</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -8913,7 +8920,7 @@ Continue ?</source>
     </message>
     <message>
         <source>New Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Nov osebni slovar</translation>
     </message>
     <message>
         <source>Press Alt+Enter to insert a new line in Formula Showing Bar.</source>
@@ -8921,31 +8928,31 @@ Continue ?</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta[0]</translation>
     </message>
     <message>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva po meri</translation>
     </message>
     <message>
         <source>Drop Data Items Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Tule spustite podatkovne elemente</translation>
     </message>
     <message>
         <source>Data Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Območje podatkov</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -8953,7 +8960,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimalno</translation>
     </message>
     <message>
         <source>Default book name &quot;%s&quot; is not valid, can&apos;t include &quot;%s&quot;.</source>
@@ -8961,7 +8968,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Barvna shema</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
@@ -8969,11 +8976,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopinj</translation>
     </message>
     <message>
         <source>List will be permanently deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam bo trajno izbrisan.</translation>
     </message>
     <message>
         <source>Error occurred when deleting the items!</source>
@@ -8981,11 +8988,11 @@ Continue ?</source>
     </message>
     <message>
         <source>DiagonalDown</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonalno navzdol</translation>
     </message>
     <message>
         <source>DiagonalUp</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonalno navzgor</translation>
     </message>
     <message>
         <source>Can&apos;t find directory &quot;%s&quot;.</source>
@@ -8993,79 +9000,79 @@ Continue ?</source>
     </message>
     <message>
         <source>Horizontal Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>vodoravno porazdeljeno</translation>
     </message>
     <message>
         <source>Vertical Distributed Aligned</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpično porazdeljena poravnava</translation>
     </message>
     <message>
         <source>begins with</source>
-        <translation type="unfinished"></translation>
+        <translation>se začne z</translation>
     </message>
     <message>
         <source>contains</source>
-        <translation type="unfinished"></translation>
+        <translation>vsebuje</translation>
     </message>
     <message>
         <source>does not begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>se ne začne z</translation>
     </message>
     <message>
         <source>does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>ne vsebuje</translation>
     </message>
     <message>
         <source>does not end with</source>
-        <translation type="unfinished"></translation>
+        <translation>se ne konča z</translation>
     </message>
     <message>
         <source>does not equal</source>
-        <translation type="unfinished"></translation>
+        <translation>ni enako</translation>
     </message>
     <message>
         <source>ends with</source>
-        <translation type="unfinished"></translation>
+        <translation>se konča z</translation>
     </message>
     <message>
         <source>equals</source>
-        <translation type="unfinished"></translation>
+        <translation>je enak</translation>
     </message>
     <message>
         <source>is greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>je večje kot</translation>
     </message>
     <message>
         <source>is greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>je večje ali enako kot</translation>
     </message>
     <message>
         <source>is less than</source>
-        <translation type="unfinished"></translation>
+        <translation>je manjše od</translation>
     </message>
     <message>
         <source>is less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>je manjše ali enako kot</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojno</translation>
     </message>
     <message>
         <source>Double Accounting</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojno računovodsko</translation>
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni mogoče dodati podvojenega sklica na vir.</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Končni da&amp;tum:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
@@ -9077,7 +9084,7 @@ Continue ?</source>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite datum.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
@@ -9121,15 +9128,15 @@ Continue ?</source>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite čas.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite vrednost.</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>enako</translation>
     </message>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
@@ -9137,15 +9144,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Integer is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Celo število ni veljavno.</translation>
     </message>
     <message>
         <source>Everyone</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsi</translation>
     </message>
     <message>
         <source>Everyone but Me</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsi razen mene</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
@@ -9153,7 +9160,7 @@ Continue ?</source>
     </message>
     <message>
         <source>The font is not installed in the system. The closest available font will be used for printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta pisava ni nameščena v sistem. Za tiskanje bo uporabljena njej najbolj podobna pisava.</translation>
     </message>
     <message>
         <source>The font is designed for use with a plotter.</source>
@@ -9161,7 +9168,7 @@ Continue ?</source>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>To je pisava TrueType. Za zaslon in tiskalnik se bo uporabljala ista pisava.</translation>
     </message>
     <message>
         <source>The field you are dropping into the column area exceeds 256 items. Only the first 255 items will be displayed as columns. To include all of the field&apos;s data in your PivotTable report, drop it into different area, such as the data area.</source>
@@ -9169,15 +9176,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Field List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam polj</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka že obstaja. Ali jo želite zamenjati?</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapolni</translation>
     </message>
     <message>
         <source>&amp;Find / Replace...</source>
@@ -9197,7 +9204,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Followed Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Obiskana hiperpovezava</translation>
     </message>
     <message>
         <source>The changes to Standard Font and FontSize won&apos;t take effect until you create a new Workbook.</source>
@@ -9205,11 +9212,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Font size must be between %d and %d points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost pisave mora biti med %d in %d točkami.</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Noga</translation>
     </message>
     <message>
         <source>&amp;[%s]</source>
@@ -9217,19 +9224,19 @@ Continue ?</source>
     </message>
     <message>
         <source>&amp;Format...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oblika...</translation>
     </message>
     <message>
         <source>F&amp;ormat...</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;blika...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obli&amp;ka...</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formula:</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets has completed its search and has made %d replacements.</source>
@@ -9237,19 +9244,19 @@ Continue ?</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>večje ali enako</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>večje</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
@@ -9257,19 +9264,19 @@ Continue ?</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodoravno</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperpovezava</translation>
     </message>
     <message>
         <source>Indents</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamiki</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacije</translation>
     </message>
     <message>
         <source>Input error, the value must be an Integer between 1 and 10000.</source>
@@ -9277,11 +9284,11 @@ Continue ?</source>
     </message>
     <message>
         <source>This font style name does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>To ime sloga pisave ne obstaja.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vneseno besedilo ni veljaven sklic niti definirano ime.</translation>
     </message>
     <message>
         <source>The word contains unallowable characters, we can&apos;t handle it.</source>
@@ -9289,11 +9296,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ležeče</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Porazdeli vsebino</translation>
     </message>
     <message>
         <source>Vertical Justify Aligned</source>
@@ -9301,11 +9308,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Unit: Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Enota: Centimetri</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Levo</translation>
     </message>
     <message>
         <source>Left-to-Right Reading Order</source>
@@ -9313,31 +9320,31 @@ Continue ?</source>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation>manjše</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaklenjeno</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripombe</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednosti</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>manjše ali enako</translation>
     </message>
     <message>
         <source>The measurement must be between %d cm and %f cm.</source>
@@ -9345,15 +9352,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Margins do not fit page size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Robovi ne ustrezajo velikosti strani.</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksim&amp;um:</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Na&amp;jmanj:</translation>
     </message>
     <message>
         <source>Failed to modify the dictionary file you selected, make sure the file exists and is not read-only.</source>
@@ -9361,11 +9368,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Modify existing outline?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite spremeniti obstoječi oris?</translation>
     </message>
     <message>
         <source>(Move to end)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Premakni na konec)</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
@@ -9377,15 +9384,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisava</translation>
     </message>
     <message>
         <source>NEW LIST</source>
-        <translation type="unfinished"></translation>
+        <translation>NOV SEZNAM</translation>
     </message>
     <message>
         <source>(New book)</source>
-        <translation type="unfinished"></translation>
+        <translation>(nov zvezek)</translation>
     </message>
     <message>
         <source>Accounting formats provide currency formatting with decimal place alignment.</source>
@@ -9401,7 +9408,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Date formats display date and time serial numbers as date values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datumske oblike prikažejo zaporedne številke datumov in ure kot datumske vrednosti.</translation>
     </message>
     <message>
         <source>Number formats are used to display numerical values and can be modified to highlight negative values and decimal placements.</source>
@@ -9409,11 +9416,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstotkovne oblike pomnožijo vrednost celice s 100 in prikažejo rezultat z znakom za odstotek.</translation>
     </message>
     <message>
         <source>Special formats are useful for tracking list and database values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebne oblike so uporabne za sledenje vrednosti na seznamih in v zbirkah podatkov.</translation>
     </message>
     <message>
         <source>Time formats display date and time serial numbers as time values.</source>
@@ -9425,11 +9432,11 @@ Continue ?</source>
     </message>
     <message>
         <source>No Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez poravnave</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez obrob</translation>
     </message>
     <message>
         <source>No Font</source>
@@ -9437,11 +9444,11 @@ Continue ?</source>
     </message>
     <message>
         <source>(NonBlanks)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Neprazno)</translation>
     </message>
     <message>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(brez)</translation>
     </message>
     <message>
         <source>No Number Format</source>
@@ -9449,43 +9456,43 @@ Continue ?</source>
     </message>
     <message>
         <source>No Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez zaščite</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Navadno</translation>
     </message>
     <message>
         <source>Op&amp;tions &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Možnosti &gt;&gt;</translation>
     </message>
     <message>
         <source>No Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez prilagajanja velikosti</translation>
     </message>
     <message>
         <source>No Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez senčenja</translation>
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ni predlogov)</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation>ni med</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>ni enako</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrditev gesla se ne ujema.</translation>
     </message>
     <message>
         <source>Number is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Številka ni veljavna.</translation>
     </message>
     <message>
         <source>Number must be above 0.</source>
@@ -9493,7 +9500,7 @@ Continue ?</source>
     </message>
     <message>
         <source>The measurement must be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mera mora biti med %d in %d.</translation>
     </message>
     <message>
         <source>Input error, the value must be a Number.</source>
@@ -9509,15 +9516,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Usmerjenost</translation>
     </message>
     <message>
         <source>Value must be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost more biti med %d in %d.</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Stran</translation>
     </message>
     <message>
         <source>&amp;A</source>
@@ -9525,15 +9532,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Drop Page Fields Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Tule spustite polja strani</translation>
     </message>
     <message>
         <source>Page Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Območje strani</translation>
     </message>
     <message>
         <source>Page &amp;P</source>
-        <translation type="unfinished"></translation>
+        <translation>Stran &amp;P</translation>
     </message>
     <message>
         <source>Page &amp;P &amp;A</source>
@@ -9545,7 +9552,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Strani</translation>
     </message>
     <message>
         <source>Click here to fold or unfold the panel.</source>
@@ -9577,7 +9584,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstotek</translation>
     </message>
     <message>
         <source>Solid, &quot;75% Gray&quot;, &quot;50% Gray&quot;, &quot;25% Gray&quot;, &quot;12.5% Gray&quot;, &quot;6.5% Gray&quot;, &quot;Horizontal stripe&quot;, &quot;Vertical stripe&quot;, &quot;Reverse Diagonal stripe&quot;, &quot;Diagonal stripe&quot;, &quot;Diagonal crosshatch&quot;, &quot;Thick Diagonal crosshatch&quot;, &quot;Thin Horizontal stripe&quot;, &quot;Thin Vertical stripe&quot;, &quot;Thin Reverse Diagonal stripe&quot;, &quot;Thin Diagonal stripe&quot;, &quot;Thin Horizontal crosshatch&quot;, &quot;Thin Diagonal crosshatch&quot;</source>
@@ -9585,11 +9592,11 @@ Continue ?</source>
     </message>
     <message>
         <source>PivotTable Areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Področja vrtilne tabele</translation>
     </message>
     <message>
         <source>ReadingOrder</source>
-        <translation type="unfinished"></translation>
+        <translation>Smer branja</translation>
     </message>
     <message>
         <source>Deleting the dictionary from disk failed, please delete it manually.</source>
@@ -9597,7 +9604,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uveljavi %d dejanje</translation>
     </message>
     <message>
         <source>Rejected changes</source>
@@ -9613,7 +9620,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Če odstranite osebni slovar, boste odstranili osebni slovar iz vseh ostalih Kingsoft Officeovih programov, ki ga uporabljajo. Ali želite nadaljevati?</translation>
     </message>
     <message>
         <source>Are you sure you want to send the dictionary &quot;%s&quot; to the Recycle Bin?</source>
@@ -9629,11 +9636,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Desno</translation>
     </message>
     <message>
         <source>Right-to-Left Reading Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Branje od desne proti levi</translation>
     </message>
     <message>
         <source>Rotated down %d Degrees</source>
@@ -9645,19 +9652,19 @@ Continue ?</source>
     </message>
     <message>
         <source>Row %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstica %s</translation>
     </message>
     <message>
         <source>Drop Row Fields Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem spustite polja vrstice</translation>
     </message>
     <message>
         <source>Row Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Območje vrstice</translation>
     </message>
     <message>
         <source>Row %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstica %d</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
@@ -9665,47 +9672,47 @@ Continue ?</source>
     </message>
     <message>
         <source>Please select a dictionary first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosim najprej izberite slovar.</translation>
     </message>
     <message>
         <source>Please specify a file name first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosim najprej določite ime datoteke.</translation>
     </message>
     <message>
         <source>Select an Item of %s:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi element od %s:</translation>
     </message>
     <message>
         <source>Shaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Osenčeno</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavihek</translation>
     </message>
     <message>
         <source>Show Items of %s:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži elemente od %s:</translation>
     </message>
     <message>
         <source>Show Items:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži elemente:</translation>
     </message>
     <message>
         <source>Shrink To fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrči, da ustreza</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Enojno</translation>
     </message>
     <message>
         <source>Single Accounting</source>
-        <translation type="unfinished"></translation>
+        <translation>Enojno računovodsko</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Sort and Display</source>
@@ -9713,19 +9720,19 @@ Continue ?</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrsti naraščajoče</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrsti padajoče</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vir:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Začetni datum:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
@@ -9733,11 +9740,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustavi</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Prečrtano</translation>
     </message>
     <message>
         <source>@ET_Style?</source>
@@ -9745,23 +9752,23 @@ Continue ?</source>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Podpisano</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpisano</translation>
     </message>
     <message>
         <source>  (None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(brez)</translation>
     </message>
     <message>
         <source>Text length</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolžina besedila</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ura</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
@@ -9773,11 +9780,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj</translation>
     </message>
     <message>
         <source>(Top 10...)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Zgornjih 10...)</translation>
     </message>
     <message>
         <source>Top Aligned</source>
@@ -9789,11 +9796,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Podčrtano</translation>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi %d dejanje</translation>
     </message>
     <message>
         <source>Style Name Not Valid</source>
@@ -9813,35 +9820,35 @@ Continue ?</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Navp</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Opozorilo</translation>
     </message>
     <message>
         <source>Whole number</source>
-        <translation type="unfinished"></translation>
+        <translation>Celo število</translation>
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelomi</translation>
     </message>
     <message>
         <source>Column width must be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina stolpca mora biti med %d in %d.</translation>
     </message>
     <message>
         <source>Row height must be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Višina vrstice mora biti med %d in %d.</translation>
     </message>
     <message>
         <source>The scroll value maximum cannot be less than the scroll value minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Najvišja drsna vrednost ne more biti nižja od najnižje drsne vrednosti.</translation>
     </message>
     <message>
         <source>No cells were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nič celic ni bilo najdenih.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot go to. It may be on a protected sheet.</source>
@@ -9849,7 +9856,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Data will permanently lose accuracy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podatki bodo za stalno izgubili točnost.</translation>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
@@ -9857,7 +9864,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"></translation>
+        <translation>Priporočeno</translation>
     </message>
     <message>
         <source>Enter a name or description of the function you want to look for.</source>
@@ -9869,7 +9876,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Invalid reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neveljaven sklic.</translation>
     </message>
     <message>
         <source>What you entered is an invalid reference or name.</source>
@@ -9909,11 +9916,11 @@ Continue ?</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Povratne informacije uporabnika</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika</translation>
     </message>
     <message>
         <source>Other Sheets...</source>
@@ -9953,11 +9960,11 @@ Continue ?</source>
     </message>
     <message>
         <source>&amp;Standard column width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Standardna širina stolpca:</translation>
     </message>
     <message>
         <source>Standard Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardna širina</translation>
     </message>
     <message>
         <source>The cells with overly complex strings will be ignored.</source>
@@ -9965,11 +9972,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Natisni</translation>
     </message>
     <message>
         <source>Print directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiskaj neposredno</translation>
     </message>
     <message>
         <source>%d user is editing this file:</source>
@@ -9981,7 +9988,7 @@ Continue ?</source>
     </message>
     <message>
         <source>This function takes no arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta funkcija ne zahteva argumentov.</translation>
     </message>
     <message>
         <source>Delete(&amp;D)</source>
@@ -10001,23 +10008,23 @@ Continue ?</source>
     </message>
     <message>
         <source>New Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Nov zapis</translation>
     </message>
     <message>
         <source>Criteria</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogoji</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Označi dvojnike</translation>
     </message>
     <message>
         <source>Reject Input Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavrni vnos dvojnikov</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranjevanje dvojnikov</translation>
     </message>
     <message>
         <source>Cannot modify the cell or chart, perhaps:

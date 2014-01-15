@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation>Največje število napisa je 5</translation>
+        <translation>Največje število napisa je 5.</translation>
     </message>
     <message>
         <source>More:</source>

@@ -2477,7 +2477,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オブジェクトの選択と表示</translation>
+        <translation type="obsolete">オブジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2614,6 +2614,14 @@ On</source>
     </message>
     <message>
         <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3303,10 +3311,6 @@ Slide</source>
     <message>
         <source>No Shadow</source>
         <translation>影なし</translation>
-    </message>
-    <message>
-        <source>Object Select</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -6150,6 +6154,10 @@ On</source>
         <translation>KOS クラウド情報</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>KOS マイ アカウント</translation>
     </message>
@@ -6694,11 +6702,27 @@ On</source>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation>列を挿入</translation>
+        <translation type="obsolete">列を挿入</translation>
+    </message>
+    <message>
+        <source>Insert Columns Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>行の挿入</translation>
+        <translation type="obsolete">行の挿入</translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Tab</source>
@@ -6713,8 +6737,20 @@ On</source>
         <translation>KSO クラウドフィードバック</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>KOS クラウドファイルを開く</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -6730,7 +6766,7 @@ On</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>KOS ユーザー情報の表示</translation>
+        <translation type="obsolete">KOS ユーザー情報の表示</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -6762,6 +6798,10 @@ On</source>
     </message>
     <message>
         <source>KingsoftOffice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KingsoftOffice_KSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7165,6 +7205,10 @@ Master</source>
     <message>
         <source>Symbol</source>
         <translation>記号と特殊文字</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -7972,6 +8016,14 @@ AddIns</source>
     <message>
         <source>Change Version</source>
         <translation>バージョンの変更</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -11200,6 +11252,10 @@ Other Window</source>
         <translation>KOS クラウド情報</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>KOS マイ アカウント</translation>
     </message>
@@ -12689,6 +12745,17 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <message>
         <source>KOSCloudInformationTip Title</source>
         <translation>KOS クラウド情報</translation>
+    </message>
+</context>
+<context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14490,8 +14557,20 @@ Click the arrow to choose more outline styles.</source>
         <translation>KSO クラウドフィードバック</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>KOS クラウドファイルを開く</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -14507,7 +14586,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>KOS ユーザー情報の表示</translation>
+        <translation type="obsolete">KOS ユーザー情報の表示</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -14688,6 +14767,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Clipboard Pane</source>
         <translation>クリップボート</translation>
+    </message>
+    <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Colorize</source>
@@ -14872,10 +14955,6 @@ Slide</source>
         <translation>アニメーションの軌跡セグメントのポップアップ メニュー</translation>
     </message>
     <message>
-        <source>MsgAtMe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14980,7 +15059,7 @@ Slide</source>
         <translation>ルーラー ポップアップ メニュー</translation>
     </message>
     <message>
-        <source>S MsgAtMe</source>
+        <source>S CloudLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15258,6 +15337,14 @@ Slide</source>
         <translation>KOS ログイン変更</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation>KOS ユーザーログイン</translation>
     </message>
@@ -15267,7 +15354,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>KOS ユーザー情報の表示</translation>
+        <translation type="obsolete">KOS ユーザー情報の表示</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -15473,8 +15560,16 @@ Slide</source>
         <translation>KOS ログイン変更</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation>KOS ログアウト</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
@@ -15482,7 +15577,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>KOS ユーザー情報の表示</translation>
+        <translation type="obsolete">KOS ユーザー情報の表示</translation>
     </message>
     <message>
         <source>Login</source>

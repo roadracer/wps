@@ -20,22 +20,22 @@
     <name>DiagramStyleDlg</name>
     <message>
         <source>Diagram Style Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerija slogov diagrama</translation>
     </message>
     <message>
         <source>&amp;Select a Diagram Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;zberite slog diagrama:</translation>
     </message>
 </context>
 <context>
     <name>DlgKxFileConverter</name>
     <message>
         <source>File Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvorba datoteke </translation>
     </message>
     <message>
         <source>Text encoding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodiranje besedila:</translation>
     </message>
     <message>
         <source>&amp;Windows(Default)</source>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Option:</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnost:</translation>
     </message>
     <message>
         <source>&amp;Line End:</source>
@@ -71,7 +71,7 @@
     </message>
     <message>
         <source>Pre&amp;view:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Predogled:</translation>
     </message>
 </context>
 <context>
@@ -96,14 +96,14 @@
     </message>
     <message>
         <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office posodobitve so se prenesle, jih želite namestiti zdaj ?</translation>
     </message>
 </context>
 <context>
     <name>KAvailableCharSetInfoMap</name>
     <message>
         <source>Unicode(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unicode (šestnajstiško)</translation>
     </message>
     <message>
         <source>ASCII(DEC)</source>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>ASCII(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCII (šestnajstiško)</translation>
     </message>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
@@ -123,34 +123,34 @@
     </message>
     <message>
         <source>Symbol(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>simboli (šestnajstiško)</translation>
     </message>
 </context>
 <context>
     <name>KColorDialog</name>
     <message>
         <source>Color mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Barvni način</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>HSL</source>
-        <translation type="unfinished"></translation>
+        <translation>HSL</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rdeča:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zelena:</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modr&amp;a:</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
@@ -162,42 +162,42 @@
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nasičenost:</translation>
     </message>
     <message>
         <source>&amp;Lum:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Svetlost:</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Barve</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardno</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Trenutna</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Barve</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Namizje</translation>
     </message>
     <message>
         <source>We found that the document which was not saved upon last exit , has been restored.   (if you don&apos;t need to restore the file, close it directly, and then reopen the original document.)</source>
@@ -216,14 +216,14 @@
     <name>KCompressPicturesDlg</name>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ločljivost:</translation>
     </message>
 </context>
 <context>
     <name>KControlsListWidget</name>
     <message>
         <source>%1 controls</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kontrolnikov</translation>
     </message>
 </context>
 <context>
@@ -237,15 +237,15 @@
     <name>KDlgCrashUpload</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
-        <translation type="unfinished"></translation>
+        <translation>Morda ste izvršili nekatere napačne operacije, katere so povzročile resno škodo za trenutni dokument;</translation>
     </message>
     <message>
         <source>We suggest you upload it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Predlagamo vam, da jo naložite.</translation>
     </message>
     <message>
         <source>(damaged file:????)</source>
@@ -253,18 +253,18 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Upload now</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenesi zdaj</translation>
     </message>
 </context>
 <context>
     <name>KDlgSwitchFace</name>
     <message>
         <source>Change Interface Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni slog vmesnika</translation>
     </message>
     <message>
         <source>2012 Skin</source>
@@ -304,11 +304,11 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;V redu</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prekliči</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -323,11 +323,11 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
 </context>
 <context>
@@ -341,53 +341,53 @@
     <name>KInputPasswordDlg</name>
     <message>
         <source>Enter password to open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite geslo za odpiranje datoteke</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Geslo</translation>
     </message>
 </context>
 <context>
     <name>KInputWritePasswordDlg</name>
     <message>
         <source>Enter password to modify, or open read only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite geslo za spreminjanje ali pa odprite samo za branje.</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Geslo:</translation>
     </message>
     <message>
         <source>&amp;Read Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo za &amp;branje</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Geslo</translation>
     </message>
 </context>
 <context>
     <name>KInsertSymbolDlg</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbol</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Si&amp;mboli</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebni &amp;znaki</translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
@@ -399,13 +399,21 @@
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vstavi</translation>
     </message>
 </context>
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
+        <translation>Izberite jezik</translation>
+    </message>
+    <message>
+        <source>Get More...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install Locale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -413,12 +421,20 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>archives (*.zip)</source>
+        <translation>Arhivi (*.zip)</translation>
+    </message>
+    <message>
         <source>Install Language Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Namestite jezikovni paket</translation>
     </message>
     <message>
         <source>installation fails, make sure to install the complete package!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose your language</source>
+        <translation>Izberite jezik</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
@@ -426,26 +442,10 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacije</translation>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Install new language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get &amp;More...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Follow system locale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ZIP File (*.zip)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -476,11 +476,11 @@
     <name>KPPDOptionsModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost</translation>
     </message>
 </context>
 <context>
@@ -495,7 +495,7 @@
     </message>
     <message>
         <source>* &amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>* &amp;Ime:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
@@ -507,7 +507,7 @@
     </message>
     <message>
         <source>&amp;Organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Organizacija:</translation>
     </message>
     <message>
         <source>* &amp;Serial No.:</source>
@@ -515,15 +515,15 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shranjevanje serijske številke ni uspelo. Prosimo preverite, ali imate dovoljenja kot skrbnik ali ne.</translation>
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serijska številka, ki ste jo vnesli, je neveljavna. Preverite obliko vnosa, podprto različico in veljaven datum.</translation>
     </message>
     <message>
         <source>You&apos;ve reached the maximum retry steps, program will terminate.</source>
@@ -534,108 +534,108 @@
     <name>KShowMoreWindowDlg</name>
     <message>
         <source>Compare Side by Side Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzporedno primerjaj okno</translation>
     </message>
     <message>
         <source>Select Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbira okna</translation>
     </message>
     <message>
         <source>Switch Window to</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklopi okno na</translation>
     </message>
     <message>
         <source>Please Choose the Window to Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosimo, izberite okno za primerjavo</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Active Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivno okno:</translation>
     </message>
 </context>
 <context>
     <name>KSpecialCharInfos</name>
     <message>
         <source>Em Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolgi pomišljaj</translation>
     </message>
     <message>
         <source>En Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomišljaj</translation>
     </message>
     <message>
         <source>Em Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolgi presledek</translation>
     </message>
     <message>
         <source>En Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Kratki presledek</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedeljivi presledek</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Avtorske pravice</translation>
     </message>
     <message>
         <source>Registered</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrirano</translation>
     </message>
     <message>
         <source>Trademark</source>
-        <translation type="unfinished"></translation>
+        <translation>Blagovna znamka</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavek</translation>
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation type="unfinished"></translation>
+        <translation>Tri pike</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Narekovaj-En.uvodni</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Narekovaj-En.zaključni</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Narekovaj-Dv.uvodni</translation>
     </message>
     <message>
         <source>Double Closing Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Narekovaj-Dv.zaključni</translation>
     </message>
 </context>
 <context>
     <name>KSpecialCharTabWidget</name>
     <message>
         <source>&amp;Characters:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Znaki:</translation>
     </message>
 </context>
 <context>
     <name>KSymbolBarTabWidget</name>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite ponastaviti orodno vrstico simbolov?</translation>
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
@@ -643,7 +643,7 @@
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipke za bližnjice:</translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
@@ -651,7 +651,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
@@ -659,15 +659,15 @@
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Prema&amp;kni navzdol</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Premakni navzgor</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Od&amp;strani</translation>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
@@ -678,38 +678,38 @@
     <name>KSymbolTabWidget</name>
     <message>
         <source>(Normal Text)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Navadno besedilo)</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pisava:</translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;dmnožica:</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nedavno uporabljeni simboli:</translation>
     </message>
     <message>
         <source>&amp;Character code:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Koda znaka:</translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;iz:</translation>
     </message>
 </context>
 <context>
     <name>KTemplateItemModel</name>
     <message>
         <source>File Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Datotečna mapa</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Predloge</translation>
     </message>
     <message>
         <source>Never modify</source>
@@ -720,195 +720,195 @@
     <name>KUnicodeSubsetInfoMap</name>
     <message>
         <source>Basic Latin</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovni latinični</translation>
     </message>
     <message>
         <source>Latin-1 Supplement</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatno latinično – 1</translation>
     </message>
     <message>
         <source>Latin Extended-A</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširjeni latinični - A</translation>
     </message>
     <message>
         <source>Latin Extended-B</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširjeni latinični - B</translation>
     </message>
     <message>
         <source>IPA Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširitve IPA</translation>
     </message>
     <message>
         <source>Spacing Modifier Letters</source>
-        <translation type="unfinished"></translation>
+        <translation>Črke za spreminjanje razmika</translation>
     </message>
     <message>
         <source>Combining Diacritical Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Sestavljiva ločevalna znamenja</translation>
     </message>
     <message>
         <source>Basic Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovni grški</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirilica</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Armenski</translation>
     </message>
     <message>
         <source>Basic Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovni hebrejski</translation>
     </message>
     <message>
         <source>Basic Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovni arabski</translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation type="unfinished"></translation>
+        <translation>Devangarska pisava</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"></translation>
+        <translation>Bengalščina</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation type="unfinished"></translation>
+        <translation>Gurmukhijsko</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"></translation>
+        <translation>Gudžaratščina</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"></translation>
+        <translation>Orijansko</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamilščina</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"></translation>
+        <translation>Teluščina</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanada</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"></translation>
+        <translation>Malajalščina</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Tajščina</translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"></translation>
+        <translation>Laoščina</translation>
     </message>
     <message>
         <source>Basic Georgian</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovni gruzijski</translation>
     </message>
     <message>
         <source>Hangul Jamo</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul jamski</translation>
     </message>
     <message>
         <source>Latin Extended Additional</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatno razširjeno latinsko</translation>
     </message>
     <message>
         <source>Greek Extended</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširjeni grški</translation>
     </message>
     <message>
         <source>General Punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Splošna ločila</translation>
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Podpisano in nadpisano</translation>
     </message>
     <message>
         <source>Currency Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Denarni simboli</translation>
     </message>
     <message>
         <source>Combining Diacritical Marks for Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Sestavljiva ločevalna znamenja simbolov</translation>
     </message>
     <message>
         <source>Letter-like Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Simboli kot črke</translation>
     </message>
     <message>
         <source>Number Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Številske oblike</translation>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Puščice</translation>
     </message>
     <message>
         <source>Mathematical Operators</source>
-        <translation type="unfinished"></translation>
+        <translation>Matematični operatorji</translation>
     </message>
     <message>
         <source>Miscellaneous Technical</source>
-        <translation type="unfinished"></translation>
+        <translation>Različni tehnični simboli</translation>
     </message>
     <message>
         <source>Control Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Slike kontrolnikov</translation>
     </message>
     <message>
         <source>Optical Character Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Optično prepoznavanje znakov</translation>
     </message>
     <message>
         <source>Enclosed Alphanumerics</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfanumerično v oklepajih</translation>
     </message>
     <message>
         <source>Box Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Risani okviri</translation>
     </message>
     <message>
         <source>Block Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementi blokov</translation>
     </message>
     <message>
         <source>Geometric Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometrijske oblike</translation>
     </message>
     <message>
         <source>Miscellaneous Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Različni simboli</translation>
     </message>
     <message>
         <source>Dingbats</source>
-        <translation type="unfinished"></translation>
+        <translation>Dingbati</translation>
     </message>
     <message>
         <source>CJK Symbols and Punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Simboli in ločila KJK</translation>
     </message>
     <message>
         <source>Hiragana</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiragana</translation>
     </message>
     <message>
         <source>Katakana</source>
-        <translation type="unfinished"></translation>
+        <translation>Katakanski</translation>
     </message>
     <message>
         <source>Bopomofo</source>
-        <translation type="unfinished"></translation>
+        <translation>Bopomofski</translation>
     </message>
     <message>
         <source>Extended Bopomofo</source>
@@ -916,7 +916,7 @@
     </message>
     <message>
         <source>Hangul Compatibility Jamo</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangulsko, združljivo z Jamskim</translation>
     </message>
     <message>
         <source>CJK Miscellaneous</source>
@@ -924,15 +924,15 @@
     </message>
     <message>
         <source>Enclosed CJK Letters and Months</source>
-        <translation type="unfinished"></translation>
+        <translation>Priložene črke in meseci KJK</translation>
     </message>
     <message>
         <source>CJK Compatibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Združljivo s KJK</translation>
     </message>
     <message>
         <source>Hangul</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangul</translation>
     </message>
     <message>
         <source>Surrogates</source>
@@ -940,15 +940,15 @@
     </message>
     <message>
         <source>CJK Unified Ideographs</source>
-        <translation type="unfinished"></translation>
+        <translation>Poenotena pojmovna znamenja KJK</translation>
     </message>
     <message>
         <source>CJK Radicals Supplement</source>
-        <translation type="unfinished"></translation>
+        <translation>Korenski dodatki za KJK</translation>
     </message>
     <message>
         <source>Kangxi Radicals</source>
-        <translation type="unfinished"></translation>
+        <translation>Korenski kandži</translation>
     </message>
     <message>
         <source>Ideographic description</source>
@@ -960,122 +960,122 @@
     </message>
     <message>
         <source>Private Use Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Območje zasebne uporabe</translation>
     </message>
     <message>
         <source>CJK Compatibility Ideographs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojmovna znamenja, združljiva s KJK</translation>
     </message>
     <message>
         <source>Alphabetic Presentation Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Abecedne predstavitvene oblike</translation>
     </message>
     <message>
         <source>Arabic Presentation Forms-A</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabske predstavitvene oblike – A</translation>
     </message>
     <message>
         <source>Combining Half Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Kombinirane polovične oznake</translation>
     </message>
     <message>
         <source>CJK Compatibility Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblike, združljive s KJK</translation>
     </message>
     <message>
         <source>Small Form Variants</source>
-        <translation type="unfinished"></translation>
+        <translation>Različice majhnih oblik</translation>
     </message>
     <message>
         <source>Arabic Presentation Forms-B</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabske predstavitvene oblike – B</translation>
     </message>
     <message>
         <source>Halfwidth and Fullwidth Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblike, polovične in polne širine</translation>
     </message>
     <message>
         <source>Specials</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebnosti</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation type="unfinished"></translation>
+        <translation>Tibetanščina</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"></translation>
+        <translation>Sirsko</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation type="unfinished"></translation>
+        <translation>Thaansko</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhalščina</translation>
     </message>
     <message>
         <source>Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjanmar</translation>
     </message>
     <message>
         <source>Ethiopic</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiopščina</translation>
     </message>
     <message>
         <source>Cherokee</source>
-        <translation type="unfinished"></translation>
+        <translation>Čerokeščina</translation>
     </message>
     <message>
         <source>Canadian Aboriginal Syllabics</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlogovna abeceda kanadskih Indijancev</translation>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogamska pisava</translation>
     </message>
     <message>
         <source>Runic</source>
-        <translation type="unfinished"></translation>
+        <translation>Runska pisava</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kmerščina</translation>
     </message>
     <message>
         <source>Mongolian</source>
-        <translation type="unfinished"></translation>
+        <translation>Mongolščina</translation>
     </message>
     <message>
         <source>Braille</source>
-        <translation type="unfinished"></translation>
+        <translation>Brajlova pisava</translation>
     </message>
     <message>
         <source>Yi Radicals</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreni yi</translation>
     </message>
 </context>
 <context>
     <name>KxAboutDlg</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>O Kingsoft Writer</translation>
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>O Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>O Kingsoft Presentation</translation>
     </message>
     <message>
         <source>About Kingsoft Office</source>
-        <translation type="unfinished"></translation>
+        <translation>O Kingsoft Office</translation>
     </message>
     <message>
         <source>%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%2</translation>
     </message>
     <message>
         <source>Help file doesn&apos;t exist or is broken!</source>
@@ -1083,11 +1083,11 @@
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Product ID: </source>
-        <translation type="unfinished"></translation>
+        <translation>ID izdelka:</translation>
     </message>
     <message>
         <source>Part of %1</source>
@@ -1114,7 +1114,7 @@
     <name>KxApplication</name>
     <message>
         <source>Critical</source>
-        <translation type="unfinished"></translation>
+        <translation>Kritično</translation>
     </message>
     <message>
         <source>Loading UI xml file is failed. For more information, please use KDebugConsole or read logs.</source>
@@ -1125,62 +1125,62 @@
     <name>KxAutoShapePanel</name>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Črte</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezovalniki</translation>
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovne oblike</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Puščice</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram poteka</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvezde in trakovi</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblački</translation>
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Interaktivni gumbi</translation>
     </message>
 </context>
 <context>
     <name>KxCOMAddinsDlg</name>
     <message>
         <source>Load at Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Naloži ob zagonu</translation>
     </message>
     <message>
         <source>Load on Demand</source>
-        <translation type="unfinished"></translation>
+        <translation>Naloži na zahtevo</translation>
     </message>
     <message>
         <source>Load on Demand (currently loaded)</source>
-        <translation type="unfinished"></translation>
+        <translation>Naloži na zahtevo. (Trenutno je naložen.)</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavno</translation>
     </message>
     <message>
         <source>Add Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj element</translation>
     </message>
     <message>
         <source>Executable File</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvedljiva datoteka</translation>
     </message>
     <message>
         <source>Failed to add Add-In</source>
@@ -1199,19 +1199,19 @@
     <name>KxChangeIconDlg</name>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Prebrskaj</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke(*.*)</translation>
     </message>
     <message>
         <source>Icon Files(*.ico)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke z ikonami(*.ico)</translation>
     </message>
     <message>
         <source>Executable Files(*.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvedljive datoteke(*.exe)</translation>
     </message>
     <message>
         <source>Dynamic Link Lib(*.dll)</source>
@@ -1226,53 +1226,53 @@
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
     <name>KxColorAndLineWidget</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez polnila</translation>
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez črte</translation>
     </message>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 pt</translation>
     </message>
     <message>
         <source>&amp;Straight</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Raven</translation>
     </message>
     <message>
         <source>&amp;Elbow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolenski</translation>
     </message>
     <message>
         <source>&amp;Curved</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukrivljen</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi ozadja,Sledi barvni shemi besedila in črt,Sledi barvni shemi senc,Sledi barvni shemi naslovnega besedila,Sledi barvni shemi polnil,Sledi barvni shemi poudarkov,Sledi barvni shemi poudarkov in hiperpovezav</translation>
     </message>
 </context>
 <context>
     <name>KxColorGalleryModel</name>
     <message>
         <source>Theme Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Barve teme</translation>
     </message>
     <message>
         <source>Standard Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardne barve</translation>
     </message>
 </context>
 <context>
@@ -1294,15 +1294,15 @@
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"></translation>
+        <translation>Celotna pot:</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Privzeto)</translation>
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka slovarja(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>New dictionary file</source>
@@ -1314,7 +1314,7 @@
     </message>
     <message>
         <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke(*.*)|*.*|Datoteka slovarja(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Removing this custom dictionary might affect other programs of Kingsoft Office, do you want to continue?</source>
@@ -1332,7 +1332,7 @@
     <name>KxCustomToolBarCmd</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogovorno okno</translation>
     </message>
     <message>
         <source>Command &amp;Bars</source>
@@ -1344,7 +1344,7 @@
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Pon&amp;astavi</translation>
     </message>
     <message>
         <source>D</source>
@@ -1352,7 +1352,7 @@
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni navzdol</translation>
     </message>
     <message>
         <source>U</source>
@@ -1360,7 +1360,7 @@
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni navzgor</translation>
     </message>
     <message>
         <source>+</source>
@@ -1368,7 +1368,7 @@
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>-</source>
@@ -1376,19 +1376,19 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Urejanje ...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izbriši</translation>
     </message>
     <message>
         <source>&amp;Copy To...</source>
@@ -1396,7 +1396,7 @@
     </message>
     <message>
         <source>&amp;Move To...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre&amp;makni v...</translation>
     </message>
     <message>
         <source>Begin &amp;Group</source>
@@ -1412,72 +1412,72 @@
     </message>
     <message>
         <source>Copy To</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj v</translation>
     </message>
     <message>
         <source>Move To</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni v</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite ponastaviti ukaz &apos;%1&apos;?</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarCmdBase</name>
     <message>
         <source>Command Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukazna vrstica</translation>
     </message>
     <message>
         <source>Main Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Glavni meni</translation>
     </message>
     <message>
         <source>Shortcut Menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Priročni meniji</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarDlg</name>
     <message>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi</translation>
     </message>
     <message>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Orodne vrstice</translation>
     </message>
     <message>
         <source>&amp;Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>U&amp;kazi</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarTB</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Tool&amp;bars:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Orodne vrstice:</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nova</translation>
     </message>
     <message>
         <source>R&amp;ename</source>
-        <translation type="unfinished"></translation>
+        <translation>Preimen&amp;uj</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izbriši</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Pon&amp;astavi</translation>
     </message>
 </context>
 <context>
@@ -1488,23 +1488,23 @@
     </message>
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime orodne vrstice ne more biti prazno. Prosim, vnesite ime.</translation>
     </message>
     <message>
         <source>Adding toolbar is successful!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uspešno dodajanje orodne vrstice!</translation>
     </message>
     <message>
         <source>Renaming toolbar is successful!</source>
-        <translation type="unfinished"></translation>
+        <translation>Usprešno preimenovanje orodne vrstice!</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the &apos;%1&apos; toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite izbrisati orodno vrstico &apos;%1&apos; toolbar?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%1&apos; toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prerpičani, da želite ponastaviti orodno vrstico &apos;%1&apos;?</translation>
     </message>
 </context>
 <context>
@@ -1519,58 +1519,58 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigram</translation>
     </message>
     <message>
         <source>Cycle Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Krožni diagram</translation>
     </message>
     <message>
         <source>Radial Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Radialni diagram</translation>
     </message>
     <message>
         <source>Pyramid diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Piramidni diagram</translation>
     </message>
     <message>
         <source>Venn diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Vennov diagram</translation>
     </message>
     <message>
         <source>Target Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarčni diagram</translation>
     </message>
     <message>
         <source>Used to show hierarchical relationships</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporablja se za prikaz hierarhičnih odnosov</translation>
     </message>
     <message>
         <source>Used to show a process with a continuous cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporablja se za prikaz procesa z neprekinjenim kroženjem</translation>
     </message>
     <message>
         <source>Used to show relationships of core elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporablja se za prikaz odnosov jedrnega elementov</translation>
     </message>
     <message>
         <source>Used to show foundation-based relationships</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporablja se za prikaz odnosov, izhajajočih iz osnove</translation>
     </message>
     <message>
         <source>Used to show areas of overlap between elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporablja se za prikaz področij prekrivanja med elementi</translation>
     </message>
     <message>
         <source>Used to show steps toward a goal</source>
-        <translation type="unfinished"></translation>
+        <translation>Used to show steps toward a goal</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCOMAddins</name>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatki COM</translation>
     </message>
     <message>
         <source>Available A&amp;dd-Ins:</source>
@@ -1578,111 +1578,111 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dodaj...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Od&amp;strani</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesto:</translation>
     </message>
     <message>
         <source>Load behavior:</source>
-        <translation type="unfinished"></translation>
+        <translation>Način delovanja pri nalaganju:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgChangeIcon</name>
     <message>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj ikono</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke:</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ikona:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prebrskaj ...</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Napi&amp;s:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Osebni slovar</translation>
     </message>
     <message>
         <source>Dictionary &amp;list</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;eznam slovarjev</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spre&amp;meni...</translation>
     </message>
     <message>
         <source>Set &amp;default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Privzeto</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nova...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dodaj...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Od&amp;strani</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>path</source>
-        <translation type="unfinished"></translation>
+        <translation>pot</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDiagramGallery</name>
     <message>
         <source>Diagram Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerija diagramov</translation>
     </message>
     <message>
         <source>Select a &amp;diagram type:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;zberite vrsto diagrama:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi slovar</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
@@ -1694,34 +1694,34 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dodaj</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izbriši</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje WordArtovega besedila</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pisava:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Velikost:</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Besedilo:</translation>
     </message>
     <message utf8="true">
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1736,7 +1736,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgEncryptionType</name>
     <message>
         <source>Encryption Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta šifriranja</translation>
     </message>
     <message>
         <source>&amp;Choose an encryption type:</source>
@@ -1751,19 +1751,19 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFillEffects</name>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Učinki polnila</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosojnost</translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Od:</translation>
     </message>
     <message>
         <source>T&amp;o:</source>
@@ -1771,27 +1771,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>V&amp;ariants</source>
-        <translation type="unfinished"></translation>
+        <translation>Inači&amp;ce</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Barve</translation>
     </message>
     <message>
         <source>O&amp;ne color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ena barva</translation>
     </message>
     <message>
         <source>&amp;Two colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Dve b&amp;arvi</translation>
     </message>
     <message>
         <source>Pre&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnap&amp;rej pripravljene</translation>
     </message>
     <message>
         <source>Color &amp;1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva &amp;1:</translation>
     </message>
     <message>
         <source>Dar&amp;k</source>
@@ -1799,11 +1799,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlo</translation>
     </message>
     <message>
         <source>Color &amp;2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva &amp;2:</translation>
     </message>
     <message>
         <source>Pres&amp;et colors:</source>
@@ -1811,111 +1811,111 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Early Sunset</source>
-        <translation type="unfinished"></translation>
+        <translation>Sončni zahod 1</translation>
     </message>
     <message>
         <source>Late Sunset</source>
-        <translation type="unfinished"></translation>
+        <translation>Sončni zahod 2</translation>
     </message>
     <message>
         <source>Nightfall</source>
-        <translation type="unfinished"></translation>
+        <translation>Večer</translation>
     </message>
     <message>
         <source>Daybreak</source>
-        <translation type="unfinished"></translation>
+        <translation>Svit</translation>
     </message>
     <message>
         <source>Horizon</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizont</translation>
     </message>
     <message>
         <source>Desert</source>
-        <translation type="unfinished"></translation>
+        <translation>Puščava</translation>
     </message>
     <message>
         <source>Ocean</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocean</translation>
     </message>
     <message>
         <source>Calm Water</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirno morje</translation>
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogenj</translation>
     </message>
     <message>
         <source>Fog</source>
-        <translation type="unfinished"></translation>
+        <translation>Megla</translation>
     </message>
     <message>
         <source>Moss</source>
-        <translation type="unfinished"></translation>
+        <translation>Mah</translation>
     </message>
     <message>
         <source>Peacock</source>
-        <translation type="unfinished"></translation>
+        <translation>Pav</translation>
     </message>
     <message>
         <source>Wheat</source>
-        <translation type="unfinished"></translation>
+        <translation>Žito</translation>
     </message>
     <message>
         <source>Parchment</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergament</translation>
     </message>
     <message>
         <source>Mahogany</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahagoni</translation>
     </message>
     <message>
         <source>Rainbow</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavrica</translation>
     </message>
     <message>
         <source>RainbowII</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavrica II</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlato</translation>
     </message>
     <message>
         <source>GoldII</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlato II</translation>
     </message>
     <message>
         <source>Brass</source>
-        <translation type="unfinished"></translation>
+        <translation>Medenina</translation>
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"></translation>
+        <translation>Krom</translation>
     </message>
     <message>
         <source>ChromeII</source>
-        <translation type="unfinished"></translation>
+        <translation>Krom II</translation>
     </message>
     <message>
         <source>Silver</source>
-        <translation type="unfinished"></translation>
+        <translation>Srebro</translation>
     </message>
     <message>
         <source>Sapphire</source>
-        <translation type="unfinished"></translation>
+        <translation>Safir</translation>
     </message>
     <message>
         <source>Spring</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzmet</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelena</translation>
     </message>
     <message>
         <source>Coffee</source>
-        <translation type="unfinished"></translation>
+        <translation>Kava</translation>
     </message>
     <message>
         <source>Mirage</source>
@@ -1927,11 +1927,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rdeča</translation>
     </message>
     <message>
         <source>Shading styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Senčenje</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
@@ -1939,7 +1939,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Navpično</translation>
     </message>
     <message>
         <source>Diagonal &amp;up</source>
@@ -1947,7 +1947,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Diagonal &amp;down</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonalno do&amp;l</translation>
     </message>
     <message>
         <source>&amp;From corner</source>
@@ -1955,23 +1955,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"></translation>
+        <translation>Iz &amp;sredine</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstura</translation>
     </message>
     <message>
         <source>&amp;Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tekstura:</translation>
     </message>
     <message>
         <source>&amp;Other Texture...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Druga tekstura...</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <source>Pa&amp;ttern:</source>
@@ -1987,41 +1987,41 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika</translation>
     </message>
     <message>
         <source>Picture:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika:</translation>
     </message>
     <message>
         <source>Se&amp;lect Picture...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izberi sliko...</translation>
     </message>
     <message>
         <source>Lock &amp;picture aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zakleni razmerje višina/širina</translation>
     </message>
     <message>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer:</translation>
     </message>
     <message>
         <source>Rotate fill effect &amp;with shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Obračaj učine&amp;k polnila z obliko</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikuj samoobliko</translation>
     </message>
 </context>
 <context>
     <name>KxDlgGenerally</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogovorno okno</translation>
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number of services and features</source>
@@ -2033,7 +2033,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Da</translation>
     </message>
     <message>
         <source>No</source>
@@ -2044,46 +2044,46 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInputBox</name>
     <message>
         <source>Input:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vhod:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertOLEObject</name>
     <message>
         <source>Insert Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi predmet</translation>
     </message>
     <message>
         <source>Create &amp;new</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ustvari novega</translation>
     </message>
     <message>
         <source>Create from &amp;file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari i&amp;z datoteke</translation>
     </message>
     <message>
         <source>Object &amp;type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta predme&amp;ta:</translation>
     </message>
     <message>
         <source>Fil&amp;e name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ime datoteke:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prebrskaj...</translation>
     </message>
     <message>
         <source>&amp;Link to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Poveži z &amp;datoteko</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat</translation>
     </message>
     <message>
         <source>&amp;Display as icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri&amp;kaži kot ikono</translation>
     </message>
     <message>
         <source>Change &amp;Icon...</source>
@@ -2094,11 +2094,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInsertSymbol</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbol</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Si&amp;mboli</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -2106,27 +2106,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;dmnožica:</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nedavno uporabljeni simboli:</translation>
     </message>
     <message>
         <source>&amp;Character code:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Koda znaka:</translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;iz:</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebni &amp;znaki</translation>
     </message>
     <message>
         <source>&amp;Characters:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Znaki:</translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
@@ -2138,7 +2138,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipke za bližnjice:</translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
@@ -2150,15 +2150,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Prema&amp;kni navzdol</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Premakni navzgor</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Od&amp;strani</translation>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
@@ -2170,33 +2170,33 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vstavi</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
     <name>KxDlgLicense</name>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenca</translation>
     </message>
     <message>
         <source>Agree</source>
-        <translation type="unfinished"></translation>
+        <translation>Strinjanje</translation>
     </message>
     <message>
         <source>Disagree</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne strinjam se</translation>
     </message>
 </context>
 <context>
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Predloge</translation>
     </message>
     <message>
         <source>Set as &amp;Default Template</source>
@@ -2211,33 +2211,33 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Printing file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiskanje datoteke:</translation>
     </message>
     <message>
         <source>Using printer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporaba tiskalnika:</translation>
     </message>
     <message>
         <source>Printing progress:</source>
-        <translation type="unfinished"></translation>
+        <translation>Napredek tiskanja:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPrinterProperties</name>
     <message>
         <source>Printer Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnosti tiskalnika</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnosti</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRbCustom</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi Hitri dostop</translation>
     </message>
     <message>
         <source>&amp;Choose command form:</source>
@@ -2245,11 +2245,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Add &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dodaj &gt;&gt;</translation>
     </message>
     <message>
         <source>&lt;&lt; &amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; &amp;Odstrani</translation>
     </message>
     <message>
         <source>Cust&amp;omize Quick Access</source>
@@ -2265,11 +2265,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Reset Quick Access:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi Hitri dostop:</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation type="unfinished"></translation>
+        <translation>Pon&amp;astavi</translation>
     </message>
 </context>
 <context>
@@ -2289,33 +2289,33 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pot</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi &amp;vse</translation>
     </message>
 </context>
 <context>
     <name>KxDlgScreenTip</name>
     <message>
         <source>Set Hyperlink ScreenTip</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitev zaslonskega namiga povezave</translation>
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Besedilo zaslonskega namiga:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogovorno okno</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -2323,7 +2323,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Thanks for using Kingsoft Office 2012 Beta2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvala za uporabo Kingsoft Office 2012 Beta2.</translation>
     </message>
     <message>
         <source>The trial period of your Kingsoft Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of Kingsoft Office.</source>
@@ -2335,7 +2335,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Update Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodobi zdaj</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
@@ -2346,7 +2346,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxDockPaneTitle</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
@@ -2364,38 +2364,38 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavno celo besedilo.</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost naj bo med %1 in %2.</translation>
     </message>
 </context>
 <context>
     <name>KxEncryptionTypeDlg</name>
     <message>
         <source>XOR Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>XOR šifriranje</translation>
     </message>
     <message>
         <source>Standard Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardno šifriranje</translation>
     </message>
     <message>
         <source>, </source>
-        <translation type="unfinished"></translation>
+        <translation>, </translation>
     </message>
     <message>
         <source>Please input a password between </source>
-        <translation type="unfinished"></translation>
+        <translation>Prosimo vpišite geslo, med </translation>
     </message>
     <message>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation> in </translation>
     </message>
     <message>
         <source> multiple of 8!</source>
-        <translation type="unfinished"></translation>
+        <translation> večkratnik od 8!</translation>
     </message>
 </context>
 <context>
@@ -2406,22 +2406,22 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Povratne informacije</translation>
     </message>
 </context>
 <context>
     <name>KxFileConverterDlg</name>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Napr&amp;ej</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opozorilo: če datoteko shranite kot besedilno datoteko, boste izgubili vse oblikovanje, slike in predmete v njej.</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite kodiranje, zaradi katerega bo vaš dokument berljiv.</translation>
     </message>
 </context>
 <context>
@@ -2436,131 +2436,131 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxFillEffectsDlg</name>
     <message>
         <source>Light downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetle diagonale navzdol</translation>
     </message>
     <message>
         <source>Light upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetle diagonale navzgor</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Temne diagonale navzdol</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Temne diagonale navzgor</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Široke diagonale navzdol</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Široke diagonale navzgor</translation>
     </message>
     <message>
         <source>Light vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetle navpične črte</translation>
     </message>
     <message>
         <source>Light horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetle vodoravne črte</translation>
     </message>
     <message>
         <source>Narrow vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Tesne navpične črte</translation>
     </message>
     <message>
         <source>Narrow horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Tesne vodoravne črte</translation>
     </message>
     <message>
         <source>Dark vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Temne navpične črte</translation>
     </message>
     <message>
         <source>Dark horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Temne vodoravne črte</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Črtkane diagonale navzdol</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Črtkane svetle diagonale navzgor</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Črtkane vodoravne črte</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Črtkane navpične črte</translation>
     </message>
     <message>
         <source>Small confetti</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikice</translation>
     </message>
     <message>
         <source>Large confetti</source>
-        <translation type="unfinished"></translation>
+        <translation>Raztresene pikice</translation>
     </message>
     <message>
         <source>Zig zag</source>
-        <translation type="unfinished"></translation>
+        <translation>Cik cak</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Val 1</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonalne opeke</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodoravne opeke</translation>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"></translation>
+        <translation>Tkanje</translation>
     </message>
     <message>
         <source>Plaid</source>
-        <translation type="unfinished"></translation>
+        <translation>Karo</translation>
     </message>
     <message>
         <source>Divot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruša</translation>
     </message>
     <message>
         <source>Dotted grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikčasta mreža</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikčasti karo</translation>
     </message>
     <message>
         <source>Shingle</source>
-        <translation type="unfinished"></translation>
+        <translation>Skodla</translation>
     </message>
     <message>
         <source>Trellis</source>
-        <translation type="unfinished"></translation>
+        <translation>Rešetka</translation>
     </message>
     <message>
         <source>Sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Krogle</translation>
     </message>
     <message>
         <source>Small grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Mali karo</translation>
     </message>
     <message>
         <source>Large grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Veliki karo</translation>
     </message>
     <message>
         <source>Small checkerboard</source>
@@ -2572,87 +2572,87 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Outlined diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Ploščice</translation>
     </message>
     <message>
         <source>Solid diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvobarvne ploščice</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzorčene črte</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi ozadja</translation>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi besedila in črt</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi senc</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi naslovnega besedila</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi polnil</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi poudarkov</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi poudarkov in hiperpovezav</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi poudarkov in obiskanih hiperpovezav</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"></translation>
+        <translation>Iz &amp;sredine</translation>
     </message>
     <message>
         <source>Fro&amp;m title</source>
-        <translation type="unfinished"></translation>
+        <translation>Iz &amp;naslova</translation>
     </message>
     <message>
         <source>Select Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi teksturo</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse slike</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows izboljšana metadatoteka</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows metadatoteka</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG datoteka za izmenjavo</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Network Graphics</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows bitna slika</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphics Interchange Format</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
@@ -2668,63 +2668,63 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi sliko</translation>
     </message>
 </context>
 <context>
     <name>KxFontSizeComboboxCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni veljavno celo število.</translation>
     </message>
 </context>
 <context>
     <name>KxFormatShapeDlg</name>
     <message>
         <source>Colors and Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Barve in črte</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Položaj</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje z besedilom</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsExplorer</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;sveži</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsLoginDlg</name>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Docs</translation>
     </message>
     <message>
         <source>&amp;UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uporabniško ime:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Geslo:</translation>
     </message>
     <message>
         <source>Captcha:</source>
@@ -2732,7 +2732,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>login...</source>
-        <translation type="unfinished"></translation>
+        <translation>prijava...</translation>
     </message>
     <message>
         <source>&amp;Save Acount</source>
@@ -2748,7 +2748,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Username or password is invalid!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabniško ime ali geslo je neveljavno!</translation>
     </message>
     <message>
         <source>Network Error! Login failed!</source>
@@ -2767,11 +2767,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsModel</name>
     <message>
         <source>Document Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime dokumenta</translation>
     </message>
     <message>
         <source>Last Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum zadnje spremembe</translation>
     </message>
 </context>
 <context>
@@ -2793,11 +2793,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxHideorShowButton</name>
     <message>
         <source>Show Taskpane</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži Podokno opravil</translation>
     </message>
     <message>
         <source>Hide Taskpane</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij Podokno opravil</translation>
     </message>
 </context>
 <context>
@@ -2808,38 +2808,38 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Up one folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Eno mapo gor</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Domača stran</translation>
     </message>
     <message>
         <source>Browse File</source>
-        <translation type="unfinished"></translation>
+        <translation>Prebrskaj datoteko</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje hiperpovezave</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri datoteko</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke(*.*)</translation>
     </message>
 </context>
 <context>
     <name>KxInputDialogCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <source>Custom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Po meri:</translation>
     </message>
 </context>
 <context>
@@ -2853,19 +2853,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxInsertOLEObjectDlg</name>
     <message>
         <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>V predstavitev vstavi nov predmet vrste %1. Prikazan bo kot ikona.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your document as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>V dokument vstavi nov predmet %1 kot ikono.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>V predstavitev vstavi nov predmet vrste %1.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>V dokument vstavi nov predmet vrste %1.</translation>
     </message>
     <message>
         <source>Inserts an icon into your presentation which represents the file.The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
@@ -2873,7 +2873,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi ikono, ki predstavlja vsebino datoteke. Spremembe izvorne datoteke bodo vidne tudi v dokumentu.</translation>
     </message>
     <message>
         <source>Inserts a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
@@ -2881,43 +2881,43 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>V dokument vstavi vsebino datoteke in ustvari bližnjico do izvorne datoteke. Spremembe izvorne datoteke bodo vidne v vašem dokumentu.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>V vaš dokument vstavi vsebino datoteke, ter ustvari povezavo z izvorno datoteko. Spremembe izvorne datoteke bodo vidne tudi v vašem dokumentu.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>V predstavitev vstavi vsebino datoteke kot predmet, tako da ga lahko aktivirate s programom, s katerim je bil ustvarjen. Prikazan bo kot ikona.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>V vaš dokument vstavi ikono, ki predstavlja vsebino datoteke.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
-        <translation type="unfinished"></translation>
+        <translation>V predstavitev vstavi vsebino datoteke kot predmet, tako da ga lahko aktivirate s programom, s katerim je bil ustvarjen.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>V dokument vstavi vsebino datoteke, tako da jo lahko pozneje urejate s programom, v katerem je bila ustvarjena izvorna datoteka.</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke(*.*)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Prebrskaj</translation>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne more ustvariti povezavo do datoteke &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Kingsoft Presentation cannot access %1, the file name is invalid.</source>
@@ -2936,23 +2936,23 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxInsertSymbolDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>(Normal Text)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Navadno besedilo)</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite ponastaviti orodno vrstico simolov?</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
@@ -2967,19 +2967,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>To work with macros, please purchase Kingsoft Office Professional.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite delati z makri, prosimo, da kupite Kingsoft Office Professional.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenos</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <source>Click to purchase now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klikni za nakup zdaj.</translation>
     </message>
 </context>
 <context>
@@ -2987,41 +2987,41 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>To work with macros, please purchase Kingsoft Office Professional.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite delati z makri, prosimo, da kupite Kingsoft Office Professional.</translation>
     </message>
 </context>
 <context>
     <name>KxMainWindow</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Uveljavi</translation>
     </message>
 </context>
 <context>
     <name>KxModifyCommandDlg</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>&amp;Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Videz</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Napi&amp;s:</translation>
     </message>
     <message>
         <source>Image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika:</translation>
     </message>
     <message>
         <source>&amp;Modify Image</source>
@@ -3029,19 +3029,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Sho&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;okaži</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Privzeto</translation>
     </message>
     <message>
         <source>Image and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika in besedilo</translation>
     </message>
     <message>
         <source>Only Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo besedilo</translation>
     </message>
     <message>
         <source>Command &amp;binding</source>
@@ -3049,11 +3049,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Hyperlink:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hiperpovezava:</translation>
     </message>
     <message>
         <source>&amp;Select</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izberi</translation>
     </message>
     <message>
         <source>Con&amp;trol</source>
@@ -3065,11 +3065,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Pon&amp;astavi</translation>
     </message>
     <message>
         <source>Modify Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni ukaze</translation>
     </message>
     <message>
         <source>&amp;Select Icon</source>
@@ -3093,7 +3093,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Select picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi sliko</translation>
     </message>
     <message>
         <source>&amp;Open File...</source>
@@ -3101,15 +3101,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Insert Picture...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vstavi sliko...</translation>
     </message>
     <message>
         <source>All files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke(*.*)</translation>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse slike(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
     </message>
     <message>
         <source>Windows Window Enhanced MetaFile(*.emf)</source>
@@ -3117,7 +3117,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Windows Enhanced MetaFile(*.wmf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows izboljšana metadatoteka(*.wmf)</translation>
     </message>
     <message>
         <source>JPEG JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
@@ -3125,7 +3125,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Portable Network Graphic(*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Network Graphics(*.png)</translation>
     </message>
     <message>
         <source>Windows Window Bitmap(*.bmp)</source>
@@ -3133,30 +3133,30 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Graphics Interchange Format(GIF)(*.gif)</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphics Interchange Format(GIF)(*.gif)</translation>
     </message>
     <message>
         <source>Tag Image File Format(*tif *tiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tag Image File Format(*tif *tiff)</translation>
     </message>
 </context>
 <context>
     <name>KxNewTemplateDlg</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Prazen dokument</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Prazna predstavitev</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Prazen delovni zvezek</translation>
     </message>
 </context>
 <context>
@@ -3167,19 +3167,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Your Kingsoft Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše Kingsoft Office poskusno obdobje je poteklo in tiskanje bo onemogočeno. Vnesite veljavno serijsko številko za aktiviranje izdelka. Če nimate veljavne serijske številke, jo lahko kupite na</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvala za uporabo poskusne različice našega izdelka.</translation>
     </message>
     <message>
         <source>Kingsoft Online Store.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spletna trgovina.</translation>
     </message>
     <message>
         <source>Input Serial Nummber</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite serijsko številko</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
@@ -3187,7 +3187,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Disable Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogoči tiksanje</translation>
     </message>
     <message>
         <source>Update to Personal</source>
@@ -3206,7 +3206,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat:</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
@@ -3217,7 +3217,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxPrintProgressDlg</name>
     <message>
         <source>Initializing the printer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializacija tiskalnika...</translation>
     </message>
     <message>
         <source>Printing %1 page of %2</source>
@@ -3228,11 +3228,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxPrinter</name>
     <message>
         <source>Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiskalnik</translation>
     </message>
     <message>
         <source>Manual duple&amp;x</source>
-        <translation type="unfinished"></translation>
+        <translation>Ročno o&amp;bojestransko</translation>
     </message>
     <message>
         <source>&amp;Inverse ouput</source>
@@ -3240,7 +3240,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Print to fi&amp;le</source>
-        <translation type="unfinished"></translation>
+        <translation>Natisni v &amp;datoteko</translation>
     </message>
     <message>
         <source>&amp;Properties...</source>
@@ -3248,19 +3248,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentar:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta:</translation>
     </message>
     <message>
         <source>Where:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kje:</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;me:</translation>
     </message>
     <message>
         <source>Page &amp;source:</source>
@@ -3268,27 +3268,27 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stanje:</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripravljen</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustavljeno</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedosegljiv</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaseden</translation>
     </message>
     <message>
         <source>Printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiskanje</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; returned an error!</source>
@@ -3296,34 +3296,34 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Use printer setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi nastavitve tiskalnika</translation>
     </message>
 </context>
 <context>
     <name>KxPropertyDlg</name>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisarna</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Urednik</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddelek</translation>
     </message>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Sklic</translation>
     </message>
     <message>
         <source>Publisher</source>
-        <translation type="unfinished"></translation>
+        <translation>Založnik</translation>
     </message>
     <message>
         <source>Typer</source>
@@ -3331,87 +3331,87 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefonska številka</translation>
     </message>
     <message>
         <source>Work Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Delovna skupina</translation>
     </message>
     <message>
         <source>Record Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Beleži datum</translation>
     </message>
     <message>
         <source>Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>Snemalnik</translation>
     </message>
     <message>
         <source>Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Šahovnica</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>od</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsek</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Stranka</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Cilj</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsebina</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnik</translation>
     </message>
     <message>
         <source>Finish Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Končni datum</translation>
     </message>
     <message>
         <source>Document Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Številka dokumenta</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt</translation>
     </message>
     <message>
         <source>Purpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Namen</translation>
     </message>
     <message>
         <source>Post Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošta</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezik</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Vir</translation>
     </message>
     <message>
         <source>Forward to</source>
-        <translation type="unfinished"></translation>
+        <translation>Posreduj</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Zv. država/občina</translation>
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnost</translation>
     </message>
     <message>
         <source>%L1byte</source>
@@ -3419,15 +3419,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>yyyy-MM-dd</source>
-        <translation type="unfinished"></translation>
+        <translation>llll/mm/dd</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <source>Your input data do not match the type specified, value should be text!</source>
@@ -3435,62 +3435,62 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dodaj</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spremeni</translation>
     </message>
     <message>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>da</translation>
     </message>
     <message>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>ne</translation>
     </message>
 </context>
 <context>
     <name>KxRbCustomDlg</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni navzgor</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni navzdol</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Obroba</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost oblike</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Uveljavi</translation>
     </message>
     <message>
         <source>Reset Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Poenostavi po meri</translation>
     </message>
     <message>
         <source>Are you sure to reset the customization data of all users?</source>
@@ -3498,30 +3498,30 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>The selected command is already on the Quick Access Toolbar!</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbran ukaz je že na orodni vrstici za hiter dostop!</translation>
     </message>
     <message>
         <source>All commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsi ukazi</translation>
     </message>
     <message>
         <source>Common</source>
-        <translation type="unfinished"></translation>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ločilo</translation>
     </message>
 </context>
 <context>
     <name>KxRecentFileManageDlg</name>
     <message>
         <source>Delete Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši zapis</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Odpri</translation>
     </message>
 </context>
 <context>
@@ -3535,14 +3535,14 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
     <name>KxSerchCtrl</name>
     <message>
         <source>Please input command name to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosimo vpišite ime ukaza za iskanje</translation>
     </message>
 </context>
 <context>
@@ -3553,7 +3553,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>ZIP File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka ZIP (*.zip)</translation>
     </message>
     <message>
         <source>Install Spellcheck Package</source>
@@ -3565,7 +3565,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Spellcheck language already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezik za preverjanje črkovanja že obstaja.</translation>
     </message>
 </context>
 <context>
@@ -3587,7 +3587,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>rainbow</source>
-        <translation type="unfinished"></translation>
+        <translation>mavrica</translation>
     </message>
     <message>
         <source>classics</source>
@@ -3602,15 +3602,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;V redu</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prekliči</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
@@ -3639,15 +3639,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxSymbolGalleryModel</name>
     <message>
         <source>Recently Used Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedavno uporabljeni simboli</translation>
     </message>
     <message>
         <source>Custom Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Simobli po meri</translation>
     </message>
 </context>
 <context>
     <name>KxSystemCheckerCommand</name>
+    <message>
+        <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>, </source>
         <translation type="unfinished"></translation>
@@ -3660,24 +3664,28 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
+        <source>System Checking</source>
+        <translation>Preverjanje sistema</translation>
+    </message>
+    <message>
         <source>Icon</source>
+        <translation>Ikona</translation>
+    </message>
+    <message>
+        <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preverjanje...</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Ločljivost</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -3685,15 +3693,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Checking completed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>System Check</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The following issues were detected on this system:</source>
-        <translation type="unfinished"></translation>
+        <translation>Preverjanje končano!</translation>
     </message>
 </context>
 <context>
@@ -3708,7 +3708,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij</translation>
     </message>
     <message>
         <source>Disable title drag menu</source>
@@ -3720,11 +3720,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>hide button text</source>
-        <translation type="unfinished"></translation>
+        <translation>skrij gumb besedilo</translation>
     </message>
     <message>
         <source>show button text</source>
-        <translation type="unfinished"></translation>
+        <translation>prikaži gumb besedilo</translation>
     </message>
     <message>
         <source>Disable select drag menu</source>
@@ -3739,7 +3739,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTableGalleryModel</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi tabelo</translation>
     </message>
     <message>
         <source> %1 * %2 Table</source>
@@ -3757,26 +3757,26 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTemplateOnLineCommand</name>
     <message>
         <source>http://www.kingsoftstore.com</source>
-        <translation type="unfinished"></translation>
+        <translation>http://www.kingsoftstore.com</translation>
     </message>
 </context>
 <context>
     <name>KxTemplateWidget</name>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Predloga</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenjena</translation>
     </message>
 </context>
 <context>
@@ -3790,7 +3790,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
@@ -3801,15 +3801,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpAutoShape</name>
     <message>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Poišči:</translation>
     </message>
     <message>
         <source>Auto Shapes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Samooblike:</translation>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj samooblike</translation>
     </message>
     <message>
         <source>Show Large Preview</source>
@@ -3820,7 +3820,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpBackUp</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
@@ -3828,11 +3828,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Clear Backups</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti varnostne kopije</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri mapo za varnostne kopije</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;View more help for restore &gt;&gt;&gt;&lt;/a&gt;</source>
@@ -3843,7 +3843,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpBackup</name>
     <message>
         <source>Remove All Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani vsa opozorila</translation>
     </message>
     <message>
         <source>Cannot Remove All Backup Files</source>
@@ -3854,15 +3854,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpClipArt</name>
     <message>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorija:</translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled:</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Izrezek</translation>
     </message>
 </context>
 <context>
@@ -3889,7 +3889,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalaganje</translation>
     </message>
     <message>
         <source>filename.wps</source>
@@ -3905,7 +3905,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Opening...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje...</translation>
     </message>
     <message>
         <source>Upload to Google Docs</source>
@@ -3957,15 +3957,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpNewDoc</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedavni dokumenti</translation>
     </message>
     <message>
         <source>Manage</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljaj</translation>
     </message>
     <message>
         <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
@@ -3973,19 +3973,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri...(Ctrl+O)</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri...</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nov prazen dokument</translation>
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spletne predloge</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4004,11 +4004,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedavni dokumenti</translation>
     </message>
     <message>
         <source>Manage</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljaj</translation>
     </message>
     <message>
         <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
@@ -4016,23 +4016,23 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri...(Ctrl+O)</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri...</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nov prazen dokument</translation>
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spletne predloge</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4051,38 +4051,38 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpSelectShape</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Shapes on this page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblike na tej strani:</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži vse</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij vse</translation>
     </message>
     <message>
         <source>up</source>
-        <translation type="unfinished"></translation>
+        <translation>gor</translation>
     </message>
     <message>
         <source>down</source>
-        <translation type="unfinished"></translation>
+        <translation>dol</translation>
     </message>
     <message>
         <source>Re-order</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuredi</translation>
     </message>
 </context>
 <context>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>quit</source>
-        <translation type="unfinished"></translation>
+        <translation>končaj</translation>
     </message>
 </context>
 <context>
@@ -4094,7 +4094,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Download</translation>
     </message>
     <message>
         <source>No</source>
@@ -4110,26 +4110,26 @@ of services and features.</source>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Kupi</translation>
     </message>
     <message>
         <source>Continue trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadaljuj s preskusno različico</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetColorAndLines</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikuj samoobliko</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ba&amp;rva:</translation>
     </message>
     <message>
         <source>Co&amp;nnector:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezoval&amp;nik:</translation>
     </message>
     <message>
         <source>ucWeight</source>
@@ -4145,7 +4145,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Puščice</translation>
     </message>
     <message>
         <source>cbConnector</source>
@@ -4153,11 +4153,11 @@ of services and features.</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Polnilo</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Barva:</translation>
     </message>
     <message>
         <source>ccFillColor</source>
@@ -4165,7 +4165,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Transparency:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prosojnost:</translation>
     </message>
     <message>
         <source>ucTransparentcy</source>
@@ -4181,7 +4181,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Črta</translation>
     </message>
     <message>
         <source>ccLineColor</source>
@@ -4197,7 +4197,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Weight:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Debelina:</translation>
     </message>
     <message>
         <source>cbBeginStyle</source>
@@ -4217,30 +4217,30 @@ of services and features.</source>
     </message>
     <message>
         <source>De&amp;fault for new Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Pr&amp;ivzete nastavitve za nove predmete</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetPicture</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Levo</translation>
     </message>
     <message>
         <source>Crop from</source>
-        <translation type="unfinished"></translation>
+        <translation>Obreži</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Svetlost:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Desno:</translation>
     </message>
     <message>
         <source>%, 1, 0, 100, 1</source>
@@ -4252,78 +4252,78 @@ of services and features.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivina</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Črno-belo</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Izprano</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko&amp;ntrast:</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Barva:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spodaj:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zgoraj:</translation>
     </message>
     <message>
         <source>Image control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolnik slike</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;tisni...</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation>Pon&amp;astavi</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetSize</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Višina:</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost izvirnika</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zakleni razmerje višina/širina</translation>
     </message>
     <message>
         <source>Relative to original  picture size</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorazmerno z izvirno velikostjo slike</translation>
     </message>
     <message>
         <source>Best scale for slide show</source>
-        <translation type="unfinished"></translation>
+        <translation>Najboljše merilo za predstavitev</translation>
     </message>
     <message>
         <source>Res&amp;olution:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ločljivost:</translation>
     </message>
     <message>
         <source>cbResolution</source>
@@ -4331,31 +4331,31 @@ of services and features.</source>
     </message>
     <message>
         <source>640 x 480</source>
-        <translation type="unfinished"></translation>
+        <translation>640 x 480</translation>
     </message>
     <message>
         <source>720 x 512</source>
-        <translation type="unfinished"></translation>
+        <translation>720 x 512</translation>
     </message>
     <message>
         <source>800 x 600</source>
-        <translation type="unfinished"></translation>
+        <translation>800 x 600</translation>
     </message>
     <message>
         <source>1024 x 768</source>
-        <translation type="unfinished"></translation>
+        <translation>1024 x 768</translation>
     </message>
     <message>
         <source>1280 x 1024</source>
-        <translation type="unfinished"></translation>
+        <translation>1280 x 1024</translation>
     </message>
     <message>
         <source>Size and rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost in vrtenje</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Višina:</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
@@ -4363,7 +4363,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Š&amp;irina:</translation>
     </message>
     <message>
         <source>ucShapeWidth</source>
@@ -4371,7 +4371,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sukanje:</translation>
     </message>
     <message>
         <source>ucRotation</source>
@@ -4383,11 +4383,11 @@ of services and features.</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Merilo</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Viši&amp;na:</translation>
     </message>
     <message>
         <source>ucScaleHeight</source>
@@ -4399,7 +4399,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Širina:</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
@@ -4407,18 +4407,18 @@ of services and features.</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina:</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetTemplate</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Up</source>
@@ -4426,19 +4426,19 @@ of services and features.</source>
     </message>
     <message>
         <source>Large Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Velike ikone</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrobnosti</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled</translation>
     </message>
     <message>
         <source>The icon you selected
@@ -4447,7 +4447,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Create new</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari nov</translation>
     </message>
     <message>
         <source>Do&amp;cument</source>
@@ -4455,50 +4455,50 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Predlogo</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetTextBox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mesto sidranja besedila:</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Sredina</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodaj</translation>
     </message>
     <message>
         <source>Top centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini zgoraj</translation>
     </message>
     <message>
         <source>Middle centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini na sredini</translation>
     </message>
     <message>
         <source>Bottom centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini spodaj</translation>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Notranji rob</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Levo:</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -4506,11 +4506,11 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zgoraj:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Desno:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -4518,15 +4518,15 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Word wrap text in autoshape</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;relomi besedilo v samoobliki</translation>
     </message>
     <message>
         <source>Resize autoshape to &amp;fit text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spremeni velikost samooblike, tako da se prilega besedilu</translation>
     </message>
     <message utf8="true">
         <source>Rotat&amp;e text within autoshape by 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasukaj b&amp;esedilo znotraj samooblike za 90°</translation>
     </message>
     <message>
         <source>Allow text to be wrapped by &amp;external object</source>
@@ -4568,11 +4568,539 @@ cannot be previewed.</source>
     <name>QObject</name>
     <message>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite prepisati datoteko?</translation>
     </message>
     <message>
         <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arabic (Saudi Arabia)</source>
+        <translation>Arabščina (Saudska Arabija)</translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation>Kitajščina (Tajvan)</translation>
+    </message>
+    <message>
+        <source>German (Germany)</source>
+        <translation>Nemščina (Nemčija)</translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation>Angleščina (Združene države)</translation>
+    </message>
+    <message>
+        <source>Spanish (Spain)</source>
+        <translation>Španščina (Španija)</translation>
+    </message>
+    <message>
+        <source>French (France)</source>
+        <translation>Francoščina (Francija)</translation>
+    </message>
+    <message>
+        <source>Italian (Italy)</source>
+        <translation>Italijanščina (Italija)</translation>
+    </message>
+    <message>
+        <source>Dutch (The Netherlands)</source>
+        <translation>Nizozemščina (Nizozemska)</translation>
+    </message>
+    <message>
+        <source>Portuguese (Brazil)</source>
+        <translation>Portugalščina (Brazilija)</translation>
+    </message>
+    <message>
+        <source>Swedish (Sweden)</source>
+        <translation>Švedščina (Švedska)</translation>
+    </message>
+    <message>
+        <source>Azeri (Latin)</source>
+        <translation>Azerščina (latinica)</translation>
+    </message>
+    <message>
+        <source>Malay (Malaysia)</source>
+        <translation>Malajščina (Malezija)</translation>
+    </message>
+    <message>
+        <source>Uzbek (Latin)</source>
+        <translation>Uzbeščina (latinica)</translation>
+    </message>
+    <message>
+        <source>Arabic (Iraq)</source>
+        <translation>Arabščina (Irak)</translation>
+    </message>
+    <message>
+        <source>Chinese (China)</source>
+        <translation>Kitajščina (Kitajska)</translation>
+    </message>
+    <message>
+        <source>German (Switzerland)</source>
+        <translation>Nemščina (Švica)</translation>
+    </message>
+    <message>
+        <source>English (United Kingdom)</source>
+        <translation>Angleščina (Združeno kraljestvo)</translation>
+    </message>
+    <message>
+        <source>Spanish (Mexico)</source>
+        <translation>Španščina (Mehika)</translation>
+    </message>
+    <message>
+        <source>French (Belgium)</source>
+        <translation>Francoščina (Belgija)</translation>
+    </message>
+    <message>
+        <source>Italian (Switzerland)</source>
+        <translation>Italijanščina (Švica)</translation>
+    </message>
+    <message>
+        <source>Dutch (Belgium)</source>
+        <translation>Nizozemščina (Belgija)</translation>
+    </message>
+    <message>
+        <source>Norwegian (Nynorsk)</source>
+        <translation>Norveščina (Nynorsk)</translation>
+    </message>
+    <message>
+        <source>Portuguese (Portugal)</source>
+        <translation>Portugalščina (Portugalska)</translation>
+    </message>
+    <message>
+        <source>Romanian (Republic of Moldova)</source>
+        <translation>Romunščina (Republika Moldova)</translation>
+    </message>
+    <message>
+        <source>Russian (Republic of Moldova)</source>
+        <translation>Ruščina (Republika Moldova)</translation>
+    </message>
+    <message>
+        <source>Serbian (Latin)</source>
+        <translation>Srbščina (latinica)</translation>
+    </message>
+    <message>
+        <source>Swedish (Finland)</source>
+        <translation>Švedščina (Finska)</translation>
+    </message>
+    <message>
+        <source>Azeri (Cyrillic)</source>
+        <translation>Azerščina (cirilica)</translation>
+    </message>
+    <message>
+        <source>Gaelic (Ireland)</source>
+        <translation>Galščina (Irska)</translation>
+    </message>
+    <message>
+        <source>Malay (Brunei)</source>
+        <translation>Malajščina (Brunej)</translation>
+    </message>
+    <message>
+        <source>Uzbek (Cyrillic)</source>
+        <translation>Uzbeščina (Cirilica)</translation>
+    </message>
+    <message>
+        <source>Arabic (Egypt)</source>
+        <translation>Arabščina (Egipt)</translation>
+    </message>
+    <message>
+        <source>Chinese (Hong Kong SAR)</source>
+        <translation>Kitajščina (Posebna administrativna regija Hongkong)</translation>
+    </message>
+    <message>
+        <source>German (Austria)</source>
+        <translation>Nemščina (Avstrija)</translation>
+    </message>
+    <message>
+        <source>English (Australia)</source>
+        <translation>Angleščina (Avstralija)</translation>
+    </message>
+    <message>
+        <source>French (Canada)</source>
+        <translation>Francoščina (Kanada)</translation>
+    </message>
+    <message>
+        <source>Serbian (Cyrillic)</source>
+        <translation>Srbščina (cirilica)</translation>
+    </message>
+    <message>
+        <source>Arabic (Libya)</source>
+        <translation>Arabščina (Libija)</translation>
+    </message>
+    <message>
+        <source>Chinese (Singapore)</source>
+        <translation>Kitajščina (Singapur)</translation>
+    </message>
+    <message>
+        <source>German (Luxembourg)</source>
+        <translation>Nemščina (Luksemburg)</translation>
+    </message>
+    <message>
+        <source>English (Canada)</source>
+        <translation>Angleščina (Kanada)</translation>
+    </message>
+    <message>
+        <source>Spanish (Guatemala)</source>
+        <translation>Španščina (Gvatemala)</translation>
+    </message>
+    <message>
+        <source>French (Switzerland)</source>
+        <translation>Francoščina (Švica)</translation>
+    </message>
+    <message>
+        <source>Arabic (Algeria)</source>
+        <translation>Arabščina (Alžirija)</translation>
+    </message>
+    <message>
+        <source>Chinese (Macau SAR)</source>
+        <translation>Kitajščina (Macao)</translation>
+    </message>
+    <message>
+        <source>German (Liechtenstein)</source>
+        <translation>Nemščina (Liechtenstein)</translation>
+    </message>
+    <message>
+        <source>English (New Zealand)</source>
+        <translation>Angleščina (Nova Zelandija)</translation>
+    </message>
+    <message>
+        <source>Spanish (Costa Rica)</source>
+        <translation>Španščina (Kostarika)</translation>
+    </message>
+    <message>
+        <source>French (Luxembourg)</source>
+        <translation>Francoščina (Luksemburg)</translation>
+    </message>
+    <message>
+        <source>Arabic (Morocco)</source>
+        <translation>Arabščina (Maroko)</translation>
+    </message>
+    <message>
+        <source>English (Ireland)</source>
+        <translation>Angleščina (Irska)</translation>
+    </message>
+    <message>
+        <source>Spanish (Panama)</source>
+        <translation>Španščina (Panama)</translation>
+    </message>
+    <message>
+        <source>Arabic (Tunisia)</source>
+        <translation>Arabščina (Tunizija)</translation>
+    </message>
+    <message>
+        <source>English (South Africa)</source>
+        <translation>Angleščina (Južna Afrika)</translation>
+    </message>
+    <message>
+        <source>Spanish (Dominican Republic)</source>
+        <translation>Španščina (Dominikanska republika)</translation>
+    </message>
+    <message>
+        <source>Arabic (Oman)</source>
+        <translation>Arabščina (Oman)</translation>
+    </message>
+    <message>
+        <source>English (Jamaica)</source>
+        <translation>Angleščina (Jamajka)</translation>
+    </message>
+    <message>
+        <source>Spanish (Venezuela)</source>
+        <translation>Španščina (Venezuela)</translation>
+    </message>
+    <message>
+        <source>Arabic (Yemen)</source>
+        <translation>Arabščina (Jemen)</translation>
+    </message>
+    <message>
+        <source>English (Caribbean)</source>
+        <translation>Angleščina (Karibi)</translation>
+    </message>
+    <message>
+        <source>Spanish (Colombia)</source>
+        <translation>Španščina (Kolumbija)</translation>
+    </message>
+    <message>
+        <source>Arabic (Syria)</source>
+        <translation>Arabščina (Sirija)</translation>
+    </message>
+    <message>
+        <source>English (Belize)</source>
+        <translation>Angleščina (Belize)</translation>
+    </message>
+    <message>
+        <source>Spanish (Peru)</source>
+        <translation>Španščina (Peru)</translation>
+    </message>
+    <message>
+        <source>Arabic (Jordan)</source>
+        <translation>Arabščina (Jordanija)</translation>
+    </message>
+    <message>
+        <source>English (Trinidad)</source>
+        <translation>Angleščina (Trinidad)</translation>
+    </message>
+    <message>
+        <source>Spanish (Argentina)</source>
+        <translation>Španščina (Argentina)</translation>
+    </message>
+    <message>
+        <source>Arabic (Lebanon)</source>
+        <translation>Arabščina (Libanon)</translation>
+    </message>
+    <message>
+        <source>Spanish (Ecuador)</source>
+        <translation>Španščina (Ekvador)</translation>
+    </message>
+    <message>
+        <source>Arabic (Kuwait)</source>
+        <translation>Arabščina (Kuvajt)</translation>
+    </message>
+    <message>
+        <source>English (Phillippines)</source>
+        <translation>Angleščina (Filipini)</translation>
+    </message>
+    <message>
+        <source>Spanish (Chile)</source>
+        <translation>Španščina (Čile)</translation>
+    </message>
+    <message>
+        <source>Arabic (United Arab Emirates)</source>
+        <translation>Arabščina (Združeni arabski emirati)</translation>
+    </message>
+    <message>
+        <source>Spanish (Uruguay)</source>
+        <translation>Španščina (Urugvaj)</translation>
+    </message>
+    <message>
+        <source>Arabic (Bahrain)</source>
+        <translation>Arabščina (Bahrajn)</translation>
+    </message>
+    <message>
+        <source>Spanish (Paraguay)</source>
+        <translation>Španščina (Paragvaj)</translation>
+    </message>
+    <message>
+        <source>Arabic (Qatar)</source>
+        <translation>Arabščina (Katar)</translation>
+    </message>
+    <message>
+        <source>Spanish (Bolivia)</source>
+        <translation>Španščina (Bolivija)</translation>
+    </message>
+    <message>
+        <source>Spanish (El Salvador)</source>
+        <translation>Španščina (El Salvador)</translation>
+    </message>
+    <message>
+        <source>Spanish (Honduras)</source>
+        <translation>Španščina (Honduras)</translation>
+    </message>
+    <message>
+        <source>Spanish (Nicaragua)</source>
+        <translation>Španščina (Nikaragva)</translation>
+    </message>
+    <message>
+        <source>Spanish (Puerto Rico)</source>
+        <translation>Španščina (Portoriko)</translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation>Ruščina</translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation>Bolgarščina</translation>
+    </message>
+    <message>
+        <source>Catalan</source>
+        <translation>Katalonščina</translation>
+    </message>
+    <message>
+        <source>Czech</source>
+        <translation>Češčina</translation>
+    </message>
+    <message>
+        <source>Danish</source>
+        <translation>Danščina</translation>
+    </message>
+    <message>
+        <source>Greek</source>
+        <translation>Grško</translation>
+    </message>
+    <message>
+        <source>Finnish</source>
+        <translation>Finščina</translation>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation>Hebrejščina</translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation>Madžarščina</translation>
+    </message>
+    <message>
+        <source>Icelandic</source>
+        <translation>Islandščina</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>Japonščina</translation>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation>Korejščina</translation>
+    </message>
+    <message>
+        <source>Polish</source>
+        <translation>Poljščina</translation>
+    </message>
+    <message>
+        <source>Raeto-Romance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Romanian (Romania)</source>
+        <translation>Romunščina (Romunija)</translation>
+    </message>
+    <message>
+        <source>Croatian</source>
+        <translation>Hrvaščina</translation>
+    </message>
+    <message>
+        <source>Slovak</source>
+        <translation>Slovaščina</translation>
+    </message>
+    <message>
+        <source>Albanian</source>
+        <translation>Albanščina</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>Tajščina</translation>
+    </message>
+    <message>
+        <source>Turkish</source>
+        <translation>Turščina</translation>
+    </message>
+    <message>
+        <source>Urdu</source>
+        <translation>Urdujščina</translation>
+    </message>
+    <message>
+        <source>Indonesian</source>
+        <translation>Indonezijščina</translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation>Ukrajinščina</translation>
+    </message>
+    <message>
+        <source>Belarusian</source>
+        <translation>Beloruščina</translation>
+    </message>
+    <message>
+        <source>Slovenian</source>
+        <translation>Slovenščina</translation>
+    </message>
+    <message>
+        <source>Estonian</source>
+        <translation>Estonščina</translation>
+    </message>
+    <message>
+        <source>Latvian</source>
+        <translation>Latvijščina</translation>
+    </message>
+    <message>
+        <source>Lithuanian</source>
+        <translation>Litovščina</translation>
+    </message>
+    <message>
+        <source>Farsi</source>
+        <translation>Perzijščina</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation>Vietnamščina</translation>
+    </message>
+    <message>
+        <source>Armenian</source>
+        <translation>Armenski</translation>
+    </message>
+    <message>
+        <source>Basque</source>
+        <translation>Baskovščina</translation>
+    </message>
+    <message>
+        <source>Sorbian</source>
+        <translation>lužiška srbščina</translation>
+    </message>
+    <message>
+        <source>FYRO Macedonian</source>
+        <translation>Makedonščina (nekdanja jugoslovanska republika)</translation>
+    </message>
+    <message>
+        <source>Sutu</source>
+        <translation>Sutujščina</translation>
+    </message>
+    <message>
+        <source>Tsonga</source>
+        <translation>Tsonga</translation>
+    </message>
+    <message>
+        <source>Setsuana</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xhosa</source>
+        <translation>Xhosa</translation>
+    </message>
+    <message>
+        <source>Zulu</source>
+        <translation>Zulujščina</translation>
+    </message>
+    <message>
+        <source>Afrikaans</source>
+        <translation>Afrikanščina</translation>
+    </message>
+    <message>
+        <source>Faroese</source>
+        <translation>Ferščina</translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation>Hindijščina</translation>
+    </message>
+    <message>
+        <source>Maltese</source>
+        <translation>Malteščina</translation>
+    </message>
+    <message>
+        <source>Gaelic (Scotland)</source>
+        <translation>Galščina (Škotska)</translation>
+    </message>
+    <message>
+        <source>Yiddish</source>
+        <translation>Jidiš</translation>
+    </message>
+    <message>
+        <source>Swahili</source>
+        <translation>Svahili</translation>
+    </message>
+    <message>
+        <source>Tatar</source>
+        <translation>Tatarščina</translation>
+    </message>
+    <message>
+        <source>Tamil</source>
+        <translation>Tatarščina</translation>
+    </message>
+    <message>
+        <source>Marathi</source>
+        <translation>Maratščina</translation>
+    </message>
+    <message>
+        <source>Sanskrit</source>
+        <translation>Sanskrt</translation>
     </message>
     <message>
         <source>custom %1</source>
@@ -4585,15 +5113,15 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Črna</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Temno cijan</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Temno modra</translation>
     </message>
     <message>
         <source>Thumb Blue</source>
@@ -4601,7 +5129,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Modra</translation>
     </message>
     <message>
         <source>Wathet Blue</source>
@@ -4613,11 +5141,11 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Light Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlo purpurna</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–80%</translation>
     </message>
     <message>
         <source>Blue Violet</source>
@@ -4629,7 +5157,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebesno modra</translation>
     </message>
     <message>
         <source>Baby Blue</source>
@@ -4637,11 +5165,11 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Light Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlo cijan</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Roza</translation>
     </message>
     <message>
         <source>Pink Rose</source>
@@ -4649,11 +5177,11 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–50%</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Morsko zelena</translation>
     </message>
     <message>
         <source>Cyan Green</source>
@@ -4665,47 +5193,47 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Bela</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlo rumena</translation>
     </message>
     <message>
         <source>Dark Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Temno rjava</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Vijoličasta</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–40%</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Temno zelena</translation>
     </message>
     <message>
         <source>Light Green </source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlo zelena</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumena</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlata</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlo oranžna</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rdeča</translation>
     </message>
     <message>
         <source>Plum Purple</source>
@@ -4713,115 +5241,115 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–25%</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelena</translation>
     </message>
     <message>
         <source>Lime Green </source>
-        <translation type="unfinished"></translation>
+        <translation>Rumenozelena</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Temno rumena</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Olivno zelena</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Oranžna</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Rjava</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Temno rdeča</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–5%</translation>
     </message>
     <message>
         <source>Gray-10% </source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–20%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–37.5%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–45%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–75%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siva–95%</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Cijan</translation>
     </message>
     <message>
         <source>AutoBackup</source>
@@ -4833,11 +5361,11 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>All Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse pisave</translation>
     </message>
     <message>
         <source>Do not show this message again</source>
-        <translation type="unfinished"></translation>
+        <translation>Tega sporočila ne kaži več</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
@@ -4847,6 +5375,10 @@ Always take this action</source>
     <message>
         <source>Do not check it when starting Kingsoft Office next time</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Norwegian (BokmÃ¥l)</source>
+        <translation>Norveščina (Bokmal)</translation>
     </message>
     <message>
         <source>The selected dict has been deleted, please select another dict.</source>
@@ -4882,18 +5414,18 @@ The settings will take effect after restarting the application.</source>
     <name>ThemeSchemeWidget</name>
     <message>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>privzeto</translation>
     </message>
 </context>
 <context>
     <name>TreeViewTemp</name>
     <message>
         <source>File Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Datotečna mapa</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Predloge</translation>
     </message>
 </context>
 <context>
@@ -4904,19 +5436,23 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>Copyright </source>
+        <translation>Avtorske pravice</translation>
+    </message>
+    <message>
+        <source>1988-2013 Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse pravice pridržane.</translation>
     </message>
     <message>
         <source>This product is licensed to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenco za uporabo tega izdelka ima:</translation>
     </message>
     <message>
         <source>Product ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID izdelka:</translation>
     </message>
     <message>
         <source>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -4926,26 +5462,22 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>&amp;Tech Support...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tehnična podpora...</translation>
     </message>
 </context>
 <context>
     <name>compressPictures</name>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Stisni slike</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi za</translation>
     </message>
     <message>
         <source>&amp;Select pictures</source>
@@ -4953,27 +5485,27 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;All pictures in document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vse slike v dokumentu</translation>
     </message>
     <message>
         <source>Change resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni ločljivost</translation>
     </message>
     <message>
         <source>&amp;Web/Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Splet ali zaslon</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Na&amp;tisni</translation>
     </message>
     <message>
         <source>&amp;No change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Brez sprememb</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
@@ -4981,14 +5513,14 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>D&amp;elete cropped areas of pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;zbriši odrezana področja slik</translation>
     </message>
 </context>
 <context>
     <name>creditsDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogovorno okno</translation>
     </message>
 </context>
 <context>
@@ -5006,7 +5538,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Translation Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Smer prevoda</translation>
     </message>
     <message>
         <source>Traditional Chinese to &amp;Simplified Chinese</source>
@@ -5018,7 +5550,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Translation Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevajalska enota</translation>
     </message>
     <message>
         <source>Translation by &amp;Character</source>
@@ -5030,7 +5562,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi za</translation>
     </message>
     <message>
         <source>W&amp;hole Document</source>
@@ -5045,102 +5577,103 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>kxDlgHyperlink</name>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperpovezava</translation>
     </message>
     <message>
         <source>Link to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezava:</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo &amp;za prikaz:</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasl&amp;onski namig...</translation>
     </message>
     <message>
         <source>E&amp;xisting File or Web Page</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;bstoječa datoteka ali spletna stran</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mesto v tem
+dokumentu</translation>
     </message>
     <message>
         <source>Email Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumb za E-mail</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;E-poštni naslov</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstran&amp;i povezavo</translation>
     </message>
     <message>
         <source>Addr&amp;ess:</source>
-        <translation type="unfinished"></translation>
+        <translation>Na&amp;slov:</translation>
     </message>
     <message>
         <source>&amp;E-mail address:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-poš&amp;tni naslov:</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"></translation>
+        <translation>Z&amp;adeva:</translation>
     </message>
     <message>
         <source>Re&amp;cently used e-mail addresses:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nedavno uporabljeni e-poštni naslovi:</translation>
     </message>
 </context>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezik</translation>
     </message>
     <message>
         <source>Available Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Označeno besedilo je:</translation>
     </message>
     <message>
         <source>The speller automatically use dictonaries of the selected language,if available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Črkovalnik in ostala orodja za preverjanje samodejno uporabljajo slovarje izbranega jezika, če so na voljo.</translation>
     </message>
     <message>
         <source>Set as default</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi kot privzeto</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Več</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Namesti</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
     <name>pasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebno lepljenje</translation>
     </message>
     <message>
         <source>Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvor:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>&amp;As:</source>
@@ -5152,70 +5685,70 @@ Document</source>
     </message>
     <message>
         <source>&amp;Display as icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri&amp;kaži kot ikono</translation>
     </message>
     <message>
         <source>Change &amp;Icon...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zamenjaj ikono...</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prilepi</translation>
     </message>
     <message>
         <source>Paste &amp;Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri&amp;lepi povezavo</translation>
     </message>
 </context>
 <context>
     <name>tpropertydlg</name>
     <message>
         <source>property</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnost</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta:</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesto:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost:</translation>
     </message>
     <message>
         <source>Created:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvarjena:</translation>
     </message>
     <message>
         <source>MS-DOS file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>MS-DOS ime:</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenjena:</translation>
     </message>
     <message>
         <source>Accessed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabljena:</translation>
     </message>
     <message>
         <source>Attributes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributi:</translation>
     </message>
     <message>
         <source>&amp;Read only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo za &amp;branje</translation>
     </message>
     <message>
         <source>Hi&amp;dden</source>
@@ -5227,11 +5760,11 @@ Document</source>
     </message>
     <message>
         <source>&amp;System</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sistemska</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Povzetek</translation>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>
@@ -5239,15 +5772,15 @@ Document</source>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zadeva:</translation>
     </message>
     <message>
         <source>&amp;Keyword:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ključna beseda:</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Naslov:</translation>
     </message>
     <message>
         <source>C&amp;ompany:</source>
@@ -5271,15 +5804,15 @@ Document</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ime:</translation>
     </message>
     <message>
         <source>ADD</source>
-        <translation type="unfinished"></translation>
+        <translation>DODAJ</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -5287,95 +5820,95 @@ Document</source>
     </message>
     <message>
         <source>Checked by</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveril</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Stranka</translation>
     </message>
     <message>
         <source>Date completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum dokončanja</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddelek</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinacija</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Urednik</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Združi</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezik</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisarna</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnik</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvor</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stanje</translation>
     </message>
     <message>
         <source>Purpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Namen</translation>
     </message>
     <message>
         <source>Forward to</source>
-        <translation type="unfinished"></translation>
+        <translation>Posreduj</translation>
     </message>
     <message>
         <source>Matter</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadeva</translation>
     </message>
     <message>
         <source>&amp;Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>V&amp;rsta:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Številka</translation>
     </message>
     <message>
         <source>Whether or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Da ali ne</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vrednost:</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Da</translation>
     </message>
     <message>
         <source>N&amp;o</source>
@@ -5387,22 +5920,22 @@ Document</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta</translation>
     </message>
 </context>
 <context>
     <name>updateMessageDlg</name>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodobitev</translation>
     </message>
     <message>
         <source>New version is prepared. Would you like to get it now?</source>
@@ -5410,22 +5943,22 @@ Document</source>
     </message>
     <message>
         <source>Ignore this version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoriraj to različico.</translation>
     </message>
 </context>
 <context>
     <name>wordartdlg</name>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArtova galerija</translation>
     </message>
     <message>
         <source>Select a &amp;WordArt style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi slog za &amp;WordArt:</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Predogled</translation>
     </message>
 </context>
 </TS>

@@ -230,7 +230,7 @@
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation>Datei hochladen...</translation>
+        <translation type="obsolete">Datei hochladen...</translation>
     </message>
 </context>
 <context>
@@ -317,23 +317,23 @@
     <name>KMainWindow</name>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;ximieren</translation>
     </message>
     <message>
         <source>Unma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Rückma&amp;ximieren</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi&amp;nimieren</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Exit</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutze System &amp;Titelbar</translation>
     </message>
 </context>
 <context>

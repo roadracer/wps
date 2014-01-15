@@ -2470,7 +2470,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>选择窗格</translation>
+        <translation type="obsolete">选择窗格</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2608,6 +2608,14 @@ On</source>
     <message>
         <source>Change Version</source>
         <translation>切换版本</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished">轻地址</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -3299,7 +3307,7 @@ Slide</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>选择窗格</translation>
+        <translation type="obsolete">选择窗格</translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -6150,6 +6158,10 @@ On</source>
         <translation>新手指引</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>WPS通行证</translation>
     </message>
@@ -6694,11 +6706,27 @@ On</source>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation>插入列</translation>
+        <translation type="obsolete">插入列</translation>
+    </message>
+    <message>
+        <source>Insert Columns Left</source>
+        <translation type="unfinished">在左侧插入列</translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation type="unfinished">在右侧插入列</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>插入行</translation>
+        <translation type="obsolete">插入行</translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation type="unfinished">在上方插入行</translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
+        <translation type="unfinished">在下方插入行</translation>
     </message>
     <message>
         <source>Insert Tab</source>
@@ -6713,8 +6741,20 @@ On</source>
         <translation>用户反馈</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>从快盘打开</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -6730,7 +6770,7 @@ On</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -6759,6 +6799,10 @@ On</source>
     <message>
         <source>KingsoftOffice</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KingsoftOffice_KSO</source>
+        <translation type="unfinished">KingsoftOffice</translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -7165,6 +7209,10 @@ Master</source>
     <message>
         <source>Symbol</source>
         <translation>符号</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished">表格</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -7973,6 +8021,14 @@ AddIns</source>
     <message>
         <source>Change Version</source>
         <translation>切换版本</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished">轻地址</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -11218,6 +11274,10 @@ Other Window</source>
         <translation>新手指引</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>WPS通行证</translation>
     </message>
@@ -12710,6 +12770,17 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <message>
         <source>KOSCloudInformationTip Title</source>
         <translation>新手指引</translation>
+    </message>
+</context>
+<context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished">扫一下二维码分享到手机；贴到微信或米聊大家编辑。</translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished">10秒钟！把文档：</translation>
     </message>
 </context>
 <context>
@@ -14516,8 +14587,20 @@ Click the arrow to choose more outline styles.</source>
         <translation>用户反馈</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>从快盘打开</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -14533,7 +14616,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -14722,6 +14805,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Clipboard Pane</source>
         <translation>剪贴板</translation>
+    </message>
+    <message>
+        <source>CloudLink</source>
+        <translation type="unfinished">文档分享</translation>
     </message>
     <message>
         <source>ColorSheme</source>
@@ -14919,7 +15006,7 @@ Slide</source>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>@我的消息</translation>
+        <translation type="obsolete">@我的消息</translation>
     </message>
     <message>
         <source>New</source>
@@ -15030,8 +15117,12 @@ Slide</source>
         <translation>标尺</translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished">分享</translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>消息</translation>
+        <translation type="obsolete">消息</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -15312,6 +15403,14 @@ Slide</source>
         <translation>切换账户</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation>未登录</translation>
     </message>
@@ -15321,7 +15420,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -15531,8 +15630,16 @@ Slide</source>
         <translation>切换账户</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation>注销</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>KOS User Login</source>
@@ -15540,7 +15647,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Login</source>

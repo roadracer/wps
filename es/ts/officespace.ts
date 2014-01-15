@@ -2,21 +2,157 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
 <context>
+    <name>KActiveDialogAtStartup</name>
+    <message>
+        <source>https://vip.wps.cn/openapi/card/activate</source>
+        <translation>https://vip.wps.cn/openapi/card/activate</translation>
+    </message>
+</context>
+<context>
     <name>KBeforeLoginTipWidget</name>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>qq login</source>
+        <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sina webo login</source>
+        <source>webHomeLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>wps password logn</source>
+        <source>introduce</source>
+        <translation>introducir</translation>
+    </message>
+    <message>
+        <source>homepage link of qingbangong</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>help link of qingbangong</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileStateItem</name>
+    <message>
+        <source>nologin, check fail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>nologin, upload fail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is not belong to current user</source>
+        <translation>el archivo no pertenece al usuario actual</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileStatePanel</name>
+    <message>
+        <source>window_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>status</source>
+        <translation>estado</translation>
+    </message>
+    <message>
+        <source>qingdizhi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation>actualizar</translation>
+    </message>
+    <message>
+        <source>filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>user cancel task</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has new version, please check on cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has new version, please refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>checking new file version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>uploading to cloud server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file has been synced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sync ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>default error message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloud fileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloud dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileUpdateView</name>
+    <message>
+        <source>UpdateNewVersionView</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>clickLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>tipLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>some one update document, click refresh.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh  cloud document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>some one updated document, click check.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check cloud document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -28,11 +164,11 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño:</translation>
     </message>
     <message>
         <source>modifyTime:</source>
@@ -64,7 +200,7 @@
     </message>
     <message>
         <source>Explore Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorar versiones</translation>
     </message>
     <message>
         <source>Login klive before auto backup.</source>
@@ -128,30 +264,37 @@
     </message>
 </context>
 <context>
+    <name>KCreateCloudLinkDlg</name>
+    <message>
+        <source>Sure you want to cancel the emission qing address?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KFileActionManager</name>
     <message>
         <source>Create new folder</source>
         <comment>create new folder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Crear nueva carpeta</translation>
     </message>
 </context>
 <context>
     <name>KFileListView</name>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>Delete file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar archivo</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos; files?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar &apos;%1&apos; archivos?</translation>
     </message>
     <message>
         <source>Delete many objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar muchos objetos</translation>
     </message>
 </context>
 <context>
@@ -168,7 +311,7 @@
     <message>
         <source>Changing the file suffix may lead to file opening failure!
 Are you sure to change?</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Cambiar la extensión del archivo puede producir un fallo de apertura! ¿Está seguro de que desea cambiarla?</translation>
     </message>
     <message>
         <source>rename</source>
@@ -177,18 +320,18 @@ Are you sure to change?</source>
     <message>
         <source>The file name cannot be empty !</source>
         <comment>The file name cannot been empty!</comment>
-        <translation type="unfinished"></translation>
+        <translation>¡El nombre del archivo no puede estar vacío!</translation>
     </message>
     <message>
         <source>The file name already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡El nombre del archivo ya existe!</translation>
     </message>
 </context>
 <context>
     <name>KFileViewPage</name>
     <message>
         <source>Save to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar en la nube</translation>
     </message>
     <message>
         <source>Back to previous directory</source>
@@ -201,7 +344,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos en línea</translation>
     </message>
     <message>
         <source>Upward directory</source>
@@ -209,7 +352,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Create new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear nueva carpeta</translation>
     </message>
     <message>
         <source>&quot;view&quot; menu</source>
@@ -229,7 +372,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -281,7 +424,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>F1</source>
-        <translation type="unfinished"></translation>
+        <translation>F1</translation>
     </message>
     <message>
         <source>Rena&amp;me</source>
@@ -289,7 +432,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <source>R&amp;efresh</source>
@@ -301,7 +444,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cut the current selection&apos;s contents to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar el contenido de la selección actual al portapapeles</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -309,7 +452,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Copy the current selection&apos;s contents to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar el contenido de la selección actual al portapapeles</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
@@ -317,7 +460,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Paste the clipboard&apos;s contents into the current selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegarar el contenido del portapapeles en la selección actual</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -325,7 +468,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Delete the current selection&apos;s contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar la selección de contenido actual</translation>
     </message>
     <message>
         <source>D&amp;irect Delete</source>
@@ -337,7 +480,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Select all the files!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Seleccionar todos los archivos!</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -353,11 +496,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <source>Close the dialog!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Cerrar el diálogo!</translation>
     </message>
     <message>
         <source>Create Quick &amp;Link</source>
@@ -389,7 +532,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Alt+Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Arriba</translation>
     </message>
     <message>
         <source>Go up directory</source>
@@ -405,31 +548,19 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Updating netword status, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando estado en línea, por favor espere...</translation>
     </message>
     <message>
         <source>File %1 does not exist .</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please save groupfile in group.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo %1 no existe .</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <source>File name too long, please enter a name smaller than %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File name error, please enter a correct file name format.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 already exists, are you sure you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre del archivo es demasiado largo, por favor introduzca un nombre menor que %1.</translation>
     </message>
     <message>
         <source>Confirm to Save As</source>
@@ -437,7 +568,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Loading files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando archivos, por favor espere...</translation>
     </message>
     <message>
         <source>&amp;Sort Mode</source>
@@ -449,15 +580,15 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
@@ -469,7 +600,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>The directory is empty !</source>
-        <translation type="unfinished"></translation>
+        <translation>¡El directorio está vacío!</translation>
     </message>
     <message>
         <source>%1The above file name is invalid !</source>
@@ -477,7 +608,31 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Group</source>
+        <translation>Grupo</translation>
+    </message>
+    <message>
+        <source>help</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File %1 is not existence .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name error, please enter a correct format file name.</source>
+        <translation>Error de nombre de archivo, por favor introduzca un formato correcto de nombre de archivo.</translation>
+    </message>
+    <message>
+        <source>%1 already exists, Sure you want to replace it?</source>
+        <translation>%1 ya existe, ¿está seguro de que desea reemplazarlo?</translation>
+    </message>
+    <message>
+        <source>New Save error, you could replace save in current view only.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get Files Error!</source>
+        <translation>¡Error al obtener archivos!</translation>
     </message>
 </context>
 <context>
@@ -488,13 +643,32 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Save to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar en la nube</translation>
     </message>
 </context>
 <context>
     <name>KLiveSvr</name>
     <message>
         <source>please login kuaipan</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOpenCloudLinkOKTip</name>
+    <message>
+        <source>看不见的标题</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;open_ok_tip_1&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;open_ok_tip_2&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>i_know_and_never_show_again</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -538,17 +712,70 @@ Are you sure to change?</source>
     </message>
 </context>
 <context>
+    <name>KSendCloudLinkOKTip</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;send_ok_tip_1&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;send_ok_tip_2&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>never_show_again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check_my_cloudlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckUploadDlg</name>
+    <message>
+        <source>commit error, please retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>commit ok, will uploading at background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking upload, Please wait..</source>
+        <translation>Comprobando subida, por favor espere...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckUpload</name>
+    <message>
+        <source>Committing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking upload, Please wait..</source>
+        <translation>Comprobando subida, por favor espere...</translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgNewFolder</name>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva carpeta</translation>
     </message>
     <message>
         <source>&amp;Input new FolderName:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -557,7 +784,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -568,15 +795,15 @@ Are you sure to change?</source>
     <name>KxDlgSyncProcess</name>
     <message>
         <source>Synchronize progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar progreso</translation>
     </message>
     <message>
         <source>Synchronizing, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizando, por favor espere...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -584,17 +811,17 @@ Are you sure to change?</source>
     <message>
         <source>Modified Date</source>
         <comment>description for content mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de modificación</translation>
     </message>
     <message>
         <source>Size</source>
         <comment>description for content mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>description for content mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>file manage</source>
@@ -609,7 +836,7 @@ Are you sure to change?</source>
     <message>
         <source>Group</source>
         <comment>Group tab in filedialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>Save backup file to File Safe.</source>
@@ -618,16 +845,16 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Drive</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <source>File Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de archivo</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -636,70 +863,95 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Unknown</source>
+        <translation>Desconocido</translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <comment>FolderType</comment>
+        <translation>Espacio privado</translation>
+    </message>
+    <message>
+        <source>Qing Address</source>
+        <comment>FolderType</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Group</source>
-        <comment>Match Windows Explorer</comment>
-        <translation type="unfinished"></translation>
+        <source>Send Address</source>
+        <comment>FolderType</comment>
+        <translation>Enviar dirección</translation>
+    </message>
+    <message>
+        <source>Receive Address</source>
+        <comment>FolderType</comment>
+        <translation>Recibir dirección</translation>
+    </message>
+    <message>
+        <source>My Group</source>
+        <comment>FolderType</comment>
+        <translation>Mi grupo</translation>
+    </message>
+    <message>
+        <source>Normal Group</source>
+        <comment>FolderType</comment>
+        <translation>Grupo normal</translation>
     </message>
     <message>
         <source>Group Folder</source>
-        <comment>Match Windows Explorer</comment>
-        <translation type="unfinished"></translation>
+        <comment>FolderType</comment>
+        <translation>Carpeta de grupo</translation>
     </message>
 </context>
 <context>
     <name>KxFileSystemModel</name>
     <message>
         <source>%1 TB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 TB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bytes</translation>
     </message>
     <message>
         <source>&lt;b&gt;The file &quot;%1&quot; is open.&lt;/b&gt;&lt;p&gt;Please close the file and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;El archivo &quot;%1&quot; está abierto.&lt;/b&gt;&lt;p&gt;Por favor, cierre el archivo e inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>File is being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo está siendo usado.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>All other platforms</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de modificación</translation>
     </message>
 </context>
 <context>
@@ -730,7 +982,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>I known</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sé</translation>
     </message>
 </context>
 <context>
@@ -745,18 +997,18 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>I known</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sé</translation>
     </message>
 </context>
 <context>
     <name>KxMovieButton</name>
     <message>
         <source>Refresh file list</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar lista de archivos</translation>
     </message>
     <message>
         <source>Synchronizing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizando...</translation>
     </message>
 </context>
 <context>
@@ -768,11 +1020,11 @@ Are you sure to change?</source>
     <message>
         <source>The file name must not contain any of the characters:
       \ / : * ? &quot; &lt; &gt; | !</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre del archivo no debe contener ninguno de los caracteres:       \ / : * ? &quot; &lt; &gt; | !</translation>
     </message>
     <message>
         <source>The file name already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡El nombre del archivo ya existe!</translation>
     </message>
     <message>
         <source>new foler error:%1</source>
@@ -780,13 +1032,9 @@ Are you sure to change?</source>
     </message>
 </context>
 <context>
-    <name>KxTpOfficeSpaceBaseWidget</name>
+    <name>KxTpCloudLinkWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>about:blank</source>
+        <source>sending cloudlink failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -794,27 +1042,27 @@ Are you sure to change?</source>
     <name>QObject</name>
     <message>
         <source>&apos;%1&apos; exists, can&apos;t complete the operation</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; existe, no se puede completar la operación</translation>
     </message>
     <message>
         <source>Are you sure you want to forever delete &apos;%1&apos; files?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar para siempre &apos;%1&apos; archivos?</translation>
     </message>
     <message>
         <source>Delete many objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar muchos objetos</translation>
     </message>
     <message>
         <source>Can&apos;t complete the operation for &apos;%1&apos; is write protected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede completar la operación para &apos;%1&apos;, está protegido por contraseña.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;permanently?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar &apos;%1&apos; permanentemente?</translation>
     </message>
     <message>
         <source>Delete file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar archivo</translation>
     </message>
     <message>
         <source>Failed to delete the following files! Please check if the files are being used.</source>
@@ -824,12 +1072,27 @@ Are you sure to change?</source>
         <source>Failed to cut the following files! Please check if the files are being used.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>qingbangong</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kGuidBubble</name>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSHireCommand</name>
+    <message>
+        <source>Authorization update</source>
+        <translation>Actualización de autorización</translation>
+    </message>
+    <message>
+        <source>Business authorization</source>
+        <translation>Autorización de negocio</translation>
     </message>
 </context>
 <context>

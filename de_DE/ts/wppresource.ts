@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2391,7 +2391,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished">Auswahlfeld</translation>
+        <translation type="obsolete">Auswahlfeld</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2524,6 +2524,14 @@ On</source>
     </message>
     <message>
         <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2715,7 +2723,7 @@ On</source>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation Hilfe</translation>
     </message>
 </context>
 <context>
@@ -3051,7 +3059,7 @@ On</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus aktueller Folie</translation>
     </message>
     <message>
         <source>From Current Slide</source>
@@ -3175,7 +3183,7 @@ Slide</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Objekt auswählen</translation>
+        <translation type="obsolete">Objekt auswählen</translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -3215,7 +3223,7 @@ Slide</source>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished">Schrift ersetzen</translation>
+        <translation>Schrift ersetzen</translation>
     </message>
     <message>
         <source>Right</source>
@@ -3251,7 +3259,7 @@ Slide</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished">Auswahlfeld</translation>
+        <translation>Auswahlfeld</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -3345,39 +3353,39 @@ Slide</source>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr Nummerierungen</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahl</translation>
     </message>
 </context>
 <context>
@@ -5899,6 +5907,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6443,11 +6455,27 @@ On</source>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation>Spalten einfügen</translation>
+        <translation type="obsolete">Spalten einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Columns Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>Zeilen einfügen</translation>
+        <translation type="obsolete">Zeilen einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -6458,7 +6486,19 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6471,10 +6511,6 @@ On</source>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6495,6 +6531,10 @@ On</source>
     </message>
     <message>
         <source>KingsoftOffice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KingsoftOffice_KSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6894,6 +6934,10 @@ Folienmaster</translation>
     <message>
         <source>Symbol</source>
         <translation>Symbol</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -7692,6 +7736,14 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10827,6 +10879,10 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12306,6 +12362,17 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
@@ -12934,7 +13001,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Drucken</translation>
+        <translation>Drucken</translation>
     </message>
 </context>
 <context>
@@ -14081,7 +14148,19 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14094,10 +14173,6 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15051,6 +15126,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="obsolete">Fenster schließen</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Color</source>
         <translation type="obsolete">Farbe</translation>
     </message>
@@ -15957,10 +16036,6 @@ Folie</translation>
         <translation type="obsolete">Filme und Sounds</translation>
     </message>
     <message>
-        <source>MsgAtMe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New</source>
         <translation>Neu</translation>
     </message>
@@ -16349,7 +16424,7 @@ Folie</translation>
         <translation>Lineal-Popup-Menü</translation>
     </message>
     <message>
-        <source>S MsgAtMe</source>
+        <source>S CloudLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17243,7 +17318,7 @@ Folie</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar ausblenden</translation>
     </message>
     <message>
         <source>Home</source>
@@ -17262,15 +17337,19 @@ Folie</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17295,7 +17374,7 @@ Folie</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Druckvorschau</translation>
+        <translation>Druckvorschau</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -17315,15 +17394,15 @@ Folie</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar einblenden</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar anzeigen / ausblenden</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienmaster</translation>
     </message>
     <message>
         <source>Slide Show</source>
@@ -17343,7 +17422,7 @@ Folie</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellen-Extras</translation>
     </message>
     <message>
         <source>View</source>
@@ -17371,7 +17450,7 @@ Folie</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Work space</source>
@@ -17383,7 +17462,7 @@ Folie</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>testRbTabWidget</translation>
     </message>
 </context>
 <context>
@@ -17754,7 +17833,7 @@ Folie</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar ausblenden</translation>
     </message>
     <message>
         <source>Home</source>
@@ -17821,15 +17900,19 @@ Folie</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Login</source>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS View UserInfo</source>
+        <source>KOS User Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17926,7 +18009,7 @@ Folie</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Öffnen</translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Options</source>
@@ -18006,7 +18089,7 @@ Folie</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished">Druckvorschau</translation>
+        <translation>Druckvorschau</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
@@ -18162,7 +18245,7 @@ Folie</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar einblenden</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
@@ -18413,7 +18496,7 @@ Transition</source>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished">wahr</translation>
+        <translation>wahr</translation>
     </message>
 </context>
 <context>
