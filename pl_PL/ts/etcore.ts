@@ -5,33 +5,36 @@
     <name>et_app</name>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz kalkulacyjny Kingsoft</translation>
     </message>
     <message>
         <source>VBAProject</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt VB</translation>
     </message>
     <message>
         <source>ThisWorkbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten skoroszyt</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Moduł</translation>
     </message>
     <message>
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten dokument zostanie zapisany w formacie &quot;%s&quot;, czy chcesz kontynuować?
+(%s)</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument jest blokowany przez inną aplikację. Czy chcesz otworzyć go w trybie tylko do odczytu?
+
+(%s)</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Spreadsheets opening this file.
@@ -40,7 +43,12 @@ Please try one of the following.
 •Make sure there is enough memory and disk space.	
 •Make sure this file is recognizable format.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas otwierania pliku przez arkusz kalkulacyjny Kingsoft.
+Spróbuj następujących rzeczy.
+•Upewnij się, że masz dostęp do pliku lub dysku..
+•Upewnij się, że posiadasz wymaganą ilość pamięci i miejsca na dysku.	
+•Upewnij się, że plik jest w rozpoznawalnym formacie.
+(%s)</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
@@ -48,7 +56,11 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz kalkulacyjny Kingsoft, nie może otworzyć tego pliku, ponieważ użytkownik nie posiada praw dostępu.
+Spróbuj jednej z tych rzeczy.
+•Przełącz się na innego użytkownika.
+•Poproś twórcę pliku o zmianę dostępu do pliku dla Twojego użytkownika.
+(%s)</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Spreadsheets opening this file.
@@ -56,73 +68,83 @@ Please try one of the following.
 •The current version of Kingsoft Spreadsheets does not support this file&apos;s permission contorl level, please update to the latest version.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas otwierania pliku przez arkusz kalkulacyjny Kingsoft.
+Spróbuj następujących rzeczy.
+•Aktualna wersja arkusza kalkulacyjnego Kingsoft nie wspiera atrybutów dostępu do pliku, proszę zaktualizuj program do najnowszej wersji.
+•Poproś twórcę pliku o zmianę poziomu dostępu na pełny dostęp.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot open this file, because the password is not correct.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz kalkulacyjny Kingsoft nie mógł otworzyć tego pliku, ponieważ podane hasło jest nie poprawne.
+(%s)</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wspierany typ szyfrowania pliku . Proszę skontaktuj się z twórcą.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz kalkulacyjny Kingsoft nie może zapisać lub utworzyć pliku. Proszę, upewnij się, że docelowy dysk nie jest pełny, oraz nie jest uszkodzony.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot save this file due to a file permission error.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz kalkulacyjny Kingsoft nie mógł zapisać pliku spowodu błędów dostępu.
+(%s)</translation>
     </message>
     <message>
         <source>Try to save again?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spróbować zapisać ponownie?
+(%s)</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten plik był otwarty w trybie tylko do odczytu. Czy nadal chcesz go otworzyć w trybie tylko do odczytu ?
+(%s)</translation>
     </message>
     <message>
         <source>All Kingsoft Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki arkusza kalkulacyjnego Kingsoft(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
     </message>
     <message>
         <source>Xls</source>
-        <translation type="unfinished"></translation>
+        <translation>Xls</translation>
     </message>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki XML</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz zapisać wykonane zmiany do &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>(Read Only)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Tylko do odczytu)</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation>*</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; jest tylko do odczytu.  Jeżeli chcesz zapisać kopię,  Kliknij OK,  i nadaj nową nazwę dla tego skoroszytu w oknie Zapisz jako.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik &quot;%s&quot; posiada nie wspierany format. Kliknij OK i podaj inny typ w oknie Zapisz jako.</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
@@ -130,7 +152,11 @@ Please try one of the following.
 •Save it as text file. 
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas zapisu pliku &quot;%s&quot; przez arkusz kalkulacyjny Kingsoft. Proszę, spróbuj następujących rzeczy. 
+•Cofnij poprzednią operację i zapisz. 
+•Zapisz jako plik tekstowy. 
+•Skopiuj/Wklej zawartość do nowego dokumentu. 
+•Zrezygnuj z zmian w pliku.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
@@ -138,19 +164,19 @@ Please try one of the following.
     </message>
     <message>
         <source>Cannot save the file due to the full disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać pliku, dysk zapełniony.</translation>
     </message>
     <message>
         <source>Cannot save the file, because the file location you want to save is write protected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać pliku, lokacja docelowa posiada blokadę zapisu.</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwieranie pliku, proszę czekać...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisywanie w trakcie, proszę czekać...</translation>
     </message>
     <message>
         <source>To prevent possible losing data, Kingsoft Spreadsheets cannot shove nonblank cells off the worksheet.
@@ -166,15 +192,15 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     </message>
     <message>
         <source>The number format you entered is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podany format liczbowy jest nieprawidłowy.</translation>
     </message>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Książka</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz</translation>
     </message>
     <message>
         <source>%s is an invalid workbook name.</source>
@@ -182,7 +208,7 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     </message>
     <message>
         <source>%s is an invalid worksheet name.</source>
-        <translation type="unfinished"></translation>
+        <translation>%s jest nieprawidłową nazwą skoroszytu.</translation>
     </message>
     <message>
         <source>At least one visible worksheet must be contained in a workbook.
@@ -192,11 +218,11 @@ If you want to hide, delete, or move the selected sheet(s), you must first inser
     </message>
     <message>
         <source>0.001f</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.001f</translation>
     </message>
     <message>
         <source>Unknown User</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieznany użytkownik</translation>
     </message>
     <message>
         <source>Courier</source>
@@ -204,11 +230,11 @@ If you want to hide, delete, or move the selected sheet(s), you must first inser
     </message>
     <message>
         <source>Cannot insert, because there are merged cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wstawić, z powodu scalonych komórek.</translation>
     </message>
     <message>
         <source>Cannot delete, because there are merged cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można usunąć, z powodu scalonych komórek.</translation>
     </message>
     <message>
         <source>The selection contains multiple data values. Only the data in the upper-left corner will be kept when merging into one cell.</source>
@@ -1092,7 +1118,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit</translation>
     </message>
     <message>
         <source>Subproblem</source>
@@ -1152,15 +1178,15 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolny</translation>
     </message>
     <message>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation>Górny</translation>
     </message>
     <message>
         <source>Reduced</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmniejszony</translation>
     </message>
     <message>
         <source>Coefficient</source>
@@ -1172,11 +1198,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Increase</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwiększ</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmniejsz</translation>
     </message>
     <message>
         <source>R.H. Sid</source>
@@ -1184,23 +1210,23 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Cena</translation>
     </message>
     <message>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation>Koszt</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Cień</translation>
     </message>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Ograniczenie</translation>
     </message>
     <message>
         <source>Trail Solution</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomocnicze rozwiązanie</translation>
     </message>
     <message>
         <source>Setting Up Problem...</source>
@@ -1495,11 +1521,12 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>
 Value: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Wartość:</translation>
     </message>
     <message>
         <source>Charts</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykresy</translation>
     </message>
 </context>
 <context>
@@ -1677,11 +1704,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     <name>et_dbe</name>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|Kingsoft Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki(*.*)|*.*|Wszystkie źródła danych(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Bazy danych programu Akcess(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Pliki Excel(*.xls)|*.xls|Pliki Arkusza kalkulacyjnego Kingsoft(*.et)|*.et|CSV Pliki Tekstowe(*.csv)|*.csv|Pliki Tekstowe(*.txt)|*.txt||</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source.The connection string is blank.The string you typed is not corret.The generated connection failed.</source>
