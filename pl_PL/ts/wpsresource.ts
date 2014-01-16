@@ -2224,6 +2224,7 @@ scalonych danych</translation>
     </message>
     <message>
         <source>No Border</source>
+        <translation></translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -2231,6 +2232,7 @@ scalonych danych</translation>
     </message>
     <message>
         <source>Right Border</source>
+        <translation></translation>
     </message>
     <message>
         <source>Shading</source>
@@ -3226,7 +3228,7 @@ Włącz</translation>
     </message>
     <message>
         <source>All Borders</source>
-       	<translation type="unfinished"></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -3614,6 +3616,7 @@ formatów</translation>
     </message>
     <message>
         <source>Comments</source>
+        <translation></translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -7640,7 +7643,6 @@ Włącz</translation>
         <translation>Plan dokumentu</translation>
     </message>
     <message>
-        <translation>Ochrona dokumentu</translation>
         <source>Draw
 Diagonal Line in Cell</source>
         <translation>Rysuj
@@ -8546,6 +8548,7 @@ Ukośna linia w komórce</translation>
     </message>
     <message>
         <source>Cross Border</source>
+        <translation></translation>
     </message>
     <message>
         <source>Draw
@@ -9184,6 +9187,7 @@ Ukośna linia w komórce</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
+        <translation></translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -9720,6 +9724,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>No Border</source>
+        <translation></translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -9823,6 +9828,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Top Border</source>
+        <translation></translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -16549,12 +16555,14 @@ Kliknij strzałkę, aby wybrać szczegółowe ustawienia dla wybranego obiektu.<
 </context>
 <context>
     <name>tips.ProtectDocument</name>
-		<source>Document Protection</source>
+    <message>
+        <source>Document Protection</source>
         <translation>Ochrona dokumentu</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
         <translation>Pomóż ograniczyć innym osobom możliwości wprowadzania pewnego typu zmian edycyjnych lub zmian w formatowaniu dokumentu przez określenie hasła.</translation>
+    </message>
 </context>
 <context>
     <name>tips.RB_Clipboard</name>
@@ -18508,7 +18516,6 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
         <translation>Przenieś w górę</translation>
     </message>
     <message>
-
         <source>New</source>
         <translation>Nowy</translation>
     </message>
@@ -18991,7 +18998,6 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     </message>
     <message>
         <source>Window Close</source>
-        <translation>Zamknij okno</translation>
         <translation>Zamknij okno</translation>
     </message>
     <message>
