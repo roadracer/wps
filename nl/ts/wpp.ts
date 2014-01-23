@@ -1146,27 +1146,27 @@
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet Cursief</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effecten</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Onderstrepen</translation>
     </message>
     <message>
         <source>Supe&amp;rscript</source>
@@ -1174,7 +1174,7 @@
     </message>
     <message>
         <source>Sh&amp;adow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sch&amp;aduw</translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
@@ -1190,7 +1190,7 @@
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleur:</translation>
     </message>
     <message>
         <source>&amp;Default for new objects</source>
@@ -1312,7 +1312,7 @@
     </message>
     <message>
         <source>&amp;Date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Datum en tijd</translation>
     </message>
     <message>
         <source>&amp;Update automatically</source>
@@ -1368,7 +1368,7 @@
     </message>
     <message>
         <source>&amp;Page number</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paginanummer</translation>
     </message>
 </context>
 <context>
@@ -1436,23 +1436,23 @@
     </message>
     <message>
         <source>&amp;Title</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Titel</translation>
     </message>
     <message>
         <source>Te&amp;xt</source>
-        <translation type="unfinished"></translation>
+        <translation>Te&amp;kst</translation>
     </message>
     <message>
         <source>&amp;Date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Datum</translation>
     </message>
     <message>
         <source>&amp;Slide number</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ianummer</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Voettekst</translation>
     </message>
 </context>
 <context>
