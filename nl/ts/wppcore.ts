@@ -5,55 +5,55 @@
     <name>aeobean</name>
     <message>
         <source>Applause</source>
-        <translation type="unfinished"></translation>
+        <translation>Applause</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl</translation>
     </message>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bom</translation>
     </message>
     <message>
         <source>Breeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Bries</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Camera</translation>
     </message>
     <message>
         <source>Cash register</source>
-        <translation type="unfinished"></translation>
+        <translation>Kassa</translation>
     </message>
     <message>
         <source>Chime</source>
-        <translation type="unfinished"></translation>
+        <translation>Klokkenspel</translation>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"></translation>
+        <translation>Munt</translation>
     </message>
     <message>
         <source>Drum roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Tromgeroffel</translation>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosie</translation>
     </message>
     <message>
         <source>Hammer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamer</translation>
     </message>
     <message>
         <source>Laser</source>
-        <translation type="unfinished"></translation>
+        <translation>Laser</translation>
     </message>
     <message>
         <source>Push</source>
@@ -61,11 +61,11 @@
     </message>
     <message>
         <source>Suction</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuiging</translation>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Typemachine</translation>
     </message>
     <message>
         <source>Voltage</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Wind</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -85,15 +85,15 @@
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Text&lt;Date and Time&gt;</source>
@@ -1888,7 +1888,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
+        <source>Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
