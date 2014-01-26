@@ -486,7 +486,7 @@
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -538,7 +538,7 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art Invoegen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -855,7 +855,7 @@
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe Dia</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -1118,11 +1118,11 @@
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende Pagina</translation>
     </message>
     <message>
         <source>Options</source>
@@ -1130,11 +1130,11 @@
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige Pagina</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
@@ -1146,7 +1146,7 @@
     </message>
     <message>
         <source>Printing Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Printvolgorde</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -1187,11 +1187,11 @@
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig Commentaar</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Commentaar</translation>
     </message>
     <message>
         <source>Next</source>
@@ -1414,7 +1414,7 @@ Master</source>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal Centreren</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -1751,7 +1751,7 @@ Master</source>
     <name>ongmani.ct_animation</name>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animatie</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -1794,7 +1794,7 @@ Master</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -1802,7 +1802,7 @@ Master</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
@@ -2014,11 +2014,11 @@ Master</source>
     </message>
     <message>
         <source>216</source>
-        <translation type="unfinished"></translation>
+        <translation>216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation type="unfinished"></translation>
+        <translation>252</translation>
     </message>
     <message>
         <source>3 pt</source>
@@ -2080,7 +2080,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -2216,7 +2216,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -2224,7 +2224,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -2677,7 +2677,7 @@ Aan</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Serienummer aanschaffen</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3015,7 +3015,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -3023,7 +3023,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Find</source>
@@ -3358,31 +3358,31 @@ Slide</source>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -3453,7 +3453,7 @@ Slide</source>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingen</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
@@ -3497,7 +3497,7 @@ Slide</source>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Film</translation>
     </message>
     <message>
         <source>Object</source>
@@ -3529,7 +3529,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Dianummer</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -3993,7 +3993,7 @@ Slide</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4001,7 +4001,7 @@ Slide</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4284,7 +4284,7 @@ On/Off</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -4304,7 +4304,7 @@ On/Off</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -4893,7 +4893,7 @@ Settings</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettergrootte verkleinen</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
@@ -4921,7 +4921,7 @@ Settings</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4929,7 +4929,7 @@ Settings</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5598,7 +5598,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -5606,7 +5606,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -6648,7 +6648,7 @@ Master</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Map</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -6800,7 +6800,7 @@ Master</source>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Lineaal</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -6940,7 +6940,7 @@ Master</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -7232,7 +7232,7 @@ Master</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -7240,7 +7240,7 @@ Master</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
@@ -7557,7 +7557,7 @@ AddIns</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -7565,7 +7565,7 @@ AddIns</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8229,7 +8229,7 @@ AddIns</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -8237,7 +8237,7 @@ AddIns</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Find</source>
@@ -9228,7 +9228,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -9236,7 +9236,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9525,7 +9525,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -9545,7 +9545,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -10581,7 +10581,7 @@ Other Window</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -10589,7 +10589,7 @@ Other Window</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -12945,7 +12945,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrevLandscape</name>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Set the page layout to landscape in the handouts, notes pages and outline print.</source>

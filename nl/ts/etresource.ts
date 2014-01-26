@@ -486,7 +486,7 @@
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -3275,7 +3275,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -3283,7 +3283,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4596,7 +4596,7 @@ Center</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4604,7 +4604,7 @@ Center</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4855,7 +4855,7 @@ Center</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4863,7 +4863,7 @@ Center</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -6035,7 +6035,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -6043,7 +6043,7 @@ Aan</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -7996,7 +7996,7 @@ AddIns</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -8004,7 +8004,7 @@ AddIns</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9253,7 +9253,7 @@ Center</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -9261,7 +9261,7 @@ Center</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9484,7 +9484,7 @@ Center</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -9492,7 +9492,7 @@ Center</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -10641,7 +10641,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -10649,7 +10649,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -12268,7 +12268,7 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstkleur</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12403,7 +12403,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Functies</translation>
     </message>
 </context>
 <context>
@@ -12421,7 +12421,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Office Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office Galerij</translation>
     </message>
     <message>
         <source>The Kingsoft Office gallery has pictures that you can use, save, or edit.
@@ -12852,7 +12852,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.Legend</name>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>Show or Hide the chart legend.</source>
@@ -12900,7 +12900,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Logical Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Logische Functies</translation>
     </message>
 </context>
 <context>
@@ -13050,7 +13050,7 @@ This is often used to create labels that span multiple columns.</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Functies</translation>
     </message>
 </context>
 <context>
