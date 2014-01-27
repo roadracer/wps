@@ -6,7 +6,8 @@
     <message>
         <source>Slide %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dia %1
+</translation>
     </message>
     <message>
         <source>Notes Page:</source>
@@ -22,11 +23,11 @@
     </message>
     <message>
         <source> Minute</source>
-        <translation type="unfinished"></translation>
+        <translation> Minuut</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconde</translation>
     </message>
     <message>
         <source>Ready to convert, please wait</source>
@@ -38,7 +39,7 @@
     </message>
     <message>
         <source>Start converting</source>
-        <translation type="unfinished"></translation>
+        <translation>Start convertering</translation>
     </message>
 </context>
 <context>
@@ -57,11 +58,11 @@
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Open bestand</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -128,23 +129,23 @@
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>Number slides in the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal dia's in het document</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -156,22 +157,22 @@
     </message>
     <message>
         <source>Text(&amp;T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst(&amp;T)</translation>
     </message>
     <message>
         <source>Table(&amp;L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel(&amp;L)</translation>
     </message>
     <message>
         <source>Picture(&amp;I)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding(&amp;I)</translation>
     </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
     <message>
         <source>The conversion is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>De conversie is voltooid.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -190,7 +191,7 @@
     </message>
     <message>
         <source>The number must be 1, 2, 3, or 4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het nummer moet 1,2,3 of 4 zijn</translation>
     </message>
     <message>
         <source>This is a valid number.
@@ -204,7 +205,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het nummer moet 1 of 2 zijn.</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document(*.wps)</source>
@@ -216,19 +217,19 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>The file &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bestand &quot;</translation>
     </message>
     <message>
         <source>&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;</translation>
     </message>
     <message>
         <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation type="unfinished"></translation>
+        <translation>bestaat al. U kunt het bestand niet opslaan met dezelfde naam als een ander open bestand. Kies een andere naam, of sluit het open bestand voordat het wordt opgeslagen.</translation>
     </message>
 </context>
 </TS>

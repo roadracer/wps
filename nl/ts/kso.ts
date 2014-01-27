@@ -203,7 +203,7 @@ Please check your system settings and ensure the temporary directory under the c
     <name>dguil</name>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished">Alle afbeeldingen(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation>Alle afbeeldingen(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -4306,7 +4306,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Educational material</source>
-        <translation type="unfinished"></translation>
+        <translation>Educatief materiaal</translation>
     </message>
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
@@ -4354,11 +4354,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>. (Period)</source>
-        <translation type="unfinished"></translation>
+        <translation>. (Punt)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (Dubbele punt)</translation>
     </message>
     <message utf8="true">
         <source>— (EmDash)</source>
