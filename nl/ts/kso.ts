@@ -104,15 +104,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoud van het klembord wordt ingevoegd als een OLE-object.</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding (Windows-metabestand)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoud van het klembord wordt ingevoegd als een afbeelding (Windows-metabestand).</translation>
     </message>
     <message>
         <source>Picture (Enhanced Metafile)</source>
@@ -124,35 +124,35 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (PNG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoud van het klembord wordt ingevoegd als PNG afbeelding.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding (JFIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoud van het klembord wordt ingevoegd als een JFIF afbeelding.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding (GIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoud van het klembord wordt ingevoegd als een GIF afbeelding.</translation>
     </message>
     <message>
         <source>Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitmap</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoud van het klembord wordt ingevoegd als een Bitmap afbeelding.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
@@ -160,11 +160,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (JPG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding (JPG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPEG picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoud van het klembord wordt ingevoegd als een JPEG afbeelding.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
@@ -180,7 +180,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
-        <translation type="unfinished"></translation>
+        <translation>De inhoud van het klembord wordt ingevoegd als HTML-opmaak.</translation>
     </message>
     <message>
         <source>MS Office Drawing Object</source>
@@ -192,7 +192,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>FILES</source>
-        <translation type="unfinished"></translation>
+        <translation>BESTANDEN</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
@@ -203,7 +203,7 @@ Please check your system settings and ensure the temporary directory under the c
     <name>dguil</name>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle afbeeldingen(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -647,7 +647,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -703,7 +703,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnen</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -723,15 +723,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Relatief tot pagina</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Relatief tot dia</translation>
     </message>
     <message>
         <source>The value must be between 0% and 500%.</source>
-        <translation type="unfinished"></translation>
+        <translation>De waarde moet tussen 0% en 500% liggen.</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -739,27 +739,27 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>De waarde moet tussen -600 pt en 9600 pt liggen</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer contrast</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>Minder contrast</translation>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer helderheid</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Minder helderheid</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -887,51 +887,51 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>drawing</name>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechthoek</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Afgeronde rechthoek</translation>
     </message>
     <message>
         <source>Oval</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaal</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamant</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijkbenige driehoek</translation>
     </message>
     <message>
         <source>Right Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijkzijdige driehoek</translation>
     </message>
     <message>
         <source>Parallelogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Parallelogram</translation>
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"></translation>
+        <translation>Trapezium</translation>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeshoek</translation>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Achthoek</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Kruis</translation>
     </message>
     <message>
         <source>5-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>5-puntige ster</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -943,7 +943,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentagon</translation>
     </message>
     <message>
         <source>Cube</source>
@@ -951,19 +951,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ballon</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Ster</translation>
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Boog</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijn</translation>
     </message>
     <message>
         <source>Plaque</source>
@@ -1091,15 +1091,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>8-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>8-puntige ster</translation>
     </message>
     <message>
         <source>16-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>16-puntige ster</translation>
     </message>
     <message>
         <source>32-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>32-puntige ster</translation>
     </message>
     <message>
         <source>Rectangular Callout</source>
@@ -1123,15 +1123,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Left Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl-links</translation>
     </message>
     <message>
         <source>Down Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl omlaag</translation>
     </message>
     <message>
         <source>Up Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl omhoog</translation>
     </message>
     <message>
         <source>Left-Right Arrow</source>
@@ -3186,11 +3186,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwart</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Blauw</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
@@ -3202,7 +3202,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruin</translation>
     </message>
     <message>
         <source>Coral</source>
@@ -3402,7 +3402,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rood</translation>
     </message>
     <message>
         <source>Rose</source>
@@ -3762,7 +3762,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>(Show All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Toon alles)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
@@ -4306,7 +4306,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Educational material</source>
-        <translation type="unfinished"></translation>
+        <translation>Educatief materiaal</translation>
     </message>
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
@@ -4318,7 +4318,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Engels (Verenigde Staten)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
@@ -4326,11 +4326,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Japans (Japan)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamees</translation>
     </message>
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
@@ -4354,11 +4354,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>. (Period)</source>
-        <translation type="unfinished"></translation>
+        <translation>. (Punt)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (Dubbele punt)</translation>
     </message>
     <message utf8="true">
         <source>— (EmDash)</source>
@@ -4386,7 +4386,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>New document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw document</translation>
     </message>
     <message>
         <source>Document tab</source>
@@ -4394,11 +4394,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>%s is the current default office software.</source>
-        <translation type="unfinished"></translation>
+        <translation>%s is de huidige standaard kantoorsoftware.</translation>
     </message>
     <message>
         <source>%s is not the current default office software. Are you sure you want to set %s as the default office software?</source>
-        <translation type="unfinished"></translation>
+        <translation>%s is niet de huidige standaard kantoorsoftware. Weet u zeker dat u %s als de standaard kantoorsoftware wilt instellen?</translation>
     </message>
     <message>
         <source>Verifying the serial number, please wait...</source>
@@ -4437,8 +4437,10 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
-To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
-If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
