@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuleer</translation>
     </message>
 </context>
 <context>
@@ -145,7 +145,7 @@
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>en</translation>
     </message>
     <message>
         <source>Preview of format to use when
@@ -258,31 +258,31 @@ condition is true: </source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaar</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Maand</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Dag</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Uur</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuut</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconde</translation>
     </message>
     <message>
         <source>(Select all)</source>
@@ -313,75 +313,75 @@ condition is true: </source>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Vandaag</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Gisteren</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Morgen</translation>
     </message>
     <message>
         <source>This Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze week</translation>
     </message>
     <message>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige week</translation>
     </message>
     <message>
         <source>Next Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende week</translation>
     </message>
     <message>
         <source>This Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze maand</translation>
     </message>
     <message>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige maand</translation>
     </message>
     <message>
         <source>Next Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende maand</translation>
     </message>
     <message>
         <source>This Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit kwartaal</translation>
     </message>
     <message>
         <source>Last Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorig kwartaal</translation>
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgend kwartaal</translation>
     </message>
     <message>
         <source>This Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit jaar</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorig jaar</translation>
     </message>
     <message>
         <source>Next Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgend jaar</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend</translation>
     </message>
     <message>
         <source>Custom...</source>
@@ -401,7 +401,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>No items match your search.</source>
@@ -417,11 +417,11 @@ condition is true: </source>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>En</translation>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Of</translation>
     </message>
     <message>
         <source>Top %1 Items</source>
@@ -623,7 +623,7 @@ condition is true: </source>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden</translation>
     </message>
     <message>
         <source>file is exist in the list.</source>
@@ -690,7 +690,7 @@ condition is true: </source>
     <name>KxApplication</name>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als</translation>
     </message>
 </context>
 <context>
@@ -797,7 +797,7 @@ condition is true: </source>
     </message>
     <message>
         <source>All files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden(*.*)</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -896,23 +896,23 @@ condition is true: </source>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina&apos;s</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>Tab</source>
@@ -920,7 +920,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Header</source>
@@ -936,11 +936,11 @@ condition is true: </source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Open</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle afbeeldingen</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -1068,11 +1068,11 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -1106,7 +1106,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Refers to cells</source>
@@ -1114,7 +1114,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nieuw...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -1149,7 +1149,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Omschrijving</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -1160,11 +1160,11 @@ To keep existing picture, click Cancel button.</source>
     <name>KxDlgCellPasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>&amp;All</source>
@@ -1239,11 +1239,11 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>&amp;New password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nieuw wachtwoord:</translation>
     </message>
     <message>
         <source>&amp;Confirm new password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bevestig nieuw wachtwoord:</translation>
     </message>
 </context>
 <context>
@@ -1254,15 +1254,15 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;3</translation>
     </message>
     <message>
         <source>&amp;Add&gt;&gt;</source>
@@ -1292,7 +1292,7 @@ To keep existing picture, click Cancel button.</source>
     <name>KxDlgConfirmProtectSheet</name>
     <message>
         <source>Confirm Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig wachtwoord</translation>
     </message>
     <message>
         <source>&amp;Reenter password to proceed.</source>
@@ -1377,15 +1377,15 @@ place.(Remember that passwords are case-sensitive.)</source>
     <name>KxDlgCreateGroup</name>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Groep</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rijen</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolommen</translation>
     </message>
 </context>
 <context>
@@ -1419,7 +1419,7 @@ place.(Remember that passwords are case-sensitive.)</source>
     <name>KxDlgCreatePivotTable</name>
     <message>
         <source>Create Pivot Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak draaitabel</translation>
     </message>
     <message>
         <source>Choose the data that you want to analyize</source>
@@ -1472,23 +1472,23 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina&apos;s</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <source>Tab</source>
@@ -1527,11 +1527,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Afsluiten</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -1562,11 +1562,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Entire &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele &amp;rij</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele &amp;kolom</translation>
     </message>
 </context>
 <context>
@@ -1581,15 +1581,15 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;3</translation>
     </message>
 </context>
 <context>
@@ -1600,7 +1600,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Naam:</translation>
     </message>
     <message>
         <source>Data formatting and layout</source>
@@ -1651,7 +1651,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1674,7 +1674,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alles</translation>
     </message>
     <message>
         <source>&amp;Contents</source>
@@ -1861,11 +1861,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel</translation>
     </message>
 </context>
 <context>
@@ -1892,7 +1892,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Bold Italic</source>
@@ -2099,11 +2099,11 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoogte:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Breedte:</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2111,7 +2111,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Crop from</source>
@@ -2139,7 +2139,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>ucCropRight</source>
@@ -2264,11 +2264,11 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Entire &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele &amp;rij</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele &amp;kolom</translation>
     </message>
 </context>
 <context>
@@ -2423,7 +2423,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgNameOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>Default Book Name</source>
@@ -2450,7 +2450,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Titel:</translation>
     </message>
     <message>
         <source>Range</source>
@@ -2466,7 +2466,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wachtwoord...</translation>
     </message>
     <message>
         <source>Modify Range</source>
@@ -2624,7 +2624,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Up</source>
@@ -2632,7 +2632,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
@@ -2884,7 +2884,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur</translation>
     </message>
     <message>
         <source>Standard colors:</source>
@@ -2996,7 +2996,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Default</source>
@@ -3793,7 +3793,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Ne&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieu&amp;w</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -3863,7 +3863,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -3936,7 +3936,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rijen</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
@@ -4029,7 +4029,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>&amp;Remove User</source>
@@ -4203,7 +4203,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
@@ -4254,7 +4254,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -4529,7 +4529,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
@@ -4591,11 +4591,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rijen</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolommen</translation>
     </message>
 </context>
 <context>
@@ -5088,7 +5088,7 @@ protected.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -5106,7 +5106,7 @@ protected.</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>Colors and Lines</source>
@@ -5114,7 +5114,7 @@ protected.</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -5144,11 +5144,11 @@ protected.</source>
     <name>KxEtInputBoxDlg</name>
     <message>
         <source>Number is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer is niet geldig</translation>
     </message>
     <message>
         <source>Text is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst is niet geldig</translation>
     </message>
     <message>
         <source>Logical Value is not valid</source>
@@ -5604,7 +5604,7 @@ printer and your screen.</source>
     <name>KxFormatCellsDlg</name>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -5616,7 +5616,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>Patterns</source>
@@ -5728,7 +5728,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Cell must contain a formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel moet een formule bevatten.</translation>
     </message>
     <message>
         <source>Reference must be to a single cell.</source>
@@ -5740,7 +5740,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Cell must contain a value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel moet een waarde bevatten.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -5829,7 +5829,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden (*.*)</translation>
     </message>
 </context>
 <context>
@@ -6475,7 +6475,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -6829,11 +6829,11 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>Column %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom %1</translation>
     </message>
     <message>
         <source>Row %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rij %1</translation>
     </message>
     <message>
         <source>(%1) %2</source>
@@ -6871,7 +6871,7 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen suggesties)</translation>
     </message>
 </context>
 <context>
@@ -7053,7 +7053,7 @@ t</source>
     </message>
     <message>
         <source>Vertica&amp;l text</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertika&amp;le tekst</translation>
     </message>
     <message>
         <source>Text control</source>
@@ -7117,7 +7117,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertikaal:</translation>
     </message>
     <message>
         <source>Top</source>
@@ -7172,7 +7172,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertikaal:</translation>
     </message>
     <message>
         <source>Top</source>
@@ -7617,11 +7617,11 @@ t</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -8614,7 +8614,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -8670,7 +8670,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Bron</translation>
     </message>
     <message>
         <source>Status</source>
@@ -8698,7 +8698,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie:</translation>
     </message>
     <message>
         <source>Startup Prompt</source>
@@ -8818,11 +8818,11 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan &amp;naar</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -8937,11 +8937,11 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Open bestand</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -9126,7 +9126,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -9134,7 +9134,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -9184,11 +9184,11 @@ Document</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -9272,7 +9272,7 @@ Document</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>

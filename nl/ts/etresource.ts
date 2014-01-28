@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -94,11 +94,11 @@
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>Draai Omlaag</translation>
+        <translation>Draai omlaag</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation>Draai Links</translation>
+        <translation>Draai links</translation>
     </message>
     <message>
         <source>Tilt Right</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder rand</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda</translation>
     </message>
 </context>
 <context>
@@ -454,7 +454,7 @@
     </message>
     <message>
         <source>Change Points</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Dash</source>
@@ -470,7 +470,7 @@
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -534,7 +534,7 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Lines</source>
@@ -726,7 +726,7 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -833,7 +833,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -882,7 +882,7 @@ Center</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>Cellen Samenvoegen</translation>
+        <translation>Cellen samenvoegen</translation>
     </message>
     <message>
         <source>Merge&amp;Center</source>
@@ -917,7 +917,7 @@ Center</source>
     </message>
     <message>
         <source>Edit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk code</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -1034,7 +1034,7 @@ Center</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -1058,7 +1058,7 @@ Center</source>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>Meer Lijnen</translation>
+        <translation>Meer lijnen</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -1066,7 +1066,7 @@ Center</source>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>Draai 90° links</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -1101,11 +1101,11 @@ Center</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Verberg detail</translation>
     </message>
     <message>
         <source>Hide Field List</source>
@@ -1141,7 +1141,7 @@ Center</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -1161,7 +1161,7 @@ Center</source>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotalen</translation>
     </message>
     <message>
         <source>Table Options</source>
@@ -1183,7 +1183,7 @@ Center</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -1191,7 +1191,7 @@ Center</source>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -1203,11 +1203,11 @@ Center</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Scaling</source>
@@ -1352,7 +1352,7 @@ Center</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1404,7 +1404,7 @@ Center</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig taal</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -11582,11 +11582,11 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster afsluiten</translation>
     </message>
     <message>
         <source>Close the current window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidig venster aflsuiten.</translation>
     </message>
 </context>
 <context>
@@ -11697,7 +11697,7 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
 </context>
 <context>
@@ -12431,9 +12431,6 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
     </message>
 </context>
 <context>
-    <name>tips.GoalSeek</name>
-</context>
-<context>
     <name>tips.Group</name>
     <message>
         <source>Group</source>
@@ -12725,7 +12722,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak de geselecteerde tekst cursief.</translation>
     </message>
 </context>
 <context>
@@ -12900,7 +12897,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Logical Function</source>
-        <translation>Logische Functies</translation>
+        <translation>Logische functie</translation>
     </message>
 </context>
 <context>
@@ -13135,7 +13132,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
@@ -13146,11 +13143,11 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     <name>tips.NoBorder</name>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Remove cell borders.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder cel randen.</translation>
     </message>
 </context>
 <context>
@@ -14733,7 +14730,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak de inhoud van het klembord.</translation>
     </message>
 </context>
 <context>

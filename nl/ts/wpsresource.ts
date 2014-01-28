@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -117,7 +117,7 @@
     <name>classics.align</name>
     <message>
         <source>Align Bottom</source>
-        <translation>Onder Uitlijnen</translation>
+        <translation>Onder uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -282,7 +282,7 @@
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation></translation>
+        <translation type="unfinished">1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -834,7 +834,7 @@
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Boven en Onder</translation>
+        <translation>Boven en onder</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -1611,7 +1611,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
-        <translation>Snelle Berekening</translation>
+        <translation>Snelle berekening</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -2153,11 +2153,11 @@ Samengevoegde Data</translation>
     <name>ongmani.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle randen</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -2165,7 +2165,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand en schaduw</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -2211,7 +2211,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand links</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -2231,7 +2231,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -2255,7 +2255,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation>Tabelstijl Opties</translation>
+        <translation>Tabelstijl opties</translation>
     </message>
     <message>
         <source>Table Styles</source>
@@ -2263,7 +2263,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -2978,7 +2978,7 @@ Aan</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 97-2003 document</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -3251,7 +3251,7 @@ Aan</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle randen</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -3263,7 +3263,7 @@ Aan</translation>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand en schaduw</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -3428,7 +3428,7 @@ Painter</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand links</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3464,15 +3464,15 @@ Painter</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Buitenste Rand</translation>
+        <translation>Buitenste rand</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste randen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3504,7 +3504,7 @@ Painter</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand rechts</translation>
     </message>
     <message>
         <source>Select</source>
@@ -6195,7 +6195,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Sluit Venster</translation>
+        <translation type="unfinished">Sluit venster</translation>
     </message>
     <message>
         <source>Compared Side By Side</source>
@@ -8433,7 +8433,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>Tabelstijn</translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -8528,22 +8528,22 @@ Diagonale Lijn in Cel</translation>
     <name>popupmenu.InsertBlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.InsertTextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal</translation>
     </message>
 </context>
 <context>
@@ -8575,7 +8575,7 @@ Diagonale Lijn in Cel</translation>
     <name>rainbow.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle randen</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -8583,7 +8583,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand en schaduw</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -8621,7 +8621,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand links</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -8641,7 +8641,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -8649,11 +8649,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste Randen</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand rechts</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -9302,7 +9302,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 97-2003 document</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -9582,7 +9582,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle randen</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -9594,7 +9594,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand en schaduw</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -9742,7 +9742,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand links</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9778,7 +9778,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -9786,7 +9786,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste Randen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9814,7 +9814,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand rechts</translation>
     </message>
     <message>
         <source>Select</source>
@@ -9920,7 +9920,7 @@ Header and Footer</source>
     <name>rainbow.ct_insert</name>
     <message>
         <source>Blank Page</source>
-        <translation>Lege Pagina</translation>
+        <translation>Lege pagina</translation>
     </message>
     <message>
         <source>Bookmarks</source>
@@ -9928,7 +9928,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindemarkeringen</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -9944,19 +9944,19 @@ Header and Footer</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom-einde</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerkingen</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Doorlopende sectie-einde</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -9996,7 +9996,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Sectie-einde op even pagina&apos;s</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -10052,15 +10052,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding uit bestand invoegen</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding uit scanner invoegen</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Scan invoegen</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -10104,7 +10104,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Sectie-einde op oneven pagina&apos;s</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -13441,7 +13441,7 @@ Other Window</source>
     </message>
     <message>
         <source>Zoom the document to 100% of the normal size.</source>
-        <translation>Zoom het document in naar 100% van de normale grootte</translation>
+        <translation type="unfinished">Zoom het document in naar 100% van de normale grootte.</translation>
     </message>
 </context>
 <context>
