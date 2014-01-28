@@ -1653,7 +1653,7 @@ Master</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -4308,7 +4308,7 @@ On/Off</source>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Print</source>
@@ -4328,7 +4328,7 @@ On/Off</source>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
+        <translation>Puur zwart/wit</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4340,11 +4340,11 @@ On/Off</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia's</translation>
     </message>
     <message>
         <source>ZoomPercent</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoompercentage</translation>
     </message>
 </context>
 <context>
@@ -4365,7 +4365,7 @@ On/Off</source>
     <name>ongmani.ct_review</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Controleer Spelling</translation>
+        <translation>Controleer spelling</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -4389,7 +4389,7 @@ On/Off</source>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>Verwijder Opmerking</translation>
+        <translation>Verwijder opmerking</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -4545,7 +4545,8 @@ On/Off</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schaduw
+aan/uit</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -4553,15 +4554,15 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>Schaduw Aan/Uit</translation>
+        <translation>Schaduw aan/uit</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>Schaduw Instellingen</translation>
+        <translation>Schaduwinstellingen</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -5718,7 +5719,7 @@ Aan</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -6451,7 +6452,7 @@ Aan</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Inktkleur</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
@@ -6555,7 +6556,7 @@ Aan</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeleinde</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -6648,7 +6649,7 @@ Master</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Open Map</translation>
+        <translation>Open map</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -6656,11 +6657,11 @@ Master</source>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Open hyperlink</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Open pad</translation>
     </message>
     <message>
         <source>Options</source>
@@ -6764,7 +6765,7 @@ Master</source>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder hyperlink</translation>
     </message>
     <message>
         <source>Rename Master</source>
@@ -6812,15 +6813,15 @@ Master</source>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation>Sla Op Naar Klive</translation>
+        <translation>Sla op naar Klive</translation>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Sla op als afbeelding</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"></translation>
+        <translation>Sla op naar bestand</translation>
     </message>
     <message>
         <source>Screen</source>
@@ -6980,7 +6981,7 @@ Master</source>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Bekijk Code</translation>
+        <translation>Bekijk code</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -7051,14 +7052,14 @@ Master</source>
     </message>
     <message>
         <source>true</source>
-        <translation>Waar</translation>
+        <translation>waar</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 <context>
@@ -7117,7 +7118,7 @@ Master</source>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk tekst</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
@@ -7553,7 +7554,7 @@ AddIns</source>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>Wijzig Punten</translation>
+        <translation>Bewerk punten</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -9634,7 +9635,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk commentaar</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -10577,7 +10578,7 @@ Other Window</source>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk tekst</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -10609,11 +10610,11 @@ Other Window</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Draai Horizontaal</translation>
+        <translation>Draai horizontaal</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Draai Verticaal</translation>
+        <translation>Draai verticaal</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -10621,7 +10622,7 @@ Other Window</source>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>Vrije Rotatie</translation>
+        <translation>Vrije rotatie</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -10677,15 +10678,15 @@ Other Window</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Meer Opvulkleuren</translation>
+        <translation>Meer opvulkleuren</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>Meer Lijnkleuren</translation>
+        <translation>Meer lijnkleuren</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>Meer Lijnen</translation>
+        <translation>Meer lijnen</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10701,7 +10702,7 @@ Other Window</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -11755,7 +11756,7 @@ Click the arrow to select a different alignment.</source>
     <name>tips.EditComment</name>
     <message>
         <source>Edit the comments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk de commentaren.</translation>
     </message>
     <message>
         <source>EditComment</source>

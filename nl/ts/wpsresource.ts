@@ -2039,7 +2039,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Platte Tekst</translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Right Alignment</source>
@@ -7039,7 +7039,7 @@ Aan</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Platte Tekst</translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -13147,7 +13147,7 @@ Other Window</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Platte Tekst</translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Relative to Page</source>

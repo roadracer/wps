@@ -1590,7 +1590,7 @@ Center</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -6147,7 +6147,7 @@ Aan</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -10753,7 +10753,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Right Align</source>
