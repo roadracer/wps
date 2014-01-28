@@ -12,22 +12,22 @@
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
 </context>
 <context>
     <name>KColorCtrl</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen kleur</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer kleuren</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
@@ -43,19 +43,19 @@
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwart</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruin</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Olijfgroen</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkergroen</translation>
     </message>
     <message>
         <source>Dark Teal</source>
@@ -63,31 +63,31 @@
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkerblauw</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indigo</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-80%</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkerrood</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Oranje</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkergeel</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Groen</translation>
     </message>
     <message>
         <source>Teal</source>
@@ -95,31 +95,31 @@
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Blauw</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Blauw/grijs</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-50%</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rood</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtoranje</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Limoen</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeegroen</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -127,39 +127,39 @@
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtblauw</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-40%</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Roze</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Goudkleurig</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Geel</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Heldergroen</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkoois</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemelsblauw</translation>
     </message>
     <message>
         <source>Plum</source>
@@ -167,27 +167,27 @@
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-25%</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Rooskleurig</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation>Geelbruin</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtgeel</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtgroen</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtturkoois</translation>
     </message>
     <message>
         <source>Pale Blue</source>
@@ -195,11 +195,11 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Zacht lila</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Wit</translation>
     </message>
 </context>
 <context>
@@ -297,23 +297,23 @@
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock aan</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Met Caps Lock aan kan er toe leiden dat u een verkeerd wachtwoord invoert.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voordat u uw wachtwoord invoert, moet u de &quot;Caps Lock&quot;indrukken om het uit te zetten.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet toegestaan.</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het is niet toegestaan ​​het wachtwoordveld te kopiëren.</translation>
     </message>
 </context>
 <context>
@@ -477,27 +477,27 @@ multiple=multiple
     <name>QObject</name>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>NumLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: aan</translation>
     </message>
     <message>
         <source>NumLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: uit</translation>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>CapsLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>CapsLock: aan</translation>
     </message>
     <message>
         <source>CapsLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>CapsLock: uit</translation>
     </message>
     <message>
         <source>OverWrite</source>

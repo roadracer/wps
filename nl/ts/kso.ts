@@ -1403,7 +1403,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>WordArt: Octagon</source>
@@ -4126,7 +4126,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Ring Inside</source>
