@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation>Gray-15%</translation>
+        <translation>Grijs-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
@@ -133,7 +133,7 @@
     </message>
     <message>
         <source>Lilac</source>
-        <translation type="unfinished"></translation>
+        <translation>Lila</translation>
     </message>
     <message>
         <source>Cyan</source>
@@ -796,7 +796,7 @@
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1183,7 +1183,7 @@
     </message>
     <message>
         <source>&amp;Text color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tekstkleur:</translation>
     </message>
     <message>
         <source>&amp;Default</source>
@@ -1210,7 +1210,7 @@
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>woordenboekbestanden(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Add dictionary file</source>
@@ -1218,7 +1218,7 @@
     </message>
     <message>
         <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden(*.*)|*.*|woordenboekbestanden(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Remove this custom dictionary might affect other programs of Kingsoft office, continue or not?</source>
@@ -1282,11 +1282,11 @@
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Naam</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Locatie</translation>
     </message>
     <message>
         <source>&amp;Hidden bookmarks</source>
@@ -1306,7 +1306,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -2192,7 +2192,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>annuleer</translation>
     </message>
 </context>
 <context>
@@ -2643,15 +2643,15 @@ use buttons to apply borders</source>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk woordenboek</translation>
     </message>
     <message>
         <source>&amp;Word</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Woord</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Wo&amp;ordenboek</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -3666,7 +3666,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -4479,7 +4479,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Edit options</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk opties</translation>
     </message>
     <message>
         <source>Use smart para&amp;graph selection</source>
@@ -8880,7 +8880,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>Close</source>
@@ -8933,11 +8933,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Delete Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder sectienaam</translation>
     </message>
     <message>
         <source>Edit Section Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk sectienaam</translation>
     </message>
 </context>
 <context>
@@ -9593,7 +9593,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsBrowserModel</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -10692,11 +10692,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Edit Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk watermerk</translation>
     </message>
     <message>
         <source>Delete Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder watermerk</translation>
     </message>
 </context>
 <context>
@@ -10918,7 +10918,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>

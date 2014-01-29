@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Command Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Commando mislukt</translation>
     </message>
     <message>
         <source>Unknown Error</source>
