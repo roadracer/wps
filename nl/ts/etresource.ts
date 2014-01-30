@@ -2295,7 +2295,7 @@ Window</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -3447,7 +3447,7 @@ Aan</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation type="unfinished">Onderstrepen</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -4288,7 +4288,7 @@ Center</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Unhide Colums</source>
@@ -8981,7 +8981,7 @@ Center</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -14464,11 +14464,11 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.Underline</name>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstreep de geselecteerde text.</translation>
     </message>
 </context>
 <context>

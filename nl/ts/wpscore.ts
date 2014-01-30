@@ -12,7 +12,7 @@
     <name>drawing</name>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -82,19 +82,19 @@
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Current date</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige datum</translation>
     </message>
     <message>
         <source>Current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige tijd</translation>
     </message>
     <message>
         <source>_Top</source>
@@ -210,19 +210,19 @@
     </message>
     <message>
         <source>Odd Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Oneven pagina</translation>
     </message>
     <message>
         <source>Even Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Even pagina</translation>
     </message>
     <message>
         <source> Header </source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst</translation>
     </message>
     <message>
         <source> Footer </source>
-        <translation type="unfinished"></translation>
+        <translation>Voettekst</translation>
     </message>
     <message>
         <source> - Section %d - </source>
@@ -241,7 +241,7 @@
     </message>
     <message>
         <source>Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisie</translation>
     </message>
 </context>
 <context>
@@ -449,7 +449,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>ThisDocument</source>
@@ -473,7 +473,7 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>None</source>
@@ -585,7 +585,7 @@
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina</translation>
     </message>
     <message>
         <source> of </source>
@@ -593,7 +593,7 @@
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina</translation>
     </message>
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
@@ -710,31 +710,31 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>No underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet onderstrepen</translation>
     </message>
     <message>
         <source>Word underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Woord onderstrepen</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbel onderstrepen</translation>
     </message>
     <message>
         <source>Thick underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Dik onderstrepen</translation>
     </message>
     <message>
         <source>Dotted underline</source>
@@ -838,7 +838,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Emboss</source>
@@ -914,11 +914,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Voettekst</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -930,7 +930,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -938,7 +938,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -958,11 +958,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Left </source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Right </source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>First line</source>
@@ -1162,11 +1162,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Breedte</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoogte</translation>
     </message>
     <message>
         <source>Section start</source>
@@ -1178,15 +1178,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>New page</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe pagina</translation>
     </message>
     <message>
         <source>Even page</source>
-        <translation type="unfinished"></translation>
+        <translation>Even pagina</translation>
     </message>
     <message>
         <source>Odd page</source>
-        <translation type="unfinished"></translation>
+        <translation>Oneven pagina</translation>
     </message>
     <message>
         <source>Different first page header and footer</source>
@@ -1442,11 +1442,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>No border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Between</source>
@@ -1466,7 +1466,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>New column</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe kolom</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -1490,7 +1490,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkel</translation>
     </message>
     <message>
         <source>Complex Script Font</source>
@@ -1848,15 +1848,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Address 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 1</translation>
     </message>
     <message>
         <source>Address 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 2</translation>
     </message>
     <message>
         <source>Address 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 3</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -1872,15 +1872,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>Error occurs when adding words.</source>
@@ -1908,11 +1908,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(geen)</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -1964,7 +1964,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
@@ -2256,7 +2256,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Last Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Achternaam</translation>
     </message>
     <message>
         <source>left/right</source>
@@ -2828,7 +2828,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Underline words</source>
-        <translation type="unfinished"></translation>
+        <translation>Woorden onderstrepen</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
@@ -2976,7 +2976,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
@@ -3188,7 +3188,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Unit: %s</source>
@@ -3236,25 +3236,31 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Table</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
+
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
+
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
 
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3381,15 +3387,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Character Shading</source>
