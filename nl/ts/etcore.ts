@@ -4766,7 +4766,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <name>et_styles</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Comma</source>
@@ -4774,11 +4774,11 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Procent</translation>
     </message>
     <message>
         <source>Comma[0]</source>
@@ -4798,23 +4798,23 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation>vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>cursief</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet cursief</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -4826,11 +4826,11 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Page %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina %d</translation>
     </message>
     <message>
         <source>Page %d of %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina %d van %d</translation>
     </message>
 </context>
 <context>
@@ -8138,18 +8138,6 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Active document is not a worksheet or in unprotected state.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8494,7 +8482,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -8514,7 +8502,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valuta</translation>
     </message>
     <message>
         <source>Percent Style</source>
@@ -8586,7 +8574,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Randen</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -9813,7 +9801,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Undo %d Action(s)</source>

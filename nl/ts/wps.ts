@@ -3170,7 +3170,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Shado&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>Schadu&amp;w</translation>
     </message>
     <message>
         <source>S&amp;mall caps</source>
@@ -3447,7 +3447,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Border</source>
@@ -4791,7 +4791,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Double underline</source>
@@ -4803,7 +4803,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleur:</translation>
     </message>
     <message>
         <source>&amp;Deletions:</source>
@@ -7705,19 +7705,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet cursief</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -7754,11 +7754,11 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Not Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet cursief</translation>
     </message>
     <message>
         <source>Not Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet vet</translation>
     </message>
 </context>
 <context>

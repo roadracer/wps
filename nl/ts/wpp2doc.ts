@@ -77,19 +77,19 @@
     </message>
     <message>
         <source>All(&amp;A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles(&amp;A)</translation>
     </message>
     <message>
         <source>Current Slide(&amp;C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige dia(&amp;C)</translation>
     </message>
     <message>
         <source>Selection(&amp;S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie(&amp;S)</translation>
     </message>
     <message>
         <source>Slides(&amp;P):</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia&apos;s(&amp;P):</translation>
     </message>
     <message>
         <source>Converted Layout</source>
@@ -145,7 +145,7 @@
     </message>
     <message>
         <source>Number slides in the document</source>
-        <translation>Aantal dia's in het document</translation>
+        <translation>Aantal dia&apos;s in het document</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -180,18 +180,18 @@
     </message>
     <message>
         <source>Converting to Kingsoft Writer document encountered an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden.bij het converteren naar Kingsoft Writer-document.</translation>
     </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
     <message>
         <source>Input slide number or slide range. For example, 1,3,5-9</source>
-        <translation type="unfinished"></translation>
+        <translation>Geef dianummer of diabereik. Bijvoorbeeld, 1,3,5-9</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3, or 4.</source>
-        <translation>Het nummer moet 1,2,3 of 4 zijn</translation>
+        <translation>Het nummer moet 1,2,3 of 4 zijn.</translation>
     </message>
     <message>
         <source>This is a valid number.
@@ -201,7 +201,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
@@ -209,11 +209,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Kingsoft Writer Document(*.wps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer document(*.wps)</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 97/2000/XP/2003 Document(*.doc)</translation>
     </message>
     <message>
         <source>Save As</source>

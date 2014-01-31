@@ -1888,7 +1888,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1896,7 +1896,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet cursief</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -1972,7 +1972,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Onderstrepen:</translation>
     </message>
     <message>
         <source>None</source>
@@ -5557,15 +5557,15 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet cursief</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -5581,7 +5581,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
@@ -5643,7 +5643,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet cursief</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -7306,7 +7306,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Onderstrepen:</translation>
     </message>
     <message>
         <source>None</source>
@@ -7725,15 +7725,15 @@ t</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size</source>
@@ -7745,11 +7745,11 @@ t</source>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen randen</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>Shaded</source>

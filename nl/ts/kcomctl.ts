@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation>Meer kleuren</translation>
+        <translation>&amp;Meer kleuren</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
@@ -297,7 +297,7 @@
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation>Caps Lock aan</translation>
+        <translation>Caps Lock aan.</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>

@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object</translation>
     </message>
     <message>
         <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
@@ -324,7 +324,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Text Shadow</source>
@@ -3114,7 +3114,7 @@ Fifth level</source>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Onderstrepen</translation>
     </message>
     <message>
         <source>&amp;More Colors(&amp;M)...</source>
@@ -4386,7 +4386,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Text Shadow</source>
