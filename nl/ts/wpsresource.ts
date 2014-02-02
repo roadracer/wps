@@ -17992,7 +17992,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Delete Selected Comment</source>
-        <translation>Verwijder geselecteerde opmerking.</translation>
+        <translation>Verwijder geselecteerde opmerking</translation>
     </message>
 </context>
 <context>
@@ -18029,7 +18029,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Weibotool</source>
-        <translation>Weibotool.</translation>
+        <translation>Weibotool</translation>
     </message>
 </context>
 <context>
@@ -18784,7 +18784,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Tools</source>
-        <translation>Gereedschappen</translation>
+        <translation>Extra</translation>
     </message>
     <message>
         <source>Track Changes</source>

@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>No thanks.</source>
-        <translation>Nee, bedankt</translation>
+        <translation>Nee, bedankt.</translation>
     </message>
 </context>
 </TS>

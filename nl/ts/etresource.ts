@@ -1810,7 +1810,7 @@ Center</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleren</translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>Cell Popup Menu</source>
@@ -1858,7 +1858,7 @@ Center</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -2210,7 +2210,7 @@ Center</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Sla Op Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Select</source>
