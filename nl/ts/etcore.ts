@@ -501,7 +501,7 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>Total </source>
-        <translation>Totaal</translation>
+        <translation>Totaal </translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
@@ -1506,7 +1506,7 @@ Value: </source>
     <name>et_core</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message utf8="true">
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of ET if they:
@@ -1607,11 +1607,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Totaal</translation>
     </message>
     <message>
         <source>(All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Alles)</translation>
     </message>
     <message>
         <source>(Multiple Items)</source>
@@ -1619,7 +1619,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Call Fail</source>
@@ -1903,7 +1903,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>Financial</source>
@@ -1911,7 +1911,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Date &amp; Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum &amp; tijd</translation>
     </message>
     <message>
         <source>Math &amp; Trig</source>
@@ -1939,7 +1939,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie</translation>
     </message>
     <message>
         <source>User Defined</source>
@@ -4462,15 +4462,15 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Text Files(*.prn; *.txt; *.csv)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbestanden(*.prn; *.txt; *.csv)</translation>
     </message>
     <message>
         <source>XML Files(*.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation>XML-bestanden(*.xml)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden(*.*)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Files(*.et; *.ett)</source>
@@ -4751,7 +4751,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Cell:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel:</translation>
     </message>
     <message>
         <source>Comment:</source>
@@ -4782,7 +4782,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Comma[0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Komma[0]</translation>
     </message>
     <message>
         <source>Currency[0]</source>
@@ -4968,11 +4968,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Breedte</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoogte</translation>
     </message>
     <message>
         <source>Centimeter</source>
@@ -5112,23 +5112,23 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een datum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een startdatum invoeren.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een einddatum invoeren.</translation>
     </message>
     <message>
         <source>You must enter both a Start Date and an End Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet zowel een startdatum als een einddatum invoeren.</translation>
     </message>
     <message>
         <source>The End Date must be greater than or equal to the Start Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>De einddatum moet groter dan of gelijk aan de startdatum zijn.</translation>
     </message>
     <message>
         <source>The Time contains an error now. Do you want to continue?</source>
@@ -5144,35 +5144,35 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>The date you specified in Time is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>De datum die u hebt opgegeven in Tijd is ongeldig.</translation>
     </message>
     <message>
         <source>The date you specified in Start Time is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>De datum die u hebt opgegeven in Starttijd is ongeldig.</translation>
     </message>
     <message>
         <source>The date you specified in End Time is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>De datum die u hebt opgegeven in Eindtijd is ongeldig.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een tijd invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een starttijd invoeren.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een eindtijd invoeren.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet zowel een eindtijd als een starttijd invoeren.</translation>
     </message>
     <message>
         <source>The End Time must be greater than or equal to the Start Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>De eindtijd moet groter dan of gelijk aan de starttijd zijn.</translation>
     </message>
     <message>
         <source>The Text length contains an error now. Do you want to continue?</source>
@@ -5295,7 +5295,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Dag</translation>
     </message>
     <message>
         <source>Dividend</source>
@@ -5331,7 +5331,8 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Uur</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <source>Index_num</source>
@@ -5379,11 +5380,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuut</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Maand</translation>
     </message>
     <message>
         <source>New_text</source>
@@ -5399,7 +5400,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>Number_times</source>
@@ -5459,7 +5460,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Serial_number</source>
-        <translation type="unfinished"></translation>
+        <translation>Serienummer</translation>
     </message>
     <message>
         <source>Sheet_text</source>
@@ -5527,7 +5528,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaar</translation>
     </message>
     <message>
         <source>Area_num</source>
@@ -5899,7 +5900,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Zip code</source>
-        <translation type="unfinished"></translation>
+        <translation>Postcode</translation>
     </message>
     <message>
         <source>Lower Case Chinese number</source>
@@ -5975,7 +5976,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Cell </source>
-        <translation type="unfinished"></translation>
+        <translation>Cel</translation>
     </message>
     <message>
         <source>Text box </source>
@@ -7531,15 +7532,15 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is a number from 0 to 23 representing the hour.</source>
-        <translation type="unfinished"></translation>
+        <translation>is een getal van 0 tot 23 die het uur vertegenwoordigd.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>is een getal van 0 tot 59 die de minuut vertegenwoordigd.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the second.</source>
-        <translation type="unfinished"></translation>
+        <translation>is een getal van 0 tot 59 die de seconde vertegenwoordigd.</translation>
     </message>
     <message>
         <source>is a text string that gives a time in any one of the Kingsoft Spreadsheets time formats (date information in the string is ignored).</source>
@@ -8230,11 +8231,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
@@ -8362,19 +8363,19 @@ Continue ?</source>
     </message>
     <message>
         <source>Hide Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Rij verbergen</translation>
     </message>
     <message>
         <source>Hide Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom verbergen</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen zichtbaar maken</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen zichtbaar maken</translation>
     </message>
     <message>
         <source>AutoFit</source>
@@ -8398,7 +8399,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotalen</translation>
     </message>
     <message>
         <source>Remove Subtotals</source>
@@ -8418,7 +8419,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -8474,11 +8475,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -8502,7 +8503,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished">Valuta</translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Percent Style</source>
@@ -8566,7 +8567,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Recent Borders</source>
@@ -8678,7 +8679,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Add Trendline</source>
@@ -8690,11 +8691,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten verwijderen</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten markeren</translation>
     </message>
 </context>
 <context>
@@ -8801,7 +8802,7 @@ Continue ?</source>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden(*.*)</translation>
     </message>
     <message>
         <source>$00000304</source>
@@ -8933,11 +8934,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Customize</source>
@@ -8957,15 +8958,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation type="unfinished"></translation>
+        <translation>Da&amp;tum:</translation>
     </message>
     <message>
         <source>Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimaal</translation>
     </message>
     <message>
         <source>Default book name &quot;%s&quot; is not valid, can&apos;t include &quot;%s&quot;.</source>
@@ -9077,67 +9078,67 @@ Continue ?</source>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei&amp;nddatum:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei&amp;ndtijd:</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet zowel een einddatum als een startdatum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een datum invoeren.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een einddatum invoeren.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een eindtijd invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een formule invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een maximum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een minimum invoeren.</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet zowel een maximum als een minimum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een startdatum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een bron invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een starttijd invoeren.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet zowel een eindtijd als een starttijd invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een tijd invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een waarde invoeren.</translation>
     </message>
     <message>
         <source>equal to</source>
@@ -9221,7 +9222,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Voettekst</translation>
     </message>
     <message>
         <source>&amp;[%s]</source>
