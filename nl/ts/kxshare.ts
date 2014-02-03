@@ -85,7 +85,7 @@
     <name>KAlphaPanel</name>
     <message>
         <source>&amp;Transparence</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Transparantie</translation>
     </message>
 </context>
 <context>
@@ -96,34 +96,34 @@
     </message>
     <message>
         <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office-updates zijn gedownload, wilt u deze nu installeren?</translation>
     </message>
 </context>
 <context>
     <name>KAvailableCharSetInfoMap</name>
     <message>
         <source>Unicode(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unicode(HEX)</translation>
     </message>
     <message>
         <source>ASCII(DEC)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCII(DEC)</translation>
     </message>
     <message>
         <source>ASCII(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCII(HEX)</translation>
     </message>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereenvoudigd Chinees GB2312(HEX)</translation>
     </message>
     <message>
         <source>Symbol(DEC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool(DEC)</translation>
     </message>
     <message>
         <source>Symbol(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool(HEX)</translation>
     </message>
 </context>
 <context>
@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>&amp;Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleuren</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lay-out wijzigingen worden van kracht na het opnieuw opstarten.</translation>
     </message>
     <message>
         <source>Hey, click here to switch user interface!</source>
@@ -395,19 +395,19 @@
     </message>
     <message>
         <source>Choose Language Installation Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een taalinstallatiepakket</translation>
     </message>
     <message>
         <source>Install Language Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Installeer taalpakket</translation>
     </message>
     <message>
         <source>installation fails, make sure to install the complete package!</source>
-        <translation type="unfinished"></translation>
+        <translation>installatie mislukt, u moet het volledige pakket installeren!</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
+        <translation>Persoonlijk sjabloon &amp;resetten</translation>
     </message>
     <message>
         <source>Information</source>
@@ -415,7 +415,7 @@
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen worden actief na herstarten van de applicatie.</translation>
     </message>
     <message>
         <source>&amp;Install new language</source>
@@ -423,15 +423,15 @@
     </message>
     <message>
         <source>Get &amp;More...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meer verkrijgen...</translation>
     </message>
     <message>
         <source>ZIP File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>ZIP-bestand (*.zip)</translation>
     </message>
     <message>
         <source>&amp;Follow system locale</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Volg systeemlandinstelling</translation>
     </message>
 </context>
 <context>
@@ -2682,7 +2682,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsModel</name>
     <message>
         <source>Document Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentnaam</translation>
     </message>
     <message>
         <source>Last Modified Date</source>
@@ -2701,7 +2701,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Failed to create file! File may be opened or no permission to create file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan geen bestand aanmaken! Bestand is mogelijk al geopend of toestemming is geweigerd om bestand aan te maken!</translation>
     </message>
 </context>
 <context>
@@ -4496,11 +4496,11 @@ cannot be previewed.</source>
     <name>QObject</name>
     <message>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand overschrijven?</translation>
     </message>
     <message>
         <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Een bestand met de naam &quot;% 1&quot; bestaat al. Bent u zeker dat u wil overschrijven?</translation>
     </message>
     <message>
         <source>custom %1</source>
@@ -4760,12 +4760,13 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Do not show this message again</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit bericht niet meer weergeven</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
 Always take this action</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit bericht niet meer weergeven,
+Neem altijd deze actie</translation>
     </message>
     <message>
         <source>Do not check it when starting Kingsoft Office next time</source>
@@ -4773,7 +4774,7 @@ Always take this action</source>
     </message>
     <message>
         <source>The selected dict has been deleted, please select another dict.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het geselecteerde woordenboek is verwijderd, selecteer a.u.b. een ander woordenboek.</translation>
     </message>
     <message>
         <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
@@ -4783,7 +4784,8 @@ Always take this action</source>
     <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
 (The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office is niet de standaard kantoorsoftware,wilt u het instellen als de standaard?
+(Het systeem gebruikt standaard Kingsoft Office om %1bestanden te openen)</translation>
     </message>
 </context>
 <context>

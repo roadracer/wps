@@ -493,7 +493,7 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Totaal</translation>
     </message>
     <message>
         <source>Grand Total</source>
@@ -501,7 +501,7 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>Total </source>
-        <translation type="unfinished"></translation>
+        <translation>Totaal</translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
@@ -656,7 +656,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Subtotal Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotaal resultaat</translation>
     </message>
     <message>
         <source>There are too many blank cells in Kingsoft Spreadsheets and part of them have been deleted.</source>
@@ -740,7 +740,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Document is not saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Document is niet opgelagen.</translation>
     </message>
     <message>
         <source>This file is no longer shared.</source>
@@ -944,23 +944,23 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Original Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Originele waarde</translation>
     </message>
     <message>
         <source>(Empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Leeg)</translation>
     </message>
     <message>
         <source>Variable Cell</source>
@@ -1124,11 +1124,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>sec</translation>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconden</translation>
     </message>
     <message>
         <source>Solution Time</source>
@@ -1291,11 +1291,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Everyone</source>
-        <translation type="unfinished"></translation>
+        <translation>Iedereen</translation>
     </message>
     <message>
         <source>Everyone but Me</source>
-        <translation type="unfinished"></translation>
+        <translation>Iedereen behalve mijzelf</translation>
     </message>
     <message>
         <source>Result of rejected action</source>
@@ -1307,27 +1307,27 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>cell %s</source>
-        <translation type="unfinished"></translation>
+        <translation>cel.%s</translation>
     </message>
     <message>
         <source>cells %s</source>
-        <translation type="unfinished"></translation>
+        <translation>cellen %s</translation>
     </message>
     <message>
         <source>row %s</source>
-        <translation type="unfinished"></translation>
+        <translation>rij %s</translation>
     </message>
     <message>
         <source>rows %s</source>
-        <translation type="unfinished"></translation>
+        <translation>rijen %s</translation>
     </message>
     <message>
         <source>column %s</source>
-        <translation type="unfinished"></translation>
+        <translation>kolom %s</translation>
     </message>
     <message>
         <source>columns %s</source>
-        <translation type="unfinished"></translation>
+        <translation>kolommen %s</translation>
     </message>
     <message>
         <source>Cell Change</source>
@@ -1431,11 +1431,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Of</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>En</translation>
     </message>
     <message>
         <source>(Blank)</source>
@@ -1443,7 +1443,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Column %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom %s</translation>
     </message>
     <message>
         <source>%s items meet the requirement of the active column in %d records</source>
@@ -4770,7 +4770,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"></translation>
+        <translation>Komma</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -4786,7 +4786,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta[0]</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -8721,7 +8721,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Op&amp;ties &lt;&lt;</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
@@ -8729,7 +8729,7 @@ Continue ?</source>
     </message>
     <message>
         <source>(All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Alles)</translation>
     </message>
     <message>
         <source>Any value</source>
@@ -8761,7 +8761,7 @@ Continue ?</source>
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation>tussen</translation>
     </message>
     <message>
         <source>(Blank)</source>
@@ -8773,15 +8773,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -8813,7 +8813,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>Cannot bring up the properties dialog because the printer returned an error.</source>
@@ -8821,7 +8821,7 @@ Continue ?</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Convert Text to Columns Wizard - Step %d of 3</source>
@@ -8837,7 +8837,7 @@ Continue ?</source>
     </message>
     <message>
         <source>&amp;Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Normaal</translation>
     </message>
     <message>
         <source> - Reference:</source>
@@ -8885,39 +8885,39 @@ Continue ?</source>
     </message>
     <message>
         <source>Col %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Kol %s</translation>
     </message>
     <message>
         <source>(Col %s) %s</source>
-        <translation type="unfinished"></translation>
+        <translation>(Kol %s) %s</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur</translation>
     </message>
     <message>
         <source>Column %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom %s</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"></translation>
+        <translation>Komma</translation>
     </message>
     <message>
         <source>Comma[0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Komma[0]</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditie &amp;3</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -9269,7 +9269,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -9317,7 +9317,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Left-to-Right Reading Order</source>
@@ -9389,7 +9389,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype</translation>
     </message>
     <message>
         <source>NEW LIST</source>
@@ -9441,7 +9441,7 @@ Continue ?</source>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen randen</translation>
     </message>
     <message>
         <source>No Font</source>
@@ -9465,7 +9465,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Op&amp;tions &gt;&gt;</source>
@@ -9477,19 +9477,20 @@ Continue ?</source>
     </message>
     <message>
         <source>No Shading</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Geen schaduw</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen suggesties)</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation>niet tussen</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>niet gelijk aan</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
@@ -9521,7 +9522,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Value must be between %d and %d.</source>
@@ -9529,7 +9530,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina</translation>
     </message>
     <message>
         <source>&amp;A</source>
@@ -9545,19 +9546,19 @@ Continue ?</source>
     </message>
     <message>
         <source>Page &amp;P</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina &amp;P</translation>
     </message>
     <message>
         <source>Page &amp;P &amp;A</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina &amp;P &amp;A</translation>
     </message>
     <message>
         <source>Page &amp;P of &amp;N</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina &amp;P van &amp;N</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina&apos;s</translation>
     </message>
     <message>
         <source>Click here to fold or unfold the panel.</source>
@@ -9589,7 +9590,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Procent</translation>
     </message>
     <message>
         <source>Solid, &quot;75% Gray&quot;, &quot;50% Gray&quot;, &quot;25% Gray&quot;, &quot;12.5% Gray&quot;, &quot;6.5% Gray&quot;, &quot;Horizontal stripe&quot;, &quot;Vertical stripe&quot;, &quot;Reverse Diagonal stripe&quot;, &quot;Diagonal stripe&quot;, &quot;Diagonal crosshatch&quot;, &quot;Thick Diagonal crosshatch&quot;, &quot;Thin Horizontal stripe&quot;, &quot;Thin Vertical stripe&quot;, &quot;Thin Reverse Diagonal stripe&quot;, &quot;Thin Diagonal stripe&quot;, &quot;Thin Horizontal crosshatch&quot;, &quot;Thin Diagonal crosshatch&quot;</source>
@@ -9657,7 +9658,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Row %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Rij %s</translation>
     </message>
     <message>
         <source>Drop Row Fields Here</source>
@@ -9669,7 +9670,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Row %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Rij %d</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
@@ -9733,19 +9734,19 @@ Continue ?</source>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bron:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Start datum:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Start tijd:</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -9825,7 +9826,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -9925,7 +9926,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Other Sheets...</source>

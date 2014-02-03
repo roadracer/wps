@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alles vervangen</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeleinde</translation>
     </message>
     <message>
         <source>Use Asian rules for controlling first and last &amp;characters</source>
@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>&amp;Typography...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Typografie...</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alles vervangen</translation>
     </message>
     <message>
         <source>Fi&amp;nd What:</source>
@@ -204,7 +204,7 @@
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nieuw...</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
@@ -1025,63 +1025,63 @@
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Spelling</translation>
     </message>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paragraaf:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Het woord niet in het woordenboek</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig &amp;naar:</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggesti&amp;es:</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wijzigen</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;lles wijzigen</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Negeren</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;lles negeren</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Toevoegen &amp;aan woordenboek</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opties</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ongedaan maken</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stel spellingcontroletaal in</translation>
     </message>
 </context>
 <context>
@@ -1253,27 +1253,27 @@
     </message>
     <message>
         <source>1 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>1 cm</translation>
     </message>
     <message>
         <source>2 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>2 cm</translation>
     </message>
     <message>
         <source>3 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>3 cm</translation>
     </message>
     <message>
         <source>4 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>4 cm</translation>
     </message>
     <message>
         <source>5 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 cm</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>vm</translation>
     </message>
     <message>
         <source>&amp;Display grid on screen</source>
@@ -1300,11 +1300,11 @@
     <name>KxDlgHeaderFooter</name>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voettekst</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <source>Include on slide</source>
@@ -1320,7 +1320,7 @@
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Taal:</translation>
     </message>
     <message>
         <source>Fi&amp;xed</source>
@@ -1328,11 +1328,11 @@
     </message>
     <message>
         <source>Slide &amp;number</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia&amp;nummer</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Voettekst</translation>
     </message>
     <message>
         <source>Appl&amp;y to All</source>
@@ -1364,7 +1364,7 @@
     </message>
     <message>
         <source>&amp;Header</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Koptekst</translation>
     </message>
     <message>
         <source>&amp;Page number</source>
@@ -1398,7 +1398,7 @@
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel invoegen</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -1475,7 +1475,7 @@
     </message>
     <message>
         <source>Sound &amp;Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geluids&amp;volume:</translation>
     </message>
     <message>
         <source>Display options</source>
@@ -1487,7 +1487,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie</translation>
     </message>
     <message>
         <source>Total Playing Time:</source>
@@ -1495,7 +1495,7 @@
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand:</translation>
     </message>
 </context>
 <context>
@@ -1662,7 +1662,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia&apos;s</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
@@ -1770,7 +1770,7 @@
     </message>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Spelling</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
@@ -1954,11 +1954,11 @@
     </message>
     <message>
         <source>Re&amp;place:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verv&amp;angen:</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2028,7 +2028,7 @@
     </message>
     <message>
         <source>End of the slide show</source>
-        <translation type="unfinished"></translation>
+        <translation>Einde van de diavoorstelling</translation>
     </message>
     <message>
         <source>1+Enter</source>
@@ -2071,7 +2071,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie</translation>
     </message>
     <message>
         <source>Total playing time:</source>
@@ -2079,7 +2079,7 @@
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand:</translation>
     </message>
 </context>
 <context>
@@ -2137,7 +2137,7 @@
     </message>
     <message>
         <source>&amp;Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Procent</translation>
     </message>
     <message>
         <source>%</source>
@@ -2152,7 +2152,7 @@
     </message>
     <message>
         <source>&amp;Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Volume</translation>
     </message>
     <message>
         <source>tbVolume</source>
@@ -2164,7 +2164,7 @@
     </message>
     <message>
         <source>&amp;Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dempen</translation>
     </message>
 </context>
 <context>
@@ -2362,7 +2362,7 @@
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Huidige dia</translation>
     </message>
     <message>
         <source>Selectio&amp;n</source>
@@ -2406,7 +2406,7 @@
     </message>
     <message>
         <source>Notes pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitiepagina&apos;s</translation>
     </message>
     <message>
         <source>Outline view</source>
@@ -2434,7 +2434,7 @@
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Hori&amp;zontaal</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -2484,7 +2484,7 @@
     <name>KxExportPDFDlg</name>
     <message>
         <source>Save Adobe PDF File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Sla Adobe PDF-bestand op als</translation>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf||</source>
@@ -2524,11 +2524,11 @@
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>De bestandsnaam is hetzelfde als een bestaande map.</translation>
     </message>
     <message>
         <source>The directory you specified dose not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>De opgegeven map bestaat niet.</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
@@ -2540,7 +2540,7 @@
     </message>
     <message>
         <source>All slides of custom show are skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle dia&apos;s van de aangepaste voorstelling worden overgeslagen.</translation>
     </message>
     <message>
         <source>All slides in this range are skipped.</source>
@@ -2556,11 +2556,11 @@
     </message>
     <message>
         <source>All slides in current presentation are skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle dia&apos;s in de huidige presentatie worden overgeslagen.</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zorg ervoor dat de dia&apos;s niet meer worden overgeslagen, of kies ervoor om overgeslagen dia&apos;s te exporteren.</translation>
     </message>
 </context>
 <context>
@@ -2587,7 +2587,7 @@
     </message>
     <message>
         <source> Page...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -2618,15 +2618,15 @@
     </message>
     <message>
         <source>&amp;Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen...</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has finished searching the document.</source>
@@ -2661,7 +2661,7 @@
     </message>
     <message>
         <source>This font size is not available. </source>
-        <translation type="unfinished"></translation>
+        <translation>Dit lettertype is niet beschikbaar.</translation>
     </message>
 </context>
 <context>
@@ -2711,19 +2711,19 @@
     <name>KxHyperlinkWppPage</name>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste dia</translation>
     </message>
     <message>
         <source>Last Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatste dia</translation>
     </message>
     <message>
         <source>Next Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende dia</translation>
     </message>
     <message>
         <source>Previous Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige dia</translation>
     </message>
     <message>
         <source>Slide Title</source>
@@ -2735,7 +2735,7 @@
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia %1</translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
@@ -2816,15 +2816,15 @@
     <name>KxPackgeDlg</name>
     <message>
         <source>File name contain illegal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandsnaam bevat ongeldige tekens</translation>
     </message>
     <message>
         <source>Folder already exists, please specify another folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Map bestaat al, geef een andere map</translation>
     </message>
     <message>
         <source>Specified directory does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Opgegeven map bestaat niet</translation>
     </message>
     <message>
         <source>Opt Position</source>
