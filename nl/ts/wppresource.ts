@@ -859,7 +859,7 @@
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Slide Design</source>
@@ -1297,7 +1297,7 @@ Master</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprekernotities</translation>
     </message>
 </context>
 <context>
@@ -1348,11 +1348,11 @@ Master</source>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation>Voeg Hyperlink in</translation>
+        <translation>Hyperlink invoegen</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>Voeg Tabel in</translation>
+        <translation>Tabel invoegen</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -1372,7 +1372,7 @@ Master</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig taal</translation>
     </message>
     <message>
         <source>Text</source>
@@ -2308,7 +2308,7 @@ Aan</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeleinde</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -2400,7 +2400,7 @@ Aan</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -3136,7 +3136,7 @@ Slide</source>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeleinde</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3276,7 +3276,7 @@ Slide</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -4288,7 +4288,7 @@ On/Off</source>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Notes pages (1 slide per page)</source>
@@ -4723,7 +4723,7 @@ Master</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -4773,7 +4773,7 @@ Master</source>
     <name>ongmani.ct_slideshow</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste diavoorstellingen</translation>
     </message>
     <message>
         <source>From Beginning</source>
@@ -4819,7 +4819,7 @@ Settings</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprekernotities</translation>
     </message>
     <message>
         <source>Start Slide Show</source>
@@ -4830,7 +4830,7 @@ Settings</source>
     <name>ongmani.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanpassen</translation>
     </message>
     <message>
         <source>Align</source>
@@ -4862,7 +4862,7 @@ Settings</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -5038,7 +5038,7 @@ Settings</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -5150,7 +5150,7 @@ Other Window</source>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -6032,7 +6032,7 @@ Aan</translation>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle dia&apos;s</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -6212,7 +6212,7 @@ Aan</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste diavoorstellingen</translation>
     </message>
     <message>
         <source>Data Chart</source>
@@ -6224,7 +6224,7 @@ Aan</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum en tijd</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
@@ -6625,7 +6625,7 @@ Master</source>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Next</source>
@@ -6637,7 +6637,7 @@ Master</source>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notities</translation>
     </message>
     <message>
         <source>Object</source>
@@ -8351,7 +8351,7 @@ Slide</source>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeleinde</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -8507,7 +8507,7 @@ Slide</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -9479,7 +9479,7 @@ Subordinate</source>
     <name>rainbow.ct_picturetool.Picture</name>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanpassen</translation>
     </message>
 </context>
 <context>
@@ -9530,7 +9530,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Notes pages (1 slide per page)</source>
@@ -9550,7 +9550,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Print</source>
@@ -9885,7 +9885,7 @@ Master</source>
     <name>rainbow.ct_slideshow</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste diavoorstellingen</translation>
     </message>
     <message>
         <source>From Beginning</source>
@@ -9932,7 +9932,7 @@ Settings</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprekernotities</translation>
     </message>
     <message>
         <source>Start Slide Show</source>
@@ -9943,7 +9943,7 @@ Settings</source>
     <name>rainbow.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanpassen</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -9955,7 +9955,7 @@ Settings</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -10152,7 +10152,7 @@ Other Window</source>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -11485,7 +11485,7 @@ A custom slide show displays only the slides you select.</source>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste diavoorstellingen</translation>
     </message>
 </context>
 <context>
@@ -12295,7 +12295,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Table</source>
@@ -12475,7 +12475,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeleinde</translation>
     </message>
 </context>
 <context>
@@ -12627,7 +12627,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
@@ -12765,7 +12765,7 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.Paragraph1</name>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different alignment.</source>
@@ -12802,7 +12802,7 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding aanpassen</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
@@ -12961,7 +12961,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
 </context>
 <context>
@@ -12994,7 +12994,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
 </context>
 <context>
@@ -13609,7 +13609,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprekernotities</translation>
     </message>
 </context>
 <context>
@@ -13817,7 +13817,7 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Underline the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstreep de geselecteerde text.</translation>
     </message>
 </context>
 <context>
@@ -14425,7 +14425,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effecten</translation>
     </message>
     <message>
         <source>Eraser Popup Menu</source>
@@ -14582,7 +14582,7 @@ Slide</source>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notities</translation>
     </message>
     <message>
         <source>Notes Pane Popup Menu</source>
@@ -14706,7 +14706,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Diavoorstelling</translation>
     </message>
     <message>
         <source>Slide Show Popup Menu</source>
@@ -14984,7 +14984,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Diavoorstelling</translation>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
@@ -15215,7 +15215,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Diavoorstelling</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>

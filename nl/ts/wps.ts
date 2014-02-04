@@ -260,7 +260,7 @@
     </message>
     <message>
         <source>&amp;Full-width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Volledige-breedte</translation>
     </message>
     <message>
         <source>&amp;Uppercase</source>
@@ -432,7 +432,7 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Line</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
@@ -547,7 +547,7 @@
     <name>DlgKxColumns</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -771,14 +771,14 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
 </context>
 <context>
     <name>KUnderLineCombo</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>Words only</source>
@@ -800,7 +800,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -827,11 +827,11 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>No content</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen inhoud</translation>
     </message>
 </context>
 <context>
@@ -846,7 +846,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -1132,7 +1132,7 @@
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Bladwijzers</translation>
     </message>
 </context>
 <context>
@@ -1240,7 +1240,7 @@
     <name>KxCustomizeNumberedListDlg</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -1270,7 +1270,7 @@
     <name>KxDlgBookmarks</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Bladwijzers</translation>
     </message>
     <message>
         <source>&amp;Bookmark name:</source>
@@ -1354,7 +1354,7 @@
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Breedte:</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1720,7 +1720,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -1728,7 +1728,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
 </context>
 <context>
@@ -1739,7 +1739,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paragraaf:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
@@ -1763,7 +1763,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Negeren</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
@@ -2004,7 +2004,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
 </context>
 <context>
@@ -2278,7 +2278,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -2423,7 +2423,7 @@ use buttons to apply borders</source>
     <name>KxDlgDeleteCells</name>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Cellen</translation>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
@@ -2541,7 +2541,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -2663,7 +2663,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -2924,7 +2924,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Janpannese)</source>
@@ -2944,7 +2944,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
@@ -3098,7 +3098,7 @@ use buttons to apply borders</source>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype</translation>
     </message>
     <message>
         <source>Fo&amp;nt</source>
@@ -3158,7 +3158,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effecten</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
@@ -3230,7 +3230,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Raised</source>
@@ -3451,7 +3451,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>Grid &amp;color:</source>
@@ -3467,7 +3467,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Por&amp;trait</source>
@@ -3475,7 +3475,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Landschap</translation>
     </message>
     <message>
         <source>Line break</source>
@@ -3545,7 +3545,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Page margin</source>
@@ -3553,7 +3553,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>&amp;Align paragraph and table edges with border</source>
@@ -3580,7 +3580,7 @@ use buttons to apply borders</source>
     <name>KxDlgInsertCells</name>
     <message>
         <source>Insert Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Cellen invoegen</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
@@ -3603,7 +3603,7 @@ use buttons to apply borders</source>
     <name>KxDlgInsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum en tijd</translation>
     </message>
     <message>
         <source>&amp;Available formats:</source>
@@ -3611,7 +3611,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Taal:</translation>
     </message>
     <message>
         <source>Use full &amp;width characters</source>
@@ -3673,7 +3673,7 @@ use buttons to apply borders</source>
     <name>KxDlgInsertNumber</name>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>&amp;Number</source>
@@ -3727,7 +3727,7 @@ use buttons to apply borders</source>
     <name>KxDlgInsertTableRows</name>
     <message>
         <source>Insert Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen invoegen</translation>
     </message>
     <message>
         <source>Insert location:</source>
@@ -3871,7 +3871,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Address 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 1</translation>
     </message>
     <message>
         <source>City</source>
@@ -3923,11 +3923,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Address 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 2</translation>
     </message>
     <message>
         <source>Address 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 3</translation>
     </message>
     <message>
         <source>Country or Region</source>
@@ -4147,7 +4147,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4159,7 +4159,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Character</source>
@@ -4232,7 +4232,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>label</source>
@@ -4260,7 +4260,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Character</source>
@@ -4355,7 +4355,7 @@ use buttons to apply borders</source>
     <name>KxDlgOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>View</source>
@@ -4475,7 +4475,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>Edit options</source>
@@ -4603,7 +4603,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -4775,7 +4775,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>Color only</source>
@@ -4783,11 +4783,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -4919,7 +4919,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Preserve</source>
@@ -4983,7 +4983,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie:</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -5401,7 +5401,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Marges</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -5413,11 +5413,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>G&amp;utter position:</source>
@@ -5437,7 +5437,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>&amp;Portrait</source>
@@ -5449,7 +5449,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina&apos;s</translation>
     </message>
     <message>
         <source>&amp;Multiple pages</source>
@@ -5457,7 +5457,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Book fold</source>
@@ -5477,7 +5477,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>4</source>
@@ -5537,7 +5537,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Breedte:</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
@@ -5577,7 +5577,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>New page</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe pagina</translation>
     </message>
     <message>
         <source>Even page</source>
@@ -5661,7 +5661,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertikaal</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -5717,7 +5717,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -5776,7 +5776,7 @@ use buttons to apply borders</source>
     <name>KxDlgParagraph</name>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>&amp;Indents and Spacing</source>
@@ -5852,7 +5852,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>First line</source>
@@ -6060,7 +6060,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
@@ -6358,7 +6358,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -6385,11 +6385,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links:</translation>
     </message>
     <message>
         <source>Default cell margins</source>
@@ -6408,7 +6408,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6460,7 +6460,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal</translation>
     </message>
     <message>
         <source>R&amp;elative to:</source>
@@ -6468,7 +6468,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Top</source>
@@ -6496,7 +6496,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -6504,7 +6504,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -6512,7 +6512,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>&amp;Move with text</source>
@@ -6547,7 +6547,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>Rig&amp;ht</source>
@@ -6623,7 +6623,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>Allow row to brea&amp;k across pages</source>
@@ -6723,7 +6723,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>&amp;Decimal</source>
@@ -7125,7 +7125,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7156,7 +7156,7 @@ use buttons to apply borders</source>
     <name>KxFieldDlg</name>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -7248,7 +7248,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>The current time</source>
@@ -7411,7 +7411,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>&amp;Paragraph Mark</source>
@@ -7487,7 +7487,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document</translation>
     </message>
     <message>
         <source>has finished searching the %1.</source>
@@ -7858,7 +7858,7 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxHighlightColorModel</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen kleur</translation>
     </message>
 </context>
 <context>
@@ -7884,7 +7884,7 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxInnerOptionsDlg</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
 </context>
 <context>
@@ -7950,11 +7950,11 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Address 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 1</translation>
     </message>
     <message>
         <source>Address 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 2</translation>
     </message>
     <message>
         <source>City</source>
@@ -8026,7 +8026,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Address 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 3</translation>
     </message>
     <message>
         <source>Department</source>
@@ -8034,7 +8034,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -8090,7 +8090,7 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxMailMergeTableDlg</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Description</source>
@@ -8185,7 +8185,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>(No style)</source>
@@ -8400,7 +8400,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Itatic, </source>
@@ -8432,7 +8432,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
@@ -8616,11 +8616,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documenten</translation>
     </message>
     <message>
         <source>User templates</source>
@@ -8651,7 +8651,7 @@ Cancel:	Return to the dialog.</source>
     <name>KxOutlineNumberDlg</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>Bullet:</source>
@@ -8884,7 +8884,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -9045,7 +9045,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTabsDlg</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
 </context>
 <context>
@@ -9427,7 +9427,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina&apos;s</translation>
     </message>
     <message>
         <source>Words</source>
@@ -9463,14 +9463,14 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
 </context>
 <context>
@@ -9543,7 +9543,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsBorderStyleItem</name>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
 </context>
 <context>
@@ -9600,7 +9600,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsBrowserTriggerCommand</name>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Previous Section</source>
@@ -9616,7 +9616,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Next Section</source>
@@ -10151,21 +10151,21 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsFillColorModel</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen kleur</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFillColorModel2</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen kleur</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
 </context>
 <context>
@@ -10227,7 +10227,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbel</translation>
     </message>
     <message>
         <source>At Least</source>
@@ -10243,11 +10243,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>1 line</source>
-        <translation type="unfinished"></translation>
+        <translation>1 lijn</translation>
     </message>
     <message>
         <source>2 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>2 lijnen</translation>
     </message>
     <message>
         <source>%1 lines</source>
@@ -10342,7 +10342,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsPageOrientationCommand</name>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -10353,11 +10353,11 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsPageOrientationModel</name>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
 </context>
 <context>
@@ -10385,11 +10385,11 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsSectionToolboxModel</name>
     <message>
         <source>Table of Contents (None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhoudsopgave (Geen)</translation>
     </message>
     <message>
         <source>Cover Page (None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorpagina (Geen)</translation>
     </message>
 </context>
 <context>
@@ -10618,14 +10618,14 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableFillColorModel</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen kleur</translation>
     </message>
 </context>
 <context>
@@ -10639,7 +10639,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <source>Vertical from Right to Left</source>
@@ -10666,7 +10666,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
 </context>
 <context>
@@ -10795,7 +10795,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan &amp;naar</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -10914,7 +10914,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Open bestand</translation>
     </message>
     <message>
         <source>Cancel</source>

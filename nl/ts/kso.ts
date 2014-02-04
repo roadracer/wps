@@ -287,7 +287,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object verplaatsen</translation>
     </message>
     <message>
         <source>Resize Object</source>
@@ -295,7 +295,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Adjust Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object aanpassen</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -439,7 +439,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnkleur</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -1659,7 +1659,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstvak</translation>
     </message>
     <message>
         <source>Group Shape</source>
@@ -1927,7 +1927,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Table</source>
-        <translation>Tafel</translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Toilet</source>
@@ -2063,7 +2063,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -2449,7 +2449,7 @@ File: %s
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2774,7 +2774,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>AutoShapes</source>
@@ -2794,7 +2794,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Bladwijzers</translation>
     </message>
     <message>
         <source>No</source>
@@ -2874,7 +2874,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
@@ -2958,7 +2958,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -2990,7 +2990,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
@@ -3154,7 +3154,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink invoegen</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -3210,7 +3210,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkerblauw</translation>
     </message>
     <message>
         <source>Dark Green</source>
@@ -3230,7 +3230,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkergeel</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -3330,7 +3330,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Groen</translation>
     </message>
     <message>
         <source>IceBlue</source>
@@ -3338,7 +3338,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indigo</translation>
     </message>
     <message>
         <source>Ivory</source>
@@ -3346,7 +3346,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Zacht lila</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -3378,7 +3378,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Olijfgroen</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -3426,7 +3426,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkoois</translation>
     </message>
     <message>
         <source>Violet</source>
@@ -3614,7 +3614,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>&amp;Next</source>

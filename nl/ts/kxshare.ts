@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Option:</source>
-        <translation type="unfinished"></translation>
+        <translation>Optie:</translation>
     </message>
     <message>
         <source>&amp;Line End:</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>HSL</source>
@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Upload now</source>
@@ -339,7 +339,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Del</source>
@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Active Window:</source>
@@ -586,7 +586,7 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Ellipsis</source>
@@ -1080,7 +1080,7 @@
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldig</translation>
     </message>
     <message>
         <source>Add Item</source>
@@ -1134,7 +1134,7 @@
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -1497,7 +1497,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -1575,7 +1575,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>path</source>
@@ -1617,7 +1617,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -1714,7 +1714,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Licht</translation>
     </message>
     <message>
         <source>Color &amp;2:</source>
@@ -1826,7 +1826,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Groen</translation>
     </message>
     <message>
         <source>Coffee</source>
@@ -1842,7 +1842,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rood</translation>
     </message>
     <message>
         <source>Shading styles</source>
@@ -1854,7 +1854,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertikaal</translation>
     </message>
     <message>
         <source>Diagonal &amp;up</source>
@@ -2089,7 +2089,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -2145,7 +2145,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
 </context>
 <context>
@@ -2261,7 +2261,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxDockPaneTitle</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -2543,7 +2543,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle afbeeldingen</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -2613,7 +2613,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstvak</translation>
     </message>
 </context>
 <context>
@@ -2863,11 +2863,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -3326,7 +3326,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Bron</translation>
     </message>
     <message>
         <source>Forward to</source>
@@ -3402,7 +3402,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -3463,7 +3463,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -3538,7 +3538,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -3597,7 +3597,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxSystemIssueReportWidget</name>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikoon</translation>
     </message>
     <message>
         <source>Checking...</source>
@@ -3636,7 +3636,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Disable title drag menu</source>
@@ -3692,7 +3692,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTemplateWidget</name>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjabloon</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4168,7 +4168,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>%, 1, 0, 100, 1</source>
@@ -4180,7 +4180,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4327,7 +4327,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>&amp;Bree&amp;te:</translation>
+        <translation>&amp;Breedte:</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
@@ -4426,7 +4426,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links:</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -4438,7 +4438,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -4500,7 +4500,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
-        <translation>Een bestand met de naam &quot;% 1&quot; bestaat al. Bent u zeker dat u wil overschrijven?</translation>
+        <translation>Een bestand met de naam &quot;%1&quot; bestaat al. Bent u zeker dat u wil overschrijven?</translation>
     </message>
     <message>
         <source>custom %1</source>
@@ -4592,7 +4592,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtgeel</translation>
     </message>
     <message>
         <source>Dark Brown</source>
@@ -4600,7 +4600,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <source>Gray-40%</source>
@@ -4744,7 +4744,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyaan</translation>
     </message>
     <message>
         <source>AutoBackup</source>
@@ -4823,7 +4823,7 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjablonen</translation>
     </message>
 </context>
 <context>
@@ -4903,7 +4903,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
@@ -5047,7 +5047,7 @@ Document</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer</translation>
     </message>
     <message>
         <source>Install</source>
@@ -5055,14 +5055,14 @@ Document</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
     <name>pasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Source:</source>
@@ -5161,7 +5161,7 @@ Document</source>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Samenvatting</translation>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>

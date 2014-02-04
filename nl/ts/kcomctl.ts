@@ -232,7 +232,7 @@
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -372,11 +372,11 @@
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen woorden</translation>
     </message>
 </context>
 <context>
@@ -470,7 +470,7 @@ multiple=multiple
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
