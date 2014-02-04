@@ -14513,7 +14513,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Press F1 for more help.</translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15703,7 +15703,7 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>Niet ingelogd</translation>
+        <translation>Niet ingelogd.</translation>
     </message>
 </context>
 <context>

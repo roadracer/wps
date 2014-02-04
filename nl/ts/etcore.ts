@@ -8938,7 +8938,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation></translation>
+        <translation>Valuta[0]</translation>
     </message>
     <message>
         <source>Customize</source>

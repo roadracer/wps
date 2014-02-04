@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -4340,7 +4340,7 @@ On/Off</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation>Dia's</translation>
+        <translation>Dia&apos;s</translation>
     </message>
     <message>
         <source>ZoomPercent</source>
@@ -11241,11 +11241,11 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.BordersFill</name>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Set border style, color and width of the current slide.</source>
@@ -11687,7 +11687,7 @@ A custom slide show displays only the slides you select.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -11741,7 +11741,7 @@ Click the arrow to select a different alignment.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -11793,7 +11793,7 @@ Click the arrow to select a different alignment.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Use the Equation Editor to insert mathematical formulas.</source>
@@ -11895,7 +11895,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -11986,7 +11986,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12040,7 +12040,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12070,7 +12070,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12124,7 +12124,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12198,7 +12198,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12247,7 +12247,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12295,7 +12295,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Table</source>
@@ -12314,7 +12314,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12534,7 +12534,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12575,7 +12575,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -12605,7 +12605,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
@@ -13079,7 +13079,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Use colors, gradients, textures, and pictures to fill the selected table in the current presentation slide.
@@ -13102,7 +13102,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
@@ -13158,7 +13158,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -13184,7 +13184,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -13588,7 +13588,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Sound from File</source>

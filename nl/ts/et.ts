@@ -509,11 +509,11 @@ condition is true: </source>
     </message>
     <message>
         <source>Date filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Datumfilter</translation>
     </message>
     <message>
         <source>Text filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstfilter</translation>
     </message>
     <message>
         <source>Not equal</source>
@@ -1550,7 +1550,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgDelCell</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
@@ -2880,7 +2880,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -3044,7 +3044,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;elete</source>
-        <translation type="unfinished"></translation>
+        <translation>V&amp;erwijderen</translation>
     </message>
     <message>
         <source>Re&amp;turn</source>
@@ -3758,11 +3758,11 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Delete columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen verwijderen</translation>
     </message>
     <message>
         <source>Delete rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen verwijderen</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -3797,7 +3797,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
@@ -3960,7 +3960,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Datum</translation>
     </message>
     <message>
         <source>Auto&amp;Fill</source>
@@ -4191,7 +4191,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Options</source>
@@ -4238,7 +4238,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand:</translation>
     </message>
     <message>
         <source>Patterns:</source>
@@ -4266,14 +4266,14 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSubTotal</name>
     <message>
         <source>Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotaal</translation>
     </message>
     <message>
         <source>&amp;At each change in:</source>
@@ -4285,7 +4285,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Som</translation>
     </message>
     <message>
         <source>Count</source>
@@ -4493,31 +4493,31 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Datum</translation>
     </message>
     <message>
         <source>MDY</source>
-        <translation type="unfinished"></translation>
+        <translation>MDJ</translation>
     </message>
     <message>
         <source>DMY</source>
-        <translation type="unfinished"></translation>
+        <translation>DMJ</translation>
     </message>
     <message>
         <source>YMD</source>
-        <translation type="unfinished"></translation>
+        <translation>JMD</translation>
     </message>
     <message>
         <source>MYD</source>
-        <translation type="unfinished"></translation>
+        <translation>MJD</translation>
     </message>
     <message>
         <source>DYM</source>
-        <translation type="unfinished"></translation>
+        <translation>DJM</translation>
     </message>
     <message>
         <source>YDM</source>
-        <translation type="unfinished"></translation>
+        <translation>JDM</translation>
     </message>
     <message>
         <source>Do not &amp;import column (skip)</source>
@@ -4529,15 +4529,15 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Vorige</translation>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Volgende &gt;</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
@@ -4572,7 +4572,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Date(1-1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum(1-1)</translation>
     </message>
     <message>
         <source>Time(1:2)</source>
@@ -4633,7 +4633,7 @@ protected.</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wachtwoord:</translation>
     </message>
 </context>
 <context>
@@ -4660,7 +4660,7 @@ protected.</source>
     </message>
     <message>
         <source>Whole number</source>
-        <translation type="unfinished"></translation>
+        <translation>Geheel getal</translation>
     </message>
     <message>
         <source>Decimal</source>
@@ -4672,11 +4672,11 @@ protected.</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>Text length</source>
@@ -4696,7 +4696,7 @@ protected.</source>
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation>tussen</translation>
     </message>
     <message>
         <source>not between</source>
@@ -6172,19 +6172,19 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>&amp;[Picture]</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;[Afbeelding]</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
@@ -7275,7 +7275,7 @@ t</source>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>The selected border style can be applied by clicking the presets, preview diagram or the buttons above.</source>
@@ -7377,7 +7377,7 @@ t</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Time</source>
@@ -7741,7 +7741,7 @@ t</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype</translation>
     </message>
     <message>
         <source>No Borders</source>
@@ -8057,23 +8057,23 @@ t</source>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Startdatum:</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei&amp;nddatum:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Starttijd:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei&amp;ndtijd:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formule:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
@@ -8081,7 +8081,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tijd:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -8161,7 +8161,7 @@ t</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>To Start</source>
@@ -8186,7 +8186,7 @@ t</source>
     </message>
     <message>
         <source>Microsoft Excel 2003 File (*.xls)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 2003 bestand (*.xls)</translation>
     </message>
     <message>
         <source>integer</source>
@@ -8342,7 +8342,7 @@ and cannot generate reports.</source>
     <name>SolverOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>AllMethods</source>
@@ -8481,7 +8481,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;ResetAll</source>
@@ -8524,7 +8524,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultaat</translation>
     </message>
     <message>
         <source>Reports</source>
@@ -8567,7 +8567,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>MDY</source>
@@ -8674,7 +8674,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>&amp;Update Values</source>
