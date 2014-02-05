@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Save in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan in %1</translation>
     </message>
     <message>
         <source>Backup in %1</source>
@@ -324,7 +324,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuleer</translation>
+        <translation>n</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -1303,7 +1303,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Copy To...</source>
@@ -1388,7 +1388,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -1601,7 +1601,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>&amp;Word:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Woord:</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
@@ -1613,7 +1613,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2739,7 +2739,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand openen</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -3199,11 +3199,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereed</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepauzeerd</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -3230,7 +3230,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxPropertyDlg</name>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantoor</translation>
     </message>
     <message>
         <source>Editor</source>
@@ -3258,7 +3258,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoonnummer</translation>
     </message>
     <message>
         <source>Work Group</source>
@@ -3290,7 +3290,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Doel</translation>
     </message>
     <message>
         <source>Content</source>
@@ -3298,7 +3298,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenaar</translation>
     </message>
     <message>
         <source>Finish Date</source>
@@ -3322,7 +3322,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>Source</source>
@@ -3534,7 +3534,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuleer</translation>
+        <translation>n</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5213,7 +5213,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Checked by</source>
@@ -5253,7 +5253,7 @@ Document</source>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenaar</translation>
     </message>
     <message>
         <source>Project</source>

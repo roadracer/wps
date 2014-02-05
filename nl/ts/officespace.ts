@@ -12,7 +12,7 @@
     <name>KBeforeLoginTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -464,7 +464,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Delete the current selection&apos;s contents</source>
@@ -715,7 +715,7 @@ Are you sure to change?</source>
     <name>KSendCloudLinkOKTip</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
@@ -765,7 +765,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuleer</translation>
+        <translation>n</translation>
     </message>
 </context>
 <context>
@@ -788,7 +788,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuleer</translation>
+        <translation>n</translation>
     </message>
 </context>
 <context>
@@ -1081,7 +1081,7 @@ Are you sure to change?</source>
     <name>kGuidBubble</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
 </context>
 <context>

@@ -1068,7 +1068,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Insert Auto Text</source>
@@ -1307,7 +1307,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1659,7 +1659,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -2906,11 +2906,11 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -3022,7 +3022,7 @@ Aan</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>Andere Formaten</translation>
+        <translation>Andere formaten</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3786,7 +3786,7 @@ Painter</source>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -4248,7 +4248,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Page Color</source>
@@ -4665,7 +4665,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -5301,11 +5301,11 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Next Change</source>
-        <translation>Volgende Wijziging</translation>
+        <translation>Volgende wijziging</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Volgende Opmerking</translation>
+        <translation>Volgende opmerking</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -7470,7 +7470,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Change User Information</source>
@@ -7478,7 +7478,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Wijzig Versie</translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
@@ -7701,7 +7701,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>Bewerk Opmerking</translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Edit Field</source>
@@ -8125,7 +8125,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Page Color</source>
@@ -9234,11 +9234,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Wijzig Versie</translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -9346,7 +9346,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>Andere Formaten</translation>
+        <translation>Andere formaten</translation>
     </message>
     <message>
         <source>Print</source>
@@ -10108,7 +10108,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -10565,7 +10565,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Page Color</source>
@@ -10891,7 +10891,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -11520,7 +11520,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>Nieuwe Opmerking</translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>Next</source>
@@ -11528,11 +11528,11 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Next Change</source>
-        <translation>Volgende Wijziging</translation>
+        <translation>Volgende wijziging</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Volgende Opmerking</translation>
+        <translation>Volgende opmerking</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -13796,7 +13796,7 @@ This option is available when grid is defined.</source>
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation>Zet de geselecteerde tekst in het Vet.</translation>
+        <translation>Maak de geselecteerde tekst vet.</translation>
     </message>
 </context>
 <context>
@@ -13950,7 +13950,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
@@ -14101,7 +14101,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.CloseOutlineview</name>
     <message>
         <source>Close</source>
-        <translation>Overzichtsweergave Sluiten</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Close Outline View and return to editing the document.</source>
@@ -14182,7 +14182,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation>Kopieër de selectie.</translation>
+        <translation>Kopieer de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>
@@ -15446,7 +15446,7 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     <name>tips.InsertPageBreak</name>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15710,7 +15710,7 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     <name>tips.KOSUserLoginCloudTip</name>
     <message>
         <source>Login with WPS account. Create or login your account to save documents to Cloud. You can access Cloud with any computer or mobile device. Never get lost.</source>
-        <translation>Inloggen met je WPS account. Registreer of log in om je bestanden op te slaan in de Cloud. Je hebt toegang tot de cloud vanaf iedere computer of mobiel toesten. Raak bestanden nooit meer kwijt!</translation>
+        <translation>Inloggen met uw WPS account. Registreer of log in om uw bestanden op te slaan in de Cloud. U heeft toegang tot de cloud vanaf iedere computer of mobiel toestel. Raak bestanden nooit meer kwijt.</translation>
     </message>
     <message>
         <source>Not Logged in.</source>
@@ -15994,7 +15994,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     </message>
     <message>
         <source>Next Change</source>
-        <translation>Volgende Wijziging</translation>
+        <translation>Volgende wijziging</translation>
     </message>
 </context>
 <context>
@@ -16005,7 +16005,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Volgende Opmerking</translation>
+        <translation>Volgende opmerking</translation>
     </message>
 </context>
 <context>
@@ -16769,7 +16769,7 @@ Klik op de pijl om een andere achtergrondkleur te kiezen.</translation>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-        <translation>De geselecteerde aanpassing afwijzen.</translation>
+        <translation>De geselecteerde wijziging in het document afwijzen</translation>
     </message>
 </context>
 <context>
@@ -18060,7 +18060,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Delete spaces at beginning of paragraph with first-line indent</source>
-        <translation>Verwijder spaties aan het begin van paragraaf met eerste lijn inspringen.</translation>
+        <translation>Verwijder spaties aan het begin van paragraaf met eerste lijn inspringen</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
@@ -18564,7 +18564,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>Nieuw Leeg Bestand</translation>
+        <translation>Nieuw leeg bestand</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -18608,7 +18608,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Page and section of the document. Click to go to certain page or section.</source>
@@ -18945,7 +18945,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>Nieuw Leeg Bestand</translation>
+        <translation>Nieuw leeg bestand</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -18989,7 +18989,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Recente Documenten</translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>References</source>
@@ -19045,11 +19045,11 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Window Max</source>
-        <translation>Venster Maximaliseren</translation>
+        <translation>Venster maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>Venster Minimaliseren</translation>
+        <translation>Venster minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
@@ -19209,7 +19209,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Recente Documenten</translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>References</source>

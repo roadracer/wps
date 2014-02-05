@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>Being calculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Wordt berekend</translation>
     </message>
     <message>
         <source>Start converting</source>
@@ -176,7 +176,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Converting to Kingsoft Writer document encountered an error.</source>

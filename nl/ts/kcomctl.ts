@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Achtergrond</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
@@ -239,14 +239,14 @@
     <name>KMDIMaximizeCommand</name>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaliseren</translation>
     </message>
 </context>
 <context>
     <name>KMDIMinimizeCommand</name>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimaliseren</translation>
     </message>
 </context>
 <context>
@@ -290,7 +290,7 @@
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst </translation>
     </message>
 </context>
 <context>
@@ -435,15 +435,15 @@ multiple=multiple
     <name>QMainWindow</name>
     <message>
         <source>Previous Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige document</translation>
     </message>
     <message>
         <source>Next Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgend document</translation>
     </message>
     <message>
         <source>Document List</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentlijst</translation>
     </message>
 </context>
 <context>
@@ -462,11 +462,11 @@ multiple=multiple
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimaliseren</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaliseren</translation>
     </message>
     <message>
         <source>Close</source>
@@ -509,7 +509,7 @@ multiple=multiple
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished"></translation>
+        <translation>Recente documenten:</translation>
     </message>
     <message>
         <source>Open</source>

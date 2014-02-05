@@ -81,7 +81,7 @@
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>Title</source>
@@ -113,7 +113,7 @@
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram</translation>
     </message>
     <message>
         <source>Object</source>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen verwijderen</translation>
     </message>
     <message>
         <source>Delete Rows</source>
@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>Edit Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel bewerken</translation>
     </message>
 </context>
 <context>
@@ -495,7 +495,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -795,7 +795,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl</translation>
     </message>
     <message>
         <source>Bomb</source>
@@ -823,7 +823,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"></translation>
+        <translation>Munt</translation>
     </message>
     <message>
         <source>Drum Roll</source>
@@ -831,11 +831,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosie</translation>
     </message>
     <message>
         <source>Hammer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamer</translation>
     </message>
     <message>
         <source>Laser</source>
@@ -1873,11 +1873,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Subtitle %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtitel %d</translation>
     </message>
     <message>
         <source>Title %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel %d</translation>
     </message>
     <message>
         <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
@@ -1967,7 +1967,7 @@ Fifth level</source>
     <name>wpprender</name>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -1975,11 +1975,11 @@ Fifth level</source>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia %d</translation>
     </message>
     <message>
         <source>Slide%d</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia%d</translation>
     </message>
 </context>
 <context>
@@ -1998,7 +1998,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>1 cm</source>
@@ -3202,7 +3202,7 @@ Fifth level</source>
     </message>
     <message>
         <source>&amp;Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen...</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -3238,7 +3238,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Change</source>
@@ -3262,7 +3262,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Copy %sof %s</source>
@@ -3510,11 +3510,11 @@ Fifth level</source>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleur</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Richting</translation>
     </message>
     <message>
         <source>Di&amp;rection</source>
@@ -3654,7 +3654,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Speciaal</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -3878,7 +3878,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia %d</translation>
     </message>
     <message>
         <source>Sound Oper&amp;ation</source>
@@ -4246,7 +4246,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Delete Slide</source>
@@ -4334,7 +4334,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -4766,7 +4766,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw van standaardsjabloon</translation>
     </message>
     <message>
         <source>Check Spelling</source>
