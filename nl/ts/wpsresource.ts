@@ -282,7 +282,7 @@
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pt</translation>
+        <translation></translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -582,11 +582,11 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art invoegen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Afbeelding Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -646,7 +646,7 @@
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Nudge</source>
@@ -654,7 +654,7 @@
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Object selecteren</translation>
     </message>
     <message>
         <source>Order</source>
@@ -726,7 +726,7 @@
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduw Stijl</translation>
+        <translation>Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -1057,7 +1057,7 @@
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Sluit Volledig Scherm</translation>
+        <translation>Volledig scherm sluiten</translation>
     </message>
 </context>
 <context>
@@ -1663,7 +1663,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Plakken Speciaal</translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1691,7 +1691,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1769,7 +1769,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>Fomule</translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -2169,7 +2169,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderrand</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -2177,7 +2177,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Draw
@@ -2239,15 +2239,15 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste randen</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand rechts</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -2267,7 +2267,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bovenrand</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
@@ -3046,7 +3046,7 @@ Aan</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Serienummer aanschaffen</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -3058,7 +3058,7 @@ Aan</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Opslaan Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -3124,7 +3124,7 @@ Aan</translation>
     </message>
     <message>
         <source>Header&amp;Footer  Options</source>
-        <translation>Header &amp; Footer  Opties</translation>
+        <translation>Header&amp;Footer Opties</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -3136,11 +3136,11 @@ Aan</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art invoegen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Voeg Afbeelding in</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Link to Previous</source>
@@ -3267,7 +3267,7 @@ Aan</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderrand</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3488,7 +3488,7 @@ Painter</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Plakken Speciaal</translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -3572,7 +3572,7 @@ Painter</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bovenrand</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -3742,7 +3742,7 @@ Painter</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert Picture From File</source>
@@ -3794,7 +3794,7 @@ Painter</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation>Pagina</translation>
+        <translation>Pagina&apos;s</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -4236,7 +4236,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Afdrukstand</translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -4777,7 +4777,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Afbeelding Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -4829,7 +4829,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5480,7 +5480,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Afdrukstand</translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -5711,7 +5711,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -6215,7 +6215,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Volledig Scherm</translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -6243,7 +6243,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation>Nieuw Venster</translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -6506,7 +6506,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -7631,7 +7631,7 @@ Aan</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>Datum en Tijd</translation>
+        <translation>Datum en tijd</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
@@ -7849,7 +7849,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Volledig Scherm</translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -8053,7 +8053,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation>Nieuw Venster</translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -8149,7 +8149,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Plakken Speciaal</translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Paste as Nest Table</source>
@@ -8561,7 +8561,7 @@ Diagonale Lijn in Cel</translation>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 <context>
@@ -8587,7 +8587,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderrand</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -8645,11 +8645,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Buitenste Rand</translation>
+        <translation>Buitenste rand</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Buitenste Randen</translation>
+        <translation>Buitenste randen</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -8669,7 +8669,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bovenrand</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
@@ -9382,7 +9382,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Opslaan Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
@@ -9466,7 +9466,7 @@ Opties</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Afbeelding Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Link to Previous</source>
@@ -9598,7 +9598,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderrand</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -9782,11 +9782,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Buitenste Rand</translation>
+        <translation>Buitenste rand</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Buitenste Randen</translation>
+        <translation>Buitenste randen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9802,7 +9802,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Plakken Speciaal</translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -9882,7 +9882,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bovenrand</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -10048,7 +10048,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Afbeelding Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert Picture From File</source>
@@ -10116,7 +10116,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation>Pagina</translation>
+        <translation>Pagina&apos;s</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -10553,7 +10553,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Afdrukstand</translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -11003,7 +11003,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Afbeelding Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -11051,7 +11051,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -11703,7 +11703,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Afdrukstand</translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -11934,7 +11934,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -12345,7 +12345,7 @@ Other Window</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Volledig Scherm</translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -12373,7 +12373,7 @@ Other Window</source>
     </message>
     <message>
         <source>New Window</source>
-        <translation>Nieuw Venster</translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -12636,7 +12636,7 @@ Other Window</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -13452,7 +13452,7 @@ Other Window</source>
     </message>
     <message>
         <source>Click the arrow to select from different 3-D colors.</source>
-        <translation>Klik op de pijl om te selecteren uit verschillende 3-D kleuren</translation>
+        <translation>Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     </message>
     <message>
         <source>Fill the selected 3-D shape with color.
@@ -13526,7 +13526,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     </message>
     <message>
         <source>Surface Effects</source>
-        <translation>Oppervlakte Effecten.</translation>
+        <translation>Oppervlakte effecten</translation>
     </message>
 </context>
 <context>
@@ -13724,7 +13724,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.ArtisticWordCharacterSpacing</name>
     <message>
         <source>Change the spacing between the letters of the selected WordArt text.</source>
-        <translation>De ruimte tussen de letters van de geselecteerde WordArt tekst Aanpassen</translation>
+        <translation>De ruimte tussen de letters van de geselecteerde WordArt tekst aanpassen.</translation>
     </message>
     <message>
         <source>Character Spacing</source>
@@ -14193,7 +14193,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Insert Cover Page</source>
-        <translation>Voorpagina Toevoegen.</translation>
+        <translation>Voorpagina invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14513,7 +14513,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Press F1 for more help.</translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14773,7 +14773,7 @@ Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation>Zelfde als vorige sectie.</translation>
+        <translation>Zelfde als vorige sectie</translation>
     </message>
 </context>
 <context>
@@ -14918,7 +14918,7 @@ Kingsoft Gallerij Online heeft internetverbinding nodig. Mijn Gallerij kan gebru
     </message>
     <message>
         <source>Next Footnote/Endnotes</source>
-        <translation>Volgende Voetnoot/Eindnoot.</translation>
+        <translation>Volgende voetnoot/eindnoot</translation>
     </message>
 </context>
 <context>
@@ -14929,7 +14929,7 @@ Kingsoft Gallerij Online heeft internetverbinding nodig. Mijn Gallerij kan gebru
     </message>
     <message>
         <source>View a specific record in the Recipient list</source>
-        <translation>Bekijk een specifieke vermelding in de ontvangers lijst.</translation>
+        <translation>Bekijk een specifieke vermelding in de ontvangers lijst</translation>
     </message>
 </context>
 <context>
@@ -15202,18 +15202,18 @@ Dit laat je zien welk deel van het formulier zal vervangen worden door de inform
     <name>tips.InsertCells</name>
     <message>
         <source>Insert Cells</source>
-        <translation>Cellen Invoegen</translation>
+        <translation>Cellen invoegen</translation>
     </message>
     <message>
         <source>Show the Insert Cells dialog box.</source>
-        <translation>Toon het Cellen Invoegen Dialoogvenster</translation>
+        <translation>Toon het Cellen Invoegen dialoogvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertChart</name>
     <message>
         <source>Insert Chart</source>
-        <translation>Diagram Invoegen</translation>
+        <translation>Diagram invoegen</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
@@ -15288,7 +15288,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation>Datum en Tijd</translation>
+        <translation>Datum en tijd</translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
@@ -15703,7 +15703,7 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>Niet ingelogd</translation>
+        <translation>Niet ingelogd.</translation>
     </message>
 </context>
 <context>
@@ -15714,7 +15714,7 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>Niet Ingelogd</translation>
+        <translation>Niet ingelogd.</translation>
     </message>
 </context>
 <context>
@@ -15979,7 +15979,7 @@ Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation>Nieuw Venster</translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
@@ -16145,7 +16145,7 @@ Klik op de pijl om te kiezen tussen verschillende nummeringsformaten.</translati
     <name>tips.OpenDataSource</name>
     <message>
         <source>Click here to open or close Data Source files.</source>
-        <translation>Klik hier om een databronbestand te openen of te sluiten</translation>
+        <translation>Klik hier om een databronbestand te openen of te sluiten.</translation>
     </message>
     <message>
         <source>Open Data Source</source>
@@ -16312,7 +16312,7 @@ Klik op de pijl om de hoofdletters, ingesloten tekens en tekenrandopties te tone
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation>Afbeelding Aanpassen</translation>
+        <translation>Afbeelding aanpassen</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
@@ -16364,7 +16364,7 @@ Klik op de pijl om verschillende opvulwijzen te selecteren.</translation>
     <name>tips.PictureOutline</name>
     <message>
         <source>Click the arrow to select detailed settings for the selected object.</source>
-        <translation>Klik op de pijl om gedetailleerde instellingen voor het object te selecteren</translation>
+        <translation>Klik op de pijl om gedetailleerde instellingen voor het object te selecteren.</translation>
     </message>
     <message>
         <source>Picture Outline</source>
@@ -16449,7 +16449,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     <name>tips.PreviousRecord</name>
     <message>
         <source>Preview the previous record in the recipient list</source>
-        <translation>Bekijk de vorige vermelding in de ontvangerslijst.</translation>
+        <translation>Bekijk de vorige vermelding in de ontvangerslijst</translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -16659,7 +16659,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Buitenste Randen</translation>
+        <translation>Buitenste randen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16750,11 +16750,11 @@ Klik op de pijl om een andere achtergrondkleur te kiezen.</translation>
     </message>
     <message>
         <source>Reject the current change and delete the comment.</source>
-        <translation>De huidige wijziging afwijzen en de opmerking verwijderen</translation>
+        <translation>De huidige wijziging afwijzen en de opmerking verwijderen.</translation>
     </message>
     <message>
         <source>Reject the selected change</source>
-        <translation>De geselecteerde wijziging afwijzen.</translation>
+        <translation>De geselecteerde wijziging afwijzen</translation>
     </message>
 </context>
 <context>
@@ -17414,7 +17414,7 @@ Klik op de pijl om verchillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Task Pane</source>
-        <translation>Taakvenster.</translation>
+        <translation>Taakvenster</translation>
     </message>
 </context>
 <context>
@@ -17515,7 +17515,7 @@ Klik op de pijl om verschillende onderstreepstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
-        <translation>Inhoudstabel Updaten.</translation>
+        <translation>Inhoudstabel updaten</translation>
     </message>
     <message>
         <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
@@ -17906,7 +17906,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Page Size</source>
-        <translation>Paginagrootte.</translation>
+        <translation>Paginagrootte</translation>
     </message>
 </context>
 <context>
@@ -18048,7 +18048,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Delete Blank Paragraph</source>
-        <translation>Verwijder Witte Paragraaf</translation>
+        <translation>Verwijder lege paragraaf</translation>
     </message>
     <message>
         <source>Delete Soft Return</source>
@@ -18056,7 +18056,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Delete Spaces</source>
-        <translation>Verwijder Spaties</translation>
+        <translation>Verwijder spaties</translation>
     </message>
     <message>
         <source>Delete spaces at beginning of paragraph with first-line indent</source>
@@ -18072,7 +18072,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
-        <translation>Herschik Paragrafen</translation>
+        <translation>Paragrafen herschikken</translation>
     </message>
     <message>
         <source>Smart Rearrange</source>
@@ -18296,7 +18296,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Browse Objects</source>
-        <translation>Objecten Bekijken</translation>
+        <translation>Objecten bekijken</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -18328,15 +18328,15 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
-        <translation>klik om automatische backup aan of uit te zetten.</translation>
+        <translation>Klik om automatische backup aan of uit te zetten</translation>
     </message>
     <message>
         <source>Click to turn on/off reviewing function</source>
-        <translation>Klik om de revisie functie aan of uit te zetten.</translation>
+        <translation>Klik om de revisiefunctie aan of uit te zetten</translation>
     </message>
     <message>
         <source>Click to turn on/off spelling check</source>
-        <translation>Klik om de spellingscontrole aan of uit te zetten.</translation>
+        <translation>Klik om de spellingscontrole aan of uit te zetten</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -18464,7 +18464,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Volledig Scherm</translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -18572,7 +18572,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>New File</source>
-        <translation>Nieuw Bestand</translation>
+        <translation>Nieuw bestand</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -18640,7 +18640,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Recente Documenten</translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -18680,7 +18680,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Save As</source>
-        <translation>Opslaan Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Select</source>
@@ -18752,7 +18752,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Table Style</source>
-        <translation>Tabelstijn</translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>Table Text</source>
@@ -19083,7 +19083,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <name>wpsongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 <context>
@@ -19265,19 +19265,19 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Window Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -19307,7 +19307,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 </TS>

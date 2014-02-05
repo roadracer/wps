@@ -57,11 +57,11 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste rij</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatste rij</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -73,11 +73,11 @@
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste kolom</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatste kolom</translation>
     </message>
 </context>
 <context>

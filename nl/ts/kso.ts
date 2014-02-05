@@ -9,15 +9,15 @@
     </message>
     <message>
         <source>Object Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Object verwijderd</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarde buiten bereik</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige parameter</translation>
     </message>
     <message>
         <source>Command Failed</source>
@@ -25,11 +25,11 @@
     </message>
     <message>
         <source>Unknown Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Onbekende fout</translation>
     </message>
     <message>
         <source>Invalid Argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldig argument</translation>
     </message>
     <message>
         <source>Item Exists</source>
@@ -100,7 +100,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>%s Object</source>
-        <translation type="unfinished"></translation>
+        <translation>%s object</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
@@ -176,7 +176,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>HTML Format</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML-formaat</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
@@ -235,7 +235,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
@@ -287,7 +287,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object verplaatsen</translation>
     </message>
     <message>
         <source>Resize Object</source>
@@ -295,7 +295,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Adjust Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object aanpassen</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -439,7 +439,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnkleur</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -459,11 +459,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Toggle Shadow</source>
@@ -475,7 +475,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduwkleur</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -739,7 +739,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
-        <translation>De waarde moet tussen -600 pt en 9600 pt liggen</translation>
+        <translation>De waarde moet tussen -600 pt en 9600 pt liggen.</translation>
     </message>
     <message>
         <source>Color</source>
@@ -828,11 +828,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als afbeelding</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp</source>
@@ -947,7 +947,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"></translation>
+        <translation>Kubus</translation>
     </message>
     <message>
         <source>Balloon</source>
@@ -967,7 +967,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Plaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedenkplaat</translation>
     </message>
     <message>
         <source>Can</source>
@@ -1115,7 +1115,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Golf</translation>
     </message>
     <message>
         <source>Folded Corner</source>
@@ -1143,19 +1143,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Explosion 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosie 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosie 2</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
-        <translation type="unfinished"></translation>
+        <translation>Bliksemschicht</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Hart</translation>
     </message>
     <message>
         <source>Picture Frame</source>
@@ -1583,11 +1583,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Sun</source>
-        <translation type="unfinished"></translation>
+        <translation>Zon</translation>
     </message>
     <message>
         <source>Moon</source>
-        <translation type="unfinished"></translation>
+        <translation>Maan</translation>
     </message>
     <message>
         <source>Double Bracket</source>
@@ -1659,7 +1659,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstvak</translation>
     </message>
     <message>
         <source>Group Shape</source>
@@ -1671,7 +1671,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Chair</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoel</translation>
     </message>
     <message>
         <source>Guest Chair</source>
@@ -1691,7 +1691,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Tower</source>
-        <translation type="unfinished"></translation>
+        <translation>Toren</translation>
     </message>
     <message>
         <source>Traditional Mac computer</source>
@@ -1719,11 +1719,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documenten</translation>
     </message>
     <message>
         <source>Door leaf</source>
@@ -1775,19 +1775,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Laptop</source>
-        <translation type="unfinished"></translation>
+        <translation>Laptop</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Brief</translation>
     </message>
     <message>
         <source>Light bulb</source>
-        <translation type="unfinished"></translation>
+        <translation>Gloeilamp</translation>
     </message>
     <message>
         <source>Padlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangslot</translation>
     </message>
     <message>
         <source>Mainframe</source>
@@ -1807,19 +1807,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Muziek</translation>
     </message>
     <message>
         <source>PC</source>
-        <translation type="unfinished"></translation>
+        <translation>PC</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoon</translation>
     </message>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto</translation>
     </message>
     <message>
         <source>Plant</source>
@@ -1871,19 +1871,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Puzzle1</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzel1</translation>
     </message>
     <message>
         <source>Puzzle2</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzel2</translation>
     </message>
     <message>
         <source>Puzzle3</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzel3</translation>
     </message>
     <message>
         <source>Puzzle4</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzel4</translation>
     </message>
     <message>
         <source>Pyr1</source>
@@ -1911,11 +1911,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Scanner</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanner</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <source>Sink1</source>
@@ -1927,7 +1927,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Toilet</source>
@@ -1947,7 +1947,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Puzzle5</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzel5</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1999,11 +1999,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Paper1</source>
-        <translation type="unfinished"></translation>
+        <translation>Papier1</translation>
     </message>
     <message>
         <source>Paper2</source>
-        <translation type="unfinished"></translation>
+        <translation>Papier2</translation>
     </message>
     <message>
         <source>Pane Woven</source>
@@ -2043,15 +2043,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Water</source>
-        <translation type="unfinished"></translation>
+        <translation>Water</translation>
     </message>
     <message>
         <source>Earth1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aarde1</translation>
     </message>
     <message>
         <source>Earth2</source>
-        <translation type="unfinished"></translation>
+        <translation>Aarde2</translation>
     </message>
     <message>
         <source>Radialized Pattern</source>
@@ -2063,7 +2063,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -2115,7 +2115,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuur</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -2174,7 +2174,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>filter</name>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>XML-bestanden</translation>
     </message>
     <message>
         <source>XML Document Templates</source>
@@ -2222,27 +2222,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbestand</translation>
     </message>
     <message>
         <source>Text Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbestanden</translation>
     </message>
     <message>
         <source>RTF File</source>
-        <translation type="unfinished"></translation>
+        <translation>RTF-bestand</translation>
     </message>
     <message>
         <source>RTF Files</source>
-        <translation type="unfinished"></translation>
+        <translation>RTF-bestanden</translation>
     </message>
     <message>
         <source>HTML File</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML-bestand</translation>
     </message>
     <message>
         <source>HTML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML-bestanden</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
@@ -2304,11 +2304,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>kso</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als</translation>
     </message>
 </context>
 <context>
@@ -2319,7 +2319,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Kingsoft Office</source>
@@ -2449,7 +2449,7 @@ File: %s
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2674,7 +2674,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw document</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -2698,51 +2698,51 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>10%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>20%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>25%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>30%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>40%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>5%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>60%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>70%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Add</source>
@@ -2774,7 +2774,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>AutoShapes</source>
@@ -2790,23 +2790,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&amp;Blue:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Blauw:</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Bladwijzers</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee</translation>
     </message>
     <message>
         <source>Yes or No</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja of nee</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>(Build %s)</source>
@@ -2874,7 +2874,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
@@ -2958,7 +2958,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -2990,7 +2990,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
@@ -3094,7 +3094,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <source>The file name is incorrect, please input the filename with correct format.</source>
@@ -3102,7 +3102,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>File not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand niet gevonden</translation>
     </message>
     <message>
         <source>First Slide</source>
@@ -3122,7 +3122,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Groen:</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -3154,11 +3154,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink invoegen</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldig</translation>
     </message>
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
@@ -3198,7 +3198,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Heldergroen</translation>
     </message>
     <message>
         <source>Brown</source>
@@ -3210,11 +3210,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkerblauw</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkergroen</translation>
     </message>
     <message>
         <source>Dark Purple</source>
@@ -3222,7 +3222,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkerrood</translation>
     </message>
     <message>
         <source>Dark Teal</source>
@@ -3230,7 +3230,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkergeel</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -3330,7 +3330,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Groen</translation>
     </message>
     <message>
         <source>IceBlue</source>
@@ -3338,7 +3338,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indigo</translation>
     </message>
     <message>
         <source>Ivory</source>
@@ -3346,7 +3346,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Zacht lila</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -3354,11 +3354,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtgroen</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtoranje</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
@@ -3366,7 +3366,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtgeel</translation>
     </message>
     <message>
         <source>Lime</source>
@@ -3378,11 +3378,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Olijfgroen</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Oranje</translation>
     </message>
     <message>
         <source>Pale Blue</source>
@@ -3410,11 +3410,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeegroen</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemelsblauw</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -3426,19 +3426,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkoois</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Wit</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Geel</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
@@ -3578,11 +3578,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Next Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende dia</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -3614,7 +3614,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -3670,7 +3670,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Previous Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige dia</translation>
     </message>
     <message>
         <source>Initializing the printer...</source>
@@ -3686,7 +3686,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rood:</translation>
     </message>
     <message>
         <source>Refercence is not valid.</source>
@@ -3710,7 +3710,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
@@ -3850,7 +3850,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Registered</source>
@@ -3886,7 +3886,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjabloon</translation>
     </message>
     <message>
         <source>what you entered is invalid.</source>
@@ -3898,7 +3898,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Select Texture</source>

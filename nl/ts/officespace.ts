@@ -286,7 +286,7 @@
     </message>
     <message>
         <source>Delete file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand verwijderen</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos; files?</source>
@@ -344,7 +344,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Online documenten</translation>
     </message>
     <message>
         <source>Upward directory</source>
@@ -372,7 +372,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -412,7 +412,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Details</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Details</translation>
     </message>
     <message>
         <source>&amp;Content</source>
@@ -540,7 +540,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen</translation>
     </message>
     <message>
         <source>New &amp;Folder</source>
@@ -556,7 +556,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>File name too long, please enter a name smaller than %1.</source>
@@ -584,11 +584,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
@@ -765,7 +765,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuleer</translation>
     </message>
 </context>
 <context>
@@ -788,7 +788,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuleer</translation>
     </message>
 </context>
 <context>
@@ -803,7 +803,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -821,7 +821,7 @@ Are you sure to change?</source>
     <message>
         <source>Type</source>
         <comment>description for content mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>file manage</source>
@@ -849,7 +849,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <source>File Folder</source>
@@ -933,7 +933,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Size</source>
@@ -947,7 +947,7 @@ Are you sure to change?</source>
     <message>
         <source>Type</source>
         <comment>All other platforms</comment>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Modified Date</source>
@@ -1062,7 +1062,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Delete file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand verwijderen</translation>
     </message>
     <message>
         <source>Failed to delete the following files! Please check if the files are being used.</source>
