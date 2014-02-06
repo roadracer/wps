@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -765,7 +765,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>n</translation>
+        <translation>&amp;Annuleren</translation>
     </message>
 </context>
 <context>
@@ -788,7 +788,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>n</translation>
+        <translation>&amp;Annuleren</translation>
     </message>
 </context>
 <context>

@@ -17,11 +17,11 @@
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Module</translation>
     </message>
     <message>
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
@@ -110,7 +110,7 @@ Please try one of the following.
     </message>
     <message>
         <source>(Read Only)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Alleen lezen)</translation>
     </message>
     <message>
         <source>*</source>
@@ -356,7 +356,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>Formula is too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule is te lang.</translation>
     </message>
     <message>
         <source>Content in cell is too long.</source>
@@ -775,7 +775,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>(Exclusive)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Exclusief)</translation>
     </message>
     <message>
         <source>Your changes on sheet &apos;%s&apos;:</source>
@@ -968,7 +968,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Beperkingen</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -976,7 +976,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Slack</source>
@@ -996,7 +996,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarde</translation>
     </message>
     <message>
         <source>Integer</source>
@@ -1184,11 +1184,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijs</translation>
     </message>
     <message>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation>Kosten</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -1196,7 +1196,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Beperking</translation>
     </message>
     <message>
         <source>Trail Solution</source>
@@ -5536,7 +5536,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation>Kosten</translation>
     </message>
     <message>
         <source>Salvage</source>
@@ -6116,7 +6116,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Keuzelijst</translation>
     </message>
     <message>
         <source>Drop-down box</source>
@@ -8263,7 +8263,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie invoegen</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -8395,7 +8395,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles tonen</translation>
     </message>
     <message>
         <source>Subtotals</source>

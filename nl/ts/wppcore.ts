@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Times New Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Times New Roman</translation>
     </message>
 </context>
 <context>
@@ -356,7 +356,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Center</source>
@@ -364,7 +364,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -1501,7 +1501,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia verbergen</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -1971,7 +1971,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsommingstekens</translation>
     </message>
     <message>
         <source>Slide %d</source>
@@ -3762,7 +3762,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Background Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrondkleur</translation>
     </message>
     <message>
         <source>Text and Lines Color</source>
@@ -3978,7 +3978,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
@@ -4102,7 +4102,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Dianummer</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -4270,7 +4270,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voettekst</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
@@ -4286,7 +4286,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe dia</translation>
     </message>
     <message>
         <source>Insert New Slide Master</source>
@@ -4366,7 +4366,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia verbergen</translation>
     </message>
     <message>
         <source>Custom Shows</source>
@@ -4410,7 +4410,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsommingstekens</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -4550,7 +4550,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>Typografie</translation>
     </message>
     <message>
         <source>Edit Object</source>

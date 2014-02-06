@@ -12,7 +12,7 @@
     <name>CTableStyle</name>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen stijl, geen raster</translation>
     </message>
     <message>
         <source>Themed Style</source>
@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Benadrukken</translation>
     </message>
     <message>
         <source>1-</source>
@@ -627,7 +627,7 @@
     <name>Dlgtypography</name>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>Typografie</translation>
     </message>
     <message>
         <source>First and last characters</source>
