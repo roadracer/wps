@@ -253,7 +253,7 @@
     <name>KDlgCrashUpload</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
@@ -324,7 +324,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>n</translation>
+        <translation>&amp;Annuleren</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -617,7 +617,7 @@
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjablonen</translation>
     </message>
     <message>
         <source>Never modify</source>
@@ -1372,7 +1372,7 @@
     <name>KxCustomToolBarTB</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Tool&amp;bars:</source>
@@ -1874,7 +1874,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textuur</translation>
     </message>
     <message>
         <source>&amp;Texture:</source>
@@ -2111,11 +2111,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjablonen</translation>
     </message>
     <message>
         <source>Set as &amp;Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellen als &amp;standaardsjabloon</translation>
     </message>
 </context>
 <context>
@@ -2924,7 +2924,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxModifyCommandDlg</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>&amp;Appearance</source>
@@ -3534,7 +3534,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>n</translation>
+        <translation>&amp;Annuleren</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3718,7 +3718,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
@@ -3748,7 +3748,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpBackUp</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
@@ -3889,7 +3889,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>Manage</source>
@@ -3932,7 +3932,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>Manage</source>
@@ -3979,7 +3979,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpSelectShape</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Shapes on this page:</source>
@@ -3987,11 +3987,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles tonen</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles verbergen</translation>
     </message>
     <message>
         <source>up</source>
@@ -4152,7 +4152,7 @@ of services and features.</source>
     <name>KxWidgetPicture</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -4227,7 +4227,7 @@ of services and features.</source>
     <name>KxWidgetSize</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -4346,7 +4346,7 @@ of services and features.</source>
     <name>KxWidgetTemplate</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Up</source>
@@ -4390,7 +4390,7 @@ cannot be previewed.</source>
     <name>KxWidgetTextBox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
