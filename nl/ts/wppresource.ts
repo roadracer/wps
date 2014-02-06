@@ -542,7 +542,7 @@
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -590,7 +590,7 @@
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Order</source>
@@ -811,7 +811,7 @@
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -847,7 +847,7 @@
     </message>
     <message>
         <source>More Bullets</source>
-        <translation>Meer Opsommingstekens</translation>
+        <translation>Meer opsommingstekens</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -1031,7 +1031,7 @@
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1055,7 +1055,7 @@
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -1122,7 +1122,7 @@
     </message>
     <message>
         <source>Next Page</source>
-        <translation>Volgende Pagina</translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Options</source>
@@ -1134,7 +1134,7 @@
     </message>
     <message>
         <source>Previous Page</source>
-        <translation>Vorige Pagina</translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
@@ -1187,11 +1187,11 @@
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>Wijzig Commentaar</translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>Nieuw Commentaar</translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>Next</source>
@@ -1759,7 +1759,7 @@ Master</source>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1778,7 +1778,7 @@ Master</source>
     <name>ongmani.ct_design</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -2332,7 +2332,7 @@ Aan</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation>Meer Opsommingstekens</translation>
+        <translation>Meer opsommingstekens</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -2448,7 +2448,7 @@ Aan</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -2525,11 +2525,11 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -2561,7 +2561,7 @@ Aan</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandspakket</translation>
     </message>
     <message>
         <source>Help</source>
@@ -2613,11 +2613,11 @@ Aan</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>Nieuw Leeg Bestand</translation>
+        <translation>Nieuw leeg bestand</translation>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw van standaardsjabloon</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -2645,7 +2645,7 @@ Aan</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>Andere Formaten</translation>
+        <translation>Andere formaten</translation>
     </message>
     <message>
         <source>Package Presentation into compress file</source>
@@ -2661,7 +2661,7 @@ Aan</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -2685,7 +2685,7 @@ Aan</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Sla Op Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -3120,7 +3120,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3160,7 +3160,7 @@ Slide</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation>Meer Opsommingstekens</translation>
+        <translation>Meer opsommingstekens</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -3188,7 +3188,7 @@ Slide</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -3288,7 +3288,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <source>Slide Show From Beginning</source>
@@ -3324,7 +3324,7 @@ Slide</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -3473,7 +3473,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -3949,7 +3949,7 @@ Slide</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4053,7 +4053,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4097,7 +4097,7 @@ Slide</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4393,7 +4393,7 @@ On/Off</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -4409,11 +4409,11 @@ On/Off</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Volgende Opmerking</translation>
+        <translation>Volgende opmerking</translation>
     </message>
     <message>
         <source>Previous Comment</source>
@@ -4520,7 +4520,7 @@ On/Off</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -4641,7 +4641,7 @@ aan/uit</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4690,7 +4690,7 @@ Master View</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation>Meer Opsommingstekens</translation>
+        <translation>Meer opsommingstekens</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -4727,7 +4727,7 @@ Master</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
 </context>
 <context>
@@ -5086,7 +5086,7 @@ Settings</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
 </context>
 <context>
@@ -5297,7 +5297,7 @@ Other Window</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -6064,7 +6064,7 @@ Aan</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -6120,7 +6120,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Change Points</source>
@@ -6128,7 +6128,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Change to</source>
@@ -6208,7 +6208,7 @@ Aan</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -6276,7 +6276,7 @@ Aan</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -6368,7 +6368,7 @@ Aan</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandspakket</translation>
     </message>
     <message>
         <source>First Slide</source>
@@ -6604,7 +6604,7 @@ Aan</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>New Slide</source>
@@ -7202,7 +7202,7 @@ Master</source>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -7221,7 +7221,7 @@ Master</source>
     <name>rainbow.ct_design</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -7740,11 +7740,11 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -7776,7 +7776,7 @@ AddIns</source>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandspakket</translation>
     </message>
     <message>
         <source>Help</source>
@@ -7852,7 +7852,7 @@ AddIns</source>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>Andere Formaten</translation>
+        <translation>Andere formaten</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -7868,7 +7868,7 @@ AddIns</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -7892,7 +7892,7 @@ AddIns</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Sla Op Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -8335,7 +8335,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -8379,7 +8379,7 @@ Slide</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation>Meer Opsommingstekens</translation>
+        <translation>Meer opsommingstekens</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -8411,7 +8411,7 @@ Slide</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Package File</source>
@@ -8531,7 +8531,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -8567,7 +8567,7 @@ Slide</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -8712,7 +8712,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -9185,7 +9185,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -9289,7 +9289,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -9333,7 +9333,7 @@ Subordinate</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -9635,7 +9635,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>Bewerk commentaar</translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -9651,7 +9651,7 @@ Subordinate</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>Next</source>
@@ -9762,7 +9762,7 @@ Subordinate</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10299,7 +10299,7 @@ Other Window</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -11208,7 +11208,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.Backdrop</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Set the background style to the current slide or entire presentation.</source>
@@ -11234,7 +11234,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak de geselecteerde tekst vet.</translation>
     </message>
 </context>
 <context>
@@ -11336,7 +11336,7 @@ Click the arrow to choose different bullet styles.</source>
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
@@ -11461,14 +11461,14 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>
     <name>tips.CustomAnimation</name>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>Open the Custom Animation task pane to apply animation effects to the text or object in the current slide.</source>
@@ -12114,7 +12114,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.InsertChart</name>
     <message>
         <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram invoegen</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
@@ -12560,7 +12560,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
 </context>
 <context>
@@ -12638,7 +12638,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.NextComment</name>
     <message>
         <source>Next Comment</source>
-        <translation>Volgende Opmerking</translation>
+        <translation>Volgende opmerking</translation>
     </message>
     <message>
         <source>Next comment.</source>
@@ -13031,7 +13031,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
 </context>
 <context>
@@ -13813,7 +13813,7 @@ Click the arrow to select a different text color.</source>
     <name>tips.Underline</name>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline the selected text.</source>
@@ -14247,7 +14247,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Review</source>
@@ -14393,7 +14393,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -14614,7 +14614,7 @@ Slide</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Recent File List</source>
@@ -14654,7 +14654,7 @@ Slide</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Sla Op Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -14778,7 +14778,7 @@ Slide</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -14952,7 +14952,7 @@ Slide</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -15016,11 +15016,11 @@ Slide</source>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
@@ -15058,7 +15058,7 @@ Slide</source>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 <context>
@@ -15183,7 +15183,7 @@ Slide</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -15247,11 +15247,11 @@ Slide</source>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
@@ -15292,7 +15292,7 @@ Slide</source>
     <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 <context>

@@ -3867,7 +3867,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedrijf</translation>
     </message>
     <message>
         <source>Address 1</source>
@@ -7946,7 +7946,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedrijf</translation>
     </message>
     <message>
         <source>Address 1</source>
@@ -8094,7 +8094,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Omschrijving</translation>
     </message>
     <message>
         <source>Modified Time</source>

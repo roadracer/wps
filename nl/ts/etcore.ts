@@ -610,7 +610,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram</translation>
     </message>
     <message>
         <source>Workbook in %s</source>
@@ -5204,7 +5204,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw van standaardsjabloon</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -8191,7 +8191,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Copy Cells</source>
@@ -8351,7 +8351,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Tab Color</source>

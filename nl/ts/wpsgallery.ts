@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>Van:</translation>
     </message>
     <message>
         <source>Text</source>

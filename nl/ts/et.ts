@@ -2218,7 +2218,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Richting</translation>
     </message>
     <message>
         <source>Summary rows &amp;below detail</source>
@@ -5498,7 +5498,7 @@ protected.</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>&amp;Go to</source>
@@ -7401,7 +7401,7 @@ t</source>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Speciaal</translation>
     </message>
     <message>
         <source>Custom</source>

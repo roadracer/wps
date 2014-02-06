@@ -2863,7 +2863,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Get External Data</source>
@@ -3474,11 +3474,11 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -5280,7 +5280,7 @@ On/Off</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -5292,7 +5292,7 @@ On/Off</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -6508,7 +6508,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -6692,7 +6692,7 @@ Aan</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -6796,7 +6796,7 @@ Aan</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Format Axis</source>
@@ -7601,7 +7601,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Get External Data</source>
@@ -8171,11 +8171,11 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -9908,7 +9908,7 @@ Center</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -9920,7 +9920,7 @@ Center</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -11136,7 +11136,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11223,7 +11223,7 @@ Before using this feature, first set security on the sheet by using the Protect 
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11302,7 +11302,7 @@ Once filtering is turned on, click the arrow in the column header to choose a fi
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak de geselecteerde tekst vet.</translation>
     </message>
 </context>
 <context>
@@ -11323,7 +11323,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11379,7 +11379,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11409,7 +11409,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11428,7 +11428,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11479,7 +11479,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.Chart</name>
     <message>
         <source>Create Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram aanmaken</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
@@ -11662,7 +11662,7 @@ This will change the format of the cell to Accounting without a currency symbol.
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11673,18 +11673,18 @@ This will change the format of the cell to Accounting without a currency symbol.
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>
     <name>tips.Count</name>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Tellen</translation>
     </message>
     <message>
         <source>Count the number of cells in a column that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tel het aantal cellen in een kolom die getallen bevatten.</translation>
     </message>
 </context>
 <context>
@@ -11773,7 +11773,7 @@ Bijvoorbeeld, kies euro in plaats van dollars.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12006,7 +12006,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12025,7 +12025,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12043,7 +12043,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EditComment</name>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Edit the selected comment.</source>
@@ -12077,7 +12077,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12225,7 +12225,7 @@ Click the arrow to select a different background color.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12274,7 +12274,7 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12350,7 +12350,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12472,7 +12472,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12513,7 +12513,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12532,7 +12532,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12576,7 +12576,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
 </context>
 <context>
@@ -12630,7 +12630,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12649,7 +12649,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12672,7 +12672,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12713,7 +12713,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12940,7 +12940,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12994,7 +12994,7 @@ This is often used to create labels that span multiple columns.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13085,7 +13085,7 @@ Names can be used in formulas to make them easier to understand.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13108,7 +13108,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13127,7 +13127,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13403,7 +13403,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13570,7 +13570,7 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13751,7 +13751,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13794,7 +13794,7 @@ The password will prevent others from turning off change tracking.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13817,7 +13817,7 @@ You can specify a password that can be entered to unprotect the sheet and allow 
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13884,7 +13884,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13914,7 +13914,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13955,7 +13955,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -14283,7 +14283,7 @@ You can use this feature to view multiple distant panes of your worksheet at onc
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -14437,7 +14437,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -14526,7 +14526,7 @@ You can also force input to be chosen from a dropdown list of values you specify
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>

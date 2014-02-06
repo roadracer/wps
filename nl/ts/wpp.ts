@@ -5,7 +5,7 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen</translation>
     </message>
 </context>
 <context>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>&amp;Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen...</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
@@ -817,7 +817,7 @@
     <name>KxColorSettingPanel</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Text and lines</source>
@@ -913,7 +913,7 @@
     <name>KxDlgBackground</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>&amp;Background fill</source>
@@ -1115,11 +1115,11 @@
     </message>
     <message>
         <source>Are you sure to delete the background music from current slide?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u de achtergrondmuziek van huidige dia wil verwijderen?</translation>
     </message>
     <message>
         <source>&amp;Do not prompt next time.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;De volgende keer niet vragen.</translation>
     </message>
 </context>
 <context>
@@ -1273,11 +1273,11 @@
     </message>
     <message>
         <source>cm</source>
-        <translation>vm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>&amp;Display grid on screen</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Raster weergeven op het scherm</translation>
     </message>
     <message>
         <source>Guide settings</source>
@@ -4040,7 +4040,7 @@
     <name>TpWppCustomAnimation</name>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>Customize Animation:</source>
