@@ -1621,7 +1621,7 @@ Master</source>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -5114,7 +5114,7 @@ Other Window</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -5138,7 +5138,7 @@ Other Window</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -5659,7 +5659,7 @@ Aan</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -6160,7 +6160,7 @@ Aan</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -6372,7 +6372,7 @@ Aan</translation>
     </message>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste dia</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -6564,7 +6564,7 @@ Aan</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -10115,7 +10115,7 @@ Other Window</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -10642,7 +10642,7 @@ Other Window</source>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -11219,7 +11219,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.BackgroundMusic</name>
     <message>
         <source>Insert Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrondmuziek invoegen</translation>
     </message>
     <message>
         <source>Insert an audio file into the presentation. The slide show will automatically play the audio, which will be looped until the end of the slide show.</source>
@@ -11249,11 +11249,11 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Set border style, color and width of the current slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel randstijl, de kleur en de breedte van de huidige dia in.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -11413,7 +11413,7 @@ Click the arrow to choose different bullet styles.</source>
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Close the current window.</source>
@@ -11496,7 +11496,7 @@ A custom slide show displays only the slides you select.</source>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Knip de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>
@@ -11540,7 +11540,7 @@ A custom slide show displays only the slides you select.</source>
     </message>
     <message>
         <source>Delete the selected row or column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder de geselecteerde rij of kolom.</translation>
     </message>
 </context>
 <context>
@@ -14762,7 +14762,7 @@ Slide</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjablonen</translation>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>

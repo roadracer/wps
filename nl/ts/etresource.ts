@@ -738,7 +738,7 @@
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Vierkant Punt</translation>
+        <translation>Vierkante punt</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -1093,7 +1093,7 @@ Center</source>
     </message>
     <message>
         <source>Format Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport opmaken</translation>
     </message>
     <message>
         <source>Group and Show Detail</source>
@@ -1165,7 +1165,7 @@ Center</source>
     </message>
     <message>
         <source>Table Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelopties</translation>
     </message>
 </context>
 <context>
@@ -1316,7 +1316,7 @@ Center</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -1348,7 +1348,7 @@ Center</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -1364,11 +1364,11 @@ Center</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak als afbeelding</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak als niet-opgemaakte tekst</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1392,11 +1392,11 @@ Center</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1566,7 +1566,7 @@ Center</source>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -2383,7 +2383,7 @@ Window</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -2591,7 +2591,7 @@ Window</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -2931,11 +2931,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Subtotal</source>
@@ -3776,7 +3776,7 @@ Aan</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -4035,7 +4035,7 @@ Aan</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -4148,7 +4148,7 @@ Center</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
@@ -4180,7 +4180,7 @@ Center</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak als afbeelding</translation>
     </message>
     <message>
         <source>Percent Style</source>
@@ -4240,11 +4240,11 @@ Center</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -5643,7 +5643,7 @@ Other Window</source>
     <name>ongmani.ct_view.window</name>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Split</source>
@@ -6088,7 +6088,7 @@ Aan</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -6577,7 +6577,7 @@ Aan</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Column Width</source>
@@ -7085,7 +7085,7 @@ Aan</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -7674,11 +7674,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Subtotal</source>
@@ -8470,7 +8470,7 @@ AddIns</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -8729,7 +8729,7 @@ AddIns</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -8842,7 +8842,7 @@ Center</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
@@ -8934,11 +8934,11 @@ Center</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -10156,7 +10156,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -10694,7 +10694,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>

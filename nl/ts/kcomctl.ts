@@ -267,7 +267,7 @@
     <name>KMainWindow</name>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;ximaliseren</translation>
     </message>
     <message>
         <source>Unma&amp;ximize</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi&amp;nimaliseren</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
@@ -505,7 +505,7 @@ multiple=multiple
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation type="unfinished"></translation>
+        <translation>Wis record uit lijst</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
@@ -513,19 +513,19 @@ multiple=multiple
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen uit de lijst</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles wissen</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Map openen</translation>
     </message>
 </context>
 </TS>

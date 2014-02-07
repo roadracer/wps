@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Benadrukken</translation>
     </message>
     <message>
         <source>1-</source>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Benadrukken</translation>
     </message>
     <message>
         <source>1-</source>

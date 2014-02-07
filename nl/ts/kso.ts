@@ -52,7 +52,7 @@ Please check your system settings and ensure the temporary directory under the c
     <name>copypaste</name>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet-opgemaakte tekst</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
@@ -347,7 +347,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -355,7 +355,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -707,7 +707,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst bewerken</translation>
     </message>
     <message>
         <source>Add Text</source>
@@ -820,7 +820,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>The server application, source file, or item can&apos;t be found, or returned an unknown error. You may need to reinstall the server application</source>
@@ -2083,7 +2083,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Click to add text</source>
@@ -2327,7 +2327,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
@@ -2626,7 +2626,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use printer settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik printerinstellingen</translation>
     </message>
     <message>
         <source>Kingsoft Office cannot print. Please check whether the printer is turned on or connected.
@@ -2635,7 +2635,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Print to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukken naar bestand</translation>
     </message>
     <message>
         <source>All(*.*)|*.*|Printable File(*.prn)|*.prn</source>
@@ -2686,7 +2686,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>Recent presentations</source>
@@ -3106,7 +3106,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste dia</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -3342,7 +3342,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Ivory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ivoor</translation>
     </message>
     <message>
         <source>Lavender</source>
@@ -3350,7 +3350,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtblauw</translation>
     </message>
     <message>
         <source>Light Green</source>
@@ -3442,7 +3442,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Large checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Groot dambord</translation>
     </message>
     <message>
         <source>Large confetti</source>
@@ -3450,7 +3450,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Large grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Groot raster</translation>
     </message>
     <message>
         <source>Last saved</source>
@@ -3458,7 +3458,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Last Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatste dia</translation>
     </message>
     <message>
         <source>Light downward diagonal</source>
@@ -3482,11 +3482,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt-punt</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -3494,15 +3494,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange streep</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange streep-punt</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ronde punt</translation>
     </message>
     <message>
         <source>Soild</source>
@@ -3510,7 +3510,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Vierkante punt</translation>
     </message>
     <message>
         <source>Loading DLL fails</source>
@@ -3574,7 +3574,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>New Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw menu</translation>
     </message>
     <message>
         <source>Next Slide</source>
@@ -3762,7 +3762,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>(Show All)</source>
-        <translation>(Toon alles)</translation>
+        <translation>(Alles tonen)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
@@ -3770,7 +3770,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Small checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klein dambord</translation>
     </message>
     <message>
         <source>Small confetti</source>
@@ -3778,7 +3778,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Small grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Klein raster</translation>
     </message>
     <message>
         <source>Solid diamond</source>
@@ -3802,7 +3802,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepauzeerd</translation>
     </message>
     <message>
         <source>Printing</source>
@@ -4114,7 +4114,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -4350,7 +4350,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>- (Hyphen)</source>
-        <translation type="unfinished"></translation>
+        <translation>- (Koppelteken)</translation>
     </message>
     <message>
         <source>. (Period)</source>
