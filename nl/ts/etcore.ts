@@ -4870,7 +4870,7 @@ There are several possible reasons:
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie</translation>
     </message>
     <message>
         <source>&quot;Selection&quot;, -1</source>
@@ -4952,7 +4952,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source> Edit</source>
-        <translation type="unfinished"></translation>
+        <translation> Bewerken</translation>
     </message>
     <message>
         <source>SelectingRange</source>
@@ -5008,7 +5008,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad...</translation>
     </message>
     <message>
         <source>Book...</source>
@@ -5060,19 +5060,19 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een waarde invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een minimum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een maximum invoeren.</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet zowel een maximum als een minimum invoeren.</translation>
     </message>
     <message>
         <source>The Maximum must be greater than or equal to the Minimum.</source>
@@ -5088,7 +5088,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een bron invoeren.</translation>
     </message>
     <message>
         <source>The Date contains an error now. Do you want to continue?</source>
@@ -5192,7 +5192,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>You must enter a formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een formule invoeren.</translation>
     </message>
     <message>
         <source>The Formula contains an error now. Do you want to continue?</source>
@@ -5235,7 +5235,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand openen</translation>
     </message>
     <message>
         <source>Al</source>
@@ -5456,7 +5456,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconde</translation>
     </message>
     <message>
         <source>Serial_number</source>
@@ -5504,7 +5504,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarde</translation>
     </message>
     <message>
         <source>Value_if_false</source>
@@ -5844,11 +5844,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Date of issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Afgiftedatum</translation>
     </message>
     <message>
         <source>Maturity date</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervaldatum</translation>
     </message>
     <message>
         <source>Face value</source>
@@ -5980,7 +5980,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Text box </source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstvak </translation>
     </message>
     <message>
         <source>Left section </source>
@@ -6000,7 +6000,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Chart </source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram </translation>
     </message>
     <message>
         <source>This function is provided in Kingsoft Office 2009 Professional Edition.</source>

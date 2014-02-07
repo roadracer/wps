@@ -1298,7 +1298,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
@@ -1775,7 +1775,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Cu&amp;stom Dictionaries...</source>
@@ -2592,7 +2592,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Run macro on</source>
@@ -2659,7 +2659,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3443,7 +3443,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster</translation>
     </message>
     <message>
         <source>UnderLine</source>
@@ -3824,7 +3824,7 @@ use buttons to apply borders</source>
     <name>KxDlgMailMergeTable</name>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel selecteren</translation>
     </message>
     <message>
         <source>dialog</source>
@@ -5665,7 +5665,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster</translation>
     </message>
     <message>
         <source>&amp;No grid</source>
@@ -6365,7 +6365,7 @@ use buttons to apply borders</source>
     <name>KxDlgTableOptions</name>
     <message>
         <source>Table Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelopties</translation>
     </message>
     <message>
         <source>pt, -1, 0, 1584, 1</source>
@@ -9624,7 +9624,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende opmerking</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
@@ -9969,7 +9969,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsDlgBookFormat</name>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voettekst</translation>
     </message>
     <message>
         <source>Page different settings</source>

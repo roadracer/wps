@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>benadrukken</translation>
     </message>
     <message>
         <source>1-</source>

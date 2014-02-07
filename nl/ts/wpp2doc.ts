@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Being converted</source>
-        <translation type="unfinished"></translation>
+        <translation>Wordt geconverteerd</translation>
     </message>
     <message>
         <source>Still Need:</source>
@@ -31,7 +31,7 @@
     </message>
     <message>
         <source>Ready to convert, please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereed voor conversie, even geduld a.u.b.</translation>
     </message>
     <message>
         <source>Being calculated</source>
@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Ready to convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereed voor conversie</translation>
     </message>
     <message>
         <source>Still Need:Being calculated</source>
@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>Open File</source>
-        <translation>Open bestand</translation>
+        <translation>Bestand openen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia selecteren</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>

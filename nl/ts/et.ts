@@ -12,15 +12,15 @@
     <name>Constraint</name>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Beperking</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;elreferentie:</translation>
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beperki&amp;ng:</translation>
     </message>
     <message>
         <source>&lt;=</source>
@@ -44,15 +44,15 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ok</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Toevoegen</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuleer</translation>
+        <translation>&amp;Annuleren</translation>
     </message>
 </context>
 <context>
@@ -185,7 +185,7 @@ condition is true: </source>
     <name>KDateEdit</name>
     <message>
         <source>%1-%2-%3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -240,14 +240,14 @@ condition is true: </source>
     <name>KSelectSheetDlg</name>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeren</translation>
     </message>
 </context>
 <context>
     <name>KSelectSheetPage</name>
     <message>
         <source>&amp;Activate:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Activeren:</translation>
     </message>
 </context>
 <context>
@@ -286,7 +286,7 @@ condition is true: </source>
     </message>
     <message>
         <source>(Select all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Alles selecteren)</translation>
     </message>
     <message>
         <source>Add current selection to filter</source>
@@ -301,7 +301,7 @@ condition is true: </source>
     <name>KValuesWidget</name>
     <message>
         <source>Top 10...</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 10...</translation>
     </message>
     <message>
         <source>Above Average</source>
@@ -537,7 +537,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Tussen</translation>
     </message>
     <message>
         <source>Before</source>
@@ -557,7 +557,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Contains</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevat</translation>
     </message>
     <message>
         <source>Not contains</source>
@@ -1122,7 +1122,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Pr&amp;otect Sheet...</source>
@@ -1358,7 +1358,7 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Use labels in</source>
@@ -1539,7 +1539,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Refers to:</source>
@@ -2290,7 +2290,7 @@ printer and your screen.</source>
     <name>KxDlgInsertFunction</name>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie invoegen</translation>
     </message>
     <message>
         <source>All Functions</source>
@@ -2389,7 +2389,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjablonen</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -3366,7 +3366,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgPasteName</name>
     <message>
         <source>Paste Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam plakken</translation>
     </message>
     <message>
         <source>Paste &amp;Name:</source>
@@ -5825,7 +5825,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand openen</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -6554,7 +6554,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
 </context>
 <context>
@@ -7140,7 +7140,7 @@ t</source>
     <name>KxWidgetAlignment</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Text alignment</source>
@@ -7290,7 +7290,7 @@ t</source>
     <name>KxWidgetFont</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -7409,7 +7409,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>General format cells have no specific number format.</source>
@@ -7857,7 +7857,7 @@ t</source>
     </message>
     <message>
         <source>Ivory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ivoor</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
@@ -7909,7 +7909,7 @@ t</source>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtblauw</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -8089,23 +8089,23 @@ t</source>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet zowel een maximum als een minimum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een waarde invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een minimum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een maximum invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>U moet een bron invoeren.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
@@ -9016,7 +9016,7 @@ Document</source>
     <name>kxUiHyperlinket</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Type the c&amp;ell reference:</source>
@@ -9031,7 +9031,7 @@ Document</source>
     <name>kxWidgetControl</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>&amp;3-D shadow</source>
@@ -9114,7 +9114,7 @@ Document</source>
     <name>kxWidgetMargins</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Internal margin</source>
@@ -9149,7 +9149,7 @@ Document</source>
     <name>kxWidgetProperties</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Object positioning</source>
@@ -9272,7 +9272,7 @@ Document</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>

@@ -494,11 +494,11 @@
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepstijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -518,7 +518,7 @@
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>Wijzig Punten</translation>
+        <translation>Punten bewerken</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4693,7 +4693,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -12963,7 +12963,7 @@ Other Window</source>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -14524,7 +14524,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.EditPoints</name>
     <message>
         <source>Edit Points</source>
-        <translation>Bewerk Punten</translation>
+        <translation>Punten bewerken</translation>
     </message>
     <message>
         <source>Edit the wrap points to change the shape.</source>

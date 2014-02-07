@@ -248,7 +248,7 @@
     <name>renderhost</name>
     <message>
         <source>Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -457,7 +457,7 @@
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Module</source>
@@ -934,7 +934,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Gecentreerd</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1450,7 +1450,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Tussen</translation>
     </message>
     <message>
         <source>Box</source>
@@ -1864,7 +1864,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Gecentreerd</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -1892,7 +1892,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele document</translation>
     </message>
     <message>
         <source>Below selected item</source>
@@ -1940,7 +1940,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Bullet:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsommingsteken:</translation>
     </message>
     <message>
         <source>Business Fax</source>
@@ -1984,7 +1984,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Columns %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen %s</translation>
     </message>
     <message>
         <source>Company</source>
@@ -2376,7 +2376,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende opmerking</translation>
     </message>
     <message>
         <source>Next Find/GoTo</source>
@@ -3419,11 +3419,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -3463,7 +3463,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsommingstekens</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -3859,7 +3859,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -4225,7 +4225,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet-opgemaakte tekst</translation>
     </message>
     <message>
         <source>Text With Format</source>

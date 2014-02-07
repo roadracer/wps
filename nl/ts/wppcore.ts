@@ -523,7 +523,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Module</source>
