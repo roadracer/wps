@@ -3166,7 +3166,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit is geen geldig getal.</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
@@ -3398,7 +3398,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Pruim</translation>
     </message>
     <message>
         <source>Red</source>
@@ -3422,7 +3422,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Blauwgroen</translation>
     </message>
     <message>
         <source>Turquoise</source>
@@ -3654,7 +3654,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding selecteren</translation>
     </message>
     <message>
         <source>Plaid</source>

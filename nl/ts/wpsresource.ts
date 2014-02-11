@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Vierkant Punt</translation>
+        <translation>Vierkante punt</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -2173,7 +2173,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation>Verwijder Tabelstijl</translation>
+        <translation>Tabelstijl wissen</translation>
     </message>
     <message>
         <source>Cross Border</source>
@@ -3638,11 +3638,11 @@ Painter</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerkingen</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -6195,7 +6195,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished">Sluit venster</translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Compared Side By Side</source>
@@ -10919,7 +10919,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -12329,7 +12329,7 @@ Other Window</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Sluit Venster</translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -13998,7 +13998,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
-        <translation>Controleer de spelling van het volledige document</translation>
+        <translation>Controleer de spelling van het volledige document.</translation>
     </message>
 </context>
 <context>
@@ -14046,7 +14046,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.ClearTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation>Verwijder Tabelstijl</translation>
+        <translation>Tabelstijl wissen</translation>
     </message>
     <message>
         <source>Clear table style of selected cell range.</source>
@@ -14123,7 +14123,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation>Sluit Venster</translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Close the current window.</source>
@@ -14234,7 +14234,7 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation>Knip de selectie.</translation>
+        <translation>Knip de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>

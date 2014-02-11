@@ -2861,7 +2861,7 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -3146,7 +3146,7 @@
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
@@ -3154,7 +3154,7 @@
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl wissen</translation>
     </message>
 </context>
 <context>
@@ -3599,7 +3599,7 @@
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
 </context>
 <context>

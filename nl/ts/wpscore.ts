@@ -5,7 +5,7 @@
     <name>comment</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
 </context>
 <context>
@@ -1478,11 +1478,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Right-to-left</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts-naar-links</translation>
     </message>
     <message>
         <source>Left-to-right</source>
-        <translation type="unfinished"></translation>
+        <translation>Links-naar-rechts</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -2236,7 +2236,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit is geen geldig getal.</translation>
     </message>
     <message>
         <source>You must type a character for the custom separator.</source>
@@ -2372,7 +2372,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende bladwijzer</translation>
     </message>
     <message>
         <source>Next Comment</source>
@@ -2388,7 +2388,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende sectie</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -2476,7 +2476,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The password is incorrect!</source>
-        <translation type="unfinished"></translation>
+        <translation>Het wachtwoord is onjuist!</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -2612,11 +2612,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige bladwijzer</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige opmerking</translation>
     </message>
     <message>
         <source>Previous Find/GoTo</source>
@@ -2628,7 +2628,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige sectie</translation>
     </message>
     <message>
         <source>Document protec&amp;tion...</source>
@@ -4041,7 +4041,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen</translation>
     </message>
     <message>
         <source>Please make a selection first.</source>
