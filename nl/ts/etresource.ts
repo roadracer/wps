@@ -7129,7 +7129,7 @@ Aan</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Map openen</translation>
     </message>
     <message>
         <source>Open From Klive</source>

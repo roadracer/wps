@@ -275,14 +275,14 @@
     <message>
         <source>Create new folder</source>
         <comment>create new folder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe map aanmaken</translation>
     </message>
 </context>
 <context>
     <name>KFileListView</name>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u &apos;%1&apos; wilt verwijderen?</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -290,7 +290,7 @@
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos; files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u &apos;%1&apos; bestanden wilt verwijderen?</translation>
     </message>
     <message>
         <source>Delete many objects</source>
@@ -301,7 +301,7 @@
     <name>KFileModeDelegate</name>
     <message>
         <source>The file path cannot be longer than 255 characters !</source>
-        <translation type="unfinished"></translation>
+        <translation>Het pad kan niet langer dan 255 tekens zijn!</translation>
     </message>
     <message>
         <source>The file name must not contain any of the characters:
@@ -320,11 +320,11 @@ Are you sure to change?</source>
     <message>
         <source>The file name cannot be empty !</source>
         <comment>The file name cannot been empty!</comment>
-        <translation type="unfinished"></translation>
+        <translation>De bestandsnaam kan niet leeg zijn!</translation>
     </message>
     <message>
         <source>The file name already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>De bestandsnaam bestaat al!</translation>
     </message>
 </context>
 <context>
@@ -352,7 +352,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Create new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe map aanmaken</translation>
     </message>
     <message>
         <source>&quot;view&quot; menu</source>
@@ -364,7 +364,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File &amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestands&amp;name:</translation>
     </message>
     <message>
         <source>Save &amp;Type:</source>
@@ -376,7 +376,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Op&amp;slaan</translation>
     </message>
     <message>
         <source>&amp;Encryption</source>
@@ -388,7 +388,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Openen</translation>
     </message>
     <message>
         <source>Open &amp;Type:</source>
@@ -428,7 +428,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Rena&amp;me</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoe&amp;men</translation>
     </message>
     <message>
         <source>F2</source>
@@ -440,15 +440,15 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cut the current selection&apos;s contents to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiëren</translation>
     </message>
     <message>
         <source>Copy the current selection&apos;s contents to the clipboard</source>
@@ -456,7 +456,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Plakken</translation>
     </message>
     <message>
         <source>Paste the clipboard&apos;s contents into the current selection</source>
@@ -476,11 +476,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alles selecteren</translation>
     </message>
     <message>
         <source>Select all the files!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer alle bestanden!</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -492,7 +492,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sluiten</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
@@ -544,7 +544,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>New &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe &amp;map</translation>
     </message>
     <message>
         <source>Updating netword status, please wait...</source>
@@ -624,7 +624,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>%1 already exists, Sure you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bestaat al, weet u zeker dat u het wilt vervangen?</translation>
     </message>
     <message>
         <source>New Save error, you could replace save in current view only.</source>
@@ -1024,7 +1024,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>The file name already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>De bestandsnaam bestaat al!</translation>
     </message>
     <message>
         <source>new foler error:%1</source>

@@ -31,7 +31,7 @@
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vuleffecten...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Blauwgroen</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -163,7 +163,8 @@
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>http://nl.wikipedia.org/wiki/Lijst_van_HTML-kleuren</translatorcomment>
+        <translation>Pruim</translation>
     </message>
     <message>
         <source>Gray-25%</source>
@@ -195,7 +196,7 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation>Zacht lila</translation>
+        <translation>Lavendel</translation>
     </message>
     <message>
         <source>White</source>
@@ -253,14 +254,14 @@
     <name>KMDINextCommand</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende</translation>
     </message>
 </context>
 <context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Herstellen</translation>
     </message>
 </context>
 <context>
@@ -450,11 +451,11 @@ multiple=multiple
     <name>QMdiSubWindow</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Herstellen</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen</translation>
     </message>
     <message>
         <source>Size</source>

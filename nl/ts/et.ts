@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Openen</translation>
     </message>
     <message>
         <source>&amp;Return</source>
@@ -1741,7 +1741,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Values</source>
@@ -1749,7 +1749,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerkingen</translation>
     </message>
     <message>
         <source>Match &amp;byte</source>
@@ -2119,7 +2119,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links</translation>
     </message>
     <message>
         <source>ucCropLeft</source>
@@ -2275,7 +2275,7 @@ printer and your screen.</source>
     <name>KxDlgInsertComment</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>&amp;Author:</source>
@@ -3235,7 +3235,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Footer:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Voettekst:</translation>
     </message>
     <message>
         <source>Unit: Centimeters</source>
@@ -3504,7 +3504,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Naam:</translation>
     </message>
     <message>
         <source>&amp;Grand totals for columns</source>
@@ -5478,7 +5478,7 @@ protected.</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Values</source>
@@ -5486,7 +5486,7 @@ protected.</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerkingen</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
@@ -7077,7 +7077,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Horizontaal:</translation>
     </message>
     <message>
         <source>General</source>
@@ -7148,7 +7148,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Horizontaal:</translation>
     </message>
     <message>
         <source>Left</source>
@@ -7837,7 +7837,7 @@ t</source>
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Blauwgroen</translation>
     </message>
     <message>
         <source>Gray-25%</source>
@@ -7853,7 +7853,7 @@ t</source>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Pruim</translation>
     </message>
     <message>
         <source>Ivory</source>
@@ -8757,7 +8757,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sluiten</translation>
     </message>
 </context>
 <context>
