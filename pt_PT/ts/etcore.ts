@@ -102,7 +102,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar Como</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
@@ -453,7 +453,7 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Média</translation>
     </message>
     <message>
         <source>Count</source>
@@ -465,11 +465,11 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Máx</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Product</source>
@@ -610,7 +610,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Gráfico</translation>
     </message>
     <message>
         <source>Workbook in %s</source>
@@ -672,7 +672,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -684,11 +684,11 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixa de Verificação</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botão de Opções</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -1222,7 +1222,7 @@ Value: </source>
     <name>et_core</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message utf8="true">
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of ET if they:
@@ -1283,7 +1283,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dados</translation>
     </message>
     <message>
         <source>#NULL!</source>
@@ -1665,7 +1665,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -4447,7 +4447,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário</translation>
     </message>
     <message utf8="true">
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
@@ -4477,7 +4477,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
     <name>et_styles</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Comma</source>
@@ -4501,7 +4501,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperligação</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
@@ -4509,7 +4509,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>bold</source>
@@ -4517,7 +4517,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>italic</source>
@@ -4931,7 +4931,7 @@ Continue ?</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo a Partir do Template Pré-definido</translation>
     </message>
     <message>
         <source>Format Text box...</source>
@@ -4943,7 +4943,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Células</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
@@ -4954,7 +4954,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Open File</source>
@@ -5122,7 +5122,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>Number_times</source>
@@ -5134,7 +5134,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar</translation>
     </message>
     <message>
         <source>Power</source>
@@ -5174,7 +5174,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <source>Second</source>
@@ -5214,7 +5214,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Time_text</source>
@@ -5650,11 +5650,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Header</source>
@@ -5766,7 +5766,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificação Ortográfica</translation>
     </message>
     <message>
         <source>It&apos;s not allowed to open the file when editing the cell.</source>
@@ -5818,7 +5818,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -5830,11 +5830,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixa de Verificação</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botão de Opções</translation>
     </message>
     <message>
         <source>List Box</source>
@@ -5846,7 +5846,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Scroll</translation>
     </message>
     <message>
         <source>Spinner</source>
@@ -7885,11 +7885,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar Especial</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <source>Copy Cells</source>
@@ -7901,19 +7901,19 @@ Continue ?</source>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixo</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cima</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Across Worksheets</source>
@@ -7929,11 +7929,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
@@ -7989,7 +7989,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperligação</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -8009,7 +8009,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário</translation>
     </message>
     <message>
         <source>Create Name</source>
@@ -8017,7 +8017,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -8109,11 +8109,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Desagrupar</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -8133,7 +8133,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Somar</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -8141,7 +8141,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Média</translation>
     </message>
     <message>
         <source>Count</source>
@@ -8149,11 +8149,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Máx</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -8169,23 +8169,23 @@ Continue ?</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sublinhar</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor da Fonte</translation>
     </message>
     <message>
         <source>Horizontal Alignment</source>
@@ -8193,7 +8193,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhamento</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -8221,15 +8221,15 @@ Continue ?</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de Preenchimento</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor da Linha</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -8237,7 +8237,7 @@ Continue ?</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor 3D</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
@@ -8265,7 +8265,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Recent Borders</source>
@@ -8273,7 +8273,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordas</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -8341,11 +8341,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Trazer para a Frente</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar para o Fundo</translation>
     </message>
     <message>
         <source>Clear Chart Item</source>
@@ -8353,7 +8353,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Expand/Fold</source>
@@ -8377,7 +8377,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Imagem</translation>
     </message>
     <message>
         <source>Add Trendline</source>
@@ -8472,7 +8472,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Border</source>
@@ -8480,7 +8480,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -8512,7 +8512,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Cannot bring up the properties dialog because the printer returned an error.</source>
@@ -8579,7 +8579,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Drop Column Fields Here</source>
@@ -8599,7 +8599,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Column %s</source>
@@ -8767,7 +8767,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplo</translation>
     </message>
     <message>
         <source>Double Accounting</source>
@@ -8779,7 +8779,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
@@ -8975,11 +8975,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperligação</translation>
     </message>
     <message>
         <source>Indents</source>
@@ -9013,11 +9013,11 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>Vertical Justify Aligned</source>
@@ -9029,7 +9029,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Left-to-Right Reading Order</source>
@@ -9049,7 +9049,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -9101,7 +9101,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>NEW LIST</source>
@@ -9177,7 +9177,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Op&amp;tions &gt;&gt;</source>
@@ -9233,7 +9233,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação</translation>
     </message>
     <message>
         <source>Value must be between %d and %d.</source>
@@ -9269,7 +9269,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>Click here to fold or unfold the panel.</source>
@@ -9353,7 +9353,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Right-to-Left Reading Order</source>
@@ -9421,7 +9421,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Único</translation>
     </message>
     <message>
         <source>Single Accounting</source>
@@ -9429,7 +9429,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Sort and Display</source>
@@ -9465,11 +9465,11 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Parar</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Riscar</translation>
     </message>
     <message>
         <source>@ET_Style?</source>
@@ -9477,11 +9477,11 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Subscrito</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescrito</translation>
     </message>
     <message>
         <source>  (None)</source>
@@ -9521,7 +9521,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sublinhar</translation>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
@@ -9545,7 +9545,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -9645,7 +9645,7 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem</translation>
     </message>
     <message utf8="true">
         <source>Only one picture can be inserted in each section of the %s.
@@ -9715,7 +9715,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Print directly</source>

@@ -244,7 +244,7 @@
     <name>ChangeCaseDlg</name>
     <message>
         <source>Convert Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter Maiúsculas/Minúsculas</translation>
     </message>
     <message>
         <source>&amp;Sentence case</source>
@@ -314,7 +314,7 @@
     <name>CustomPreView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
 </context>
 <context>
@@ -352,7 +352,7 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
@@ -364,15 +364,15 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
@@ -400,7 +400,7 @@
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coluna</translation>
     </message>
     <message>
         <source>Character</source>
@@ -416,7 +416,7 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo</translation>
     </message>
     <message>
         <source>Line</source>
@@ -488,7 +488,7 @@
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Moldagem do Texto</translation>
     </message>
     <message>
         <source>Wrapping style</source>
@@ -571,7 +571,7 @@
     <name>DlgKxColumns</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colunas</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -674,15 +674,15 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -795,7 +795,7 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -813,26 +813,26 @@
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
     <name>KxBordersAndShadingDlg</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Célula</translation>
     </message>
     <message>
         <source>Pt</source>
@@ -844,7 +844,7 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>No content</source>
@@ -863,7 +863,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -936,7 +936,7 @@
     <name>KxCheckboxFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -1026,7 +1026,7 @@
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas de Rosto</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -1149,7 +1149,7 @@
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores</translation>
     </message>
 </context>
 <context>
@@ -1272,7 +1272,7 @@
     <name>KxDlgBookmarks</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <source>&amp;Bookmark name:</source>
@@ -1308,7 +1308,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1569,7 +1569,7 @@ use buttons to apply borders</source>
     <name>KxDlgBulletsNumbering</name>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcas e Numerações</translation>
     </message>
     <message>
         <source>&amp;Bulleted</source>
@@ -1636,7 +1636,7 @@ use buttons to apply borders</source>
     <name>KxDlgCaption</name>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
@@ -1867,7 +1867,7 @@ use buttons to apply borders</source>
     <name>KxDlgCombineCharacters</name>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar Caracteres</translation>
     </message>
     <message>
         <source>&amp;Text (up to 6):</source>
@@ -1970,7 +1970,7 @@ use buttons to apply borders</source>
     <name>KxDlgContents</name>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdos</translation>
     </message>
     <message>
         <source>Table of &amp;Contents</source>
@@ -1982,7 +1982,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Show &amp;levels:</source>
@@ -2006,7 +2006,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-visualização de Impressão</translation>
     </message>
 </context>
 <context>
@@ -2102,7 +2102,7 @@ use buttons to apply borders</source>
     <name>KxDlgConvertTexttoTable</name>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter Texto em Tabela</translation>
     </message>
     <message>
         <source>rd5</source>
@@ -2201,7 +2201,7 @@ use buttons to apply borders</source>
     <name>KxDlgCrossReference</name>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Referência Cruzada</translation>
     </message>
     <message>
         <source>Reference &amp;type:</source>
@@ -2221,7 +2221,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -2300,7 +2300,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -2398,7 +2398,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Center</source>
@@ -2406,7 +2406,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -2445,7 +2445,7 @@ use buttons to apply borders</source>
     <name>KxDlgDeleteCells</name>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Células</translation>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
@@ -2543,7 +2543,7 @@ use buttons to apply borders</source>
     <name>KxDlgDropCap</name>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"></translation>
+        <translation>Capitulares</translation>
     </message>
     <message>
         <source>Position</source>
@@ -2685,18 +2685,18 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEncloseCharacters</name>
     <message>
         <source>Enclose Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracteres Balizadores</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos</translation>
     </message>
     <message>
         <source>&amp;Shrink text</source>
@@ -2759,7 +2759,7 @@ use buttons to apply borders</source>
     <name>KxDlgField</name>
     <message>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Campos</translation>
     </message>
     <message>
         <source>Please choose a field</source>
@@ -2950,7 +2950,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Search options</source>
@@ -2986,7 +2986,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar</translation>
     </message>
     <message>
         <source>Sp&amp;ecial Characters</source>
@@ -3010,7 +3010,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
@@ -3026,11 +3026,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Secção</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
@@ -3061,7 +3061,7 @@ use buttons to apply borders</source>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Fo&amp;nt</source>
@@ -3193,7 +3193,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Raised</source>
@@ -3256,7 +3256,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuo</translation>
     </message>
     <message>
         <source>Restart each section</source>
@@ -3300,7 +3300,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <source>&amp;Number format:</source>
@@ -3331,7 +3331,7 @@ use buttons to apply borders</source>
     <name>KxDlgGenkoSetting</name>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções Genko</translation>
     </message>
     <message>
         <source>En&amp;able Genko Grid Lines</source>
@@ -3363,7 +3363,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grelha</translation>
     </message>
     <message>
         <source>UnderLine</source>
@@ -3387,7 +3387,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação</translation>
     </message>
     <message>
         <source>Por&amp;trait</source>
@@ -3465,7 +3465,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Page margin</source>
@@ -3523,7 +3523,7 @@ use buttons to apply borders</source>
     <name>KxDlgInsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Data e Hora</translation>
     </message>
     <message>
         <source>&amp;Available formats:</source>
@@ -3574,7 +3574,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Correspondencia dos Campos</translation>
     </message>
     <message>
         <source>&amp;Match Fields...</source>
@@ -3586,14 +3586,14 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertNumber</name>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>&amp;Number</source>
@@ -3608,7 +3608,7 @@ use buttons to apply borders</source>
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Tabela</translation>
     </message>
     <message>
         <source>Table size</source>
@@ -3670,7 +3670,7 @@ use buttons to apply borders</source>
     <name>KxDlgLineNumbering</name>
     <message>
         <source>Line Number Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de Númeração das Linhas</translation>
     </message>
     <message>
         <source>Add &amp;line number</source>
@@ -3744,7 +3744,7 @@ use buttons to apply borders</source>
     <name>KxDlgMailMergeTable</name>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Tabela</translation>
     </message>
     <message>
         <source>dialog</source>
@@ -3763,7 +3763,7 @@ use buttons to apply borders</source>
     <name>KxDlgMatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Correspondencia dos Campos</translation>
     </message>
     <message>
         <source>Use the drop-down lists to choose the field from your database that corresponds to the address information Mail Merge expects (listed on the left.)</source>
@@ -3902,7 +3902,7 @@ use buttons to apply borders</source>
     <name>KxDlgMergeToDiffNewDoc</name>
     <message>
         <source>Merge to Different New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar para Outro Novo Documento</translation>
     </message>
     <message>
         <source>Merge options</source>
@@ -4067,7 +4067,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4079,7 +4079,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo</translation>
     </message>
     <message>
         <source>Character</source>
@@ -4144,7 +4144,7 @@ use buttons to apply borders</source>
     <name>KxDlgNewStyle</name>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Estilo</translation>
     </message>
     <message>
         <source>groupBox</source>
@@ -4152,7 +4152,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades</translation>
     </message>
     <message>
         <source>label</source>
@@ -4180,7 +4180,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo</translation>
     </message>
     <message>
         <source>Character</source>
@@ -4279,11 +4279,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <source>Sta&amp;rtup task window</source>
@@ -4327,15 +4327,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Invisivel</translation>
     </message>
     <message>
         <source>Formatting marks</source>
@@ -4395,7 +4395,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Edit options</source>
@@ -4523,7 +4523,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos Recentes</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -4587,7 +4587,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar</translation>
     </message>
     <message>
         <source>Save &amp;files as default:</source>
@@ -4631,7 +4631,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Printing options</source>
@@ -4683,7 +4683,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Registar Alterações</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -4703,15 +4703,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sublinhar</translation>
     </message>
     <message>
         <source>Double underline</source>
@@ -4719,7 +4719,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Riscar</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
@@ -4839,7 +4839,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>Preserve</source>
@@ -4927,7 +4927,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Segurança</translation>
     </message>
     <message>
         <source>File encryption options for this document</source>
@@ -4991,7 +4991,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para PDF</translation>
     </message>
     <message>
         <source>Export options</source>
@@ -5250,7 +5250,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -5258,7 +5258,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Inside</source>
@@ -5313,11 +5313,11 @@ use buttons to apply borders</source>
     <name>KxDlgPageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Página</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Margens</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -5341,7 +5341,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Top</source>
@@ -5353,7 +5353,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação</translation>
     </message>
     <message>
         <source>&amp;Portrait</source>
@@ -5365,7 +5365,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>&amp;Multiple pages</source>
@@ -5373,7 +5373,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Book fold</source>
@@ -5481,7 +5481,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Secção</translation>
     </message>
     <message>
         <source>Section sta&amp;rt:</source>
@@ -5489,7 +5489,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuo</translation>
     </message>
     <message>
         <source>New page</source>
@@ -5581,7 +5581,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grelha</translation>
     </message>
     <message>
         <source>&amp;No grid</source>
@@ -5613,7 +5613,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <source>Pe&amp;r page:</source>
@@ -5633,7 +5633,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colunas</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -5692,7 +5692,7 @@ use buttons to apply borders</source>
     <name>KxDlgParagraph</name>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo</translation>
     </message>
     <message>
         <source>&amp;Indents and Spacing</source>
@@ -5708,15 +5708,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -5724,7 +5724,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Direction:</source>
@@ -5824,7 +5824,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Único</translation>
     </message>
     <message>
         <source>1.5 Lines</source>
@@ -5832,7 +5832,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplo</translation>
     </message>
     <message>
         <source>At least</source>
@@ -5980,7 +5980,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
@@ -5991,7 +5991,7 @@ use buttons to apply borders</source>
     <name>KxDlgPhoneticGuide</name>
     <message>
         <source>Phonetic Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guia Fonético</translation>
     </message>
     <message>
         <source>&amp;Base text:  </source>
@@ -6007,15 +6007,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -6066,7 +6066,7 @@ use buttons to apply borders</source>
     <name>KxDlgPrint</name>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -6110,7 +6110,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar</translation>
     </message>
     <message>
         <source>From le&amp;ft to right</source>
@@ -6126,7 +6126,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Pages per s&amp;heet:</source>
@@ -6193,7 +6193,7 @@ use buttons to apply borders</source>
     <name>KxDlgProtectDocument</name>
     <message>
         <source>Document Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Protecção do Documento</translation>
     </message>
     <message>
         <source>Protect content</source>
@@ -6251,7 +6251,7 @@ use buttons to apply borders</source>
     <name>KxDlgSpiltCells</name>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir Células</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
@@ -6286,7 +6286,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -6336,15 +6336,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Center</source>
@@ -6384,11 +6384,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coluna</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>R&amp;elative to:</source>
@@ -6396,7 +6396,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo</translation>
     </message>
     <message>
         <source>Top</source>
@@ -6455,7 +6455,7 @@ use buttons to apply borders</source>
     <name>KxDlgTableProperties</name>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades da Tabela</translation>
     </message>
     <message>
         <source>&amp;Table</source>
@@ -6463,7 +6463,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Preferred &amp;width:</source>
@@ -6475,7 +6475,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhamento</translation>
     </message>
     <message>
         <source>Rig&amp;ht</source>
@@ -6651,7 +6651,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhamento</translation>
     </message>
     <message>
         <source>&amp;Decimal</source>
@@ -6737,7 +6737,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text Form Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de Texto do Formulário</translation>
     </message>
     <message>
         <source>Fill-in e&amp;nabled</source>
@@ -6788,7 +6788,7 @@ use buttons to apply borders</source>
     <name>KxDlgTwoLinesInOne</name>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"></translation>
+        <translation>Duas Linhas em Uma</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
@@ -6860,7 +6860,7 @@ use buttons to apply borders</source>
     <name>KxDlgZoom</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Zoom to</source>
@@ -6938,7 +6938,7 @@ use buttons to apply borders</source>
     <name>KxDropDownFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>You can have no more than 25 items in your drop-down list box.</source>
@@ -7038,7 +7038,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7065,7 +7065,7 @@ use buttons to apply borders</source>
     <name>KxFieldDlg</name>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -7077,7 +7077,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperligação</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -7340,7 +7340,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas de Rodapé</translation>
     </message>
     <message>
         <source>Endnotes</source>
@@ -7352,15 +7352,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixo</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cima</translation>
     </message>
     <message>
         <source>All</source>
@@ -7459,11 +7459,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Bold Italic</source>
@@ -7535,7 +7535,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuo</translation>
     </message>
     <message>
         <source>Restart each section</source>
@@ -7607,7 +7607,7 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxInnerOptionsDlg</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
 </context>
 <context>
@@ -7757,7 +7757,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -7877,11 +7877,11 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxMergeToNewDocOrPrinterDlg</name>
     <message>
         <source>Merge to New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar para Novo Documento</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar para Impressora</translation>
     </message>
     <message>
         <source>The number must not be nil</source>
@@ -7904,11 +7904,11 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>(No style)</source>
@@ -8101,14 +8101,14 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
 </context>
 <context>
     <name>KxNewStyleDlg</name>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos</translation>
     </message>
     <message>
         <source>(No style)</source>
@@ -8116,7 +8116,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Itatic, </source>
@@ -8140,15 +8140,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
@@ -8304,7 +8304,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -8332,7 +8332,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -8525,7 +8525,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>Using the printer setup</source>
@@ -8604,11 +8604,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -8649,11 +8649,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxSectionToolboxItemTitle</name>
     <message>
         <source>Insert Section Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Secção Antes</translation>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Secção Depois</translation>
     </message>
     <message>
         <source>Merge to Previous</source>
@@ -8661,7 +8661,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Delete Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar Secção</translation>
     </message>
     <message>
         <source>Edit Section Name</source>
@@ -8743,7 +8743,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxStyleShortCutBindDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
@@ -8811,7 +8811,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTextFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>D&amp;efault text:</source>
@@ -8997,7 +8997,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWordCountDlgClass</name>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Contabilizar Palavras</translation>
     </message>
     <message>
         <source>Statistics:</source>
@@ -9005,7 +9005,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>Words</source>
@@ -9041,14 +9041,14 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -9112,7 +9112,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsBrowserModel</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -9123,11 +9123,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Secção Anterior</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário Anterior</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
@@ -9139,11 +9139,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Próxima Secção</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo Comentário</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
@@ -9154,7 +9154,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsCloumnGalleryModel</name>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coluna</translation>
     </message>
     <message>
         <source>%1 Columns</source>
@@ -9290,7 +9290,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Diagonal</source>
@@ -9298,19 +9298,19 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>Top</source>
@@ -9481,7 +9481,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsDeleteSectionCommand</name>
     <message>
         <source>Delete Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar Secção</translation>
     </message>
 </context>
 <context>
@@ -9600,7 +9600,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Header left</source>
@@ -9655,7 +9655,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Show Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Nível</translation>
     </message>
     <message>
         <source>Level %1</source>
@@ -9680,7 +9680,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -9716,11 +9716,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsInsertSectionCommand</name>
     <message>
         <source>Insert Section Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Secção Antes</translation>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Secção Depois</translation>
     </message>
 </context>
 <context>
@@ -9734,15 +9734,15 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsLineSpacingCommand</name>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Único</translation>
     </message>
     <message>
         <source>1.5 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 Linhas</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplo</translation>
     </message>
     <message>
         <source>At Least</source>
@@ -9850,14 +9850,14 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsPageNumStartCommand</name>
     <message>
         <source>Page Number Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Número da Página Inicial</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageOrientationCommand</name>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -9879,7 +9879,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar Numeração das Páginas</translation>
     </message>
 </context>
 <context>
@@ -9911,7 +9911,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsShowFirstPageNumCommand</name>
     <message>
         <source>Show First Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostar Número na Primeira Página</translation>
     </message>
 </context>
 <context>
@@ -10036,7 +10036,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"></translation>
+        <translation>Página X</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10115,7 +10115,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos</translation>
     </message>
 </context>
 <context>
@@ -10133,7 +10133,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -10154,7 +10154,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Vertical from Right to Left</source>
@@ -10181,14 +10181,14 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
     <name>KxWpsWaterMarkGalleryModel</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>Preset</source>
@@ -10433,7 +10433,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>

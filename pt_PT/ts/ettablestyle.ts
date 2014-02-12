@@ -186,7 +186,7 @@
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Estilo da Tabela</translation>
     </message>
 </context>
 </TS>
