@@ -178,11 +178,11 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>Current</source>
@@ -253,7 +253,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Upload now</source>
@@ -323,7 +323,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar</translation>
     </message>
     <message>
         <source>Del</source>
@@ -371,15 +371,15 @@
     <name>KInsertSymbolDlg</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbolo</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
@@ -507,7 +507,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Active Window:</source>
@@ -550,11 +550,11 @@
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Secção</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo</translation>
     </message>
     <message>
         <source>Ellipsis</source>
@@ -604,7 +604,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
@@ -1012,7 +1012,7 @@
     <name>KxAboutDlg</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobre o Kingsoft Writer</translation>
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
@@ -1070,7 +1070,7 @@
     <name>KxAutoShapePanel</name>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <source>Connectors</source>
@@ -1171,14 +1171,14 @@
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
     <name>KxColorAndLineWidget</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -1511,7 +1511,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -1589,7 +1589,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>path</source>
@@ -1631,7 +1631,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -1680,7 +1680,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFillEffects</name>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efeitos de Preenchimento</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -1888,7 +1888,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textura</translation>
     </message>
     <message>
         <source>&amp;Texture:</source>
@@ -1900,7 +1900,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Pa&amp;ttern:</source>
@@ -1916,7 +1916,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <source>Picture:</source>
@@ -2023,7 +2023,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInsertSymbol</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbolo</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
@@ -2103,7 +2103,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2159,7 +2159,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades</translation>
     </message>
 </context>
 <context>
@@ -2275,7 +2275,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxDockPaneTitle</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -2335,7 +2335,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar Comentários</translation>
     </message>
 </context>
 <context>
@@ -2441,7 +2441,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 1</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
@@ -2509,7 +2509,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas com Padrão</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
@@ -2623,7 +2623,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -2634,7 +2634,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsExplorer</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -2741,7 +2741,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Página Inicial</translation>
     </message>
     <message>
         <source>Browse File</source>
@@ -2749,7 +2749,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Hiperligação</translation>
     </message>
     <message>
         <source>Open File</source>
@@ -2764,7 +2764,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxInputDialogCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>Custom:</source>
@@ -2834,7 +2834,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -2865,7 +2865,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxInsertSymbolDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>(Normal Text)</source>
@@ -2877,11 +2877,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2915,15 +2915,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxMainWindow</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Refazer</translation>
     </message>
 </context>
 <context>
@@ -3276,7 +3276,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Secção</translation>
     </message>
     <message>
         <source>Client</source>
@@ -3316,7 +3316,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>Source</source>
@@ -3399,15 +3399,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da Forma</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <source>Reset Custom</source>
@@ -3456,7 +3456,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -3508,7 +3508,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -3633,7 +3633,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTableGalleryModel</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Tabela</translation>
     </message>
     <message>
         <source> %1 * %2 Table</source>
@@ -3662,7 +3662,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Type</source>
@@ -3840,7 +3840,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpNativeWrapperContainer</name>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Objecto</translation>
     </message>
     <message>
         <source>Customize Animation:</source>
@@ -3851,7 +3851,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpNewDoc</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -3875,7 +3875,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Documento em Branco</translation>
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
@@ -3883,7 +3883,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo a Partir do Template Pré-definido</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -3910,7 +3910,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
@@ -3922,7 +3922,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Documento em Branco</translation>
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
@@ -3930,7 +3930,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo a Partir do Template Pré-definido</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -4158,19 +4158,19 @@ of services and features.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de Cinza</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Preto e Branco</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Lavagem</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
@@ -4344,7 +4344,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cima</translation>
     </message>
     <message>
         <source>Large Icons</source>
@@ -5395,7 +5395,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>compressPictures</name>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimir Imagens</translation>
     </message>
     <message>
         <source>Apply to</source>
@@ -5499,7 +5499,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>kxDlgHyperlink</name>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperligação</translation>
     </message>
     <message>
         <source>Link to:</source>
@@ -5555,7 +5555,7 @@ Document</source>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolher Linguagem de Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Available Language:</source>
@@ -5578,7 +5578,7 @@ Document</source>
     <name>pasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar Especial</translation>
     </message>
     <message>
         <source>Source:</source>
@@ -5717,7 +5717,7 @@ Document</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5757,11 +5757,11 @@ Document</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>Office</source>
@@ -5801,7 +5801,7 @@ Document</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Date</source>
@@ -5809,7 +5809,7 @@ Document</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>Whether or not</source>
@@ -5848,7 +5848,7 @@ Document</source>
     <name>wordartdlg</name>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria do WordArt</translation>
     </message>
     <message>
         <source>Select a &amp;WordArt style:</source>

@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
 </context>
 <context>
@@ -265,7 +265,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
@@ -552,7 +552,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivos</translation>
     </message>
     <message>
         <source>Enhancements</source>
@@ -757,7 +757,7 @@
     <name>KCloseThumbnailCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -812,7 +812,7 @@
     <name>KWppAnimCustomCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
 </context>
 <context>
@@ -823,7 +823,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -1029,14 +1029,14 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBkgndMusicTip</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -1173,14 +1173,14 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Data e Hora</translation>
     </message>
     <message>
         <source>&amp;Available formats:</source>
@@ -1218,7 +1218,7 @@
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
@@ -1242,11 +1242,11 @@
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Bold Italic</source>
@@ -1490,7 +1490,7 @@
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Tabela</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -1598,11 +1598,11 @@
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <source>Start&amp;up Task Window</source>
@@ -1734,7 +1734,7 @@
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Default print setting for this document</source>
@@ -1754,7 +1754,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivos</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
@@ -1782,7 +1782,7 @@
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Gray</source>
@@ -1798,7 +1798,7 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Apply when typing</source>
@@ -1822,7 +1822,7 @@
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Segurança</translation>
     </message>
     <message>
         <source>File encryption options for this document</source>
@@ -1912,7 +1912,7 @@
     <name>KxDlgPageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Página</translation>
     </message>
     <message>
         <source>&amp;Slides size</source>
@@ -1960,7 +1960,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -1992,11 +1992,11 @@
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivos</translation>
     </message>
     <message>
         <source>Po&amp;rtrait</source>
@@ -2027,7 +2027,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2046,7 +2046,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Replace with(&amp;w):</source>
@@ -2170,7 +2170,7 @@
     <name>KxDlgSplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir Células</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -2185,7 +2185,7 @@
     <name>KxDlgViewZoom</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Zoom to</source>
@@ -2398,7 +2398,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>&amp;Scheme colors</source>
@@ -2474,7 +2474,7 @@
     <name>KxDlgWppPrint</name>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Print range</source>
@@ -2522,7 +2522,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivos</translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -2542,7 +2542,7 @@
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -2581,7 +2581,7 @@
     <name>KxDlglineSpace</name>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaçamento das Linhas</translation>
     </message>
     <message>
         <source>&amp;Line spacing</source>
@@ -2589,7 +2589,7 @@
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <source>Points</source>
@@ -2699,7 +2699,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Exporting document information...</source>
@@ -2734,7 +2734,7 @@
     <name>KxFindReplaceDlg</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
@@ -2742,7 +2742,7 @@
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -2820,7 +2820,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
@@ -2903,7 +2903,7 @@
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -2970,7 +2970,7 @@
     <name>KxPageSetupDlg</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar</translation>
     </message>
 </context>
 <context>
@@ -2981,7 +2981,7 @@
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -3192,7 +3192,7 @@
     <name>KxTpSlideTransition</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
@@ -3274,7 +3274,7 @@
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Estilo da Tabela</translation>
     </message>
 </context>
 <context>
@@ -3292,7 +3292,7 @@
     <name>KxWidgetPosition</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Position on slide</source>
@@ -3347,7 +3347,7 @@
     <name>KxWppActionSettingsDlg</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Play</source>
@@ -3421,7 +3421,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -3447,7 +3447,7 @@
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Selecção</translation>
     </message>
     <message>
         <source>&amp;Entrance</source>
@@ -3661,7 +3661,7 @@
     <name>KxWppPrintDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -3735,22 +3735,22 @@
     <name>KxWppVpPodium</name>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Contornar</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário</translation>
     </message>
 </context>
 <context>
     <name>KxWppVpSlideNormal</name>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Destaques</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivos</translation>
     </message>
 </context>
 <context>
@@ -3787,7 +3787,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Package has been completed</source>
@@ -3914,7 +3914,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Blinds 1</source>
@@ -3982,7 +3982,7 @@
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Cut Black</source>
@@ -4278,7 +4278,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -4326,7 +4326,7 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivos</translation>
     </message>
     <message>
         <source>Handouts</source>
@@ -4346,7 +4346,7 @@
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
@@ -4485,7 +4485,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -4496,7 +4496,7 @@
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordas</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -4686,7 +4686,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 </TS>

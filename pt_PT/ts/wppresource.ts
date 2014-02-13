@@ -4283,7 +4283,7 @@ On/Off</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivos</translation>
     </message>
     <message>
         <source>ZoomPercent</source>
@@ -9439,7 +9439,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivos</translation>
     </message>
 </context>
 <context>

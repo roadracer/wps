@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Caption:</source>
@@ -63,7 +63,7 @@
     <name>KxEditGalleryDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais</translation>
     </message>
     <message>
         <source>Less</source>

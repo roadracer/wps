@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Cópia de Segurança Manual</translation>
     </message>
     <message>
         <source>Explore Versions</source>
@@ -201,7 +201,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos Online</translation>
     </message>
     <message>
         <source>Upward directory</source>
@@ -229,7 +229,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -345,7 +345,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -417,7 +417,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar Como</translation>
     </message>
     <message>
         <source>File name too long, please enter a name smaller than %1.</source>
@@ -449,7 +449,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Type</source>
@@ -477,7 +477,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar</translation>
     </message>
 </context>
 <context>
@@ -576,7 +576,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -622,7 +622,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro</translation>
     </message>
     <message>
         <source>File Folder</source>
@@ -685,7 +685,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Kind</source>
@@ -706,7 +706,7 @@ Are you sure to change?</source>
     <name>KxLiveStateUpdateCache</name>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem Sessão Iniciada</translation>
     </message>
     <message>
         <source>OS_Login tip</source>

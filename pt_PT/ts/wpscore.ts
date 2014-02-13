@@ -5,18 +5,18 @@
     <name>comment</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário</translation>
     </message>
 </context>
 <context>
     <name>drawing</name>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Imagem</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir WordArt</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>Date</source>
@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperligação</translation>
     </message>
     <message>
         <source>above</source>
@@ -237,7 +237,7 @@
     <name>pdfexport</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário</translation>
     </message>
     <message>
         <source>Revision</source>
@@ -252,7 +252,7 @@
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Quebra de Coluna</translation>
     </message>
     <message>
         <source>Section Break (Next Page)</source>
@@ -287,7 +287,7 @@
     <name>ruler</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Página</translation>
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades da Tabela</translation>
     </message>
     <message>
         <source>Columns Formatting Setup</source>
@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>First Line Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanço da Primeira Linha</translation>
     </message>
     <message>
         <source>Hanging Indent</source>
@@ -449,7 +449,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>ThisDocument</source>
@@ -465,7 +465,7 @@
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Equação</translation>
     </message>
     <message>
         <source>Figure</source>
@@ -473,11 +473,11 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Pound</source>
@@ -694,7 +694,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Font color</source>
@@ -710,11 +710,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>No underline</source>
@@ -726,7 +726,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sublinhar</translation>
     </message>
     <message>
         <source>Double underline</source>
@@ -806,7 +806,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Riscar</translation>
     </message>
     <message>
         <source>Double strikethrough</source>
@@ -814,11 +814,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescrito</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Subscrito</translation>
     </message>
     <message>
         <source>Superscript / Subscript</source>
@@ -826,7 +826,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Destacar</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -834,7 +834,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Contornar</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -926,19 +926,19 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -946,7 +946,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Level %d</source>
@@ -994,11 +994,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>1.5 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 Linhas</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplo</translation>
     </message>
     <message>
         <source>At least </source>
@@ -1146,7 +1146,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhamento</translation>
     </message>
     <message>
         <source>Aligned at</source>
@@ -1174,7 +1174,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuo</translation>
     </message>
     <message>
         <source>New page</source>
@@ -1486,7 +1486,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"></translation>
+        <translation>Duas Linhas em Uma</translation>
     </message>
     <message>
         <source>Circle</source>
@@ -1861,19 +1861,19 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>All</source>
@@ -1905,7 +1905,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -1913,27 +1913,27 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Browse by Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver por Marcador</translation>
     </message>
     <message>
         <source>Browse by Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver por Comentário</translation>
     </message>
     <message>
         <source>Browse by Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver por Página</translation>
     </message>
     <message>
         <source>Browse by Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver por Seleção</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar</translation>
     </message>
     <message>
         <source>Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir Para</translation>
     </message>
     <message>
         <source>Bullet:</source>
@@ -1949,7 +1949,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Cannot check spelling in the Original review.</source>
@@ -1961,7 +1961,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Célula</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
@@ -1977,7 +1977,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Columns %s</source>
@@ -2074,7 +2074,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>E-mail Address</source>
@@ -2334,11 +2334,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Merge to New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar para Novo Documento</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar para Impressora</translation>
     </message>
     <message>
         <source>Middle Name</source>
@@ -2378,7 +2378,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo Comentário</translation>
     </message>
     <message>
         <source>Next Find/GoTo</source>
@@ -2390,7 +2390,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Próxima Secção</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -2410,7 +2410,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>No Scaling</source>
@@ -2474,7 +2474,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo</translation>
     </message>
     <message>
         <source>The password is incorrect!</source>
@@ -2618,7 +2618,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário Anterior</translation>
     </message>
     <message>
         <source>Previous Find/GoTo</source>
@@ -2630,7 +2630,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Previous Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Secção Anterior</translation>
     </message>
     <message>
         <source>Document protec&amp;tion...</source>
@@ -2646,7 +2646,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document and made %d replacements.</source>
@@ -2730,7 +2730,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -2738,7 +2738,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -2984,7 +2984,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperligação</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -3110,7 +3110,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Equação</translation>
     </message>
     <message>
         <source>Diagram</source>
@@ -3243,7 +3243,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula</translation>
     </message>
     <message>
         <source>Unit: %s</source>
@@ -3350,11 +3350,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Documento em Branco</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo a Partir do Template Pré-definido</translation>
     </message>
     <message>
         <source>New From Default Template</source>
@@ -3362,47 +3362,47 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sublinhar</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombra dos Caracteres</translation>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensionamento dos Caracteres</translation>
     </message>
     <message>
         <source>Character Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Contorno do Caractere</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor da Fonte</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Destacar</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar à Esquerda</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar à Direita</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar ao Centro</translation>
     </message>
     <message>
         <source>Align Distribute</source>
@@ -3414,11 +3414,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar Avanço</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuir Avanço</translation>
     </message>
     <message>
         <source>Typing</source>
@@ -3430,7 +3430,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaçamento das Linhas</translation>
     </message>
     <message>
         <source>Numbering</source>
@@ -3438,31 +3438,31 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcas de Lista</translation>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar Fonte</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuir Fonte</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescrito</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Subscrito</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor do Sublinhado</translation>
     </message>
     <message>
         <source>Paste Format</source>
@@ -3470,19 +3470,19 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de Preenchimento</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor da Linha</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor 3D</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor da Sombra</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
@@ -3498,11 +3498,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca de Enfase</translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Riscar Duplamente</translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -3510,19 +3510,19 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Páginas</translation>
     </message>
     <message>
         <source>Page Number Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato do Número de Página</translation>
     </message>
     <message>
         <source>Insert Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Data</translation>
     </message>
     <message>
         <source>Insert Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Hora</translation>
     </message>
     <message>
         <source>Switch Header/Footer Link</source>
@@ -3550,15 +3550,15 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Moldagem do Texto</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar</translation>
     </message>
     <message>
         <source>Page Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura da Página</translation>
     </message>
     <message>
         <source>Text Width</source>
@@ -3570,7 +3570,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Duas Páginas</translation>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
@@ -3590,11 +3590,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Comentário</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar Comentário</translation>
     </message>
     <message>
         <source>Delete All Comments</source>
@@ -3606,11 +3606,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitar Alteração</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitar Todas as Alterações ao Documento</translation>
     </message>
     <message>
         <source>Accept All Changes Shown</source>
@@ -3618,11 +3618,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejeitar Alteração</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejeitar Todas as Alteração ao Documento</translation>
     </message>
     <message>
         <source>Reject All Changes Shown</source>
@@ -3630,7 +3630,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Accept Insertion</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitar Inserção</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
@@ -3638,7 +3638,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Accept Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitar Eliminação</translation>
     </message>
     <message>
         <source>Reject Deletion</source>
@@ -3654,7 +3654,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"></translation>
+        <translation>Capitulares</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
@@ -3662,7 +3662,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar Direção do Texto</translation>
     </message>
     <message>
         <source>Columns Formatting</source>
@@ -3690,7 +3690,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções Genko</translation>
     </message>
     <message>
         <source>Insert Break</source>
@@ -3698,7 +3698,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbolo</translation>
     </message>
     <message>
         <source>Data/Time</source>
@@ -3714,7 +3714,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>Index and Tables</source>
@@ -3726,19 +3726,19 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Hiperligação</translation>
     </message>
     <message>
         <source>Insert Blank Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Campo Vazio</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Imagem</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Tabela</translation>
     </message>
     <message>
         <source>Insert Table Element</source>
@@ -3750,19 +3750,19 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir Tabela</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir Colunas Uniformemente</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir Linhas Uniformemente</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar Janela Automáticamente</translation>
     </message>
     <message>
         <source>Fixed Column Width</source>
@@ -3770,15 +3770,15 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades da Tabela</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir Células</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar Células</translation>
     </message>
     <message>
         <source>Repeat Heading</source>
@@ -3790,19 +3790,19 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor da Sombra</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar Célula</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borda Exterior</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Página</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -3810,23 +3810,23 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar Especial</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <source>Edit Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Campo</translation>
     </message>
     <message>
         <source>Update Fields</source>
@@ -3834,7 +3834,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Comentário</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -3858,11 +3858,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <source>Field To Text</source>
@@ -3915,7 +3915,7 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Estilo</translation>
     </message>
     <message>
         <source>Modify Style</source>
@@ -3931,7 +3931,7 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>Clear Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Formatação</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
@@ -4004,7 +4004,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Document Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Protecção do Documento</translation>
     </message>
     <message>
         <source>Remove Protection</source>
@@ -4012,7 +4012,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Move</source>
@@ -4136,11 +4136,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter Tabela em Texto</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter Texto em Tabela</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -4152,7 +4152,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Registar Alterações</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -4160,7 +4160,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Formatted</source>
@@ -4168,7 +4168,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcas e Numerações</translation>
     </message>
     <message>
         <source>Accept Formatted Changes</source>
@@ -4260,7 +4260,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Despromover a Texto do Corpo</translation>
     </message>
     <message>
         <source>Change Outline Level</source>
@@ -4272,7 +4272,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Riscar</translation>
     </message>
     <message>
         <source>Add rows and columns</source>
@@ -4280,7 +4280,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Print directly</source>
@@ -4288,11 +4288,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir</translation>
     </message>
     <message>
         <source>Modify bullets and numbering</source>
@@ -4300,11 +4300,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário</translation>
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"></translation>
+        <translation>Página X</translation>
     </message>
     <message>
         <source>Total of X pages</source>
@@ -4356,7 +4356,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Clean Paragraph Space And Indent</source>
