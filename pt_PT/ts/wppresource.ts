@@ -6237,7 +6237,7 @@ On</source>
     </message>
     <message>
         <source>Erase</source>
-        <translation>Boracha</translation>
+        <translation>Borracha</translation>
     </message>
     <message>
         <source>Erase All Inks on Slide</source>
@@ -7042,7 +7042,7 @@ Master</source>
     <name>popupmenu.Show</name>
     <message>
         <source>Erase</source>
-        <translation>Boracha</translation>
+        <translation>Borracha</translation>
     </message>
 </context>
 <context>

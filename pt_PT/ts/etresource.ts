@@ -6673,7 +6673,7 @@ On</source>
     </message>
     <message>
         <source>Erase</source>
-        <translation>Boracha</translation>
+        <translation>Borracha</translation>
     </message>
     <message>
         <source>Error Checking Options</source>
