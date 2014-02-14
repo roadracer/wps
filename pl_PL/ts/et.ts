@@ -801,7 +801,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przeglądaj</translation>
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
@@ -1068,11 +1068,11 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -1087,7 +1087,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Przeglądaj</translation>
     </message>
     <message>
         <source>A&amp;utomation...</source>
@@ -1326,7 +1326,7 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Przeglądaj</translation>
     </message>
     <message>
         <source>All r&amp;eferences:</source>
@@ -1527,7 +1527,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2298,7 +2298,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Szukaj:</translation>
     </message>
     <message>
         <source>&amp;Goto</source>
@@ -2423,7 +2423,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgNameOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opcje</translation>
     </message>
     <message>
         <source>Default Book Name</source>
@@ -2504,7 +2504,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opcje</translation>
     </message>
     <message>
         <source>View</source>
@@ -3863,7 +3863,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -3890,7 +3890,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wszystko</translation>
     </message>
     <message>
         <source>Not yet reviewed</source>
@@ -4203,7 +4203,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
@@ -4250,11 +4250,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -4529,7 +4529,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
@@ -5084,11 +5084,11 @@ protected.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -5343,10 +5343,6 @@ protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5360,6 +5356,10 @@ protected.</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5494,7 +5494,7 @@ protected.</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znajdź</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -5682,7 +5682,7 @@ printer and your screen.</source>
     <name>KxFormatGraphicDlg</name>
     <message>
         <source>Value should be between %1 %3 and %2 %3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wartość powinna być pomiędzy %1 a %2. {1 %3 ?} {2 %3.?}</translation>
     </message>
     <message>
         <source>pt</source>
@@ -6475,7 +6475,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -7021,7 +7021,7 @@ automatically, and only one row can be kept.
     <name>KxValidNameDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>OK to All</source>
@@ -7561,7 +7561,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Kontynuuj</translation>
     </message>
     <message>
         <source>No Number Format</source>
@@ -8234,7 +8234,7 @@ t</source>
     </message>
     <message>
         <source>Reports</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Raporty</translation>
     </message>
     <message>
         <source>Creates the type of report that you specify, and places each report on a separate sheet in the workbook.</source>
@@ -8929,7 +8929,7 @@ and cannot generate reports.</source>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyeksportuj do Adobe PDF</translation>
     </message>
     <message>
         <source>Preparing to export PDF file...</source>
@@ -9184,11 +9184,11 @@ Document</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -9211,7 +9211,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Kontynuuj</translation>
     </message>
     <message>
         <source>Edit &amp;Links...</source>
@@ -9272,7 +9272,7 @@ Document</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>

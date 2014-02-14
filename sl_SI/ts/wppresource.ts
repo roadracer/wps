@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2393,7 +2393,7 @@ vklop</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Podokno izbire</translation>
+        <translation type="obsolete">Podokno izbire</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2529,6 +2529,14 @@ vklop</translation>
         <translation>Zamenjaj različico</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Zaščita dokumenta in lastnosti</translation>
     </message>
@@ -2586,7 +2594,7 @@ vklop</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation>Kingsoft Office</translation>
+        <translation type="obsolete">Kingsoft Office</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
@@ -3181,7 +3189,7 @@ Slide</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Podokno izibire</translation>
+        <translation type="obsolete">Podokno izibire</translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -5907,6 +5915,10 @@ vklop</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>Moj račun za KOS</translation>
     </message>
@@ -6451,11 +6463,27 @@ vklop</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation>Vstavi stolpce</translation>
+        <translation type="obsolete">Vstavi stolpce</translation>
+    </message>
+    <message>
+        <source>Insert Columns Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>Vstavi vrstice</translation>
+        <translation type="obsolete">Vstavi vrstice</translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -6466,7 +6494,19 @@ vklop</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6482,10 +6522,6 @@ vklop</translation>
         <translation>Prijava uporabnika za KOS</translation>
     </message>
     <message>
-        <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS logout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6498,8 +6534,16 @@ vklop</translation>
         <translation>Kingsoft Office Facebook</translation>
     </message>
     <message>
+        <source>Kingsoft Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KingsoftOffice</source>
         <translation>KingsoftOffice</translation>
+    </message>
+    <message>
+        <source>KingsoftOffice_KSO</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -6899,6 +6943,10 @@ diaprojekcije</translation>
     <message>
         <source>Symbol</source>
         <translation>Simbol</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -7698,6 +7746,14 @@ AddIns</source>
     <message>
         <source>Change Version</source>
         <translation>Zamenjaj različico</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -10838,6 +10894,10 @@ Drugo okno</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>Moj račun za KOS</translation>
     </message>
@@ -12321,6 +12381,17 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>KOSCloudInformationTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14116,7 +14187,19 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14130,10 +14213,6 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>KOS User login</source>
         <translation>Prijava uporabnika za KOS</translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -14306,6 +14385,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Clipboard Pane</source>
         <translation>Podokno odložišča</translation>
+    </message>
+    <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Colorize</source>
@@ -14486,7 +14569,7 @@ Slide</source>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>Sporočilo meni</translation>
+        <translation type="obsolete">Sporočilo meni</translation>
     </message>
     <message>
         <source>New</source>
@@ -14589,8 +14672,12 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>S Sporočilo meni</translation>
+        <translation type="obsolete">S Sporočilo meni</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -14863,16 +14950,20 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation>Prijava uporabnika za KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
         <translation>Prijava uporabnika za KOS</translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -14932,7 +15023,11 @@ Slide</source>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
-        <translation>Pritrdi orodno vrstico</translation>
+        <translation type="obsolete">Pritrdi orodno vrstico</translation>
+    </message>
+    <message>
+        <source>Stick the ToolBar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -15074,16 +15169,20 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
         <translation>Prijava uporabnika za KOS</translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -15175,6 +15274,22 @@ Slide</source>
     </message>
     <message>
         <source>What News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

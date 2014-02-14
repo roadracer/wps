@@ -192,7 +192,7 @@ If you want to hide, delete, or move the selected sheet(s), you must first inser
     </message>
     <message>
         <source>0.001f</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.001f</translation>
     </message>
     <message>
         <source>Unknown User</source>
@@ -1216,6 +1216,10 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Forming Sensitivity Report...</source>
         <translation>Pripravljanje poročila o občutljivosti ...</translation>
+    </message>
+    <message>
+        <source>No cells were found.</source>
+        <translation type="unfinished">Nič celic ni bilo najdenih.</translation>
     </message>
 </context>
 <context>
@@ -4444,6 +4448,14 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the price per $100 face value of a security that pays periodic interest.</source>
         <translation>Vrne ceno vrednostnega papirja na €100 imenske vrednosti, ki izplača periodične obresti.</translation>
+    </message>
+    <message>
+        <source>GETPIVOTDATA(data_field, pivot_table, field, item,...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extracts data stored in a PivotTable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7876,7 +7888,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Reject Input Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavrni vnos dvojnikov</translation>
     </message>
     <message>
         <source>The content you enter is duplicated with content in other cells in the range.</source>
@@ -8143,6 +8155,54 @@ Continue ?</source>
         <translation>
 
 Ali želite nadaljevati?</translation>
+    </message>
+    <message>
+        <source>The entered value is invalid.
+
+The values which can be typed here is restricted by other users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Continue ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active document is not a worksheet or in unprotected state.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot execute this command in Group Edit mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit range without a password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>????????????????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>?????????????????????????????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>???????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>????????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>???</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

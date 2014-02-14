@@ -791,7 +791,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Applause</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Applause</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -799,15 +799,15 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bom</translation>
     </message>
     <message>
         <source>Breeze</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bries</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Camera</translation>
     </message>
     <message>
         <source>Cash Register</source>
@@ -815,11 +815,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Chime</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klokkenspel</translation>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klik</translation>
     </message>
     <message>
         <source>Coin</source>
@@ -839,7 +839,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Laser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laser</translation>
     </message>
     <message>
         <source>Push</source>
@@ -847,11 +847,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Suction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zuiging</translation>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typemachine</translation>
     </message>
     <message>
         <source>Voltage</source>
@@ -863,7 +863,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wind</translation>
     </message>
     <message>
         <source>Other sound...</source>
@@ -1888,11 +1888,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to edit Master text styles
-Second level
-Third level
-Fourth level
-Fifth level</source>
+        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

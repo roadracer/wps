@@ -1864,7 +1864,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrado</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -3239,28 +3239,26 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <translation type="unfinished">Tabla</translation>
     </message>
     <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Do you want to change the default settings for page setup?
-
-This change will affect all new documents based on the %s template.</source>
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-
-This change will affect all the new documents based on the %s template.</source>
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
 
-This change will affect all the new documents based on the %s template.
-
-
-Yes:	Save to template;
-
-No:	Do not save to template;
-
-Cancel:	Return to the dialog.</source>
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3272,10 +3270,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>(none)
 .</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not allowed to edit this selection because it is protected.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

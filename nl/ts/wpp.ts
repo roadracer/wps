@@ -588,7 +588,7 @@
     </message>
     <message>
         <source>Sound &amp;Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geluids&amp;volume:</translation>
     </message>
     <message>
         <source>Display options</source>
@@ -956,7 +956,7 @@
     </message>
     <message>
         <source>&amp;Do not prompt next time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;De volgende keer niet vragen.</translation>
     </message>
 </context>
 <context>
@@ -998,7 +998,7 @@
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Kleur:</translation>
     </message>
     <message>
         <source>&amp;Picture...</source>
@@ -1343,10 +1343,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1369,6 +1365,10 @@
     <message>
         <source>&amp;Page number</source>
         <translation>&amp;Paginanummer</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuleren</translation>
     </message>
 </context>
 <context>
@@ -1884,7 +1884,7 @@
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
@@ -2067,7 +2067,7 @@
     </message>
     <message>
         <source>Sound &amp;Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geluids&amp;volume:</translation>
     </message>
     <message>
         <source>Information</source>
@@ -2528,7 +2528,7 @@
     </message>
     <message>
         <source>The directory you specified dose not exist.</source>
-        <translation>De opgegeven map bestaat niet.</translation>
+        <translation type="obsolete">De opgegeven map bestaat niet.</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
@@ -2561,6 +2561,10 @@
     <message>
         <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
         <translation>Zorg ervoor dat de dia&apos;s niet meer worden overgeslagen, of kies ervoor om overgeslagen dia&apos;s te exporteren.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3548,10 +3552,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All slides among the rang must be marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Selected slides have marked as hidden!</source>
         <translation>Geselecteerde dia&apos;s zijn als verborgen gemarkeerd!</translation>
     </message>
@@ -3561,6 +3561,10 @@
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3774,7 +3778,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geen</translation>
     </message>
     <message>
         <source>Blinds 1</source>

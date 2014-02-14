@@ -15480,6 +15480,10 @@ Slide</source>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
+        <translation type="obsolete">固定功能区</translation>
+    </message>
+    <message>
+        <source>Stick the ToolBar</source>
         <translation>固定功能区</translation>
     </message>
     <message>

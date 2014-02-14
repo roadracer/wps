@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>Black</source>
-        <translation>Zwart</translation>
+        <translation type="obsolete">Zwart</translation>
     </message>
     <message>
         <source>Deep cyan</source>
@@ -238,6 +238,10 @@
     <message>
         <source>Deep red</source>
         <translation>Donkerrood</translation>
+    </message>
+    <message>
+        <source>Black </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -555,15 +559,15 @@
     </message>
     <message>
         <source>&amp;One</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Een</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">T&amp;wee</translation>
     </message>
     <message>
         <source>&amp;Three</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Drie</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -950,7 +954,7 @@
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deze sectie</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -1350,7 +1354,7 @@
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Kleur:</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -1383,7 +1387,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deze sectie</translation>
     </message>
     <message>
         <source>This section - First page only</source>
@@ -1424,95 +1428,95 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {5%?}</translation>
     </message>
     <message>
         <source>10%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {10%?}</translation>
     </message>
     <message>
         <source>12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {12.5%?}</translation>
     </message>
     <message>
         <source>15%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {15%?}</translation>
     </message>
     <message>
         <source>20%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {20%?}</translation>
     </message>
     <message>
         <source>25%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {25%?}</translation>
     </message>
     <message>
         <source>30%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {30%?}</translation>
     </message>
     <message>
         <source>35%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {35%?}</translation>
     </message>
     <message>
         <source>37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {37.5%?}</translation>
     </message>
     <message>
         <source>40%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {40%?}</translation>
     </message>
     <message>
         <source>45%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {45%?}</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {50%?}</translation>
     </message>
     <message>
         <source>55%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {55%?}</translation>
     </message>
     <message>
         <source>60%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {60%?}</translation>
     </message>
     <message>
         <source>62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {62.5%?}</translation>
     </message>
     <message>
         <source>65%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {65%?}</translation>
     </message>
     <message>
         <source>70%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {70%?}</translation>
     </message>
     <message>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {75%?}</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {80%?}</translation>
     </message>
     <message>
         <source>85%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {85%?}</translation>
     </message>
     <message>
         <source>87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {87.5%?}</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {90%?}</translation>
     </message>
     <message>
         <source>95%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {95%?}</translation>
     </message>
     <message>
         <source>Deep horizontal line</source>
@@ -1846,7 +1850,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Bladwijzers</translation>
     </message>
     <message>
         <source>Check box e&amp;nabled</source>
@@ -1881,87 +1885,87 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {4?}</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {5?}</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {6?}</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {7?}</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {8?}</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {9?}</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {10?}</translation>
     </message>
     <message>
         <source>10.5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {10.5?}</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {11?}</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {12?}</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {14?}</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {16?}</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {18?}</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {20?}</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {22?}</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {24?}</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {26?}</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {28?}</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {36?}</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {48?}</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {72?}</translation>
     </message>
 </context>
 <context>
@@ -2674,7 +2678,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stijl</translation>
     </message>
     <message>
         <source>&amp;Shrink text</source>
@@ -2710,11 +2714,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {1?}</translation>
     </message>
     <message>
         <source>21</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {21?}</translation>
     </message>
     <message utf8="true">
         <source>一</source>
@@ -2960,7 +2964,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagina</translation>
     </message>
     <message>
         <source>Section</source>
@@ -3459,7 +3463,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagina</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
@@ -5481,43 +5485,43 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {4?}</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {8?}</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {12?}</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {16?}</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {20?}</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {24?}</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {28?}</translation>
     </message>
     <message>
         <source>32</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {32?}</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {36?}</translation>
     </message>
     <message>
         <source>40</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {40?}</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -5653,7 +5657,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Richting:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
@@ -5916,7 +5920,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dubbel</translation>
     </message>
     <message>
         <source>At least</source>
@@ -6147,11 +6151,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>0-1-0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {0-1-0?}</translation>
     </message>
     <message>
         <source>1-2-1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {1-2-1?}</translation>
     </message>
 </context>
 <context>
@@ -6432,7 +6436,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absolute &amp;positie</translation>
     </message>
     <message>
         <source>pt, -2, -1584, 1584, 1</source>
@@ -6440,7 +6444,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Uitlijning</translation>
     </message>
     <message>
         <source>Relati&amp;ve to:</source>
@@ -6448,11 +6452,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Marge</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagina</translation>
     </message>
     <message>
         <source>Column</source>
@@ -7184,7 +7188,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagina</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
@@ -7635,7 +7639,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Comments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Opmerkingen</translation>
     </message>
     <message>
         <source>&amp;Text Boxes in Main Document</source>
@@ -7681,7 +7685,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72?}</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
@@ -8181,7 +8185,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stijl</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -8213,15 +8217,15 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Bold, </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vet,</translation>
     </message>
     <message>
         <source>Itatic, </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cursief,</translation>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {0#?}</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -8229,7 +8233,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {1#?}</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -8237,7 +8241,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {2#?}</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -8245,7 +8249,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {3#?}</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -8253,7 +8257,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {4#?}</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -8261,7 +8265,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {5#?}</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -8269,15 +8273,15 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {6#?}</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {7#?}</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {8#?}</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -8452,7 +8456,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {0#?}</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -8460,7 +8464,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {1#?}</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -8468,7 +8472,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {2#?}</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -8476,7 +8480,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {3#?}</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -8484,7 +8488,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {4#?}</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -8492,7 +8496,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {5#?}</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -8500,15 +8504,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {6#?}</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {7#?}</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {8#?}</translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -8718,43 +8722,43 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {1?}</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {2?}</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {3?}</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {4?}</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {5?}</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {6?}</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {7?}</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {8?}</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {9?}</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {10?}</translation>
     </message>
     <message>
         <source>The measurement must be between 0 and 16383.</source>
@@ -8793,7 +8797,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deze sectie</translation>
     </message>
     <message>
         <source>Selected sections</source>
@@ -9064,7 +9068,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deze sectie</translation>
     </message>
     <message>
         <source>Selected sections</source>
@@ -9455,7 +9459,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>123</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {123?}</translation>
     </message>
     <message>
         <source>Include &amp;footnotes and endnotes</source>
@@ -9550,7 +9554,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsBorderWidthItem</name>
     <message>
         <source>2.25</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {2.25?}</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9558,35 +9562,35 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>0.25</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {0.25?}</translation>
     </message>
     <message>
         <source>0.5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {0.5?}</translation>
     </message>
     <message>
         <source>0.75</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {0.75?}</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {1?}</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {1.5?}</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {3?}</translation>
     </message>
     <message>
         <source>4.5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {4.5?}</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {6?}</translation>
     </message>
 </context>
 <context>
@@ -9751,23 +9755,23 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {50%?}</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {100%?}</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {150%?}</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {200%?}</translation>
     </message>
     <message>
         <source>500%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {500%?}</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -9835,59 +9839,59 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {36?}</translation>
     </message>
     <message>
         <source>40</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {40?}</translation>
     </message>
     <message>
         <source>44</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {44?}</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {48?}</translation>
     </message>
     <message>
         <source>54</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {54?}</translation>
     </message>
     <message>
         <source>60</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {60?}</translation>
     </message>
     <message>
         <source>66</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {66?}</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {72?}</translation>
     </message>
     <message>
         <source>80</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {80?}</translation>
     </message>
     <message>
         <source>90</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {90?}</translation>
     </message>
     <message>
         <source>96</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {96?}</translation>
     </message>
     <message>
         <source>105</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {105?}</translation>
     </message>
     <message>
         <source>120</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {120?}</translation>
     </message>
     <message>
         <source>144</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {144?}</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -9962,7 +9966,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsDeleteSectionCommand</name>
     <message>
         <source>Delete Section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verwijder sectienaam</translation>
     </message>
 </context>
 <context>
@@ -10223,7 +10227,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>1.5 lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2 lijnen {1.5 ?}</translation>
     </message>
     <message>
         <source>Double</source>
@@ -10429,10 +10433,6 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete current page page numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10446,6 +10446,10 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Delete all page numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10528,10 +10532,6 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page X Of Y</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10541,7 +10541,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>0;57;1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1: {0;57;1?}</translation>
     </message>
     <message>
         <source>Page 1</source>
@@ -10561,6 +10561,10 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
+        <translation type="unfinished">1: {37;38;14;28;2;3;4;30;31;10;20;21;5;6;7?}</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

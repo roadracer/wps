@@ -574,7 +574,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Please save groupfile in group.</source>
-        <translation>Gruppendatei bitte in Gruppe speichern.</translation>
+        <translation type="obsolete">Gruppendatei bitte in Gruppe speichern.</translation>
     </message>
     <message>
         <source>Save As</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2150,12 +2150,32 @@ spojene podatke</translation>
 <context>
     <name>ongmani.ct_design</name>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Border Color</source>
         <translation>Barva obrobe</translation>
     </message>
     <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
         <translation>Počisti slog tabele</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw
@@ -2184,6 +2204,14 @@ diagonalno črto v celico</translation>
         <translation>Radirka</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Style</source>
         <translation>Slog črte</translation>
     </message>
@@ -2200,12 +2228,28 @@ diagonalno črto v celico</translation>
         <translation>Več barv črt</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
-        <translation>Zunanja obroba</translation>
+        <translation type="obsolete">Zunanja obroba</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>Barva senčenja</translation>
+        <translation type="obsolete">Barva senčenja</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2218,6 +2262,14 @@ diagonalno črto v celico</translation>
     <message>
         <source>TableStyle</source>
         <translation>Slog tabel</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2854,6 +2906,14 @@ On</source>
         <translation>Zamenjaj različico</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Zaščita dokumenta in lastnosti</translation>
     </message>
@@ -3187,12 +3247,24 @@ On</source>
         <translation>Poravnaj desno</translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>Azijska postavitev</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>Krepko</translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3237,6 +3309,10 @@ On</source>
     <message>
         <source>Copy</source>
         <translation>Kopiraj</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3332,6 +3408,10 @@ Painter</source>
         <translation>Podokno izbora</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Indent</source>
         <translation>Povečaj zamik</translation>
     </message>
@@ -3342,6 +3422,10 @@ Painter</source>
     <message>
         <source>Justify</source>
         <translation>Objestransko</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3376,8 +3460,16 @@ Painter</source>
         <translation>Spremeni sloge</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>Zunanja obroba</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3406,6 +3498,10 @@ Painter</source>
     <message>
         <source>Replace</source>
         <translation>Zamenjaj</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select</source>
@@ -3472,6 +3568,10 @@ Painter</source>
         <translation>Zavihki</translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>Dve vrstici v eni</translation>
     </message>
@@ -3482,6 +3582,10 @@ Painter</source>
     <message>
         <source>Underline Color</source>
         <translation>Barva podčrtovanja</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -3510,6 +3614,10 @@ Painter</source>
         <translation>Zaznamek</translation>
     </message>
     <message>
+        <source>Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>Graf</translation>
     </message>
@@ -3520,6 +3628,22 @@ Painter</source>
     <message>
         <source>Clip Art</source>
         <translation>Slikovni izrezek</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -3556,6 +3680,10 @@ Painter</source>
     <message>
         <source>Equation</source>
         <translation>Enačba</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3638,12 +3766,20 @@ Painter</source>
         <translation>Besedilo v več vrsticah</translation>
     </message>
     <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Številka</translation>
     </message>
     <message>
         <source>Object</source>
         <translation>Predmet</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -3709,6 +3845,10 @@ bol</source>
     <message>
         <source>Text Form Field</source>
         <translation>Vnosno polje obrazca</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text from File</source>
@@ -6169,7 +6309,7 @@ Other Windows</source>
     </message>
     <message>
         <source>View Side By Side</source>
-        <translation>Vzporeden pogled</translation>
+        <translation type="obsolete">Vzporeden pogled</translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -7099,6 +7239,10 @@ On</source>
         <translation>Samodejno varnostno kopiranje datotek</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>Moj račun za KOS</translation>
     </message>
@@ -7319,7 +7463,7 @@ On</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Spremeni informacije o uporabniku</translation>
+        <translation type="obsolete">Spremeni informacije o uporabniku</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -7523,7 +7667,7 @@ On</source>
     </message>
     <message>
         <source>Document Protection</source>
-        <translation>Zaščita dokumenta</translation>
+        <translation type="obsolete">Zaščita dokumenta</translation>
     </message>
     <message>
         <source>Draw
@@ -7764,7 +7908,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Vodoravno</translation>
+        <translation type="obsolete">Vodoravno</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -7805,6 +7949,18 @@ Diagonal Line in Cell</source>
     <message>
         <source>Invisible</source>
         <translation>Neviden</translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft BBS</source>
@@ -8083,6 +8239,10 @@ Diagonal Line in Cell</source>
         <translation>Znova začni oštevilčevanje</translation>
     </message>
     <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Right Tab</source>
         <translation>Desni tabulator</translation>
     </message>
@@ -8296,7 +8456,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Navpično</translation>
+        <translation type="obsolete">Navpično</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -8352,6 +8512,28 @@ Diagonal Line in Cell</source>
     </message>
 </context>
 <context>
+    <name>popupmenu.InsertBlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.InsertTextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
@@ -8379,12 +8561,28 @@ Diagonal Line in Cell</source>
 <context>
     <name>rainbow.ct_design</name>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Border Color</source>
         <translation>Barva obrobe</translation>
     </message>
     <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
         <translation>Počisti slog tabele</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw
@@ -8404,6 +8602,14 @@ Diagonal Line in Cell</source>
         <translation>Radirka</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Style</source>
         <translation>Slog črte</translation>
     </message>
@@ -8420,8 +8626,20 @@ Diagonal Line in Cell</source>
         <translation>Več barv črt</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>Zunanja obroba</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -8434,6 +8652,14 @@ Diagonal Line in Cell</source>
     <message>
         <source>Table Styles</source>
         <translation>Slogi tabel</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8997,6 +9223,14 @@ Diagonal Line in Cell</source>
         <translation>Zamenjaj različico</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Zaščita dokumenta in lastnosti</translation>
     </message>
@@ -9332,12 +9566,24 @@ Header and Footer</source>
         <translation>Poravnaj desno</translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>Azijska postavitev</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>Krepko</translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -9382,6 +9628,10 @@ Header and Footer</source>
     <message>
         <source>Copy</source>
         <translation>Kopiraj</translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -9460,6 +9710,10 @@ Header and Footer</source>
         <translation>Označi</translation>
     </message>
     <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Indent</source>
         <translation>Povečaj zamik</translation>
     </message>
@@ -9470,6 +9724,10 @@ Header and Footer</source>
     <message>
         <source>Justify</source>
         <translation>Objestransko</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9504,8 +9762,16 @@ Header and Footer</source>
         <translation>Nov slog</translation>
     </message>
     <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation>Zunanja obroba</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9530,6 +9796,10 @@ Header and Footer</source>
     <message>
         <source>Phonetic Guide...</source>
         <translation>Fonetični vodnik ...</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select</source>
@@ -9596,6 +9866,10 @@ Header and Footer</source>
         <translation>Barva besedila</translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>Dve vrstici v eni</translation>
     </message>
@@ -9606,6 +9880,10 @@ Header and Footer</source>
     <message>
         <source>Underline Color</source>
         <translation>Barva podčrtovanja</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -9634,6 +9912,10 @@ Header and Footer</source>
         <translation>Zaznamki</translation>
     </message>
     <message>
+        <source>Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>Grafikon</translation>
     </message>
@@ -9644,6 +9926,22 @@ Header and Footer</source>
     <message>
         <source>Clip Art</source>
         <translation>Slikovni izrezek</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -9680,6 +9978,10 @@ Header and Footer</source>
     <message>
         <source>Equation</source>
         <translation>Enačba</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9774,12 +10076,20 @@ Header and Footer</source>
         <translation>Besedilo v več vrsticah</translation>
     </message>
     <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Številka</translation>
     </message>
     <message>
         <source>Object</source>
         <translation>Predmet</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -9840,6 +10150,10 @@ Header and Footer</source>
     <message>
         <source>Text Form Field</source>
         <translation>Vnosno polje obrazca</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -13030,6 +13344,10 @@ Other Window</source>
         <translation>Pomagajte nam izboljšati izdelek.</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>Moj račun za KOS</translation>
     </message>
@@ -15307,6 +15625,17 @@ Click the arrow to insert file content into the document.</source>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>User Name or Password does not match</source>
@@ -15833,6 +16162,17 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
 </context>
 <context>
+    <name>tips.PageLayoutDetailedSettings</name>
+    <message>
+        <source>PageLayoutDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageLayoutDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PageNumber</name>
     <message>
         <source>Insert Page Number</source>
@@ -16239,11 +16579,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
-        <translation>Zaščita dokumenta</translation>
+        <translation type="obsolete">Zaščita dokumenta</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
-        <translation>Omejite osebam določene vrste urejanja ali oblikovanja dokumenta tako, da določite geslo.</translation>
+        <translation type="obsolete">Omejite osebam določene vrste urejanja ali oblikovanja dokumenta tako, da določite geslo.</translation>
     </message>
 </context>
 <context>
@@ -16474,6 +16814,17 @@ Click the arrow to select different background colors.</source>
     <message>
         <source>Restart Page Numbering</source>
         <translation>Znova začni oštevilčevanje strani</translation>
+    </message>
+</context>
+<context>
+    <name>tips.RestrictEditing</name>
+    <message>
+        <source>RestrictEditing Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RestrictEditing Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17719,7 +18070,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Spremeni informacije o uporabniku</translation>
+        <translation type="obsolete">Spremeni informacije o uporabniku</translation>
     </message>
     <message>
         <source>Cloud Feedback</source>
@@ -17736,6 +18087,18 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <message>
         <source>Export as Images</source>
         <translation>Izvozi kot slike</translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -17967,6 +18330,10 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
         <translation>Podokno odložišča</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Collapse</source>
         <translation>Strni</translation>
     </message>
@@ -18164,7 +18531,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>Sporočilo meni</translation>
+        <translation type="obsolete">Sporočilo meni</translation>
     </message>
     <message>
         <source>New</source>
@@ -18263,12 +18630,24 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
         <translation>Zamenjaj</translation>
     </message>
     <message>
+        <source>Restrict</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rotate Mode</source>
         <translation>Način sukanja</translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>S Sporočilo meni</translation>
+        <translation type="obsolete">S Sporočilo meni</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -18469,7 +18848,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Spremeni informacije o uporabniku</translation>
+        <translation type="obsolete">Spremeni informacije o uporabniku</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -18518,6 +18897,14 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <message>
         <source>Insert</source>
         <translation>Vstavljanje</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -18697,7 +19084,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Spremeni informacije o uporabniku</translation>
+        <translation type="obsolete">Spremeni informacije o uporabniku</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -18742,6 +19129,14 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <message>
         <source>Insert</source>
         <translation>Vstavi</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -18846,6 +19241,22 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <message>
         <source>What&apos;s New</source>
         <translation>Novosti</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>

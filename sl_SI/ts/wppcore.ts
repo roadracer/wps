@@ -1898,11 +1898,15 @@ Second level
 Third level
 Fourth level
 Fifth level</source>
-        <translation>Kliknite, če želite urediti sloge besedila matrice
+        <translation type="obsolete">Kliknite, če želite urediti sloge besedila matrice
 Druga raven
 Tretja raven
 Četrta raven
 Peta raven</translation>
+    </message>
+    <message>
+        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3131,7 +3135,7 @@ Peta raven</translation>
     </message>
     <message>
         <source>&amp;1 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;8 naper {1 ?}</translation>
     </message>
     <message>
         <source>&amp;2 Spokes</source>

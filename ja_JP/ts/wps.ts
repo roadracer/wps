@@ -10818,7 +10818,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsSmartPageNumDeletePane</name>
     <message>
         <source>Cancle</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Delete &amp;all page numbers</source>
@@ -10855,6 +10855,10 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>OK</source>
         <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -10897,7 +10901,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Cancle</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Current page</source>
@@ -10970,6 +10974,10 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>Page X Of y</source>
         <translation>Page X Of y</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
     </message>
 </context>
 <context>

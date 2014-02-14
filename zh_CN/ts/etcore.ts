@@ -9479,6 +9479,18 @@ Continue ?</source>
 是否继续？</translation>
     </message>
     <message>
+        <source>Active document is not a worksheet or in unprotected state.</source>
+        <translation type="unfinished">活动文档不是工作表或未被保护。</translation>
+    </message>
+    <message>
+        <source>Cannot execute this command in Group Edit mode.</source>
+        <translation type="unfinished">在组编辑方式中不能执行此命令。</translation>
+    </message>
+    <message>
+        <source>Edit range without a password</source>
+        <translation type="unfinished">无需密码的编辑区域</translation>
+    </message>
+    <message>
         <source>The entered value is invalid.
 
 The values which can be typed here is restricted by other users.</source>
@@ -9491,16 +9503,28 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Active document is not a worksheet or in unprotected state.</source>
-        <translation type="unfinished">活动文档不是工作表或未被保护。</translation>
+        <source>????????????????</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cannot execute this command in Group Edit mode.</source>
-        <translation type="unfinished">在组编辑方式中不能执行此命令。</translation>
+        <source>?????????????????????????????</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit range without a password</source>
-        <translation type="unfinished">无需密码的编辑区域</translation>
+        <source>???????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>????????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>???</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

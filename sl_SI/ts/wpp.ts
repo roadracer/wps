@@ -5,95 +5,95 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>0</source>
-        <translation>/home/andreas/Namizje/ts/wppresource.ts</translation>
+        <translation type="obsolete">/home/andreas/Namizje/ts/wppresource.ts</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="obsolete">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2</translation>
+        <translation type="obsolete">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>3</translation>
+        <translation type="obsolete">3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation>3</translation>
+        <translation type="obsolete">3</translation>
     </message>
     <message>
         <source>5</source>
-        <translation>5</translation>
+        <translation type="obsolete">5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>6</translation>
+        <translation type="obsolete">6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation>7</translation>
+        <translation type="obsolete">7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation>8</translation>
+        <translation type="obsolete">8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>9</translation>
+        <translation type="obsolete">9</translation>
     </message>
     <message>
         <source>(0)</source>
-        <translation>(0)</translation>
+        <translation type="obsolete">(0)</translation>
     </message>
     <message>
         <source>(1)</source>
-        <translation>(1)</translation>
+        <translation type="obsolete">(1)</translation>
     </message>
     <message>
         <source>(2)</source>
-        <translation>(2)</translation>
+        <translation type="obsolete">(2)</translation>
     </message>
     <message>
         <source>(3)</source>
-        <translation>(3)</translation>
+        <translation type="obsolete">(3)</translation>
     </message>
     <message>
         <source>(4)</source>
-        <translation>(4)</translation>
+        <translation type="obsolete">(4)</translation>
     </message>
     <message>
         <source>(5)</source>
-        <translation>(5)</translation>
+        <translation type="obsolete">(5)</translation>
     </message>
     <message>
         <source>(6)</source>
-        <translation>(6)</translation>
+        <translation type="obsolete">(6)</translation>
     </message>
     <message>
         <source>(7)</source>
-        <translation>(7)</translation>
+        <translation type="obsolete">(7)</translation>
     </message>
     <message>
         <source>(8)</source>
-        <translation>(8)</translation>
+        <translation type="obsolete">(8)</translation>
     </message>
     <message>
         <source>(9)</source>
-        <translation>(9)</translation>
+        <translation type="obsolete">(9)</translation>
     </message>
     <message>
         <source>(10)</source>
-        <translation>(10)</translation>
+        <translation type="obsolete">(10)</translation>
     </message>
     <message>
         <source>.</source>
-        <translation>.</translation>
+        <translation type="obsolete">.</translation>
     </message>
     <message>
         <source>)</source>
-        <translation>)</translation>
+        <translation type="obsolete">)</translation>
     </message>
     <message>
         <source>None</source>
@@ -820,6 +820,13 @@
     </message>
 </context>
 <context>
+    <name>KWppZoomSlider</name>
+    <message id="0">
+        <source>Slide Zoom Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxApplication</name>
     <message>
         <source>WPS WORD</source>
@@ -1157,16 +1164,16 @@
         <translation>&amp;Možnosti</translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Undo</source>
         <translation>&amp;Razveljavi</translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Zapri</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1429,7 +1436,7 @@
     </message>
     <message>
         <source>Cancle</source>
-        <translation>Prekliči</translation>
+        <translation type="obsolete">Prekliči</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1454,6 +1461,10 @@
     <message>
         <source>&amp;Page number</source>
         <translation>Št&amp;evilka strani</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Prekliči</translation>
     </message>
 </context>
 <context>
@@ -1873,6 +1884,14 @@
         <source>Custom &amp;Dictionaries...</source>
         <translation>&amp;Osebni slovarji...</translation>
     </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -2171,7 +2190,7 @@
     </message>
     <message>
         <source>Number of &amp;cols:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Število &amp;stolpcev:</translation>
     </message>
 </context>
 <context>
@@ -2604,10 +2623,6 @@
         <translation>Ime datoteke je enako kot obstoječ dokument.</translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have no permission to write files into this directory.</source>
         <translation>Nimate dovoljenj da bi pisali v ta imenik.</translation>
     </message>
@@ -2639,12 +2654,16 @@
         <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Priprava na izvoz PDF datoteke ...</translation>
     </message>
     <message>
         <source>User canceled operation.</source>
@@ -2681,6 +2700,10 @@
     <message>
         <source>Encountered an error when opening PDF file!</source>
         <translation>Med odpiranjem PDF datoteke je prišlo do napake!</translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3145,7 +3168,7 @@
     <name>KxTpSlideTransition</name>
     <message>
         <source>Zoom</source>
-        <translation>Povečava</translation>
+        <translation type="obsolete">Povečava</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
@@ -3202,6 +3225,10 @@
     <message>
         <source>AutoPreview</source>
         <translation>Samodejni predogled</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3292,7 +3319,7 @@
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diapozitiv %1</translation>
     </message>
     <message>
         <source>Please choose a program to launch</source>
@@ -3547,7 +3574,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dodaj Načrt</translation>
     </message>
 </context>
 <context>
@@ -3621,10 +3648,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All slides among the rang must be marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Selected slides have marked as hidden!</source>
         <translation>Izbrani diapozitivi so označeni kot skriti!</translation>
     </message>
@@ -3634,6 +3657,10 @@
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

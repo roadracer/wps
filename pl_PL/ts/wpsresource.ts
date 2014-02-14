@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -7440,7 +7440,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Zmień informacje o użytkowniku</translation>
+        <translation type="obsolete">Zmień informacje o użytkowniku</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -8599,6 +8599,10 @@ Ukośna linia w komórce</translation>
     <message>
         <source>Outside Border</source>
         <translation>Zewnętrzna krawędź</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -16557,11 +16561,11 @@ Kliknij strzałkę, aby wybrać szczegółowe ustawienia dla wybranego obiektu.<
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
-        <translation>Ochrona dokumentu</translation>
+        <translation type="obsolete">Ochrona dokumentu</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
-        <translation>Pomóż ograniczyć innym osobom możliwości wprowadzania pewnego typu zmian edycyjnych lub zmian w formatowaniu dokumentu przez określenie hasła.</translation>
+        <translation type="obsolete">Pomóż ograniczyć innym osobom możliwości wprowadzania pewnego typu zmian edycyjnych lub zmian w formatowaniu dokumentu przez określenie hasła.</translation>
     </message>
 </context>
 <context>
@@ -18056,7 +18060,7 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Zmień informacje o użytkowniku</translation>
+        <translation type="obsolete">Zmień informacje o użytkowniku</translation>
     </message>
     <message>
         <source>Cloud Feedback</source>
@@ -18826,7 +18830,7 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Zmień informacje o użytkowniku</translation>
+        <translation type="obsolete">Zmień informacje o użytkowniku</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -19062,7 +19066,7 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>Zmień informacje o użytkowniku</translation>
+        <translation type="obsolete">Zmień informacje o użytkowniku</translation>
     </message>
     <message>
         <source>Developer</source>

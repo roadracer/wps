@@ -1015,7 +1015,7 @@ Are you sure to change?</source>
     <name>KxNewFolderDlg</name>
     <message>
         <source>The file path cannot be longer than 255 characters !</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Het pad kan niet langer dan 255 tekens zijn!</translation>
     </message>
     <message>
         <source>The file name must not contain any of the characters:

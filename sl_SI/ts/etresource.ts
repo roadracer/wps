@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1854,6 +1854,10 @@ Center</source>
         <translation>Odložno podokno</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Column Popup Menu</source>
         <translation>Pojavni meni stolpec</translation>
     </message>
@@ -1970,6 +1974,14 @@ Center</source>
         <translation>Išči</translation>
     </message>
     <message>
+        <source>Find All Local Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Direct Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format</source>
         <translation>Oblika</translation>
     </message>
@@ -2054,8 +2066,12 @@ Center</source>
         <translation>Materiali</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>MsgAtMe</source>
-        <translation>MsgAtMe</translation>
+        <translation type="obsolete">MsgAtMe</translation>
     </message>
     <message>
         <source>Name Box</source>
@@ -2190,8 +2206,12 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>S MsgAtMe</translation>
+        <translation type="obsolete">S MsgAtMe</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -2345,7 +2365,7 @@ Okno</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation>Zamenjaj informacije uporabnika</translation>
+        <translation type="obsolete">Zamenjaj informacije uporabnika</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2402,6 +2422,14 @@ Okno</translation>
     <message>
         <source>Insert</source>
         <translation>Vstavljanje</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Log off</source>
@@ -2553,7 +2581,7 @@ Okno</translation>
     </message>
     <message>
         <source>Change User Info</source>
-        <translation>Zamenjaj informacije uporabnika</translation>
+        <translation type="obsolete">Zamenjaj informacije uporabnika</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2606,6 +2634,14 @@ Okno</translation>
     <message>
         <source>Insert</source>
         <translation>Vstavljanje</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Log off</source>
@@ -2690,6 +2726,22 @@ Okno</translation>
     <message>
         <source>View</source>
         <translation>Ogled</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -3448,6 +3500,14 @@ Vklop</translation>
         <translation>Zamenjaj različico</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Zaščita in lastnosti dokumenta</translation>
     </message>
@@ -3620,6 +3680,10 @@ Vklop</translation>
         <translation>Posodobitev v spletu</translation>
     </message>
     <message>
+        <source>User Feedback by mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS BBS</source>
         <translation>WPS BBS</translation>
     </message>
@@ -3743,7 +3807,7 @@ Vklop</translation>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>Več funkcij</translation>
+        <translation type="obsolete">Več funkcij</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -5587,7 +5651,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Zapri okno</translation>
+        <translation type="obsolete">Zapri okno</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -5620,6 +5684,10 @@ Drugo okno</translation>
     <message>
         <source>Macros</source>
         <translation>Makri</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Windows</source>
@@ -5655,7 +5723,7 @@ Drugo okno</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>Razdeli</translation>
+        <translation type="obsolete">Razdeli</translation>
     </message>
     <message>
         <source>Switch Windows</source>
@@ -5703,6 +5771,17 @@ Drugo okno</translation>
     <message>
         <source>COM Add-Ins</source>
         <translation>Dodatki COM</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_view.window</name>
+    <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6402,6 +6481,10 @@ Vklop</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My Account</source>
         <translation>KOS moj račun</translation>
     </message>
@@ -7065,11 +7148,23 @@ Vklop</translation>
         <translation>Vstavi prelom strani</translation>
     </message>
     <message>
+        <source>Insert Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Change Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7081,16 +7176,16 @@ Vklop</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
         <translation>KOS prijava uporabnika</translation>
-    </message>
-    <message>
-        <source>KOS View User Info</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft Office BBS</source>
@@ -8225,6 +8320,14 @@ AddIns</source>
         <translation>Zamenjaj različico</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Zaščita in lastnosti dokumenta</translation>
     </message>
@@ -8516,7 +8619,7 @@ AddIns</source>
     </message>
     <message>
         <source>More Functoins</source>
-        <translation>Več funkcij</translation>
+        <translation type="obsolete">Več funkcij</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -10238,6 +10341,10 @@ Druga okno</translation>
         <translation>Makri</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Windows</source>
         <translation>Več oken</translation>
     </message>
@@ -10987,6 +11094,10 @@ Druga okno</translation>
     </message>
     <message>
         <source>KOS Cloud Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12807,6 +12918,17 @@ Prelomi strani se vstavijo nad izbor in na njegovo levo stran.</translation>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
@@ -12913,6 +13035,17 @@ Prelomi strani se vstavijo nad izbor in na njegovo levo stran.</translation>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
         <translation>Izbrani 3D obliki nastavi smer osvetlitve, moč osvetlitve, vključno s svetlobo, navadno osvetlitvijo in zasenčenostjo.</translation>
+    </message>
+</context>
+<context>
+    <name>tips.LoadMacro</name>
+    <message>
+        <source>LoadMacro Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LoadMacro Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14837,11 +14970,23 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14851,10 +14996,6 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>KOS User Login</source>
         <translation>Prijava uporabnika za KOS</translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>

@@ -2483,15 +2483,15 @@ File: %s
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>(Not limited)</source>
@@ -2595,6 +2595,14 @@ You can click the button to recover files you work on.</source>
     </message>
     <message>
         <source>microblog feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Commercial Version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3000,7 +3008,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">90% {5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72?}</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
@@ -4240,11 +4248,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">90% {6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72?}</translation>
     </message>
     <message>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">90% {8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96?}</translation>
     </message>
     <message>
         <source>Unknown picture file extension (.%s)</source>
@@ -4288,7 +4296,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Open in broser</source>
-        <translation>Odpri v brskalniku</translation>
+        <translation type="obsolete">Odpri v brskalniku</translation>
     </message>
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -4423,6 +4431,24 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The PivotTable field name is not valid. 
+
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+        <translation type="obsolete">Ime polja vrtilne tabele ni veljavno. 
+
+Za pripravo poročila vrtilne tabele potrebujete seznam podatkov z označenimi stolpci. 
+
+Če želite spremeniti ime polja vrtilne tabele, morate vnesti novo ime polja.</translation>
+    </message>
+    <message>
+        <source>Organization Chart
+Used to show hierarchical relationships</source>
+        <translation type="obsolete">Organigram
+Se uporablja za prikaz hierarhičnih odnosov</translation>
+    </message>
+    <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
@@ -4431,15 +4457,9 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
-
-To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
-
-If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
-        <translation>Ime polja vrtilne tabele ni veljavno. 
-
-Za pripravo poročila vrtilne tabele potrebujete seznam podatkov z označenimi stolpci. 
-
-Če želite spremeniti ime polja vrtilne tabele, morate vnesti novo ime polja.</translation>
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thank you for choosing Kingsoft Office series product.
@@ -4451,10 +4471,13 @@ For better service, please update the trial edition to standard edition by:
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Organization Chart
 Used to show hierarchical relationships</source>
-        <translation>Organigram
-Se uporablja za prikaz hierarhičnih odnosov</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cycle Diagram

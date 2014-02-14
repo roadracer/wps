@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>stylish,gridded</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brez sloga z mrežo</translation>
     </message>
     <message>
         <source>2-</source>

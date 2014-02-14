@@ -572,11 +572,11 @@
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
@@ -827,7 +827,7 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>Cell</source>
@@ -4175,7 +4175,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>Character</source>
@@ -4276,7 +4276,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>Character</source>
@@ -5019,7 +5019,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erweitert...</translation>
     </message>
     <message>
         <source>Reenter &amp;password:</source>
@@ -5445,7 +5445,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>&amp;Gutter width:</source>
@@ -5753,11 +5753,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
@@ -5796,7 +5796,7 @@ use buttons to apply borders</source>
     <name>KxDlgParagraph</name>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>&amp;Indents and Spacing</source>
@@ -6064,7 +6064,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>Center</source>
@@ -6076,7 +6076,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -6488,15 +6488,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
@@ -6583,11 +6583,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mittig</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>Text wrapping</source>
@@ -6696,7 +6696,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -6747,15 +6747,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mittig</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts</translation>
     </message>
     <message>
         <source>&amp;Decimal</source>
@@ -9891,11 +9891,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <source>DO NOT COPY</source>
@@ -10680,10 +10680,6 @@ an die Bildgröße anpassen?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete current page page numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10698,6 +10694,10 @@ an die Bildgröße anpassen?</translation>
     <message>
         <source>Delete all page numbers</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -10779,10 +10779,6 @@ an die Bildgröße anpassen?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page X Of Y</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10813,6 +10809,10 @@ an die Bildgröße anpassen?</translation>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
         <translation type="unfinished">37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
 </context>
 <context>

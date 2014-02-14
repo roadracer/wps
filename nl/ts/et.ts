@@ -113,7 +113,7 @@
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tussen</translation>
     </message>
     <message>
         <source>not between</source>
@@ -397,7 +397,7 @@ condition is true: </source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1168,7 +1168,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Alles</translation>
     </message>
     <message>
         <source>All e&amp;xcept borders</source>
@@ -1354,7 +1354,7 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Toevoegen</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -1535,7 +1535,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Toevoegen</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -2876,7 +2876,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Toevoegen</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -3012,7 +3012,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nieuw...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -3127,7 +3127,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagina</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -3571,7 +3571,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Alles</translation>
     </message>
     <message>
         <source>Pa&amp;ges</source>
@@ -3940,7 +3940,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Kolommen</translation>
     </message>
     <message>
         <source>&amp;Trend</source>
@@ -4250,7 +4250,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4262,7 +4262,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Toevoegen</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -4756,7 +4756,7 @@ protected.</source>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Titel:</translation>
     </message>
     <message>
         <source>ll3</source>
@@ -5084,7 +5084,7 @@ protected.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5343,10 +5343,6 @@ protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5360,6 +5356,10 @@ protected.</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6005,7 +6005,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Open</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -6160,11 +6160,11 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bestand</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagina</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -7021,7 +7021,7 @@ automatically, and only one row can be kept.
     <name>KxValidNameDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <source>OK to All</source>
@@ -8473,7 +8473,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Toevoegen</translation>
     </message>
     <message>
         <source>&amp;Change</source>
@@ -8571,27 +8571,27 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>MDY</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MDJ</translation>
     </message>
     <message>
         <source>DMY</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DMJ</translation>
     </message>
     <message>
         <source>YMD</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JMD</translation>
     </message>
     <message>
         <source>MYD</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MJD</translation>
     </message>
     <message>
         <source>DYM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DJM</translation>
     </message>
     <message>
         <source>YDM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JDM</translation>
     </message>
     <message>
         <source>Skip</source>

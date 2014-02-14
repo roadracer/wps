@@ -1725,7 +1725,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">niet gelijk aan</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
@@ -1749,11 +1749,11 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En</translation>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Of</translation>
     </message>
     <message>
         <source>Connect string:</source>
@@ -5940,7 +5940,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voettekst</translation>
     </message>
     <message>
         <source>You have not selected the data to be parsed.</source>
@@ -9158,7 +9158,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Everyone but Me</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iedereen behalve mijzelf</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>

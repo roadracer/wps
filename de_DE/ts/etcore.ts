@@ -9212,18 +9212,6 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Active document is not a worksheet or in unprotected state.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9233,6 +9221,18 @@ Continue ?</source>
     </message>
     <message>
         <source>Edit range without a password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The entered value is invalid.
+
+The values which can be typed here is restricted by other users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -248,10 +248,6 @@ Esc					End of the slide show</source>
         <translation>Diapositiva </translation>
     </message>
     <message>
-        <source>Slide %d of %d</source>
-        <source>Diapositiva %d de %d</source>
-    </message>
-    <message>
         <source>End Show</source>
         <translation type="unfinished"></translation>
     </message>
@@ -277,6 +273,10 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>May our software run on every computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide %d of %d</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1242,11 +1242,11 @@ Please try one of the following.
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copar</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pegar</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -1262,7 +1262,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arrastrar y soltar</translation>
     </message>
     <message>
         <source>Custom Shows</source>
@@ -1888,11 +1888,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to edit Master text styles
-Second level
-Third level
-Fourth level
-Fifth level</source>
+        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2270,7 +2266,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Split Horizontal In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">División horizontal entrante</translation>
     </message>
     <message>
         <source>Split &amp;Horizontal In</source>
@@ -2278,7 +2274,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Split Horizontal Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">División horizontal saliente</translation>
     </message>
     <message>
         <source>Split H&amp;orizontal Out</source>
@@ -2462,7 +2458,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Split Vertical In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">División vertical entrante</translation>
     </message>
     <message>
         <source>Split &amp;Vertical In</source>
@@ -2470,7 +2466,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Split Vertical Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">División vertical saliente</translation>
     </message>
     <message>
         <source>Split V&amp;ertical Out</source>
@@ -3034,7 +3030,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cuña</translation>
     </message>
     <message>
         <source>Wheel</source>
@@ -3878,7 +3874,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diapositiva %d</translation>
     </message>
     <message>
         <source>Sound Oper&amp;ation</source>
@@ -3906,7 +3902,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Medio</translation>
     </message>
     <message>
         <source>%d seconds(Medium)</source>
@@ -3914,7 +3910,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lento</translation>
     </message>
     <message>
         <source>%d seconds(Slow)</source>
@@ -4446,7 +4442,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arrastrar y soltar</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>

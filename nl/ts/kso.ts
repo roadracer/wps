@@ -1227,7 +1227,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>24-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">32-puntige ster {24-?}</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
@@ -1599,7 +1599,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>4-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">32-puntige ster {4-?}</translation>
     </message>
     <message>
         <source>Double Wave</source>
@@ -2315,7 +2315,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>ksocomm</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Openen</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -4166,7 +4166,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Golf</translation>
     </message>
     <message>
         <source>Weave</source>
@@ -4290,11 +4290,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open in broser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Openen</translation>
     </message>
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -4437,10 +4433,8 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
-
-To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
-
-If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4450,6 +4444,10 @@ You have installed Kingsoft Office Personal Trial Edition.
 For better service, please update the trial edition to standard edition by:
 1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
 2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
