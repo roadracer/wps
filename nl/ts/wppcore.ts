@@ -551,11 +551,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Blinds Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale jaloezieën</translation>
     </message>
     <message>
         <source>Blinds Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikale jaloezieën</translation>
     </message>
     <message>
         <source>Box In</source>
@@ -743,39 +743,39 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Wheel Clockwise, 1 Spoke</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 1 spaak</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 2 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 2 spaken</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 3 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 3 spaken</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 4 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 4 spaken</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 8 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 8 spaken</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Veeg omlaag</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Veeg naar links</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Veeg naar rechts</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Veeg omhoog</translation>
     </message>
     <message>
         <source>Random Transition</source>
@@ -819,7 +819,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik</translation>
     </message>
     <message>
         <source>Coin</source>
@@ -827,7 +827,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Drum Roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Tromgeroffel</translation>
     </message>
     <message>
         <source>Explosion</source>
@@ -851,7 +851,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Typemachine</translation>
     </message>
     <message>
         <source>Voltage</source>
@@ -863,11 +863,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Wind</translation>
     </message>
     <message>
         <source>Other sound...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ander geluid...</translation>
     </message>
     <message>
         <source>Sound Files(*.wav)|*.wav</source>
@@ -4826,11 +4826,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Print</source>

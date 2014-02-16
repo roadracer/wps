@@ -237,7 +237,7 @@
     <name>pdfexport</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Revision</source>
@@ -4133,11 +4133,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Deleted</source>
@@ -4325,7 +4325,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Page X</source>

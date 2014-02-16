@@ -5093,7 +5093,7 @@ Settings</source>
     <name>ongmani.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles schikken</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -6148,7 +6148,7 @@ Aan</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles sluiten</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -6168,7 +6168,7 @@ Aan</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Control Menu</source>
@@ -10098,7 +10098,7 @@ Settings</source>
     <name>rainbow.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles schikken</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -11175,7 +11175,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.ArrangeAll</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles schikken</translation>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
@@ -15024,7 +15024,7 @@ Slide</source>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -15255,7 +15255,7 @@ Slide</source>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>

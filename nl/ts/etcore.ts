@@ -1567,7 +1567,7 @@ Do you want Excel to recalculate all formulas when this workbook is opened?</sou
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>#NULL!</source>
@@ -6036,7 +6036,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validatie</translation>
     </message>
     <message>
         <source>Assign Macro</source>
@@ -6188,11 +6188,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized</source>
@@ -8267,7 +8267,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype wijzigen</translation>
     </message>
     <message>
         <source>Set Chart Format</source>
@@ -8615,7 +8615,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Import Text File</source>
@@ -8667,7 +8667,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validatie</translation>
     </message>
     <message>
         <source>Recalculate</source>

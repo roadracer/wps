@@ -5653,7 +5653,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Richting:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>

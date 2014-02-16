@@ -1690,7 +1690,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleuren</translation>
     </message>
     <message>
         <source>O&amp;ne color</source>
@@ -1706,7 +1706,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color &amp;1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur &amp;1:</translation>
     </message>
     <message>
         <source>Dar&amp;k</source>
@@ -1718,7 +1718,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color &amp;2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur &amp;2:</translation>
     </message>
     <message>
         <source>Pres&amp;et colors:</source>
@@ -2212,7 +2212,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alles selecteren</translation>
     </message>
 </context>
 <context>
@@ -2583,7 +2583,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding selecteren</translation>
     </message>
 </context>
 <context>
@@ -3449,7 +3449,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Openen</translation>
     </message>
 </context>
 <context>
@@ -4156,7 +4156,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links</translation>
     </message>
     <message>
         <source>Crop from</source>

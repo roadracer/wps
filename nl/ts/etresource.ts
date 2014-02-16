@@ -148,11 +148,11 @@
     </message>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramobjecten</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -798,11 +798,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
 </context>
 <context>
@@ -1145,7 +1145,7 @@ Center</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -1408,11 +1408,11 @@ Center</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -1890,7 +1890,7 @@ Center</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Data Label Popup Menu</source>
@@ -2351,7 +2351,7 @@ Window</source>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramgereedschap</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -2359,7 +2359,7 @@ Window</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -2511,7 +2511,7 @@ Window</source>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -2563,11 +2563,11 @@ Window</source>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramgereedschap</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -2719,7 +2719,7 @@ Window</source>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -2763,23 +2763,23 @@ Window</source>
     <name>ongmani.ct_charttools</name>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype wijzigen</translation>
     </message>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramobjecten</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevenstabel</translation>
     </message>
     <message>
         <source>Format Chart</source>
@@ -2795,7 +2795,7 @@ Window</source>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens selecteren</translation>
     </message>
     <message>
         <source>Switch Column</source>
@@ -2899,11 +2899,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -2955,7 +2955,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validatie</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
@@ -5111,7 +5111,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -5175,7 +5175,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -5261,7 +5261,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzigingen</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -5329,15 +5329,15 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaling</translation>
     </message>
 </context>
 <context>
@@ -5508,7 +5508,7 @@ On/Off</source>
     <name>ongmani.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles schikken</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6521,7 +6521,7 @@ Aan</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype</translation>
     </message>
     <message>
         <source>Chinese Separator</source>
@@ -6565,7 +6565,7 @@ Aan</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles sluiten</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -6921,7 +6921,7 @@ Aan</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -7289,7 +7289,7 @@ Aan</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens selecteren</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -7453,7 +7453,7 @@ Aan</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validatie</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -7506,19 +7506,19 @@ Chart Type</source>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype wijzigen</translation>
     </message>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramobjecten</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -7538,7 +7538,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens selecteren</translation>
     </message>
     <message>
         <source>Switch Column</source>
@@ -7638,11 +7638,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -7698,7 +7698,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validatie</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
@@ -9735,7 +9735,7 @@ Center</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -9799,7 +9799,7 @@ Center</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -9889,7 +9889,7 @@ Center</source>
     </message>
     <message>
         <source>Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzigingen</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -9957,15 +9957,15 @@ Center</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaling</translation>
     </message>
 </context>
 <context>
@@ -10139,7 +10139,7 @@ Center</source>
     <name>rainbow.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles schikken</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -11493,7 +11493,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.ChartObjects</name>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramobjecten</translation>
     </message>
     <message>
         <source>Select a chart element so that you can format it.</source>
@@ -13315,7 +13315,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     <name>tips.PTRefreshData</name>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Update the information from the data source in the workbook.</source>
@@ -13922,7 +13922,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <name>tips.Refresh</name>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Update all the information in the workbook that is coming from a data source.</source>
@@ -13933,7 +13933,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <name>tips.RefreshAll</name>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
     <message>
         <source>Update all the information in the workbook that is coming from a data source.</source>

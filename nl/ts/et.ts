@@ -401,7 +401,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>No items match your search.</source>
@@ -1072,7 +1072,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -1531,7 +1531,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Afsluiten</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -3863,7 +3863,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -4203,7 +4203,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
@@ -4254,7 +4254,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -5088,7 +5088,7 @@ protected.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -6475,7 +6475,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -7733,7 +7733,7 @@ t</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Size</source>
@@ -7901,7 +7901,7 @@ t</source>
     </message>
     <message>
         <source>Lavender</source>
-        <translation>Zacht lila</translation>
+        <translation>Lavendel</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -8614,7 +8614,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -8937,11 +8937,11 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation>&amp;Open bestand</translation>
+        <translation>&amp;Bestand openen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -9188,7 +9188,7 @@ Document</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
