@@ -316,7 +316,7 @@
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation type="unfinished">Lay-out wijzigingen worden van kracht na het opnieuw opstarten.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -376,7 +376,7 @@
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">&amp;Wachtwoord:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Read Only</source>
@@ -1690,7 +1690,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished">Kleuren</translation>
+        <translation>Kleuren</translation>
     </message>
     <message>
         <source>O&amp;ne color</source>
@@ -1706,7 +1706,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color &amp;1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur &amp;1:</translation>
     </message>
     <message>
         <source>Dar&amp;k</source>
@@ -1718,7 +1718,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color &amp;2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur &amp;2:</translation>
     </message>
     <message>
         <source>Pres&amp;et colors:</source>
@@ -1794,7 +1794,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished">Goudkleurig</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>GoldII</source>
@@ -2212,7 +2212,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alles selecteren</translation>
     </message>
 </context>
 <context>
@@ -2583,7 +2583,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding selecteren</translation>
     </message>
 </context>
 <context>
@@ -3449,7 +3449,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Openen</translation>
     </message>
 </context>
 <context>
@@ -3901,15 +3901,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished">Open...(Ctrl+ O)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished">Open...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished">Nieuw leeg document</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
@@ -4073,7 +4073,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished">Pijlen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>cbConnector</source>
@@ -4156,7 +4156,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links</translation>
     </message>
     <message>
         <source>Crop from</source>
@@ -4540,7 +4540,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished">Grijs-95% {80%?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Blue Violet</source>
@@ -4572,7 +4572,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished">Grijs-95% {50%?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sea Green</source>
@@ -4604,7 +4604,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished">Grijs-95% {40%?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Green</source>
@@ -4636,7 +4636,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished">Grijs-95% {25%?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Green</source>
