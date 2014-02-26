@@ -898,19 +898,19 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Unit: cm</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: cm</translation>
     </message>
     <message>
         <source>Unit: inch</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: inch</translation>
     </message>
     <message>
         <source>Unit: mm</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: mm</translation>
     </message>
     <message>
         <source>Unit: pt </source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: pt</translation>
     </message>
     <message>
         <source>The full-text search is finished, %d results were found. Only the first %d results were selected owing to too many results found.</source>
@@ -918,15 +918,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Font color</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftfarbe</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">Fett</translation>
+        <translation>Fett</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished">Kursiv</translation>
+        <translation>Kursiv</translation>
     </message>
     <message>
         <source>No underline</source>
@@ -3464,21 +3464,27 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
+
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
+
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
 
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

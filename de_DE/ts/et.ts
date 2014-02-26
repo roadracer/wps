@@ -2318,27 +2318,27 @@ printer and your screen.</source>
     <name>KxDlgInsertFunction</name>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktion einfügen</translation>
     </message>
     <message>
         <source>All Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Funktionen</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Suche:</translation>
     </message>
     <message>
         <source>&amp;Goto</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gehe zu</translation>
     </message>
     <message>
         <source>or select a &amp;category:</source>
-        <translation type="unfinished"></translation>
+        <translation>oder Kategorie auswählen (&amp;c):</translation>
     </message>
     <message>
         <source>Select a functio&amp;n:</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktio&amp;n auswählen:</translation>
     </message>
     <message>
         <source>Function Prototype Label</source>
@@ -5960,7 +5960,7 @@ on iteration #%2.</source>
     <name>KxInsertFunctionDlg</name>
     <message>
         <source>Enter the name or the description of the function you want to look for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Namen oder die Beschreibung der gesuchten Funktion ein.</translation>
     </message>
     <message>
         <source>I want to comment function</source>
@@ -5980,7 +5980,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Enter a name or description of the function you want to look for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie einen Namen oder eine Beschreibung der gesuchten Funktion ein.</translation>
     </message>
 </context>
 <context>

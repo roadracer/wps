@@ -4371,251 +4371,251 @@ use buttons to apply borders</source>
     <name>KxDlgOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Optionen</translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeige</translation>
     </message>
     <message>
         <source>Sta&amp;rtup task window</source>
-        <translation type="unfinished"></translation>
+        <translation>Sta&amp;rt Taskfenster</translation>
     </message>
     <message>
         <source>Scree&amp;nTips</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scree&amp;nTips</translation>
     </message>
     <message>
         <source>Fi&amp;eld shading:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">F&amp;eldschattierung:</translation>
     </message>
     <message>
         <source>&amp;Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hervorhebung</translation>
     </message>
     <message>
         <source>&amp;Field codes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Feldfunktionen</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Niemals</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Immer</translation>
     </message>
     <message>
         <source>Boo&amp;kmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesezeichen(&amp;k)</translation>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument Ma&amp;ppe:</translation>
     </message>
     <message>
         <source>Stat&amp;us bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Stat&amp;usleiste</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Links</translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Rechts</translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsichtbar</translation>
     </message>
     <message>
         <source>Formatting marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatierungszeichen</translation>
     </message>
     <message>
         <source>&amp;Tab characters</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tabulator</translation>
     </message>
     <message>
         <source>Paragraph &amp;marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraph(&amp;m)</translation>
     </message>
     <message>
         <source>&amp;Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwi&amp;schenraum</translation>
     </message>
     <message>
         <source>H&amp;idden text</source>
-        <translation type="unfinished"></translation>
+        <translation>Versteckter Text(&amp;i)</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;lle</translation>
     </message>
     <message>
         <source>Print options</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckoptionen</translation>
     </message>
     <message>
         <source>Ob&amp;ject anchors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob&amp;jekt-Anker</translation>
     </message>
     <message>
         <source>Verti&amp;cal ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikales Lineal(&amp;c)</translation>
     </message>
     <message>
         <source>Te&amp;xt boundaries</source>
-        <translation type="unfinished"></translation>
+        <translation>Te&amp;xtgrenzen</translation>
     </message>
     <message>
         <source>Hide &amp;blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstecke leeres(&amp;b)</translation>
     </message>
     <message>
         <source>Document switch mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenten Wechselmodus</translation>
     </message>
     <message>
         <source>Taskb&amp;ar</source>
-        <translation type="unfinished"></translation>
+        <translation>Taskb&amp;ar</translation>
     </message>
     <message>
         <source>&amp;Document tab</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dokumenten Tab</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Edit options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen bearbeiten</translation>
     </message>
     <message>
         <source>Use smart para&amp;graph selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwende Smart Para&amp;graph Auswahl</translation>
     </message>
     <message>
         <source>D&amp;rag-and-drop text editing</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;rag-and-Drop Text Bearbeitung</translation>
     </message>
     <message>
         <source>Auto load default language &amp;IME</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch Standartsprache laden &amp;IME</translation>
     </message>
     <message>
         <source>Click and type</source>
-        <translation type="unfinished"></translation>
+        <translation>Klick und Tippen</translation>
     </message>
     <message>
         <source>Enable &amp;click and type</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere Kli&amp;ck und Tippen</translation>
     </message>
     <message>
         <source>Default &amp;paragraph style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart &amp;Paragraphen-Stil:</translation>
     </message>
     <message>
         <source>AutoFormat</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoFormat</translation>
     </message>
     <message>
         <source>&amp;AutoFormat apply lists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;AutoFormat Listen anwenden</translation>
     </message>
     <message>
         <source>A&amp;uto circle number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;uto. Kreis Nummer</translation>
     </message>
     <message>
         <source>AutoCorrect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">AutoKorrekt</translation>
     </message>
     <message>
         <source>Capitalize first letter of &amp;sentences</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sätze mit Großbuchstaben beginnen lassen</translation>
     </message>
     <message>
         <source>Capitalize first letter of the names of the &amp;week</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wochennamen mit Großbuchstaben beginnen lassen</translation>
     </message>
     <message>
         <source>Mark &amp;ordinal numbers as superscripts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Markiere &amp;Ordnungszahlen hochgestellt</translation>
     </message>
     <message>
         <source>&amp;Hyperlink the internet or network address</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlinke Internet- oder Netzwerkadresse (&amp;H)</translation>
     </message>
     <message>
         <source>Correct accidental of caps &amp;lock key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Korrigiere versehentliche Caps&amp;lock Taste</translation>
     </message>
     <message>
         <source>The &amp;beginning of a paragraph applies first line indent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anfang eines A&amp;bsatzes mit Einzug</translation>
     </message>
     <message>
         <source>Auto-adjust the space &amp;format at the end of a line which are aligned right</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrigiere autom. das Abstands&amp;format am ende einer rechtsbündigen Zeile</translation>
     </message>
     <message>
         <source>Cut and paste options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausschneiden und Einfügen Optionen</translation>
     </message>
     <message>
         <source>Show pas&amp;te options buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Einfügen Op&amp;tionen Buttons</translation>
     </message>
     <message>
         <source>&amp;Default paste format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stan&amp;dart Einfügen Format:</translation>
     </message>
     <message>
         <source>With text format</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit Textformat</translation>
     </message>
     <message>
         <source>Matching the current format</source>
-        <translation type="unfinished"></translation>
+        <translation>Passend zum aktuellem Format</translation>
     </message>
     <message>
         <source>Text without format</source>
-        <translation type="unfinished"></translation>
+        <translation>Text ohne Format</translation>
     </message>
     <message>
         <source>General and Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemeines &amp; Speichern</translation>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemeines</translation>
     </message>
     <message>
         <source>Discern &amp;person</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Person erkennen</translation>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ort erkennen (&amp;l)</translation>
     </message>
     <message>
         <source>Bl&amp;ue background, white text</source>
-        <translation type="unfinished"></translation>
+        <translation>Bla&amp;uer Hintergrund, weißer Text</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuletzte benutze Dateien (&amp;r):</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuletzt verwendete Dokumente</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -4623,7 +4623,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Einträge</translation>
     </message>
     <message>
         <source>&amp;Measurement units:</source>
@@ -4679,11 +4679,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Save &amp;files as default:</source>
-        <translation type="unfinished"></translation>
+        <translation>Speicher Datei als Standart(&amp;f):</translation>
     </message>
     <message>
         <source>Embed &amp;true type</source>
@@ -4707,11 +4707,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Druck</translation>
     </message>
     <message>
         <source>Printing options</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckoptionen</translation>
     </message>
     <message>
         <source>&amp;Update fields</source>
@@ -4911,7 +4911,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Paper orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Papier Orientierung:</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -4923,7 +4923,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Asian Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>Asiatische Typographie</translation>
     </message>
     <message>
         <source>Kerning</source>
@@ -4987,7 +4987,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>User Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer Information</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5003,7 +5003,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicherheit</translation>
     </message>
     <message>
         <source>File encryption options for this document</source>
@@ -5019,7 +5019,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>(&amp;A)Erweitert...</translation>
     </message>
     <message>
         <source>Reenter &amp;password:</source>
@@ -5059,7 +5059,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished"></translation>
+        <translation>Export Optionen</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
@@ -5127,7 +5127,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibung</translation>
     </message>
     <message>
         <source>Check s&amp;pelling as you type</source>
@@ -5155,11 +5155,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer&amp;definierte Wörterbücher...</translation>
     </message>
     <message>
         <source>Japanese Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Japanische Suche</translation>
     </message>
     <message>
         <source>Treat as equal</source>
@@ -5267,7 +5267,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Optionen</translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
@@ -5291,7 +5291,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Privacy Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sicherheitsoptionen</translation>
     </message>
     <message>
         <source>Make hidden markup &amp;visible when opening or saving</source>
@@ -5303,19 +5303,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Start With</source>
-        <translation type="unfinished"></translation>
+        <translation>Starteigenschaft</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten mit:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
-        <translation type="unfinished"></translation>
+        <translation>Startseite(&amp;g)</translation>
     </message>
     <message>
         <source>&amp;New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Neues Dokument</translation>
     </message>
     <message>
         <source>Enable &amp;Timing Backup</source>
@@ -10897,25 +10897,25 @@ an die Bildgröße anpassen?</translation>
     <name>KxWpsStatusPageInfo</name>
     <message>
         <source>Page Num: %1 Page: %2/%3 Section: %4/%5</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitennummer: %1 Seite: %2/%3 Absatz: %4/%5</translation>
     </message>
     <message>
         <source>Page: %1/%2 Section: %3/%4</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite: %1/%2 Absatz: %3/%4</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusPositionInfo</name>
     <message>
         <source>Row: %1 Column: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeile: %1 Spalte: %2</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusWordCountInfo</name>
     <message>
         <source>Words: </source>
-        <translation type="unfinished"></translation>
+        <translation>Wörter: </translation>
     </message>
 </context>
 <context>
@@ -10951,7 +10951,7 @@ an die Bildgröße anpassen?</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="unfinished">Keine Farbe</translation>
+        <translation>Keine Farbe</translation>
     </message>
 </context>
 <context>
@@ -11066,7 +11066,7 @@ an die Bildgröße anpassen?</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibung</translation>
     </message>
 </context>
 <context>
