@@ -465,11 +465,11 @@ Select a single region and then perform this command again.</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Product</source>
@@ -1008,7 +1008,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Binair</translation>
     </message>
     <message>
         <source>Forming Limits Report...</source>
@@ -1235,11 +1235,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Insert Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Rij invoegen</translation>
     </message>
     <message>
         <source>Delete Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom verwijderen</translation>
     </message>
     <message>
         <source>Delete Row</source>
@@ -1259,15 +1259,15 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Insert the %s column</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg de %s kolom in</translation>
     </message>
     <message>
         <source>Delete the %s row</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder de %s rij</translation>
     </message>
     <message>
         <source>Delete the %s column</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder de %s kolom</translation>
     </message>
     <message>
         <source>Move the cell %s to the cell %s</source>
@@ -1375,11 +1375,11 @@ To fix the links, select a single sheet and click Edit Links.</source>
     </message>
     <message>
         <source>Inserted %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingevoegd %s</translation>
     </message>
     <message>
         <source>Deleted %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderd %s</translation>
     </message>
     <message>
         <source>Moved %s to %s</source>
@@ -1907,7 +1907,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Financial</source>
-        <translation type="unfinished"></translation>
+        <translation>Financieel</translation>
     </message>
     <message>
         <source>Date &amp; Time</source>
@@ -1919,7 +1919,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Statistical</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistisch</translation>
     </message>
     <message>
         <source>Lookup &amp; Reference</source>
@@ -1935,7 +1935,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Logisch</translation>
     </message>
     <message>
         <source>Information</source>
@@ -4721,7 +4721,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Chart Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtitel</translation>
     </message>
 </context>
 <context>
@@ -4747,7 +4747,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
 
 [Cell Comments]
 </source>
-        <translation type="unfinished"></translation>
+        <translation>[Celopmerkingen]</translation>
     </message>
     <message>
         <source>Cell:</source>
@@ -4755,7 +4755,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking:</translation>
     </message>
     <message>
         <source>/</source>
@@ -4980,7 +4980,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punt</translation>
     </message>
     <message>
         <source>=today()</source>
@@ -5356,7 +5356,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Logisch</translation>
     </message>
     <message>
         <source>Logical_test</source>
@@ -8451,11 +8451,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sort Ascending</source>

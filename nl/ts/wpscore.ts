@@ -1972,7 +1972,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Stad</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -2184,7 +2184,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>First Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Voornaam</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -3287,7 +3287,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden(*.*) | *.*; |</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
@@ -3323,7 +3323,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Excel Files(*.xls) | *.xls; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Excel bestanden(*.xls) | *.xls; |</translation>
     </message>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
@@ -3335,7 +3335,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Word Documents(*.doc) | *.doc; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Word documenten(*.doc) | *.doc; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
@@ -3359,7 +3359,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Paradox Files(*.db) | *.db; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Paradox bestanden(*.db) | *.db; |</translation>
     </message>
     <message>
         <source>DBase Files(*.dbf) | *.dbf; |</source>
@@ -3543,11 +3543,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Insert Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum invoegen</translation>
     </message>
     <message>
         <source>Insert Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd invoegen</translation>
     </message>
     <message>
         <source>Switch Header/Footer Link</source>
@@ -3583,11 +3583,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Page Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Paginabreedte</translation>
     </message>
     <message>
         <source>Text Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbreedte</translation>
     </message>
     <message>
         <source>Whole Page</source>
@@ -3595,7 +3595,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Twee pagina&apos;s</translation>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
@@ -3723,7 +3723,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool</translation>
     </message>
     <message>
         <source>Data/Time</source>

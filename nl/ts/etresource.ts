@@ -3736,7 +3736,7 @@ Aan</translation>
     </message>
     <message>
         <source>Financial</source>
-        <translation type="unfinished"></translation>
+        <translation>Financieel</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
@@ -3756,7 +3756,7 @@ Aan</translation>
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Logisch</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
@@ -3796,7 +3796,7 @@ Aan</translation>
     </message>
     <message>
         <source>Statistical</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistisch</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -8430,7 +8430,7 @@ AddIns</source>
     </message>
     <message>
         <source>Financial</source>
-        <translation type="unfinished"></translation>
+        <translation>Financieel</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
@@ -8450,7 +8450,7 @@ AddIns</source>
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Logisch</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
@@ -8490,7 +8490,7 @@ AddIns</source>
     </message>
     <message>
         <source>Statistical</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistisch</translation>
     </message>
     <message>
         <source>Sum</source>
