@@ -7796,7 +7796,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>RadioButton</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">智能备份(&amp;S)</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -11782,7 +11782,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsSmartPageNumDeletePane</name>
     <message>
         <source>Cancle</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Delete &amp;all page numbers</source>
@@ -11819,6 +11819,10 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>OK</source>
         <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -11861,7 +11865,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Cancle</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Current page</source>
@@ -11966,6 +11970,10 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>Page X Of y</source>
         <translation>第 X 页 共 y 页</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>

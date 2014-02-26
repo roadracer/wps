@@ -5,43 +5,95 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>0</source>
-        <translation type="obsolete">2- {0?}</translation>
+        <translation type="obsolete">/home/andreas/Namizje/ts/wppresource.ts</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="obsolete">2- {1?}</translation>
+        <translation type="obsolete">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="obsolete">2- {2?}</translation>
+        <translation type="obsolete">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="obsolete">2- {3?}</translation>
+        <translation type="obsolete">3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="obsolete">2- {4?}</translation>
+        <translation type="obsolete">3</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="obsolete">2- {5?}</translation>
+        <translation type="obsolete">5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="obsolete">2- {6?}</translation>
+        <translation type="obsolete">6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="obsolete">2- {7?}</translation>
+        <translation type="obsolete">7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="obsolete">2- {8?}</translation>
+        <translation type="obsolete">8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="obsolete">2- {9?}</translation>
+        <translation type="obsolete">9</translation>
+    </message>
+    <message>
+        <source>(0)</source>
+        <translation type="obsolete">(0)</translation>
+    </message>
+    <message>
+        <source>(1)</source>
+        <translation type="obsolete">(1)</translation>
+    </message>
+    <message>
+        <source>(2)</source>
+        <translation type="obsolete">(2)</translation>
+    </message>
+    <message>
+        <source>(3)</source>
+        <translation type="obsolete">(3)</translation>
+    </message>
+    <message>
+        <source>(4)</source>
+        <translation type="obsolete">(4)</translation>
+    </message>
+    <message>
+        <source>(5)</source>
+        <translation type="obsolete">(5)</translation>
+    </message>
+    <message>
+        <source>(6)</source>
+        <translation type="obsolete">(6)</translation>
+    </message>
+    <message>
+        <source>(7)</source>
+        <translation type="obsolete">(7)</translation>
+    </message>
+    <message>
+        <source>(8)</source>
+        <translation type="obsolete">(8)</translation>
+    </message>
+    <message>
+        <source>(9)</source>
+        <translation type="obsolete">(9)</translation>
+    </message>
+    <message>
+        <source>(10)</source>
+        <translation type="obsolete">(10)</translation>
+    </message>
+    <message>
+        <source>.</source>
+        <translation type="obsolete">.</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation type="obsolete">)</translation>
     </message>
     <message>
         <source>None</source>
@@ -92,15 +144,15 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen slog - poudari 1/poudari 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen slog - poudari 3/poudari 4</translation>
     </message>
     <message>
         <source>Dark Styl 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen slog - poudari 5/poudari 6</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -151,7 +203,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj Načrt</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
@@ -182,7 +234,7 @@
     </message>
     <message>
         <source>&amp;Typography...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tipografija ...</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -236,11 +288,11 @@
     <name>DlgKxCustomShows</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcije po meri</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diaprojekcije po meri:</translation>
     </message>
     <message>
         <source>&amp;New...</source>
@@ -279,7 +331,7 @@
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcije po meri</translation>
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
@@ -302,7 +354,7 @@
     <name>DlgKxSetupShow</name>
     <message>
         <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Priprava diaprojekcije</translation>
     </message>
     <message>
         <source>Show type</source>
@@ -382,7 +434,7 @@
     </message>
     <message>
         <source>Display slide show &amp;on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži diaprojek&amp;cijo na:</translation>
     </message>
     <message>
         <source>Double-&amp;Screen Extend Mode Guide</source>
@@ -390,7 +442,7 @@
     </message>
     <message>
         <source>Sho&amp;w presenter view</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži pogl&amp;ed predstavitelja</translation>
     </message>
 </context>
 <context>
@@ -452,11 +504,11 @@
     </message>
     <message>
         <source>S&amp;mooth Start</source>
-        <translation>&amp;Gladek začetek:</translation>
+        <translation>&amp;Gladek začetek</translation>
     </message>
     <message>
         <source>Smooth E&amp;nd</source>
-        <translation>Gla&amp;dek konec:</translation>
+        <translation>Gla&amp;dek konec</translation>
     </message>
     <message>
         <source>A&amp;uto-reverse</source>
@@ -760,7 +812,7 @@
     <name>KWppAnimDlgColorCommand</name>
     <message>
         <source>&amp;More Colors...</source>
-        <translation type="unfinished"></translation>
+        <translation>V&amp;eč barv...</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -796,15 +848,15 @@
     </message>
     <message>
         <source>Slide %1 .. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv %1 .. %2</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcije po meri</translation>
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv %1</translation>
     </message>
 </context>
 <context>
@@ -819,7 +871,7 @@
     </message>
     <message>
         <source>Do you want to reset the library as default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite ponastaviti knjižnice kot privzete?</translation>
     </message>
     <message>
         <source>Open Image</source>
@@ -861,7 +913,7 @@
     </message>
     <message>
         <source>Text and lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo in črte</translation>
     </message>
     <message>
         <source>Shadows</source>
@@ -881,11 +933,11 @@
     </message>
     <message>
         <source>Accent and hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Poudarek in hiperpovezava</translation>
     </message>
     <message>
         <source>Accent and followed hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Poudarek in obiskana hiperpovezava</translation>
     </message>
 </context>
 <context>
@@ -911,7 +963,7 @@
     <name>KxCustomShowsDlg</name>
     <message>
         <source>Custom show %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcija po meri %1</translation>
     </message>
     <message>
         <source>^Copy (\d+ )?of (.*)</source>
@@ -927,18 +979,18 @@
     </message>
     <message>
         <source>%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%2</translation>
     </message>
 </context>
 <context>
     <name>KxDefineCustomShowsDlg</name>
     <message>
         <source>%1. </source>
-        <translation type="unfinished"></translation>
+        <translation>%1. </translation>
     </message>
     <message>
         <source>(%1) </source>
-        <translation type="unfinished"></translation>
+        <translation>(%1) </translation>
     </message>
     <message>
         <source>You must name your custom show.</source>
@@ -946,7 +998,7 @@
     </message>
     <message>
         <source>You can&apos;t have two custom shows with the same name. Please enter a new name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne morete imete dveh diaprojekcij po meri z enakim imenom. Prosim vnesite novo ime.</translation>
     </message>
 </context>
 <context>
@@ -957,7 +1009,7 @@
     </message>
     <message>
         <source>&amp;Background fill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Polnilo ozadja</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -965,7 +1017,7 @@
     </message>
     <message>
         <source>Apply &amp;to All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uporabi za vse</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -1022,15 +1074,15 @@
     <name>KxDlgBulletsNumbering</name>
     <message>
         <source>Bullet and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznaka in oštevilčevanje</translation>
     </message>
     <message>
         <source>Bulleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstična oznaka</translation>
     </message>
     <message>
         <source>S&amp;ize:</source>
-        <translation type="unfinished"></translation>
+        <translation>V&amp;elikost:</translation>
     </message>
     <message>
         <source>% of text</source>
@@ -1042,15 +1094,15 @@
     </message>
     <message>
         <source>&amp;Picture...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Slika...</translation>
     </message>
     <message>
         <source>C&amp;ustomize...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri&amp;lagodi...</translation>
     </message>
     <message>
         <source>Numbered</source>
-        <translation type="unfinished"></translation>
+        <translation>Številke in črke</translation>
     </message>
     <message>
         <source>&amp;Begin at:</source>
@@ -1147,7 +1199,7 @@
     <name>KxDlgDeletebkmusic</name>
     <message>
         <source>Delete Background music</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši glasbo v ozadju</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -1155,7 +1207,7 @@
     </message>
     <message>
         <source>Are you sure to delete the background music from current slide?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite izbrisati glasbo v ozadju od trenutnega diapozitiva?</translation>
     </message>
     <message>
         <source>&amp;Do not prompt next time.</source>
@@ -1214,7 +1266,7 @@
     </message>
     <message>
         <source>Sh&amp;adow</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
@@ -1269,51 +1321,51 @@
     </message>
     <message>
         <source>8 grid per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>8 mrež na cm</translation>
     </message>
     <message>
         <source>6 grid per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>6 mrež na cm</translation>
     </message>
     <message>
         <source>5 grid per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 mrež na cm</translation>
     </message>
     <message>
         <source>4 grid per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>4 mrež na cm</translation>
     </message>
     <message>
         <source>3 grid per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>3 mrež na cm</translation>
     </message>
     <message>
         <source>2 grid per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>2 mrež na cm</translation>
     </message>
     <message>
         <source>1 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>1 cm</translation>
     </message>
     <message>
         <source>2 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>2 cm</translation>
     </message>
     <message>
         <source>3 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>3 cm</translation>
     </message>
     <message>
         <source>4 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>4 cm</translation>
     </message>
     <message>
         <source>5 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 cm</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>&amp;Display grid on screen</source>
@@ -1384,7 +1436,7 @@
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Prekliči</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1392,7 +1444,7 @@
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne prikaži na nasl&amp;ovnem diapozitivu</translation>
     </message>
     <message>
         <source>Notes and Handouts</source>
@@ -1409,6 +1461,10 @@
     <message>
         <source>&amp;Page number</source>
         <translation>Št&amp;evilka strani</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Prekliči</translation>
     </message>
 </context>
 <context>
@@ -1446,7 +1502,7 @@
     </message>
     <message>
         <source>Number of &amp;cols:</source>
-        <translation type="unfinished"></translation>
+        <translation>Število &amp;stolpcev:</translation>
     </message>
 </context>
 <context>
@@ -1602,7 +1658,7 @@
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation type="unfinished"></translation>
+        <translation>Splošne možnosti</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
@@ -1614,7 +1670,7 @@
     </message>
     <message>
         <source>Recovery options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti obnovitve</translation>
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
@@ -1638,7 +1694,7 @@
     </message>
     <message>
         <source>Intia&amp;ls:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Začetnice:</translation>
     </message>
     <message>
         <source>Save options</source>
@@ -1658,11 +1714,11 @@
     </message>
     <message>
         <source>&amp;Default file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Priv&amp;zeto mesto datoteke:</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Start With</source>
@@ -1678,7 +1734,7 @@
     </message>
     <message>
         <source>New Doc&amp;ument</source>
-        <translation type="unfinished"></translation>
+        <translation>Novim &amp;dokumentom</translation>
     </message>
     <message>
         <source>Print</source>
@@ -1686,7 +1742,7 @@
     </message>
     <message>
         <source>Default print setting for this document</source>
-        <translation type="unfinished"></translation>
+        <translation>Privzete nastavitve tiskanja za ta dokument</translation>
     </message>
     <message>
         <source>Use the most &amp;recently print settings</source>
@@ -1706,15 +1762,15 @@
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (2 diapozitiva na stran)</translation>
     </message>
     <message>
         <source>Handouts(3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (3 diapozitivi na stran)</translation>
     </message>
     <message>
         <source>Handouts(6 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (6 diapozitivov na stran)</translation>
     </message>
     <message>
         <source>Notes pages</source>
@@ -1786,11 +1842,11 @@
     </message>
     <message>
         <source>Reenter &amp;password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Znova &amp;vnesite geslo:</translation>
     </message>
     <message>
         <source>&amp;Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodat&amp;no</translation>
     </message>
     <message>
         <source>File sharing options for this document</source>
@@ -1806,7 +1862,7 @@
     </message>
     <message>
         <source>Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozor: Če izgubite geslo ali ga pozabite, ga ne morete več obnoviti. (Zapomnite si, da je pri geslih potrebno razlikovati med velikimi in malimi črkami.)</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -1814,7 +1870,7 @@
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vedno predlagaj popravke</translation>
     </message>
     <message>
         <source>Ignore words in &amp;UPPERCASE</source>
@@ -1826,7 +1882,7 @@
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Osebni slovarji...</translation>
     </message>
     <message>
         <source>Enable &amp;Timing Backup</source>
@@ -1845,7 +1901,7 @@
     </message>
     <message>
         <source>Package Instruction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navodila paketa:</translation>
     </message>
     <message>
         <source>Folder &amp;Name:</source>
@@ -1872,7 +1928,7 @@
     </message>
     <message>
         <source>&amp;Slides size</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Velikost diapozitivov za</translation>
     </message>
     <message>
         <source>On-screen show</source>
@@ -1904,7 +1960,7 @@
     </message>
     <message>
         <source>35 mm Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>35 mm Diapozitiv</translation>
     </message>
     <message>
         <source>Projector</source>
@@ -1979,7 +2035,7 @@
     <name>KxDlgProgress</name>
     <message>
         <source>Copying file to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiranje datoteke v mapo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2076,7 +2132,7 @@
     </message>
     <message>
         <source>Return to the first slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrni se na prvi diapozitiv</translation>
     </message>
     <message>
         <source>Right Click, or Shift+F10</source>
@@ -2134,7 +2190,7 @@
     </message>
     <message>
         <source>Number of &amp;cols:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Število &amp;stolpcev:</translation>
     </message>
 </context>
 <context>
@@ -2149,31 +2205,31 @@
     </message>
     <message>
         <source>&amp;Fix</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;opravi</translation>
     </message>
     <message>
         <source>&amp;400%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;400%</translation>
     </message>
     <message>
         <source>&amp;200%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;200%</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;100%</translation>
     </message>
     <message>
         <source>&amp;66%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;66%</translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;50%</translation>
     </message>
     <message>
         <source>&amp;33%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;33%</translation>
     </message>
     <message>
         <source>&amp;Percent</source>
@@ -2181,7 +2237,7 @@
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
 </context>
 <context>
@@ -2283,7 +2339,7 @@
     </message>
     <message>
         <source>Object &amp;action</source>
-        <translation>&amp;Dejanje predmeta:</translation>
+        <translation>&amp;Dejanje predmeta</translation>
     </message>
     <message>
         <source>&amp;Play sound:</source>
@@ -2368,7 +2424,7 @@
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diaprojekcije po meri:</translation>
     </message>
     <message>
         <source>&amp;Show and return</source>
@@ -2513,11 +2569,11 @@
     </message>
     <message>
         <source>&amp;Before paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Pr&amp;ed odstavkom</translation>
     </message>
     <message>
         <source>&amp;After paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Z&amp;a odstavkom</translation>
     </message>
 </context>
 <context>
@@ -2540,7 +2596,7 @@
     </message>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite geslo nastavitve dovoljenja!</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
@@ -2548,7 +2604,7 @@
     </message>
     <message>
         <source>Input permission password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite geslo dovoljenja.</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -2560,19 +2616,15 @@
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
-        <translation type="unfinished">Datoteka, ki ste jo določili, že obstaja.</translation>
+        <translation>Datoteka, ki ste jo določili, že obstaja. Ali ste prepričani, da želite zamenjati z obstoječo datoteko ?</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The directory you specified dose not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke je enako kot obstoječ dokument.</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimate dovoljenj da bi pisali v ta imenik.</translation>
     </message>
     <message>
         <source>The slide you selected to export doesn&apos;t exist. Please select another one.</source>
@@ -2602,12 +2654,16 @@
         <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Priprava na izvoz PDF datoteke ...</translation>
     </message>
     <message>
         <source>User canceled operation.</source>
@@ -2631,19 +2687,19 @@
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvažanje nalepk ...</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvažanje PDF datoteke je dokončano.</translation>
     </message>
     <message>
         <source>Kingsoft Presentation encountered an error while trying exporting to PDF!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation je med izvažanjem PDF datoteke naletel na  napako !</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Med odpiranjem PDF datoteke je prišlo do napake!</translation>
     </message>
     <message>
         <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
@@ -2775,7 +2831,7 @@
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv %1</translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
@@ -2786,7 +2842,7 @@
     <name>KxInsertMediaDlg</name>
     <message>
         <source>How do you want the music to start in the slide show?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kako naj se glasba začne v diaprojekciji?</translation>
     </message>
     <message>
         <source>How do you want the movie to start in the slide show?</source>
@@ -2816,7 +2872,7 @@
     <name>KxLineWeightGroup</name>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 pt</translation>
     </message>
 </context>
 <context>
@@ -2961,7 +3017,7 @@
     </message>
     <message>
         <source>[Restricted]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Omejeno]</translation>
     </message>
     <message>
         <source>Primary Monitor</source>
@@ -2969,7 +3025,7 @@
     </message>
     <message>
         <source>Monitor %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor %1</translation>
     </message>
 </context>
 <context>
@@ -3101,11 +3157,11 @@
     <name>KxTpSlideLayout</name>
     <message>
         <source>Apply Slide Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi postavitev diapozitiva:</translation>
     </message>
     <message>
         <source>Show when inserting new slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži ob vstavljanju novih diapozitivov</translation>
     </message>
 </context>
 <context>
@@ -3263,7 +3319,7 @@
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diapozitiv %1</translation>
     </message>
     <message>
         <source>Please choose a program to launch</source>
@@ -3518,7 +3574,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dodaj Načrt</translation>
     </message>
 </context>
 <context>
@@ -3558,7 +3614,7 @@
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez črte</translation>
     </message>
 </context>
 <context>
@@ -3592,10 +3648,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All slides among the rang must be marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Selected slides have marked as hidden!</source>
         <translation>Izbrani diapozitivi so označeni kot skriti!</translation>
     </message>
@@ -3605,6 +3657,10 @@
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3710,7 +3766,7 @@
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitajščina(Tajvan)</translation>
     </message>
     <message>
         <source>English(America)</source>
@@ -3718,15 +3774,15 @@
     </message>
     <message>
         <source>Chinese(China)</source>
-        <translation type="unfinished">kitajščina (Kitajska)</translation>
+        <translation>Kitajščina(Kitajska)</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"></translation>
+        <translation>Japonščina</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamščina</translation>
     </message>
     <message>
         <source>By Background Color</source>
@@ -3818,75 +3874,75 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Brez</translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>Blinds 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaluzije 1</translation>
     </message>
     <message>
         <source>Blinds 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaluzije 2</translation>
     </message>
     <message>
         <source>Box In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapiranje okvira</translation>
     </message>
     <message>
         <source>Box Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje okvira</translation>
     </message>
     <message>
         <source>Chess 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Šah 1</translation>
     </message>
     <message>
         <source>Chess 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Šah 2</translation>
     </message>
     <message>
         <source>Comb 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Glavnik 1</translation>
     </message>
     <message>
         <source>Comb 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Glavnik 2</translation>
     </message>
     <message>
         <source>Cover Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje navzdol</translation>
     </message>
     <message>
         <source>Cover Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje levo</translation>
     </message>
     <message>
         <source>Cover Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje desno</translation>
     </message>
     <message>
         <source>Cover Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje navzgor</translation>
     </message>
     <message>
         <source>Cover 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslovnica 1</translation>
     </message>
     <message>
         <source>Cover 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslovnica 2</translation>
     </message>
     <message>
         <source>Cover 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslovnica 3</translation>
     </message>
     <message>
         <source>Cover 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslovnica 4</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Izreži</translation>
     </message>
     <message>
         <source>Cut Black</source>
@@ -3894,7 +3950,7 @@
     </message>
     <message>
         <source>Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Izginjanje</translation>
     </message>
     <message>
         <source>Fade Smooth</source>
@@ -3902,39 +3958,39 @@
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojemajoče</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Novice</translation>
     </message>
     <message>
         <source>Push Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek navzdol</translation>
     </message>
     <message>
         <source>Push Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek levo</translation>
     </message>
     <message>
         <source>Push Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek desno</translation>
     </message>
     <message>
         <source>Push Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek navzgor</translation>
     </message>
     <message>
         <source>Random 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključno 1</translation>
     </message>
     <message>
         <source>Random 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključno 2</translation>
     </message>
     <message>
         <source>Circle Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaokroži</translation>
     </message>
     <message>
         <source>Diamond Out</source>
@@ -3946,126 +4002,126 @@
     </message>
     <message>
         <source>Split 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli 1</translation>
     </message>
     <message>
         <source>Split 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli 2</translation>
     </message>
     <message>
         <source>Split 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli 3</translation>
     </message>
     <message>
         <source>Split 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli 4</translation>
     </message>
     <message>
         <source>Strips 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Strganje 1</translation>
     </message>
     <message>
         <source>Strips 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Strganje 2</translation>
     </message>
     <message>
         <source>Strips 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Strganje 3</translation>
     </message>
     <message>
         <source>Strips 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Strganje 4</translation>
     </message>
     <message>
         <source>Uncover 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje 1</translation>
     </message>
     <message>
         <source>Uncover 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje 2</translation>
     </message>
     <message>
         <source>Uncover 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje 3</translation>
     </message>
     <message>
         <source>Uncover 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje 4</translation>
     </message>
     <message>
         <source>Uncover 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje 5</translation>
     </message>
     <message>
         <source>Uncover 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje 6</translation>
     </message>
     <message>
         <source>Uncover 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje 7</translation>
     </message>
     <message>
         <source>Uncover 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje 8</translation>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"></translation>
+        <translation>Klin</translation>
     </message>
     <message>
         <source>Wheel 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo 1</translation>
     </message>
     <message>
         <source>Wheel 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo 2</translation>
     </message>
     <message>
         <source>Wheel 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo 3</translation>
     </message>
     <message>
         <source>Wheel 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo 4</translation>
     </message>
     <message>
         <source>Wheel 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo 8</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje navzdol</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje levo</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje desno</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje navzgor</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključno</translation>
     </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished">Uporabi za &amp;matrico</translation>
+        <translation>Uporabi za &amp;matrico</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Upor&amp;abi na vseh diapozitivih</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished">Uporabi na i&amp;zbranih diapozitivih</translation>
+        <translation>Uporabi na i&amp;zbranih diapozitivih</translation>
     </message>
     <message>
         <source>Apply to &amp;All Master</source>
@@ -4077,90 +4133,90 @@
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation type="unfinished">Pokaži ve&amp;like predoglede</translation>
+        <translation>Pokaži ve&amp;like predoglede</translation>
     </message>
 </context>
 <context>
     <name>TpWppCustomAnimation</name>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animacija po meri</translation>
     </message>
     <message>
         <source>Customize Animation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi animacijo:</translation>
     </message>
     <message>
         <source>Add Effects</source>
-        <translation type="unfinished">Dodajte učinke</translation>
+        <translation>Dodajte učinke</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Modify selected effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni izbrane učinke</translation>
     </message>
     <message>
         <source>Start:</source>
-        <translation type="unfinished"></translation>
+        <translation>Začetek:</translation>
     </message>
     <message>
         <source>On Click</source>
-        <translation type="unfinished">Ob kliku</translation>
+        <translation>Ob kliku</translation>
     </message>
     <message>
         <source>With Previous</source>
-        <translation type="unfinished">S prejšnjim</translation>
+        <translation>S prejšnjim</translation>
     </message>
     <message>
         <source>After Previous</source>
-        <translation type="unfinished">Po prejšnjem</translation>
+        <translation>Po prejšnjem</translation>
     </message>
     <message>
         <source>Property:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnost:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished">Hitrost:</translation>
+        <translation>Hitrost:</translation>
     </message>
     <message>
         <source>Very Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelo počasi</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Počasi</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished">Srednje</translation>
+        <translation>Srednje</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitro</translation>
     </message>
     <message>
         <source>Very Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelo hitro</translation>
     </message>
     <message>
         <source>Re-Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuredi</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished">Predvajaj</translation>
+        <translation>Predvajaj</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished">Diaprojekcija</translation>
+        <translation>Diaprojekcija</translation>
     </message>
     <message>
         <source>AutoPreview</source>
-        <translation type="unfinished">Samodejni predogled</translation>
+        <translation>Samodejni predogled</translation>
     </message>
 </context>
 <context>
@@ -4174,11 +4230,11 @@
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvozi Adobe PDF datoteko</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Navadno</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -4186,7 +4242,7 @@
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Prebrskaj ...</translation>
+        <translation>&amp;Prebrskaj...</translation>
     </message>
     <message>
         <source>Export Range</source>
@@ -4194,19 +4250,19 @@
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>V&amp;se</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Tren&amp;utni diapozitiv</translation>
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Iz&amp;bor</translation>
     </message>
     <message>
         <source>C&amp;ustom shows:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diaprojekcije po meri:</translation>
     </message>
     <message>
         <source>Sl&amp;ides:</source>
@@ -4218,7 +4274,7 @@
     </message>
     <message>
         <source>Export Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti izvoza</translation>
     </message>
     <message>
         <source>Export &amp;what:</source>
@@ -4226,19 +4282,19 @@
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished">Diapozitivi</translation>
+        <translation>Diapozitivi</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished">Izročki</translation>
+        <translation>Izročki</translation>
     </message>
     <message>
         <source>Notes Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Strani opomb</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"></translation>
+        <translation>Orisni pogled</translation>
     </message>
     <message>
         <source>Color/&amp;grayscale:</source>
@@ -4246,11 +4302,11 @@
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Barva</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Povsem črno-belo</translation>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
@@ -4258,39 +4314,39 @@
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">2- {1?}</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished">2- {2?}</translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">2- {3?}</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">2- {4?}</translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">2- {6?}</translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">2- {9?}</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Order:</source>
-        <translation type="unfinished">Vrstni red:</translation>
+        <translation>Vrstni red:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation type="unfinished">Vodor&amp;avno</translation>
+        <translation>Vodor&amp;avno</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished">&amp;Navpično</translation>
+        <translation>&amp;Navpično</translation>
     </message>
     <message>
         <source>ICON</source>
@@ -4298,15 +4354,15 @@
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation type="unfinished">&amp;Okviri diapozitivov</translation>
+        <translation>&amp;Okviri diapozitivov</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished">Natisni s&amp;krite diapozitive</translation>
+        <translation>Natisni sk&amp;rite diapozitive</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitve dovoljenja</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permissions settings</source>
@@ -4314,7 +4370,7 @@
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Geslo:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
@@ -4342,7 +4398,7 @@
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiskanje ni dovoljeno</translation>
     </message>
     <message>
         <source>Print low quality only</source>
@@ -4373,34 +4429,34 @@
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvozi Adobe PDF datoteko</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Priprava na izvoz PDF datoteke ...</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri da&amp;toteko</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
     <name>kdlgFormatTable</name>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Obroba</translation>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrobe</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished">&amp;Slog:</translation>
+        <translation>S&amp;log:</translation>
     </message>
     <message>
         <source>lwLineStyle</source>
@@ -4408,7 +4464,7 @@
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished">Bar&amp;va:</translation>
+        <translation>Bar&amp;va:</translation>
     </message>
     <message>
         <source>cmbBorderColor</source>
@@ -4416,7 +4472,7 @@
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished">Ši&amp;rina:</translation>
+        <translation>Ši&amp;rina:</translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
@@ -4424,7 +4480,7 @@
     </message>
     <message>
         <source>Click on diagram below or use buttons to apply borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite spodnji diagram ali pa uporabite gumbe za nastavitev obrob</translation>
     </message>
     <message>
         <source>btnBorderUp</source>
@@ -4440,7 +4496,7 @@
     </message>
     <message>
         <source>Border Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled obrobe</translation>
     </message>
     <message>
         <source>btnBorderSlash</source>
@@ -4464,7 +4520,7 @@
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Polnilo</translation>
     </message>
     <message>
         <source>cbFillColor</source>
@@ -4488,11 +4544,11 @@
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje z besedilom</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnava &amp;besedila:</translation>
     </message>
     <message>
         <source>cbTextAlign</source>
@@ -4500,31 +4556,31 @@
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished">Srednje</translation>
+        <translation>Srednje</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodaj</translation>
     </message>
     <message>
         <source>Top centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini zgoraj</translation>
     </message>
     <message>
         <source>Middle centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini na sredini</translation>
     </message>
     <message>
         <source>Bottom centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini spodaj</translation>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Notranji rob</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
@@ -4532,15 +4588,15 @@
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zgoraj:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Desno:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spodaj:</translation>
     </message>
     <message>
         <source>cbOrientation</source>
@@ -4555,15 +4611,15 @@
     <name>kxUiHyperlinkwpp</name>
     <message>
         <source>Select a pla&amp;ce in this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite mes&amp;to v dokumentu:</translation>
     </message>
     <message>
         <source>Slide preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled diapozitiva:</translation>
     </message>
     <message>
         <source>&amp;Show and return</source>
-        <translation type="unfinished">&amp;Pokaži in vrni</translation>
+        <translation>&amp;Pokaži in vrni</translation>
     </message>
 </context>
 <context>
@@ -4574,7 +4630,7 @@
     </message>
     <message>
         <source>Do you want to export every slide in the presentation or only the current slide?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite izvoziti vse diapozitive v predstavitvi ali samo trenutni diapozitiv?</translation>
     </message>
     <message>
         <source>&amp;Every Slide</source>
@@ -4586,7 +4642,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
 </context>
 </TS>

@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提示信息</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
@@ -5805,7 +5805,7 @@ protected.</source>
     </message>
     <message>
         <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation type="unfinished">你指定的路径不存在，请键入一个合法的路径。</translation>
+        <translation type="obsolete">你指定的路径不存在，请键入一个合法的路径。</translation>
     </message>
     <message>
         <source>The file is exist, are you sure to overwrite the file?</source>
@@ -5822,6 +5822,10 @@ protected.</source>
     <message>
         <source>WPS Form</source>
         <translation type="obsolete">WPS 表格</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
+        <translation>你指定的路径不存在，请键入一个合法的路径。</translation>
     </message>
 </context>
 <context>
@@ -9711,7 +9715,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提示信息</translation>
     </message>
 </context>
 <context>

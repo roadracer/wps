@@ -993,7 +993,7 @@ or the file path character number longer than 255 </source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -1097,7 +1097,7 @@ or the file path character number longer than 255 </source>
     <message>
         <source>Group</source>
         <comment>Group tab in filedialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">圈子</translation>
     </message>
     <message>
         <source>Private Space</source>

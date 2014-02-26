@@ -15527,7 +15527,7 @@ Slide</source>
         <translation>投影片放映</translation>
     </message>
     <message>
-        <source>Stick the ToolBaar</source>
+        <source>Stick the ToolBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

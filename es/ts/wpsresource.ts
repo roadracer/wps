@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2146,11 +2146,11 @@ Merged Data</source>
     <name>ongmani.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -2158,11 +2158,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde y sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -2203,7 +2203,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -2223,7 +2223,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -2231,15 +2231,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -2259,7 +2259,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
@@ -3238,7 +3238,7 @@ On</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -3254,7 +3254,7 @@ On</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3415,7 +3415,7 @@ Painter</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3451,7 +3451,7 @@ Painter</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -3459,7 +3459,7 @@ Painter</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3491,7 +3491,7 @@ Painter</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>Select</source>
@@ -3559,7 +3559,7 @@ Painter</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -3605,7 +3605,7 @@ Painter</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltos</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -3621,19 +3621,19 @@ Painter</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de columna</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección continuo</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -8218,7 +8218,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir edición</translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -8540,7 +8540,7 @@ Diagonal Line in Cell</source>
     <name>rainbow.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -8552,7 +8552,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -8585,7 +8585,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -8605,7 +8605,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -8613,11 +8613,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -8633,7 +8633,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
@@ -9542,7 +9542,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -9558,7 +9558,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -9702,7 +9702,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9738,7 +9738,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -9746,7 +9746,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9774,7 +9774,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>Select</source>
@@ -9842,7 +9842,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -9888,7 +9888,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltos</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -9904,19 +9904,19 @@ Header and Footer</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de columna</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección continuo</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -11569,7 +11569,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Salto de sección continuos</translation>
+        <translation>Salto de sección continuo</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -13823,7 +13823,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13849,7 +13849,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
@@ -13868,7 +13868,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -13895,7 +13895,7 @@ Haga clic en la flecha para elegir Guía fonética, encerrar caracteres y opcion
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13991,7 +13991,7 @@ Haga clic en la flecha para elegir Guía fonética, encerrar caracteres y opcion
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14155,7 +14155,7 @@ Puede agregar el título, autor, fecha y otros datos.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14185,7 +14185,9 @@ El texto fluirá del cuadro de texto actual al vinculado.</translation>
     </message>
     <message>
         <source>Use cross-reference to refer to headings and figures in the document.</source>
-        <translation>Hace referencia a elementos como encabezados e ilustraciones en el documento.</translation>
+        <translation>Hace referencia a elementos como encabezados, ilustraciones y tablas insertando una referencia cruzada como, &quot;Ver tabla 6 a continuación&quot; o &quot;Volver a la página 8&quot;.  
+
+Las referencias cruzadas se actualizan automáticamente si mueve el contenido a otra ubicación. De forma predeterminada, las referencias cruzadas se insertan como hipervínculos.</translation>
     </message>
 </context>
 <context>
@@ -14475,7 +14477,7 @@ El texto fluirá del cuadro de texto actual al vinculado.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14690,7 +14692,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -14819,7 +14821,7 @@ Haga doble click en este botón de nuevo para aplicar el mismo formato a varias 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14864,7 +14866,7 @@ Kingsoft Galería de Fuentes en línea requieren conexión a Internet. My Galler
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14923,7 +14925,7 @@ Kingsoft Galería de Fuentes en línea requieren conexión a Internet. My Galler
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation>Aumentar el tamaño de la fuente.</translation>
+        <translation>Aumenta el tamaño de la fuente.</translation>
     </message>
 </context>
 <context>
@@ -14960,7 +14962,7 @@ Esto sólo afecta a las tablas que se extienden más allá de una sola página.<
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
@@ -14983,7 +14985,7 @@ Esto sólo afecta a las tablas que se extienden más allá de una sola página.<
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15045,7 +15047,7 @@ Esto hace que sea fácil ver qué parte de su formulario será reemplazado por l
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15108,11 +15110,11 @@ Esto hace que sea fácil ver qué parte de su formulario será reemplazado por l
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
-        <translation>Inserta una nueva página en blanco en la posición actual.</translation>
+        <translation>Inserta una nueva página en blanco en la posición del cursor.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15133,7 +15135,7 @@ Puede crear hipervínculos para pasar directamente a la ubicación del marcador.
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15144,12 +15146,7 @@ Puede crear hipervínculos para pasar directamente a la ubicación del marcador.
     <name>tips.InsertCaption</name>
     <message>
         <source>Add a descriptive caption to a picture or a table.</source>
-        <translation>Agrega un título o imagen a una imagen.
-
-Un título es una línea de texto que aparece debajo de un objeto para describirlo.
-
-Por ejemplo: &quot;Ilustración 7: Patrones
-metereológicos comunes.&quot;</translation>
+        <translation>Agrega un título descriptivo una imagen o tabla.</translation>
     </message>
     <message>
         <source>Insert Caption</source>
@@ -15157,7 +15154,7 @@ metereológicos comunes.&quot;</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15191,7 +15188,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15210,7 +15207,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15295,7 +15292,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15314,7 +15311,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15329,7 +15326,7 @@ Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
@@ -15356,7 +15353,7 @@ Ajuste el nivel de directorio para el párrafo seleccionado y añade una tabla d
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15416,7 +15413,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
@@ -15439,7 +15436,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15474,7 +15471,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15537,7 +15534,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15563,7 +15560,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>To solve the page break issue in mail merge, if N lines are to be shown in one page, then insert N-1 next fields.</source>
@@ -15706,7 +15703,7 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15758,7 +15755,9 @@ Haga clic en la flecha para elegir más estilos de esquema.</translation>
     <name>tips.LineSpacingShow</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation>Cambia el espaciado entre líneas del texto.</translation>
+        <translation>Cambia el espaciado entre líneas del texto.
+
+También puede personalizar la cantidad de espacio agregado antes y despúes de los párrafos.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -16083,6 +16082,7 @@ Por ejemplo, puede indicar que el campo personalizado &quot;&quot;Particular&quo
 
 Click the arrow to choose from different numbering formats.</source>
         <translation>Inicia una lista numerada.
+
 Haga clic en la flecha para seleccionar diferentes formatos de numeración.</translation>
     </message>
 </context>
@@ -16164,7 +16164,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
@@ -16205,7 +16205,7 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
@@ -16626,11 +16626,11 @@ Haga clic en la flecha para seleccionar la configuración detallada para el obje
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Bordes externos</translation>
+        <translation>Bordes exteriores</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16683,7 +16683,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -16732,7 +16732,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-        <translation>Rechazar el cambio actual y eliminar el comentario.</translation>
+        <translation>Rechazar el cambio actual y eliminar el comentario</translation>
     </message>
 </context>
 <context>
@@ -16776,7 +16776,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -16926,7 +16926,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
     <name>tips.ShadowSetting</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation>Añadir un efecto visual para el objeto seleccionado</translation>
+        <translation>Añadir un efecto visual para el objeto seleccionado.</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
@@ -16952,7 +16952,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -17085,7 +17085,7 @@ El nivel seleccionado y todos los niveles superiores serán visibles.</translati
     <name>tips.SimplifiedChinese</name>
     <message>
         <source>Convert the document to Simplified Chinese.</source>
-        <translation>Convertir el documento a Chino simplificado</translation>
+        <translation>Convertir el documento a Chino simplificado.</translation>
     </message>
     <message>
         <source>Simplified</source>
@@ -17220,7 +17220,7 @@ Click the arrow to select subscript.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Table</source>
@@ -17337,13 +17337,11 @@ Haga clic en la flecha para seleccionar diferentes colores de borde.</translatio
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different shading colors.</source>
-        <translation>Colorea el fondo detrás del texto o el párrafo seleccionado.
-
-Haga clic en la flecha para seleccionar diferentes colores de sombreado.</translation>
+        <translation>Colorea el fondo del texto o párrafo seleccionado.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -17421,7 +17419,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombreado.</transl
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -17470,7 +17468,7 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     <name>tips.UpdateTocOnOutlining</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
@@ -17742,7 +17740,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17761,7 +17759,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17813,7 +17811,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -17839,7 +17837,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
@@ -17876,7 +17874,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     <name>tips.m_Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -17899,7 +17897,7 @@ Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Pulse F1 para obtener ayuda.</translation>
+        <translation>Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show Markup</source>
@@ -17957,7 +17955,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Delete Selected Comment</source>
-        <translation>Elimina el comentario seleccionado.</translation>
+        <translation>Elimina el comentario seleccionado</translation>
     </message>
 </context>
 <context>
@@ -18617,11 +18615,11 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Restrict</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir edición</translation>
     </message>
     <message>
         <source>Rotate Mode</source>

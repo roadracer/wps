@@ -861,7 +861,7 @@
     </message>
     <message>
         <source>Character Border</source>
-        <translation>Obrova znaka</translation>
+        <translation>Obroba znaka</translation>
     </message>
     <message>
         <source>Character Shading</source>
@@ -3149,7 +3149,7 @@ On</source>
     </message>
     <message>
         <source>Next Header</source>
-        <translation>Naslednja glava</translation>
+        <translation>Naslednji</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -3169,7 +3169,7 @@ On</source>
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>Prejšnja glava</translation>
+        <translation>Prejšnji</translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
@@ -3276,7 +3276,7 @@ On</source>
     </message>
     <message>
         <source>Character Border</source>
-        <translation>Obrova znaka</translation>
+        <translation>Obroba znaka</translation>
     </message>
     <message>
         <source>Character Scaling</source>
@@ -3405,7 +3405,7 @@ Painter</source>
     </message>
     <message>
         <source>Home Object Select</source>
-        <translation>Izberi osnovni predmet</translation>
+        <translation>Podokno izbora</translation>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
@@ -3457,7 +3457,7 @@ Painter</source>
     </message>
     <message>
         <source>New Style</source>
-        <translation>Nov slog</translation>
+        <translation>Spremeni sloge</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -3611,7 +3611,7 @@ Painter</source>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Zaznamki</translation>
+        <translation>Zaznamek</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -3663,7 +3663,7 @@ Painter</source>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Datum/Čas</translation>
+        <translation>Datum in ura</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -4331,7 +4331,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Oblivanje z besedilom</translation>
+        <translation>Prelomi besedilo</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -5290,7 +5290,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Next</source>
-        <translation>Naprej</translation>
+        <translation>Naslednji</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -5302,7 +5302,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Nazaj</translation>
+        <translation>Prejšnji</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -6189,7 +6189,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Compared Side By Side</source>
-        <translation>Vzporedna primerjava</translation>
+        <translation>Vzporedni pogled</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6205,7 +6205,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Celoten zaslon</translation>
+        <translation>Branje na celotnem zaslonu</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -6217,7 +6217,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Neviden</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -6261,7 +6261,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation>Ponastavi položaj okna</translation>
+        <translation>Ponastavi mesto okna</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -6293,7 +6293,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation>Sinhrono pomikanje</translation>
+        <translation>Sinhrono drsenje</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -7948,7 +7948,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Neviden</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -9595,7 +9595,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Character Border</source>
-        <translation>Obrova znaka</translation>
+        <translation>Obroba znaka</translation>
     </message>
     <message>
         <source>Character Scaling</source>
@@ -12336,7 +12336,7 @@ Other Window</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Neviden</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -13483,7 +13483,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Turn on or off the 3-D effect applied to the shape.</source>
-        <translation>Vklopi ali izklopi uporabljene 3D učinke oblike</translation>
+        <translation>Vklopite ali izklopite 3D-učinek, ki je uporabljen za obliko.</translation>
     </message>
 </context>
 <context>
@@ -13494,7 +13494,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
-        <translation>Dodaj 3D učinek obliki</translation>
+        <translation>Senci dodajte 3D-učinek.</translation>
     </message>
 </context>
 <context>
@@ -13516,7 +13516,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Tilt the shape forward.</source>
-        <translation>Nagni obliko naprej</translation>
+        <translation>Nagnite obliko naprej.</translation>
     </message>
 </context>
 <context>
@@ -13527,7 +13527,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Tilt the shape to the left.</source>
-        <translation>Nagni obliko na levo</translation>
+        <translation>Nagnite obliko na levo.</translation>
     </message>
 </context>
 <context>
@@ -13538,7 +13538,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Tilt the shape to the right.</source>
-        <translation>Nagni obliko na desno</translation>
+        <translation>Nagnite obliko na desno.</translation>
     </message>
 </context>
 <context>
@@ -13549,14 +13549,14 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Tilt the shape backward.</source>
-        <translation>Nagni obliko nazaj</translation>
+        <translation>Nagnite obliko nazaj.</translation>
     </message>
 </context>
 <context>
     <name>tips.AcceptChangeOnTB</name>
     <message>
         <source>Accept the current change in the document.</source>
-        <translation>Sprejmi trenutno spremembo v dokumentu</translation>
+        <translation>Sprejmite trenutno spremembo in se premaknite na naslednjo predlagano spermembo.</translation>
     </message>
     <message>
         <source>Accept the selected change</source>
@@ -13564,7 +13564,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Click the arrow to accept all changes in the document.</source>
-        <translation>Če želite sprejeti vse spremembe v dokumentu, kliknite puščico.</translation>
+        <translation>Če želite imeti dostop do drugih možnosti, na primer do sprejemanja vseh sprememb v dokumentu, kliknite tukaj.</translation>
     </message>
 </context>
 <context>
@@ -13696,7 +13696,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
-        <translation>Razpostavi vse odprte dokumente drug ob drugem pod istim programskim oknom.</translation>
+        <translation>Razpostavite vsa okna odprtih programov vzporedno na zaslonu.</translation>
     </message>
 </context>
 <context>
@@ -13733,7 +13733,7 @@ Ta možnost je na voljo, ko je mreža definirana.</translation>
     </message>
     <message>
         <source>Automatically adjust the table width according to the window size</source>
-        <translation>Samodejno prilagodite širino tabele glede na velikost okna.</translation>
+        <translation>Samodejno prilagodite širino tabele glede na velikost okna</translation>
     </message>
 </context>
 <context>
@@ -13777,7 +13777,7 @@ Ta možnost je na voljo, ko je mreža definirana.</translation>
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation>Označite izbrano besedilo kot krepko</translation>
+        <translation>Označite izbrano besedilo kot krepko.</translation>
     </message>
 </context>
 <context>
@@ -13799,11 +13799,11 @@ Ta možnost je na voljo, ko je mreža definirana.</translation>
     </message>
     <message>
         <source>Bring forward the selected object, or place it in front of all other objects.</source>
-        <translation>Izbrani predmet postavi naprej ali pred ostale predmete.</translation>
+        <translation>Premaknite izbrani predmet eno raven naprej ali pred vse predmete.</translation>
     </message>
     <message>
         <source>Bring forward the selected object, so that it is not blocked by other objects.</source>
-        <translation>Izbrani predmet postavi naprej tako, da ga ostali predmeti ne blokirajo.</translation>
+        <translation>Premaknite izbrani predmet v ospredje, tako da ga zakriva manj predmetov, ki so pred njim.</translation>
     </message>
 </context>
 <context>
@@ -13814,15 +13814,15 @@ Ta možnost je na voljo, ko je mreža definirana.</translation>
     </message>
     <message>
         <source>Click the arrow to choose different bullet styles.</source>
-        <translation>Če želite izbrati drug slog oznake, kliknite puščico.</translation>
+        <translation>Če želite spremeniti oznako, kliknite puščico.</translation>
     </message>
     <message>
         <source>Start a bulleted list.
 
 Click the arrow to choose different bullet styles.</source>
-        <translation>Začnite označen seznam.
+        <translation>Ustvarite označen seznam.
 
-Če želite izbrati drug slog oznake, kliknite puščico.</translation>
+Če želite spremeniti oznako, kliknite puščico.</translation>
     </message>
 </context>
 <context>
@@ -13957,7 +13957,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Character Border</source>
-        <translation>Obrova znaka</translation>
+        <translation>Obroba znaka</translation>
     </message>
 </context>
 <context>
@@ -13990,7 +13990,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Simplified to Traditional Chinese</source>
-        <translation>Poenostavljena v tradicionalno kitajščino.</translation>
+        <translation>Poenostavljena v tradicionalno kitajščino</translation>
     </message>
 </context>
 <context>
@@ -14008,11 +14008,11 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.ClearFormats</name>
     <message>
         <source>Clear Formatting</source>
-        <translation>Počisti oblikovanje</translation>
+        <translation>Počisti celotno oblikovanje</translation>
     </message>
     <message>
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
-        <translation>Iz izbora počistite vse oblikovanje tako, da ostane samo navadno besedilo.</translation>
+        <translation>Iz izbora počistite vse oblikovanje tako, da ostane samo navadno besedilo, ki ni oblikovano.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14163,7 +14163,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation>Kopiraj izbiro in jo odložite v sistemsko odložišče.</translation>
+        <translation>Kopirajte izbor in ga odložite v odložišče.</translation>
     </message>
 </context>
 <context>
@@ -14215,7 +14215,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation>Izrežite izbrano vsebino in jo odložite v sistemsko odložišče.</translation>
+        <translation>Izrežite izbor in ga odložite v odložišče.</translation>
     </message>
 </context>
 <context>
@@ -14226,7 +14226,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Decrease the indent level of the paragraph.</source>
-        <translation>Zmanjšaj raven zamika odstavka</translation>
+        <translation>Zmanjšajte raven zamika odstavka.</translation>
     </message>
 </context>
 <context>
@@ -14299,7 +14299,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.DetailedSettings_DrawingTools</name>
     <message>
         <source>DetailedSettings DrawingTools Content</source>
-        <translation type="unfinished">Podrobne nastavitve vsebine orodij za risanje</translation>
+        <translation>Podrobne nastavitve vsebine orodij za risanje</translation>
     </message>
     <message>
         <source>DetailedSettings DrawingTools Title</source>
@@ -14659,7 +14659,7 @@ Click the arrow to choose different fill types.</source>
         <source>Find text in the document.
 
 Click the arrow to choose other options, such as Go To.</source>
-        <translation>Poiščite besedilo v dokumentu.
+        <translation>V dokumentu poiščite besedilo ali drugo vsebino.
 
 Če želite izbrati ostale možnosti, na primer »Pojdi na«, kliknite puščico.</translation>
     </message>
@@ -14717,7 +14717,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Barva besedila</translation>
+        <translation>Barva pisave</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -14761,11 +14761,11 @@ Click the arrow to choose a different text color.</source>
     <name>tips.FormatAlignCenter</name>
     <message>
         <source>Center</source>
-        <translation>Sredina</translation>
+        <translation>Na sredino</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation>Usredini besedilo</translation>
+        <translation>Usredinite besedilo.</translation>
     </message>
 </context>
 <context>
@@ -14783,18 +14783,20 @@ Click the arrow to choose a different text color.</source>
     <name>tips.FormatAlignJustify</name>
     <message>
         <source>Align text to both the left and right margins by adding extra space between words as necessary.</source>
-        <translation>Poravnajte besedilo na levi in desni rob, med besede pa se po potrebi dodajo dodatni presledki.</translation>
+        <translation>Poravnajte besedilo na levi in desni rob z dodajanjem dodatnih presledkov med besedami, kjer je potrebno.
+
+To ustvari jasen videz levega in desnega dela strani.</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Objestransko</translation>
+        <translation>Poravnaj</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation>Poravnajte besedilo levo</translation>
+        <translation>Besedilo poravnaj levo</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
@@ -14805,11 +14807,11 @@ Click the arrow to choose a different text color.</source>
     <name>tips.FormatAlignRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation>Poravnaj besedilo desno</translation>
+        <translation>Besedilo poravnaj desno</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation>Poravnaj besedilo na desno</translation>
+        <translation>Poravnajte besedilo na desno.</translation>
     </message>
 </context>
 <context>
@@ -14854,7 +14856,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>View the document in full screen mode.</source>
-        <translation>Dokument si oglejte v celozaslonskem načinu.</translation>
+        <translation>Dokument si oglejte v pogledu celozaslonskega branja in tako maksimirajte prostor, ki je na voljo za branje ali pripombe o dokumentu.</translation>
     </message>
 </context>
 <context>
@@ -14921,7 +14923,7 @@ Spletni viri Kingsoft galerije zahtevajo internetno povezavo. My Gallery se lahk
     </message>
     <message>
         <source>Go to ToC of the document.</source>
-        <translation>Pojdi na kazalo vsebine dokumenta</translation>
+        <translation>Pojdi na kazalo vsebine dokumenta.</translation>
     </message>
 </context>
 <context>
@@ -15048,7 +15050,7 @@ Click the arrow to select a different highlight color.</source>
     </message>
     <message>
         <source>Text Highlight Color</source>
-        <translation>Barva poudarjenega besedila</translation>
+        <translation>Barva označevanja besedila</translation>
     </message>
 </context>
 <context>
@@ -15149,7 +15151,7 @@ S tem lažje vidite, kateri del tipskega pisma bo zamenjan z informacijami s sez
     </message>
     <message>
         <source>Insert Bookmark</source>
-        <translation>Vstavi zaznamek</translation>
+        <translation>Zaznamek</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15350,7 +15352,7 @@ Palični, tortni, črtni, ploščinski in polarni grafikon so nekatere izmed vrs
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
 
 Set directory level for the selected paragraph and add a Table of Contents.</source>
-        <translation type="unfinished">Prikažite pogovorno okno »Kazalo vsebine« in dokumentu dodajte kazalo vsebine.
+        <translation>Prikažite pogovorno okno »Kazalo vsebine« in dokumentu dodajte kazalo vsebine.
 
 Izbranemu odstavku nastavite raven imenika in dodajte kazalo vsebine.</translation>
     </message>
@@ -15435,7 +15437,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
-        <translation>Začni naslednjo stran na trenutnem mestu kazalca in vsebina po kazalcu bo premaknjena na novo stran.</translation>
+        <translation>Začnite naslednjo stran na trenutnem položaju.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15473,19 +15475,19 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>InsertPictureFromFile Content2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi sliko iz datoteke Vsebina2</translation>
     </message>
     <message>
         <source>InsertPictureFromFile Title2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi sliko iz datoteke Naslov2</translation>
     </message>
     <message>
         <source>LinkText</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo povezave</translation>
     </message>
     <message>
         <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
+        <translation>URL povezave</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15582,7 +15584,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>To solve the page break issue in mail merge, if N lines are to be shown in one page, then insert N-1 next fields.</source>
-        <translation type="unfinished">Če želite odpraviti težavo preloma strani v spajanju dokumentov, če N črte      potem vstavite N-1 naslednjih polj.</translation>
+        <translation>Če želite odpraviti težavo preloma strani v spajanju dokumentov, če N črte, potem vstavite N-1 naslednjih polj.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -15637,7 +15639,7 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>User Name or Password does not match</source>
-        <translation>Uporabniško ime ali geslo se ne ujema.</translation>
+        <translation>Uporabniško ime ali geslo se ne ujema</translation>
     </message>
 </context>
 <context>
@@ -15684,7 +15686,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>Niste prijavljeni</translation>
+        <translation>Niste prijavljeni.</translation>
     </message>
 </context>
 <context>
@@ -15695,7 +15697,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>Niste prijavljeni</translation>
+        <translation>Niste prijavljeni.</translation>
     </message>
 </context>
 <context>
@@ -16085,7 +16087,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Click the arrow to choose from different numbering formats.</source>
-        <translation>Če želite izbrati drugo obliko oštevilčevanja, kliknite puščico.</translation>
+        <translation>Če želite več oblik oštevilčevanja, kliknite puščico.</translation>
     </message>
     <message>
         <source>Numbering</source>
@@ -16095,9 +16097,9 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
         <source>Start a numbered list.
 
 Click the arrow to choose from different numbering formats.</source>
-        <translation>Začnite oštevilčen seznam.
+        <translation>Ustvarite oštevilčen seznam.
 
-Če želite izbrati drugo obliko oštevilčevanja, kliknite puščico.</translation>
+Če želite več oblik oštevilčevanja, kliknite puščico.</translation>
     </message>
 </context>
 <context>
@@ -16145,7 +16147,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>View the document as an outline.</source>
-        <translation>Dokument si oglejte kot oris.</translation>
+        <translation>Oglejte si dokument kot oris in prikažite orodja za orisovanje.</translation>
     </message>
 </context>
 <context>
@@ -16182,7 +16184,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
-        <translation>Prikažite pogovorno okno »Priprava strani« in uporabi nastavitve številke strani trenutnemu odseku ali celotnemu dokumentu.</translation>
+        <translation>V dokument vstavite številke strani.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16430,7 +16432,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreviousRecord</name>
     <message>
         <source>Preview the previous record in the recipient list</source>
-        <translation>Predogled prejšnjega zapisa na seznamu prejemnikov.</translation>
+        <translation>Predogled prejšnjega zapisa na seznamu prejemnikov</translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -16636,11 +16638,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Customize the borders of the selected cells or text.</source>
-        <translation>Prilagodite meje izbranih celic ali besedila.</translation>
+        <translation>Izboru dodajte ali odstranite obrobe.</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Zunanje obrobe</translation>
+        <translation>Obrobe</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16740,7 +16742,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.RejectRevisionOnTB</name>
     <message>
         <source>Click here to reject all changes in the document.</source>
-        <translation>Kliknite tukaj, če želite zavrniti vse spremembe v dokumentu.</translation>
+        <translation>Če želite imeti dostop do drugih možnosti, na primer do zavrnitve vseh sprememb v dokumentu, kliknite puščico.</translation>
     </message>
     <message>
         <source>Reject Change</source>
@@ -16748,7 +16750,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-        <translation>Zavrni izbrane spremembe v dokumentu</translation>
+        <translation>Zavrnite trenutno spremembo in se premaknite na naslednjo predlagano spremembo</translation>
     </message>
 </context>
 <context>
@@ -16888,11 +16890,11 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošljite izbrani predmet v ozadje, tako da ga zakrivajo predmeti, ki so pred njim.</translation>
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Premaknite izbrani predmet eno raven nazaj ali za vse predmete.</translation>
     </message>
 </context>
 <context>
@@ -16903,7 +16905,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator Line</source>
-        <translation>Pokaži ločilo sprotna opomba/končna opomba.</translation>
+        <translation>Pokaži ločilo sprotna opomba/končna opomba</translation>
     </message>
 </context>
 <context>
@@ -17051,7 +17053,7 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.ShowHideFormattingMarks</name>
     <message>
         <source>Show all formatting symbols in the document.</source>
-        <translation>Pokaži vse simbole za oblikovanje v dokumentu.</translation>
+        <translation>Prikažite oznake odstavkov in ostale skrite simbole za oblikovanje.</translation>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
@@ -17236,7 +17238,7 @@ Click the arrow to select subscript.</source>
     <name>tips.Table</name>
     <message>
         <source>Insert or draw a table into the document, and convert text to table or vice versa.</source>
-        <translation>Vstavite ali narišite tabelo v dokument in pretvorite besedilo v tabelo ali obratno.</translation>
+        <translation>Vstavite tabelo v dokument ali jo narišite.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -17404,11 +17406,11 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation>Nariši vodoravno polje z besedilom</translation>
+        <translation>Polje z besedilom</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation>V dokument vstavite polje z besedilom.</translation>
+        <translation>Vstavite predoblikovana polja z besedilom.</translation>
     </message>
 </context>
 <context>
@@ -17572,7 +17574,7 @@ S tem po navadi označite posebno obdelavo dokumenta, na primer šifrirano in za
     <name>tips.WebLayoutView</name>
     <message>
         <source>View the document as it would look as a Web page.</source>
-        <translation>Ogled dokumenta, kot bi izgledal kot spletna stran.</translation>
+        <translation>Dokument si oglejte tako, kot bi bil videti v obliki spletne strani.</translation>
     </message>
     <message>
         <source>Web Layout</source>
@@ -17665,7 +17667,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>Change the shape style of the selected WordArt.</source>
-        <translation>Spremeni slog oblike izbranega WordArta</translation>
+        <translation>Spremeni slog oblike izbranega WordArta.</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -17726,7 +17728,7 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov varnostne kopije delovnega prostora</translation>
     </message>
 </context>
 <context>
@@ -17838,11 +17840,11 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <name>tips.m_LineSpacing</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation>Spremeni razmik med vrsticami besedila.</translation>
+        <translation>Spremenite razmik med vrsticami besedila.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Razmik vrstic</translation>
+        <translation>Razmik vrstic in odstavkov</translation>
     </message>
 </context>
 <context>
@@ -17932,11 +17934,11 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation>Nov slog</translation>
+        <translation>Spremeni sloge</translation>
     </message>
     <message>
         <source>Show the New Style dialog box, and create a new style in the Styles and Formatting task pane.</source>
-        <translation>Prikažite pogovorno okno »Nov slog« in ustvarite nov slog v podoknu opravil »Slogi« in »Oblikovanje«.</translation>
+        <translation>Spremenite nabor slogov, barv, pisav in razmika med odstavki, ki so uporabljeni v dokumentu.</translation>
     </message>
 </context>
 <context>
@@ -17947,7 +17949,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Oblivanje z besedilom</translation>
+        <translation>Prelomi besedilo</translation>
     </message>
 </context>
 <context>
@@ -18002,7 +18004,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <name>tips.weibotool</name>
     <message>
         <source>Convert document to picture and share in Weibo.</source>
-        <translation>Pretvori dokument v sliko in daj v skupno rabo v Weibo</translation>
+        <translation>Pretvori dokument v sliko in daj v skupno rabo v Weibo.</translation>
     </message>
     <message>
         <source>Weibotool</source>
@@ -18017,7 +18019,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
-        <translation>Pretvori zamik odstavka v presledke.</translation>
+        <translation>Pretvori zamik odstavka v presledke</translation>
     </message>
     <message>
         <source>Convert Soft Return to Return</source>
@@ -18505,7 +18507,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation>Materiali</translation>
+        <translation>Oblike</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
@@ -18894,7 +18896,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Vstavi</translation>
+        <translation>Vstavljanje</translation>
     </message>
     <message>
         <source>KOS Hire</source>

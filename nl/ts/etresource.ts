@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -94,11 +94,11 @@
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>Draai Omlaag</translation>
+        <translation>Draai omlaag</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation>Draai Links</translation>
+        <translation>Draai links</translation>
     </message>
     <message>
         <source>Tilt Right</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder rand</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -148,11 +148,11 @@
     </message>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramobjecten</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda</translation>
     </message>
 </context>
 <context>
@@ -370,7 +370,7 @@
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -378,7 +378,7 @@
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -454,7 +454,7 @@
     </message>
     <message>
         <source>Change Points</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Dash</source>
@@ -462,15 +462,15 @@
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepstijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt-punt</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -486,15 +486,15 @@
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -534,11 +534,11 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Lines</source>
@@ -586,7 +586,7 @@
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Order</source>
@@ -614,7 +614,7 @@
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Ronde Punt</translation>
+        <translation>Ronde punt</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -726,7 +726,7 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -738,7 +738,7 @@
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Vierkant Punt</translation>
+        <translation>Vierkante punt</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -798,22 +798,22 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
 </context>
 <context>
     <name>classics.formatting</name>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -833,7 +833,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -882,7 +882,7 @@ Center</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>Cellen Samenvoegen</translation>
+        <translation>Cellen samenvoegen</translation>
     </message>
     <message>
         <source>Merge&amp;Center</source>
@@ -917,7 +917,7 @@ Center</source>
     </message>
     <message>
         <source>Edit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code bewerken</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -929,7 +929,7 @@ Center</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Keuzelijst</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -952,7 +952,7 @@ Center</source>
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Sluit Volledig Scherm</translation>
+        <translation>Volledig scherm sluiten</translation>
     </message>
 </context>
 <context>
@@ -1010,7 +1010,7 @@ Center</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1034,7 +1034,7 @@ Center</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -1058,7 +1058,7 @@ Center</source>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>Meer Lijnen</translation>
+        <translation>Meer lijnen</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -1066,7 +1066,7 @@ Center</source>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>Draai 90° Links</translation>
+        <translation>Draai 90° links</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -1085,7 +1085,7 @@ Center</source>
     </message>
     <message>
         <source>Delete PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel verwijderen</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -1093,7 +1093,7 @@ Center</source>
     </message>
     <message>
         <source>Format Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport opmaken</translation>
     </message>
     <message>
         <source>Group and Show Detail</source>
@@ -1101,11 +1101,11 @@ Center</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
     <message>
         <source>Hide Field List</source>
@@ -1141,11 +1141,11 @@ Center</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -1161,11 +1161,11 @@ Center</source>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotalen</translation>
     </message>
     <message>
         <source>Table Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelopties</translation>
     </message>
 </context>
 <context>
@@ -1179,11 +1179,11 @@ Center</source>
     <name>classics.print_preview</name>
     <message>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -1191,7 +1191,7 @@ Center</source>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -1203,11 +1203,11 @@ Center</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Scaling</source>
@@ -1226,7 +1226,7 @@ Center</source>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad beveiligen</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
@@ -1316,7 +1316,7 @@ Center</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -1328,7 +1328,7 @@ Center</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten markeren</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -1348,11 +1348,11 @@ Center</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -1364,11 +1364,11 @@ Center</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak als afbeelding</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak als niet-opgemaakte tekst</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1384,7 +1384,7 @@ Center</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten verwijderen</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -1392,11 +1392,11 @@ Center</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1404,15 +1404,15 @@ Center</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig taal</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -1542,7 +1542,7 @@ Center</source>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst bewerken</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -1566,7 +1566,7 @@ Center</source>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -1590,7 +1590,7 @@ Center</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -1735,11 +1735,11 @@ Center</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Protection</source>
@@ -1858,7 +1858,7 @@ Center</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -1890,7 +1890,7 @@ Center</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Data Label Popup Menu</source>
@@ -1986,7 +1986,7 @@ Center</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -2030,7 +2030,7 @@ Center</source>
     </message>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie invoegen</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -2142,7 +2142,7 @@ Center</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Plot Area Popup Menu</source>
@@ -2162,7 +2162,7 @@ Center</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -2210,7 +2210,7 @@ Center</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Sla Op Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Select</source>
@@ -2270,7 +2270,7 @@ Center</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>Task
@@ -2295,7 +2295,7 @@ Window</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -2351,7 +2351,7 @@ Window</source>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramgereedschap</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -2359,7 +2359,7 @@ Window</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -2383,7 +2383,7 @@ Window</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -2423,7 +2423,7 @@ Window</source>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw bericht</translation>
     </message>
     <message>
         <source>Not logged in</source>
@@ -2447,7 +2447,7 @@ Window</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Quick Menu</source>
@@ -2487,7 +2487,7 @@ Window</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -2503,15 +2503,15 @@ Window</source>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -2545,7 +2545,7 @@ Window</source>
     <name>etongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 <context>
@@ -2563,11 +2563,11 @@ Window</source>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramgereedschap</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -2591,7 +2591,7 @@ Window</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -2631,7 +2631,7 @@ Window</source>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw bericht</translation>
     </message>
     <message>
         <source>Not logged in</source>
@@ -2655,7 +2655,7 @@ Window</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Quick Menu</source>
@@ -2695,7 +2695,7 @@ Window</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -2711,15 +2711,15 @@ Window</source>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -2749,7 +2749,7 @@ Window</source>
     <name>etrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 <context>
@@ -2763,23 +2763,23 @@ Window</source>
     <name>ongmani.ct_charttools</name>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype wijzigen</translation>
     </message>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramobjecten</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevenstabel</translation>
     </message>
     <message>
         <source>Format Chart</source>
@@ -2795,7 +2795,7 @@ Window</source>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens selecteren</translation>
     </message>
     <message>
         <source>Switch Column</source>
@@ -2838,7 +2838,7 @@ Window</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -2863,7 +2863,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Get External Data</source>
@@ -2875,11 +2875,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten markeren</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -2891,7 +2891,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -2899,11 +2899,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -2911,7 +2911,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten verwijderen</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2931,15 +2931,15 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotaal</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -2955,7 +2955,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validatie</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
@@ -2992,7 +2992,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -3155,7 +3155,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -3163,7 +3163,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -3247,19 +3247,19 @@ Aan</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepstijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt-punt</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -3271,19 +3271,19 @@ Aan</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>Wijzig Punten</translation>
+        <translation>Punten bewerken</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -3327,7 +3327,7 @@ Aan</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>Vormen Invoegen</translation>
+        <translation>Vormen invoegen</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3387,7 +3387,7 @@ Aan</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Ronde Punt</translation>
+        <translation>Ronde punt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -3423,7 +3423,7 @@ Aan</translation>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster tonen</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -3447,7 +3447,7 @@ Aan</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -3474,11 +3474,11 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -3590,7 +3590,7 @@ Aan</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>Andere Formaten</translation>
+        <translation>Andere formaten</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3598,7 +3598,7 @@ Aan</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -3626,7 +3626,7 @@ Aan</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Sla Op Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -3676,7 +3676,7 @@ Aan</translation>
     <name>ongmani.ct_formulas</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -3736,7 +3736,7 @@ Aan</translation>
     </message>
     <message>
         <source>Financial</source>
-        <translation type="unfinished"></translation>
+        <translation>Financieel</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
@@ -3748,15 +3748,15 @@ Aan</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie</translation>
     </message>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie invoegen</translation>
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Logisch</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
@@ -3776,7 +3776,7 @@ Aan</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -3796,7 +3796,7 @@ Aan</translation>
     </message>
     <message>
         <source>Statistical</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistisch</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -3823,11 +3823,11 @@ Aan</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -3835,11 +3835,11 @@ Aan</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle randen</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
@@ -3871,11 +3871,11 @@ Aan</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderrand</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbele onderrand</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -3895,7 +3895,7 @@ Aan</translation>
     </message>
     <message>
         <source>Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolombreedte</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -3939,7 +3939,7 @@ Aan</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3967,7 +3967,7 @@ Aan</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Down</source>
@@ -3987,7 +3987,7 @@ Aan</translation>
     </message>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder rand</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4035,7 +4035,7 @@ Aan</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -4051,7 +4051,7 @@ Aan</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad verbergen</translation>
     </message>
     <message>
         <source>Hide&amp;Unhide</source>
@@ -4071,11 +4071,11 @@ Aan</translation>
     </message>
     <message>
         <source>Insert Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Cellen invoegen</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen invoegen</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
@@ -4087,11 +4087,11 @@ Aan</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen invoegen</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad invoegen</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -4148,7 +4148,7 @@ Center</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
@@ -4156,7 +4156,7 @@ Center</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Number</source>
@@ -4164,7 +4164,7 @@ Center</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste randen</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -4180,7 +4180,7 @@ Center</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak als afbeelding</translation>
     </message>
     <message>
         <source>Percent Style</source>
@@ -4188,7 +4188,7 @@ Center</source>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad beveiligen</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -4196,7 +4196,7 @@ Center</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoemen</translation>
     </message>
     <message>
         <source>Right</source>
@@ -4216,7 +4216,7 @@ Center</source>
     </message>
     <message>
         <source>Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijhoogte</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -4224,7 +4224,7 @@ Center</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen/Kolommen</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -4240,11 +4240,11 @@ Center</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -4256,11 +4256,11 @@ Center</source>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabkleur</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikke onderrand</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
@@ -4268,19 +4268,19 @@ Center</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bovenrand</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Boven- en onderrand</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbele boven- en onderrand</translation>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikke boven- en onderrand</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -4288,7 +4288,7 @@ Center</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Unhide Colums</source>
@@ -4331,7 +4331,7 @@ Center</source>
     <name>ongmani.ct_home.Alignment</name>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
 </context>
 <context>
@@ -4373,7 +4373,7 @@ Center</source>
     </message>
     <message>
         <source>Edit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code bewerken</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -4445,7 +4445,7 @@ Center</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Keuzelijst</translation>
     </message>
     <message>
         <source>More Symbols</source>
@@ -4469,7 +4469,7 @@ Center</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -4544,7 +4544,7 @@ Center</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -4552,7 +4552,7 @@ Center</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -4584,7 +4584,7 @@ Center</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4596,15 +4596,15 @@ Center</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4644,7 +4644,7 @@ Center</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Oriëntatie</translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4700,7 +4700,7 @@ Center</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster tonen</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4767,7 +4767,7 @@ Center</source>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanpassen</translation>
     </message>
     <message>
         <source>Align</source>
@@ -4783,7 +4783,7 @@ Center</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -4791,7 +4791,7 @@ Center</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -4811,7 +4811,7 @@ Center</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4831,19 +4831,19 @@ Center</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepstijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt-punt</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4855,15 +4855,15 @@ Center</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4887,7 +4887,7 @@ Center</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Helling</translation>
     </message>
     <message>
         <source>Group</source>
@@ -4951,7 +4951,7 @@ Center</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4999,7 +4999,7 @@ Center</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Ronde Punt</translation>
+        <translation>Ronde punt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5024,7 +5024,8 @@ Center</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw
+Aan/Uit</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -5056,7 +5057,7 @@ On/Off</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster tonen</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -5110,11 +5111,11 @@ On/Off</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel verwijderen</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -5122,11 +5123,11 @@ On/Off</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
     <message>
         <source>Hide Field List</source>
@@ -5174,7 +5175,7 @@ On/Off</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -5190,22 +5191,22 @@ On/Off</source>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotalen</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voettekst</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -5213,7 +5214,7 @@ On/Off</source>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Normal View</source>
@@ -5229,11 +5230,11 @@ On/Off</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Print</source>
@@ -5260,7 +5261,7 @@ On/Off</source>
     </message>
     <message>
         <source>Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzigingen</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -5280,7 +5281,7 @@ On/Off</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -5292,7 +5293,7 @@ On/Off</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -5300,7 +5301,7 @@ On/Off</source>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad beveiligen</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
@@ -5328,15 +5329,15 @@ On/Off</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaling</translation>
     </message>
 </context>
 <context>
@@ -5423,7 +5424,7 @@ On/Off</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -5507,7 +5508,7 @@ On/Off</source>
     <name>ongmani.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles schikken</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -5536,7 +5537,7 @@ Other Window</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -5564,7 +5565,7 @@ Other Window</source>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -5642,7 +5643,7 @@ Other Window</source>
     <name>ongmani.ct_view.window</name>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Split</source>
@@ -5733,7 +5734,7 @@ Other Window</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -5875,7 +5876,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -5883,7 +5884,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -5979,15 +5980,15 @@ Aan</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepstijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt-punt</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -6011,7 +6012,7 @@ Aan</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -6031,19 +6032,19 @@ Aan</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst bewerken</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -6087,7 +6088,7 @@ Aan</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -6147,7 +6148,7 @@ Aan</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -6175,7 +6176,7 @@ Aan</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Ronde Punt</translation>
+        <translation>Ronde punt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -6195,7 +6196,7 @@ Aan</translation>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster tonen</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -6440,7 +6441,7 @@ Aan</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>Allow User to Edit Ranges</source>
@@ -6500,7 +6501,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Change Points</source>
@@ -6508,7 +6509,7 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -6520,7 +6521,7 @@ Aan</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype</translation>
     </message>
     <message>
         <source>Chinese Separator</source>
@@ -6560,11 +6561,11 @@ Aan</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles sluiten</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -6576,11 +6577,11 @@ Aan</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolombreedte</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -6684,7 +6685,7 @@ Aan</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad verwijderen</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -6692,7 +6693,7 @@ Aan</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -6704,7 +6705,7 @@ Aan</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst bewerken</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
@@ -6724,7 +6725,7 @@ Aan</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Wissen</translation>
     </message>
     <message>
         <source>Error Checking Options</source>
@@ -6796,7 +6797,7 @@ Aan</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Format Axis</source>
@@ -6916,11 +6917,11 @@ Aan</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -6952,15 +6953,15 @@ Aan</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voettekst</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -6968,7 +6969,7 @@ Aan</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten markeren</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -7012,7 +7013,7 @@ Aan</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad invoegen</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -7084,7 +7085,7 @@ Aan</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -7108,11 +7109,11 @@ Aan</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>None</source>
@@ -7128,7 +7129,7 @@ Aan</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Map openen</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -7152,7 +7153,7 @@ Aan</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-Einde</translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -7180,7 +7181,7 @@ Aan</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -7208,7 +7209,7 @@ Aan</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad beveiligen</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
@@ -7240,7 +7241,7 @@ Aan</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten verwijderen</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -7248,7 +7249,7 @@ Aan</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoemen</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
@@ -7256,7 +7257,7 @@ Aan</translation>
     </message>
     <message>
         <source>Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijhoogte</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -7264,7 +7265,7 @@ Aan</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles opslaan</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -7284,11 +7285,11 @@ Aan</translation>
     </message>
     <message>
         <source>Select All Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bladen selecteren</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens selecteren</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -7332,7 +7333,7 @@ Aan</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -7388,7 +7389,7 @@ Aan</translation>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotaal</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -7400,11 +7401,11 @@ Aan</translation>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabkleur</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>Ten Thousand Separator</source>
@@ -7452,7 +7453,7 @@ Aan</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validatie</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -7486,7 +7487,7 @@ Aan</translation>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Wijzig Taal</translation>
+        <translation>Wijzig taal</translation>
     </message>
 </context>
 <context>
@@ -7505,19 +7506,19 @@ Chart Type</source>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype wijzigen</translation>
     </message>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramobjecten</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramtype</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -7537,7 +7538,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens selecteren</translation>
     </message>
     <message>
         <source>Switch Column</source>
@@ -7576,7 +7577,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -7601,7 +7602,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Get External Data</source>
@@ -7613,11 +7614,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten markeren</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -7629,7 +7630,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -7637,11 +7638,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -7649,7 +7650,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicaten verwijderen</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7673,15 +7674,15 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotaal</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -7697,7 +7698,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Validatie</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
@@ -7734,7 +7735,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -7888,7 +7889,7 @@ AddIns</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -7896,7 +7897,7 @@ AddIns</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -7968,19 +7969,19 @@ AddIns</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepstijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt-punt</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -7992,19 +7993,19 @@ AddIns</source>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>Wijzig Punten</translation>
+        <translation>Punten bewerken</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8036,7 +8037,7 @@ AddIns</source>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>Vormen Invoegen</translation>
+        <translation>Vormen invoegen</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -8092,7 +8093,7 @@ AddIns</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Ronde Punt</translation>
+        <translation>Ronde punt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -8124,7 +8125,7 @@ AddIns</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster tonen</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -8144,7 +8145,7 @@ AddIns</source>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstkleur</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -8171,11 +8172,11 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie wijzigen</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
@@ -8287,7 +8288,7 @@ AddIns</source>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>Andere Formaten</translation>
+        <translation>Andere formaten</translation>
     </message>
     <message>
         <source>Print</source>
@@ -8295,7 +8296,7 @@ AddIns</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -8323,7 +8324,7 @@ AddIns</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Sla Op Als</translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -8369,7 +8370,7 @@ AddIns</source>
     <name>rainbow.ct_formulas</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -8429,7 +8430,7 @@ AddIns</source>
     </message>
     <message>
         <source>Financial</source>
-        <translation type="unfinished"></translation>
+        <translation>Financieel</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
@@ -8441,15 +8442,15 @@ AddIns</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie</translation>
     </message>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie invoegen</translation>
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Logisch</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
@@ -8469,7 +8470,7 @@ AddIns</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -8489,7 +8490,7 @@ AddIns</source>
     </message>
     <message>
         <source>Statistical</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistisch</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -8516,11 +8517,11 @@ AddIns</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -8528,11 +8529,11 @@ AddIns</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle randen</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
@@ -8564,11 +8565,11 @@ AddIns</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderrand</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbele onderrand</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -8588,7 +8589,7 @@ AddIns</source>
     </message>
     <message>
         <source>Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolombreedte</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -8632,7 +8633,7 @@ AddIns</source>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -8656,11 +8657,11 @@ AddIns</source>
     </message>
     <message>
         <source>Delete Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad verwijderen</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Down</source>
@@ -8680,7 +8681,7 @@ AddIns</source>
     </message>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder rand</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -8728,7 +8729,7 @@ AddIns</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -8744,7 +8745,7 @@ AddIns</source>
     </message>
     <message>
         <source>Hide Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad verbergen</translation>
     </message>
     <message>
         <source>Hide and Unhide</source>
@@ -8764,11 +8765,11 @@ AddIns</source>
     </message>
     <message>
         <source>Insert Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Cellen invoegen</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen invoegen</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
@@ -8780,11 +8781,11 @@ AddIns</source>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen invoegen</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad invoegen</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -8841,7 +8842,7 @@ Center</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer functies</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
@@ -8849,7 +8850,7 @@ Center</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Number</source>
@@ -8857,7 +8858,7 @@ Center</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste randen</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -8881,7 +8882,7 @@ Center</source>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad beveiligen</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -8889,7 +8890,7 @@ Center</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoemen</translation>
     </message>
     <message>
         <source>Right</source>
@@ -8909,7 +8910,7 @@ Center</source>
     </message>
     <message>
         <source>Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijhoogte</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -8933,11 +8934,11 @@ Center</source>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend sorteren</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend sorteren</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -8949,11 +8950,11 @@ Center</source>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabkleur</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikke onderrand</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
@@ -8961,19 +8962,19 @@ Center</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bovenrand</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Boven- en onderrand</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbele boven- en onderrand</translation>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikke boven- en onderrand</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -8981,7 +8982,7 @@ Center</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -9024,7 +9025,7 @@ Center</source>
     <name>rainbow.ct_home.Alignment</name>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>Format Cell Alignment</source>
@@ -9070,7 +9071,7 @@ Center</source>
     </message>
     <message>
         <source>Edit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code bewerken</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -9122,7 +9123,7 @@ Center</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Keuzelijst</translation>
     </message>
     <message>
         <source>More Symbols</source>
@@ -9142,7 +9143,7 @@ Center</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -9201,7 +9202,7 @@ Center</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -9209,7 +9210,7 @@ Center</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -9241,7 +9242,7 @@ Center</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -9253,15 +9254,15 @@ Center</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9289,7 +9290,7 @@ Center</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Oriëntatie</translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -9341,7 +9342,7 @@ Center</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster tonen</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9396,7 +9397,7 @@ Center</source>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanpassen</translation>
     </message>
     <message>
         <source>Align</source>
@@ -9412,7 +9413,7 @@ Center</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -9420,7 +9421,7 @@ Center</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -9440,7 +9441,7 @@ Center</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -9460,19 +9461,19 @@ Center</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepstijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt-punt</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -9484,15 +9485,15 @@ Center</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9580,7 +9581,7 @@ Center</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -9628,7 +9629,7 @@ Center</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Ronde Punt</translation>
+        <translation>Ronde punt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -9680,7 +9681,7 @@ Center</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster tonen</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -9734,11 +9735,11 @@ Center</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel verwijderen</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -9746,11 +9747,11 @@ Center</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
     <message>
         <source>Hide Field List</source>
@@ -9798,7 +9799,7 @@ Center</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -9814,22 +9815,22 @@ Center</source>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotalen</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voettekst</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landschap</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -9837,7 +9838,7 @@ Center</source>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Normal View</source>
@@ -9853,11 +9854,11 @@ Center</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Print</source>
@@ -9888,7 +9889,7 @@ Center</source>
     </message>
     <message>
         <source>Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzigingen</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -9908,7 +9909,7 @@ Center</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -9920,7 +9921,7 @@ Center</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -9928,7 +9929,7 @@ Center</source>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad beveiligen</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
@@ -9956,15 +9957,15 @@ Center</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaling</translation>
     </message>
 </context>
 <context>
@@ -10055,7 +10056,7 @@ Center</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10138,7 +10139,7 @@ Center</source>
     <name>rainbow.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles schikken</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -10155,7 +10156,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -10171,7 +10172,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -10199,7 +10200,7 @@ Other Windows</source>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10354,7 +10355,7 @@ Other Windows</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Geen Schaduw</translation>
+        <translation>Geen schaduw</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10481,7 +10482,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Links Uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -10489,7 +10490,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -10585,15 +10586,15 @@ Other Windows</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Streep Stijl</translation>
+        <translation>Streepstijl</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation>Streep-punt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Streep-punt-punt</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -10617,7 +10618,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation>Gedetailleerde instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10637,19 +10638,19 @@ Other Windows</source>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst bewerken</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke hoogte</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Gelijke Grootte</translation>
+        <translation>Gelijke grootte</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelijke breedte</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -10693,7 +10694,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opblazen</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
@@ -10753,7 +10754,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -10781,7 +10782,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Ronde Punt</translation>
+        <translation>Ronde punt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -10797,7 +10798,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster tonen</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -11132,11 +11133,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11187,7 +11188,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.AllBorders</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle randen</translation>
     </message>
     <message>
         <source>Apply all borders to the selected cell(s).</source>
@@ -11219,11 +11220,11 @@ Before using this feature, first set security on the sheet by using the Protect 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11302,14 +11303,14 @@ Once filtering is turned on, click the arrow in the column header to choose a fi
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak de geselecteerde tekst vet.</translation>
     </message>
 </context>
 <context>
     <name>tips.BookProtection</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets.
@@ -11323,7 +11324,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11334,7 +11335,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderrand</translation>
     </message>
 </context>
 <context>
@@ -11345,7 +11346,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbele onderrand</translation>
     </message>
 </context>
 <context>
@@ -11375,11 +11376,11 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11401,7 +11402,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
@@ -11409,7 +11410,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11420,7 +11421,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -11428,7 +11429,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11457,7 +11458,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
@@ -11479,7 +11480,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.Chart</name>
     <message>
         <source>Create Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram aanmaken</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
@@ -11492,7 +11493,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.ChartObjects</name>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramobjecten</translation>
     </message>
     <message>
         <source>Select a chart element so that you can format it.</source>
@@ -11564,7 +11565,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     </message>
     <message>
         <source>Close</source>
-        <translation>Sluit</translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -11582,11 +11583,11 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster afsluiten</translation>
     </message>
     <message>
         <source>Close the current window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidig venster aflsuiten.</translation>
     </message>
 </context>
 <context>
@@ -11658,11 +11659,11 @@ This will change the format of the cell to Accounting without a currency symbol.
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11673,18 +11674,18 @@ This will change the format of the cell to Accounting without a currency symbol.
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>
     <name>tips.Count</name>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Tellen</translation>
     </message>
     <message>
         <source>Count the number of cells in a column that contain numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tel het aantal cellen in een kolom die getallen bevatten.</translation>
     </message>
 </context>
 <context>
@@ -11693,11 +11694,13 @@ This will change the format of the cell to Accounting without a currency symbol.
         <source>Choose an alternate currency format for the selected cell.
 
 For instance, choose Euros instead of Dollars.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies een alternatief valutaformaat voor de geselecteerde cel.
+
+Bijvoorbeeld, kies euro in plaats van dollars.</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Valuta</translation>
     </message>
 </context>
 <context>
@@ -11708,7 +11711,7 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Knip de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>
@@ -11759,7 +11762,7 @@ For instance, choose Euros instead of Dollars.</source>
     <name>tips.DataUngroup</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -11771,7 +11774,7 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11815,7 +11818,7 @@ For instance, choose Euros instead of Dollars.</source>
     </message>
     <message>
         <source>Delete cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Cellen verwijderen</translation>
     </message>
     <message>
         <source>Delete the cells, rows, or columns in worksheet.</source>
@@ -11996,7 +11999,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -12004,7 +12007,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12019,18 +12022,18 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.EditCloumns</name>
     <message>
         <source>Edit Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom bewerken</translation>
     </message>
     <message>
         <source>View the formula bar, in which you can enter text and formulas into cells.</source>
@@ -12041,7 +12044,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EditComment</name>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Edit the selected comment.</source>
@@ -12067,7 +12070,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Select the command type, input a relevent query statement and filter the data imported.</source>
@@ -12075,14 +12078,14 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.EditPoints</name>
     <message>
         <source>Edit Points</source>
-        <translation>Wijzig Punten</translation>
+        <translation>Punten bewerken</translation>
     </message>
     <message>
         <source>Edit the wrap points to change the shape.</source>
@@ -12104,7 +12107,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EquationEditor</name>
     <message>
         <source>Insert Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formules invoegen</translation>
     </message>
     <message>
         <source>Use Equation Editor to insert mathematical formulas.</source>
@@ -12115,7 +12118,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.Eraseborder</name>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder rand</translation>
     </message>
     <message>
         <source>To erase border, click this option and drag the mouse to erase.
@@ -12172,7 +12175,7 @@ Press Esc on the keyboard or click this option again to exit the erasing mode.</
     <name>tips.FTB_EditCode</name>
     <message>
         <source>Edit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code bewerken</translation>
     </message>
     <message>
         <source>Start the Visual Basic Editor to edit the selected form code.</source>
@@ -12219,11 +12222,11 @@ Click the arrow to select a different background color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12264,15 +12267,15 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstkleur</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12344,11 +12347,11 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12377,7 +12380,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.FullScreenMode</name>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>View the document in Full Screen Mode</source>
@@ -12403,7 +12406,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Functies</translation>
     </message>
 </context>
 <context>
@@ -12421,7 +12424,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Office Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office Galerij</translation>
     </message>
     <message>
         <source>The Kingsoft Office gallery has pictures that you can use, save, or edit.
@@ -12429,9 +12432,6 @@ Double-click this button to apply the same formatting to multiple places in the 
 The online gallery, included in the Kingsoft Office gallery, can be used when you access the Internet. My Gallery allows you to access the gallery without a connection to the Internet after you log in.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>tips.GoalSeek</name>
 </context>
 <context>
     <name>tips.Group</name>
@@ -12465,15 +12465,15 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voettekst</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12484,7 +12484,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
 </context>
 <context>
@@ -12510,11 +12510,11 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12529,11 +12529,11 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12577,7 +12577,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opmerking</translation>
     </message>
 </context>
 <context>
@@ -12599,7 +12599,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Functie invoegen</translation>
     </message>
 </context>
 <context>
@@ -12621,7 +12621,7 @@ The information in the Header or Footer will appear at the top or bottom of each
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Specify where a new page will begin in the printed copy.
@@ -12631,14 +12631,14 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPictureFromFile</name>
     <message>
         <source>Insert Picture</source>
-        <translation>Foto Invoegen</translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
@@ -12646,11 +12646,11 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12661,7 +12661,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Insert Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Cellen invoegen</translation>
     </message>
     <message>
         <source>Insert cells, rows or columns into the worksheet.</source>
@@ -12669,18 +12669,18 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSymbol</name>
     <message>
         <source>Insert Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolen invoegen</translation>
     </message>
     <message>
         <source>Insert characters that are not on your keyboard, such as copyright symbols, trademark symbols, paragraph marks, and Unicode characters.</source>
@@ -12702,11 +12702,11 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Decoratieve tekst in uw document invoegen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12714,7 +12714,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12725,7 +12725,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak de geselecteerde tekst cursief.</translation>
     </message>
 </context>
 <context>
@@ -12736,7 +12736,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Your feedback will help us improve our products.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw feedback helpt ons bij het verbeteren van onze producten.</translation>
     </message>
 </context>
 <context>
@@ -12852,7 +12852,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.Legend</name>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>Show or Hide the chart legend.</source>
@@ -12900,7 +12900,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Logical Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Logische functie</translation>
     </message>
 </context>
 <context>
@@ -12933,7 +12933,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
@@ -12941,7 +12941,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12959,11 +12959,11 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.MathAndTrig</name>
     <message>
         <source>Browse and select from a list of math and trigonometry functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoek en selecteer uit een lijst van wiskundige - en trigonometrische functies.</translation>
     </message>
     <message>
         <source>Math and Trigonometry Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiskundige - en trigonometrische functie</translation>
     </message>
 </context>
 <context>
@@ -12974,7 +12974,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Returns the largest value in a set of values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geeft de grootste waarde in een verzameling waarden.</translation>
     </message>
 </context>
 <context>
@@ -12991,11 +12991,11 @@ This is often used to create labels that span multiple columns.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13028,7 +13028,7 @@ This is often used to create labels that span multiple columns.</source>
     </message>
     <message>
         <source>Returns the smallest number in a set of values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geeft het kleinste getal in een verzameling van waarden.</translation>
     </message>
 </context>
 <context>
@@ -13050,7 +13050,7 @@ This is often used to create labels that span multiple columns.</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Functies</translation>
     </message>
 </context>
 <context>
@@ -13082,11 +13082,11 @@ Names can be used in formulas to make them easier to understand.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13105,22 +13105,22 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.NamePaste</name>
     <message>
         <source>Paste Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam plakken</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Select a name that is being used in the current workbook and paste it into the current formula.</source>
@@ -13128,14 +13128,14 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
@@ -13146,11 +13146,11 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     <name>tips.NoBorder</name>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Remove cell borders.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder cel randen.</translation>
     </message>
 </context>
 <context>
@@ -13260,7 +13260,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste randen</translation>
     </message>
 </context>
 <context>
@@ -13278,7 +13278,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     <name>tips.PTHide</name>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Show or hide the Field List.
@@ -13291,7 +13291,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     <name>tips.PTHideDetail</name>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Detail verbergen</translation>
     </message>
     <message>
         <source>Hide all items of the active field.</source>
@@ -13315,7 +13315,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     <name>tips.PTRefreshData</name>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Update the information from the data source in the workbook.</source>
@@ -13352,7 +13352,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotalen</translation>
     </message>
 </context>
 <context>
@@ -13396,7 +13396,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
@@ -13404,7 +13404,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13457,7 +13457,7 @@ To apply a specific paper size to all sections in the document, click to customi
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding aanpassen</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
@@ -13563,22 +13563,22 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     </message>
     <message>
         <source>Insert PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.PivotTableDelete</name>
     <message>
         <source>Delete PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Draaitabel verwijderen</translation>
     </message>
     <message>
         <source>Delete the currently selected PivotTable.</source>
@@ -13615,14 +13615,14 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevPortrait</name>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Set worksheet pages to Portrait.</source>
@@ -13637,7 +13637,7 @@ PivotTables make it easy to arrange and summarize complicated data and drill dow
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
 </context>
 <context>
@@ -13733,7 +13733,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Print Voorbeeld</translation>
+        <translation>Afdrukvoorbeeld</translation>
     </message>
 </context>
 <context>
@@ -13744,7 +13744,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Specify the distance between the content of the worksheet and the edge of the printed page.</source>
@@ -13752,7 +13752,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13781,7 +13781,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <name>tips.ProtectAndShare</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
@@ -13795,14 +13795,14 @@ The password will prevent others from turning off change tracking.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.ProtectSheet</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Prevent unwanted changes to the data in a sheet by specifying what information can be changed.
@@ -13814,11 +13814,11 @@ You can specify a password that can be entered to unprotect the sheet and allow 
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Blad beveiligen</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13877,7 +13877,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -13885,7 +13885,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -13907,7 +13907,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Record List</source>
@@ -13915,14 +13915,14 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>tips.Refresh</name>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevens vernieuwen</translation>
     </message>
     <message>
         <source>Update all the information in the workbook that is coming from a data source.</source>
@@ -13933,7 +13933,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <name>tips.RefreshAll</name>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles vernieuwen</translation>
     </message>
     <message>
         <source>Update all the information in the workbook that is coming from a data source.</source>
@@ -13948,7 +13948,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -13956,7 +13956,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -14272,11 +14272,11 @@ You can use this feature to view multiple distant panes of your worksheet at onc
     <name>tips.Subtotals</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotaal</translation>
     </message>
     <message>
         <source>Total several rows of related data together by automatically inserting subtotals and totals for the selected cells.</source>
@@ -14284,7 +14284,7 @@ You can use this feature to view multiple distant panes of your worksheet at onc
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -14323,14 +14323,14 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstkleur</translation>
     </message>
 </context>
 <context>
     <name>tips.TextOrientation</name>
     <message>
         <source>Orientation</source>
-        <translation>Oriëntatie</translation>
+        <translation>Oriëntering</translation>
     </message>
     <message>
         <source>Rotate text to a diagonal angle or vertical orientation.
@@ -14360,11 +14360,11 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.ThickBottomBorder</name>
     <message>
         <source>Add a thick bottom border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een dikke onderrand toe aan de geselecteerde cel(len).</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikke onderrand</translation>
     </message>
 </context>
 <context>
@@ -14382,51 +14382,51 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TopAndBottomBorder</name>
     <message>
         <source>Add a top and bottom border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een boven- en onderrand toe aan de geselecteerde cel(len).</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Boven- en onderrand</translation>
     </message>
 </context>
 <context>
     <name>tips.TopAndDloubleBottomBorder</name>
     <message>
         <source>Add a top and double bottom border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een dubbele boven- en onderrand toe aan de geselecteerde cel(len).</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbele boven- en onderrand</translation>
     </message>
 </context>
 <context>
     <name>tips.TopAndThickBottomBorder</name>
     <message>
         <source>Add a top and thick bottom border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een dikke boven- en onderrand toe aan de geselecteerde cel(len).</translation>
     </message>
     <message>
         <source>Thick Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikke boven- en onderrand</translation>
     </message>
 </context>
 <context>
     <name>tips.TopBorder</name>
     <message>
         <source>Add a top border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een bovenrand toe aan de geselecteerde cel(len).</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bovenrand</translation>
     </message>
 </context>
 <context>
     <name>tips.TrackChanges</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -14438,7 +14438,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -14467,11 +14467,11 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.Underline</name>
     <message>
         <source>Underline</source>
-        <translation>Onderlijnen</translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Underline the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstreep de geselecteerde text.</translation>
     </message>
 </context>
 <context>
@@ -14515,7 +14515,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Prevent invalid data from being entered into a cell
@@ -14527,7 +14527,7 @@ You can also force input to be chosen from a dropdown list of values you specify
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -14733,7 +14733,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak de inhoud van het klembord.</translation>
     </message>
 </context>
 <context>

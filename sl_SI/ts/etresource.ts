@@ -534,7 +534,7 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi izrezek</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -602,11 +602,11 @@
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>zasukaj levo</translation>
+        <translation>zasukaj levo 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>zasukaj desno</translation>
+        <translation>zasukaj desno 90°</translation>
     </message>
     <message>
         <source>Rotate/Flip</source>
@@ -887,7 +887,7 @@ Center</source>
     </message>
     <message>
         <source>Merge&amp;Center</source>
-        <translation>Spoji&amp;sredina</translation>
+        <translation>Združi in na sredino</translation>
     </message>
     <message>
         <source>Percent Style</source>
@@ -1289,7 +1289,7 @@ Center</source>
     </message>
     <message>
         <source>Count</source>
-        <translation>Štejtje</translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -1297,7 +1297,7 @@ Center</source>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Podjetniški mikroblog</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1373,7 +1373,7 @@ Center</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>Nakup serijske kode</translation>
+        <translation>Nakup serijske številke</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -1409,7 +1409,7 @@ Center</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj jezik</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1831,11 +1831,11 @@ Center</source>
     </message>
     <message>
         <source>Chart Area Popup Menu</source>
-        <translation type="unfinished">Pojavni meni območje grafikona</translation>
+        <translation>Pojavni meni območje grafikona</translation>
     </message>
     <message>
         <source>Chart Title Popup Menu</source>
-        <translation type="unfinished">Pojavni meni naslov grafikona</translation>
+        <translation>Pojavni meni naslov grafikona</translation>
     </message>
     <message>
         <source>Check Auto Backup</source>
@@ -1859,7 +1859,7 @@ Center</source>
     </message>
     <message>
         <source>Column Popup Menu</source>
-        <translation type="unfinished">Pojavni meni stolpec</translation>
+        <translation>Pojavni meni stolpec</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -1871,7 +1871,7 @@ Center</source>
     </message>
     <message>
         <source>Connector Popup Menu</source>
-        <translation type="unfinished">Pojavni meni povezovalnik</translation>
+        <translation>Pojavni meni povezovalnik</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2243,7 +2243,7 @@ Center</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi jezik za preveranje črkovanja</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -2333,7 +2333,7 @@ Okno</translation>
     </message>
     <message>
         <source>WordArt Popup Menu</source>
-        <translation type="unfinished">Pojavni meni Wordpredlog</translation>
+        <translation>Pojavni meni Wordpredlog</translation>
     </message>
 </context>
 <context>
@@ -2389,7 +2389,7 @@ Okno</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Podjetniški mikroblog</translation>
     </message>
     <message>
         <source>File</source>
@@ -2601,7 +2601,7 @@ Okno</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Podjetniški mikroblog</translation>
     </message>
     <message>
         <source>File</source>
@@ -2982,7 +2982,7 @@ OLE DB poizvedbe</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Analiza »kaj če«</translation>
     </message>
 </context>
 <context>
@@ -3106,7 +3106,7 @@ OLE DB poizvedbe</translation>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatki</translation>
     </message>
 </context>
 <context>
@@ -3497,7 +3497,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj različico</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -3637,7 +3637,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakup serijske številke</translation>
     </message>
     <message>
         <source>Reload Text File</source>
@@ -3715,7 +3715,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračunavanje lista</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -3731,7 +3731,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Štejtje</translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Create</source>
@@ -3815,7 +3815,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Prilepi</translation>
+        <translation>Uporabi v formuli</translation>
     </message>
     <message>
         <source>Recalculate Active Book</source>
@@ -3890,7 +3890,7 @@ Vklop</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejna vsota</translation>
     </message>
     <message>
         <source>Average</source>
@@ -3966,7 +3966,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Štejtje</translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -4167,7 +4167,7 @@ Center</source>
     </message>
     <message>
         <source>Merge&amp;Center</source>
-        <translation>Spoji&amp;sredina</translation>
+        <translation>Združi in na sredino</translation>
     </message>
     <message>
         <source>Min</source>
@@ -4488,7 +4488,7 @@ Center</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Predmet izbira</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -5401,11 +5401,11 @@ On/Off</source>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>Izbriši komentar</translation>
+        <translation>Izbriši pripombo</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>Urejanje komentarja</translation>
+        <translation>Uredi pripombo</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -5417,7 +5417,7 @@ On/Off</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>Nov komentar</translation>
+        <translation>Nova pripomba</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -5441,7 +5441,7 @@ On/Off</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi jezik za preveranje črkovanja</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -5770,7 +5770,7 @@ Drugo okno</translation>
     <name>ongmani.ct_view.COMAddIns</name>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatki COM</translation>
     </message>
 </context>
 <context>
@@ -6486,11 +6486,11 @@ Vklop</translation>
     </message>
     <message>
         <source>KOS My Account</source>
-        <translation type="unfinished">KOS moj račun</translation>
+        <translation>KOS moj račun</translation>
     </message>
     <message>
         <source>KOS My Account Tip</source>
-        <translation type="unfinished">KOS nasvet za moj račun</translation>
+        <translation>KOS nasvet za moj račun</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
@@ -6502,23 +6502,23 @@ Vklop</translation>
     </message>
     <message>
         <source>KOS User Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblak uporabnika za KOS</translation>
     </message>
     <message>
         <source>KOS User Cloud Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblak uporabnika za KOS namig</translation>
     </message>
     <message>
         <source>KOS User Guid</source>
-        <translation type="unfinished">KOS navodila za uporabo</translation>
+        <translation>KOS navodila za uporabo</translation>
     </message>
     <message>
         <source>KOS User Guid Tip</source>
-        <translation type="unfinished">KOS navodila za uporabo nasveti</translation>
+        <translation>KOS navodila za uporabo nasveti</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished">KOS prijava uporabnika</translation>
+        <translation>KOS prijava uporabnika</translation>
     </message>
     <message>
         <source>Login</source>
@@ -6645,7 +6645,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Zamenjaj verzijo</translation>
+        <translation>Zamenjaj različico</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -6689,7 +6689,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Slikovni izrezek</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -6745,7 +6745,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam nadzorni meni</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
@@ -6769,7 +6769,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Štejtje</translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Count Numbers</source>
@@ -6805,7 +6805,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>Izbriši komentar</translation>
+        <translation>Izbriši pripombo</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
@@ -6829,7 +6829,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>Urejanje komentarja</translation>
+        <translation>Uredi pripombo</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -7361,7 +7361,7 @@ Vklop</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>Nakup serijske kode</translation>
+        <translation>Nakup serijske številke</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -7847,7 +7847,7 @@ OLE DB poizvedbe</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Analiza »kaj če«</translation>
     </message>
 </context>
 <context>
@@ -8317,7 +8317,7 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Zamenjaj verzijo</translation>
+        <translation>Zamenjaj različico</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -8457,7 +8457,7 @@ AddIns</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>Nakup serijske kode</translation>
+        <translation>Nakup serijske številke</translation>
     </message>
     <message>
         <source>Reload Text File</source>
@@ -8527,7 +8527,7 @@ AddIns</source>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračunavanje lista</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -8543,7 +8543,7 @@ AddIns</source>
     </message>
     <message>
         <source>Count</source>
-        <translation>Štejtje</translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Create</source>
@@ -8702,7 +8702,7 @@ AddIns</source>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejna vsota</translation>
     </message>
     <message>
         <source>Average</source>
@@ -8778,7 +8778,7 @@ AddIns</source>
     </message>
     <message>
         <source>Count</source>
-        <translation>Štejtje</translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -8979,7 +8979,7 @@ Center</source>
     </message>
     <message>
         <source>Merge&amp;Center</source>
-        <translation>Spoji&amp;sredina</translation>
+        <translation>Združi in na sredino</translation>
     </message>
     <message>
         <source>Min</source>
@@ -9182,7 +9182,7 @@ Center</source>
     </message>
     <message>
         <source>Text Orientation</source>
-        <translation>Usmerjenost besedila.</translation>
+        <translation>Usmerjenost besedila</translation>
     </message>
 </context>
 <context>
@@ -10058,7 +10058,7 @@ Center</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>Urejanje komentarja</translation>
+        <translation>Uredi pripombo</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -10070,7 +10070,7 @@ Center</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>Nov komentar</translation>
+        <translation>Nova pripomba</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -10094,7 +10094,7 @@ Center</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi jezik za preveranje črkovanja</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -11102,11 +11102,11 @@ Druga okno</translation>
     </message>
     <message>
         <source>KOS My Account</source>
-        <translation type="unfinished">KOS moj račun</translation>
+        <translation>KOS moj račun</translation>
     </message>
     <message>
         <source>KOS My Account Tip</source>
-        <translation type="unfinished">KOS nasvet za moj račun</translation>
+        <translation>KOS nasvet za moj račun</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
@@ -11118,23 +11118,23 @@ Druga okno</translation>
     </message>
     <message>
         <source>KOS User Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblak uporabnika za KOS</translation>
     </message>
     <message>
         <source>KOS User Cloud Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblak uporabnika za KOS namig</translation>
     </message>
     <message>
         <source>KOS User Guid</source>
-        <translation type="unfinished">KOS navodila za uporabo</translation>
+        <translation>KOS navodila za uporabo</translation>
     </message>
     <message>
         <source>KOS User Guid Tip</source>
-        <translation type="unfinished">KOS navodila za uporabo nasveti</translation>
+        <translation>KOS navodila za uporabo nasveti</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished">KOS prijava uporabnika</translation>
+        <translation>KOS prijava uporabnika</translation>
     </message>
     <message>
         <source>Login</source>
@@ -11161,7 +11161,7 @@ Druga okno</translation>
     </message>
     <message>
         <source>Click the arrow to select from different 3-D colors.</source>
-        <translation>Klikni puščico za izbiro različnih 3D barv</translation>
+        <translation>Klikni puščico za izbiro različnih 3D barv.</translation>
     </message>
     <message>
         <source>Fill the selected 3-D shape with color.
@@ -11169,14 +11169,14 @@ Druga okno</translation>
 Click the arrow to select from different 3-D colors.</source>
         <translation>Zapolni izbrano 3D obiliko z barvo
 
-Klikni puščico na izbiro različnih 3D barv</translation>
+Klikni puščico na izbiro različnih 3D barv.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DDepthMenu</name>
     <message>
         <source>Change the height of the selected 3-D shape.</source>
-        <translation>Spremeni višino izbrane 3D oblike</translation>
+        <translation>Spremeni višino izbrane 3D oblike.</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -11191,7 +11191,7 @@ Klikni puščico na izbiro različnih 3D barv</translation>
     </message>
     <message>
         <source>Turn on or off the 3-D effect applied to the shape.</source>
-        <translation>Vklopi ali izklopi 3D učinek</translation>
+        <translation>Vklopi ali izklopi 3D učinek.</translation>
     </message>
 </context>
 <context>
@@ -11202,14 +11202,14 @@ Klikni puščico na izbiro različnih 3D barv</translation>
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
-        <translation>Dodaj 3D efekt v obliko</translation>
+        <translation>Dodaj 3D efekt v obliko.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DSurfaceMenu</name>
     <message>
         <source>Choose a surface effect for the selected 3-D shape in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite površinski učinek za izbrano 3D obliko v dokumentu.</translation>
     </message>
     <message>
         <source>Surface Effects</source>
@@ -11224,7 +11224,7 @@ Klikni puščico na izbiro različnih 3D barv</translation>
     </message>
     <message>
         <source>Tilt the shape forward.</source>
-        <translation>Nagni obliko naprej</translation>
+        <translation>Nagni obliko naprej.</translation>
     </message>
 </context>
 <context>
@@ -11235,7 +11235,7 @@ Klikni puščico na izbiro različnih 3D barv</translation>
     </message>
     <message>
         <source>Tilt the shape to the left.</source>
-        <translation>Nagni obliko na levo</translation>
+        <translation>Nagni obliko na levo.</translation>
     </message>
 </context>
 <context>
@@ -11246,7 +11246,7 @@ Klikni puščico na izbiro različnih 3D barv</translation>
     </message>
     <message>
         <source>Tilt the shape to the right.</source>
-        <translation>Nagni obliko na desno</translation>
+        <translation>Nagni obliko na desno.</translation>
     </message>
 </context>
 <context>
@@ -11257,7 +11257,7 @@ Klikni puščico na izbiro različnih 3D barv</translation>
     </message>
     <message>
         <source>Tilt the shape backward.</source>
-        <translation>Nagni obliko nazaj</translation>
+        <translation>Nagni obliko nazaj.</translation>
     </message>
 </context>
 <context>
@@ -11281,11 +11281,13 @@ Klikni puščico na izbiro različnih 3D barv</translation>
         <source>Align the edges of multiple selected objects.
 
 You can also center them or distribute them evenly across the page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnajte robove več izbranih predmetov.
+
+Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11296,33 +11298,33 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.AlignCenter</name>
     <message>
         <source>Center</source>
-        <translation>Sredina</translation>
+        <translation>Na Sredino</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation>Usredinite besedilo</translation>
+        <translation>Usredinite besedilo.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation>Besedilo poravnajte levo</translation>
+        <translation>Besedilo poravnavaj levo</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation>Poravnajte besedilo na levo</translation>
+        <translation>Poravnajte besedilo na levo.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation>Besedilo poravnajte na desno</translation>
+        <translation>Besedilo poravnavaj desno</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation>Poravnajte besedilo na desno</translation>
+        <translation>Poravnajte besedilo na desno.</translation>
     </message>
 </context>
 <context>
@@ -11344,7 +11346,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Apply all borders to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
 </context>
 <context>
@@ -11355,7 +11357,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Browse and select from the list that contains all of the functions.</source>
-        <translation>Poišči in izberi funkcijo iz seznama</translation>
+        <translation>Poišči in izberi funkcijo iz seznama.</translation>
     </message>
 </context>
 <context>
@@ -11368,11 +11370,12 @@ You can also center them or distribute them evenly across the page.</source>
         <source>Allows specific people to edit ranges of cells in a protected workbook or sheet.
 
 Before using this feature, first set security on the sheet by using the Protect Sheet command.</source>
-        <translation type="unfinished"></translation>
+        <translation>Določenim osebam dovolite urejanje obsegov celic v zaščitenem delovnem zvezku ali listu.
+Pred uporabo funkcije najprej nastavite varnost na listu z ukazom »Zaščiti list«.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11383,7 +11386,7 @@ Before using this feature, first set security on the sheet by using the Protect 
     <name>tips.ArtisticWordAlignment</name>
     <message>
         <source>Specify how individual lines of a multi-line WordArt should be aligned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navedite način poravnave posameznih vrstic večvrstičnega WordArta.</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
@@ -11398,7 +11401,7 @@ Before using this feature, first set security on the sheet by using the Protect 
 Once filtering is turned on, click the arrow in the column header to choose a filter for the column.</source>
         <translation>Omogočite filtriranje izbranih celic
 
-Ko je filtriranje vklopljeno kliknite puščico v glavi stolpca, da izberete filter za stolpce</translation>
+Ko je filtriranje vklopljeno kliknite puščico v glavi stolpca, da izberete filter za stolpce.</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -11409,7 +11412,7 @@ Ko je filtriranje vklopljeno kliknite puščico v glavi stolpca, da izberete fil
     <name>tips.AutoSum</name>
     <message>
         <source>Display the sum of the selected cells directly after the selected cells.</source>
-        <translation>Prikaže vsoto izbranih celic</translation>
+        <translation>Prikaže vsoto izbranih celic.</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -11424,18 +11427,18 @@ Ko je filtriranje vklopljeno kliknite puščico v glavi stolpca, da izberete fil
     </message>
     <message>
         <source>Enable auto backup for the current document, save backup file to File Safe each time the document is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogoči samodejno varnostno kopiranje za trenutni dokument, shrani datoteko varnostne kopije v varno datoteko vsakič ko se dokument zapre.</translation>
     </message>
 </context>
 <context>
     <name>tips.Autobackup</name>
     <message>
         <source>A brief introduction to File Safe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kratki uvod o varni datoteki.</translation>
     </message>
     <message>
         <source>File Safe</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna datoteka</translation>
     </message>
 </context>
 <context>
@@ -11457,7 +11460,7 @@ Ko je filtriranje vklopljeno kliknite puščico v glavi stolpca, da izberete fil
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation>Označite izbrano besedilo kot krepko</translation>
+        <translation>Označite izbrano besedilo kot krepko.</translation>
     </message>
 </context>
 <context>
@@ -11465,7 +11468,7 @@ Ko je filtriranje vklopljeno kliknite puščico v glavi stolpca, da izberete fil
     <message>
         <source>Press F1 for more help.</source>
         <translatorcomment>Če žlite pomoč,pritisnite F1</translatorcomment>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets.
@@ -11486,7 +11489,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.BottomBorder</name>
     <message>
         <source>Apply borders to the currently selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -11497,7 +11500,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.BottomDoubleBorder</name>
     <message>
         <source>Add a bottom double border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
@@ -11512,11 +11515,11 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Bring forward the selected object, or place it in front of all other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi izbrani predmet eno raven naprej ali pred vse predmete.</translation>
     </message>
     <message>
         <source>Bring forward the selected object, so that it is not blocked by other object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Premaknite izbrani predmet v ospredje, tako da ga zakriva manj predmetov, ki so pred njim.</translation>
     </message>
 </context>
 <context>
@@ -11527,11 +11530,11 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Enter design mode to edit controls name and functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstopite v način načrtovanja, da uredite imena kontrolnikov in funkcij.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11542,7 +11545,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.CTB_MoreControls</name>
     <message>
         <source>Click here to insert a control from the set of controls available on this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite tukaj, če želite vstaviti nabor kontrolnikov, ki so na voljo v tem računalniku.</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -11557,11 +11560,11 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled in urejanje lastnosti izbranih kontrolnikov.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11572,11 +11575,11 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.CTB_ViewCode</name>
     <message>
         <source>Launch Visual Basic Editor to edit the code of the selected controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite urejati kodo izbranih kontrolnikov zaženite Visual Basic Editor.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -11591,11 +11594,11 @@ You can specify a password that can be entered to unprotect the workbook and all
     <name>tips.CalculateSheet</name>
     <message>
         <source>CalculateSheet Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračunajte trenuten list</translation>
     </message>
     <message>
         <source>CalculateSheet Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Izračunavanje lista</translation>
     </message>
 </context>
 <context>
@@ -11606,7 +11609,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Change the current chart type.</source>
-        <translation>Zamenjaj trenutni tip grafikona</translation>
+        <translation>Zamenjaj trenutni tip grafikona.</translation>
     </message>
 </context>
 <context>
@@ -11617,14 +11620,14 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
-        <translation>Zamenjaj trenutno sliko</translation>
+        <translation>Zamenjaj trenutno sliko.</translation>
     </message>
 </context>
 <context>
     <name>tips.CharacterSpacing</name>
     <message>
         <source>Change the spacing between the letters of the selected WordArt text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni razmik med črkami izbranega besedila WordArt.</translation>
     </message>
     <message>
         <source>Character Spacing</source>
@@ -11659,11 +11662,11 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.ChineseTranslation</name>
     <message>
         <source>Set Simplified to Traditional Chinese translation based upon the character or word.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na podlagi znaka ali besede nastavi iz poenostavljene v tradicionalno kitajščino prevod.</translation>
     </message>
     <message>
         <source>Simplified to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Poenostavljena v tradicionalno kitajščino</translation>
     </message>
 </context>
 <context>
@@ -11687,18 +11690,18 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     </message>
     <message>
         <source>Delete everything from the cell, or selectively remove the formatting, the contents, or the comments.</source>
-        <translation>Izbriši vse iz celic ali odstrani komentarje</translation>
+        <translation>Izbriši vse iz celic ali odstrani komentarje.</translation>
     </message>
 </context>
 <context>
     <name>tips.ClearFilter</name>
     <message>
         <source>Clear the filter and sort state for the current range of data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Počistite filter in stanje razvrščanja za trenuten obseg podatkov.</translation>
     </message>
     <message>
         <source>Display All</source>
-        <translation>Prikaži vse</translation>
+        <translation>Počisti</translation>
     </message>
 </context>
 <context>
@@ -11709,7 +11712,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     </message>
     <message>
         <source>Clear table style of selected cell range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti slog tabele za izbran obseg celic.</translation>
     </message>
 </context>
 <context>
@@ -11731,7 +11734,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     </message>
     <message>
         <source>Close all other windows except the current one.</source>
-        <translation>Zaprti vsa druga okna razen trenutno odprtega </translation>
+        <translation>Zaprti vsa druga okna razen trenutno odprtega.</translation>
     </message>
 </context>
 <context>
@@ -11742,7 +11745,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     </message>
     <message>
         <source>Close the current window.</source>
-        <translation>Zapri trenutno okno</translation>
+        <translation>Zapri trenutno okno.</translation>
     </message>
 </context>
 <context>
@@ -11760,7 +11763,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <name>tips.ComAddin</name>
     <message>
         <source>Add or delete the available COM Add-Ins.</source>
-        <translation>Dodaj ali odstrani obstoječe COM dodatke</translation>
+        <translation>Dodaj ali odstrani obstoječe COM dodatke.</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -11777,7 +11780,9 @@ Double-click an item in the list of results to switch the corresponding cell.</s
         <source>Display the value of the cell with a thousands separator.
 
 This will change the format of the cell to Accounting without a currency symbol.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikažite vrednost celice z uporabo ločila tisočink.
+
+To bo spremenilo obliko celice v računovodsko brez simbola za valuto.</translation>
     </message>
 </context>
 <context>
@@ -11788,7 +11793,7 @@ This will change the format of the cell to Accounting without a currency symbol.
     </message>
     <message>
         <source>Compress the selected picture or all pictures in the document to reduce the picture size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite zmanjšati velikost določene slike ali vseh slik, jih lahko stisnite.</translation>
     </message>
 </context>
 <context>
@@ -11806,7 +11811,7 @@ This will change the format of the cell to Accounting without a currency symbol.
     <name>tips.Consolidate</name>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Združite vrednosti za več obsegov v en nov obseg.</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -11814,7 +11819,7 @@ This will change the format of the cell to Accounting without a currency symbol.
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11829,14 +11834,14 @@ This will change the format of the cell to Accounting without a currency symbol.
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation>Kopirajte izbor in ga odložite v odlošišče</translation>
+        <translation>Kopirajte izbor in ga odložite v odlošišče.</translation>
     </message>
 </context>
 <context>
     <name>tips.Count</name>
     <message>
         <source>Count</source>
-        <translation>Štejtje</translation>
+        <translation>Štetje</translation>
     </message>
     <message>
         <source>Count the number of cells in a column that contain numbers.</source>
@@ -11849,9 +11854,9 @@ This will change the format of the cell to Accounting without a currency symbol.
         <source>Choose an alternate currency format for the selected cell.
 
 For instance, choose Euros instead of Dollars.</source>
-        <translation>Izberite nadometno obilko valute za izbrano celico
+        <translation>Izberite nadomestno obliko valute za izbrano celico.
 
-Namesto dolarja na primer izberite evro</translation>
+Namesto dolarja na primer izberite valuto evro.</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -11866,7 +11871,7 @@ Namesto dolarja na primer izberite evro</translation>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation>Izrežite izbor in ga odložite v odložišče</translation>
+        <translation>Izrežite izbor in ga odložite v odložišče.</translation>
     </message>
 </context>
 <context>
@@ -11884,11 +11889,11 @@ Namesto dolarja na primer izberite evro</translation>
     <name>tips.DataGroup</name>
     <message>
         <source>New group</source>
-        <translation>Nova skupina</translation>
+        <translation>Združi</translation>
     </message>
     <message>
         <source>Tie a range of cells together so that they can be collapsed or expanded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Povežite obseg celic, ki ga lahko strnete ali razširite.</translation>
     </message>
 </context>
 <context>
@@ -11917,7 +11922,7 @@ Namesto dolarja na primer izberite evro</translation>
     <name>tips.DataUngroup</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -11925,7 +11930,7 @@ Namesto dolarja na primer izberite evro</translation>
     </message>
     <message>
         <source>Ungroup a range of cells that were previously grouped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdružite obseg celic, ki so bile prej združene.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -11940,7 +11945,7 @@ Namesto dolarja na primer izberite evro</translation>
     </message>
     <message>
         <source>Show less precise values by showing fewer decimal places.</source>
-        <translation>Prikažite manj točne vrednosti tako, da pokažete manj decimalnih številk</translation>
+        <translation>Prikažite manj točne vrednosti tako, da pokažete manj decimalnih številk.</translation>
     </message>
 </context>
 <context>
@@ -11951,18 +11956,18 @@ Namesto dolarja na primer izberite evro</translation>
     </message>
     <message>
         <source>Decrease the margin between the border and the text in the cell.</source>
-        <translation>Zmanjšajte razdaljo med robom in besedilom v celici</translation>
+        <translation>Zmanjšajte razdaljo med robom in besedilom v celici.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteComment</name>
     <message>
         <source>Delete Comment</source>
-        <translation>Izbriši komentar</translation>
+        <translation>Izbriši pripombo</translation>
     </message>
     <message>
         <source>Delete the selected comment.</source>
-        <translation>Izbriši izbran komentar</translation>
+        <translation>Izbriši izbrano pripombo.</translation>
     </message>
 </context>
 <context>
@@ -11995,7 +12000,7 @@ Namesto dolarja na primer izberite evro</translation>
     <name>tips.DetailedSettings_DrawingTools</name>
     <message>
         <source>DetailedSettings DrawingTools Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrobne nastavitve vsebine orodij za risanje</translation>
     </message>
     <message>
         <source>DetailedSettings DrawingTools Title</source>
@@ -12061,7 +12066,7 @@ Namesto dolarja na primer izberite evro</translation>
     <name>tips.Direction</name>
     <message>
         <source>Choose the direction effect of the selected 3-D Shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi smer učinka izbrane 3D oblike.</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -12150,11 +12155,11 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.DynamicShape</name>
     <message>
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavite vnaprej pripravljene oblike, na primer črte, pravokotnike, simbole poteka in oblačke.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -12177,7 +12182,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12199,11 +12204,11 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EditComment</name>
     <message>
         <source>Edit Comment</source>
-        <translation>Urejanje komentarja</translation>
+        <translation>Uredi pripombo</translation>
     </message>
     <message>
         <source>Edit the selected comment.</source>
-        <translation>Uredi izbran komentar</translation>
+        <translation>Uredi izbrano pripombo.</translation>
     </message>
 </context>
 <context>
@@ -12225,7 +12230,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Select the command type, input a relevent query statement and filter the data imported.</source>
@@ -12244,7 +12249,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Edit the wrap points to change the shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredite točke oblivanja, da spremenite obliko.</translation>
     </message>
 </context>
 <context>
@@ -12255,7 +12260,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Edit the text of the selected WordArt.</source>
-        <translation>Uredi besedilo izbranega WordArt-a</translation>
+        <translation>Uredi besedilo izbranega WordArt-a.</translation>
     </message>
 </context>
 <context>
@@ -12266,7 +12271,7 @@ You can specify which columns should be checked for duplicate information.</sour
     </message>
     <message>
         <source>Use Equation Editor to insert mathematical formulas.</source>
-        <translation>Vstavite splošne matematične enačbe</translation>
+        <translation>Vstavite splošne matematične enačbe.</translation>
     </message>
 </context>
 <context>
@@ -12290,7 +12295,7 @@ Press Esc on the keyboard or click this option again to exit the erasing mode.</
     </message>
     <message>
         <source>Launch the Evaluate Formula dialog box to debug a formula by evaluating each part of the formula individually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odprite pogovorno okno »Ovrednoti formulo« in poiščite napake formule s posameznim vrednotenjem vsakega dela formule.</translation>
     </message>
 </context>
 <context>
@@ -12308,11 +12313,11 @@ Press Esc on the keyboard or click this option again to exit the erasing mode.</
     <name>tips.ExplorBackupDir</name>
     <message>
         <source>Explore File Safe</source>
-        <translation type="unfinished"></translation>
+        <translation>Razišči varno datoteko</translation>
     </message>
     <message>
         <source>View backup files and open or recover the backup files for a certain document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oglej si varnostne kopije datotek in odpri ali obnovi varnostne kopije datotek za določen dokument.</translation>
     </message>
 </context>
 <context>
@@ -12323,7 +12328,7 @@ Press Esc on the keyboard or click this option again to exit the erasing mode.</
     </message>
     <message>
         <source>View the backup record history of the current document to open, delete or restore the files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled zgodovine zapisa varnostnega kopiranja trenutnega dokumenta za odprtje, izbris ali obnovo datotek.</translation>
     </message>
 </context>
 <context>
@@ -12363,13 +12368,13 @@ Press Esc on the keyboard or click this option again to exit the erasing mode.</
     <name>tips.FillColor</name>
     <message>
         <source>Click the arrow to select a different background color.</source>
-        <translation>Klikni puščico za izbiro različnih barv za ozadja</translation>
+        <translation>Klikni puščico za izbiro različnih barv za ozadja.</translation>
     </message>
     <message>
         <source>Color the background of selected cells.
 
 Click the arrow to select a different background color.</source>
-        <translation>Pobarvajte ozadje izbranih celic</translation>
+        <translation>Pobarvajte ozadje izbranih celic.</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -12377,7 +12382,7 @@ Click the arrow to select a different background color.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12388,7 +12393,7 @@ Click the arrow to select a different background color.</source>
     <name>tips.Financial</name>
     <message>
         <source>Browse and select from a list of financial functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poiščite in izberite funkcijo s seznama finančnih funkcij.</translation>
     </message>
     <message>
         <source>Financial Function</source>
@@ -12403,7 +12408,7 @@ Click the arrow to select a different background color.</source>
 You can also replace the information with new text or formatting.</source>
         <translation>Poiščite in izberite določeno besedilo, oblikovanje ali vrsto informacij znotraj dokumenta
 
-Informacije lahko zamenjate tudi z novim besedilom ali oblikovanjem</translation>
+Informacije lahko zamenjate tudi z novim besedilom ali oblikovanjem.</translation>
     </message>
     <message>
         <source>Find/Replace</source>
@@ -12416,15 +12421,15 @@ Informacije lahko zamenjate tudi z novim besedilom ali oblikovanjem</translation
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation>Zamenjaj barvo pisave</translation>
+        <translation>Spremenite barvo besedila.</translation>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation>Pritisni puščico za izbiro različnih barv</translation>
+        <translation>Pritisni puščico za izbiro različnih barv.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -12450,7 +12455,7 @@ Click the arrow to select a different text color.</source>
     <name>tips.FontName</name>
     <message>
         <source>Change the font face.</source>
-        <translation>Spremeni obliko pisave</translation>
+        <translation>Spremeni obliko pisave.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -12461,7 +12466,7 @@ Click the arrow to select a different text color.</source>
     <name>tips.FontSize</name>
     <message>
         <source>Change the font size.</source>
-        <translation>Spremeni velikost pisave</translation>
+        <translation>Spremeni velikost pisave.</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -12498,7 +12503,7 @@ Click the arrow to select a different text color.</source>
 Double-click this button to apply the same formatting to multiple places in the document.</source>
         <translation>Kopirajte oblikovanje z enega mesta in ga uporabite na drugem
 
-Če želite uporabiti isto oblikovanje za več mest v dokumentu, dvokliknite gumb</translation>
+Če želite uporabiti isto oblikovanje za več mest v dokumentu, dvokliknite gumb.</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -12506,7 +12511,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12528,11 +12533,11 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.FreezePanes</name>
     <message>
         <source>Freeze Panes(Unfreeze Panes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamrzni podokna</translation>
     </message>
     <message>
         <source>Keep a portion of the sheet visible while the rest of the sheet scrolls. (You can cancel the lock to scroll through the whole worksheet).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohranite del lista viden, medtem ko se preostali del lista premika.</translation>
     </message>
 </context>
 <context>
@@ -12550,7 +12555,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.FuncCatDateAndTime</name>
     <message>
         <source>Browse and select from a list of date and time functions.</source>
-        <translation>Poišči funkcijo na seznamu funkcij datuma in ure ter jo izberite </translation>
+        <translation>Poišči funkcijo na seznamu funkcij datuma in ure ter jo izberite.</translation>
     </message>
     <message>
         <source>Date and Time Functions</source>
@@ -12561,7 +12566,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.FuncCatMoreFunctions</name>
     <message>
         <source>Browse and select from lists of statistical, engineering, and information functions.</source>
-        <translation>Poiščite in izberite funkcijo s seznama statističnih,inžinerskih in informacijskih funkcij</translation>
+        <translation>Poiščite in izberite funkcijo s seznama statističnih,inžinerskih in informacijskih funkcij.</translation>
     </message>
     <message>
         <source>More Functions</source>
@@ -12572,7 +12577,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.FuncCatText</name>
     <message>
         <source>Browse and select from a list of text functions.</source>
-        <translation>Poiščite in izberite funkcijo s seznama funkcij besedila</translation>
+        <translation>Poiščite in izberite funkcijo s seznama funkcij besedila.</translation>
     </message>
     <message>
         <source>Text Function</source>
@@ -12589,11 +12594,8 @@ Double-click this button to apply the same formatting to multiple places in the 
         <source>The Kingsoft Office gallery has pictures that you can use, save, or edit.
 
 The online gallery, included in the Kingsoft Office gallery, can be used when you access the Internet. My Gallery allows you to access the gallery without a connection to the Internet after you log in.</source>
-        <translation>Kingsoft Office galerija vsebuje slike, ki jih lahko shraniš ali spreminjaš</translation>
+        <translation>Kingsoft Office galerija vsebuje slike, ki jih lahko shraniš ali spreminjaš.</translation>
     </message>
-</context>
-<context>
-    <name>tips.GoalSeek</name>
 </context>
 <context>
     <name>tips.Group</name>
@@ -12603,7 +12605,7 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
     </message>
     <message>
         <source>Group objects together so that they can be treated like a single object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Predmete združite v skupino tako, da jih je mogoče obravnavati kot en predmet.</translation>
     </message>
 </context>
 <context>
@@ -12614,7 +12616,7 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation>Povečaj velikost pisave</translation>
+        <translation>Povečaj velikost pisave.</translation>
     </message>
 </context>
 <context>
@@ -12625,7 +12627,7 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
 The information in the Header or Footer will appear at the top or bottom of each printed page.</source>
         <translation>Spremeni glavo ali nogo dokumenta
 
-Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translation>
+Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani.</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -12633,7 +12635,7 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12644,7 +12646,7 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     <name>tips.HideDetail</name>
     <message>
         <source>Collapse a group of cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Strnite skupino celic.</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -12666,7 +12668,7 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     <name>tips.Hyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
-        <translation>Ustvarite povezavo do spletne strane, slike ali e-pošte</translation>
+        <translation>.Ustvarite povezavo do spletne strane, slike ali e-pošte.</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -12674,7 +12676,7 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč, pritisnite F1</translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12689,11 +12691,11 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     </message>
     <message>
         <source>Import external data into the selected worksheet.</source>
-        <translation>Uvozi datoteke v izbrani delovni list</translation>
+        <translation>Uvozi datoteke v izbrani delovni list.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12708,7 +12710,7 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     </message>
     <message>
         <source>Show more precise values by showing more decimal places.</source>
-        <translation>Prikažite bolj natančne vrednosti tako, da pokažete več decimalnih mest</translation>
+        <translation>Prikažite bolj natančne vrednosti tako, da pokažete več decimalnih mest.</translation>
     </message>
 </context>
 <context>
@@ -12719,7 +12721,7 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     </message>
     <message>
         <source>Increase the margin between the border and the text in the cell.</source>
-        <translation>Povečaj razdaljo med robom in besedilom v celici</translation>
+        <translation>Povečaj razdaljo med robom in besedilom v celici.</translation>
     </message>
 </context>
 <context>
@@ -12737,29 +12739,29 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     <name>tips.InsertComment</name>
     <message>
         <source>Add the selected content as annotation in the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodajte pripombo o izboru</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>Nov komentar</translation>
+        <translation>Nova pripomba</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFileObject</name>
     <message>
         <source>Insert Object from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi predmet iz datoteke</translation>
     </message>
     <message>
         <source>Insert selected file into the document.</source>
-        <translation>Vstavite izbrane datoteke v dokument</translation>
+        <translation>Vstavite izbrane datoteke v dokument.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFunction</name>
     <message>
         <source>Edit the formula in the current cell by choosing functions and editing the arguments.</source>
-        <translation>Uredite formulo v trenutni celici tako, da izberete funkcije in uredite argumente</translation>
+        <translation>Uredite formulo v trenutni celici tako, da izberete funkcije in uredite argumente.</translation>
     </message>
     <message>
         <source>Insert Function</source>
@@ -12774,7 +12776,7 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     </message>
     <message>
         <source>Insert an embedded object into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi vdelan dokument v dokument.</translation>
     </message>
 </context>
 <context>
@@ -12785,13 +12787,14 @@ Informacije v glavi ali nogi se bodo pojavile na vrhu ali dnu strani</translatio
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Specify where a new page will begin in the printed copy.
 
 Page breaks are inserted above and to the left of the selection.</source>
-        <translation>Označite točko na kateri se ena stran konča in začne naslednja</translation>
+        <translation>Navedite mesto, kjer se bo začela nova stran v natisnjeni kopiji.
+Prelomi strani se vstavijo nad izbor in na njegovo levo stran.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12806,11 +12809,11 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
-        <translation>Vsatvi sliko iz datoteke</translation>
+        <translation>Vsatvi sliko iz datoteke.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč, pritisnite F1</translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12829,11 +12832,11 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Insert cells, rows or columns into the worksheet.</source>
-        <translation>Vstavite celice,vrstice ali stolpce v delovni list</translation>
+        <translation>Vstavite celice,vrstice ali stolpce v delovni list.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč, pritisnite F1</translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -12848,29 +12851,29 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Insert characters that are not on your keyboard, such as copyright symbols, trademark symbols, paragraph marks, and Unicode characters.</source>
-        <translation>Vstavite simbole ki niso na tipkovnici. Naprimer simbole za avtorske pravice, simbole za blagovne znamke</translation>
+        <translation>Vstavite simbole ki niso na tipkovnici. Naprimer simbole za avtorske pravice, simbole za blagovne znamke.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertTextboxHorizontal</name>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation>Nariši vodoravno polje z besedilom</translation>
+        <translation>Polje z besedilom</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation>Vstavite polje z besedilo v dokument</translation>
+        <translation>Vstavite polje z besedilom, ki ga lahko postavite kamor koli na strani.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation>V dokument vstavite dekorativno besedilo</translation>
+        <translation>V dokument vstavite dekorativno besedilo.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12889,7 +12892,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation>Označite izbrano besedilo kot poševno</translation>
+        <translation>Označite izbrano besedilo kot poševno.</translation>
     </message>
 </context>
 <context>
@@ -12900,7 +12903,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Your feedback will help us improve our products.</source>
-        <translation>Vaše povratne informacije nam bodo pomagali pri nadgradnji našega izdelka</translation>
+        <translation>Vaše povratne informacije nam bodo pomagali pri nadgradnji našega izdelka.</translation>
     </message>
 </context>
 <context>
@@ -12911,7 +12914,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Newbie Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Navodila za začetnike</translation>
     </message>
 </context>
 <context>
@@ -13005,7 +13008,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.LeftBorder</name>
     <message>
         <source>Add a left border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Left Border</source>
@@ -13020,18 +13023,18 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Show or Hide the chart legend.</source>
-        <translation>Prikaži ali skrij legendo</translation>
+        <translation>Prikaži ali skrij legendo.</translation>
     </message>
 </context>
 <context>
     <name>tips.Lighting</name>
     <message>
         <source>Lighting Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot osvetlitve</translation>
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrani 3D obliki nastavi smer osvetlitve, moč osvetlitve, vključno s svetlobo, navadno osvetlitvijo in zasenčenostjo.</translation>
     </message>
 </context>
 <context>
@@ -13060,7 +13063,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.Logical</name>
     <message>
         <source>Browse and select from a list of logical functions.</source>
-        <translation>Poiščite in izberite funkcijo s seznama logičnih funkcij</translation>
+        <translation>Poiščite in izberite funkcijo s seznama logičnih funkcij.</translation>
     </message>
     <message>
         <source>Logical Function</source>
@@ -13071,11 +13074,11 @@ Page breaks are inserted above and to the left of the selection.</source>
     <name>tips.LookupAndReference</name>
     <message>
         <source>Browse and select from a list of lookup and reference functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poiščite in izberite funkcijo s seznama funkcij za iskanje in sklicevanje.</translation>
     </message>
     <message>
         <source>Lookup and Reference Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Iskanje in sklicevanje</translation>
     </message>
 </context>
 <context>
@@ -13097,11 +13100,11 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite velikosti robov za celoten dokument ali trenutni odsek.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13116,14 +13119,14 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez zapiranja datoteke, lahko ročno varnostno kopiramo trenutno datoteko v varno datoteko in dodamo opombe v datoteko varnostne kopije.</translation>
     </message>
 </context>
 <context>
     <name>tips.MathAndTrig</name>
     <message>
         <source>Browse and select from a list of math and trigonometry functions.</source>
-        <translation>Poiščite in izberite funkcijo s seznama matematičnih in trigonomeričnih funkcij</translation>
+        <translation>Poiščite in izberite funkcijo s seznama matematičnih in trigonomeričnih funkcij.</translation>
     </message>
     <message>
         <source>Math and Trigonometry Function</source>
@@ -13138,7 +13141,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     </message>
     <message>
         <source>Returns the largest value in a set of values.</source>
-        <translation>Vrne največjo vrednost</translation>
+        <translation>Vrne največjo vrednost.</translation>
     </message>
 </context>
 <context>
@@ -13147,17 +13150,17 @@ Page breaks are inserted above and to the left of the selection.</source>
         <source>Joins the selected cells into one larger cell and centers the contents in the new cell.
 
 This is often used to create labels that span multiple columns.</source>
-        <translation>Združi izbrano celico v eno večjo celico in postavi vsebino v sredino celice
+        <translation>Združi izbrane celice v eno večjo celico in postavi vsebino na sredino nove celice.
 
-To je pogosto uporabljeno za ustvarjanje oznak, ki obsegajo več stolpcev</translation>
+To je pogosto uporabljeno za ustvarjanje oznak, ki obsegajo več stolpcev.</translation>
     </message>
     <message>
         <source>Merge&amp;Center</source>
-        <translation>Spoji&amp;sredina</translation>
+        <translation>Združi in na sredino</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13168,11 +13171,11 @@ To je pogosto uporabljeno za ustvarjanje oznak, ki obsegajo več stolpcev</trans
     <name>tips.MergeColumns</name>
     <message>
         <source>Combine Across Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji prek</translation>
     </message>
     <message>
         <source>Select and merge cells across one or multiple rows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spojite vsako vrstico izbranih celic v eno večjo celico.</translation>
     </message>
 </context>
 <context>
@@ -13183,7 +13186,7 @@ To je pogosto uporabljeno za ustvarjanje oznak, ki obsegajo več stolpcev</trans
     </message>
     <message>
         <source>Merge multiple cells into one cell.</source>
-        <translation>Spoji več celic v eno</translation>
+        <translation>Združite izbrane celice v eno celico.</translation>
     </message>
 </context>
 <context>
@@ -13194,7 +13197,7 @@ To je pogosto uporabljeno za ustvarjanje oznak, ki obsegajo več stolpcev</trans
     </message>
     <message>
         <source>Returns the smallest number in a set of values.</source>
-        <translation>Vrne najmanjšo vrednost</translation>
+        <translation>Vrne najmanjšo vrednost.</translation>
     </message>
 </context>
 <context>
@@ -13225,11 +13228,13 @@ To je pogosto uporabljeno za ustvarjanje oznak, ki obsegajo več stolpcev</trans
         <source>Automatically generate names from the selected cells.
 
 Many people choose to use the text in the top row or the leftmost column of a selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno generirajte imena iz izbranih celic.
+
+Mnogi uporabljajo besedilo v zgornji vrstici ali v skrajnem levem stolpcu izbora.</translation>
     </message>
     <message>
         <source>Create from Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari iz izbora</translation>
     </message>
 </context>
 <context>
@@ -13248,7 +13253,7 @@ Names can be used in formulas to make them easier to understand.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13263,7 +13268,11 @@ Names can be used in formulas to make them easier to understand.</source>
 Names can be used in formulas as substitutes for cell references.
 
 For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvarite, uredite, izbrišite in poiščite vsa imena, ki so uporabljena v delovnem zvezku.
+
+Imena lahko v formulah uporabite kot nadomestke za sklice na celice.
+
+Na primer:=SUM(MojeProdaje) namesto =SUM(C20:C30).</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -13271,7 +13280,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13282,15 +13291,15 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     <name>tips.NamePaste</name>
     <message>
         <source>Paste Name</source>
-        <translation>Prilepi ime</translation>
+        <translation>Uporabi v formuli</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Select a name that is being used in the current workbook and paste it into the current formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite ime, ki je uporabljeno v delovnem zvezku, in ga vstavite v trenutno formulo.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13305,7 +13314,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odprite novo okno, ki vsebuje pogled trenutnega dokumenta.</translation>
     </message>
 </context>
 <context>
@@ -13316,7 +13325,7 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>Remove cell borders.</source>
-        <translation>Odstrani vse obrobe</translation>
+        <translation>Odstrani vse obrobe.</translation>
     </message>
 </context>
 <context>
@@ -13327,51 +13336,51 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     </message>
     <message>
         <source>View the document in Normal View.</source>
-        <translation>Ogled dokumenta v navadne pogledu</translation>
+        <translation>Ogled dokumenta v navadne pogledu.</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowDown</name>
     <message>
         <source>Move the shadow of the selected object down.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senčenje izbranega predmeta premaknite navzdol.</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni senco navzdol</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowLeft</name>
     <message>
         <source>Move the shadow of the selected object to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senčenje izbranega predmeta premaknite na levo.</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni senco na levo</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowRight</name>
     <message>
         <source>Move the shadow of the selected object to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senčenje izbranega predmeta premaknite na desno.</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni senco na desno</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowUp</name>
     <message>
         <source>Move the shadow of the selected object up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senčenje izbranega predmeta premaknite navzgor.</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni senco navzgor</translation>
     </message>
 </context>
 <context>
@@ -13514,7 +13523,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     <name>tips.PTSubtotals</name>
     <message>
         <source>Show or hide subtotals.</source>
-        <translation>Prikaži ali skij delne vsote</translation>
+        <translation>Prikaži ali skij delne vsote.</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -13540,7 +13549,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
     <message>
         <source>View a preview of where pages will break when this document is printed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oglejte si predogled prelomov strani, ko bo dokument natisnjen.</translation>
     </message>
 </context>
 <context>
@@ -13562,11 +13571,11 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklopite med pokončno in ležečo usmerjetnost strani.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13581,7 +13590,7 @@ The field list allows you to add and remove fields from your PivotTable report.<
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation>Prikaži okno za pripravo strani</translation>
+        <translation>Prikaži okno za pripravo strani.</translation>
     </message>
 </context>
 <context>
@@ -13590,7 +13599,9 @@ The field list allows you to add and remove fields from your PivotTable report.<
         <source>Choose a paper size for the current section.
 
 To apply a specific paper size to all sections in the document, click to customize paper size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite velikost papirja za trenutni odsek.
+
+Če želite uporabiti določeno velikost papirja za vse odseke v dokumentu, kliknite »Več velikosti papirja«.</translation>
     </message>
     <message>
         <source>Page Size</source>
@@ -13612,7 +13623,7 @@ To apply a specific paper size to all sections in the document, click to customi
     <name>tips.PercentStyle</name>
     <message>
         <source>Display the value of the cell as a percentage.</source>
-        <translation>Prikažite vrednost celice kot odstotek</translation>
+        <translation>Prikažite vrednost celice kot odstotek.</translation>
     </message>
     <message>
         <source>Percent Style</source>
@@ -13627,7 +13638,7 @@ To apply a specific paper size to all sections in the document, click to customi
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečajte ali zmanjšajte kontrast in svetlost izbrane slike.</translation>
     </message>
 </context>
 <context>
@@ -13638,14 +13649,14 @@ To apply a specific paper size to all sections in the document, click to customi
     </message>
     <message>
         <source>Recolor the picture to give it a black and white, washout or transparent color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prebarvajte sliko in ji dajte črno-belo, izprano ali prosojno barvo.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureCrop</name>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation>Obreži sliko, da odstraniš vse nezaželjene dele</translation>
+        <translation>Obreži sliko, da odstraniš vse nezaželjene dele.</translation>
     </message>
     <message>
         <source>Picture Crop</source>
@@ -13656,13 +13667,15 @@ To apply a specific paper size to all sections in the document, click to customi
     <name>tips.PictureFillColor</name>
     <message>
         <source>Click the arrow to select different fill modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite izbrati druge načine polnila, kliknite puščico.</translation>
     </message>
     <message>
         <source>Fill the selected object with a color, gradient, pattern and picture.
 
 Click the arrow to select different fill mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapolnite izbrani predmet z barvo, prelivom, teksturo in sliko.
+
+Če želite izbrati druge vrste polnil, kliknite puščico.</translation>
     </message>
     <message>
         <source>Picture Fill</source>
@@ -13673,7 +13686,7 @@ Click the arrow to select different fill mode.</source>
     <name>tips.PictureLineColor</name>
     <message>
         <source>Click the arrow to select detailed settings for the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite izbrati podrobne nastavitve za izbrani predmet, kliknite puščico.</translation>
     </message>
     <message>
         <source>Picture Outline</source>
@@ -13683,7 +13696,9 @@ Click the arrow to select different fill mode.</source>
         <source>Set picture outline color, outline width and outline style for selected object.
 
 Click the arrow to select detailed settings for the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi barvo orisa slike, širino orisa in slog orisa za izbrani predmet.
+
+Če želite izbrati podrobne nastavitve za izbrani predmet, kliknite puščico.</translation>
     </message>
 </context>
 <context>
@@ -13701,7 +13716,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PictureSize</name>
     <message>
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi velikost, stopinje vrtenja in merilo povečave za izbrano obliko.</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -13727,7 +13742,7 @@ Click the arrow to select detailed settings for the selected object.</source>
 PivotTables make it easy to arrange and summarize complicated data and drill down on details.</source>
         <translation>Kliknite tukaj če želite povzeti podatke z uporabo vrtilne tabele
 
-Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih podatkov</translation>
+Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih podatkov.</translation>
     </message>
     <message>
         <source>Insert PivotTable</source>
@@ -13735,7 +13750,7 @@ Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih pod
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13750,7 +13765,7 @@ Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih pod
     </message>
     <message>
         <source>Delete the currently selected PivotTable.</source>
-        <translation>Izbriši izbrano vrtilno tabelo</translation>
+        <translation>Izbriši izbrano vrtilno tabelo.</translation>
     </message>
 </context>
 <context>
@@ -13794,7 +13809,7 @@ Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih pod
     </message>
     <message>
         <source>Set worksheet pages to Portrait.</source>
-        <translation>Postavite delovni list pokončno</translation>
+        <translation>Postavite delovni list pokončno.</translation>
     </message>
 </context>
 <context>
@@ -13812,11 +13827,11 @@ Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih pod
     <name>tips.Print</name>
     <message>
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi podrobne nastavitve za tiskanje, na primer tiskalnik, obseg tiskanja, kopije tiskanja, strani na list in povečava.</translation>
     </message>
     <message>
         <source>Click here to set details of printing, or use default settings to print directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite tukaj, če želite nastaviti podrobnosti tiskanja ali pa uporabite privzete nastavitve za neposredno tiskanje.</translation>
     </message>
     <message>
         <source>Print</source>
@@ -13827,7 +13842,7 @@ Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih pod
     <name>tips.PrintArea</name>
     <message>
         <source>Mark a specific area of sheet for printing.</source>
-        <translation>Označite določeno območje tiskanja na listu</translation>
+        <translation>Označite določeno območje tiskanja na listu.</translation>
     </message>
     <message>
         <source>Print Area</source>
@@ -13842,7 +13857,7 @@ Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih pod
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošljite dokument neposredno na privzeti tiskalnik, brez narejenih sprememb.</translation>
     </message>
 </context>
 <context>
@@ -13853,7 +13868,7 @@ Vrtilne tabele omogočajo preprostejše razporejanje in povzemanje zahtevnih pod
     </message>
     <message>
         <source>Print the gridlines between the columns and the rows in the worksheet.</source>
-        <translation>Natisni mrežne črte med stolpci in vrsticami v delovnem listu</translation>
+        <translation>Natisni mrežne črte med stolpci in vrsticami v delovnem listu.</translation>
     </message>
 </context>
 <context>
@@ -13879,14 +13894,14 @@ Column headings are the letters or numbers that appear above the columns on a sh
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument si oglejte tako, kot bo prikazan na tiskani strani.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintNormalView</name>
     <message>
         <source>Exit Print Preview and then enter the normal view.</source>
-        <translation>Zapusti predogled tiskanja in vstopi v normalen pogled</translation>
+        <translation>Zapusti predogled tiskanja in vstopi v normalen pogled.</translation>
     </message>
     <message>
         <source>Normal View</source>
@@ -13897,7 +13912,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-        <translation>Naredi spremembe na strani pred tiskanjem</translation>
+        <translation>Naredi spremembe na strani pred tiskanjem.</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -13912,7 +13927,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Specify the distance between the content of the worksheet and the edge of the printed page.</source>
@@ -13927,7 +13942,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Specify the zoom level of the current document.</source>
-        <translation>Povečaj določen del dokumenta</translation>
+        <translation>Povečaj določen del dokumenta.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -13942,14 +13957,14 @@ Column headings are the letters or numbers that appear above the columns on a sh
     </message>
     <message>
         <source>Specify rows and columns to repeat on each printed page.</source>
-        <translation>Navedite vrstice in stolpce ki se naj ponavljajo na vsaki strani</translation>
+        <translation>Navedite vrstice in stolpce ki se naj ponavljajo na vsaki strani.</translation>
     </message>
 </context>
 <context>
     <name>tips.ProtectAndShare</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
@@ -13959,7 +13974,9 @@ Column headings are the letters or numbers that appear above the columns on a sh
         <source>Share the workbook and protect it with a password at the same time.
 
 The password will prevent others from turning off change tracking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dajte delovni zvezek v skupno rabo in ga hkrati zaščitite z geslom.
+
+Geslo bo drugim preprečilo, da bi izklopili sledenje spremembam.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -13970,7 +13987,7 @@ The password will prevent others from turning off change tracking.</source>
     <name>tips.ProtectSheet</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Prevent unwanted changes to the data in a sheet by specifying what information can be changed.
@@ -13982,7 +13999,7 @@ You can specify a password that can be entered to unprotect the sheet and allow 
 
 Lahko na primer preprečite urejanje zaklenjenih celic ali spreminajnje oblikovanje dokumenta
 
-Lahko določite geslo, ki ga je treba vnesti, da odstranite zaščito lista in omogočite spremembe</translation>
+Lahko določite geslo, ki ga je treba vnesti, da odstranite zaščito lista in omogočite spremembe.</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -14019,13 +14036,15 @@ Lahko določite geslo, ki ga je treba vnesti, da odstranite zaščito lista in o
     <name>tips.ReapplyFilter</name>
     <message>
         <source>Reapply Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi znova</translation>
     </message>
     <message>
         <source>Reapply the filter and sort in the current range.
 
 New or modified data in the column won&apos;t be filtered or sorted until you click Reapply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Znova uporabite filter in razvrstitev v trenutnem obsegu.
+
+Novi ali spremenjeni podatki v stolpcu niso filtrirani ali razvrščeni, dokler ne kliknete »Uporabi znova«.</translation>
     </message>
 </context>
 <context>
@@ -14045,11 +14064,11 @@ This is only necessary if automatic calculation has been turned off.</source>
     <name>tips.RecentLineWrap</name>
     <message>
         <source>Make all content visible within a cell by displaying it on multiple lines.</source>
-        <translation>Naredite vso vsebino vidno tako, da jo prikažete v več vrsticah</translation>
+        <translation>Naredite vso vsebino znotraj celice vidno tako, da jo prikažete v več vrsticah.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -14064,7 +14083,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <name>tips.RecenttlyUsed</name>
     <message>
         <source>Browse and select from a list of recently used functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poiščite in izberite funkcijo s seznama nedavno uporabljenih funkcij.</translation>
     </message>
     <message>
         <source>Recently Used Functions</source>
@@ -14079,7 +14098,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Record List</source>
@@ -14098,7 +14117,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Update all the information in the workbook that is coming from a data source.</source>
-        <translation>Osveži vse podatke v delovnem listu, ki so datotečnega izvora</translation>
+        <translation>Osveži vse podatke v delovnem listu, ki so datotečnega izvora.</translation>
     </message>
 </context>
 <context>
@@ -14109,7 +14128,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Update all the information in the workbook that is coming from a data source.</source>
-        <translation>Osveži vse podatke v delovnem listu, ki so datotečnega izvora</translation>
+        <translation>Osveži vse podatke v delovnem listu, ki so datotečnega izvora.</translation>
     </message>
 </context>
 <context>
@@ -14120,7 +14139,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -14135,7 +14154,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <name>tips.RightBorder</name>
     <message>
         <source>Add a right border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -14150,7 +14169,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasukajte ali zrcalite izbrani predmet.</translation>
     </message>
 </context>
 <context>
@@ -14168,7 +14187,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <name>tips.RunMacro</name>
     <message>
         <source>Click here to record a macro or to access other macro options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite tukaj, če želite posneti makro ali pridobiti dostop do drugih možnosti makrov.</translation>
     </message>
     <message>
         <source>View Macro</source>
@@ -14176,25 +14195,25 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation>Ogled seznama makrov,na katerem lahko makre pradvajate, ustvarite ali izbrišete</translation>
+        <translation>Ogled seznama makrov,na katerem lahko makre pradvajate, ustvarite ali izbrišete.</translation>
     </message>
 </context>
 <context>
     <name>tips.SameLetterHeights</name>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Enakomerna višina</translation>
     </message>
     <message>
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naredi vse črke izbranega WordArta točno enake višine.</translation>
     </message>
 </context>
 <context>
     <name>tips.Security</name>
     <message>
         <source>Customize the macro security settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodite varnostne nastavitve za makre.</translation>
     </message>
     <message>
         <source>Macro Security</source>
@@ -14209,11 +14228,11 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošljite izbrani predmet v ozadje, tako da ga zakrivajo predmeti, ki so pred njim.</translation>
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Premaknite izbrani predmet eno raven nazaj ali za vse predmete.</translation>
     </message>
 </context>
 <context>
@@ -14242,7 +14261,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <name>tips.ShadowColor</name>
     <message>
         <source>Click the arrow to select different shadow colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite izbrati drugo barvo senčenja, kliknite puščico.</translation>
     </message>
     <message>
         <source>Set the shadow color of the selected object.
@@ -14263,14 +14282,14 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
-        <translation>Vklopi ali izklopi sence</translation>
+        <translation>Vklopi ali izklopi sence.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowPalette</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbranemu predmetu dodajte vizualni učinek.</translation>
     </message>
     <message>
         <source>Shadow Setting</source>
@@ -14302,20 +14321,22 @@ Click the arrow to select different ways of filling.</source>
     </message>
     <message>
         <source>Specify the color, width, and line style for the outline of the selected shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Določite barvo, širino in slog črte za izbrano obliko.</translation>
     </message>
     <message>
         <source>Specify the color, width, and line style for the outline of the selected shape.
 
 Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Določite barvo, širino in slog črte za izbrano obliko.
+
+Če želite izbrati več slogov orisa, kliknite puščico.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeSize</name>
     <message>
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi velikost, stopinje vrtenja in povečavo za izbrano obliko.</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -14345,7 +14366,7 @@ Workbooks containing tables cannot be shared.</source>
     </message>
     <message>
         <source>Show all items of the active field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširite strnjeno skupino celic.</translation>
     </message>
 </context>
 <context>
@@ -14356,7 +14377,7 @@ Workbooks containing tables cannot be shared.</source>
     </message>
     <message>
         <source>Decrease the font size.</source>
-        <translation>Zmanjšaj velikost pisave</translation>
+        <translation>Zmanjšaj velikost pisave.</translation>
     </message>
 </context>
 <context>
@@ -14365,7 +14386,7 @@ Workbooks containing tables cannot be shared.</source>
         <source>Arrange data so that it is easier to analyze.
 
 You can sort the selected data in ascending or descending order.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite razvrstiti podatke na podlagi več meril hkrati, odprite pogovorno okno »Razvrščanje«.</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -14380,7 +14401,7 @@ You can sort the selected data in ascending or descending order.</source>
     </message>
     <message>
         <source>Sort the selection so that the lowest values are at the top of the column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrstite izbor tako, da so na vrhu stolpca najnižje vrednosti.</translation>
     </message>
 </context>
 <context>
@@ -14391,7 +14412,7 @@ You can sort the selected data in ascending or descending order.</source>
     </message>
     <message>
         <source>Sort the selection so that the highest values are at the top of the column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrstite izbor tako, da so na vrhu stolpca najvišje vrednosti.</translation>
     </message>
 </context>
 <context>
@@ -14413,7 +14434,7 @@ You can sort the selected data in ascending or descending order.</source>
     </message>
     <message>
         <source>Check the spelling of text.</source>
-        <translation>Preverite črkovanje v besedilu</translation>
+        <translation>Preverite črkovanje v besedilu.</translation>
     </message>
 </context>
 <context>
@@ -14426,7 +14447,9 @@ You can sort the selected data in ascending or descending order.</source>
         <source>Split the window into multiple resizable panes containing views of your worksheet.
 
 You can use this feature to view multiple distant panes of your worksheet at once.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelite okno v več podoken spremenljive velikosti, ki vsebujejo poglede preglednice.
+
+Funkcijo lahko uporabite za ogled več oddaljenih delov preglednice naenkrat.</translation>
     </message>
 </context>
 <context>
@@ -14437,14 +14460,14 @@ You can use this feature to view multiple distant panes of your worksheet at onc
     </message>
     <message>
         <source>Stop the current workbook from auto saving.</source>
-        <translation>Ustavi samodejno shranjevanje tega delovnega zvezka</translation>
+        <translation>Ustavi samodejno shranjevanje tega delovnega zvezka.</translation>
     </message>
 </context>
 <context>
     <name>tips.Subtotals</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Subtotal</source>
@@ -14452,7 +14475,7 @@ You can use this feature to view multiple distant panes of your worksheet at onc
     </message>
     <message>
         <source>Total several rows of related data together by automatically inserting subtotals and totals for the selected cells.</source>
-        <translation>Seštejte več vrstic s sorodnih podatkov skupaj, s samodejnim vstavljanjem delnih vsot in vsot za izbrane celice</translation>
+        <translation>Seštejte več vrstic s sorodnih podatkov skupaj, s samodejnim vstavljanjem delnih vsot in vsot za izbrane celice.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -14467,14 +14490,14 @@ You can use this feature to view multiple distant panes of your worksheet at onc
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-        <translation>Zamenjaj trenutno okno z drugim odprtim oknom</translation>
+        <translation>Preklopite na drugo trenutno odprto okno.</translation>
     </message>
 </context>
 <context>
     <name>tips.TaskWindow</name>
     <message>
         <source>Hide or Unhide the task pane of the current document.</source>
-        <translation>Prikaži ali skrij podokno opravil trenutnega dokumenta </translation>
+        <translation>Prikaži ali skrij podokno opravil trenutnega dokumenta.</translation>
     </message>
     <message>
         <source>Task Pane</source>
@@ -14489,11 +14512,11 @@ You can use this feature to view multiple distant panes of your worksheet at onc
 Click the arrow to select a different text color.</source>
         <translation>Zamenjaj barvo pisave
 
-Klikni puščico za izbiro različnih barv</translation>
+Klikni puščico za izbiro različnih barv.</translation>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation>Klikni puščico za izibiro različnih barv</translation>
+        <translation>Klikni puščico za izibiro različnih barv.</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -14523,7 +14546,11 @@ Click the currently selected text orientation again to reset the text back to no
 For example, you can separate a column of full names into separate first and last name columns.
 
 In Writer, use this feature to convert the selected text into a table, splitting the text into columns at each comma, period, or other character you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ločite vsebino ene Spreadsheets celice v ločene stolpce.
+
+Stolpec celotnih imen lahko ločite v stolpca za ime in priimek.
+
+V Writer uporabite to funkcijo, če želite pretvoriti izbrano besedilo v tabelo, razdeliti besedilo v stolpce ob vsaki vejici, piki ali drugem znaku, ki ste ga navedli.</translation>
     </message>
     <message>
         <source>Text to Columns</source>
@@ -14534,7 +14561,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.ThickBottomBorder</name>
     <message>
         <source>Add a thick bottom border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
@@ -14545,7 +14572,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.ThickBoxBorder</name>
     <message>
         <source>Add a thick box border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
@@ -14556,7 +14583,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TopAndBottomBorder</name>
     <message>
         <source>Add a top and bottom border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
@@ -14567,7 +14594,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TopAndDloubleBottomBorder</name>
     <message>
         <source>Add a top and double bottom border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
@@ -14578,7 +14605,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TopAndThickBottomBorder</name>
     <message>
         <source>Add a top and thick bottom border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Thick Top and Bottom Border</source>
@@ -14589,7 +14616,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TopBorder</name>
     <message>
         <source>Add a top border to the selected cell(s).</source>
-        <translation>Uporabite obrobe v trenutno izbranih celicah</translation>
+        <translation>Uporabite obrobe v trenutno izbranih celicah.</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -14600,7 +14627,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TrackChanges</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -14608,7 +14635,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>Track all changes made to the document, including insertions, deletions, and formatting changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledite vsem spremembam v dokumentu, vključno z vstavljanjem, brisanjem in spremembami oblikovanja.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -14645,40 +14672,40 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>Underline the selected text.</source>
-        <translation>Podžrtaj izbrano besedilo</translation>
+        <translation>Podčrtaj izbrano besedilo.</translation>
     </message>
 </context>
 <context>
     <name>tips.VAlignBottom</name>
     <message>
         <source>Align text to the bottom of the cell.</source>
-        <translation>Poravnaj besedilo na dno celice</translation>
+        <translation>Besedilo poravnajte na dno celice.</translation>
     </message>
     <message>
         <source>Bottom Align</source>
-        <translation>Poravnaj na dno</translation>
+        <translation>Poravnava spodaj</translation>
     </message>
 </context>
 <context>
     <name>tips.VAlignCenter</name>
     <message>
         <source>Align text so that it is centered between the top and bottom of the cell.</source>
-        <translation>Poravnaj besedilo na sredino celice</translation>
+        <translation>Besedilo poravnajte tako, da je v sredini med zgornjim in spodnjim delom celice.</translation>
     </message>
     <message>
         <source>Middle Align</source>
-        <translation>Poravnaj na sredino</translation>
+        <translation>Poravnava na sredino</translation>
     </message>
 </context>
 <context>
     <name>tips.VAlignTop</name>
     <message>
         <source>Align text to the top of the cell.</source>
-        <translation>Poravnaj besedilo na vrh celice</translation>
+        <translation>Besedilo poravnajte na vrh celice.</translation>
     </message>
     <message>
         <source>Top Align</source>
-        <translation>Poravnaj na vrh</translation>
+        <translation>Poravnava zgoraj</translation>
     </message>
 </context>
 <context>
@@ -14689,7 +14716,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Če želite pomoč,pritisnite F1</translation>
+        <translation>Če želite pomoč,pritisnite F1.</translation>
     </message>
     <message>
         <source>Prevent invalid data from being entered into a cell
@@ -14697,7 +14724,11 @@ In Writer, use this feature to convert the selected text into a table, splitting
 For example, you could reject invalid data or numbers greater than 1000.
 
 You can also force input to be chosen from a dropdown list of values you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preprečite vnos neveljavnih podatkov v celico.
+
+Lahko zavrnete na primer neveljavne datume ali števila, ki so večja od 1000.
+
+Lahko tudi vsilite, da je vnos izbran iz spustnega seznama določenih vrednosti.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -14708,7 +14739,7 @@ You can also force input to be chosen from a dropdown list of values you specify
     <name>tips.VerticalText</name>
     <message>
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
-        <translation>Obrnite besedilo navpično</translation>
+        <translation>Obrnite besedilo navpično.</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -14719,7 +14750,7 @@ You can also force input to be chosen from a dropdown list of values you specify
     <name>tips.VisualBasicEditor</name>
     <message>
         <source>Launch Visual Basic Editor, and edit Macros.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaženite Visual Basic Editor in uredite makre.</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -14730,11 +14761,11 @@ You can also force input to be chosen from a dropdown list of values you specify
     <name>tips.What-If Analysis</name>
     <message>
         <source>LinkText</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo povezave</translation>
     </message>
     <message>
         <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
+        <translation>URL povezave</translation>
     </message>
     <message>
         <source>What-If Analysis Content</source>
@@ -14742,18 +14773,18 @@ You can also force input to be chosen from a dropdown list of values you specify
     </message>
     <message>
         <source>What-If Analysis Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Analiza »kaj če«</translation>
     </message>
 </context>
 <context>
     <name>tips.WindowReset</name>
     <message>
         <source>Tile all open program windows side-by-side on the screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razpostavite vsa okna odprtih programov vzporedno na zaslonu.</translation>
     </message>
     <message>
         <source>Window Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Razporedi vse</translation>
     </message>
 </context>
 <context>
@@ -14771,7 +14802,7 @@ You can also force input to be chosen from a dropdown list of values you specify
     <name>tips.WordArtFillColor</name>
     <message>
         <source>Click the arrow to fill the WordArt in different ways.</source>
-        <translation>Pritisnite puščico za prikaz več polnil</translation>
+        <translation>Pritisnite puščico za prikaz več polnil.</translation>
     </message>
     <message>
         <source>Fill the selected WordArt with a solid color, gradient, texture and picture.
@@ -14779,7 +14810,7 @@ You can also force input to be chosen from a dropdown list of values you specify
 Click the arrow to fill the WordArt in different ways.</source>
         <translation>Zapolnite besedilo z eno barvo, pregajanjem, sliko in teksturo
 
-Pritisnite puščico za prikaz več polnil</translation>
+Pritisnite puščico za prikaz več polnil.</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
@@ -14790,7 +14821,7 @@ Pritisnite puščico za prikaz več polnil</translation>
     <name>tips.WordArtGallery</name>
     <message>
         <source>Change the style of the selected WordArt.</source>
-        <translation>Spremeni slog izbranega besedila</translation>
+        <translation>Spremeni slog izbranega besedila.</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -14801,7 +14832,7 @@ Pritisnite puščico za prikaz več polnil</translation>
     <name>tips.WordArtLineColor</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation>Pritisnite puščico za izbiro več orisov</translation>
+        <translation>Pritisnite puščico za izbiro več orisov.</translation>
     </message>
     <message>
         <source>Specify the color, width and line style for the outline of the selected WordArt.
@@ -14809,7 +14840,7 @@ Pritisnite puščico za prikaz več polnil</translation>
 Click the arrow to choose more outline styles.</source>
         <translation>Določite bravo, širino in slog črte za oris besedila
 
-Pritisnite puščico za izbiro več orisov </translation>
+Pritisnite puščico za izbiro več orisov.</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
@@ -14820,7 +14851,7 @@ Pritisnite puščico za izbiro več orisov </translation>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>Change the shape style of the selected WordArt.</source>
-        <translation>Zamenjaj obliko izbranega besedila</translation>
+        <translation>Zamenjaj obliko izbranega besedila.</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -14831,7 +14862,7 @@ Pritisnite puščico za izbiro več orisov </translation>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation>Nastavi velikost izbranega besedila</translation>
+        <translation>Nastavi velikost izbranega besedila.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
@@ -14842,7 +14873,7 @@ Pritisnite puščico za izbiro več orisov </translation>
     <name>tips.WorkSheet</name>
     <message>
         <source>Click here to modify the worksheet. You can insert or delete the worksheet, change the worksheet name, or change the color of the worksheet tab.</source>
-        <translation>Klikni tukaj za posodobitev delovnega lista. Lahko vstaviš ali izbrišeš delovni list; Spremeniš ime delovnega lista ali spremeniš barvo delovnega lista</translation>
+        <translation>Klikni tukaj za posodobitev delovnega lista. Lahko vstaviš ali izbrišeš delovni list; Spremeniš ime delovnega lista ali spremeniš barvo delovnega lista.</translation>
     </message>
     <message>
         <source>Worksheet</source>
@@ -14853,11 +14884,11 @@ Pritisnite puščico za izbiro več orisov </translation>
     <name>tips.WorkSpace_Backup</name>
     <message>
         <source>WorkSpace_Backup Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsebina varnostne kopije delovnega prostora</translation>
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov varnostne kopije delovnega prostora</translation>
     </message>
 </context>
 <context>
@@ -14868,7 +14899,7 @@ Pritisnite puščico za izbiro več orisov </translation>
 In most cases, you can also use the zoom controls in the status bar at the bottom of the window to quickly zoom the document.</source>
         <translation>Če želite določiti raven povečave dokumenta, odprite pogovorno okno &quot;povečava&quot;
 
-Če želite hitro povečati dokument, lahko v večini primerov uporabite tudi kontrolnike povečave v vrstici stanja v spodnjem delu okna</translation>
+Če želite hitro povečati dokument, lahko v večini primerov uporabite tudi kontrolnike povečave v vrstici stanja v spodnjem delu okna.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -14883,29 +14914,29 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Quickly format a range of cells and convert it to a Table by choosing a pre-defined Table Style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenite višino vrstice ali širino stolpca, organizirajte liste, zaščitite ali skrijte celice.</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_AutoSum</name>
     <message>
         <source>Click here to display the result of a simple calculation, such as Average or Maximum value, after the selected cells.</source>
-        <translation>Klikni tukaj za prikaz rezultata izračuna;Kot je povprečje ali največja vrednost; po izbiri celic</translation>
+        <translation>Kliknite tukaj, če želite prikazati rezultat preprostega izračuna, na primer povprečno ali največjo vrednost, za izbranimi celicami.</translation>
     </message>
     <message>
         <source>Display the sum of the selected cells directly after the selected cells.</source>
-        <translation>Prikaže vsoto izbranih celic takoj po izbiri celice</translation>
+        <translation>Prikaže vsoto izbranih celic neposredno za izbranimi celicami.</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation>Vsota</translation>
+        <translation>Sum</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation>Če želite več možnosti na primer samo lepljenje ali samo oblikovanje kliknite tukaj</translation>
+        <translation>Če želite več možnosti na primer samo lepljenje ali samo oblikovanje kliknite tukaj.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -14913,7 +14944,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation>Prilepi v odložišče</translation>
+        <translation>Prilepi v odložišče.</translation>
     </message>
 </context>
 <context>
@@ -14964,7 +14995,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava uporabnika za KOS</translation>
     </message>
     <message>
         <source>Login</source>

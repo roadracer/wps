@@ -70,7 +70,7 @@
     </message>
     <message>
         <source> </source>
-        <translation type="unfinished"></translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
@@ -187,7 +187,7 @@
     </message>
     <message>
         <source>!Abnormal formula end</source>
-        <translation type="unfinished">!Nenormalen konec formule</translation>
+        <translation>!Nenormalen konec formule</translation>
     </message>
     <message>
         <source>!Divisor is zero</source>
@@ -541,11 +541,11 @@
     </message>
     <message>
         <source>Kingsoft Writer has reached the beginning of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer je prišel do začetka dokumenta.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has reached the end of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer je prišel do konca dokumenta.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document.</source>
@@ -626,7 +626,7 @@
     <message>
         <source>%s already exists.
 Do you want to replace it?</source>
-        <translation type="unfinished">%s že obstaja.
+        <translation>%s že obstaja.
 Ali želite zamenjati?</translation>
     </message>
     <message>
@@ -663,7 +663,7 @@ Ali želite zamenjati?</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Orodja</translation>
     </message>
     <message>
         <source>T&amp;ext tools</source>
@@ -1355,7 +1355,7 @@ Ali želite zamenjati?</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>ch</source>
@@ -1423,7 +1423,7 @@ Ali želite zamenjati?</translation>
     </message>
     <message>
         <source>Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstica</translation>
     </message>
     <message>
         <source>Not at</source>
@@ -1487,7 +1487,7 @@ Ali želite zamenjati?</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"></translation>
+        <translation>Dve vrstici v eni</translation>
     </message>
     <message>
         <source>Circle</source>
@@ -1546,11 +1546,11 @@ Ali želite zamenjati?</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
-        <translation type="unfinished">Ta slog ima </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The Base Style Name does not exist or its type is not correct.</source>
-        <translation type="unfinished">Ime temeljnega sloga ne obstaja ali pa njegova vrsta ni prava.</translation>
+        <translation>Ime temeljnega sloga ne obstaja ali pa njegova vrsta ni prava.</translation>
     </message>
     <message>
         <source>Failed to open.</source>
@@ -1566,7 +1566,7 @@ Ali želite zamenjati?</translation>
     </message>
     <message>
         <source>The text box contains one or more tables which will be deleted if you convert them, because the Vertical text box can not contain any table. Do you want to continue?</source>
-        <translation type="unfinished">Polje z besedilom vsebuje eno ali več tabel, ki bodo izbrisane, če jih pretvorite, ker navpično polje z besedilom ne more vsebovati tabele. Ali želite nadaljevati?</translation>
+        <translation>Polje z besedilom vsebuje eno ali več tabel, ki bodo izbrisane, če jih pretvorite, ker navpično polje z besedilom ne more vsebovati tabele. Ali želite nadaljevati?</translation>
     </message>
     <message>
         <source>Protect method or property is invalid due to the protected document.</source>
@@ -1713,7 +1713,8 @@ Please try one of the following.
     <message>
         <source>The document will be save as &quot;%s&quot; format, Do you want to continue?
 (%s)</source>
-        <translation type="unfinished">Ta dokument bo shranjen v &quot;%s&quot; obliko. Ali želite nadaljevati?</translation>
+        <translation>Ta dokument bo shranjen v &quot;%s&quot; obliko. Ali želite nadaljevati?
+(%s)</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
@@ -1823,7 +1824,8 @@ Do you want to continue?</source>
         <source>Kingsoft Writer cannot give a document the same name as an open document.
 Type a different name for the document you want to save.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer dokumentu ne more dati enakega imena, kot ga ima odprti dokument. Vnesite drugo ime za dokument, ki ga želite shraniti.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot open this file, because the password is not correct.
@@ -1847,8 +1849,7 @@ Type a different name for the document you want to save.
 · VB Project
 To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
-        <translation type="unfinished">Teh funkcij ni mogoče shraniti v delovnih zvezkih brez makrov:
-· VB Project</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2015,7 +2016,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Created Time</source>
-        <translation type="unfinished">Čas </translation>
+        <translation>Čas nastanka</translation>
     </message>
     <message>
         <source>Custom Color</source>
@@ -2047,7 +2048,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Incorrect dictionary! Can&apos;t modify!</source>
-        <translation type="unfinished">Nepravilen slovar! </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Final Showing Markup,Final,Original Showing Markup,Original</source>
@@ -2095,7 +2096,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Š&amp;tevilka strani:</translation>
     </message>
     <message>
         <source>&amp;Enter section number:</source>
@@ -2179,19 +2180,19 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;Find / Replace...</source>
-        <translation>&amp;Najdi / Zamenjaj</translation>
-    </message>
-    <message>
-        <source>&amp;Find Next</source>
-        <translation>&amp;Nadaljuj iskanje</translation>
-    </message>
-    <message>
-        <source>Kingsoft Writer has finished searching the document. The search item was not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Find Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer has finished searching the document. The search item was not found.</source>
+        <translation>Kingsoft Writer je končal pregledovanje dokumenta. Iskanega predmeta ni bilo mogoče najti.</translation>
+    </message>
+    <message>
         <source>Kingsoft Writer has finished searching the document.</source>
-        <translation type="unfinished">Kingsoft Writer je končal iskanje v dokumentu.</translation>
+        <translation>Kingsoft Writer je končal pregledovanje dokumenta.</translation>
     </message>
     <message>
         <source>First Name</source>
@@ -2203,11 +2204,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Go &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojdi n&amp;a</translation>
     </message>
     <message>
         <source>Kingsoft Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer je končal preverjanje izbire. Ali želite nadaljevati preverjanje preostanka dokumenta?</translation>
     </message>
     <message>
         <source>height</source>
@@ -2215,7 +2216,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Kingsoft Writer is updating the table of contents. Select one of the following options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer posodablja kazalo vsebine. Izberite eno od teh možnosti:</translation>
     </message>
     <message>
         <source>Home Fax</source>
@@ -2363,7 +2364,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;More Colors...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Več barv...</translation>
     </message>
     <message>
         <source>&amp;More Line Colors...</source>
@@ -2379,7 +2380,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Nex&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Na&amp;slednje</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
@@ -2435,7 +2436,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Kingsoft Writer could not determine the destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer ni mogel določiti cilja.</translation>
     </message>
     <message>
         <source>(not matched)</source>
@@ -2471,7 +2472,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The number must be between 1 and 10.</source>
-        <translation>Število mora biti med 1 in 10</translation>
+        <translation>Število mora biti med 1 in 10.</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file!</source>
@@ -2487,7 +2488,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The password is incorrect!</source>
-        <translation>Geslo je nepravilno.</translation>
+        <translation>Geslo je nepravilno!</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -2547,7 +2548,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>37.5%</source>
-        <translation type="unfinished">37,5%</translation>
+        <translation>37,5%</translation>
     </message>
     <message>
         <source>40%</source>
@@ -2611,11 +2612,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Phonetic Guide for First Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonetično navodilo za ime</translation>
     </message>
     <message>
         <source>Phonetic Guide for last Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonetično navodilo za priimek</translation>
     </message>
     <message>
         <source>Postal Code</source>
@@ -2651,7 +2652,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uveljavi to število dejanj: %d</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -2735,7 +2736,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Območje</translation>
     </message>
     <message>
         <source>Style</source>
@@ -2783,7 +2784,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi to število dejanj: %d</translation>
     </message>
     <message>
         <source>Unique Identifier</source>
@@ -2799,7 +2800,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>User templates             %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabnikove predloge             %s</translation>
     </message>
     <message>
         <source>Use Wildcards</source>
@@ -2859,7 +2860,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;Outside</source>
-        <translation>Zun&amp;aj:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Section %d</source>
@@ -2955,7 +2956,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>SectionPages</source>
-        <translation type="unfinished"></translation>
+        <translation>StraniOdseka</translation>
     </message>
     <message>
         <source>Seq</source>
@@ -2975,7 +2976,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>NumPages</source>
-        <translation type="unfinished"></translation>
+        <translation>ŠtStrani</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2987,7 +2988,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
@@ -3183,23 +3184,23 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>For &amp;which heading</source>
-        <translation>&amp;Za kateri naslov</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For &amp;which bookmark</source>
-        <translation>&amp;Za kateri zaznamek:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For &amp;which footnote</source>
-        <translation>&amp;Za katero sprotno opombo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For &amp;which endnote</source>
-        <translation>&amp;Za katero končno opombo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For &amp;which caption</source>
-        <translation>&amp;Za kateri napis</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The referred contents are blank.</source>
@@ -3231,7 +3232,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Unit: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Enota: %s</translation>
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
@@ -3257,6 +3258,31 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %s
         <source>(none)
 .</source>
         <translation type="obsolete">(brez).</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for page setup?
+This change will affect all new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all the new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
+
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................3
+    Heading3.......................5</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Numbered item</source>
@@ -3297,31 +3323,6 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %s
         <source>Table</source>
         <comment>TxCrossRefType</comment>
         <translation type="unfinished">Tabela</translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
-
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading1...........................1
-  Heading2.........................3
-    Heading3.......................5</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(none)
@@ -3501,7 +3502,7 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %s
     </message>
     <message>
         <source>Typing</source>
-        <translation type="unfinished"></translation>
+        <translation>Vneseno</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -3625,7 +3626,7 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %s
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Poenostavljena/tradicionalna kitajščina</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -3979,11 +3980,11 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>The number must be between 1 and 1638.</source>
-        <translation>Število mora biti med 1 in 1638</translation>
+        <translation>Število mora biti med 1 in 1638.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 500.</source>
-        <translation>Število mora biti med 1 in 500</translation>
+        <translation>Število mora biti med 10 in 500.</translation>
     </message>
     <message>
         <source>Are you sure to delete style %s?</source>
@@ -4289,7 +4290,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Match the Current Format</source>
-        <translation type="unfinished">trenutno boliko</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate</source>
@@ -4301,7 +4302,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Auto Replace Paragraph Header Space With Indent</source>
-        <translation>Samodejno zamenjaj razmik naslova odstavka z zamikom.</translation>
+        <translation>Samodejno zamenjaj razmik naslova odstavka z zamikom</translation>
     </message>
     <message>
         <source>Auto Adjust WordWrap</source>
@@ -4313,7 +4314,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Replace Full Width Period With a Point</source>
-        <translation type="unfinished">Zamenjaj polno širino </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
@@ -4441,7 +4442,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Clean Paragraph Space And Indent</source>
-        <translation type="unfinished">Čisti razmik in zamik odstavka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Modify</source>

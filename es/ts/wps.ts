@@ -314,7 +314,7 @@
     <name>CustomPreView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
 </context>
 <context>
@@ -333,11 +333,11 @@
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Espacia&amp;do:</translation>
     </message>
     <message>
         <source>1:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1:</translation>
     </message>
 </context>
 <context>
@@ -388,7 +388,7 @@
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Página</translation>
     </message>
     <message>
         <source>Column</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opciones</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste del texto</translation>
     </message>
     <message>
         <source>Wrapping style</source>
@@ -524,7 +524,7 @@
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;rriba</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -547,59 +547,59 @@
     <name>DlgKxColumns</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Preestablecidas</translation>
     </message>
     <message>
         <source>&amp;One</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Una</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dos</translation>
     </message>
     <message>
         <source>&amp;Three</source>
-        <translation type="unfinished"></translation>
+        <translation>Tre&amp;s</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izquierda</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Derec&amp;ha</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Núme&amp;ro de columnas:</translation>
     </message>
     <message>
         <source>Line &amp;between</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea entre columnas</translation>
     </message>
     <message>
         <source>Width and spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancho y espacio</translation>
     </message>
     <message>
         <source>&amp;Equal column width</source>
-        <translation type="unfinished"></translation>
+        <translation>Columas de igual ancho</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplicar a:</translation>
     </message>
     <message>
         <source>Start new col&amp;umn</source>
-        <translation type="unfinished"></translation>
+        <translation>Empezar columna</translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vista previa</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
@@ -724,7 +724,7 @@
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Celda</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -800,7 +800,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -846,7 +846,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -919,7 +919,7 @@
     <name>KxCheckboxFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -1298,11 +1298,11 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminar</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ir a</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1325,7 +1325,7 @@
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ninguno</translation>
     </message>
     <message>
         <source>Bo&amp;x</source>
@@ -1354,11 +1354,11 @@
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;ncho:</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vista previa</translation>
     </message>
     <message>
         <source>   Click on diagram below or
@@ -1424,95 +1424,95 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5%</translation>
     </message>
     <message>
         <source>10%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10%</translation>
     </message>
     <message>
         <source>12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">12.5%</translation>
     </message>
     <message>
         <source>15%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">15%</translation>
     </message>
     <message>
         <source>20%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">20%</translation>
     </message>
     <message>
         <source>25%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">25%</translation>
     </message>
     <message>
         <source>30%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30%</translation>
     </message>
     <message>
         <source>35%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">35%</translation>
     </message>
     <message>
         <source>37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">37.5%</translation>
     </message>
     <message>
         <source>40%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">40%</translation>
     </message>
     <message>
         <source>45%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">45%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">50%</translation>
     </message>
     <message>
         <source>55%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">55%</translation>
     </message>
     <message>
         <source>60%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">60%</translation>
     </message>
     <message>
         <source>62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">62.5%</translation>
     </message>
     <message>
         <source>65%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">65%</translation>
     </message>
     <message>
         <source>70%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">70%</translation>
     </message>
     <message>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">75%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">80%</translation>
     </message>
     <message>
         <source>85%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">85%</translation>
     </message>
     <message>
         <source>87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">87.5%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">90%</translation>
     </message>
     <message>
         <source>95%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">95%</translation>
     </message>
     <message>
         <source>Deep horizontal line</source>
@@ -1646,7 +1646,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posi&amp;ción:</translation>
     </message>
     <message>
         <source>&amp;Exclude label from caption</source>
@@ -1712,7 +1712,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S&amp;uperior:</translation>
     </message>
     <message>
         <source>pt, -1, 0, 1584, 1</source>
@@ -1720,78 +1720,78 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I&amp;zquierdo:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Inferior:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D&amp;erecho:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortografía y gramática</translation>
     </message>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation>Párrafo:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>La palabra no está en el diccionario</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabiar a:</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sug&amp;erencias:</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cambiar</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Cam&amp;biar todas</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Om&amp;itir una vez</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir toda&amp;s</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;gregar al diccionario</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Cu&amp;stom Dictionaries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Diccionarios personalizados...</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opciones...</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer idioma de corrección ortográfica</translation>
     </message>
 </context>
 <context>
@@ -1873,173 +1873,173 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">F&amp;uente</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tamaño:</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10</translation>
     </message>
     <message>
         <source>10.5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10.5</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">48</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">72</translation>
     </message>
 </context>
 <context>
     <name>KxDlgContents</name>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de contenido</translation>
     </message>
     <message>
         <source>Table of &amp;Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de co&amp;ntenido</translation>
     </message>
     <message>
         <source>Ta&amp;b leader:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Carácter de relleno</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Show &amp;levels:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mos&amp;trar niveles:</translation>
     </message>
     <message>
         <source>&amp;Show page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Mo&amp;strar números de página</translation>
     </message>
     <message>
         <source>&amp;Right align page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinea&amp;r números de página a la derecha</translation>
     </message>
     <message>
         <source>Use &amp;hyperlinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar &amp;hipervínculos en lugar de números de página</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opciones...</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vista preliminar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgContentsOptions</name>
     <message>
         <source>Table of Contents Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de tabla de contenido</translation>
     </message>
     <message>
         <source>Build table of contents from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar tabla de contenido a partir de:</translation>
     </message>
     <message>
         <source>&amp;Styles:</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;stilos</translation>
     </message>
     <message>
         <source>Available styles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos disponibles:</translation>
     </message>
     <message>
         <source>ToC &amp;level:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nivel de TDC:</translation>
     </message>
     <message>
         <source>&amp;Outline levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni&amp;veles de esquema</translation>
     </message>
     <message>
         <source>Table &amp;entry fields</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Campos de elementos de tabla</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restablecer</translation>
     </message>
 </context>
 <context>
@@ -2278,7 +2278,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2301,7 +2301,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vista previa</translation>
     </message>
     <message>
         <source>Bullet position</source>
@@ -2368,7 +2368,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vista previa</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
@@ -2529,7 +2529,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ninguno</translation>
     </message>
     <message>
         <source>&amp;Dropped</source>
@@ -2541,11 +2541,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opciones</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">F&amp;uente</translation>
     </message>
     <message>
         <source>&amp;Lines to drop:</source>
@@ -2592,7 +2592,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminar</translation>
     </message>
     <message>
         <source>Run macro on</source>
@@ -2659,11 +2659,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2686,7 +2686,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ninguno</translation>
     </message>
     <message>
         <source>Enclosure</source>
@@ -2710,11 +2710,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>21</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">21</translation>
     </message>
     <message utf8="true">
         <source>一</source>
@@ -2904,7 +2904,7 @@ use buttons to apply borders</source>
     <name>KxDlgFindReplace</name>
     <message>
         <source>Fin&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Buscar</translation>
     </message>
     <message>
         <source>Match Byte</source>
@@ -2912,19 +2912,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;uscar:</translation>
     </message>
     <message>
         <source>Search options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de búsqueda:</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar si&amp;guiente</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Janpannese)</source>
@@ -2940,47 +2940,47 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Re&amp;place</source>
-        <translation type="unfinished"></translation>
+        <translation>Reempla&amp;zar</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Reempl&amp;azar</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar to&amp;dos</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ir a</translation>
     </message>
     <message>
         <source>G&amp;o to what:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir &amp;a:</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Sección</translation>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nú&amp;mero de la página:</translation>
     </message>
     <message>
         <source>Enter + and - to move relative to the current location. Example:+4 will move forward four items</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriba + y - para desplazarse según la posición actual. Ejemplo: escribiendo +4 se desplazará cuatro elementos hacia adelante.</translation>
     </message>
     <message>
         <source>&amp;Enter Bookmark Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>No&amp;mbre del marcador:</translation>
     </message>
     <message>
         <source>Previou&amp;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Anterior</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
@@ -3098,11 +3098,11 @@ use buttons to apply borders</source>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente</translation>
     </message>
     <message>
         <source>Fo&amp;nt</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
@@ -3110,11 +3110,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Font st&amp;yle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de fuente:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño:</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
@@ -3126,15 +3126,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;uente</translation>
     </message>
     <message>
         <source>Font Sty&amp;le:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de &amp;fuente:</translation>
     </message>
     <message>
         <source>Si&amp;ze:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tama&amp;ño:</translation>
     </message>
     <message>
         <source>All text</source>
@@ -3142,15 +3142,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Font &amp;color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Color de fuente:</translation>
     </message>
     <message>
         <source>&amp;Underline style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de subr&amp;ayado:</translation>
     </message>
     <message>
         <source>Underl&amp;ine color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de subrayado:</translation>
     </message>
     <message>
         <source>Emphasis mark&amp;:</source>
@@ -3158,111 +3158,111 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efectos</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mayúsculas</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Tac&amp;hado</translation>
     </message>
     <message>
         <source>Shado&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sombra</translation>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Versales</translation>
     </message>
     <message>
         <source>Double strikethrou&amp;gh</source>
-        <translation type="unfinished"></translation>
+        <translation>Dob&amp;le tachado</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Con&amp;torno</translation>
     </message>
     <message>
         <source>Su&amp;perscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Superín&amp;dice</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Relieve</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oculto</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Su&amp;bíndice</translation>
     </message>
     <message>
         <source>Engra&amp;ve</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Grabado</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ésta es la fuente del tema del cuerpo. El tema del documento actual define qué fuente se utilizará.</translation>
     </message>
     <message>
         <source>Cha&amp;racter Spacing </source>
-        <translation type="unfinished"></translation>
+        <translation>Espac&amp;io entre caracteres</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacia&amp;do:</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Posi&amp;ción:</translation>
     </message>
     <message>
         <source>&amp;By:</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;n:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Raised</source>
-        <translation type="unfinished"></translation>
+        <translation>Elevado</translation>
     </message>
     <message>
         <source>Lowered</source>
-        <translation type="unfinished"></translation>
+        <translation>Disminuido</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;En:</translation>
     </message>
     <message>
         <source>S&amp;cale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc&amp;ala:</translation>
     </message>
     <message>
         <source>Expanded</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandido</translation>
     </message>
     <message>
         <source>Condensed</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimido</translation>
     </message>
     <message>
         <source>&amp;Kerning for fonts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interletraje para &amp;fuentes:</translation>
     </message>
     <message>
         <source>p&amp;oints and above</source>
-        <translation type="unfinished"></translation>
+        <translation>pun&amp;tos o más</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
@@ -3270,7 +3270,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Default...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Predeterminar...</translation>
     </message>
 </context>
 <context>
@@ -3293,7 +3293,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Continuo</translation>
     </message>
     <message>
         <source>Restart each section</source>
@@ -3459,7 +3459,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Página</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
@@ -3467,7 +3467,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientación</translation>
     </message>
     <message>
         <source>Por&amp;trait</source>
@@ -3502,7 +3502,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ninguno</translation>
     </message>
     <message>
         <source>&amp;Type your own:</source>
@@ -3553,7 +3553,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opciones</translation>
     </message>
     <message>
         <source>&amp;Align paragraph and table edges with border</source>
@@ -3573,7 +3573,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vista previa</translation>
     </message>
 </context>
 <context>
@@ -3603,15 +3603,15 @@ use buttons to apply borders</source>
     <name>KxDlgInsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha y hora</translation>
     </message>
     <message>
         <source>&amp;Available formats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato&amp;s disponibles:</translation>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;dioma:</translation>
     </message>
     <message>
         <source>Use full &amp;width characters</source>
@@ -3619,11 +3619,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Actualizar automáticamente</translation>
     </message>
     <message>
         <source>&amp;Default...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Predeterminar...</translation>
     </message>
 </context>
 <context>
@@ -4355,7 +4355,7 @@ use buttons to apply borders</source>
     <name>KxDlgOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opciones</translation>
     </message>
     <message>
         <source>View</source>
@@ -4879,7 +4879,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preferred &amp;width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ancho preferido:</translation>
     </message>
     <message>
         <source>Preferred Width</source>
@@ -5139,7 +5139,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ortografía y gramática</translation>
     </message>
     <message>
         <source>Check s&amp;pelling as you type</source>
@@ -5318,7 +5318,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posi&amp;ción:</translation>
     </message>
     <message>
         <source>Top of page(Header)</source>
@@ -5354,7 +5354,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vista previa</translation>
     </message>
     <message>
         <source>Number &amp;format:</source>
@@ -5397,27 +5397,27 @@ use buttons to apply borders</source>
     <name>KxDlgPageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar página</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Márgenes</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;uperior:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inferior:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;zquierdo:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;erecho:</translation>
     </message>
     <message>
         <source>G&amp;utter position:</source>
@@ -5437,31 +5437,31 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientación</translation>
     </message>
     <message>
         <source>&amp;Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertical</translation>
     </message>
     <message>
         <source>Land&amp;scape</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Horizontal</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>&amp;Multiple pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Varias página&amp;s:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Book fold</source>
-        <translation type="unfinished"></translation>
+        <translation>Libro plegado</translation>
     </message>
     <message>
         <source>Reverse book fold</source>
@@ -5469,7 +5469,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Sheets per boo&amp;klet</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoj&amp;as por folleto:</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -5477,51 +5477,51 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation>12</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation>16</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation>24</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation>28</translation>
     </message>
     <message>
         <source>32</source>
-        <translation type="unfinished"></translation>
+        <translation>32</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation>36</translation>
     </message>
     <message>
         <source>40</source>
-        <translation type="unfinished"></translation>
+        <translation>40</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
@@ -5529,31 +5529,31 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paper</source>
-        <translation type="unfinished"></translation>
+        <translation>Papel</translation>
     </message>
     <message>
         <source>Pape&amp;r size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta&amp;maño del papel:</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;ncho:</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alto:</translation>
     </message>
     <message>
         <source>Page source</source>
-        <translation type="unfinished"></translation>
+        <translation>Origen del papel</translation>
     </message>
     <message>
         <source>&amp;First page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prim&amp;era página:</translation>
     </message>
     <message>
         <source>&amp;Other pages:</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;tras páginas:</translation>
     </message>
     <message>
         <source>Print Op&amp;tions....</source>
@@ -5561,55 +5561,55 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Sección</translation>
     </message>
     <message>
         <source>Section sta&amp;rt:</source>
-        <translation type="unfinished"></translation>
+        <translation>Empezar &amp;sección:</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuo</translation>
     </message>
     <message>
         <source>New page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página nueva</translation>
     </message>
     <message>
         <source>Even page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página par</translation>
     </message>
     <message>
         <source>Odd page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página impar</translation>
     </message>
     <message>
         <source>Headers and footers</source>
-        <translation type="unfinished"></translation>
+        <translation>Encabezados y pies de página</translation>
     </message>
     <message>
         <source>Different &amp;odd and even</source>
-        <translation type="unfinished"></translation>
+        <translation>Pares e i&amp;mpares diferentes</translation>
     </message>
     <message>
         <source>Different first &amp;page</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;rimera página diferente</translation>
     </message>
     <message>
         <source>From edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desde el borde:</translation>
     </message>
     <message>
         <source>&amp;Header:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Encabezado:</translation>
     </message>
     <message>
         <source>&amp;Footer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pie de pá&amp;gina:</translation>
     </message>
     <message>
         <source>General options</source>
@@ -5717,59 +5717,59 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Preestablecidas</translation>
     </message>
     <message>
         <source>&amp;One</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Una</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dos</translation>
     </message>
     <message>
         <source>&amp;Three</source>
-        <translation type="unfinished"></translation>
+        <translation>Tre&amp;s</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izquierda</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Derec&amp;ha</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Núme&amp;ro de columnas:</translation>
     </message>
     <message>
         <source>Line &amp;between</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea entre columnas</translation>
     </message>
     <message>
         <source>Width and spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancho y espacio</translation>
     </message>
     <message>
         <source>&amp;Equal column width</source>
-        <translation type="unfinished"></translation>
+        <translation>Columas de igual ancho</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplicar a:</translation>
     </message>
     <message>
         <source>Start new col&amp;umn</source>
-        <translation type="unfinished"></translation>
+        <translation>Empezar columna</translation>
     </message>
     <message>
         <source>&amp;Default...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Predeterminar...</translation>
     </message>
 </context>
 <context>
@@ -5844,7 +5844,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;En:</translation>
     </message>
     <message>
         <source>After te&amp;xt:</source>
@@ -5920,11 +5920,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>At least</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mínimo</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exacto</translation>
     </message>
     <message>
         <source>Multiple</source>
@@ -5936,7 +5936,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vista previa</translation>
     </message>
     <message>
         <source>&amp;Outline level:</source>
@@ -6103,7 +6103,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">F&amp;uente</translation>
     </message>
     <message>
         <source>&amp;Offset:</source>
@@ -6115,7 +6115,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tamaño:</translation>
     </message>
     <message>
         <source>Preview </source>
@@ -6147,11 +6147,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>0-1-0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0-1-0</translation>
     </message>
     <message>
         <source>1-2-1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1-2-1</translation>
     </message>
 </context>
 <context>
@@ -6358,7 +6358,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -6373,11 +6373,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Inferior:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S&amp;uperior:</translation>
     </message>
     <message>
         <source>Allow &amp;spacing between cells</source>
@@ -6385,11 +6385,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D&amp;erecho:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I&amp;zquierdo:</translation>
     </message>
     <message>
         <source>Default cell margins</source>
@@ -6452,7 +6452,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Página</translation>
     </message>
     <message>
         <source>Column</source>
@@ -6496,23 +6496,23 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D&amp;erecho:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Inferior:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I&amp;zquierdo:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S&amp;uperior:</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opciones</translation>
     </message>
     <message>
         <source>&amp;Move with text</source>
@@ -6527,19 +6527,19 @@ use buttons to apply borders</source>
     <name>KxDlgTableProperties</name>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades de tabla</translation>
     </message>
     <message>
         <source>&amp;Table</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tabla</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Celda</translation>
     </message>
     <message>
         <source>Preferred &amp;width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ancho preferido:</translation>
     </message>
     <message>
         <source>pt, 1, 0, 1584, 1</source>
@@ -6547,15 +6547,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineación</translation>
     </message>
     <message>
         <source>Rig&amp;ht</source>
-        <translation type="unfinished"></translation>
+        <translation>Derec&amp;ha</translation>
     </message>
     <message>
         <source>&amp;Indent from left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sangría a la izquierda:</translation>
     </message>
     <message>
         <source>pt, 1, -1080, 1080, 1</source>
@@ -6563,47 +6563,47 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Centro</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izquierda</translation>
     </message>
     <message>
         <source>Text wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste del texto</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ninguno</translation>
     </message>
     <message>
         <source>&amp;Around</source>
-        <translation type="unfinished"></translation>
+        <translation>Alrededor</translation>
     </message>
     <message>
         <source>&amp;Positioning...</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición...</translation>
     </message>
     <message>
         <source>&amp;Borders and Shading...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bordes y sombreado...</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opc&amp;iones...</translation>
     </message>
     <message>
         <source>&amp;Row</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fila</translation>
     </message>
     <message>
         <source>Rows 1-4:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filas 1-4:</translation>
     </message>
     <message>
         <source>&amp;Specify height:</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;specificar alto:</translation>
     </message>
     <message>
         <source>pt, 1, 1, 1584, 1</source>
@@ -6611,43 +6611,43 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Row height &amp;is:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alto &amp;de fila:</translation>
     </message>
     <message>
         <source>At least</source>
-        <translation type="unfinished"></translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished"></translation>
+        <translation>Exacto</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <source>Allow row to brea&amp;k across pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir di&amp;vidir las filas entre páginas</translation>
     </message>
     <message>
         <source>&amp;Repeat as &amp;header row at the top of each page</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir como fila de enca&amp;bezado en cada página</translation>
     </message>
     <message>
         <source>&amp;Previous Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Fila a&amp;nterior</translation>
     </message>
     <message>
         <source>&amp;Next Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Fila sig&amp;uiente</translation>
     </message>
     <message>
         <source>Col&amp;umn</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;olumna</translation>
     </message>
     <message>
         <source>Columns 1-5:</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas 1-5:</translation>
     </message>
     <message>
         <source>pt, 1, 4.5, 1584, 1</source>
@@ -6655,32 +6655,32 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Previous Column</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Columna anterior</translation>
     </message>
     <message>
         <source>&amp;Next Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Columna &amp;siguiente</translation>
     </message>
     <message>
         <source>C&amp;ell</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;elda</translation>
     </message>
     <message>
         <source>Size</source>
         <comment>Cell</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celda</translation>
     </message>
     <message>
         <source>Vertical alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineación vertical</translation>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;rriba</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;bajo</translation>
     </message>
 </context>
 <context>
@@ -6723,7 +6723,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alineación</translation>
     </message>
     <message>
         <source>&amp;Decimal</source>
@@ -6731,15 +6731,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izquierda</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Centro</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Derec&amp;ha</translation>
     </message>
     <message>
         <source>Leader</source>
@@ -7010,7 +7010,7 @@ use buttons to apply borders</source>
     <name>KxDropDownFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <source>You can have no more than 25 items in your drop-down list box.</source>
@@ -7125,7 +7125,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7184,7 +7184,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Página</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
@@ -7411,7 +7411,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Todas</translation>
     </message>
     <message>
         <source>&amp;Paragraph Mark</source>
@@ -7475,7 +7475,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Search options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de búsqueda:</translation>
     </message>
     <message>
         <source>Format options:</source>
@@ -7681,11 +7681,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ésta es la fuente del tema del cuerpo. El tema del documento actual define qué fuente se utilizará.</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -7789,7 +7789,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Continuo</translation>
     </message>
     <message>
         <source>Restart each section</source>
@@ -8034,7 +8034,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -8185,7 +8185,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <source>(No style)</source>
@@ -8221,7 +8221,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0#</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -8229,7 +8229,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1#</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -8237,7 +8237,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2#</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -8245,7 +8245,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3#</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -8253,7 +8253,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4#</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -8261,7 +8261,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5#</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -8269,15 +8269,15 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8#</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -8378,7 +8378,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
 </context>
 <context>
@@ -8400,7 +8400,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <source>Itatic, </source>
@@ -8452,7 +8452,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0#</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -8460,7 +8460,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1#</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -8468,7 +8468,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2#</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -8476,7 +8476,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3#</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -8484,7 +8484,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4#</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -8492,7 +8492,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5#</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -8500,15 +8500,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8#</translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -8588,7 +8588,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -8718,43 +8718,43 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10</translation>
     </message>
     <message>
         <source>The measurement must be between 0 and 16383.</source>
@@ -8884,7 +8884,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -9015,7 +9015,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxStyleShortCutBindDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
@@ -9045,7 +9045,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTabsDlg</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Todas</translation>
     </message>
 </context>
 <context>
@@ -9083,7 +9083,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTextFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <source>D&amp;efault text:</source>
@@ -9384,7 +9384,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izquierda</translation>
     </message>
     <message>
         <source>rbHorizontalCenter</source>
@@ -9392,7 +9392,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Centro</translation>
     </message>
     <message>
         <source>rbHorizontalRight</source>
@@ -9400,7 +9400,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Derec&amp;ha</translation>
     </message>
     <message>
         <source>rbHorizontalOther</source>
@@ -9427,7 +9427,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Páginas</translation>
     </message>
     <message>
         <source>Words</source>
@@ -9455,7 +9455,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>123</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">123</translation>
     </message>
     <message>
         <source>Include &amp;footnotes and endnotes</source>
@@ -9463,7 +9463,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -9550,7 +9550,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsBorderWidthItem</name>
     <message>
         <source>2.25</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2.25</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9558,35 +9558,35 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>0.25</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.25</translation>
     </message>
     <message>
         <source>0.5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.5</translation>
     </message>
     <message>
         <source>0.75</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.75</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1.5</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3</translation>
     </message>
     <message>
         <source>4.5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4.5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6</translation>
     </message>
 </context>
 <context>
@@ -9751,23 +9751,23 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">50%</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">150%</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">200%</translation>
     </message>
     <message>
         <source>500%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">500%</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -9835,59 +9835,59 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">36</translation>
     </message>
     <message>
         <source>40</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">40</translation>
     </message>
     <message>
         <source>44</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">44</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">48</translation>
     </message>
     <message>
         <source>54</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">54</translation>
     </message>
     <message>
         <source>60</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">60</translation>
     </message>
     <message>
         <source>66</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">66</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">72</translation>
     </message>
     <message>
         <source>80</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">80</translation>
     </message>
     <message>
         <source>90</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">90</translation>
     </message>
     <message>
         <source>96</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">96</translation>
     </message>
     <message>
         <source>105</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">105</translation>
     </message>
     <message>
         <source>120</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">120</translation>
     </message>
     <message>
         <source>144</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">144</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -10081,7 +10081,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <source>Header left</source>
@@ -10235,7 +10235,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exacto</translation>
     </message>
     <message>
         <source>Multiple</source>
@@ -10342,7 +10342,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsPageOrientationCommand</name>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientación</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -10429,10 +10429,6 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete current page page numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10446,6 +10442,10 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Delete all page numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10528,10 +10528,6 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page X Of Y</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10541,7 +10537,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>0;57;1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0;57;1</translation>
     </message>
     <message>
         <source>Page 1</source>
@@ -10561,6 +10557,10 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
+        <translation type="unfinished">37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

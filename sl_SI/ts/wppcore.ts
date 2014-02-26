@@ -5,95 +5,95 @@
     <name>aeobean</name>
     <message>
         <source>Applause</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplavz</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Puščica</translation>
     </message>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bomba</translation>
     </message>
     <message>
         <source>Breeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetrič</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotoaparat</translation>
     </message>
     <message>
         <source>Cash register</source>
-        <translation type="unfinished"></translation>
+        <translation>Blagajna</translation>
     </message>
     <message>
         <source>Chime</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvonček</translation>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kovanec</translation>
     </message>
     <message>
         <source>Drum roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuš</translation>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksplozija</translation>
     </message>
     <message>
         <source>Hammer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kladivo</translation>
     </message>
     <message>
         <source>Laser</source>
-        <translation type="unfinished"></translation>
+        <translation>Laser</translation>
     </message>
     <message>
         <source>Push</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek</translation>
     </message>
     <message>
         <source>Suction</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesanje</translation>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisalni stroj</translation>
     </message>
     <message>
         <source>Voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Napetost</translation>
     </message>
     <message>
         <source>Whoosh</source>
-        <translation type="unfinished"></translation>
+        <translation>Piš</translation>
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Veter</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animacija po meri</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Besedilo</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>Text&lt;Date and Time&gt;</source>
@@ -105,19 +105,19 @@
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostoročna oblika</translation>
     </message>
     <message>
         <source>: Shape </source>
-        <translation type="unfinished"></translation>
+        <translation>: Oblika </translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafikon</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Predmet</translation>
     </message>
     <message>
         <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Times New Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Times New Roman</translation>
     </message>
 </context>
 <context>
@@ -139,7 +139,7 @@
     <name>objtable</name>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Učinki polnila</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
@@ -147,74 +147,74 @@
     </message>
     <message>
         <source>Split Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli celico</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji celice</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi vrstice zgoraj</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi vrstice spodaj</translation>
     </message>
     <message>
         <source>Insert Columns to the Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi stolpce na levo</translation>
     </message>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi stolpce na desno</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši stolpce</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši vrstice</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva polnila</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj zgoraj</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini navpično</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj spodaj</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Enakomerno porazdeli vrstice</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Enakomerno porazdeli stolpce</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni smer besedila</translation>
     </message>
     <message>
         <source>Edit Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje tabele</translation>
     </message>
 </context>
 <context>
     <name>player</name>
     <message>
         <source>Slide Show Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoč za diaprojekcijo</translation>
     </message>
     <message>
         <source>During the slide show:
@@ -229,7 +229,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>The file you specified cannot be open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navedeno datoteko ni mogoče odpreti.</translation>
     </message>
     <message>
         <source>Kingsoft Presentation cannot be found or start %s. </source>
@@ -237,7 +237,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Custom Shows &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcije po meri &quot;</translation>
     </message>
     <message>
         <source>&quot; does not exist.</source>
@@ -245,15 +245,15 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slide </source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv</translation>
     </message>
     <message>
         <source>Slide %d of %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv %d of %d</translation>
     </message>
     <message>
         <source>End Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Konec predstavitve</translation>
     </message>
     <message>
         <source>Keep ink</source>
@@ -269,7 +269,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
+        <translation>Vadi čas predstavitve</translation>
     </message>
     <message utf8="true">
         <source>Innovation·Research·Customer·Result·Sincerity Kingsoft Office 2010</source>
@@ -284,51 +284,51 @@ Esc					End of the slide show</source>
     <name>textbean</name>
     <message>
         <source>Typing</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipkanje</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Povleci in spusti</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Podvoji</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Izrez</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisava</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost pisave</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Krepko</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ležeče</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Podčrtano</translation>
     </message>
     <message>
         <source>Text Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Senčenje besedila</translation>
     </message>
     <message>
         <source>Text Emboss</source>
@@ -336,7 +336,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pisave</translation>
     </message>
     <message>
         <source>Baseline Offset</source>
@@ -344,174 +344,174 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Razmik vrstic</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelom vrstice</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Označevanje in oštevilčevanje</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj levo</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Na sredino</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj desno</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Porazdeljeno</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Viseče</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredinjeno</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Romansko</translation>
     </message>
     <message>
         <source>Upholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdrževanje fiksnega</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikuj predmet</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi številko diapozitiva</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum in čas</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbol</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj zamik</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšaj zamik</translation>
     </message>
     <message>
         <source>Demote</source>
-        <translation type="unfinished"></translation>
+        <translation>Znižaj</translation>
     </message>
     <message>
         <source>Promote</source>
-        <translation type="unfinished"></translation>
+        <translation>Povišaj</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitve dejanja</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Ravnilo</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi hiperpovezavo</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje hiperpovezave</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani hiperpovezavo</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj velikost pisave</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšaj velikost pisave</translation>
     </message>
     <message>
         <source>&lt;header&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>‹glava›</translation>
     </message>
     <message>
         <source>&lt;footer&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>‹noga›</translation>
     </message>
     <message>
         <source>&lt;date/time&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>‹datum/čas›</translation>
     </message>
     <message>
         <source>&lt;#&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;#&gt;</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Preslikovalnik oblik</translation>
     </message>
 </context>
 <context>
     <name>wppcore</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Predstavitev</translation>
     </message>
     <message>
         <source>Click to add first slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, če želite dodati prvi diapozitiv</translation>
     </message>
     <message>
         <source>Custom Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Načrt po meri</translation>
     </message>
     <message>
         <source>Default Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Privzeti načrt</translation>
     </message>
     <message>
         <source>Read-Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo za branje</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrstilnik diapozitivov</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrica diapozitiva</translation>
     </message>
     <message>
         <source>Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrica naslovov</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiskanje: Stran %d of %d</translation>
     </message>
     <message>
         <source>VBAProject</source>
@@ -523,359 +523,359 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehod med diapozitivi</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Počasi</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednje</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitro</translation>
     </message>
     <message>
         <source>No Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez prehoda</translation>
     </message>
     <message>
         <source>Blinds Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodoravne žaluzije</translation>
     </message>
     <message>
         <source>Blinds Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpične žaluzije</translation>
     </message>
     <message>
         <source>Box In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapiranje okvira</translation>
     </message>
     <message>
         <source>Box Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje okvira</translation>
     </message>
     <message>
         <source>Checkerboard Across</source>
-        <translation type="unfinished"></translation>
+        <translation>Šahovnica počez</translation>
     </message>
     <message>
         <source>Checkerboard Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Šahovnica navzdol</translation>
     </message>
     <message>
         <source>Comb Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodoraven glavnik</translation>
     </message>
     <message>
         <source>Comb Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpičen glavnik</translation>
     </message>
     <message>
         <source>Cover Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje navzdol</translation>
     </message>
     <message>
         <source>Cover Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje levo</translation>
     </message>
     <message>
         <source>Cover Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje desno</translation>
     </message>
     <message>
         <source>Cover Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje navzgor</translation>
     </message>
     <message>
         <source>Cover Left-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje levo-navzdol</translation>
     </message>
     <message>
         <source>Cover Left-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje levo-navzgor</translation>
     </message>
     <message>
         <source>Cover Right-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje desno-navzdol</translation>
     </message>
     <message>
         <source>Cover Right-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekrivanje desno-navzgor</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Izrez</translation>
     </message>
     <message>
         <source>Cut Through Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Izrez prek črne</translation>
     </message>
     <message>
         <source>Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Izginjanje</translation>
     </message>
     <message>
         <source>Fade Smoothly</source>
-        <translation type="unfinished"></translation>
+        <translation>Gladko pojemanje</translation>
     </message>
     <message>
         <source>Fade Through Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojemanje prek črne</translation>
     </message>
     <message>
         <source>Newsflash</source>
-        <translation type="unfinished"></translation>
+        <translation>Newsflash</translation>
     </message>
     <message>
         <source>Push Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek navzdol</translation>
     </message>
     <message>
         <source>Push Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek levo</translation>
     </message>
     <message>
         <source>Push Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek desno</translation>
     </message>
     <message>
         <source>Push Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek navzgor</translation>
     </message>
     <message>
         <source>Random Bars Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključne vrstice vodoravno</translation>
     </message>
     <message>
         <source>Random Bars Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključne vrstice navpično</translation>
     </message>
     <message>
         <source>Shape Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika kroga</translation>
     </message>
     <message>
         <source>Shape Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika romba</translation>
     </message>
     <message>
         <source>Shape Plus</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika plusa</translation>
     </message>
     <message>
         <source>Split Horizontal In</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev vodoravno navznoter</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev vodoravno navzven</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev navpično navznoter</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev navpično navzven</translation>
     </message>
     <message>
         <source>Strips Left-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Trakovi levo-navzdol</translation>
     </message>
     <message>
         <source>Strips Left-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Trakovi levo-navzgor</translation>
     </message>
     <message>
         <source>Strips Right-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Trakovi desno-navzdol</translation>
     </message>
     <message>
         <source>Strips Right-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Trakovi desno-navzgor</translation>
     </message>
     <message>
         <source>Uncover Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje navzdol</translation>
     </message>
     <message>
         <source>Uncover Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje levo</translation>
     </message>
     <message>
         <source>Uncover Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje desno</translation>
     </message>
     <message>
         <source>Uncover Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje navzgor</translation>
     </message>
     <message>
         <source>Uncover Left-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje levo-navzdol</translation>
     </message>
     <message>
         <source>Uncover Left-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje levo-navzgor</translation>
     </message>
     <message>
         <source>Uncover Right-Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje desno-navzdol</translation>
     </message>
     <message>
         <source>Uncover Right-Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkrivanje desno-navzgor</translation>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"></translation>
+        <translation>Klin</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 1 Spoke</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo v smeri urinega kazalca, 1 napera</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 2 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo v smeri urinega kazalca, 2 naperi</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 3 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo v smeri urinega kazalca, 3 napere</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 4 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo v smeri urinega kazalca, 4 napere</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 8 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo v smeri urinega kazalca, 8 naper</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje navzdol</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje levo</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje desno</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje navzgor</translation>
     </message>
     <message>
         <source>Random Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključen prehod</translation>
     </message>
     <message>
         <source>[No sound]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Brez zvoka]</translation>
     </message>
     <message>
         <source>[Stop previous sound]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Ustavi prejšnji zvok]</translation>
     </message>
     <message>
         <source>Applause</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplavz</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Puščica</translation>
     </message>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bomba</translation>
     </message>
     <message>
         <source>Breeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetrič</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotoaparat</translation>
     </message>
     <message>
         <source>Cash Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Blagajna</translation>
     </message>
     <message>
         <source>Chime</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvonček</translation>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kovanec</translation>
     </message>
     <message>
         <source>Drum Roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuš</translation>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksplozija</translation>
     </message>
     <message>
         <source>Hammer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kladivo</translation>
     </message>
     <message>
         <source>Laser</source>
-        <translation type="unfinished"></translation>
+        <translation>Laser</translation>
     </message>
     <message>
         <source>Push</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunek</translation>
     </message>
     <message>
         <source>Suction</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesanje</translation>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisalni stroj</translation>
     </message>
     <message>
         <source>Voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Napetost</translation>
     </message>
     <message>
         <source>Whoosh</source>
-        <translation type="unfinished"></translation>
+        <translation>Piš</translation>
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Veter</translation>
     </message>
     <message>
         <source>Other sound...</source>
-        <translation type="unfinished"></translation>
+        <translation>Drug zvok...</translation>
     </message>
     <message>
         <source>Sound Files(*.wav)|*.wav</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvočne datoteke(*.wav)|*.wav</translation>
     </message>
     <message>
         <source>Add Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj zvok</translation>
     </message>
     <message>
         <source>Used in This Presentation</source>
@@ -883,31 +883,31 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Recently Used</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedavno uporabljeno</translation>
     </message>
     <message>
         <source>Available For Use</source>
-        <translation type="unfinished"></translation>
+        <translation>Na voljo za uporabo</translation>
     </message>
     <message>
         <source>No animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez animacije</translation>
     </message>
     <message>
         <source>Subtle</source>
-        <translation type="unfinished"></translation>
+        <translation>Fino</translation>
     </message>
     <message>
         <source>Moderate</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmerno</translation>
     </message>
     <message>
         <source>Exciting</source>
-        <translation type="unfinished"></translation>
+        <translation>Razburljivo</translation>
     </message>
     <message>
         <source>Appear</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojavitev</translation>
     </message>
     <message>
         <source>Appear and dim</source>
@@ -931,51 +931,51 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Faded zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojemajoča povečava</translation>
     </message>
     <message>
         <source>Brush on underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Čopič s podčrtavo</translation>
     </message>
     <message>
         <source>Dissolve in</source>
-        <translation type="unfinished"></translation>
+        <translation>Razpadanje navznoter</translation>
     </message>
     <message>
         <source>Flash bulb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bliskavica</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Označbe</translation>
     </message>
     <message>
         <source>Random bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključne vrstice</translation>
     </message>
     <message>
         <source>Wipe</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje</translation>
     </message>
     <message>
         <source>Ascend</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzpon</translation>
     </message>
     <message>
         <source>Descend</source>
-        <translation type="unfinished"></translation>
+        <translation>Spust</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiskanje</translation>
     </message>
     <message>
         <source>Elegant</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegantno</translation>
     </message>
     <message>
         <source>Rise up</source>
-        <translation type="unfinished"></translation>
+        <translation>Dviganje</translation>
     </message>
     <message>
         <source>Show in reverse</source>
@@ -983,15 +983,15 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Spin</source>
-        <translation type="unfinished"></translation>
+        <translation>Obračanje</translation>
     </message>
     <message>
         <source>Unfold</source>
-        <translation type="unfinished"></translation>
+        <translation>Razgrnitev</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava</translation>
     </message>
     <message>
         <source>Big title</source>
@@ -999,11 +999,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Bounce</source>
-        <translation type="unfinished"></translation>
+        <translation>Poskok</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelet</translation>
     </message>
     <message>
         <source>Ellipse motion</source>
@@ -1011,15 +1011,15 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Plavanje</translation>
     </message>
     <message>
         <source>Neutron</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevtron</translation>
     </message>
     <message>
         <source>Pinwheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetrnica</translation>
     </message>
     <message>
         <source>Title arc</source>
@@ -1039,11 +1039,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>No Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez animacije</translation>
     </message>
     <message>
         <source>Body: Appear</source>
-        <translation type="unfinished"></translation>
+        <translation>Telo: Pojavitev</translation>
     </message>
     <message>
         <source>Slide Transition: No Transiton
@@ -1063,7 +1063,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Title: Brush On Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov: Čopič s podčrtavo</translation>
     </message>
     <message>
         <source>Title: Dissolve In
@@ -1072,16 +1072,17 @@ Body: Dissolve In</source>
     </message>
     <message>
         <source>Title: Flash Bulb</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov: Bliskavica</translation>
     </message>
     <message>
         <source>Body: Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Telo: Prosojnost</translation>
     </message>
     <message>
         <source>Title: Random Bars
 Body: Random Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov: Naključne vrstice
+Telo: Naključne vrstice</translation>
     </message>
     <message>
         <source>Title: Fade
@@ -1090,11 +1091,11 @@ Body: Wipe</source>
     </message>
     <message>
         <source>Body: Ascend</source>
-        <translation type="unfinished"></translation>
+        <translation>Telo: Vzpon</translation>
     </message>
     <message>
         <source>Body: Descend</source>
-        <translation type="unfinished"></translation>
+        <translation>Telo: Spust</translation>
     </message>
     <message>
         <source>Slide Transition: Split Vertical In
@@ -1117,7 +1118,8 @@ Body: Rise Up</source>
     <message>
         <source>Title: Descend
 Body: Fly In</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov: Spust
+Telo: Letenje navznoter</translation>
     </message>
     <message>
         <source>Title: Spinner
@@ -1133,7 +1135,8 @@ Body: Unfold</source>
     <message>
         <source>Title: Zoom
 Body: Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov: Povečava
+Telo: Povečava</translation>
     </message>
     <message>
         <source>Slide Transition: Wedge
@@ -1150,7 +1153,8 @@ Body: Unfold</source>
     <message>
         <source>Title: Credits
 Body: Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov: Prelet
+Telo: Prelet</translation>
     </message>
     <message>
         <source>Slide Transition: Strips Right-Down
@@ -1167,7 +1171,8 @@ Body: Descend</source>
     <message>
         <source>Title: Neutron
 Body: Rise Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov: Nevtron
+Telo: Dviganje</translation>
     </message>
     <message>
         <source>Slide Transition: No Transition
@@ -1230,43 +1235,43 @@ Please try one of the following.
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni mogoče natisniti ,preverite, ali je tiskalnik pravilno nameščen.</translation>
     </message>
     <message>
         <source>Click to edit Master title style</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredite slog naslova matrice</translation>
     </message>
     <message>
         <source>Click to edit Master subtitle Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredite slog podnaslova matrice</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbol</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev diapozitiva</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Preslikovalnik oblik</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Povleci in spusti</translation>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcije po meri</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
@@ -1274,23 +1279,23 @@ Please try one of the following.
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitve dejanja</translation>
     </message>
     <message>
         <source>*.dpt</source>
-        <translation type="unfinished"></translation>
+        <translation>*.dpt</translation>
     </message>
     <message>
         <source>*.pot</source>
-        <translation type="unfinished"></translation>
+        <translation>*.pot</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Animacijske sheme</translation>
     </message>
     <message>
         <source>Start slide show...</source>
-        <translation type="unfinished"></translation>
+        <translation>Začni diaprojekcijo...</translation>
     </message>
     <message utf8="true">
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X), Please contact the anti-virus software agent. 
@@ -1305,7 +1310,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     </message>
     <message>
         <source>Kingsoft Presentation Slide Show - </source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation diaprojekcija -</translation>
     </message>
     <message>
         <source>The contents you pasted contains tabs. Do you want to paste tabs as a table?</source>
@@ -1329,19 +1334,19 @@ Please try one of the following.
     </message>
     <message>
         <source>Text Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev besedila</translation>
     </message>
     <message>
         <source>Content Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev vsebine</translation>
     </message>
     <message>
         <source>Text and Content Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev besedila in vsebine</translation>
     </message>
     <message>
         <source>Other Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Druge postavitve</translation>
     </message>
     <message>
         <source>Unknown Layouts</source>
@@ -1349,135 +1354,135 @@ Please try one of the following.
     </message>
     <message>
         <source>Title Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslovni diapozitiv</translation>
     </message>
     <message>
         <source>Title and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in besedilo</translation>
     </message>
     <message>
         <source>Title and 2-Column Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Title and 2-Column Text</translation>
     </message>
     <message>
         <source>Title and Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in tabela</translation>
     </message>
     <message>
         <source>Title, Text and Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, besedilo in grafikon</translation>
     </message>
     <message>
         <source>Title, Chart and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, grafikon in besedilo</translation>
     </message>
     <message>
         <source>Title and Diagram or Organization Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in diagram ali organigram</translation>
     </message>
     <message>
         <source>Title and Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in grafikon</translation>
     </message>
     <message>
         <source>Title, Text and Clip Art </source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, besedilo in izrezek</translation>
     </message>
     <message>
         <source>Title, Clip Art and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, izrezek in besedilo</translation>
     </message>
     <message>
         <source>Title Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo naslov</translation>
     </message>
     <message>
         <source>Blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Prazen</translation>
     </message>
     <message>
         <source>Title, Text and Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, besedilo in vsebina</translation>
     </message>
     <message>
         <source>Title, Content and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, vsebina in besedilo</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsebina</translation>
     </message>
     <message>
         <source>Title and Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in vsebina</translation>
     </message>
     <message>
         <source>Title, Text and Media Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, besedilo in predstavnostni izrezek</translation>
     </message>
     <message>
         <source>Title, Media Clip and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, predstavnostni izrezek in besedilo</translation>
     </message>
     <message>
         <source>Title and Content over Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in vsebina nad besedilom</translation>
     </message>
     <message>
         <source>Title and Text over Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in besedilo nad vsebino</translation>
     </message>
     <message>
         <source>Title, Text and 2 Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, besedilo in 2 vsebini</translation>
     </message>
     <message>
         <source>Title, 2 Content and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, 2 vsebini in besedilo</translation>
     </message>
     <message>
         <source>Title and 2 Content over Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in 2 vsebini nad besedilom</translation>
     </message>
     <message>
         <source>Title and 4 Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in 4 vsebine</translation>
     </message>
     <message>
         <source>Title and Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in navpično besedilo</translation>
     </message>
     <message>
         <source>Title, Clip Art and Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, izrezek in navpično besedilo</translation>
     </message>
     <message>
         <source>Vertical Title and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpični naslov in besedilo</translation>
     </message>
     <message>
         <source>Vertical Title and Text over Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpični naslov in besedilo nad grafikonom</translation>
     </message>
     <message>
         <source>Title and 2 Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov in 2 vsebini nad besedilom</translation>
     </message>
     <message>
         <source>Title, Content and 2 Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, vsebina in 2 vsebini</translation>
     </message>
     <message>
         <source>Title, 2 Content and Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov, 2 vsebini in vsebina</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje datoteke. Prosimo, počakajte ...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Shranjevanje datoteke. Prosimo, počakajte ...</translation>
     </message>
     <message>
         <source>The design template contains multiple masters. Kingsoft Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
@@ -1497,23 +1502,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni predmet</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij diapozitiv</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Govornikove opombe</translation>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>OLE predmet</translation>
     </message>
     <message>
         <source>Custom Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnost po meri</translation>
     </message>
     <message>
         <source>Object Out Of Slide</source>
@@ -1525,19 +1530,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Built-in Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Vgrajena lastnost</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperpovezava</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Noga</translation>
     </message>
     <message>
         <source>VBA Code</source>
@@ -1549,311 +1554,311 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez sloga, brez mreže</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 1 – poudarek 1</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 1 – poudarek 2</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 1 – poudarek 3</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 1 – poudarek4</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 1 – poudarek 5</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 1 – poudarek 6</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez sloga, mreža tabele</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 2 – poudarek 1</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 2 – poudarek 2</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 2 – poudarek 3</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 2 – poudarek 4</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 2 – poudarek 5</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematski slog 2 – poudarek 6</translation>
     </message>
     <message>
         <source>Light Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 1</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 1 – poudarek 1</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 1 – poudarek 2</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 1 – poudarek 3</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 1 – poudarek 4</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 1 – poudarek 5</translation>
     </message>
     <message>
         <source>Light Style 1 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 1 – poudarek 6</translation>
     </message>
     <message>
         <source>Light Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 2</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 2 – poudarek 1</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 2 – poudarek 2</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 2 – poudarek 3</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 2 – poudarek 4</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 2 – poudarek 5</translation>
     </message>
     <message>
         <source>Light Style 2 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 2 – poudarek 6</translation>
     </message>
     <message>
         <source>Light Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 3</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 3 – poudarek 1</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 3 – poudarek 2</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 3 – poudarek 3</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 3 – poudarek 4</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 3 – poudarek 5</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetel slog 3 – poudarek 6</translation>
     </message>
     <message>
         <source>Medium Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 1</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 1 – poudarek 1</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 1 – poudarek 2</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 1 – poudarek 3</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 1 – poudarek 4</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 1 – poudarek 5</translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 1 – poudarek 6</translation>
     </message>
     <message>
         <source>Medium Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 2</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 2 – poudarek 1</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 2 – poudarek 2</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 2 – poudarek 3</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 2 – poudarek 4</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 2 – poudarek 5</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 2 – poudarek 6</translation>
     </message>
     <message>
         <source>Medium Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 3</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 3 – poudarek 1</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 3 – poudarek 2</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 3 – poudarek 3</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 3 – poudarek 4</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 3 – poudarek 5</translation>
     </message>
     <message>
         <source>Medium Style 3 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 3 – poudarek 6</translation>
     </message>
     <message>
         <source>Medium Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 4</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 4 – poudarek 1</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 4 – poudarek 2</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 4 – poudarek 3</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 4 – poudarek 4</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 4 – poudarek 5</translation>
     </message>
     <message>
         <source>Medium Style 4 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji slog 4 – poudarek 6</translation>
     </message>
     <message>
         <source>Dark Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen slog 1</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 1 – poudarek 1</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 1 – poudarek 2</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 1 – poudarek 3</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 1 – poudarek 4</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 1 – poudarek 5</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 1 – poudarek 6</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temen slog 2</translation>
     </message>
     <message>
         <source>Dark Style 2 - Accent 1/Accent 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 2 – poudarek 1/poudarek 2</translation>
     </message>
     <message>
         <source>Dark Style 2 - Accent 3/Accent 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 2 – poudarek 3/poudarek 4</translation>
     </message>
     <message>
         <source>Dark Style 2 - Accent 5/Accent 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Temni slog 2 – poudarek 5/poudarek 6</translation>
     </message>
     <message>
         <source>Best Match for Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Najboljše ujemanje za dokument</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlo</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Temno</translation>
     </message>
     <message>
         <source>Converting from Traditional to Simplified...</source>
@@ -1873,11 +1878,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Subtitle %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Podnaslov %d</translation>
     </message>
     <message>
         <source>Title %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov %d</translation>
     </message>
     <message>
         <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
@@ -1888,6 +1893,18 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level</source>
+        <translation type="obsolete">Kliknite, če želite urediti sloge besedila matrice
+Druga raven
+Tretja raven
+Četrta raven
+Peta raven</translation>
+    </message>
+    <message>
         <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1896,165 +1913,165 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>wppdata</name>
     <message>
         <source>Click to add title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, če želite dodati naslov</translation>
     </message>
     <message>
         <source>Click to add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, če želite dodati besedilo</translation>
     </message>
     <message>
         <source>Click to add subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, če želite dodati podnaslov</translation>
     </message>
     <message>
         <source>Click icon to add content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite ikono, če želite dodati vsebino</translation>
     </message>
     <message>
         <source>Double click to add chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojni klik za dodajanje grafikona</translation>
     </message>
     <message>
         <source>Double click to add clip art</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojni klik za dodajanje izrezka</translation>
     </message>
     <message>
         <source>Double click to add media clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojni klik za dodajanje predstavnostnega izrezka</translation>
     </message>
     <message>
         <source>Double click to add table</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojni klik za dodajanje tabele</translation>
     </message>
     <message>
         <source>Double click to add diagram or organization chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvojni klik za  dodajanje diagrama ali organigram</translation>
     </message>
     <message>
         <source>Title Area for AutoLayouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Področje naslova</translation>
     </message>
     <message>
         <source>Object Area for AutoLayouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Področje predmeta</translation>
     </message>
     <message>
         <source>Subtitle Area for AutoLayouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Področje podnaslova</translation>
     </message>
     <message>
         <source>Number Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Področje številke</translation>
     </message>
     <message>
         <source>Header Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Območje glave</translation>
     </message>
     <message>
         <source>Footer Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Področje noge</translation>
     </message>
     <message>
         <source>Date Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Področje datuma</translation>
     </message>
 </context>
 <context>
     <name>wpprender</name>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslov</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznake</translation>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv %d</translation>
     </message>
     <message>
         <source>Slide%d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv%d</translation>
     </message>
 </context>
 <context>
     <name>wppshell</name>
     <message>
         <source>Slide Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Načrtovanje diapozitiva</translation>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Načrtovanje diapozitiva - Animacijske sheme</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Načrtovanje diapozitiva - Barvne sheme</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animacija po meri</translation>
     </message>
     <message>
         <source>1 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>1 cm</translation>
     </message>
     <message>
         <source>2 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>2 cm</translation>
     </message>
     <message>
         <source>2 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>2 mreži na cm</translation>
     </message>
     <message>
         <source>3 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>3 cm</translation>
     </message>
     <message>
         <source>3 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>3 mreže na cm</translation>
     </message>
     <message>
         <source>4 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>4 cm</translation>
     </message>
     <message>
         <source>4 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>4 mreže na cm</translation>
     </message>
     <message>
         <source>5 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 cm</translation>
     </message>
     <message>
         <source>5 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 mrež na cm</translation>
     </message>
     <message>
         <source>6 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>6 mrež na cm</translation>
     </message>
     <message>
         <source>8 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>8 mrež na cm</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvajaj</translation>
     </message>
     <message>
         <source>Add Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj učinek</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Cannot add word &quot;%s&quot;.</source>
@@ -2062,19 +2079,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke(*.*)|*.*</translation>
     </message>
     <message>
         <source>All slides in current presentation are skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsi diapozitivi v trenutni presentaciji so preskočeni.</translation>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsi diapozitivi</translation>
     </message>
     <message>
         <source>Hide After Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij po animaciji</translation>
     </message>
     <message>
         <source>Hide on Next Click</source>
@@ -2086,19 +2103,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Gradual</source>
-        <translation type="unfinished"></translation>
+        <translation>Postopno</translation>
     </message>
     <message>
         <source>Instant</source>
-        <translation type="unfinished"></translation>
+        <translation>Takojšnje</translation>
     </message>
     <message>
         <source>As one Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot en predmet</translation>
     </message>
     <message>
         <source>All paragraphs at once</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse odstavke hkrati</translation>
     </message>
     <message>
         <source>By 5th Level paragraphs</source>
@@ -2122,15 +2139,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Full Spin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cel obrat</translation>
     </message>
     <message>
         <source>&amp;Half Spin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pol obrata</translation>
     </message>
     <message>
         <source>&amp;Quarter Spin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Četrt obrata</translation>
     </message>
     <message>
         <source>&amp;Two Spin</source>
@@ -2138,7 +2155,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>C&amp;ustom(&amp;U): </source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diaprojekcije po meri:</translation>
     </message>
     <message>
         <source>Hug&amp;e</source>
@@ -2150,15 +2167,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Smaller</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Manjša</translation>
     </message>
     <message>
         <source>&amp;Tiny</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelo maj&amp;hno</translation>
     </message>
     <message>
         <source>Across</source>
-        <translation type="unfinished"></translation>
+        <translation>Počez</translation>
     </message>
     <message>
         <source>&amp;Across</source>
@@ -2170,15 +2187,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>V smeri urinega kazalca</translation>
     </message>
     <message>
         <source>&amp;Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>V &amp;smeri urinega kazalca</translation>
     </message>
     <message>
         <source>Counterclockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>V nasprotni smeri urinega kazalca</translation>
     </message>
     <message>
         <source>C&amp;ounterclockwise</source>
@@ -2186,7 +2203,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Navzdol</translation>
     </message>
     <message>
         <source>&amp;Down</source>
@@ -2194,7 +2211,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>From Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Od spodaj</translation>
     </message>
     <message>
         <source>From &amp;Bottom</source>
@@ -2202,15 +2219,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>From Bottom_Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Z leve_spodaj</translation>
     </message>
     <message>
         <source>From Bottom-L&amp;eft</source>
-        <translation type="unfinished"></translation>
+        <translation>Z l&amp;eve spodaj</translation>
     </message>
     <message>
         <source>From Bottom_Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Z desne_spodaj</translation>
     </message>
     <message>
         <source>From Bottom-R&amp;ight</source>
@@ -2218,15 +2235,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>From Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Z leve</translation>
     </message>
     <message>
         <source>From &amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Z &amp;leve</translation>
     </message>
     <message>
         <source>From Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Z desne</translation>
     </message>
     <message>
         <source>From &amp;Right</source>
@@ -2234,7 +2251,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>From Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Z vrha</translation>
     </message>
     <message>
         <source>From &amp;Top</source>
@@ -2242,7 +2259,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>From Top_Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Z leve_zgoraj</translation>
     </message>
     <message>
         <source>From T&amp;op-Left</source>
@@ -2250,7 +2267,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>From Top_Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Z desne_zgoraj</translation>
     </message>
     <message>
         <source>From To&amp;p-Right</source>
@@ -2258,7 +2275,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodoravno</translation>
     </message>
     <message>
         <source>&amp;Horizontal</source>
@@ -2266,7 +2283,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Split Horizontal In</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev vodoravno navznoter</translation>
     </message>
     <message>
         <source>Split &amp;Horizontal In</source>
@@ -2274,7 +2291,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Split Horizontal Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev vodoravno navzven</translation>
     </message>
     <message>
         <source>Split H&amp;orizontal Out</source>
@@ -2290,7 +2307,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Out From Screen Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomanjšava središča zaslona</translation>
     </message>
     <message>
         <source>Out From Screen &amp;Center</source>
@@ -2314,7 +2331,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Left Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Levo dol</translation>
     </message>
     <message>
         <source>L&amp;eft Down</source>
@@ -2322,7 +2339,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Left Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Levo gor</translation>
     </message>
     <message>
         <source>&amp;Left Up</source>
@@ -2338,7 +2355,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>In From Screen Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava dna zaslona</translation>
     </message>
     <message>
         <source>In From Screen &amp;Bottom</source>
@@ -2346,7 +2363,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>In Slightly</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznatna povečava</translation>
     </message>
     <message>
         <source>I&amp;n Slightly</source>
@@ -2354,7 +2371,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>In To Screen Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava središča zaslona</translation>
     </message>
     <message>
         <source>In To Screen &amp;Center</source>
@@ -2362,7 +2379,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Right Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Desno dol</translation>
     </message>
     <message>
         <source>&amp;Right Down</source>
@@ -2370,7 +2387,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Right Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Desno gor</translation>
     </message>
     <message>
         <source>R&amp;ight Up</source>
@@ -2378,7 +2395,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>To Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Na dno</translation>
     </message>
     <message>
         <source>To &amp;Bottom</source>
@@ -2386,7 +2403,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>To Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Do spodaj levo</translation>
     </message>
     <message>
         <source>To Bottom-L&amp;eft</source>
@@ -2394,7 +2411,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>To Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Do spodaj desno</translation>
     </message>
     <message>
         <source>To Bottom-R&amp;ight</source>
@@ -2402,7 +2419,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>To Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Na levo</translation>
     </message>
     <message>
         <source>To &amp;Left</source>
@@ -2410,7 +2427,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>To Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Na desno</translation>
     </message>
     <message>
         <source>To &amp;Right</source>
@@ -2418,7 +2435,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>To Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Na vrh</translation>
     </message>
     <message>
         <source>To &amp;Top</source>
@@ -2426,7 +2443,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>To Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Do zgoraj levo</translation>
     </message>
     <message>
         <source>To T&amp;op-Left</source>
@@ -2434,7 +2451,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>To Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Do zgoraj desno</translation>
     </message>
     <message>
         <source>To To&amp;p-Right</source>
@@ -2442,7 +2459,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj</translation>
     </message>
     <message>
         <source>&amp;Up</source>
@@ -2450,7 +2467,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpično</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -2458,7 +2475,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Split Vertical In</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev navpično navznoter</translation>
     </message>
     <message>
         <source>Split &amp;Vertical In</source>
@@ -2466,7 +2483,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Split Vertical Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev navpično navzven</translation>
     </message>
     <message>
         <source>Split V&amp;ertical Out</source>
@@ -2474,631 +2491,631 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Blast</source>
-        <translation type="unfinished"></translation>
+        <translation>Detonacija</translation>
     </message>
     <message>
         <source>Bold Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Krepki blisk</translation>
     </message>
     <message>
         <source>Bold Reveal</source>
-        <translation type="unfinished"></translation>
+        <translation>Krepko razkritje</translation>
     </message>
     <message>
         <source>Brush On Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Čopič z barvo</translation>
     </message>
     <message>
         <source>Brush On Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Čopič s podčrtavo</translation>
     </message>
     <message>
         <source>Change Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba barve polnila</translation>
     </message>
     <message>
         <source>Change Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba pisave</translation>
     </message>
     <message>
         <source>Change Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba barve pisave</translation>
     </message>
     <message>
         <source>Change Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba velikosti pisave</translation>
     </message>
     <message>
         <source>Change Font Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba sloga pisave</translation>
     </message>
     <message>
         <source>Change Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba barve črt</translation>
     </message>
     <message>
         <source>Color Blend</source>
-        <translation type="unfinished"></translation>
+        <translation>Mešanje barv</translation>
     </message>
     <message>
         <source>Color Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Barvni val</translation>
     </message>
     <message>
         <source>Complementary Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplementarna barva</translation>
     </message>
     <message>
         <source>Complementary Color 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplementarna barva 2</translation>
     </message>
     <message>
         <source>Contrasting Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrastna barva</translation>
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatemnjeno</translation>
     </message>
     <message>
         <source>Desaturate</source>
-        <translation type="unfinished"></translation>
+        <translation>Razsičenje</translation>
     </message>
     <message>
         <source>Shimmer</source>
-        <translation type="unfinished"></translation>
+        <translation>Migljanje</translation>
     </message>
     <message>
         <source>Flash Bulb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bliskavica</translation>
     </message>
     <message>
         <source>Flicker</source>
-        <translation type="unfinished"></translation>
+        <translation>Migetanje</translation>
     </message>
     <message>
         <source>Grow/Shrink</source>
-        <translation type="unfinished"></translation>
+        <translation>Rast/skrčenje</translation>
     </message>
     <message>
         <source>Grow With Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Rast z barvo</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"></translation>
+        <translation>Razsvetljeno</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Premor</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustavi</translation>
     </message>
     <message>
         <source>4 Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>4-kraka zvezda</translation>
     </message>
     <message>
         <source>5 Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>5-kraka zvezda</translation>
     </message>
     <message>
         <source>6 Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>6-kraka zvezda</translation>
     </message>
     <message>
         <source>8 Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>8-kraka zvezda</translation>
     </message>
     <message>
         <source>Arc Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Lok navzdol</translation>
     </message>
     <message>
         <source>Arc Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Lok levo</translation>
     </message>
     <message>
         <source>Arc Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Lok desno</translation>
     </message>
     <message>
         <source>Arc Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Lok</translation>
     </message>
     <message>
         <source>Bean</source>
-        <translation type="unfinished"></translation>
+        <translation>Fižol</translation>
     </message>
     <message>
         <source>Bounce Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Poskok levo</translation>
     </message>
     <message>
         <source>Bounce Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Poskok desno</translation>
     </message>
     <message>
         <source>Buzz Saw</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkularka</translation>
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Krog</translation>
     </message>
     <message>
         <source>Crescent Moon</source>
-        <translation type="unfinished"></translation>
+        <translation>Polmesec</translation>
     </message>
     <message>
         <source>Curved Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrivljen kvadrat</translation>
     </message>
     <message>
         <source>Curved X</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrivljen X</translation>
     </message>
     <message>
         <source>Curvy Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrivljeno levo</translation>
     </message>
     <message>
         <source>Curvy Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrivljeno desno</translation>
     </message>
     <message>
         <source>Curvy Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrivljena zvezda</translation>
     </message>
     <message>
         <source>Draw Custom Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Nariši pot premikanja po meri</translation>
     </message>
     <message>
         <source>Decaying Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Razpadajoči val</translation>
     </message>
     <message>
         <source>Diagonal Down Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonalno navzdol desno</translation>
     </message>
     <message>
         <source>Diagonal Up Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonalno navzgor desno</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Romb</translation>
     </message>
     <message>
         <source>Equal Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Enakokraki trikotnik</translation>
     </message>
     <message>
         <source>Figure 8 Four</source>
-        <translation type="unfinished"></translation>
+        <translation>Štirikratna 8</translation>
     </message>
     <message>
         <source>Football</source>
-        <translation type="unfinished"></translation>
+        <translation>Rugbi</translation>
     </message>
     <message>
         <source>Funnel</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijak</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Srce</translation>
     </message>
     <message>
         <source>Heartbeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Srčni utrip</translation>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Šesterokotnik</translation>
     </message>
     <message>
         <source>Horizontal Figure 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodoravna 8</translation>
     </message>
     <message>
         <source>Inverted Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Preobrnjen kvadrat</translation>
     </message>
     <message>
         <source>Inverted Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Preobrnjen trikotnik</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Levo</translation>
     </message>
     <message>
         <source>Loop de Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Luping</translation>
     </message>
     <message>
         <source>Neutron</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevtron</translation>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Osmerokotnik</translation>
     </message>
     <message>
         <source>Parallelogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Paralelogram</translation>
     </message>
     <message>
         <source>Peanut</source>
-        <translation type="unfinished"></translation>
+        <translation>Kikiriki</translation>
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Peterokotnik</translation>
     </message>
     <message>
         <source>Plus</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus</translation>
     </message>
     <message>
         <source>Pointy Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Krakasta zvezda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Desno</translation>
     </message>
     <message>
         <source>Right Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravokotni trikotnik</translation>
     </message>
     <message>
         <source>S Curve 1</source>
-        <translation type="unfinished"></translation>
+        <translation>S krivulja 1</translation>
     </message>
     <message>
         <source>S Curve 2</source>
-        <translation type="unfinished"></translation>
+        <translation>S krivulja 2</translation>
     </message>
     <message>
         <source>Sine Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinus</translation>
     </message>
     <message>
         <source>Spiral Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Spirala levo</translation>
     </message>
     <message>
         <source>Spiral Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Spirala desno</translation>
     </message>
     <message>
         <source>Spring</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzmet</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Kvadrat</translation>
     </message>
     <message>
         <source>Stairs Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopnice navzdol</translation>
     </message>
     <message>
         <source>Swoosh</source>
-        <translation type="unfinished"></translation>
+        <translation>Vihra</translation>
     </message>
     <message>
         <source>Teardrop</source>
-        <translation type="unfinished"></translation>
+        <translation>Solza</translation>
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"></translation>
+        <translation>Trapez</translation>
     </message>
     <message>
         <source>Turn Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrat navzdol</translation>
     </message>
     <message>
         <source>Turn Down Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrat navzdol desno</translation>
     </message>
     <message>
         <source>Turn Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrat navzgor</translation>
     </message>
     <message>
         <source>Turn Up Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrat navzgor desno</translation>
     </message>
     <message>
         <source>Vertical Figure 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpična 8</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Val</translation>
     </message>
     <message>
         <source>Zigzag</source>
-        <translation type="unfinished"></translation>
+        <translation>Cikcak</translation>
     </message>
     <message>
         <source>Spin</source>
-        <translation type="unfinished"></translation>
+        <translation>Obračanje</translation>
     </message>
     <message>
         <source>Style Emphasis</source>
-        <translation type="unfinished"></translation>
+        <translation>Poudarek sloga</translation>
     </message>
     <message>
         <source>Teeter</source>
-        <translation type="unfinished"></translation>
+        <translation>Zibanje</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosojnost</translation>
     </message>
     <message>
         <source>Vertical Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpično označeno</translation>
     </message>
     <message>
         <source>Blink</source>
-        <translation type="unfinished"></translation>
+        <translation>Utrip</translation>
     </message>
     <message>
         <source>Appear</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojavitev</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Krivulja navzgor</translation>
     </message>
     <message>
         <source>Ascend</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzpon</translation>
     </message>
     <message>
         <source>Blinds</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaluzije</translation>
     </message>
     <message>
         <source>Boomerang</source>
-        <translation type="unfinished"></translation>
+        <translation>Bumerang</translation>
     </message>
     <message>
         <source>Bounce</source>
-        <translation type="unfinished"></translation>
+        <translation>Poskok</translation>
     </message>
     <message>
         <source>Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Okvir</translation>
     </message>
     <message>
         <source>Center Revolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrtenje okoli središča</translation>
     </message>
     <message>
         <source>Checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Šahovnica</translation>
     </message>
     <message>
         <source>Color Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Barvni pisalni stroj</translation>
     </message>
     <message>
         <source>Crawl In</source>
-        <translation type="unfinished"></translation>
+        <translation>Plazenje navznoter</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelet</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <source>Descend</source>
-        <translation type="unfinished"></translation>
+        <translation>Spust</translation>
     </message>
     <message>
         <source>Dissolve in</source>
-        <translation type="unfinished"></translation>
+        <translation>Izginjanje</translation>
     </message>
     <message>
         <source>Ease In</source>
-        <translation type="unfinished"></translation>
+        <translation>Počasi navznoter</translation>
     </message>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširjanje</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojemanje</translation>
     </message>
     <message>
         <source>Faded Swivel</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojemajoče vrtenje</translation>
     </message>
     <message>
         <source>Faded Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojemajoča povečava</translation>
     </message>
     <message>
         <source>Flash Once</source>
-        <translation type="unfinished"></translation>
+        <translation>Blisk</translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevrat</translation>
     </message>
     <message>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Plavanje</translation>
     </message>
     <message>
         <source>Fly In</source>
-        <translation type="unfinished"></translation>
+        <translation>Letenje navznoter</translation>
     </message>
     <message>
         <source>Fold</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregib</translation>
     </message>
     <message>
         <source>Glide</source>
-        <translation type="unfinished"></translation>
+        <translation>Drsenje</translation>
     </message>
     <message>
         <source>Grow &amp; Turn</source>
-        <translation type="unfinished"></translation>
+        <translation>Rast in obračanje</translation>
     </message>
     <message>
         <source>Light Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlobna hitrost</translation>
     </message>
     <message>
         <source>Peek In</source>
-        <translation type="unfinished"></translation>
+        <translation>Kukanje navznoter</translation>
     </message>
     <message>
         <source>Pinwheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetrnica</translation>
     </message>
     <message>
         <source>Random Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključne vrstice</translation>
     </message>
     <message>
         <source>Random Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Naključni učinki</translation>
     </message>
     <message>
         <source>Rise Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Dviganje</translation>
     </message>
     <message>
         <source>Sling</source>
-        <translation type="unfinished"></translation>
+        <translation>Frača</translation>
     </message>
     <message>
         <source>Spinner</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrtavka</translation>
     </message>
     <message>
         <source>Spiral In</source>
-        <translation type="unfinished"></translation>
+        <translation>Spirala navznoter</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelitev</translation>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Raztezanje</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiskanje</translation>
     </message>
     <message>
         <source>Strips</source>
-        <translation type="unfinished"></translation>
+        <translation>Strganje</translation>
     </message>
     <message>
         <source>Swish</source>
-        <translation type="unfinished"></translation>
+        <translation>Žvižg</translation>
     </message>
     <message>
         <source>Swivel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrtenje</translation>
     </message>
     <message>
         <source>Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>Nit</translation>
     </message>
     <message>
         <source>Unfold</source>
-        <translation type="unfinished"></translation>
+        <translation>Razgrnitev</translation>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"></translation>
+        <translation>Klin</translation>
     </message>
     <message>
         <source>Wheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolo</translation>
     </message>
     <message>
         <source>Whip</source>
-        <translation type="unfinished"></translation>
+        <translation>Bič</translation>
     </message>
     <message>
         <source>Wipe</source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje</translation>
     </message>
     <message>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava</translation>
     </message>
     <message>
         <source>Disappear</source>
-        <translation type="unfinished"></translation>
+        <translation>Izginjanje</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Krivulja navzdol</translation>
     </message>
     <message>
         <source>Crawl Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Plazenje navzven</translation>
     </message>
     <message>
         <source>Dissolve Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Razpadanje navzven</translation>
     </message>
     <message>
         <source>Ease Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Počasi navzven</translation>
     </message>
     <message>
         <source>Contract</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgostitev</translation>
     </message>
     <message>
         <source>Fly Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Letenje navznoter</translation>
     </message>
     <message>
         <source>Peek Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Kukanje navzven</translation>
     </message>
     <message>
         <source>Sink Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Potop</translation>
     </message>
     <message>
         <source>Spiral Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Spirala navzven</translation>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesedanje</translation>
     </message>
     <message>
         <source>Stretchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Elastično</translation>
     </message>
     <message>
         <source>&amp;Bold</source>
@@ -3118,59 +3135,59 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;1 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;8 naper {1 ?}</translation>
     </message>
     <message>
         <source>&amp;2 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;2 naperi</translation>
     </message>
     <message>
         <source>&amp;3 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;3 napere</translation>
     </message>
     <message>
         <source>&amp;4 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;4 napere</translation>
     </message>
     <message>
         <source>&amp;8 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;8 naper</translation>
     </message>
     <message>
         <source>1 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>1 napera</translation>
     </message>
     <message>
         <source>2 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>2 naperi</translation>
     </message>
     <message>
         <source>3 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>3 napere</translation>
     </message>
     <message>
         <source>4 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>4 napere</translation>
     </message>
     <message>
         <source>8 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>8 naper</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;100%</translation>
     </message>
     <message>
         <source>&amp;25%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;25%</translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;50%</translation>
     </message>
     <message>
         <source>&amp;75%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;75%</translation>
     </message>
     <message>
         <source>Select the object you want to animate, then click Custom Animation on the Slide Show menu to add animation.</source>
@@ -3178,23 +3195,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovno</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Brez)</translation>
     </message>
     <message>
         <source>Exciting</source>
-        <translation type="unfinished"></translation>
+        <translation>Napeto</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nadaljuj</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prezri</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
@@ -3202,11 +3219,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zamenjaj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Cancelled by user.</source>
@@ -3222,11 +3239,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dodatno</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Najdi</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
@@ -3234,31 +3251,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni</translation>
     </message>
     <message>
         <source>The spelling check is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preverjanje črkovanja je dokončano.</translation>
     </message>
     <message>
         <source>Chinese(PRC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitajščina (LR Kitajska)</translation>
     </message>
     <message>
         <source>Click to expand contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, če želite razširiti vsebino</translation>
     </message>
     <message>
         <source>Click to hide contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, če želite skriti vsebino</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Copy %sof %s</source>
@@ -3274,27 +3291,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Krivulja navzgor</translation>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva po meri</translation>
     </message>
     <message>
         <source>Custom Show %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcija po meri %d</translation>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcije po meri</translation>
     </message>
     <message>
         <source>Set up Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Priprava diaprojekcije</translation>
     </message>
     <message>
         <source> (Default)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Privzeto)</translation>
     </message>
     <message>
         <source>% &amp;delay between letters</source>
@@ -3314,11 +3331,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Are you sure to delete the default dictionary?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite izbrisati privzeti slovar?</translation>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri brisanju besed pride do napake.</translation>
     </message>
     <message>
         <source>Incorrect dictionary! Can&apos;t modify!</source>
@@ -3330,35 +3347,35 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Duration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Trajanje:</translation>
     </message>
     <message>
         <source>Duratio&amp;n:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Trajanje:</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje</translation>
     </message>
     <message>
         <source>Elbow</source>
-        <translation type="unfinished"></translation>
+        <translation>Koleno</translation>
     </message>
     <message>
         <source>Emphasis Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj učinek za poudarek</translation>
     </message>
     <message>
         <source>English(U.S.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Angleščina (ZDA)</translation>
     </message>
     <message>
         <source>Entrance Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj vhodni učinek</translation>
     </message>
     <message>
         <source>Exit Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Izhodni učinek</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
@@ -3370,7 +3387,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka že obstaja. Ali želite zamenjati obstoječo datoteko?</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has finished searching the presentation.</source>
@@ -3382,15 +3399,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisava:</translation>
     </message>
     <message>
         <source>Moderate</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmerno</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>
@@ -3398,47 +3415,47 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>After Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Po prejšnjem</translation>
     </message>
     <message>
         <source>By letter: </source>
-        <translation type="unfinished"></translation>
+        <translation>Po črki: </translation>
     </message>
     <message>
         <source>By word: </source>
-        <translation type="unfinished"></translation>
+        <translation>Po besedi:</translation>
     </message>
     <message>
         <source>End: </source>
-        <translation type="unfinished"></translation>
+        <translation>Konec: </translation>
     </message>
     <message>
         <source>, end: %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>, konec %s.</translation>
     </message>
     <message>
         <source>Loop: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ponavljaj: </translation>
     </message>
     <message>
         <source>Next click</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednji klik</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednji diapozitiv</translation>
     </message>
     <message>
         <source>On Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob kliku</translation>
     </message>
     <message>
         <source>Start: </source>
-        <translation type="unfinished"></translation>
+        <translation>Začetek: </translation>
     </message>
     <message>
         <source>With Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>S prejšnjim</translation>
     </message>
     <message>
         <source>Input permission password.</source>
@@ -3450,7 +3467,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>This font style name does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>To ime sloga pisave ne obstaja.</translation>
     </message>
     <message>
         <source>Japanese(JPN)</source>
@@ -3462,15 +3479,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev diapozitiva</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehod med diapozitivi</translation>
     </message>
     <message>
         <source>Hyperlink to Other File</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperpovezava do druge datoteke</translation>
     </message>
     <message>
         <source>Hyperlink to Other Kingsoft Presentation Files</source>
@@ -3478,47 +3495,47 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakleni</translation>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogled matrice diapozitiva</translation>
     </message>
     <message>
         <source>Master: Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrica: Telo</translation>
     </message>
     <message>
         <source>Master: Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrica: Naslov</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Količina</translation>
     </message>
     <message>
         <source>Am&amp;ount</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;oličina</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva</translation>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Bar&amp;va</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Smer</translation>
     </message>
     <message>
         <source>Di&amp;rection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sme&amp;r</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva polnila</translation>
     </message>
     <message>
         <source>&amp;Fill Color</source>
@@ -3526,7 +3543,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pisave</translation>
     </message>
     <message>
         <source>&amp;Font Color</source>
@@ -3534,7 +3551,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost pisave</translation>
     </message>
     <message>
         <source>&amp;Font Size</source>
@@ -3542,7 +3559,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Font Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Slog pisave</translation>
     </message>
     <message>
         <source>&amp;Font Style</source>
@@ -3550,7 +3567,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva črte</translation>
     </message>
     <message>
         <source>&amp;Line Color</source>
@@ -3558,7 +3575,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Si&amp;ze</source>
@@ -3566,7 +3583,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Napere</translation>
     </message>
     <message>
         <source>Spo&amp;kes</source>
@@ -3578,27 +3595,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Modify: </source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni:</translation>
     </message>
     <message>
         <source>Modify effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni učinek</translation>
     </message>
     <message>
         <source>Modify selected effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni izbrane učinke</translation>
     </message>
     <message>
         <source>Motion Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Poti gibanja</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaklenjeno</translation>
     </message>
     <message>
         <source>UnLocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Odklenjeno</translation>
     </message>
     <message>
         <source>Movie Oper&amp;ation</source>
@@ -3606,7 +3623,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>How do you want the movie to start in the slide show?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kako naj se film začne v diaprojekciji?</translation>
     </message>
     <message>
         <source>The name &quot;%s&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%s&quot;.</source>
@@ -3614,19 +3631,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>Normal View</source>
-        <translation type="unfinished"></translation>
+        <translation>Navadni pogled</translation>
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ni predlogov)</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Opombe</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has finished searching the presentation. The search item wasn&apos;t found.</source>
@@ -3634,7 +3651,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrditev gesla se ne ujema.</translation>
     </message>
     <message>
         <source>Experienced an error when opening PDF file!</source>
@@ -3642,15 +3659,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pot:</translation>
     </message>
     <message>
         <source>Lines &amp; Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Črte in krivulje</translation>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebno</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -3666,7 +3683,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Exporting Labels...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvoz nalepk...</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
@@ -3678,7 +3695,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Primary Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Primarni monitor</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
@@ -3686,19 +3703,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>The slides you have selected to print no longer exist. Please make another selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitivi, ki jih želite natisniti, ne obstajajo več. Izberite druge.</translation>
     </message>
     <message>
         <source>Programs(*.exe)|*.exe|All Files(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Programi(*.exe)|*.exe|Vse datoteke(*.*)|*.*</translation>
     </message>
     <message>
         <source>Property:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnost:</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -3706,7 +3723,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Subtle</source>
-        <translation type="unfinished"></translation>
+        <translation>Fino</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has finished searching the presentation. %d replacements were made.</source>
@@ -3714,11 +3731,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Do you want to reset this gallery position to the default setting? </source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite ponastaviti ta položaj galerije na privzeto nastavitev? </translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
@@ -3726,39 +3743,39 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi ozadja</translation>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi besedila in črt</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi senc</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi naslovnega besedila</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi polnil</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi poudarkov</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi poudarkov in hiperpovezav</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledi barvni shemi poudarkov in obiskanih hiperpovezav</translation>
     </message>
     <message>
         <source>Background Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva ozadja</translation>
     </message>
     <message>
         <source>Text and Lines Color</source>
@@ -3778,7 +3795,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Accent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva poudarka</translation>
     </message>
     <message>
         <source>Accent and Hyperlink Color</source>
@@ -3790,7 +3807,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Monitor %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor %d</translation>
     </message>
     <message>
         <source>The selected slides are skipped.</source>
@@ -3798,7 +3815,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Select a Program to Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi program za zagon</translation>
     </message>
     <message>
         <source>&amp;Show Advanced Timeline</source>
@@ -3814,7 +3831,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>You must name your custom show.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcijo po meri morate poimenovati.</translation>
     </message>
     <message>
         <source>You can&apos;t have two custom shows with the same name. Please enter a new name.</source>
@@ -3822,59 +3839,59 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Slide %d .. %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv %d .. %d</translation>
     </message>
     <message>
         <source>Slide Show from current slide(Shift+F5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcija iz trenutnega diapozitiva(Shift+F5)</translation>
     </message>
     <message>
         <source>35mm Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>35-mm diapozitivi</translation>
     </message>
     <message>
         <source>A3 Paper(297x420 mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A3 (297 x 420 mm)</translation>
     </message>
     <message>
         <source>A4 Paper(210x297 mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A4 (210 x 297 mm)</translation>
     </message>
     <message>
         <source>B4 (ISO) Paper(250x353 mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>B4 (ISO) (250 x 353 mm)</translation>
     </message>
     <message>
         <source>B5 (ISO) Paper(176x250 mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>B5 (ISO) (176 x 250 mm)</translation>
     </message>
     <message>
         <source>Banner</source>
-        <translation type="unfinished"></translation>
+        <translation>Trak</translation>
     </message>
     <message>
         <source>Ledger Paper(11x17 in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ledger Paper (11 x 17 palcev)</translation>
     </message>
     <message>
         <source>Letter Paper(8.5x11 in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Letter (8,5 x 11 palcev)</translation>
     </message>
     <message>
         <source>On-screen Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcija na zaslonu</translation>
     </message>
     <message>
         <source>Overhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosojnica</translation>
     </message>
     <message>
         <source>Slide Sorter View</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogled razvrstilnika diapozitivov</translation>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv %d</translation>
     </message>
     <message>
         <source>Sound Oper&amp;ation</source>
@@ -3882,11 +3899,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>How do you want the sound to start in the slide show?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kako naj se začne predvajanje zvoka v diaprojekciji?</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitrost:</translation>
     </message>
     <message>
         <source>Sp&amp;eed:</source>
@@ -3894,31 +3911,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitro</translation>
     </message>
     <message>
         <source>%d seconds(Fast)</source>
-        <translation type="unfinished"></translation>
+        <translation>%d s (hitro)</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednje</translation>
     </message>
     <message>
         <source>%d seconds(Medium)</source>
-        <translation type="unfinished"></translation>
+        <translation>%d s (srednje)</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Počasi</translation>
     </message>
     <message>
         <source>%d seconds(Slow)</source>
-        <translation type="unfinished"></translation>
+        <translation>%d s (počasi)</translation>
     </message>
     <message>
         <source>Very Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelo hitro</translation>
     </message>
     <message>
         <source>%.1f seconds(Very Fast)</source>
@@ -3926,15 +3943,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Very Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelo počasi</translation>
     </message>
     <message>
         <source>%d seconds(Very Slow)</source>
-        <translation type="unfinished"></translation>
+        <translation>%d s (zelo počasi)</translation>
     </message>
     <message>
         <source>Straight</source>
-        <translation type="unfinished"></translation>
+        <translation>Raven</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -3942,31 +3959,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Undo %d Action(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi to število dejanj: %d</translation>
     </message>
     <message>
         <source>UnLock</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkleni</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Do konca diapozitiva</translation>
     </message>
     <message>
         <source>Until Next Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Do naslednjega klika</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Uporabi azijske pisave)</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neveljaven vnos.</translation>
     </message>
     <message>
         <source>All Presentations(*.dps;*.ppt;*.pps)|*.dps;*.ppt;*.pps|All Files(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse predstavitve(*.dps;*.ppt;*.pps)|*.dps;*.ppt;*.pps|All Files(*.*)|*.*</translation>
     </message>
     <message>
         <source>Word %s is not found in Dictionary, do you still want to change it?</source>
@@ -3978,7 +3995,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Če odstranite osebni slovar, boste odstranili osebni slovar iz vseh ostalih Kingsoft Officeovih programov, ki ga uporabljajo. Ali želite nadaljevati?</translation>
     </message>
     <message>
         <source>The slide you selected to export doesn&apos;t exist. Please select another one.</source>
@@ -4022,15 +4039,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabniške povratne informacije</translation>
     </message>
     <message>
         <source>Triggers: </source>
-        <translation type="unfinished"></translation>
+        <translation>Sprožilci:</translation>
     </message>
     <message>
         <source>Add Entrance Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj vhodni učinek</translation>
     </message>
     <message>
         <source>Modify Entrance Effect</source>
@@ -4038,7 +4055,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Add Emphasis Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj učinek za poudarek</translation>
     </message>
     <message>
         <source>Modify Emphasis Effect</source>
@@ -4046,7 +4063,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Add Exit Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj izhodni učinek</translation>
     </message>
     <message>
         <source>Modify Exit Effect</source>
@@ -4078,219 +4095,219 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     <name>wppuil</name>
     <message>
         <source>Master Layout...</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev matrice...</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev diapozitiva</translation>
     </message>
     <message>
         <source>Notes Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev opomb</translation>
     </message>
     <message>
         <source>Notes Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev matrice opomb</translation>
     </message>
     <message>
         <source>Handout Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev matrice izročka</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Številka diapozitiva</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Številka strani</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Navadno</translation>
     </message>
     <message>
         <source>Normal (Restore Panes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navadni (obnovi podokna)</translation>
     </message>
     <message>
         <source>400 %</source>
-        <translation type="unfinished"></translation>
+        <translation>400 %</translation>
     </message>
     <message>
         <source>300 %</source>
-        <translation type="unfinished"></translation>
+        <translation>300 %</translation>
     </message>
     <message>
         <source>200 %</source>
-        <translation type="unfinished"></translation>
+        <translation>200 %</translation>
     </message>
     <message>
         <source>150 %</source>
-        <translation type="unfinished"></translation>
+        <translation>150 %</translation>
     </message>
     <message>
         <source>100 %</source>
-        <translation type="unfinished"></translation>
+        <translation>100 %</translation>
     </message>
     <message>
         <source>75 %</source>
-        <translation type="unfinished"></translation>
+        <translation>75 %</translation>
     </message>
     <message>
         <source>66 %</source>
-        <translation type="unfinished"></translation>
+        <translation>66 %</translation>
     </message>
     <message>
         <source>50 %</source>
-        <translation type="unfinished"></translation>
+        <translation>50 %</translation>
     </message>
     <message>
         <source>33 %</source>
-        <translation type="unfinished"></translation>
+        <translation>33 %</translation>
     </message>
     <message>
         <source>25 %</source>
-        <translation type="unfinished"></translation>
+        <translation>25 %</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi</translation>
     </message>
     <message>
         <source>Fit, -1</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi, -1</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitivi</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (1 diapozitiv na stran)</translation>
     </message>
     <message>
         <source>Handouts (2 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (2 diapozitiva na stran)</translation>
     </message>
     <message>
         <source>Handouts (3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (3 diapozitivi na stran)</translation>
     </message>
     <message>
         <source>Handouts (4 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (4 diapozitivi na stran)</translation>
     </message>
     <message>
         <source>Handouts (6 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (6 diapozitivov na stran)</translation>
     </message>
     <message>
         <source>Handouts (9 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izročki (9 diapozitivov na stran)</translation>
     </message>
     <message>
         <source>Notes Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Strani opomb</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"></translation>
+        <translation>Orisni pogled</translation>
     </message>
     <message>
         <source>Notes Pages (1 slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Strani opomb (1 diapozitiv na stran)</translation>
     </message>
     <message>
         <source>Notes Pages (3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Strani opomb (3 diapozitivi na stran)</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Priprava strani</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni mogoče razveljaviti</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni mogoče uveljaviti</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Uveljavi</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Izrez</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj</translation>
     </message>
     <message>
         <source>Delete Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši diapozitiv</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši matrico</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohrani matrico</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Preimenuj matrico</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Mreža in vodila</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava in noga</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi številko diapozitiva</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum in čas</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Ravnilo</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nov diapozitiv</translation>
     </message>
     <message>
         <source>Insert New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi novo matrico diapozitiva</translation>
     </message>
     <message>
         <source>Insert New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi novo matrico naslova</translation>
     </message>
     <message>
         <source>Insert Duplicate Slide</source>
@@ -4298,43 +4315,43 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbol</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisava</translation>
     </message>
     <message>
         <source>Font Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnava pisave</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnava</translation>
     </message>
     <message>
         <source>Change Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Velike/male črke</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Razmik vrstic</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelom vrstice</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev matrice</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Ozadje</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikuj predmet</translation>
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
@@ -4342,107 +4359,107 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Priprava diaprojekcije</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitve dejanja</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi hiperpovezavo</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje hiperpovezave</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani hiperpovezavo</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij diapozitiv</translation>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaprojekcije po meri</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost pisave</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Krepko</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ležeče</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Podčrtano</translation>
     </message>
     <message>
         <source>Text Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Senčenje besedila</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj velikost pisave</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšaj velikost pisave</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pisave</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Oštevilčevanje</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznake</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni smer besedila</translation>
     </message>
     <message>
         <source>Increase Paragraph Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Poveča razmik odstavka</translation>
     </message>
     <message>
         <source>Decrease Paragraph Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjša razmik odstavka</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj zamik</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšaj zamik</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Govornikove opombe</translation>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Barvna shema</translation>
     </message>
     <message>
         <source>Design Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Predloge načrta</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished"></translation>
+        <translation>Povleci in spusti</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
@@ -4458,11 +4475,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Apply Design Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi predlogo načrta</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite shraniti spremembe, ki ste jih naredili v %s?</translation>
     </message>
     <message utf8="true">
         <source>Failed to save. Please try one of the following: 
@@ -4473,7 +4490,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Failed to open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje ni uspelo.</translation>
     </message>
     <message>
         <source>Failed to create a new file.</source>
@@ -4486,35 +4503,35 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse slike(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</translation>
     </message>
     <message>
         <source>Media Files(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
-        <translation type="unfinished"></translation>
+        <translation>Predstavnostne datotekes(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi sliko</translation>
     </message>
     <message>
         <source>Insert Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavljanje medija</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva polnila</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva črte</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva sence</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>3D-barva</translation>
     </message>
     <message>
         <source>Insert Sound from File</source>
@@ -4526,15 +4543,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi tabelo</translation>
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi grafikon</translation>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi besedilo</translation>
     </message>
     <message>
         <source>Gallery Library</source>
@@ -4542,23 +4559,23 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Animation Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Animacijska shema</translation>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipografija</translation>
     </message>
     <message>
         <source>Edit Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje predmeta</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Enakomerno porazdeli vrstice</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Enakomerno porazdeli stolpce</translation>
     </message>
     <message>
         <source>Kingsoft Office has not found any installed printers.</source>
@@ -4570,11 +4587,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kot sliko</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -4582,23 +4599,23 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj besedilo</translation>
     </message>
     <message>
         <source>Insert Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi film</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke</translation>
     </message>
     <message>
         <source>*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke filmov (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
@@ -4606,7 +4623,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka Windows Media(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz</source>
@@ -4614,7 +4631,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Windows Video File(avi) (*.avi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Video datoteka za Windows(avi) (*.avi)</translation>
     </message>
     <message>
         <source>*.avi</source>
@@ -4622,7 +4639,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</source>
-        <translation type="unfinished"></translation>
+        <translation>Filmska datoteka(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</translation>
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</source>
@@ -4630,7 +4647,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka Windows Media Video(wmv) (*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>*.wmv;*.wvx</source>
@@ -4638,11 +4655,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi zvok</translation>
     </message>
     <message>
         <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvočne datoteke (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</translation>
     </message>
     <message>
         <source>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</source>
@@ -4650,7 +4667,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvočna datoteka AU(au) (*.au;*.snd)</translation>
     </message>
     <message>
         <source>*.au;*.snd</source>
@@ -4658,7 +4675,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvočna datoteka MP3(mp3) (*.mp3;*.m3u)</translation>
     </message>
     <message>
         <source>*.mp3;*.m3u</source>
@@ -4666,7 +4683,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka MIDI(midi) (*.mid;*.midi;*.rmi)</translation>
     </message>
     <message>
         <source>*.mid;*.midi;*.rmi</source>
@@ -4690,7 +4707,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Click to add notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, če želite dodati opombe</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
@@ -4706,7 +4723,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>The font &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisava &quot;</translation>
     </message>
     <message>
         <source>&quot;&quot; isn&apos;t available for your system. Do you want to use this font anyway?</source>
@@ -4718,15 +4735,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši vse oznake</translation>
     </message>
     <message>
         <source>Erase All Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši vse oznake na diapozitivu</translation>
     </message>
     <message>
         <source>Flash Files(*.swf)</source>
@@ -4754,7 +4771,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova prazna predstavitev</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4766,11 +4783,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Preverjanje črkovanja</translation>
     </message>
     <message>
         <source>[Disabled]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Onemogočeno]</translation>
     </message>
     <message>
         <source>Kingsoft Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
@@ -4782,35 +4799,35 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Chinese Conversion...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvorba kitajščine...</translation>
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Poenostavljena/tradicionalna kitajščina</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikovano besedilo</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Neoblikovano besedilo</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevedi</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Iskanje</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpisano</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Podpisano</translation>
     </message>
     <message>
         <source>This operation will delete a slide and its note page and graphics. Do you want to continue?</source>
@@ -4818,27 +4835,27 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsak diapozitiv v vaši predstavitvi je bil shranjen kot ločena datoteka v mapi %s .</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevedi v poenostavljeno kitajščino</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevedi v tradicionalno kitajščino</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Natisni</translation>
     </message>
     <message>
         <source>Print directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiskaj neposredno</translation>
     </message>
     <message>
         <source>Play the Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvajajte animacijo</translation>
     </message>
     <message>
         <source>Play background music</source>

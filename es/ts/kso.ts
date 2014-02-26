@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Object Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto eliminado</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Unknown Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error desconocido</translation>
     </message>
     <message>
         <source>Invalid Argument</source>
@@ -39,72 +39,76 @@
         <source>Temporary directory does not exist or failed to create temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>El directorio temporal no existe o ha fallado la creación del directorio temporal.
+
+Por favor, compruebe la configuración de su sistema y asegúrese de que el directorio temporal es accesible al usuario actual, y luego reinice Kingsoft Office.</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>El usuario actual no tiene permiso para escribir en el directorio temporal.
+
+Por favor, compruebe la configuración de su sistema y asegúrese de que el directorio temporal es accesible al usuario actual, y luego reinice Kingsoft Office.</translation>
     </message>
 </context>
 <context>
     <name>copypaste</name>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto sin formato</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como texto sin ningún formato.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Writer</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Writer.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Writer.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Spreadsheets.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Presentation.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Mail</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Mail.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Mail.</translation>
     </message>
     <message>
         <source>Data of WPS Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de Kingsoft Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como datos de Kingsoft Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
-        <translation type="unfinished"></translation>
+        <translation>%s Objeto</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como un objeto OLE.</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
@@ -124,35 +128,35 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (PNG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen PNG.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (JFIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen JFIF.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (GIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen GIF.</translation>
     </message>
     <message>
         <source>Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de bits</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen de mapa de bits.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
@@ -160,35 +164,35 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Picture (JPG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (JPG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPEG picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como una imagen JPEG.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto con formato (RTF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text with font and table formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapeles se insertará como texto con formato de fuente y tabla.</translation>
     </message>
     <message>
         <source>HTML Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato HTML</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapapeles se insertará como formato HTML.</translation>
     </message>
     <message>
         <source>MS Office Drawing Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto de dibujo de MS Office</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Office Drawing.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del portapales se insertará como Office Drawing.</translation>
     </message>
     <message>
         <source>FILES</source>
@@ -203,7 +207,7 @@ Please check your system settings and ensure the temporary directory under the c
     <name>dguil</name>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las imágenes(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -223,7 +227,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de bits de Windows(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
@@ -235,27 +239,27 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar autoforma</translation>
     </message>
     <message>
         <source>Insert Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar conector</translation>
     </message>
     <message>
         <source>Insert Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar línea</translation>
     </message>
     <message>
         <source>Insert Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar flecha</translation>
     </message>
     <message>
         <source>Insert Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar curva</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
@@ -279,123 +283,123 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Paste Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar formato</translation>
     </message>
     <message>
         <source>Rotate Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotar objeto</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover objeto</translation>
     </message>
     <message>
         <source>Resize Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionar objeto</translation>
     </message>
     <message>
         <source>Adjust Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar objeto</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <source>Make Same Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer de la misma altura</translation>
     </message>
     <message>
         <source>Make Same Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer del mismo ancho</translation>
     </message>
     <message>
         <source>Make Same Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer del mismo tamaño</translation>
     </message>
     <message>
         <source>Group </source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Desagrupar</translation>
     </message>
     <message>
         <source>Regroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Reagrupar</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Traer al frente</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar al fondo</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Traer adelante</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar atrás</translation>
     </message>
     <message>
         <source>Nudge Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Empujar objeto</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear a la izquierda</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear al medio</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear a la derecha</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear en la parte superior</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear horizontalmente</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear en la parte inferior</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir horizontalmente</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir verticalmente</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar libremente</translation>
     </message>
     <message utf8="true">
         <source>Rotate Left 90º</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 90° a la izquierda</translation>
     </message>
     <message utf8="true">
         <source>Rotate Right 90º</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 90° a la derecha</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltear horizontalmente</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltear verticalmente</translation>
     </message>
     <message>
         <source>Reroute Connectors</source>
@@ -403,11 +407,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Change Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar puntos</translation>
     </message>
     <message>
         <source>Change To Autoshape</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar a autoforma</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -415,11 +419,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Select Multiple Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar múltiples objetos</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar objetos</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
@@ -427,11 +431,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de relleno</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efectos de relleno</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
@@ -439,31 +443,31 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de línea</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de línea</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de autoforma</translation>
     </message>
     <message>
         <source>Format Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de forma</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin sombra</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Toggle Shadow</source>
@@ -475,19 +479,19 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de sombra</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombra semitransparente</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin 3D</translation>
     </message>
     <message>
         <source>3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>Toggle 3-D</source>
@@ -495,7 +499,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Rotate 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotar 3D</translation>
     </message>
     <message>
         <source>Custom 3-D</source>
@@ -503,35 +507,35 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color 3D</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir ruta</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar ruta</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir punto</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar segmento</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento recto</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento curvo</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -539,127 +543,127 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Delete Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar punto</translation>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto punto</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto liso</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto recto</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de esquina</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Conector recto</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Conector curvado</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Conector curvo</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar hipervínculo</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir hipervínculo</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar hipervínculo</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar hipervínculo</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Salir del modo de rotación</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar WordArt</translation>
     </message>
     <message>
         <source>Edit Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar texto...</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galería de WordArt</translation>
     </message>
     <message>
         <source>Format WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation type="unfinished"></translation>
+        <translation>Alto de letra de WordArt</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto vertical de WordArt</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear a la izquierda</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear a la derecha</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificar palabras</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificar letras</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificación estrecha</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy estrecho</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrecho</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Loose</source>
-        <translation type="unfinished"></translation>
+        <translation>Separado</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy separado</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Kern Character Pairs</source>
@@ -667,23 +671,23 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>More AutoShapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Más autoformas</translation>
     </message>
     <message>
         <source>Insert Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar rectángulo</translation>
     </message>
     <message>
         <source>Insert Oval</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar óvalo</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar cuadro de texto</translation>
     </message>
     <message>
         <source>Insert Vertical Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar cuadro de texto vertical</translation>
     </message>
     <message>
         <source>Insert Diagram or Organization Chart</source>
@@ -691,39 +695,39 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar Clip Art</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar Objeto OLE</translation>
     </message>
     <message>
         <source>Edit OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar objeto OLE</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Líneas</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar texto</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir texto</translation>
     </message>
     <message>
         <source>Update Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar vínculo</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de objeto</translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Relación a la página</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -731,96 +735,96 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The value must be between 0% and 500%.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor debe estar entre 0% y 500%.</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar formato</translation>
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor debe estar entre -600 pto y 9600 pto.</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>Más contraste</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>Menos contraste</translation>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Más brillo</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Menos brillo</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer color transparente</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer imagen</translation>
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Insert Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar control</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimir imágenes</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation type="unfinished"></translation>
+        <translation>La imagen que ha insertado es demasiado grande. Por favor, comprímala para ahorrar espacio de disco. Tenga en cuenta que comprimir imágenes puede reducir la cualidad de sus imágenes. ¿Desea comprimirla/s?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Su texto aquí</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de diseño</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Salir del modo de diseño</translation>
     </message>
     <message>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controles</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de imagen no identificable.</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar imagen</translation>
     </message>
     <message>
         <source>The server application, source file, or item can&apos;t be found, or returned an unknown error. You may need to reinstall the server application</source>
@@ -828,11 +832,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como imagen</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp</source>
@@ -844,31 +848,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducir</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer, please make sure it&apos;s safe before continuing. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Está a punto de activar un objeto incrustado, que puede contener virus o dañar su equipo, por favor asegúrese de que es seguro antes de continuar. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Cannot create the object, please make sure the object has been registered in the Registry.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear el objeto, por favor asegúrese de que el objeto ha sido registrado en el registro.</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este objeto está dañado o ya no puede ser usado.</translation>
     </message>
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear el objeto, este archivo puede estar en uso. Por favor, cierre el archivo e intente insertar el objeto de nuevo.</translation>
     </message>
     <message>
         <source>Kingsoft Office can not start the source application of the object.</source>
@@ -876,38 +880,38 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede reproducir el archivo especificado en el dispositivo especificado. El archivo puede estar dañano, no estar en el formato correcto o no hay un manejador disponible para este formato.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede encontrar el archivo espeficiado, por favor verifique que la ruta y el nombre del archivo son correctos.</translation>
     </message>
 </context>
 <context>
     <name>drawing</name>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectángulo</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectángulo redondeado</translation>
     </message>
     <message>
         <source>Oval</source>
-        <translation type="unfinished"></translation>
+        <translation>Óvalo</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Rombo</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Triángulo isósceles</translation>
     </message>
     <message>
         <source>Right Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Triángulo rectángulo</translation>
     </message>
     <message>
         <source>Parallelogram</source>
@@ -915,23 +919,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"></translation>
+        <translation>Trapecio</translation>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Hexágono</translation>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Octágono</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Cruz</translation>
     </message>
     <message>
         <source>5-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrella de 5 puntas</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -943,59 +947,59 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentágono</translation>
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubo</translation>
     </message>
     <message>
         <source>Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Globo</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrella</translation>
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea</translation>
     </message>
     <message>
         <source>Plaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Placa</translation>
     </message>
     <message>
         <source>Can</source>
-        <translation type="unfinished"></translation>
+        <translation>Lata</translation>
     </message>
     <message>
         <source>Donut</source>
-        <translation type="unfinished"></translation>
+        <translation>Donut</translation>
     </message>
     <message>
         <source>WordArt: Simple Text</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Texto simple</translation>
     </message>
     <message>
         <source>WordArt: Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Hexágono</translation>
     </message>
     <message>
         <source>WordArt: Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Pentágono</translation>
     </message>
     <message>
         <source>WordArt: Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Curva</translation>
     </message>
     <message>
         <source>WordArt: Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Onda</translation>
     </message>
     <message>
         <source>WordArt: Donought</source>
@@ -1003,23 +1007,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Curve2</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Curva2</translation>
     </message>
     <message>
         <source>WordArt: Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Círculo</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Conector recto</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Conector curvado</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Conector curvado</translation>
     </message>
     <message>
         <source>Line Callout 2 (No Border)</source>
@@ -1071,15 +1075,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Down Ribbon</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinta hacia abajo</translation>
     </message>
     <message>
         <source>Up Ribbon</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinta hacia arriba</translation>
     </message>
     <message>
         <source>Chevron</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheurón</translation>
     </message>
     <message>
         <source>Regular Pentagon</source>
@@ -1087,19 +1091,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>No Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin símbolo</translation>
     </message>
     <message>
         <source>8-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrella de 8 puntas</translation>
     </message>
     <message>
         <source>16-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrella de 16 puntas</translation>
     </message>
     <message>
         <source>32-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrella de 32 puntas</translation>
     </message>
     <message>
         <source>Rectangular Callout</source>
@@ -1115,7 +1119,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda</translation>
     </message>
     <message>
         <source>Folded Corner</source>
@@ -1123,31 +1127,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Left Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha hacia la izquierda</translation>
     </message>
     <message>
         <source>Down Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha hacia abajo</translation>
     </message>
     <message>
         <source>Up Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha hacia arriba</translation>
     </message>
     <message>
         <source>Left-Right Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha hacia izquierda y derecha</translation>
     </message>
     <message>
         <source>Up-Down Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha hacia arriba y abajo</translation>
     </message>
     <message>
         <source>Explosion 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosión 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosión 2</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
@@ -1155,7 +1159,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Corazón</translation>
     </message>
     <message>
         <source>Picture Frame</source>
@@ -1215,7 +1219,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Left-Up Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha hacia izquierda y arriba</translation>
     </message>
     <message>
         <source>Bent-Up Arrow</source>
@@ -1227,7 +1231,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>24-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrella de 24 puntas</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
@@ -1243,7 +1247,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Smiling Face</source>
-        <translation type="unfinished"></translation>
+        <translation>Cara sonriente</translation>
     </message>
     <message>
         <source>Vertical Scroll</source>
@@ -1255,11 +1259,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Circular Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha circular</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>U-Turn Arrow</source>
@@ -1403,155 +1407,155 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Texto plano</translation>
     </message>
     <message>
         <source>WordArt: Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Octágono</translation>
     </message>
     <message>
         <source>WordArt: Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Triángulo</translation>
     </message>
     <message>
         <source>WordArt: Triangle Inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Triángulo invertido</translation>
     </message>
     <message>
         <source>WordArt: Chevron</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Cheurón</translation>
     </message>
     <message>
         <source>WordArt: Chevron Inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Cheurón invertido</translation>
     </message>
     <message>
         <source>WordArt: Ring Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Anillo interior</translation>
     </message>
     <message>
         <source>WordArt: Ring Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Anillo exterior</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Arco hacia abajo (Fino)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Arco hacia abajo (Grueso)</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Círculo (Fino)</translation>
     </message>
     <message>
         <source>WordArt: Button Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Círculo (Grueso)</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Pour</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Arco hacia arriba (Grueso)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Arco hacia arriba (Grueso)</translation>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Círculo (Grueso)</translation>
     </message>
     <message>
         <source>WordArt: Button Pour</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Botón (Grueso)</translation>
     </message>
     <message>
         <source>WordArt: Curve Up</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Curva hacia arriba</translation>
     </message>
     <message>
         <source>WordArt: Curve Down</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Curva hacia abajo</translation>
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Cascada hacia arriba</translation>
     </message>
     <message>
         <source>WordArt: Cascade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Cascada hacia abajo</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Onda 1</translation>
     </message>
     <message>
         <source>WordArt: Wave2</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Onda 2</translation>
     </message>
     <message>
         <source>WordArt: Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Inflar</translation>
     </message>
     <message>
         <source>WordArt: Deflate</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Desinflar</translation>
     </message>
     <message>
         <source>WordArt: Inflate Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Inflar parte inferior</translation>
     </message>
     <message>
         <source>WordArt: Deflate Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Desinflar parte inferior</translation>
     </message>
     <message>
         <source>WordArt: Inflate Top</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Inlfar parte superior</translation>
     </message>
     <message>
         <source>WordArt: Deflate Top</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Inflar parte superior</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Desinflar inflar</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate-Deflate</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Desinflar inflar desinflar</translation>
     </message>
     <message>
         <source>WordArt: Fade Right</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Desaparecer por la derecha</translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Desaparecer por la izquierda</translation>
     </message>
     <message>
         <source>WordArt: Fade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Desaparecer por arriba</translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Desaparecer por abajo</translation>
     </message>
     <message>
         <source>WordArt: Slant Up</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Inclinar hacia arriba</translation>
     </message>
     <message>
         <source>WordArt: Slant Down</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Inclinar hacia abajo</translation>
     </message>
     <message>
         <source>WordArt: Can Up</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Convexo</translation>
     </message>
     <message>
         <source>WordArt: Can Down</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Cóncavo</translation>
     </message>
     <message>
         <source>Flowchart: Alternate Process</source>
@@ -1583,11 +1587,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Sun</source>
-        <translation type="unfinished"></translation>
+        <translation>Sol</translation>
     </message>
     <message>
         <source>Moon</source>
-        <translation type="unfinished"></translation>
+        <translation>Luna</translation>
     </message>
     <message>
         <source>Double Bracket</source>
@@ -1599,59 +1603,59 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>4-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrella de 4 puntas</translation>
     </message>
     <message>
         <source>Double Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda doble</translation>
     </message>
     <message>
         <source>Action Button: Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Personalizado</translation>
     </message>
     <message>
         <source>Action Button: Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Inicio</translation>
     </message>
     <message>
         <source>Action Button: Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Ayuda</translation>
     </message>
     <message>
         <source>Action Button: Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Información</translation>
     </message>
     <message>
         <source>Action Button: Forward or Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Adelante o siguiente</translation>
     </message>
     <message>
         <source>Action Button: Back or Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Atrás o anterior</translation>
     </message>
     <message>
         <source>Action Button: End</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Final</translation>
     </message>
     <message>
         <source>Action Button: Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Principio</translation>
     </message>
     <message>
         <source>Action Button: Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Retorno</translation>
     </message>
     <message>
         <source>Action Button: Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Documento</translation>
     </message>
     <message>
         <source>Action Button: Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Sonido</translation>
     </message>
     <message>
         <source>Action Button: Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción: Película</translation>
     </message>
     <message>
         <source>Host Control</source>
@@ -1659,11 +1663,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de texto</translation>
     </message>
     <message>
         <source>Group Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar forma</translation>
     </message>
     <message>
         <source>Cd Drive</source>
@@ -1671,7 +1675,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Chair</source>
-        <translation type="unfinished"></translation>
+        <translation>Silla</translation>
     </message>
     <message>
         <source>Guest Chair</source>
@@ -1679,7 +1683,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Nube</translation>
     </message>
     <message>
         <source>Desktop computer</source>
@@ -1687,11 +1691,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Work station</source>
-        <translation type="unfinished"></translation>
+        <translation>Estación de trabajo</translation>
     </message>
     <message>
         <source>Tower</source>
-        <translation type="unfinished"></translation>
+        <translation>Torre</translation>
     </message>
     <message>
         <source>Traditional Mac computer</source>
@@ -1711,19 +1715,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Desk</source>
-        <translation type="unfinished"></translation>
+        <translation>Escritorio</translation>
     </message>
     <message>
         <source>Desk Lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Lámpara de escritorio</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos</translation>
     </message>
     <message>
         <source>Door leaf</source>
@@ -1735,7 +1739,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta</translation>
     </message>
     <message>
         <source>File Cab</source>
@@ -1747,11 +1751,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Film</source>
-        <translation type="unfinished"></translation>
+        <translation>Película</translation>
     </message>
     <message>
         <source>Firewall</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortafuegos</translation>
     </message>
     <message>
         <source>Floor Lamp</source>
@@ -1763,15 +1767,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Gear</source>
-        <translation type="unfinished"></translation>
+        <translation>Engranaje</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Página de inicio</translation>
     </message>
     <message>
         <source>Infopage</source>
-        <translation type="unfinished"></translation>
+        <translation>Página de información</translation>
     </message>
     <message>
         <source>Laptop</source>
@@ -1779,11 +1783,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Carta</translation>
     </message>
     <message>
         <source>Light bulb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bombilla</translation>
     </message>
     <message>
         <source>Padlock</source>
@@ -1795,39 +1799,39 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <source>Modem</source>
-        <translation type="unfinished"></translation>
+        <translation>Modem</translation>
     </message>
     <message>
         <source>Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Música</translation>
     </message>
     <message>
         <source>PC</source>
-        <translation type="unfinished"></translation>
+        <translation>PC</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Teléfono</translation>
     </message>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto</translation>
     </message>
     <message>
         <source>Plant</source>
-        <translation type="unfinished"></translation>
+        <translation>Planta</translation>
     </message>
     <message>
         <source>Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Impresora</translation>
     </message>
     <message>
         <source>Pub Banner</source>
@@ -1871,19 +1875,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Puzzle1</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzle 1</translation>
     </message>
     <message>
         <source>Puzzle2</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzle 2</translation>
     </message>
     <message>
         <source>Puzzle3</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzle 3</translation>
     </message>
     <message>
         <source>Puzzle4</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzle 4</translation>
     </message>
     <message>
         <source>Pyr1</source>
@@ -1911,11 +1915,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Scanner</source>
-        <translation type="unfinished"></translation>
+        <translation>Escáner</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <source>Sink1</source>
@@ -1927,7 +1931,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla</translation>
     </message>
     <message>
         <source>Toilet</source>
@@ -1935,7 +1939,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Árbol</translation>
     </message>
     <message>
         <source>Up Ribbon Sharp</source>
@@ -1943,19 +1947,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>Página web</translation>
     </message>
     <message>
         <source>Puzzle5</source>
-        <translation type="unfinished"></translation>
+        <translation>Puzzle 5</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecuación</translation>
     </message>
     <message>
         <source>Unknown Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma desconocida</translation>
     </message>
     <message>
         <source>Group</source>
@@ -1963,7 +1967,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Mixed texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textura mixta</translation>
     </message>
     <message>
         <source>Pane1</source>
@@ -1975,11 +1979,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Traditional1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tradicional 1</translation>
     </message>
     <message>
         <source>Traditional2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tradicional 2</translation>
     </message>
     <message>
         <source>Crossband</source>
@@ -1987,7 +1991,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Leather</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuero</translation>
     </message>
     <message>
         <source>Coarse Cloth</source>
@@ -1995,15 +1999,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Kingsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft</translation>
     </message>
     <message>
         <source>Paper1</source>
-        <translation type="unfinished"></translation>
+        <translation>Papel 1</translation>
     </message>
     <message>
         <source>Paper2</source>
-        <translation type="unfinished"></translation>
+        <translation>Papel 2</translation>
     </message>
     <message>
         <source>Pane Woven</source>
@@ -2015,23 +2019,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Starry Sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Cielo estrellado</translation>
     </message>
     <message>
         <source>Colored Paper 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Papel de color 1</translation>
     </message>
     <message>
         <source>Colored Paper 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Papel de color 2</translation>
     </message>
     <message>
         <source>Colored Paper 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Papel de color 3</translation>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"></translation>
+        <translation>Tejido</translation>
     </message>
     <message>
         <source>Flannelette List</source>
@@ -2043,15 +2047,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Water</source>
-        <translation type="unfinished"></translation>
+        <translation>Agua</translation>
     </message>
     <message>
         <source>Earth1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tierra 1</translation>
     </message>
     <message>
         <source>Earth2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tierra 2</translation>
     </message>
     <message>
         <source>Radialized Pattern</source>
@@ -2063,7 +2067,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar imagen</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -2079,19 +2083,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Object</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Objeto</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar imagen</translation>
     </message>
     <message>
         <source>Click to add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para añadir texto</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Predeterminado</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -2107,23 +2111,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Primary Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Colores primarios</translation>
     </message>
     <message>
         <source>Shaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuego</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color 3D</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradiente</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -2151,7 +2155,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Square Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombras cuadradas</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -2159,7 +2163,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Clásico</translation>
     </message>
     <message>
         <source>Blue Overall Gradient</source>
@@ -2167,86 +2171,86 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Black Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradiente negra</translation>
     </message>
 </context>
 <context>
     <name>filter</name>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos XML</translation>
     </message>
     <message>
         <source>XML Document Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantillas de documento XML</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The document is created by Microsoft Office 95 or earlier version, please convert it to Microsoft Office 97 or later version and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este documento se ha creado con Microsoft Office 95 o una versión anterior, por favor  conviértalo a Microsoft Office 97 o una versión posterior e inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantillas de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantillas de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de texto</translation>
     </message>
     <message>
         <source>Text Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de texto</translation>
     </message>
     <message>
         <source>RTF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo RTF</translation>
     </message>
     <message>
         <source>RTF Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos RTF</translation>
     </message>
     <message>
         <source>HTML File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo HTML</translation>
     </message>
     <message>
         <source>HTML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos HTML</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los documentos de Writer</translation>
     </message>
     <message>
         <source>(beta) Single Web Page File</source>
@@ -2254,19 +2258,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Microsoft Word 2007/2010 File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Template File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de plantilla de Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro Available File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de macro disponible de Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de documento de Chinese Office Software</translation>
     </message>
     <message>
         <source>Single Web Page Files</source>
@@ -2274,7 +2278,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Kingsoft Office encountered an error when saving the file, please try again or contact customer service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office encontró un error al guardar el archivo, por favor inténtelo de nuevo o contacte con el servicio de atención al cliente.</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
@@ -2297,37 +2301,37 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>You have no permission to save files. Please check your permission information.</source>
-        <translation type="unfinished"></translation>
+        <translation>No tiene permiso para guardar archivos. Por favor, compruebe su información de permisos.</translation>
     </message>
 </context>
 <context>
     <name>kso</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como</translation>
     </message>
 </context>
 <context>
     <name>ksocomm</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <source>Kingsoft Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
@@ -2361,15 +2365,15 @@ File: %s
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos(*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>call API</source>
@@ -2381,63 +2385,63 @@ File: %s
     </message>
     <message>
         <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso: Este programa está protegido por protegida por la ley de derechos de autor y los tratados internacionales. La reproducción o distribución no autorizada de este programa, o cualquier porción de él, puede provocar severas sanciones civiles y penales, y serán perseguidos con el máximo rigor que permita la ley.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has encountered a problem and needs to close.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer ha encontrado un problema y necesita cerrarse.</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has encountered a problem and needs to close.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation ha encontrado un problema y necesita cerrarse.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets has encountered a problem and needs to close.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets ha encontrado un problema y necesita cerrarse.</translation>
     </message>
     <message>
         <source>Kingsoft Simulation has encountered a problem and needs to close.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Simulation ha encontrado un problema y necesita cerrarse.</translation>
     </message>
     <message>
         <source>Kingsoft Writer Error Recovery Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda de recuperación de error de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Error Recovery Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda de recuperación de error de Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Error Recovery Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda de recuperación de error de Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Kingsoft Simulation Error Recovery Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda de recuperación de error de Kingsoft Simulation</translation>
     </message>
     <message>
         <source>The file is loading, please wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo se está cargando, por favor espere.</translation>
     </message>
     <message>
         <source>File loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo cargado</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de archivo</translation>
     </message>
     <message>
         <source>File Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción de archivo</translation>
     </message>
     <message>
         <source>File Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de archivo</translation>
     </message>
     <message>
         <source>File Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de archivo</translation>
     </message>
     <message>
         <source>Dump File</source>
@@ -2449,15 +2453,15 @@ File: %s
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Network transfer failed! Error code: %d</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Falló la transferencia de red! Código de error: %d</translation>
     </message>
     <message>
         <source>Send out success</source>
@@ -2465,47 +2469,47 @@ File: %s
     </message>
     <message>
         <source>Data transfer completed, thanks for your support.</source>
-        <translation type="unfinished"></translation>
+        <translation>TRansferencia de datos completada, gracias por su apoyo.</translation>
     </message>
     <message>
         <source>Terminate sending</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizar envío</translation>
     </message>
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
-        <translation type="unfinished"></translation>
+        <translation>El envío de este informe no se ha completado aún. ¿Está seguro de que desea finalizar el envío?</translation>
     </message>
     <message>
         <source>This document has been protected from any changes by another application. You can only open it as read-only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este documento ha sido protegido por otra aplicación ante cualquier cambio. Sólo puede abrirlo como sólo lectura.</translation>
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>(Not limited)</source>
-        <translation type="unfinished"></translation>
+        <translation>(No limitado)</translation>
     </message>
     <message>
         <source>(Can use %d days)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Puede usar %d días)</translation>
     </message>
     <message>
         <source>(Overdue)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Atrasado)</translation>
     </message>
     <message>
         <source>(Haven&apos;t used)</source>
-        <translation type="unfinished"></translation>
+        <translation>(No se ha usado)</translation>
     </message>
     <message>
         <source> Invalid</source>
@@ -2515,32 +2519,32 @@ File: %s
     <message>
         <source> Professional</source>
         <comment>versionType</comment>
-        <translation type="unfinished"></translation>
+        <translation> Professional</translation>
     </message>
     <message>
         <source> Persional</source>
         <comment>versionType</comment>
-        <translation type="unfinished"></translation>
+        <translation> Personal</translation>
     </message>
     <message>
         <source> Development</source>
         <comment>versionType</comment>
-        <translation type="unfinished"></translation>
+        <translation> Desarrollo</translation>
     </message>
     <message>
         <source> OEM</source>
         <comment>versionType</comment>
-        <translation type="unfinished"></translation>
+        <translation> OEM</translation>
     </message>
     <message>
         <source> Education</source>
         <comment>versionType</comment>
-        <translation type="unfinished"></translation>
+        <translation> Educación</translation>
     </message>
     <message>
         <source> Community</source>
         <comment>versionType</comment>
-        <translation type="unfinished"></translation>
+        <translation> Comunidad</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
@@ -2548,11 +2552,11 @@ File: %s
     </message>
     <message>
         <source>New Workbook.xls</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo libro.xls</translation>
     </message>
     <message>
         <source>New Document.doc</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo documento.doc</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -2560,7 +2564,7 @@ File: %s
     </message>
     <message>
         <source>(Not activated)</source>
-        <translation type="unfinished"></translation>
+        <translation>(No activado)</translation>
     </message>
     <message>
         <source>Kingsoft Office Crashing Information</source>
@@ -2573,15 +2577,15 @@ You can click the button to recover files you work on.</source>
     </message>
     <message>
         <source>&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Enviar &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;el informe de error&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; para ayudarnos a mejorar nuestros productos.&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar</translation>
     </message>
     <message>
         <source>(version:%d)</source>
-        <translation type="unfinished"></translation>
+        <translation>(versión:%d)</translation>
     </message>
     <message>
         <source>mail feedback</source>
@@ -2610,32 +2614,32 @@ You can click the button to recover files you work on.</source>
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
 You can add the customized paper %dmm×%dmm in printer Properties and print it again.
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>La impresora no soporta el tamaño de papel actual. Si continúa imprimiento, la calidad puede no satisfacerle. Puede añadir papel personalizado %dmm×%dmm en propiedades de la impresora e imprimir de nuevo. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Kingsoft Office has not found any installed printers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office no ha encontrado ninguna impresora instalada.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, retire el papel que está impreso por una cara de la bandeja de salida y colóquelo de nuevo en la bandeja de entrada, luego haga clic en Aceptar para  continuar imprimiendo.</translation>
     </message>
     <message>
         <source>Use printer settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar configuración de impresora</translation>
     </message>
     <message>
         <source>Kingsoft Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office no puede imprimir. Por favor, compruebe si la impresora está encendida o conectada. Si el problema presiste, puede imprimir una página de prueba haciendo clic derecho en el icono de la impresora y eligiendo Propiedades desde el menú de acceso directo para comprobar si la impresora ha sido instalada correctamente.</translation>
     </message>
     <message>
         <source>Print to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir a archivo</translation>
     </message>
     <message>
         <source>All(*.*)|*.*|Printable File(*.prn)|*.prn</source>
@@ -2674,79 +2678,79 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo documento</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva presentación</translation>
     </message>
     <message>
         <source>New Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo libro</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos recientes</translation>
     </message>
     <message>
         <source>Recent presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Presentaciones recientes</translation>
     </message>
     <message>
         <source>Recent workbooks</source>
-        <translation type="unfinished"></translation>
+        <translation>Libros recientes</translation>
     </message>
     <message>
         <source>10%</source>
-        <translation type="unfinished"></translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>20%</source>
-        <translation type="unfinished"></translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
-        <translation type="unfinished"></translation>
+        <translation>25%</translation>
     </message>
     <message>
         <source>30%</source>
-        <translation type="unfinished"></translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>40%</source>
-        <translation type="unfinished"></translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5%</source>
-        <translation type="unfinished"></translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>60%</source>
-        <translation type="unfinished"></translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>70%</source>
-        <translation type="unfinished"></translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished"></translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished"></translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <source>Failed to add Add-In</source>
@@ -2754,7 +2758,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>(All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Todo)</translation>
     </message>
     <message>
         <source>Error happens when application initializes. Error code: 0x%8.8x.</source>
@@ -2774,39 +2778,39 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoformas</translation>
     </message>
     <message>
         <source>The name already exists. Please enter another one.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre ya existe. Por favor, introduzca otro.</translation>
     </message>
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de la barra de herramientas no puede estar en blanco. Escriba un nombre, por favor.</translation>
     </message>
     <message>
         <source>&amp;Blue:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Azul:</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes or No</source>
-        <translation type="unfinished"></translation>
+        <translation>Sí o no</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>(Build %s)</source>
@@ -2814,23 +2818,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Byte</source>
-        <translation type="unfinished"></translation>
+        <translation>Byte</translation>
     </message>
     <message>
         <source> Bytes</source>
-        <translation type="unfinished"></translation>
+        <translation> Bytes</translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is opened. Click OK, and then close the dialog box to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>El comando no puede ejecutarse porque el cuadro de diálgo está abierto. Haga clic en Aceptar y cierre el cuadro de diálogo para intentarlo de nuevo.</translation>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear un vínculo al archivo &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>The printer &quot;%s&quot; returned an error!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡La impresora &quot;%s&quot; ha devuelto un error!</translation>
     </message>
     <message>
         <source>CAPS</source>
@@ -2838,15 +2842,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca de Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca de Kingsoft Presentation</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Cell Reference</source>
@@ -2870,15 +2874,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de control no puede estar en blanco. Escriba un nombre, por favor.</translation>
     </message>
     <message>
         <source>Failed to modify the Add-In settings</source>
@@ -2890,19 +2894,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Copy to</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar a</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Añadir</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizar</translation>
     </message>
     <message>
         <source>Checked by;Client;Date completed;Department;Destination;Disposition;Division;Document number;Editor;Forward to;Group;Language</source>
@@ -2914,7 +2918,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modificar</translation>
     </message>
     <message>
         <source>Custom Shows</source>
@@ -2922,7 +2926,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor introducido no coincide con el tipo especificado. El valor será almacenado como texto.</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
@@ -2958,15 +2962,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha</translation>
     </message>
     <message>
         <source>Tahoma</source>
-        <translation type="unfinished"></translation>
+        <translation>Tahoma</translation>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombres definidos</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
@@ -2974,7 +2978,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Are you sure you want to delete the &apos;%s&apos; toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar la barra de herramientas &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
@@ -2986,11 +2990,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar tabla dinámica</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
@@ -3002,15 +3006,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar hipervínculo</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los objetos con &quot;*&quot; deben ser introducidos.</translation>
     </message>
     <message>
         <source>Office Standard</source>
@@ -3030,11 +3034,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>La referencia no es válida.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>No puede crear una tabla dinámica con estos datos. Por favor, compruebe sus datos y asegúrese de que la referencia es válida y que la hoja existe.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
@@ -3042,47 +3046,47 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>No puede modificar una tabla dinámica con estos datos. Por favor, compruebe sus datos y asegúrese de que la referencia es válida y que la hoja existe.</translation>
     </message>
     <message>
         <source>Unkown Format Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de fuente desconocido.</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Libro en blanco</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos(*.*)|*.*</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot access %s, the file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets no puede acceder a %s, el nombre de archivo no es válido.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un icono que representa el contenido del archivo en el documento.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the program which created the source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el contenido del archivo en su documento para que pueda editarlo posteriormente usando el programa que creó el archivo fuente.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un nuevo %s objeto en su documento.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your document as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserts a new %s object into your document como un icono.</translation>
     </message>
     <message>
         <source>Inserts an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un icono que representa el contenido del archivo en su documento. Los cambios en el archivo fuente serán reflejados en su documento.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta los contenidos del archivo en su documento y crea un vínculo al archivo fuente. Los cambios en el archivo fuente serán reflejados en su documento.</translation>
     </message>
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
@@ -3094,7 +3098,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <source>The file name is incorrect, please input the filename with correct format.</source>
@@ -3102,7 +3106,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>File not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo no encontrado</translation>
     </message>
     <message>
         <source>First Slide</source>
@@ -3110,7 +3114,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta</translation>
     </message>
     <message>
         <source>GB</source>
@@ -3118,11 +3122,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verde:</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -3142,11 +3146,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&lt;&lt;Selection in Document&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt;Selección en Documento&gt;&gt;</translation>
     </message>
     <message>
         <source>An error occurred while importing this file. %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error al importar este archivo. %s</translation>
     </message>
     <message>
         <source>Please input &amp;toolbar&apos;s name:</source>
@@ -3154,7 +3158,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar hipervínculo</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -3162,15 +3166,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%s&apos; no es un valor entero válido</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es un número válido.</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de la tabla dinámica no es válido.</translation>
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
@@ -3186,11 +3190,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Negro</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
@@ -3202,7 +3206,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Marrón</translation>
     </message>
     <message>
         <source>Coral</source>
@@ -3238,99 +3242,99 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris-95%</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>IceBlue</source>
@@ -3382,7 +3386,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Naranja</translation>
     </message>
     <message>
         <source>Pale Blue</source>
@@ -3434,11 +3438,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Blanco</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Amarillo</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
@@ -3478,39 +3482,39 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto-Punto</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas estampadas</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Guión-Punto largo</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto redondo</translation>
     </message>
     <message>
         <source>Soild</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólido</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto cuadrado</translation>
     </message>
     <message>
         <source>Loading DLL fails</source>
@@ -3526,7 +3530,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Load at Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar al inicio</translation>
     </message>
     <message>
         <source>&amp;Lum:</source>
@@ -3542,15 +3546,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta no es una medida válida.</translation>
     </message>
     <message>
         <source>More Color...</source>
-        <translation type="unfinished"></translation>
+        <translation>Más colores...</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover a</translation>
     </message>
     <message>
         <source>Narrow horizontal</source>
@@ -3562,19 +3566,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Never Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Nunca modificar</translation>
     </message>
     <message>
         <source>New Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo botón</translation>
     </message>
     <message>
         <source>New Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo comando</translation>
     </message>
     <message>
         <source>New Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo menú</translation>
     </message>
     <message>
         <source>Next Slide</source>
@@ -3582,27 +3586,27 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin relleno</translation>
     </message>
     <message>
         <source>&quot;%s&quot; has no icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; no tiene icono.</translation>
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin línea</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>(normal text)</source>
-        <translation type="unfinished"></translation>
+        <translation>(texto normal)</translation>
     </message>
     <message>
         <source>NUM</source>
@@ -3610,19 +3614,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The number must be between %d and %d. Try again by entering a number in this range.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número debe estar entre %d y %d. Inténtelo de nuevo introduciendo un número en este intervalo.</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Siguiente</translation>
     </message>
     <message>
         <source>All Files (*.*) | *.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos (*.*) | *.*</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
@@ -3638,7 +3642,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Part of %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Parte de %s</translation>
     </message>
     <message>
         <source>Part of %s trial version</source>
@@ -3650,11 +3654,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se creará un acceso directo en el archivo fuente cuando se pegue un hipervínculo. Los cambios en el archivo fuente se reflejarán en su documento.</translation>
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar imagen</translation>
     </message>
     <message>
         <source>Plaid</source>
@@ -3662,11 +3666,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Previous Slide</source>
@@ -3674,11 +3678,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Initializing the printer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializando la impresora...</translation>
     </message>
     <message>
         <source>Printing %d page of %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimiendo página %d de %d</translation>
     </message>
     <message>
         <source>Product ID: %s</source>
@@ -3686,23 +3690,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rojo:</translation>
     </message>
     <message>
         <source>Refercence is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>La referencia no es válida.</translation>
     </message>
     <message>
         <source>Are you sure you have saved these files you need?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que ha guardado estos archivos que necesita?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea reiniciar la barra de herramientas de símbolos?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea reiniciar la barra de herramientas de &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
@@ -3710,11 +3714,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso: Guardar  como un archivo de texto causará que se pierdan todo el formato, imágenes y objetos de su archivo.</translation>
     </message>
     <message>
         <source>SCRL</source>
@@ -3722,15 +3726,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>---Search Selection---</source>
-        <translation type="unfinished"></translation>
+        <translation>---Buscar selección---</translation>
     </message>
     <message>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>seg</translation>
     </message>
     <message>
         <source>Automatic check file security troubles before close application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobación automática de problemas de seguridad del archivo antes de cerrar la aplicación.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -3738,7 +3742,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Automatic check file security troubles before send e-mail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobación automática de problemas de seguridad del archivo antes de enviar por e-mail.</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
@@ -3750,11 +3754,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Shadow Style %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de sombra %d</translation>
     </message>
     <message>
         <source>[Restricted]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Restringido]</translation>
     </message>
     <message>
         <source>Shingle</source>
@@ -3762,7 +3766,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>(Show All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Mostrar todo)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
@@ -3786,11 +3790,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Esfera</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocupada</translation>
     </message>
     <message>
         <source>DoorOpen</source>
@@ -3798,19 +3802,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuera de línea</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausada</translation>
     </message>
     <message>
         <source>Printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimiendo</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -3850,15 +3854,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Párrafo</translation>
     </message>
     <message>
         <source>Registered</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrado</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Sección</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
@@ -3870,11 +3874,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Trademark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca registrado</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -3882,11 +3886,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>More Buttons|</source>
-        <translation type="unfinished"></translation>
+        <translation>Más botones|</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla</translation>
     </message>
     <message>
         <source>what you entered is invalid.</source>
@@ -3898,15 +3902,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Select Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar textura</translation>
     </message>
     <message>
         <source>3D Style %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo %d</translation>
     </message>
     <message>
         <source>Top of the Document</source>
@@ -3918,19 +3922,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>(Trial)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Prueba)</translation>
     </message>
     <message>
         <source>&lt;List of Toolbars&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Lista de barras de herramientas&gt;</translation>
     </message>
     <message>
         <source>&lt;More Control&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Más controles&gt;</translation>
     </message>
     <message>
         <source>&lt;List of Current Windows&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Lista de venanas actuales&gt;</translation>
     </message>
     <message>
         <source>&lt;Dynamic List&gt;</source>
@@ -3970,15 +3974,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Value should be between %s and %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor debe estar entre %s y %s.</translation>
     </message>
     <message>
         <source>Value should be not less than %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor no debe ser menor que %s.</translation>
     </message>
     <message>
         <source>Value should be not greater than %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor no debe ser mayor que %s.</translation>
     </message>
     <message>
         <source>%s is illegal floating value.</source>
@@ -3986,15 +3990,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Value should be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor debe estar entre %d y %d.</translation>
     </message>
     <message>
         <source>Value should not be less than %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor no debe ser menor que %d.</translation>
     </message>
     <message>
         <source>Value should not be greater than %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor no debe ser mayor que %d.</translation>
     </message>
     <message>
         <source>%d is illegal value.</source>
@@ -4006,171 +4010,171 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia abajo (Fino)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia abajo (Grueso)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia arriba (Fino)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia arriba (Grueso)</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón (Fino)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón (Grueso)</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cóncavo</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Convexo</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascada hacia abajo</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascada hacia arriba</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheurón hacia abajo</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheurón hacia arriba</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Círculo (Fino)</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Círculo (Grueso)</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva hacia abajo</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva hacia arriba</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar inflar desinflar</translation>
     </message>
     <message>
         <source>Deflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar parte inferior</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar inflar</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar parte superior</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 1 doble</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 2 doble</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer por abajo</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer por la izquierda</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer por la derecha</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer por arriba</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Inflar</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Inflar parte inferior</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Inflar parte superior</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto sin formato</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Anillo interior</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Anillo exterior</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinar hacia abajo</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinar hacia arriba</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Triángulo hacia arriba</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Triángulo hacia abajo</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda 2</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Onda</translation>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"></translation>
+        <translation>Tejido</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
@@ -4182,7 +4186,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Presentación en blanco</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Presentations and Shows(*.dps;*.ppt)|*.dps;*.ppt</source>
@@ -4190,147 +4194,147 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Kingsoft Presentation cannot access %s, the file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation no puede acceder a %s, el nombre del archivo no es válido.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el contenido del archivo como un objeto en su presentación para que pueda activarlo usando la aplicación que lo creó. Se mostrará como un icono.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el contenido del archivo como un objeto en su presentación para que pueda activarlo usando la aplicación que lo creó.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un nuevo objeto %s en su presentación.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your presentation. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un nuevo objeto %s en su presentación. Se mostrará como un icono.</translation>
     </message>
     <message>
         <source>Inserts an icon into your presentation which represents the file. The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un icono en su presentación que representa el archivo. El icono será un acceso directo al archivo por lo los cambios en el archivo serán reflejados en su presentación.</translation>
     </message>
     <message>
         <source>Inserts a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un archivo de imagen en su presentación. La imagen será un acceso directo al archivo por lo que los cambios en el archivo serán reflejados en su presentación.</translation>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento en blanco</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot access %s, the file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer no puede acceder a %s, el nombre de archivo no es válido.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el contenido del archivo en su documento por lo que editarlos más tarde usando la aplicación que creó el archivo fuente.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta un icono que representa el  contenido del archivo en su documento. Los cambios en el archivo fuente se reflejarán en su documento.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el contenido del archivo en su documento y crea un acceso directo al archivo fuente. Los cambios en el archivo fuente se reflejarán en su documento.</translation>
     </message>
     <message>
         <source>Zig zag</source>
-        <translation type="unfinished"></translation>
+        <translation>Zig zag</translation>
     </message>
     <message>
         <source>%s Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>%s Propiedades</translation>
     </message>
     <message>
         <source>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
-        <translation type="unfinished"></translation>
+        <translation>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
     </message>
     <message>
         <source>Unknown picture file extension (.%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensión de archivo de imagen desconocida (.%s)</translation>
     </message>
     <message>
         <source>The size of the custom dictionary can&apos;t be bigger than 10M.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño del diccionario personalizado no puede ser mayor a 10M.</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; command?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea reiniciar el comando &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
-        <translation type="unfinished"></translation>
+        <translation>La tabla dinámica no puede crearse en una nueva hoja porque este libro está protegido. Por favor, seleccione una hoja existente o desproteja este libro.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Por favor, introduzca la contraseña de permiso de configuración!</translation>
     </message>
     <message>
         <source>---Translate Selection---</source>
-        <translation type="unfinished"></translation>
+        <translation>---Traducir Selección---</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrás</translation>
     </message>
     <message>
         <source>Forword</source>
-        <translation type="unfinished"></translation>
+        <translation>Adelante</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Open in broser</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Abrir en navegador</translation>
     </message>
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>La fuente %s no está en su sistema, el texto se mostrará en una fuente sustituta, ¿desea usarlo de todos modos?</translation>
     </message>
     <message>
         <source>Embed in File</source>
-        <translation type="unfinished"></translation>
+        <translation>Incrustar en archivo</translation>
     </message>
     <message>
         <source>Educational material</source>
-        <translation type="unfinished"></translation>
+        <translation>Material educativo</translation>
     </message>
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea guardar las modificaciones en &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Unknown object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto desconocido</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglés (Estados Unidos)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chino (RPC)</translation>
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Japonés (Japón)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamita</translation>
     </message>
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
@@ -4342,7 +4346,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chino (Taiwan)</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -4370,27 +4374,27 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Va a cerrar %s pestañas, ¿está seguro de que desea continuar?</translation>
     </message>
     <message>
         <source>The previous tab</source>
-        <translation type="unfinished"></translation>
+        <translation>La pestaña anterior</translation>
     </message>
     <message>
         <source>The next tab</source>
-        <translation type="unfinished"></translation>
+        <translation>La pestaña siguiente</translation>
     </message>
     <message>
         <source>Tab list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de pestañas</translation>
     </message>
     <message>
         <source>New document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo documento</translation>
     </message>
     <message>
         <source>Document tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Pestaña de documento</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
@@ -4402,7 +4406,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Verifying the serial number, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificando número de serie, por favor espere...</translation>
     </message>
     <message>
         <source>Fail to open email client automatically, please send email to %s to feedback information.</source>
@@ -4410,15 +4414,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The installation or update patches are running, now, %s will exit, please run %s again after the completion of installation or updating.</source>
-        <translation type="unfinished"></translation>
+        <translation>La instalación o parches de actualización se están ejecutando ahora, %s saldrá, por favor ejecute %s de nuevo tras la finalización de la instalación o actualización.</translation>
     </message>
     <message>
         <source>The file can not be deleted, which may be occupied.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo no puede ser eliminado, puede estar ocupado.</translation>
     </message>
     <message>
         <source>Some files can not be deleted, which may be occupied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunos archivos no pueden ser eliminados, pueden estar ocupados.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>
@@ -4426,7 +4430,43 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Las actualizaciones de Kingsoft Offices se han descargado, ¿desea instalarlas ahora?</translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="obsolete">No puede crear una tabla dinámica con estos datos. Por favor, asegúrese de si los datos que desea analizar cumplen los siguientes requisitos:
+1.Asegúrese de que la referencia existe. Si es un nombre, debe estar en un rango válido;
+2.Asegúrese de que la referencia es de un solo rango, y debe contener dos filas al menos;
+3.Asegúrese de que la primera fila del rango de referencia no contiene ninguna celda vacía, ningún error de valor, y que cada celda no contiene más de 255 caracteres.</translation>
+    </message>
+    <message>
+        <source>The PivotTable field name is not valid. 
+
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+        <translation type="obsolete">El nombre de la tabla dinámica no es válido.
+
+Para crear un informe de tabla dinámica, debe usar datos que estén organizados en una lista con columnas etiquetadas. 
+
+Si está cambiando el nombre de un campo de tabla dinámica, debe escribir un nuevo nombre para el campo.</translation>
+    </message>
+    <message>
+        <source>Thank you for choosing Kingsoft Office series product.
+
+You have installed Kingsoft Office Personal Trial Edition.
+For better service, please update the trial edition to standard edition by:
+1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
+2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
+        <translation type="obsolete">Gracias por ejegir un producto de Kingsoft Office.
+
+Ha instalado la edición de prueba de Kingsoft Office PErsonal.
+Para un mejor servicio, por favor actualice la versión de prueba a la edición estándar:
+1. Haga clic en &quot;Validar su pasaporte Kingsoft&quot;. Si no ha registrado un pasaporte Kingsoft, por favor haga clic en &quot;Registrar pasaporte Kingsoft&quot; primero;
+2. Haga clic en &quot;Pasaporte Kingsoft&quot; bajo el menú de &quot;Ayuda&quot;.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -4437,8 +4477,10 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
-To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
-If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4449,6 +4491,10 @@ For better service, please update the trial edition to standard edition by:
 1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
 2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation type="unfinished">Abrir en navegador</translation>
     </message>
     <message>
         <source>Organization Chart

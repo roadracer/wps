@@ -208,7 +208,7 @@
     </message>
     <message>
         <source>Explore Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Razišči različice</translation>
     </message>
     <message>
         <source>Login klive before auto backup.</source>
@@ -256,11 +256,11 @@
     </message>
     <message>
         <source>Login klive before opening files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava klive pred odpiranjem datoteke.</translation>
     </message>
     <message>
         <source>Login klive before deleting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava klive pred brisanjem datotek.</translation>
     </message>
     <message>
         <source>netbackup recover file</source>
@@ -328,7 +328,7 @@ Are you sure to change?</source>
     <message>
         <source>The file name cannot be empty !</source>
         <comment>The file name cannot been empty!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke ne more biti prazno !</translation>
     </message>
     <message>
         <source>The file name already exists!</source>
@@ -408,11 +408,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Small</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Majhno</translation>
     </message>
     <message>
         <source>&amp;Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Na sredino</translation>
     </message>
     <message>
         <source>&amp;List</source>
@@ -420,15 +420,15 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrobnost&amp;i</translation>
     </message>
     <message>
         <source>&amp;Content</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vsebini</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pomoč</translation>
     </message>
     <message>
         <source>F1</source>
@@ -448,7 +448,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;zreži</translation>
     </message>
     <message>
         <source>Cut the current selection&apos;s contents to the clipboard</source>
@@ -456,11 +456,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiraj</translation>
     </message>
     <message>
         <source>Copy the current selection&apos;s contents to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj vsebino trenutnega izbora v odložišče</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
@@ -468,7 +468,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Paste the clipboard&apos;s contents into the current selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi vsebino odlozišča v trenutni izbor</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -476,7 +476,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Delete the current selection&apos;s contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrišite vsebino trenutnega izbora</translation>
     </message>
     <message>
         <source>D&amp;irect Delete</source>
@@ -488,11 +488,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Select all the files!</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite vse datoteke!</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvel&amp;javi</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -516,11 +516,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Create Quick Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari Hitro povezavo</translation>
     </message>
     <message>
         <source>&amp;back</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;azaj</translation>
     </message>
     <message>
         <source>Go back directory</source>
@@ -560,15 +560,15 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File %1 does not exist .</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka %1 ne obstaja.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kot</translation>
     </message>
     <message>
         <source>File name too long, please enter a name smaller than %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke je predolgo, vnesite ime, ki je manjše od %1.</translation>
     </message>
     <message>
         <source>Confirm to Save As</source>
@@ -576,7 +576,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Loading files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalaganje datoteke, prosimo počakajte...</translation>
     </message>
     <message>
         <source>&amp;Sort Mode</source>
@@ -584,23 +584,23 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
+        <translation>ImeDatoteke</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Vrsta</translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Nara&amp;ščajoče</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
@@ -773,7 +773,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Prekliči</translation>
     </message>
 </context>
 <context>
@@ -792,22 +792,22 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prekliči</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSyncProcess</name>
     <message>
         <source>Synchronize progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhroniziraj napredek</translation>
     </message>
     <message>
         <source>Synchronizing, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhronizacija, prosimo počakajte...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -947,7 +947,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File is being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka se uporablja.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1071,7 +1071,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Are you sure you want to forever delete &apos;%1&apos; files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite za vedno izbrisati &apos;%1&apos; datoteke?</translation>
     </message>
     <message>
         <source>Delete many objects</source>
@@ -1083,7 +1083,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;permanently?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite izbrisati &apos;%1&apos; trajno?</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -1091,7 +1091,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Failed to delete the following files! Please check if the files are being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni bilo mogoče izbrisati naslednjih datotek! Prosimo, da preverite, če se datoteke uporabljajo.</translation>
     </message>
     <message>
         <source>Failed to cut the following files! Please check if the files are being used.</source>
