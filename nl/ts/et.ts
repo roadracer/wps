@@ -113,7 +113,7 @@
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished">tussen</translation>
+        <translation>tussen</translation>
     </message>
     <message>
         <source>not between</source>
@@ -765,11 +765,11 @@ condition is true: </source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Product</source>
@@ -832,7 +832,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Binair</translation>
     </message>
     <message>
         <source>Unchecked &apos;the cell reference position&apos; or its content is invalid.</source>
@@ -1535,7 +1535,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Toevoegen</translation>
+        <translation>&amp;Toevoegen</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -1876,7 +1876,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lettertype:</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
@@ -2031,7 +2031,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoogt&amp;e:</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
@@ -2159,7 +2159,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleur:</translation>
     </message>
     <message>
         <source>cbDropDownList</source>
@@ -3351,7 +3351,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opties...</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
@@ -3940,7 +3940,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation type="unfinished">&amp;Kolommen</translation>
+        <translation>&amp;Kolommen</translation>
     </message>
     <message>
         <source>&amp;Trend</source>
@@ -3972,19 +3972,19 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>D&amp;ay</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ag</translation>
     </message>
     <message>
         <source>&amp;Weekday</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Weekdag</translation>
     </message>
     <message>
         <source>&amp;Month</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Maand</translation>
     </message>
     <message>
         <source>&amp;Year</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Jaar</translation>
     </message>
     <message>
         <source>&amp;Step value:</source>
@@ -4007,7 +4007,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Column width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolombreedte:</translation>
     </message>
 </context>
 <context>
@@ -4018,7 +4018,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Row height:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rijhoogte:</translation>
     </message>
 </context>
 <context>
@@ -4061,11 +4061,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oplopend</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aflopend</translation>
     </message>
     <message>
         <source>Then by</source>
@@ -4105,7 +4105,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opties...</translation>
     </message>
 </context>
 <context>
@@ -4195,7 +4195,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opties</translation>
     </message>
     <message>
         <source>&amp;Undo Last</source>
@@ -4297,11 +4297,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Product</source>
@@ -4756,7 +4756,7 @@ protected.</source>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished">&amp;Titel:</translation>
+        <translation>&amp;Titel:</translation>
     </message>
     <message>
         <source>ll3</source>
@@ -6326,11 +6326,11 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oplopend</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aflopend</translation>
     </message>
     <message>
         <source>Usin&amp;g field:</source>
@@ -6411,11 +6411,11 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Product</source>
@@ -6634,7 +6634,7 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>&amp;Column width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolombreedte:</translation>
     </message>
     <message>
         <source>Default Width</source>
@@ -7045,7 +7045,11 @@ You may still need to manually update any references to this name used in VBA co
 e
 x
 t</source>
-        <translation type="unfinished"></translation>
+        <translation>T
+e
+k
+s
+t</translation>
     </message>
     <message>
         <source>&amp;Degrees</source>
@@ -7271,7 +7275,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleur:</translation>
     </message>
     <message>
         <source>Border</source>
@@ -7294,7 +7298,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lettertype:</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
@@ -7322,7 +7326,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleur:</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -9222,15 +9226,15 @@ Document</source>
     <name>nameconflictdlg</name>
     <message>
         <source>Name Conflict</source>
-        <translation type="unfinished"></translation>
+        <translation>Naamconflict</translation>
     </message>
     <message>
         <source>Old name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oude naam:</translation>
     </message>
     <message>
         <source>New name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe naam:</translation>
     </message>
 </context>
 <context>
