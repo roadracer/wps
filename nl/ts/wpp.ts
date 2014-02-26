@@ -408,7 +408,7 @@
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lettertype:</translation>
     </message>
     <message>
         <source>S&amp;mooth Start</source>

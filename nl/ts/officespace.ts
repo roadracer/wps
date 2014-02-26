@@ -592,11 +592,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oplopend</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aflopend</translation>
     </message>
     <message>
         <source>The directory is empty !</source>
