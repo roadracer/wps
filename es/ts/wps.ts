@@ -314,7 +314,7 @@
     <name>CustomPreView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+        <translation>Ninguno</translation>
     </message>
 </context>
 <context>
@@ -333,11 +333,11 @@
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished">Espacia&amp;do:</translation>
+        <translation>Espacia&amp;do:</translation>
     </message>
     <message>
         <source>1:</source>
-        <translation type="unfinished">1:</translation>
+        <translation>1:</translation>
     </message>
 </context>
 <context>
@@ -1298,11 +1298,11 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">&amp;Ir a</translation>
+        <translation>&amp;Ir a</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1873,95 +1873,95 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">F&amp;uente</translation>
+        <translation type="unfinished">F&amp;uente:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished">Tamaño:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">4</translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished">5</translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">6</translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished">7</translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished">8</translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished">10</translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>10.5</source>
-        <translation type="unfinished">10.5</translation>
+        <translation>10.5</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished">11</translation>
+        <translation>11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished">12</translation>
+        <translation>12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished">14</translation>
+        <translation>14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished">16</translation>
+        <translation>16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished">18</translation>
+        <translation>18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished">20</translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished">22</translation>
+        <translation>22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished">24</translation>
+        <translation>24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished">26</translation>
+        <translation>26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished">28</translation>
+        <translation>28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished">36</translation>
+        <translation>36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished">48</translation>
+        <translation>48</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished">72</translation>
+        <translation>72</translation>
     </message>
 </context>
 <context>
@@ -1976,7 +1976,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Ta&amp;b leader:</source>
-        <translation>&amp;Carácter de relleno</translation>
+        <translation>&amp;Carácter de relleno:</translation>
     </message>
     <message>
         <source>None</source>
@@ -2004,7 +2004,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>&amp;Vista preliminar</translation>
+        <translation>Vista preliminar</translation>
     </message>
 </context>
 <context>
@@ -2019,7 +2019,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Styles:</source>
-        <translation>E&amp;stilos</translation>
+        <translation>E&amp;stilos:</translation>
     </message>
     <message>
         <source>Available styles:</source>
@@ -2525,7 +2525,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición</translation>
     </message>
     <message>
         <source>&amp;None</source>
@@ -2541,11 +2541,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opciones</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">F&amp;uente</translation>
+        <translation>F&amp;uente:</translation>
     </message>
     <message>
         <source>&amp;Lines to drop:</source>
@@ -6103,7 +6103,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">F&amp;uente</translation>
+        <translation>F&amp;uente:</translation>
     </message>
     <message>
         <source>&amp;Offset:</source>
@@ -6147,11 +6147,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>0-1-0</source>
-        <translation type="unfinished">0-1-0</translation>
+        <translation>0-1-0</translation>
     </message>
     <message>
         <source>1-2-1</source>
-        <translation type="unfinished">1-2-1</translation>
+        <translation>1-2-1</translation>
     </message>
 </context>
 <context>

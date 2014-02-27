@@ -97,23 +97,23 @@
     </message>
     <message>
         <source>Text&lt;Date and Time&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto&lt;Fecha y hora&gt;</translation>
     </message>
     <message>
         <source>Unknown Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcador de posición desconocido</translation>
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma libre</translation>
     </message>
     <message>
         <source>: Shape </source>
-        <translation type="unfinished"></translation>
+        <translation>: Forma</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Gráfico</translation>
     </message>
     <message>
         <source>Object</source>
@@ -121,18 +121,18 @@
     </message>
     <message>
         <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta función es ofrecida en Kingsoft Office 2009 Professional.</translation>
     </message>
     <message>
         <source>Times New Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Times New Roman</translation>
     </message>
 </context>
 <context>
     <name>aeoengine</name>
     <message>
         <source>Slide show is over, click to exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>La presentación de diapositivas ha finalizado, haga clic para salir.</translation>
     </message>
 </context>
 <context>
@@ -207,14 +207,14 @@
     </message>
     <message>
         <source>Edit Table</source>
-        <translation>Editar tabla</translation>
+        <translation>Modificar tabla</translation>
     </message>
 </context>
 <context>
     <name>player</name>
     <message>
         <source>Slide Show Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda de presentación</translation>
     </message>
     <message>
         <source>During the slide show:
@@ -225,15 +225,22 @@ Backspace, &apos;P&apos;, Left or Up Arrow, 		Return to the previous slide
 or Page Up
 Number followed by Enter			Go to that slide	
 Esc					End of the slide show</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Durante la presentación:
+
+Clic izquierdo, Espacio, &apos;N&apos;, Derecha o Cursor abajo 	Avanzar a la siguiente diapositiva	
+Enter, o Re. Pag.
+Borrar, &apos;P&apos;, Cursos izquierda o arriba, 		Volver a la anterior diapositiva	
+o Av. Pag.
+Número seguido de Enter			Ir a esa diapositiva	
+Esc					Finalizar la presentación</translation>
     </message>
     <message>
         <source>The file you specified cannot be open.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo que ha especificado no puede abrirse.</translation>
     </message>
     <message>
         <source>Kingsoft Presentation cannot be found or start %s. </source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation no se puede encontrar o iniciar %s. </translation>
     </message>
     <message>
         <source>Custom Shows &quot;</source>
@@ -241,7 +248,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot; no existe.</translation>
     </message>
     <message>
         <source>Slide </source>
@@ -249,7 +256,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>End Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizar presentación</translation>
     </message>
     <message>
         <source>Keep ink</source>
@@ -261,7 +268,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>The total time for the slide show is %s. Do you want to keep the new slide timings? </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El tiempo total de la presentación es %s. ¿Desea mantener el mismo ritmo de diapositiva?</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
@@ -273,22 +280,22 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>May our software run on every computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Que nuestro software se ejecute en todos los ordenadores</translation>
     </message>
     <message>
         <source>Slide %d of %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositiva %d de %d</translation>
     </message>
 </context>
 <context>
     <name>textbean</name>
     <message>
         <source>Typing</source>
-        <translation type="unfinished"></translation>
+        <translation>Escritura</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
@@ -332,7 +339,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Text Emboss</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto en relieve</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -340,7 +347,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Baseline Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento de línea de base</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -376,7 +383,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Colgante</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -384,11 +391,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Roman</translation>
     </message>
     <message>
         <source>Upholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Manteniendo fijo</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -416,15 +423,15 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Demote</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>Promote</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascender</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de acción</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -452,19 +459,19 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>&lt;header&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;encabezado&gt;</translation>
     </message>
     <message>
         <source>&lt;footer&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;pie_de_página&gt;</translation>
     </message>
     <message>
         <source>&lt;date/time&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;fecha/hora&gt;</translation>
     </message>
     <message>
         <source>&lt;#&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;#&gt;</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -483,7 +490,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Custom Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño personalizado</translation>
     </message>
     <message>
         <source>Default Design</source>
@@ -499,7 +506,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>Clasificador de diapositivas</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -507,11 +514,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Patrón de título</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir: Página %d de %d</translation>
     </message>
     <message>
         <source>VBAProject</source>
@@ -527,7 +534,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -875,7 +882,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Add Sound</source>
-        <translation>Agregar sonido</translation>
+        <translation>Añadir sonido</translation>
     </message>
     <message>
         <source>Used in This Presentation</source>
@@ -939,7 +946,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Dissolve in</source>
-        <translation type="unfinished"></translation>
+        <translation>Disolver en</translation>
     </message>
     <message>
         <source>Flash bulb</source>
@@ -967,11 +974,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimir</translation>
     </message>
     <message>
         <source>Elegant</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegante</translation>
     </message>
     <message>
         <source>Rise up</source>
@@ -1003,7 +1010,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Créditos</translation>
     </message>
     <message>
         <source>Ellipse motion</source>
@@ -1234,19 +1241,19 @@ Please try one of the following.
     </message>
     <message>
         <source>Click to edit Master title style</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para modificar el estilo del patrón de título</translation>
     </message>
     <message>
         <source>Click to edit Master subtitle Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para modificar el estilo del patrón de subtítulo</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Copar</translation>
+        <translation>Copar</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">Pegar</translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -1254,7 +1261,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño de diapositiva</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -1262,11 +1269,11 @@ Please try one of the following.
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished">Arrastrar y soltar</translation>
+        <translation>Arrastrar y soltar</translation>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Presentaciones personalizadas</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
@@ -1274,23 +1281,23 @@ Please try one of the following.
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de acción</translation>
     </message>
     <message>
         <source>*.dpt</source>
-        <translation type="unfinished"></translation>
+        <translation>*.dpt</translation>
     </message>
     <message>
         <source>*.pot</source>
-        <translation type="unfinished"></translation>
+        <translation>*.pot</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquemas de animación</translation>
     </message>
     <message>
         <source>Start slide show...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar presentación...</translation>
     </message>
     <message utf8="true">
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X), Please contact the anti-virus software agent. 
@@ -1301,23 +1308,30 @@ Do you still want to open this file?
 
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you don&apos;t trust this file, just do not open it.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Su programa de análisis de virus ha encontrado errores al analizar este archivo (Código de error: 0x%08X), por favor, contacte al agente del software antivirus. 
+¿Aún desea abrir este archivo?
+
+•Si hace clic en Sí, Kingsoft Presentation continuará abriendo este archivo.
+•Si hace clic en No, Kingsoft Presentation detendrá la apertura de este archivo.
+
+Tenga en cuenta que algunos archivos pueden contener virus macro y posiblemente realizar otras acciones dañinas. Si no confía en este archivo no lo abra.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Slide Show - </source>
-        <translation type="unfinished"></translation>
+        <translation>Presentación de Kingsoft Presentation - </translation>
     </message>
     <message>
         <source>The contents you pasted contains tabs. Do you want to paste tabs as a table?</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido que ha pegado contiene pestañas. ¿Desea pegar las pestañas como una tabla?</translation>
     </message>
     <message>
         <source>Paste Tips</source>
-        <translation type="unfinished"></translation>
+        <translation>Consejos de pegado</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only Kingsoft Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Los permisos de este archivo está actualmente restringidos. Sólo el formato de archivo de Kingsoft Presentation puede mantener esa configuración. Si lo guarda en el formato actual, toda la configuración de permisos se perderá. ¿Desea continuar?</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Presentation cannot open this file, because the current user doesn&apos;t have enough permission to access.
@@ -1325,179 +1339,186 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation no puede abrir este archivo porque el usuario actual no tiene suficientes permisos para acceder.
+Por favor, intente alguna de las siguientes opciones:
+•Cambiar a otra cuenta de usuario.
+•Pedir a su creador que cambio el nivel de control de permisos de este archivo.
+(%s)</translation>
     </message>
     <message>
         <source>Text Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseños de texto</translation>
     </message>
     <message>
         <source>Content Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseños de contenido</translation>
     </message>
     <message>
         <source>Text and Content Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseños de texto y contenido</translation>
     </message>
     <message>
         <source>Other Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Otros diseños</translation>
     </message>
     <message>
         <source>Unknown Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseños desconocidos</translation>
     </message>
     <message>
         <source>Title Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de diapositiva</translation>
     </message>
     <message>
         <source>Title and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y texto</translation>
     </message>
     <message>
         <source>Title and 2-Column Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y texto a dos columnas</translation>
     </message>
     <message>
         <source>Title and Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y tabla</translation>
     </message>
     <message>
         <source>Title, Text and Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, texto y gráfico</translation>
     </message>
     <message>
         <source>Title, Chart and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, gráfico y texto</translation>
     </message>
     <message>
         <source>Title and Diagram or Organization Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y diagrama o gráfico de organización</translation>
     </message>
     <message>
         <source>Title and Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y gráfico</translation>
     </message>
     <message>
         <source>Title, Text and Clip Art </source>
-        <translation type="unfinished"></translation>
+        <translation>Título, texto y clip art</translation>
     </message>
     <message>
         <source>Title, Clip Art and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, clip art y texto</translation>
     </message>
     <message>
         <source>Title Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo título</translation>
     </message>
     <message>
         <source>Blank</source>
-        <translation type="unfinished"></translation>
+        <translation>En blanco</translation>
     </message>
     <message>
         <source>Title, Text and Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, texto y contenido</translation>
     </message>
     <message>
         <source>Title, Content and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, contenido y texto</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenido</translation>
     </message>
     <message>
         <source>Title and Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y contenido</translation>
     </message>
     <message>
         <source>Title, Text and Media Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, texto y clip de medios</translation>
     </message>
     <message>
         <source>Title, Media Clip and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, clip de medios y texto</translation>
     </message>
     <message>
         <source>Title and Content over Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y contenido sobre texto</translation>
     </message>
     <message>
         <source>Title and Text over Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y texto sobre contenido</translation>
     </message>
     <message>
         <source>Title, Text and 2 Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, texto y 2 contenido</translation>
     </message>
     <message>
         <source>Title, 2 Content and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, 2 contenido y texto</translation>
     </message>
     <message>
         <source>Title and 2 Content over Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y 2 contenido sobre texto</translation>
     </message>
     <message>
         <source>Title and 4 Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y 4 contenido</translation>
     </message>
     <message>
         <source>Title and Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y texto vertical</translation>
     </message>
     <message>
         <source>Title, Clip Art and Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, clip art y texto vertical</translation>
     </message>
     <message>
         <source>Vertical Title and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Título vertical y texto</translation>
     </message>
     <message>
         <source>Vertical Title and Text over Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Título vertical y texto sobre gráfico</translation>
     </message>
     <message>
         <source>Title and 2 Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Título y 2 contenido</translation>
     </message>
     <message>
         <source>Title, Content and 2 Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, contenido y 2 contenido</translation>
     </message>
     <message>
         <source>Title, 2 Content and Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Título, 2 contenido y contenido</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abriendo el archivo, por favor, espere...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardando el archivo, por favor, espere...</translation>
     </message>
     <message>
         <source>The design template contains multiple masters. Kingsoft Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
-        <translation type="unfinished"></translation>
+        <translation>El diseño de la plantilla contiene varios patrones. Kingsoft Presentation ha aplicado el primer patrón a la plantilla. ¿Desea copiar los otros patrones a la presentación para usarlos más tarde?</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compressing it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation type="unfinished"></translation>
+        <translation>La imagen que ha insertado es demasiado grande. Por favor, comprímala para ahorrar espacio en disco.
+Tenga en cuenta que comprimir imágenes puede reducir la calidad de sus imágenes. ¿Desea comprimirla/s?</translation>
     </message>
     <message utf8="true">
         <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
 • Background Music
 • Paper Size
 </source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo contiene algunas propiedades especiales como las siguientes. Si lo guarda como otro tipo de archivo puede que se pierdan.
+• Música de fondo
+• Tamaño del papel</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover objeto</translation>
     </message>
     <message>
         <source>Hide Slide</source>
@@ -1509,43 +1530,43 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto OLE</translation>
     </message>
     <message>
         <source>Custom Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedad personalizada</translation>
     </message>
     <message>
         <source>Object Out Of Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto fuera de diapositiva</translation>
     </message>
     <message>
         <source>Set Hidden Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer objeto oculto</translation>
     </message>
     <message>
         <source>Built-in Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedad incorporada</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hipervínculo</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Encabezado</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Pie de página</translation>
     </message>
     <message>
         <source>VBA Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código VBA</translation>
     </message>
     <message utf8="true">
         <source>%s can&apos;t play audio file “%s. Please make sure that the audio file is fromatted with .wav, and that there is a normal audio system in your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>%s no puede reproducir el archivo de audio &quot;%s. Por favor, asegúrese de que el archivo de audio tiene formato .wav, y que hay un sistema de audio normal en su equipo.</translation>
     </message>
     <message>
         <source>No Style, No Grid</source>
@@ -1857,106 +1878,114 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Converting from Traditional to Simplified...</source>
-        <translation type="unfinished"></translation>
+        <translation>Convirtiendo de Tradicional a Simplificado...</translation>
     </message>
     <message>
         <source>Convertint from Simplified to Traditional...</source>
-        <translation type="unfinished"></translation>
+        <translation>Convirtiendo de Simplificado a Tradicional...</translation>
     </message>
     <message utf8="true">
         <source>The specified file “%s” is not the supported file type, please click OK and then respecify a file type for saving  in the Save As dialogue.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo especificado &quot;%s&quot; no es un tipo de archivo soportado, por favor haga clic en Aceptar y vuelva a especificar un tipo de archivo para guardar en el diálogo Guardar como.</translation>
     </message>
     <message>
         <source>Currently only support viewing PowerPoint 2007 documents, the edit cannot be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente sólo se soporta la visualización de documentos de PowerPoint 2007, la edición no puede ser guardada.</translation>
     </message>
     <message>
         <source>Subtitle %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtítulo %d</translation>
     </message>
     <message>
         <source>Title %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Título %d</translation>
     </message>
     <message>
         <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente Kingsoft Office sólo soporta la visualización de documentos de Microsoft Office 2010, no puede editar o guardar. ¿Desea abrir el documento en modo vista?</translation>
     </message>
     <message>
         <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente Kingsoft Office sólo soporta la visualización de documentos de Microsoft Office 2010, no puede guardar.</translation>
     </message>
     <message>
-        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
-        <translation type="unfinished"></translation>
+        <source>Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level</source>
+        <translation>Haga clic para editar los estilos de patrón de texto
+Segundo nivel
+Tercer nivel
+Cuarto nivel
+Quinto nivel</translation>
     </message>
 </context>
 <context>
     <name>wppdata</name>
     <message>
         <source>Click to add title</source>
-        <translation>Haga clic para agregar título</translation>
+        <translation>Haga clic para añadir título</translation>
     </message>
     <message>
         <source>Click to add text</source>
-        <translation>Haga clic para agregar texto</translation>
+        <translation>Haga clic para añadir texto</translation>
     </message>
     <message>
         <source>Click to add subtitle</source>
-        <translation>Haga clic para agregar subtítulo</translation>
+        <translation>Haga clic para añadir subtítulo</translation>
     </message>
     <message>
         <source>Click icon to add content</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic en el icono para añadir contenido</translation>
     </message>
     <message>
         <source>Double click to add chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga doble clic para añadir gráfico</translation>
     </message>
     <message>
         <source>Double click to add clip art</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga doble clic para añadir clip art</translation>
     </message>
     <message>
         <source>Double click to add media clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga doble clic para añadir clip de medios</translation>
     </message>
     <message>
         <source>Double click to add table</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga doble clic para añadir tabla</translation>
     </message>
     <message>
         <source>Double click to add diagram or organization chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga doble clic para añadir diagrama o gráfico de organización</translation>
     </message>
     <message>
         <source>Title Area for AutoLayouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de título para autodiseños</translation>
     </message>
     <message>
         <source>Object Area for AutoLayouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de objeto para autodiseños</translation>
     </message>
     <message>
         <source>Subtitle Area for AutoLayouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de subtítulo para autodiseños</translation>
     </message>
     <message>
         <source>Number Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de número</translation>
     </message>
     <message>
         <source>Header Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de encabezado</translation>
     </message>
     <message>
         <source>Footer Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de encabezado</translation>
     </message>
     <message>
         <source>Date Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de fecha</translation>
     </message>
 </context>
 <context>
@@ -1982,15 +2011,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>wppshell</name>
     <message>
         <source>Slide Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño de diapositiva</translation>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño de diapositiva - Esquemas de animación</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño de diapositiva - Esquemas de color</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -2006,7 +2035,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>2 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>2 cuadrículas por cm</translation>
     </message>
     <message>
         <source>3 cm</source>
@@ -2014,7 +2043,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>3 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>3 cuadrículas por cm</translation>
     </message>
     <message>
         <source>4 cm</source>
@@ -2022,7 +2051,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>4 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>4 cuadrículas por cm</translation>
     </message>
     <message>
         <source>5 cm</source>
@@ -2030,19 +2059,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>5 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 cuadrículas por cm</translation>
     </message>
     <message>
         <source>6 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>6 cuadrículas por cm</translation>
     </message>
     <message>
         <source>8 grids per cm</source>
-        <translation type="unfinished"></translation>
+        <translation>8 cuadrículas por cm</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Play</source>
@@ -2050,23 +2079,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Add Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir efecto</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <source>Cannot add word &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede añadir la palabra &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos(*.*)|*.*</translation>
     </message>
     <message>
         <source>All slides in current presentation are skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las diapositivas de la presentación actual se han saltado.</translation>
     </message>
     <message>
         <source>All Slides</source>
@@ -2266,7 +2295,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Split Horizontal In</source>
-        <translation type="unfinished">División horizontal entrante</translation>
+        <translation>División horizontal entrante</translation>
     </message>
     <message>
         <source>Split &amp;Horizontal In</source>
@@ -2274,7 +2303,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Split Horizontal Out</source>
-        <translation type="unfinished">División horizontal saliente</translation>
+        <translation>División horizontal saliente</translation>
     </message>
     <message>
         <source>Split H&amp;orizontal Out</source>
@@ -2458,7 +2487,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Split Vertical In</source>
-        <translation type="unfinished">División vertical entrante</translation>
+        <translation>División vertical entrante</translation>
     </message>
     <message>
         <source>Split &amp;Vertical In</source>
@@ -2466,7 +2495,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Split Vertical Out</source>
-        <translation type="unfinished">División vertical saliente</translation>
+        <translation>División vertical saliente</translation>
     </message>
     <message>
         <source>Split V&amp;ertical Out</source>
@@ -2898,7 +2927,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Créditos</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -3006,7 +3035,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimir</translation>
     </message>
     <message>
         <source>Strips</source>
@@ -3030,7 +3059,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished">Cuña</translation>
+        <translation>Cuña</translation>
     </message>
     <message>
         <source>Wheel</source>
@@ -3338,7 +3367,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar</translation>
     </message>
     <message>
         <source>Elbow</source>
@@ -3478,7 +3507,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear</translation>
     </message>
     <message>
         <source>Slide Master View</source>
@@ -3494,7 +3523,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad</translation>
     </message>
     <message>
         <source>Am&amp;ount</source>
@@ -3510,7 +3539,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <source>Di&amp;rection</source>
@@ -3558,7 +3587,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Si&amp;ze</source>
@@ -3578,7 +3607,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Modify: </source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar:</translation>
     </message>
     <message>
         <source>Modify effect</source>
@@ -3594,11 +3623,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueado</translation>
     </message>
     <message>
         <source>UnLocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloqueado</translation>
     </message>
     <message>
         <source>Movie Oper&amp;ation</source>
@@ -3614,7 +3643,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Normal View</source>
@@ -3626,7 +3655,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has finished searching the presentation. The search item wasn&apos;t found.</source>
@@ -3638,11 +3667,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Experienced an error when opening PDF file!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Ha ocurrido un error al abrir el archivo PDF!</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta:</translation>
     </message>
     <message>
         <source>Lines &amp; Curves</source>
@@ -3650,7 +3679,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Especial</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -3698,7 +3727,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -3874,7 +3903,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished">Diapositiva %d</translation>
+        <translation>Diapositiva %d</translation>
     </message>
     <message>
         <source>Sound Oper&amp;ation</source>
@@ -3902,7 +3931,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished">Medio</translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <source>%d seconds(Medium)</source>
@@ -3910,7 +3939,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished">Lento</translation>
+        <translation>Lento</translation>
     </message>
     <message>
         <source>%d seconds(Slow)</source>
@@ -4266,11 +4295,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Encabez. pie pág.</translation>
+        <translation>Encabez. y pie pág.</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
-        <translation>Insertar número de diapositiva.</translation>
+        <translation>Insertar número de diapositiva</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -4346,7 +4375,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de acción</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -4434,15 +4463,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquema de color</translation>
     </message>
     <message>
         <source>Design Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla de diseño</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished">Arrastrar y soltar</translation>
+        <translation>Arrastrar y soltar</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
@@ -4458,7 +4487,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Apply Design Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar plantilla de diseño</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
@@ -4498,7 +4527,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar medio</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -4518,11 +4547,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Sound from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar sonido desde archivo</translation>
     </message>
     <message>
         <source>Insert Movie from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar película desde archivo</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -4530,11 +4559,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar gráfico</translation>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar texto</translation>
     </message>
     <message>
         <source>Gallery Library</source>
@@ -4542,15 +4571,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Animation Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquema de animación</translation>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipografía</translation>
     </message>
     <message>
         <source>Edit Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar objeto</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -4562,15 +4591,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Kingsoft Office has not found any installed printers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office no ha encontrado ninguna impresora instalada.</translation>
     </message>
     <message>
         <source>The masters you don&apos;t want to preserve are never used by any slide. Do you want to delete them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Los patrones que no quiere conservar nunca son usados en ninguna diapositiva. ¿Desea eliminarlos?</translation>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como imagen</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -4586,11 +4615,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar película</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -4606,7 +4635,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Windows Media(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz</source>
@@ -4614,7 +4643,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Windows Video File(avi) (*.avi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de vídeo de Windows(avi) (*.avi)</translation>
     </message>
     <message>
         <source>*.avi</source>
@@ -4622,7 +4651,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de película(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</translation>
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</source>
@@ -4630,7 +4659,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de vídeo de Windows Media(wmv) (*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>*.wmv;*.wvx</source>
@@ -4638,7 +4667,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar sonido</translation>
     </message>
     <message>
         <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
@@ -4650,7 +4679,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de audio AU(au) (*.au;*.snd)</translation>
     </message>
     <message>
         <source>*.au;*.snd</source>
@@ -4658,7 +4687,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de audio MP3(mp3) (*.mp3;*.m3u)</translation>
     </message>
     <message>
         <source>*.mp3;*.m3u</source>
@@ -4666,7 +4695,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo MIDI(midi) (*.mid;*.midi;*.rmi)</translation>
     </message>
     <message>
         <source>*.mid;*.midi;*.rmi</source>
@@ -4674,7 +4703,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Windows Audio File(wav) (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Windows Audio(wav) (*.wav)</translation>
     </message>
     <message>
         <source>*.wav</source>
@@ -4682,7 +4711,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.waw)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de audio de Windows Media(wma) (*.wma;*.waw)</translation>
     </message>
     <message>
         <source>*.wma;*.waw</source>
@@ -4690,7 +4719,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Click to add notes</source>
-        <translation>Haga clic para agregar notas</translation>
+        <translation>Haga clic para añadir notas</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
@@ -4718,7 +4747,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -4726,15 +4755,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Erase All Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todas las marcas de revisión de la diapositiva</translation>
     </message>
     <message>
         <source>Flash Files(*.swf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos Flash(*.swf)</translation>
     </message>
     <message>
         <source>*.swf</source>
-        <translation type="unfinished"></translation>
+        <translation>*.swf</translation>
     </message>
     <message>
         <source>Insert Flash Animation</source>
@@ -4770,7 +4799,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>[Disabled]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Desactivado]</translation>
     </message>
     <message>
         <source>Kingsoft Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
@@ -4798,7 +4827,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducir</translation>
     </message>
     <message>
         <source>Search</source>
@@ -4822,11 +4851,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducir a chino simplificado</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducir a chino tradicional</translation>
     </message>
     <message>
         <source>Print</source>

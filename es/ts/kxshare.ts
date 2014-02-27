@@ -31,7 +31,7 @@
     <name>DlgKxFileConverter</name>
     <message>
         <source>File Conversion</source>
-        <translation type="unfinished">Conversión de archivo</translation>
+        <translation>Conversión de archivo</translation>
     </message>
     <message>
         <source>Text encoding:</source>

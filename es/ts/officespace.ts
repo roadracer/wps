@@ -306,7 +306,8 @@
     <message>
         <source>The file name must not contain any of the characters:
       \ / : * ? &quot; &lt; &gt; | !</source>
-        <translation type="unfinished">El nombre del archivo no debe contener ninguno de los caracteres:       \ / : * ? &quot; &lt; &gt; | !</translation>
+        <translation>El nombre del archivo no debe contener ninguno de los caracteres:
+       \ / : * ? &quot; &lt; &gt; | !</translation>
     </message>
     <message>
         <source>Changing the file suffix may lead to file opening failure!
