@@ -4140,7 +4140,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished">Aktuelle Dokumente</translation>
+        <translation>Aktuelle Dokumente</translation>
     </message>
     <message>
         <source>Manage</source>
