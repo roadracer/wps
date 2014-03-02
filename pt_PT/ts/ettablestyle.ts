@@ -5,7 +5,7 @@
     <name>CEtTableStyle</name>
     <message>
         <source>styleless, no grid</source>
-        <translation type=Sem formatação ou grelha></translation>
+        <translation type=Sem formatação e grelha></translation>
     </message>
     <message>
         <source>theme style</source>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>styleless, no grid</source>
-        <translation type=Sem formatação ou grelha></translation>
+        <translation type=Sem formatação e grelha></translation>
     </message>
     <message>
         <source>theme style</source>
