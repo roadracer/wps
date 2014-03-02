@@ -31,19 +31,19 @@
     <name>field</name>
     <message>
         <source>Error! Too many picture switches defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Demasiados cambios de imagen definidos.</translation>
     </message>
     <message>
         <source>Error! Unknown switch parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Parámetro de cambio desconocido.</translation>
     </message>
     <message>
         <source>Error! Switch parameter not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! No se ha especificado el parámetro de cambio.</translation>
     </message>
     <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! El cambio de imagen debe ser el primer parámetro de formato.</translation>
     </message>
     <message>
         <source>Error! Picture string contains unmatched quotation mark.</source>
@@ -51,11 +51,11 @@
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! No se ha especificado el nombre del estilo.</translation>
     </message>
     <message>
         <source>Error! The style is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! No se ha especificado el estilo.</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -105,7 +105,7 @@
     <name>field_parser_links_and_reference</name>
     <message>
         <source>Error! Hyperlink reference is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! La referencia del hipervínculo es inválida.</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -113,93 +113,93 @@
     </message>
     <message>
         <source>above</source>
-        <translation type="unfinished"></translation>
+        <translation>arriba</translation>
     </message>
     <message>
         <source>below</source>
-        <translation type="unfinished"></translation>
+        <translation>debajo</translation>
     </message>
     <message>
         <source>on page</source>
-        <translation type="unfinished"></translation>
+        <translation>en la página</translation>
     </message>
     <message>
         <source>Error! Reference source not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! No se encontró la fuente de referencia.</translation>
     </message>
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Tabla de contenidos no permitida en nota al pie, nota al final, encabezado, pie de página, comentario o cuadro de texto.</translation>
     </message>
     <message>
         <source>Error! Table of contents entries not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! No se encontraron entradas de la tabla de contenidos.</translation>
     </message>
     <message>
         <source>Error! Bookmark not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Marcador no especificado.</translation>
     </message>
     <message>
         <source>Error! The file you specified cannot be open.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! El archivo que ha especificado no se puede abrir.</translation>
     </message>
     <message>
         <source>Error! Filename not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Nombre de archivo no especificado.</translation>
     </message>
     <message>
         <source>Error! Title list level is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! El nivel de la lista de título no es válida.</translation>
     </message>
     <message>
         <source>Error! The self-reference of a bookmark is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! La auto-referencia de un marcador es inválida.</translation>
     </message>
 </context>
 <context>
     <name>field_parser_mailmerge</name>
     <message>
         <source>Error! Cannot find Merge Field in the field name record of data source.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! No se puede encontrar el campo de combinación en el nombre de campo de registro del origen de datos.</translation>
     </message>
 </context>
 <context>
     <name>field_parser_numbering</name>
     <message>
         <source>Error! Only for Main Document.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Sólo para el documento principal.</translation>
     </message>
     <message>
         <source>Error! Sequence not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Secuencia no especificada.</translation>
     </message>
     <message>
         <source>! Formula is not in the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>! La fórmula no está en la tabla.</translation>
     </message>
     <message>
         <source>!Undefined bookmark,</source>
-        <translation type="unfinished"></translation>
+        <translation>!Marcador no definido,</translation>
     </message>
     <message>
         <source>!Syntaxl errors</source>
-        <translation type="unfinished"></translation>
+        <translation>!Errores de sintaxis</translation>
     </message>
     <message>
         <source>!Abnormal formula end</source>
-        <translation type="unfinished"></translation>
+        <translation>!Fin de fórmula anormal</translation>
     </message>
     <message>
         <source>!Divisor is zero</source>
-        <translation type="unfinished"></translation>
+        <translation>!El divisor es cero</translation>
     </message>
     <message>
         <source>Not in the table</source>
-        <translation type="unfinished"></translation>
+        <translation>No en la tabla</translation>
     </message>
     <message>
         <source>!Number is too big to set a format</source>
-        <translation type="unfinished"></translation>
+        <translation>!El número es demasiado grande para establecer un formato</translation>
     </message>
 </context>
 <context>
@@ -210,11 +210,11 @@
     </message>
     <message>
         <source>Odd Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página impar</translation>
     </message>
     <message>
         <source>Even Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página par</translation>
     </message>
     <message>
         <source> Header </source>
@@ -256,31 +256,31 @@
     </message>
     <message>
         <source>Section Break (Next Page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección (página siguiente)</translation>
     </message>
     <message>
         <source>Section Break (Continuous)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección (continuo)</translation>
     </message>
     <message>
         <source>Section Break (Even Page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección (página par)</translation>
     </message>
     <message>
         <source>Section Break (Odd Page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Section Break (Odd Page)</translation>
     </message>
     <message>
         <source>End of Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Fin de sección</translation>
     </message>
     <message>
         <source>Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección</translation>
     </message>
     <message>
         <source>The end of the protected section</source>
-        <translation type="unfinished"></translation>
+        <translation>Fin de la sección protegida</translation>
     </message>
 </context>
 <context>
@@ -291,7 +291,7 @@
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de formato de párrafo</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>Columns Formatting Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de formato de columnas</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -319,15 +319,15 @@
     </message>
     <message>
         <source>Hanging Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Sangría colgante</translation>
     </message>
     <message>
         <source>Left Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Sangría izquierda</translation>
     </message>
     <message>
         <source>Right Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Sangría derecha</translation>
     </message>
     <message>
         <source>Left Tab</source>
@@ -351,11 +351,11 @@
     </message>
     <message>
         <source>Move Table Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover columna de tabla</translation>
     </message>
     <message>
         <source>Adjust Table Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar fila de tabla</translation>
     </message>
     <message>
         <source>Left Margin</source>
@@ -379,62 +379,62 @@
     </message>
     <message>
         <source>Adjust Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustas a la izquierda</translation>
     </message>
     <message>
         <source>Adjust Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a la derecha</translation>
     </message>
     <message>
         <source>Adjust Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a la parte superior</translation>
     </message>
     <message>
         <source>Adjust Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a la parte inferior</translation>
     </message>
 </context>
 <context>
     <name>texttable</name>
     <message>
         <source>The number of rows to be split must be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de filas a dividir debe estar entre %d y %d.</translation>
     </message>
     <message>
         <source>The number of rows to be split must be a divisor of %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de filas a dividir debe ser divisor de %d.</translation>
     </message>
     <message>
         <source>The number of columns to be split must be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de columnas a dividir debe estar entre %d y %d.</translation>
     </message>
     <message>
         <source>The number of columns is out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de columnas está fuera del rango.</translation>
     </message>
     <message>
         <source>Cannot merge</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede combinar</translation>
     </message>
     <message>
         <source>Cannot split the selection because it contains joined cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede dividir la selección porque contiene celdas unidas.</translation>
     </message>
     <message>
         <source>Cannot split cells vertically in multiple rows.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pueden dividir las celdas verticalmente en múltiples filas.</translation>
     </message>
     <message>
         <source>You must select more than one columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debe seleccionar más de una columna.</translation>
     </message>
     <message>
         <source>Cannot distribute the selected columns evenly.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pueden distribuir las columnas seleccionadas uniformemente.</translation>
     </message>
     <message>
         <source>You must select more than one rows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debe seleccionar más de una fila.</translation>
     </message>
 </context>
 <context>
@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Libra</translation>
     </message>
     <message>
         <source>Centimeter</source>
@@ -521,11 +521,11 @@
     </message>
     <message>
         <source>Previous Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Párrafo anterior</translation>
     </message>
     <message>
         <source>Next Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Párrafo siguiente</translation>
     </message>
     <message>
         <source>Sample Text</source>
@@ -533,51 +533,51 @@
     </message>
     <message>
         <source>AaBbCc</source>
-        <translation type="unfinished"></translation>
+        <translation>AaBbCc</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede imprimir, por favor, asegúrese de que su impresora se ha instalado adecuadamente.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has reached the beginning of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer ha alcanzado el principio del documento.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has reached the end of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer ha alcanzado el final del documento.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer ha terminado de buscar en el documento.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the selection </source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer ha terminado de buscar en la selección </translation>
     </message>
     <message>
         <source>No search item was found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontraron elementos de búsqueda.</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the beginning?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea continuar buscando desde el principio?</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea continuar buscando desde el final?</translation>
     </message>
     <message>
         <source>Do you want to search the other part of the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea buscar en la otra parte del documento?</translation>
     </message>
     <message>
         <source>and has replaced %i items.</source>
-        <translation type="unfinished"></translation>
+        <translation>y ha reemplazado %i objetos.</translation>
     </message>
     <message>
         <source>The special character %s is not valid for the Replace With box.</source>
-        <translation type="unfinished"></translation>
+        <translation>El caracter especial %s no es válido para el cuadro Reemplazar con.</translation>
     </message>
     <message>
         <source>(Print Preview)</source>
@@ -597,19 +597,19 @@
     </message>
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta acción no será marcada como revisión. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Kingsoft Writer document data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos del documento de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Invalid E-mail address, sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección de e-mail inválida, el envío ha fallado.</translation>
     </message>
     <message>
         <source>E-mail sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>El envío del e-mail ha fallado.</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot merge the main document with the data source, because the date record is empty or unmatched with the inquiry.</source>
@@ -617,24 +617,25 @@
     </message>
     <message>
         <source>Kingsoft Writer cannot open the Data Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer no puede abrir la fuente de datos.</translation>
     </message>
     <message>
         <source>Attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjunto</translation>
     </message>
     <message>
         <source>%s already exists.
 Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>% ya existe.
+¿Desea reemplazarlo?</translation>
     </message>
     <message>
         <source>The data source does not contain any visible table.</source>
-        <translation type="unfinished"></translation>
+        <translation>La fuente de datos no contiene ninguna tabla visible.</translation>
     </message>
     <message>
         <source>This operation is invalid for the end of a row.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta operación es inválida para el fin de una fila.</translation>
     </message>
     <message>
         <source>Toggle Revision Marks</source>
@@ -642,7 +643,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>This operation will delete all the elements in the table, do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta operación eliminará todos los elementos de la tabla, ¿desea continuar?</translation>
     </message>
     <message>
         <source>SpellingCheck: On</source>
@@ -654,11 +655,11 @@ Do you want to replace it?</source>
     </message>
     <message utf8="true">
         <source>Some browsers may not be able to display single file Web pages where the path includes those characters &quot;!”, “#”, “%20”, “%23” or “%25”, etc.. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunos navegadores pueden no ser capaces de mostrar archivos individuales de páginas web donde la ruta incluya los caracteres &quot;!”, “#”, “%20”, “%23” or “%25”, etc.. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, seleccione el texto base para la guía fonética.</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -674,23 +675,23 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Unit: cm</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad: cm</translation>
     </message>
     <message>
         <source>Unit: inch</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad: pulgada</translation>
     </message>
     <message>
         <source>Unit: mm</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad: mm</translation>
     </message>
     <message>
         <source>Unit: pt </source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad: pto </translation>
     </message>
     <message>
         <source>The full-text search is finished, %d results were found. Only the first %d results were selected owing to too many results found.</source>
-        <translation type="unfinished"></translation>
+        <translation>La búsqueda del texto completo ha terminado, se encontraron %d resultados. Sólo los primeros %d resultados se han seleccionado debido a que se encontraron demasiados resultados.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -702,11 +703,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Predeterminado)</translation>
     </message>
     <message>
         <source>(Asian)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Asiático)</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -718,11 +719,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>No underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin subrayado</translation>
     </message>
     <message>
         <source>Word underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Subrayado de palabra</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -730,15 +731,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Doble subrayado</translation>
     </message>
     <message>
         <source>Thick underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Subrayado grueso</translation>
     </message>
     <message>
         <source>Dotted underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Subrayado de puntos</translation>
     </message>
     <message>
         <source>Dotted heavy underline</source>
@@ -794,11 +795,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto</translation>
     </message>
     <message>
         <source>Pause mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca de pausa</translation>
     </message>
     <message>
         <source>No emphasis mark</source>
@@ -810,7 +811,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Double strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Tachado doble</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -822,7 +823,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Superscript / Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Superíndice / Subíndice</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -866,15 +867,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Expanded by </source>
-        <translation type="unfinished"></translation>
+        <translation>Expandido por </translation>
     </message>
     <message>
         <source>Condensed by </source>
-        <translation type="unfinished"></translation>
+        <translation>Condensado por</translation>
     </message>
     <message>
         <source>Expanded by / Condensed by</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandido por / Condensado por</translation>
     </message>
     <message>
         <source>Raised by </source>
@@ -894,23 +895,23 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Snap to grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a la cuadrícula</translation>
     </message>
     <message>
         <source>Don&apos;t snap to grid</source>
-        <translation type="unfinished"></translation>
+        <translation>No ajustar a la cuadrícula</translation>
     </message>
     <message>
         <source>Heading 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Título 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Título 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Título 3</translation>
     </message>
     <message>
         <source>Header</source>
@@ -922,7 +923,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Default Paragraph Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente de párrafo predeterminada</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -950,47 +951,47 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Level %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel %d</translation>
     </message>
     <message>
         <source>Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Sangría</translation>
     </message>
     <message>
         <source>Left </source>
-        <translation type="unfinished"></translation>
+        <translation>Izquierda</translation>
     </message>
     <message>
         <source>Right </source>
-        <translation type="unfinished"></translation>
+        <translation>Derecha </translation>
     </message>
     <message>
         <source>First line</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera línea</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Colgante</translation>
     </message>
     <message>
         <source>Space </source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio</translation>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Antes</translation>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"></translation>
+        <translation>Después</translation>
     </message>
     <message>
         <source>Line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Interlineado</translation>
     </message>
     <message>
         <source>single</source>
-        <translation type="unfinished"></translation>
+        <translation>sencillo</translation>
     </message>
     <message>
         <source>1.5 lines</source>
@@ -1002,11 +1003,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>At least </source>
-        <translation type="unfinished"></translation>
+        <translation>Al menos </translation>
     </message>
     <message>
         <source>Exactly </source>
-        <translation type="unfinished"></translation>
+        <translation>Exactamente</translation>
     </message>
     <message>
         <source>Multiple </source>
@@ -1022,35 +1023,35 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Keep with next</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener con el siguiente</translation>
     </message>
     <message>
         <source>Don&apos;t keep with next</source>
-        <translation type="unfinished"></translation>
+        <translation>No mantener con el siguiente</translation>
     </message>
     <message>
         <source>Keep lines together</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener líneas juntas</translation>
     </message>
     <message>
         <source>Don&apos;t Keep lines together</source>
-        <translation type="unfinished"></translation>
+        <translation>No mantener líneas juntas</translation>
     </message>
     <message>
         <source>Page break before</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de página antes</translation>
     </message>
     <message>
         <source>No Page break before</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin salto de página antes</translation>
     </message>
     <message>
         <source>Use Asian rules to control first and last character</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar reglas asiáticas para controlar el primer el último carácter</translation>
     </message>
     <message>
         <source>Don&apos;t use Asian rules to control first and last character</source>
-        <translation type="unfinished"></translation>
+        <translation>No usar reglas asiáticas para controlar el primer el último carácter</translation>
     </message>
     <message>
         <source>Allow text to wrap in the middle of a word</source>
@@ -1062,51 +1063,51 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Allow hanging punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir puntuación colgante</translation>
     </message>
     <message>
         <source>Don&apos;t allow hanging punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>No permitir puntuación colgante</translation>
     </message>
     <message>
         <source>Compress initial punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimir puntuación inicial</translation>
     </message>
     <message>
         <source>Don&apos;t compress initial punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>No comprimir puntuación incial</translation>
     </message>
     <message>
         <source>Adjust space between Latin and Asian text</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar espacio entre texto latino y asiático</translation>
     </message>
     <message>
         <source>Don&apos;t adjust space between Latin and Asian text</source>
-        <translation type="unfinished"></translation>
+        <translation>No ajustar espacio entre texto latino y asiático</translation>
     </message>
     <message>
         <source>Adjust space between Asian text and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar espacio entre números y texto asiáticos</translation>
     </message>
     <message>
         <source>Don&apos;t adjust space between Asian text and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>No ajustar espacio entre texto y números asiáticos</translation>
     </message>
     <message>
         <source>Font Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineación de fuente</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Parte superior</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <source>Baseline</source>
@@ -1114,7 +1115,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Parte inferior</translation>
     </message>
     <message>
         <source>Tab stops</source>
@@ -1130,7 +1131,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Numbered</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerado</translation>
     </message>
     <message>
         <source>Level</source>
@@ -1138,23 +1139,23 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Numbering Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de numeración</translation>
     </message>
     <message>
         <source>Start at</source>
-        <translation type="unfinished"></translation>
+        <translation>Empezar en</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineación</translation>
     </message>
     <message>
         <source>Aligned at</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineado a</translation>
     </message>
     <message>
         <source>Indent at</source>
-        <translation type="unfinished"></translation>
+        <translation>Sangría a</translation>
     </message>
     <message>
         <source>Gutter</source>
@@ -1162,31 +1163,31 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancho</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Alto</translation>
     </message>
     <message>
         <source>Section start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de sección</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuo</translation>
     </message>
     <message>
         <source>New page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página nueva</translation>
     </message>
     <message>
         <source>Even page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página par</translation>
     </message>
     <message>
         <source>Odd page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página impar</translation>
     </message>
     <message>
         <source>Different first page header and footer</source>
@@ -1194,15 +1195,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Header distance from edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia al encabezado desde el borde</translation>
     </message>
     <message>
         <source>Footer distance from edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia al pie de página desde el borde</translation>
     </message>
     <message>
         <source>No grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin cuadrícula</translation>
     </message>
     <message>
         <source>Specify line grid</source>
@@ -1214,23 +1215,23 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Text snaps to character grid</source>
-        <translation type="unfinished"></translation>
+        <translation>El texto se ajusta a la cuadrícula</translation>
     </message>
     <message>
         <source>Number of columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de columnas</translation>
     </message>
     <message>
         <source>Col #%d width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancho de col. #%d</translation>
     </message>
     <message>
         <source>Col #%d spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado de col. #%d</translation>
     </message>
     <message>
         <source>Force equal column width</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar igual ancho de columna</translation>
     </message>
     <message>
         <source>Line between</source>
@@ -1338,23 +1339,23 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Line width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancho de línea</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"></translation>
+        <translation>pulgada</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>ch</source>
@@ -1362,7 +1363,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>line</source>
-        <translation type="unfinished"></translation>
+        <translation>línea</translation>
     </message>
     <message>
         <source>li</source>
@@ -1430,7 +1431,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Border spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado de bordes</translation>
     </message>
     <message>
         <source>From text</source>
@@ -1450,27 +1451,27 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Entre</translation>
     </message>
     <message>
         <source>Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuatro</translation>
     </message>
     <message>
         <source>Automatically adjust right indent when grid is defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar automáticamente la sangría derecha cuando la cuadrícula está definida</translation>
     </message>
     <message>
         <source>Don&apos;t adjust right indent when grid is defined</source>
-        <translation type="unfinished"></translation>
+        <translation>No ajustar la sangría derecha cuando la cuadrícula está definida</translation>
     </message>
     <message>
         <source>New column</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva columna</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen</translation>
     </message>
     <message>
         <source>No bullets or numbering</source>
@@ -1478,15 +1479,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Right-to-left</source>
-        <translation type="unfinished"></translation>
+        <translation>De derecha a izquierda</translation>
     </message>
     <message>
         <source>Left-to-right</source>
-        <translation type="unfinished"></translation>
+        <translation>De izquierda a derecha</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"></translation>
+        <translation>Dos líneas en una</translation>
     </message>
     <message>
         <source>Circle</source>
@@ -1506,30 +1507,30 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>%s can&apos;t load!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se puede cargar %s!</translation>
     </message>
 </context>
 <context>
     <name>wpscore_err</name>
     <message>
         <source>The measurement must be between 0 pt and 1584 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>La medida debe estar entre 0 pto. y 1584 pto.</translation>
     </message>
     <message>
         <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>La configuración que ha establecido para margen izquierdo o derecho, espaciado de columnas o sangría de párrafo tienen demasiado tamaño para el ancho de página en algunas secciones.</translation>
     </message>
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede establecer u obtener el espacio entre columnas al final del texto.</translation>
     </message>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>La medida debe estar entre -1584 pto. y 1584 pto.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este nombre de estilo ya está actualmente en uso o reservado para un estilo incorporado.</translation>
     </message>
     <message>
         <source>Preview Mode is in use.</source>
@@ -1541,7 +1542,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
-        <translation type="unfinished"></translation>
+        <translation>La medida debe estar entre 0.5 y 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -1549,23 +1550,23 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>The Base Style Name does not exist or its type is not correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre del estilo base no existe o no se ha escrito correctamente.</translation>
     </message>
     <message>
         <source>Failed to open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo al abrir.</translation>
     </message>
     <message>
         <source>Failed to save.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo al guardar.</translation>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hay notas al pie, notas al final, o referencias de comentarios en esta selección. Al convertir a un cuadro de texto se perderá el texto al que se hace referencia. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>The text box contains one or more tables which will be deleted if you convert them, because the Vertical text box can not contain any table. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>El cuadro de texto contiene una o más tablas que serán eliminadas si lo convierte porque el cuadro de texto vertical no contiene ninguna tabla. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Protect method or property is invalid due to the protected document.</source>
@@ -1577,19 +1578,19 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>The password is not correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>La contraseña no es correcta.</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>El cuadro de texto contiene objetos o tablas que serán eliminados si establece sus propiedades, debido a que el cuadro de texto de texto redimensionable o rotable no debe contener ningún objeto o tabla. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Cannot insert any object to the text box which can be resized or rotated.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede insertar ningún objeto en el cuadro de texto que será redimensiado o rotado.</translation>
     </message>
     <message>
         <source>You want to paste one or more tables to a vertical textbox or frame, but the vertical text box and frame don&apos;t support tables. Therefore the tables will be deleted, do you want to continue? </source>
-        <translation type="unfinished"></translation>
+        <translation>Desea pegar una o más tablas en un cuadro de texto vertical o marco, pero el cuadro de texto vertical y el marco no soportan tablas. Por lo tanto, las tablas serán eliminadas, ¿desea continuar?</translation>
     </message>
 </context>
 <context>
@@ -1604,11 +1605,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>normal.wpt</source>
-        <translation type="unfinished"></translation>
+        <translation>normal.wpt</translation>
     </message>
     <message>
         <source>builtin.wpt</source>
-        <translation type="unfinished"></translation>
+        <translation>incorporado.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -1616,19 +1617,19 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos comunes(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot; *.docx</source>
-        <translation type="unfinished"></translation>
+        <translation>*.wps;*.wpt;*.doc;*.dot; *.docx</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos(*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>ICBC Preparatory Documents(*.ic1)</source>
@@ -1636,7 +1637,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>*.ic1</source>
-        <translation type="unfinished"></translation>
+        <translation>*.ic1</translation>
     </message>
     <message>
         <source>ICBC Official Documents(*.ic2)</source>
@@ -1644,7 +1645,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>*.ic2</source>
-        <translation type="unfinished"></translation>
+        <translation>*.ic2</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
@@ -1652,83 +1653,99 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estos cambios que ha realizado afectarán a la plantilla común %s. ¿Desea guardarlos?</translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo que ha abierto es de solo-lectura o está bloqueado por otra aplicación.
+(%s)</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Writer is opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Han ocurrido errores cuando Kingsoft Writer abría este archivo.
+Por favor, intente alguna de las siguientes opciones:
+•Asegúrese de que tiene permitido el acceso a este archivo o unidad.
+•Asegúrese de que hay suficiente memoria y espacio en disco.</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abriendo el archivo, por favor, espere...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardando el archivo, por favor, espere...</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot open this file, because the password is not correct.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer no puede abrir este archivo porque la contraseña no es correcta.
+(%s)</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de archivo cifrado no soportado. Por favor, contacte al creador.
+(%s)</translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
  If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede encontrar &quot;%s&quot;. Por favor, compruebe la ortografía del nombre del archivo y asegúrese de que la localización es correcta.
+ Si está intentando abrir el archivo desde su lista de documentos recientes en el menú de Archivo, por favor, asegúrese de que el archivo no ha sido renombrado, movido o eliminado.</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot save or create this file. Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer no puede guardar o crear este archivo. Por favor, asegúrese de que no está bloqueado por otro usuario, o que el disco de destino no esté lleno o dañado.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot save this file due to a file permission error.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer no puede guardar este archivo debido a un error de permisos del archivo.
+(%s)</translation>
     </message>
     <message>
         <source>Try to save again? 
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Intentar guardar de nuevo? 
+(%s)</translation>
     </message>
     <message>
         <source>The document will be save as &quot;%s&quot; format, Do you want to continue?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento será guardado con formato &quot;%s&quot;. ¿Desea continuar?
+(%s)</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento ha sido bloqueado por otra aplicación. ¿Desea abrirlo como solo-lectura?
+(%s)</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo ha sido abierto como solo-lectura anteriormente. ¿Aún desea abrirlo como solo-lectura?
+(%s)</translation>
     </message>
     <message>
         <source>%s (Read-Only)</source>
-        <translation type="unfinished"></translation>
+        <translation>%s (Solo-lectura)</translation>
     </message>
     <message utf8="true">
         <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
 
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest Kingsoft Writer format.</source>
-        <translation type="unfinished"></translation>
+        <translation>%s puede contener algunas características que no son compatibles con el formato %s. ¿Desea mantener el documento en este formato?
+
+•Si desea mantener este formato, haga clic en Sí..
+•Si desea conservar estas características, haga clic en No. Luego guarde una copia en el último formato de Kingsoft Writer.</translation>
     </message>
     <message utf8="true">
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X), Please contact the anti-virus software agent. 
@@ -1739,11 +1756,18 @@ Do you still want to open this file?
 
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you don&apos;t trust this file, just do not open it.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Su programa de análisis de virus ha encontrado errores al analizar este archivo (Código de error: 0x%08X), por favor, contacte al agente del software antivirus. 
+¿Aún desea abrir este archivo?
+
+•Si hace clic en Sí, Kingsoft Presentation continuará abriendo este archivo.
+•Si hace clic en No, Kingsoft Presentation detendrá la apertura de este archivo.
+
+Tenga en cuenta que algunos archivos pueden contener virus macro y posiblemente realizar otras acciones dañinas. Si no confía en este archivo no lo abra.
+(%s)</translation>
     </message>
     <message>
         <source>The default template has been damaged. Do you want to try resetting it? Note that resetting may cause loss of part of user defined data.</source>
-        <translation type="unfinished"></translation>
+        <translation>La plantilla predeterminada ha sido dañada. ¿Desea intentar reiniciarla? Tenga el cuenta que el reinicio puede causar pérdidas de parte de los datos definidos por el usuario.</translation>
     </message>
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
@@ -1751,7 +1775,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     </message>
     <message>
         <source>Cannot paste table to a vertical text box.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede pegar una tabla en un cuadro de texto vertical.</translation>
     </message>
     <message>
         <source>WPSV6-TEXT</source>
@@ -1759,7 +1783,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only Kingsoft Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>El permiso de este archivo está actualmente restringido. Sólo el formato de archivo de Kingsoft Writer puede mantener esta configuración. Si desea guardarlo en el tipo de archivo actual, toda la configuración de permisos se perderá. ¿Desea continuar?</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Writer cannot open this file, because the current user doesn&apos;t have enough permission to access.
@@ -1767,18 +1791,24 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer no puede abrir este archivo porque el usuario actual no tiene suficientes permisos para acceder.
+Por favor, intente alguna de las siguientes opciones:
+•Cambie a otra cuenta de usuario.
+•Pida a su creador que cambio el nivel de control de permisos de este archivo.
+(%s)</translation>
     </message>
     <message>
         <source>Opening this document will execute the SQL command below:
  %s 
 Data from your database will be placed in the document. Do you want to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir este documento ejecutará el siguiente comando SQL:
+ %s 
+Los datos de su base de datos se colocarán en el documento. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
-        <translation type="unfinished"></translation>
+        <translation>El permiso de &quot;%s&quot; está actualmente restringido. Los archivos con permiso restringido no se pueden insertar en este documento.</translation>
     </message>
     <message>
         <source>This file contains Enhanced Textbox property. Saving it as other formats, may cause loss of the specific property. 
@@ -1787,7 +1817,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>This file contains some special properties below. Saving it as other formats may cause the loss of:</source>
-        <translation type="unfinished"></translation>
+        <translation>Este archivo contiene algunos de los siguientes caracteres especiales. Guardarlo en otro formato puede causar su pérdida:</translation>
     </message>
     <message utf8="true">
         <source>
@@ -1813,24 +1843,26 @@ Do you want to continue?</source>
         <source>Kingsoft Writer cannot give a document the same name as an open document.
 Type a different name for the document you want to save.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer no puede darle a un documento el mismo nombre que un documento abierto.
+Escriba un nombre diferente para el archivo que desea guardar.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot open this file, because the password is not correct.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer no puede abrir este archivo porque la contraseña no es correcta.</translation>
     </message>
     <message>
         <source>WPS document in %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento WPS en %s</translation>
     </message>
     <message utf8="true">
         <source>The specified file “%s” is not the supported file typle, please click OK and then specify a type in the Save as dialogue.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo especificado &quot;%s&quot; no es un tipo de archivo soportado. Por favor, pulse Aceptar y luego especifique un tipo en el diálogo Guardar como.</translation>
     </message>
     <message>
         <source>Graphic objects can not be placed in a text box, label annotations, footnotes or endnotes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objetos gráficos no pueden colocarse en un cuadro de texto, anotaciones de etiquetas, notas al pie o notas al final.</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks: 
@@ -1848,15 +1880,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Address 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección 1</translation>
     </message>
     <message>
         <source>Address 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección 2</translation>
     </message>
     <message>
         <source>Address 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección 3</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -1864,11 +1896,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished">Centrado</translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1884,7 +1916,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Error occurs when adding words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Han ocurrido errores al añadir palabras.</translation>
     </message>
     <message>
         <source>This section</source>
@@ -1892,7 +1924,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo el documento</translation>
     </message>
     <message>
         <source>Below selected item</source>
@@ -1900,11 +1932,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Bookmark does not exist or is hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>El marcador no existe o está oculto.</translation>
     </message>
     <message>
         <source>Edge of page</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde de página</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1944,11 +1976,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Business Fax</source>
-        <translation type="unfinished"></translation>
+        <translation>Fax del trabajo</translation>
     </message>
     <message>
         <source>Business Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Teléfono del trabajo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1968,7 +2000,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>El cuadro de texto contiene objetos o tablas que serán eliminados si establece sus propiedades, debido a que el cuadro de texto redimensionable o rotable no debe contener ningún objeto o tabla. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>City</source>
@@ -1996,15 +2028,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Country or Region</source>
-        <translation type="unfinished"></translation>
+        <translation>País o región</translation>
     </message>
     <message>
         <source>Courtesy Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tratamiento de cortesía</translation>
     </message>
     <message>
         <source>Created Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora de creación</translation>
     </message>
     <message>
         <source>Custom Color</source>
@@ -2012,31 +2044,31 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Predeterminado)</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente de párrafo predeterminada</translation>
     </message>
     <message>
         <source>Are you sure to delete the default dictionary?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar el diccionario por defecto?</translation>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Han ocurrido errores al eliminar palabras.</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Departamento</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción</translation>
     </message>
     <message>
         <source>Incorrect dictionary! Can&apos;t modify!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Diccionario incorrecto! ¡No se puede modificar!</translation>
     </message>
     <message>
         <source>Final Showing Markup,Final,Original Showing Markup,Original</source>
@@ -2068,7 +2100,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Documents                  %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos                  %s</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -2076,7 +2108,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>E-mail Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección de e-mail</translation>
     </message>
     <message>
         <source>&amp;Enter bookmark number:</source>
@@ -2092,7 +2124,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The font &apos;%s&apos; is not available in your system. Do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>La fuente &apos;%s&apos; no está disponible en su sistema. ¿Desea usarla de todos modos?</translation>
     </message>
     <message>
         <source>%s is not a valid special character for the Find What box.</source>
@@ -2608,7 +2640,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Postal Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código postal</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
@@ -2672,19 +2704,19 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Secciones seleccionadas</translation>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto seleccionado</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar carpeta:</translation>
     </message>
     <message>
         <source>Solid(100%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólido(100%)</translation>
     </message>
     <message>
         <source>Sounds Like(English)</source>
@@ -2764,7 +2796,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>(underlying properties)</source>
@@ -2824,11 +2856,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>width</source>
-        <translation type="unfinished"></translation>
+        <translation>ancho</translation>
     </message>
     <message>
         <source>Underline words</source>
-        <translation type="unfinished"></translation>
+        <translation>Subrayar palabras</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
@@ -2840,7 +2872,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Dentro</translation>
     </message>
     <message>
         <source>&amp;Inside</source>
@@ -2860,7 +2892,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilimitado</translation>
     </message>
     <message>
         <source>what you print has errors with Format.</source>
@@ -3040,7 +3072,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>2008-8-8</source>
-        <translation type="unfinished">2008-8-8</translation>
+        <translation>2008-8-8</translation>
     </message>
     <message>
         <source>20</source>
@@ -3201,7 +3233,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Numbered item</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Objeto numerado</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -3211,32 +3243,32 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>Bookmark</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marcador</translation>
     </message>
     <message>
         <source>Footnote</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished">Nota al pie</translation>
+        <translation>Nota al pie</translation>
     </message>
     <message>
         <source>Endnote</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nota al final</translation>
     </message>
     <message>
         <source>Equation</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished">Ecuación</translation>
+        <translation>Ecuación</translation>
     </message>
     <message>
         <source>Diagram</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>TxCrossRefType</comment>
-        <translation type="unfinished">Tabla</translation>
+        <translation>Tabla</translation>
     </message>
     <message>
         <source>You are not allowed to edit this selection because it is protected.</source>
@@ -3244,21 +3276,27 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
+
+This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
+
+This change will affect all the new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
 
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3277,11 +3315,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <name>wpsuil</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos(*.*) | *.*; |</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
@@ -3393,7 +3431,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombreado de carácter</translation>
     </message>
     <message>
         <source>Character Scaling</source>
@@ -3809,7 +3847,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de sombreado</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
@@ -3825,7 +3863,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a la cuadrícula</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3845,11 +3883,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Edit Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar campo</translation>
     </message>
     <message>
         <source>Update Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar campos</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -3889,11 +3927,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Lock Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear campo</translation>
     </message>
     <message>
         <source>Unlock Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloquear campo</translation>
     </message>
     <message>
         <source>Insert Chart</source>
@@ -4399,7 +4437,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Modify table</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar tabla</translation>
     </message>
     <message>
         <source>Format Line Number</source>

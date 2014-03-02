@@ -1341,8 +1341,8 @@ Please try one of the following.
 (%s)</source>
         <translation>Kingsoft Presentation no puede abrir este archivo porque el usuario actual no tiene suficientes permisos para acceder.
 Por favor, intente alguna de las siguientes opciones:
-•Cambiar a otra cuenta de usuario.
-•Pedir a su creador que cambio el nivel de control de permisos de este archivo.
+•Cambie a otra cuenta de usuario.
+•Pida a su creador que cambio el nivel de control de permisos de este archivo.
 (%s)</translation>
     </message>
     <message>

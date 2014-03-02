@@ -3250,7 +3250,7 @@ On</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde y sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -8548,7 +8548,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde y sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -9554,7 +9554,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde y sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
