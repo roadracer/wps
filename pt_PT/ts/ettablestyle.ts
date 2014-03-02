@@ -128,7 +128,7 @@
     </message>
     <message>
         <source>light color style</source>
-        <translation type=Estilo de cores suaves"></translation>
+        <translation type=Estilo de cores suaves></translation>
     </message>
     <message>
         <source>moderate color style</source>
