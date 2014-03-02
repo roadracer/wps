@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Deep</source>
-        <translation type=Profundo></translation>
+        <translation type=Forte></translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>styleless, no grid</source>
-        <translation type=Formatado, sem grelha></translation>
+        <translation type=Sem formatação ou grelha></translation>
     </message>
     <message>
         <source>theme style</source>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Deep</source>
-        <translation type=Profundo></translation>
+        <translation type=Forte></translation>
     </message>
 </context>
 <context>
