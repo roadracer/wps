@@ -5,22 +5,22 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type="unfinished"></translation>
+        <translation type=galeria></translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type="unfinished"></translation>
+        <translation type=forma></translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation type="unfinished"></translation>
+        <translation type=Editar Galeria></translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation type=De:></translation>
     </message>
     <message>
         <source>Text</source>
@@ -28,35 +28,35 @@
     </message>
     <message>
         <source>Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation type=Sentença:></translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation type=Legenda:></translation>
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation type=O maior número de sentenças é 5></translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type="unfinished"></translation>
+        <translation type=Mais:></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type=OK></translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type=Directoria:></translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation type=Notas:></translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation type="unfinished"></translation>
+        <translation type=Menos:></translation>
     </message>
 </context>
 <context>
@@ -67,29 +67,29 @@
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation type=Menos></translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation type=\Kingsoft Office\Desktop.ini nome.></translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation type=\Kingsoft Office\AppData\Desktop.ini nome.></translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation type=\Kingsoft Office\AppData\My Materials\Desktop.ini nome.></translation>
     </message>
 </context>
 <context>
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation type="unfinished"></translation>
+        <translation type=Galeria WPS></translation>
     </message>
 </context>
 </TS>

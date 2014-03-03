@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation>Customizar</translation>
+        <translation>Personalizar</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -117,7 +117,7 @@
     <name>classics.align</name>
     <message>
         <source>Align Bottom</source>
-        <translation>Alinhar em Baixo</translation>
+        <translation>Alinhar por Baixo</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Alinhar ao Centro</translation>
+        <translation>Alinhar ao Meio</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Alinhar ao Topo</translation>
+        <translation>Alinhar pelo Topo</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation>Scroll Sincrono</translation>
+        <translation>Deslocamento sincronizado</translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -199,7 +199,7 @@
     <name>classics.control_tool_box</name>
     <message>
         <source>Check Box</source>
-        <translation>Caixa de Verificação</translation>
+        <translation>Caixa de Verificações</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -215,7 +215,7 @@
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Modo de Design</translation>
+        <translation>Modo de Edição</translation>
     </message>
     <message>
         <source>Image</source>
@@ -223,7 +223,7 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>Rótulo</translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>List Button</source>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation>Barra de Scroll</translation>
+        <translation>Barra de Deslocamento</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -251,12 +251,11 @@
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Caixa de
-Texto</translation>
+        <translation>Caixa de Texto</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation>Botão de Alternancia</translation>
+        <translation>Botão Alternar</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -391,7 +390,7 @@ Texto</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alinhar em Baixo</translation>
+        <translation>Alinhar por Baixo</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -411,11 +410,11 @@ Texto</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Alinhar ao Topo</translation>
+        <translation>Alinhar pelo Topo</translation>
     </message>
     <message>
         <source>Align/Distribute/Equalize</source>
-        <translation>Alinhar/Distribuir/Equalizar</translation>
+        <translation>Alinhar/Distribuir/Justificar</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -475,7 +474,7 @@ Texto</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>Por Detrás do Texto</translation>
+        <translation>Atrás do Texto</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -543,11 +542,11 @@ Texto</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Virar Horizontalmente</translation>
+        <translation>Inverter Horizontalmente</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Virar Verticalmente</translation>
+        <translation>Inverter Verticalmente</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -583,7 +582,7 @@ Texto</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation type=Inserir Clip Art></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -607,15 +606,15 @@ Texto</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Traço Longo</translation>
+        <translation>Travessão</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Traço Longo e Ponto</translation>
+        <translation>Travessão-Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Traço Longo, Ponto e Ponto</translation>
+        <translation>Travessão-Ponto-Ponto</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -647,7 +646,7 @@ Texto</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>Sem Sombra</translation>
+        <translation>Sem Sombreado</translation>
     </message>
     <message>
         <source>Nudge</source>
@@ -655,7 +654,7 @@ Texto</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation type=Selecção de Objecto></translation>
     </message>
     <message>
         <source>Order</source>
@@ -671,7 +670,7 @@ Texto</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>Rectangulo</translation>
+        <translation>Rectângulo</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -691,11 +690,11 @@ Texto</translation>
     </message>
     <message>
         <source>Rotate/Flip</source>
-        <translation>Rodar/Virar</translation>
+        <translation>Rodar/Inverter</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Ponto Redondo</translation>
+        <translation>Ponto Arredondado</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -723,95 +722,95 @@ Texto</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>Opções da Sombra</translation>
+        <translation>Opções do Sombreado</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Estilo da Sombra</translation>
+        <translation>Estilo do Sombreado</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation>Estilo de Sombra 1</translation>
+        <translation>Estilo do Sombreado 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation>Estilo de Sombra 10</translation>
+        <translation>Estilo do Sombreado 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation></translation>
+        <translation>Estilo do Sombreado 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation>Estilo de Sombra 12</translation>
+        <translation>Estilo do Sombreado 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation>Estilo de Sombra 13</translation>
+        <translation>Estilo do Sombreado 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation>Estilo de Sombra 14</translation>
+        <translation>Estilo do Sombreado 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation>Estilo de Sombra 15</translation>
+        <translation>Estilo do Sombreado 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation>Estilo de Sombra 16</translation>
+        <translation>Estilo do Sombreado 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation>Estilo de Sombra 17</translation>
+        <translation>Estilo do Sombreado 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation>Estilo de Sombra 18</translation>
+        <translation>Estilo do Sombreado 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation>Estilo de Sombra 19</translation>
+        <translation>Estilo do Sombreado 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation>Estilo de Sombra 2</translation>
+        <translation>Estilo do Sombreado 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation>Estilo de Sombra 20</translation>
+        <translation>Estilo do Sombreado 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation>Estilo de Sombra 3</translation>
+        <translation>Estilo do Sombreado 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation>Estilo de Sombra 4</translation>
+        <translation>Estilo do Sombreado 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation>Estilo de Sombra 5</translation>
+        <translation>Estilo do Sombreado 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation>Estilo de Sombra 6</translation>
+        <translation>Estilo do Sombreado 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation>Estilo de Sombra 7</translation>
+        <translation>Estilo do Sombreado 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation>Estilo de Sombra 8</translation>
+        <translation>Estilo do Sombreadoa 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation>Estilo de Sombra 9</translation>
+        <translation>Estilo do Sombreado 9</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Solido</translation>
+        <translation>Sólido</translation>
     </message>
     <message>
         <source>Square</source>
@@ -831,7 +830,7 @@ Texto</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Apertado</translation>
+        <translation>Justificado</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -843,7 +842,7 @@ Texto</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Cima</translation>
+        <translation>Acima</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -882,15 +881,15 @@ Texto</translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
-        <translation>Riscar Duplamente</translation>
+        <translation>Rasurado Duplo</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Marca de Enfase</translation>
+        <translation>Marca de Ênfase</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation>Caracteres Balizadores</translation>
+        <translation>Anexar caracteres</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -902,7 +901,7 @@ Texto</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation>Riscar</translation>
+        <translation>Rasurado</translation>
     </message>
 </context>
 <context>
@@ -965,11 +964,11 @@ Texto</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation>Marcas de Lista</translation>
+        <translation>Marcas e Numeração</translation>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation>Dimensionamento dos Caracteres</translation>
+        <translation>Tamanho da Letra</translation>
     </message>
     <message>
         <source>Font</source>
@@ -985,11 +984,11 @@ Texto</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation>Destacar</translation>
+        <translation>Sombrear</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Espaçamento das Linhas</translation>
+        <translation>Espaçamento entre Linhas</translation>
     </message>
     <message>
         <source>More</source>
@@ -1027,7 +1026,7 @@ Texto</translation>
     <name>classics.forms</name>
     <message>
         <source>Check box Form Field</source>
-        <translation>Campo de Formulário tipo Caixa de Verificação</translation>
+        <translation>Campo de Formulário do tipo Caixa de Verificação</translation>
     </message>
     <message>
         <source>Drop-down Form Field</source>
@@ -1039,11 +1038,11 @@ Texto</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
-        <translation>Sombra do Campo de Formulário</translation>
+        <translation>Sombreado do Campo de Formulário</translation>
     </message>
     <message>
         <source>Protection Form</source>
-        <translation>Formulário de Protecção</translation>
+        <translation>Protecção do Formulário</translation>
     </message>
     <message>
         <source>Reset Form Field</source>
@@ -1058,14 +1057,14 @@ Texto</translation>
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Sair de Ecrâ Completo</translation>
+        <translation>Sair do Ecrâ Completo</translation>
     </message>
 </context>
 <context>
     <name>classics.header_and_footer</name>
     <message>
         <source>- Page -</source>
-        <translation>_Página -</translation>
+        <translation>- Página -</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1118,7 +1117,7 @@ da Página</translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
-        <translation>Alternar Entre Cabeçalho e Rodapé</translation>
+        <translation>Alternar entre Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
@@ -1157,35 +1156,31 @@ da Página</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation type="unfinished"></translation>
+        <translation type=Enviar para vários destinatários></translation>
     </message>
     <message>
         <source>Match Fields</source>
         <translation>Correspondencia dos Campos</translation>
     </message>
     <message>
-        <source>Merge
-to Email</source>
-        <translation>Juntar
-por Email</translation>
-    </message>
-    <message>
-        <source>Merge to
-Different New Document</source>
-        <translation>Juntar para
-Outro Novo Documento</translation>
+        <source>Merge to Email</source>
+        <translation>Adicionar tudo a E-mail</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
-        <translation>Juntar para Outro Novo Documento</translation>
+        <translation>Juntar num Novo Documento Diferente</translation>
+    </message>
+    <message>
+        <source>Merge to Different New Document</source>
+        <translation>Juntar num Novo Documento Diferente</translation>
     </message>
     <message>
         <source>Merge to Email</source>
-        <translation>Juntar por Email</translation>
+        <translation>Adicionar tudo a E-mail</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
-        <translation>Juntar para Novo Documento</translation>
+        <translation>Juntar num Novo Documento</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
@@ -1204,14 +1199,12 @@ Outro Novo Documento</translation>
         <translation>Registo Anterior</translation>
     </message>
     <message>
-        <source>View
-Merged Data</source>
-        <translation>Ver Dados
-Que Foram Juntos</translation>
+        <source>View Merged Data</source>
+        <translation>Ver Dados Unidos</translation>
     </message>
     <message>
         <source>View Merged Data</source>
-        <translation>Ver Dados Que Foram Juntos</translation>
+        <translation>Ver Dados Unidos</translation>
     </message>
 </context>
 <context>
@@ -1301,7 +1294,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>Por Detrás do Texto</translation>
+        <translation>Atrás do Texto</translation>
     </message>
     <message>
         <source>Black and White</source>
@@ -1329,7 +1322,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Escala de Cinza</translation>
+        <translation>Escala de Cinzento</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -1389,15 +1382,15 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Apertado</translation>
+        <translation>Justo</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Topo e Fundo</translation>
+        <translation>Acima e Abaixo</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation>Lavagem</translation>
+        <translation>Esbater</translation>
     </message>
     <message>
         <source>Weight</source>
