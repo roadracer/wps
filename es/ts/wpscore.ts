@@ -691,7 +691,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>The full-text search is finished, %d results were found. Only the first %d results were selected owing to too many results found.</source>
-        <translation>La búsqueda del texto completo ha terminado, se encontraron %d resultados. Sólo los primeros %d resultados se han seleccionado debido a que se encontraron demasiados resultados.</translation>
+        <translation>La búsqueda del texto completo ha finalizado, se encontraron %d resultados. Sólo los primeros %d resultados se han seleccionado debido a que se encontraron demasiados resultados.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -803,7 +803,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>No emphasis mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin marca de énfasis</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -851,7 +851,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Not </source>
-        <translation type="unfinished"></translation>
+        <translation>No </translation>
     </message>
     <message>
         <source>Small caps</source>
@@ -1407,7 +1407,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Suppress line numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimir números de línea</translation>
     </message>
     <message>
         <source>Don&apos;t hyphenate</source>
@@ -1415,7 +1415,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Don&apos;t suppress line numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>No suprimir números de línea</translation>
     </message>
     <message>
         <source>Hyphenate</source>
@@ -1423,7 +1423,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra</translation>
     </message>
     <message>
         <source>Not at</source>
@@ -1534,11 +1534,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Preview Mode is in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>El modo de vista preliminar está en uso.</translation>
     </message>
     <message>
         <source>Preview Mode is unactivated.</source>
-        <translation type="unfinished"></translation>
+        <translation>El modo de vista preliminar está desactivado.</translation>
     </message>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
@@ -1570,11 +1570,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Protect method or property is invalid due to the protected document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proteger método o propiedad no es válido porque el documento está protegido.</translation>
     </message>
     <message>
         <source>Unprotect method or property is invalid due to the unprotected document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desproteger método o propiedad no es válido porque el documento está desprotegido.</translation>
     </message>
     <message>
         <source>The password is not correct.</source>
@@ -1869,7 +1869,10 @@ Escriba un nombre diferente para el archivo que desea guardar.
 · VB Project
 To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las siguientes características no pueden ser guardadas en libros sin macros: 
+· Proyecto VB
+Para guardar un archivo con esas características, haga clic en No, y luego elija un tipo de archivo habilitado para macros en la lista de tipos de archivo.
+Para continuar el guardado como un libro sin macros, haga clic en Sí.</translation>
     </message>
 </context>
 <context>
@@ -2132,15 +2135,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Start at must be between %d and %d for this format.</source>
-        <translation type="unfinished"></translation>
+        <translation>El inicio debe estar entre %d y %d en este formato.</translation>
     </message>
     <message>
         <source>Errors occurred  while opening Font Dialog!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Han ocurrido errores al abrir el diálogo de fuentes!</translation>
     </message>
     <message>
         <source>Kingsoft Writer encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer ha encontrado un error al intentar exportar a PDF. Por favor, introduzca un nombre de archivo para su PDF.</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -2148,7 +2151,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>This is a TrueType font. It will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta es una fuente TrueType. Se usará tanto en su impresora como en su pantalla.</translation>
     </message>
     <message>
         <source>Insert the value of document variable NAME</source>
@@ -2156,7 +2159,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir y saltar al archiv espeficiado</translation>
     </message>
     <message>
         <source>The number of pages in the document</source>
@@ -2164,19 +2167,19 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Insert the number of the current page</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar el número de la página actual</translation>
     </message>
     <message>
         <source>Insert the page number containing the specified bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar el número de la página que contiene el marcador especificado</translation>
     </message>
     <message>
         <source>Insert the total number of pages in the section</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar el número total de página de la sección</translation>
     </message>
     <message>
         <source>Insert an automatic sequence number</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar una sequencia de números automática</translation>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
@@ -2220,7 +2223,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <source>Go &amp;to</source>
@@ -2252,7 +2255,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Invalid Input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada no válida.</translation>
     </message>
     <message>
         <source>Input Permission Password.</source>
@@ -2828,7 +2831,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation type="unfinished"></translation>
+        <translation>El número no debe ser nulo</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot merge documents that can be distributed by mail without a validmail address. </source>
@@ -2852,7 +2855,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Find whole words only</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar sólo palabras completas</translation>
     </message>
     <message>
         <source>width</source>
@@ -3096,7 +3099,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The search for &quot;%s&quot; is finished, no items were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>La búsqueda de &quot;%s&quot; ha finalizado, no se encontraron objetos.</translation>
     </message>
     <message>
         <source>Page number</source>
@@ -3323,7 +3326,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos de fuente(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Office database connection(*.odc) | *.odc |</source>
@@ -3331,7 +3334,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Access Databases(*.mdb) | *.mdb; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Bases de datos de Access(*.mdb) | *.mdb; |</translation>
     </message>
     <message>
         <source>Microsoft Office address book(*.mdb) | *.mdb; |</source>
@@ -3339,7 +3342,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Access Projects(*ade; *adp) | *ade; *adp; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyectos de Access(*ade; *adp) | *ade; *adp; |</translation>
     </message>
     <message>
         <source>Microsoft database connection(*.udl) | *.udl; |</source>
@@ -3351,35 +3354,35 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Files(*.et) | *.et; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de Kingsoft Spreadsheets(*.et) | *.et; |</translation>
     </message>
     <message>
         <source>Excel Files(*.xls) | *.xls; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de Excel(*.xls) | *.xls; |</translation>
     </message>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las páginas web(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</translation>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato RTF(*.rtf) | *.rtf; |</translation>
     </message>
     <message>
         <source>Word Documents(*.doc) | *.doc; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos de Word(*.doc) | *.doc; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los documentos de Word(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</translation>
     </message>
     <message>
         <source>Text Files(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de texto(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</translation>
     </message>
     <message>
         <source>Microsoft Works Databases(*.wdb) | *.wdb; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Bases de datos de Microsoft Works(*.wdb) | *.wdb; |</translation>
     </message>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
@@ -3387,7 +3390,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de Lotus 1-2-3(*.wk?; *.wj?) | *.wk?; *.wj?; |</translation>
     </message>
     <message>
         <source>Paradox Files(*.db) | *.db; |</source>
@@ -3403,19 +3406,19 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Select Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar fuente de datos</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo documento en blanco</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo desde fuente predeterminada</translation>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo desde fuente predeterminada</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -3968,7 +3971,7 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han encontrado archivos de ayuda, o los archivos de ayuda encontraron un error.</translation>
     </message>
     <message>
         <source>New Style</source>
@@ -3988,15 +3991,15 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>Clear Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar formato</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea continuar buscando desde el final?</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the beginning?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea continuar buscando desde el principio?</translation>
     </message>
     <message>
         <source>Do you want to delete the header and footer, and connect to the previous section?</source>
@@ -4004,11 +4007,11 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>The font &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>La fuente &quot;</translation>
     </message>
     <message>
         <source>&quot; is not available on your system. Do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot; no está disponible en su sistema. ¿Desea usarla de todos modos?</translation>
     </message>
     <message>
         <source>This document contains no comments or tracked changes.</source>
@@ -4086,7 +4089,7 @@ Para seguir este enlace, por favor mantenga presionado Ctrl y haga clic.</transl
     </message>
     <message>
         <source>This function is provided in Kingsoft Office Professional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta función es ofrecida en Kingsoft Office Professional.</translation>
     </message>
     <message>
         <source>Adjust Table Column Width</source>
