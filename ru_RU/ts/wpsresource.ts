@@ -6,1052 +6,1052 @@
     <name>classics.3dsettings</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished">0 пункт</translation>
+        <translation>0 пункт</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished">144 пунктов</translation>
+        <translation>144 пунктов</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished">288 пунктов</translation>
+        <translation>288 пунктов</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished">3-D цвет</translation>
+        <translation>3-D цвет</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="unfinished">3-D вкл/выкл</translation>
+        <translation>3-D вкл/выкл</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished">36 пунктов</translation>
+        <translation>36 пунктов</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished">72 пункта</translation>
+        <translation>72 пункта</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="unfinished">Яркость</translation>
+        <translation>Яркость</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Выбор</translation>
+        <translation>Выбор</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished">Глубина</translation>
+        <translation>Глубина</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="unfinished">Затенение</translation>
+        <translation>Затенение</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished">Направление</translation>
+        <translation>Направление</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="unfinished">Бесконечность</translation>
+        <translation>Бесконечность</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="unfinished">Освещение</translation>
+        <translation>Освещение</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="unfinished">Матовый</translation>
+        <translation>Матовый</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="unfinished">Металлический</translation>
+        <translation>Металлический</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="unfinished">Больше 3-D цветов</translation>
+        <translation>Больше 3-D цветов</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Нормальный</translation>
+        <translation>Нормальный</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="unfinished">Параллельный</translation>
+        <translation>Параллельный</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished">Перспектива</translation>
+        <translation>Перспектива</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="unfinished">Пластик</translation>
+        <translation>Пластик</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="unfinished">Поверхность</translation>
+        <translation>Поверхность</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="unfinished">Наклон вниз</translation>
+        <translation>Наклон вниз</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="unfinished">Наклон влево</translation>
+        <translation>Наклон влево</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="unfinished">Наклон вправо</translation>
+        <translation>Наклон вправо</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="unfinished">Наклон вверх</translation>
+        <translation>Наклон вверх</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished">Каркас</translation>
+        <translation>Каркас</translation>
     </message>
 </context>
 <context>
     <name>classics.align</name>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished">Выровнять снизу</translation>
+        <translation>Выровнять снизу</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished">Выровнять по центру</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished">Выровнять по левому краю</translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished">Выровнять по середине</translation>
+        <translation>Выровнять по середине</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished">Выровнять по правому краю</translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished">Выровнять сверху</translation>
+        <translation>Выровнять сверху</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished">Поместить вперёд</translation>
+        <translation>Поместить вперёд</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation type="unfinished">Поместить перед текстом</translation>
+        <translation>Поместить перед текстом</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished">Поместить на передний план</translation>
+        <translation>Поместить на передний план</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished">Распределить по горизонтали</translation>
+        <translation>Распределить по горизонтали</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished">Распределить по вертикали</translation>
+        <translation>Распределить по вертикали</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">Группировать</translation>
+        <translation>Группировать</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished">Поместить на задний план</translation>
+        <translation>Поместить на задний план</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished">Поместить за текстом</translation>
+        <translation>Поместить за текстом</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished">Поместить назад</translation>
+        <translation>Поместить назад</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished">Разгруппировать</translation>
+        <translation>Разгруппировать</translation>
     </message>
 </context>
 <context>
     <name>classics.compare_views</name>
     <message>
         <source>Reset Window Position</source>
-        <translation type="unfinished">Исходное положение диалог. изображения</translation>
+        <translation>Исходное положение диалог. изображения</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation type="unfinished">Синхронная прокрутка</translation>
+        <translation>Синхронная прокрутка</translation>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished">Просмотр в одном ряду</translation>
+        <translation>Просмотр в одном ряду</translation>
     </message>
 </context>
 <context>
     <name>classics.control_tool_box</name>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished">Флажок</translation>
+        <translation>Флажок</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation type="unfinished">Комбинированный список</translation>
+        <translation>Комбинированный список</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="unfinished">Командная кнопка</translation>
+        <translation>Командная кнопка</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="unfinished">Список управляющих элементов</translation>
+        <translation>Список управляющих элементов</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished">Режим моделирования</translation>
+        <translation>Режим моделирования</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Изображение</translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished">Метка</translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <source>List Button</source>
-        <translation type="unfinished">Кнопка списка</translation>
+        <translation>Кнопка списка</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished">Больше управляющих элементов</translation>
+        <translation>Больше управляющих элементов</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished">Кнопка выбора</translation>
+        <translation>Кнопка выбора</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished">Свойства</translation>
+        <translation>Свойства</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished">Линейка прокрутки</translation>
+        <translation>Линейка прокрутки</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation type="unfinished">Кнопка прокрутки</translation>
+        <translation>Кнопка прокрутки</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished">Текстовое поле</translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished">Кнопка переключения</translation>
+        <translation>Кнопка переключения</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished">Просмотр кода</translation>
+        <translation>Просмотр кода</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 пунктов</translation>
+        <translation>0.25 пунктов</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 пунктов</translation>
+        <translation>0.5 пунктов</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 пунктов</translation>
+        <translation>0.75 пунктов</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 пункт</translation>
+        <translation>1 пункт</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 пункта</translation>
+        <translation>1.5 пункта</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 пунктов</translation>
+        <translation>2.25 пунктов</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 пункта</translation>
+        <translation>3 пункта</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished">3-D Параметры</translation>
+        <translation>3-D Параметры</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation type="unfinished">3-D стиль</translation>
+        <translation>3-D стиль</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation type="unfinished">3-D стиль 1</translation>
+        <translation>3-D стиль 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation type="unfinished">3-D стиль 10</translation>
+        <translation>3-D стиль 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation type="unfinished">3-D стиль 11</translation>
+        <translation>3-D стиль 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation type="unfinished">3-D стиль 12</translation>
+        <translation>3-D стиль 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation type="unfinished">3-D стиль 13</translation>
+        <translation>3-D стиль 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation type="unfinished">3-D стиль 14</translation>
+        <translation>3-D стиль 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation type="unfinished">3-D стиль 15</translation>
+        <translation>3-D стиль 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation type="unfinished">3-D стиль 16</translation>
+        <translation>3-D стиль 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation type="unfinished">3-D стиль 17</translation>
+        <translation>3-D стиль 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation type="unfinished">3-D стиль 18</translation>
+        <translation>3-D стиль 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation type="unfinished">3-D стиль 19</translation>
+        <translation>3-D стиль 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation type="unfinished">3-D стиль 2</translation>
+        <translation>3-D стиль 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation type="unfinished">3-D стиль 20</translation>
+        <translation>3-D стиль 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation type="unfinished">3-D стиль 3</translation>
+        <translation>3-D стиль 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation type="unfinished">3-D стиль 4</translation>
+        <translation>3-D стиль 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation type="unfinished">3-D стиль 5</translation>
+        <translation>3-D стиль 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation type="unfinished">3-D стиль 6</translation>
+        <translation>3-D стиль 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation type="unfinished">3-D стиль 7</translation>
+        <translation>3-D стиль 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation type="unfinished">3-D стиль 8</translation>
+        <translation>3-D стиль 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation type="unfinished">3-D стиль 9</translation>
+        <translation>3-D стиль 9</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 пунктов</translation>
+        <translation>4.5 пунктов</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 пунктов</translation>
+        <translation>6 пунктов</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished">Выровнять снизу</translation>
+        <translation>Выровнять снизу</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished">Выровнять по центру</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished">Выровнять по левому краю</translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished">Выровнять по середине</translation>
+        <translation>Выровнять по середине</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished">Выровнять по правому краю</translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished">Выровнять сверху</translation>
+        <translation>Выровнять сверху</translation>
     </message>
     <message>
         <source>Align/Distribute/Equalize</source>
-        <translation type="unfinished">Выровнять/Распределить/Уравнять</translation>
+        <translation>Выровнять/Распределить/Уравнять</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished">Стрелка</translation>
+        <translation>Стрелка</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished">Стиль стрелки</translation>
+        <translation>Стиль стрелки</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished">Стиль стрелки 1</translation>
+        <translation>Стиль стрелки 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished">Стиль стрелки 10</translation>
+        <translation>Стиль стрелки 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished">Стиль стрелки 11</translation>
+        <translation>Стиль стрелки 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished">Стиль стрелки 2</translation>
+        <translation>Стиль стрелки 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished">Стиль стрелки 3</translation>
+        <translation>Стиль стрелки 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished">Стиль стрелки 4</translation>
+        <translation>Стиль стрелки 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished">Стиль стрелки 5</translation>
+        <translation>Стиль стрелки 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished">Стиль стрелки 6</translation>
+        <translation>Стиль стрелки 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished">Стиль стрелки 7</translation>
+        <translation>Стиль стрелки 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished">Стиль стрелки 8</translation>
+        <translation>Стиль стрелки 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished">Стиль стрелки 9</translation>
+        <translation>Стиль стрелки 9</translation>
     </message>
     <message>
         <source>Auto Shapes</source>
-        <translation type="unfinished">Автофигуры</translation>
+        <translation>Автофигуры</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished">За текстом</translation>
+        <translation>За текстом</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished">Поместить вперёд</translation>
+        <translation>Поместить вперёд</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation type="unfinished">Поместить перед текстом</translation>
+        <translation>Поместить перед текстом</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished">Поместить на передний план</translation>
+        <translation>Поместить на передний план</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished">Тире</translation>
+        <translation>Тире</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished">Стиль тире</translation>
+        <translation>Стиль тире</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished">Тире-Точка</translation>
+        <translation>Тире-Точка</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished">Распределить по горизонтали</translation>
+        <translation>Распределить по горизонтали</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished">Распределить по вертикали</translation>
+        <translation>Распределить по вертикали</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">Вниз</translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished">Рисовать</translation>
+        <translation>Рисовать</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="unfinished">Редактировать точки</translation>
+        <translation>Редактировать точки</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished">Равный размер</translation>
+        <translation>Равный размер</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished">Выровнять по высоте</translation>
+        <translation>Выровнять по высоте</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished">Выровнять по ширине</translation>
+        <translation>Выровнять по ширине</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished">Заполнение цветом</translation>
+        <translation>Заполнение цветом</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished">Эффекты заполнения</translation>
+        <translation>Эффекты заполнения</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished">Зеркально по горизонтали</translation>
+        <translation>Зеркально по горизонтали</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished">Зеркально по вертикали</translation>
+        <translation>Зеркально по вертикали</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished">Цвет шрифта</translation>
+        <translation>Цвет шрифта</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished">Свободное вращение</translation>
+        <translation>Свободное вращение</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished">Галерея</translation>
+        <translation>Галерея</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished">Сетка</translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">Группа</translation>
+        <translation>Группа</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">Горизонталь</translation>
+        <translation>Горизонталь</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished">Перед текстом</translation>
+        <translation>Перед текстом</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished">Линия с текстом</translation>
+        <translation>Линия с текстом</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished">Вставить клип</translation>
+        <translation>Вставить клип</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished">Вставить изображение</translation>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished">Вставить фигурный текст</translation>
+        <translation>Вставить фигурный текст</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Слева</translation>
+        <translation>Слева</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished">Цвет линии</translation>
+        <translation>Цвет линии</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished">Линии</translation>
+        <translation>Линии</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished">Длинное тире</translation>
+        <translation>Длинное тире</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished">Длинное тире-точка</translation>
+        <translation>Длинное тире-точка</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation type="unfinished">Длинное тире-точка-точка</translation>
+        <translation>Длинное тире-точка-точка</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished">Больше стрелок</translation>
+        <translation>Больше стрелок</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished">Больше заполнения цветом</translation>
+        <translation>Больше заполнения цветом</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished">Больше цветов шрифта</translation>
+        <translation>Больше цветов шрифта</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished">Больше цветов линии</translation>
+        <translation>Больше цветов линии</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished">Больше линий</translation>
+        <translation>Больше линий</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
-        <translation type="unfinished">Многострочный текст</translation>
+        <translation>Многострочный текст</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="unfinished">Без 3-D</translation>
+        <translation>Без 3-D</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished">Без тени</translation>
+        <translation>Без тени</translation>
     </message>
     <message>
         <source>Nudge</source>
-        <translation type="unfinished">Сдвиг</translation>
+        <translation>Сдвиг</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished">Выбрать объект</translation>
+        <translation>Выбрать объект</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished">Порядок</translation>
+        <translation>Порядок</translation>
     </message>
     <message>
         <source>Oval</source>
-        <translation type="unfinished">Овал</translation>
+        <translation>Овал</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished">Образцы линий</translation>
+        <translation>Образцы линий</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished">Прямоугольник</translation>
+        <translation>Прямоугольник</translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished">Относительно страницы</translation>
+        <translation>Относительно страницы</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Справа</translation>
+        <translation>Справа</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished">Вращать влево 90°</translation>
+        <translation>Вращать влево 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished">Вращать вправо 90°</translation>
+        <translation>Вращать вправо 90°</translation>
     </message>
     <message>
         <source>Rotate/Flip</source>
-        <translation type="unfinished">Вращать/Зеркально</translation>
+        <translation>Вращать/Зеркально</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished">Растровая точка</translation>
+        <translation>Растровая точка</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation type="unfinished">Выбрать объекты</translation>
+        <translation>Выбрать объекты</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished">Выбор панели</translation>
+        <translation>Выбор панели</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished">Поместить на задний план</translation>
+        <translation>Поместить на задний план</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished">Поместить за текстом</translation>
+        <translation>Поместить за текстом</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished">Поместить назад</translation>
+        <translation>Поместить назад</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="unfinished">Поместить назад</translation>
+        <translation>Поместить назад</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished">Параметры тени</translation>
+        <translation>Параметры тени</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation type="unfinished">Стиль тени</translation>
+        <translation>Стиль тени</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation type="unfinished">Стиль тени 1</translation>
+        <translation>Стиль тени 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation type="unfinished">Стиль тени 10</translation>
+        <translation>Стиль тени 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation type="unfinished">Стиль тени 11</translation>
+        <translation>Стиль тени 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation type="unfinished">Стиль тени 12</translation>
+        <translation>Стиль тени 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
         <translatorcomment>Стиль тени 13</translatorcomment>
-        <translation type="unfinished">Стиль тени 13</translation>
+        <translation>Стиль тени 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation type="unfinished">Стиль тени 14</translation>
+        <translation>Стиль тени 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation type="unfinished">Стиль тени 15</translation>
+        <translation>Стиль тени 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation type="unfinished">Стиль тени 16</translation>
+        <translation>Стиль тени 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation type="unfinished">Стиль тени 17</translation>
+        <translation>Стиль тени 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation type="unfinished">Стиль тени 18</translation>
+        <translation>Стиль тени 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation type="unfinished">Стиль тени 19</translation>
+        <translation>Стиль тени 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation type="unfinished">Стиль тени 2</translation>
+        <translation>Стиль тени 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation type="unfinished">Стиль тени 20</translation>
+        <translation>Стиль тени 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation type="unfinished">Стиль тени 3</translation>
+        <translation>Стиль тени 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation type="unfinished">Стиль тени 4</translation>
+        <translation>Стиль тени 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation type="unfinished">Стиль тени 5</translation>
+        <translation>Стиль тени 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation type="unfinished">Стиль тени 6</translation>
+        <translation>Стиль тени 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation type="unfinished">Стиль тени 7</translation>
+        <translation>Стиль тени 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation type="unfinished">Стиль тени 8</translation>
+        <translation>Стиль тени 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation type="unfinished">Стиль тени 9</translation>
+        <translation>Стиль тени 9</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished">Сплошной</translation>
+        <translation>Сплошной</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished">Квадрат</translation>
+        <translation>Квадрат</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished">Квадратная растровая точка</translation>
+        <translation>Квадратная растровая точка</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished">Обтекание текстом</translation>
+        <translation>Обтекание текстом</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished">Насквозь</translation>
+        <translation>Насквозь</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished">Плотно</translation>
+        <translation>Плотно</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished">Сверху и снизу</translation>
+        <translation>Сверху и снизу</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished">Разгруппировать</translation>
+        <translation>Разгруппировать</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">Наверх</translation>
+        <translation>Наверх</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished">Вертикаль</translation>
+        <translation>Вертикаль</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished">Вес</translation>
+        <translation>Вес</translation>
     </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
     <message>
         <source>1.5 lines</source>
-        <translation type="unfinished">Линии 1.5</translation>
+        <translation>Линии 1.5</translation>
     </message>
     <message>
         <source>Character Border</source>
-        <translation type="unfinished">Граница символа</translation>
+        <translation>Граница символа</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished">Раскрашивание символа</translation>
+        <translation>Заливка символа</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished">Столбцы</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished">Комбинированные символы</translation>
+        <translation>Комбинированные символы</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished">Двойной</translation>
+        <translation>Двойной</translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
-        <translation type="unfinished">Двойное зачёркивание</translation>
+        <translation>Двойное зачёркивание</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation type="unfinished">Знак ударения</translation>
+        <translation>Знак ударения</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation type="unfinished">Окаймлённые знаки</translation>
+        <translation>Окаймлённые знаки</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation type="unfinished">Фонетическая подсказка</translation>
+        <translation>Фонетическая подсказка</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished">Одиночный</translation>
+        <translation>Одиночный</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished">Зачёркивание</translation>
+        <translation>Зачёркивание</translation>
     </message>
 </context>
 <context>
     <name>classics.formatting</name>
     <message>
         <source>1.0</source>
-        <translation type="unfinished">1.0</translation>
+        <translation>1.0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished">1.5</translation>
+        <translation>1.5</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished">100%</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation type="unfinished">150%</translation>
+        <translation>150%</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation type="unfinished">2.0</translation>
+        <translation>2.0</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation type="unfinished">2.5</translation>
+        <translation>2.5</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation type="unfinished">200%</translation>
+        <translation>200%</translation>
     </message>
     <message>
         <source>3.0</source>
-        <translation type="unfinished">3.0</translation>
+        <translation>3.0</translation>
     </message>
     <message>
         <source>33%</source>
-        <translation type="unfinished">33%</translation>
+        <translation>33%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished">50%</translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation type="unfinished">5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>66%</source>
-        <translation type="unfinished">66%</translation>
+        <translation>66%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished">80%</translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished">90%</translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished">Маркеры</translation>
+        <translation>Маркеры</translation>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation type="unfinished">Масштабирование символов</translation>
+        <translation>Масштабирование символов</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">Шрифт</translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished">Цвет шрифта</translation>
+        <translation>Цвет шрифта</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished">Размер шрифта</translation>
+        <translation>Размер шрифта</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished">Выделить яркостью</translation>
+        <translation>Выделить яркостью</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished">Интервал между строками</translation>
+        <translation>Интервал между строками</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Больше</translation>
+        <translation>Больше</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished">Больше маркеров</translation>
+        <translation>Больше маркеров</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished">Больше цветов шрифта</translation>
+        <translation>Больше цветов шрифта</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished">Стили</translation>
+        <translation>Стили</translation>
     </message>
     <message>
         <source>Styles Window</source>
-        <translation type="unfinished">Стили диалоговых изображений</translation>
+        <translation>Стили диалоговых изображений</translation>
     </message>
 </context>
 <context>
     <name>classics.formatting.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished">Больше нумерации</translation>
+        <translation>Больше нумерации</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished">Номер</translation>
+        <translation>Номер</translation>
     </message>
 </context>
 <context>
     <name>classics.forms</name>
     <message>
         <source>Check box Form Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Флажок поле формы</translation>
     </message>
     <message>
         <source>Drop-down Form Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрывающееся поле формы</translation>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр поля формы</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка поля формы </translation>
     </message>
     <message>
         <source>Protection Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Защита формы</translation>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исходное состояние поля формы</translation>
     </message>
     <message>
         <source>Text Form Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовое поле формы</translation>
     </message>
 </context>
 <context>
@@ -1065,7 +1065,7 @@
     <name>classics.header_and_footer</name>
     <message>
         <source>- Page -</source>
-        <translation type="unfinished"></translation>
+        <translation>Страница</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1073,86 +1073,86 @@
     </message>
     <message>
         <source>Insert Auto Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставить автотекст</translation>
     </message>
     <message>
         <source>Insert Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить дату</translation>
     </message>
     <message>
         <source>Insert Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить время</translation>
     </message>
     <message>
         <source>Link to Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Связать с предыдущим</translation>
     </message>
     <message>
         <source>Next Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий заголовок</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Число страниц</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер страницы</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры страницы</translation>
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"></translation>
+        <translation>Станица X</translation>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Страница X из Y</translation>
     </message>
     <message>
         <source>Previous Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущий заголовок</translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение между Заголовком и Нижним колонтитулом</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Всего Y страниц</translation>
     </message>
 </context>
 <context>
     <name>classics.mail_merge</name>
     <message>
         <source>Close Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрыть источник данных</translation>
     </message>
     <message>
         <source>First Record</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Первая запись</translation>
     </message>
     <message>
         <source>Go to Record</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перейти к записи</translation>
     </message>
     <message>
         <source>Highlight Merge Fields</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выделить объединённые поля</translation>
     </message>
     <message>
         <source>Insert Merge Fields</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставить объединённые поля</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставить следующие поля</translation>
     </message>
     <message>
         <source>Last Record</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Последняя запись</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
