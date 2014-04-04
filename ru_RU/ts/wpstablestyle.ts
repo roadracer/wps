@@ -58,27 +58,27 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation>Первый ряд</translation>
+        <translation>Первая строка</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation>Последний ряд</translation>
+        <translation>Последняя строка</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation>Ленточные ряды</translation>
+        <translation>Чередующиеся строки</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation>Ленточные столбцы</translation>
+        <translation>Чередующиеся колонки</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation>Первый столбец</translation>
+        <translation>Первая колонка</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation>Последний столбец</translation>
+        <translation>Последняя колонка</translation>
     </message>
 </context>
 <context>
