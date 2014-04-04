@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Black </source>
-        <translation>Negro</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deep cyan</source>
@@ -287,15 +287,15 @@
     <name>ColumnsManagerCtrl</name>
     <message>
         <source>%1:</source>
-        <translation>%1:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>pt, 2, %1,</source>
-        <translation>pto, 2, %1,</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source> %1, 1</source>
-        <translation> %1, 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ch, 2, %1,</source>
@@ -303,7 +303,7 @@
     </message>
     <message>
         <source>pt, 2, 0, %1, 1</source>
-        <translation>pto, 2, 0, %1, 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ch, 2, 0, %1, 1</source>
@@ -384,19 +384,19 @@
     </message>
     <message>
         <source>Margin</source>
-        <translation>Margen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Página</translation>
+        <translation type="unfinished">Página</translation>
     </message>
     <message>
         <source>Column</source>
-        <translation>Columna</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Caracter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;to the right of</source>
@@ -404,7 +404,7 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
@@ -432,7 +432,7 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>Párrafo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>Opciones</translation>
+        <translation type="unfinished">Opciones</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
@@ -524,7 +524,7 @@
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation>A&amp;rriba</translation>
+        <translation type="unfinished">A&amp;rriba</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation>Vista preliminar</translation>
+        <translation type="unfinished">Vista previa</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
@@ -650,7 +650,7 @@
     </message>
     <message>
         <source>Left</source>
-        <translation>Izquierda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Centered</source>
@@ -658,7 +658,7 @@
     </message>
     <message>
         <source>Right</source>
-        <translation>Derecha</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -694,11 +694,11 @@
     </message>
     <message>
         <source>Space</source>
-        <translation>Espacio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Nothing</source>
-        <translation>Nada</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
@@ -709,7 +709,7 @@
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -724,7 +724,7 @@
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation>Tamaño</translation>
+        <translation type="unfinished">Celda</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -771,18 +771,18 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KUnderLineCombo</name>
     <message>
         <source>(None)</source>
-        <translation>(Ninguno)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Words only</source>
-        <translation>Sólo palabras</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -796,42 +796,42 @@
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxBordersAndShadingDlg</name>
     <message>
         <source>Text</source>
-        <translation>Texto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>Párrafo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation>Celda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pt</source>
-        <translation>Pto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation>Writer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table</source>
-        <translation>Tabla</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No content</source>
-        <translation>Sin contenido</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -846,7 +846,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -919,7 +919,7 @@
     <name>KxCheckboxFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation>Ninguno</translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -934,23 +934,23 @@
     <name>KxColumnsDlg</name>
     <message>
         <source>Selected text</source>
-        <translation>Texto seleccionado</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation>Secciones seleccionadas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation>Todo el documento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This point forward</source>
-        <translation>De este punto en adelante</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This section</source>
-        <translation>Esta sección</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -961,18 +961,18 @@
     <name>KxCombineCharactersDlg</name>
     <message>
         <source>Value should be between 1 and 16383.</source>
-        <translation>El valor debe estar entre 1 y 16383.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>What you entered is invalid.</source>
-        <translation>Lo que ha introducido no es válido.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxContentsDlg</name>
     <message>
         <source>Do you want to replace the title?</source>
-        <translation>¿Desea reemplazar el título?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
@@ -980,14 +980,14 @@
     </message>
     <message>
         <source>Title</source>
-        <translation>Título</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxContentsOptionsDlg</name>
     <message>
         <source>Title</source>
-        <translation>Título</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
@@ -998,7 +998,7 @@
     <name>KxConvertTabletoTextDlg</name>
     <message>
         <source>You must type a character for the custom separator.</source>
-        <translation>Debe introducir un caracter para el separador personalizado.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1240,7 +1240,7 @@
     <name>KxCustomizeNumberedListDlg</name>
     <message>
         <source>(None)</source>
-        <translation>(Ninguno)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -1306,7 +1306,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1379,11 +1379,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation>Todo el documento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This section</source>
-        <translation>Esta sección</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This section - First page only</source>
@@ -1627,7 +1627,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation>Texto seleccionado</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1814,7 +1814,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt</source>
-        <translation>Pto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default value</source>
@@ -2192,7 +2192,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2278,7 +2278,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2313,7 +2313,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt</source>
-        <translation>Pto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>cm</source>
@@ -2663,7 +2663,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2924,7 +2924,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Janpannese)</source>
@@ -3281,7 +3281,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation>Todo el documento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A&amp;pply changes to:</source>
@@ -3545,7 +3545,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>Texto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page margin</source>
@@ -3666,7 +3666,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3832,7 +3832,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>table</source>
-        <translation>Tabla</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>button</source>
@@ -4159,7 +4159,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>Párrafo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Character</source>
@@ -4260,7 +4260,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>Párrafo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Character</source>
@@ -4775,7 +4775,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Ninguno)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color only</source>
@@ -4919,7 +4919,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preserve</source>
@@ -5776,7 +5776,7 @@ use buttons to apply borders</source>
     <name>KxDlgParagraph</name>
     <message>
         <source>Paragraph</source>
-        <translation>Párrafo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Indents and Spacing</source>
@@ -5852,7 +5852,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Ninguno)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First line</source>
@@ -6060,7 +6060,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
@@ -6111,7 +6111,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt</source>
-        <translation>Pto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -6358,7 +6358,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -6468,7 +6468,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>Párrafo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top</source>
@@ -6983,7 +6983,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt</source>
-        <translation>Pto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>in</source>
@@ -7125,7 +7125,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7717,7 +7717,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Ninguno)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -7769,7 +7769,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation>Texto seleccionado</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In this section</source>
@@ -7781,7 +7781,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Whole document</source>
-        <translation>Todo el documento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1</source>
@@ -7869,7 +7869,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Title</source>
-        <translation>Título</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BookMark</source>
@@ -7884,7 +7884,7 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxInnerOptionsDlg</name>
     <message>
         <source>Text</source>
-        <translation>Texto</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8034,7 +8034,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -8616,7 +8616,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Documents</source>
@@ -8651,7 +8651,7 @@ Cancel:	Return to the dialog.</source>
     <name>KxOutlineNumberDlg</name>
     <message>
         <source>(None)</source>
-        <translation>(Ninguno)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bullet:</source>
@@ -8781,23 +8781,23 @@ Cancel:	Return to the dialog.</source>
     <name>KxPageSetupDlg</name>
     <message>
         <source>Whole document</source>
-        <translation>Todo el documento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This point forward</source>
-        <translation>De este punto en adelante</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selected text</source>
-        <translation>Texto seleccionado</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This section</source>
-        <translation>Esta sección</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation>Secciones seleccionadas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom</source>
@@ -8830,7 +8830,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>pt</source>
-        <translation>Pto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>mm</source>
@@ -8880,11 +8880,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -9052,23 +9052,23 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTextDirectionDlg</name>
     <message>
         <source>Whole document</source>
-        <translation>Todo el documento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This point forward</source>
-        <translation>De este punto en adelante</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selected text</source>
-        <translation>Texto seleccionado</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This section</source>
-        <translation>Esta sección</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation>Secciones seleccionadas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -9463,14 +9463,14 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9554,7 +9554,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>pt</source>
-        <translation>Pto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.25</source>
@@ -9593,7 +9593,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsBrowserModel</name>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9735,7 +9735,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>pt</source>
-        <translation>Pto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(No picture)</source>
@@ -9891,11 +9891,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Whole document</source>
-        <translation>Todo el documento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This section</source>
-        <translation>Esta sección</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -10165,7 +10165,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10446,7 +10446,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10561,7 +10561,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10618,7 +10618,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10666,7 +10666,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10918,7 +10918,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
