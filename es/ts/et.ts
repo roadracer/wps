@@ -78,7 +78,7 @@
     <name>ExitEditOpenFile</name>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
-        <translation>Se abre un archivo nuevo, el contenido de la celda de este archivo será eliminado:</translation>
+        <translation>Si abre un archivo nuevo, el contenido en la celda de este archivo será eliminado:</translation>
     </message>
     <message>
         <source>Text Label</source>
