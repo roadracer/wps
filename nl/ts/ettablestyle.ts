@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>benadrukken</translation>
     </message>
     <message>
         <source>1-</source>
@@ -57,11 +57,11 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste rij</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatste rij</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -73,11 +73,11 @@
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste kolom</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatste kolom</translation>
     </message>
 </context>
 <context>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">benadrukken</translation>
     </message>
     <message>
         <source>1-</source>
@@ -178,7 +178,7 @@
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
@@ -186,7 +186,7 @@
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl wissen</translation>
     </message>
 </context>
 </TS>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
 <defaultcodec>UTF-8</defaultcodec>
@@ -534,6 +534,10 @@
     </message>
     <message>
         <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1311,6 +1315,10 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1360,6 +1368,10 @@ Master</source>
     </message>
     <message>
         <source>Send E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2378,10 +2390,6 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Send Backward</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2511,6 +2519,18 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2567,10 +2587,6 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2588,6 +2604,10 @@ On</source>
     </message>
     <message>
         <source>New Blank File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New From Default Template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2647,6 +2667,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
@@ -2671,7 +2695,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
+        <source>Translate to Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2684,6 +2708,10 @@ On</source>
     </message>
     <message>
         <source>WPS Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3250,6 +3278,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Slide Show From Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3388,6 +3420,10 @@ Slide</source>
     </message>
     <message>
         <source>Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3883,6 +3919,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3993,6 +4033,10 @@ Slide</source>
     <message>
         <source>Insert</source>
         <translation>Вставка</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4752,6 +4796,10 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Slide Show From Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5031,6 +5079,10 @@ Settings</source>
     <name>ongmani.ct_view</name>
     <message>
         <source>Arrange All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5845,6 +5897,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5976,6 +6032,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto Point</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6045,6 +6105,10 @@ On</source>
     </message>
     <message>
         <source>Change Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Points</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6376,11 +6440,23 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Columns</source>
+        <source>Insert Atristic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Rows</source>
+        <source>Insert Columns Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6392,7 +6468,19 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6408,15 +6496,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS logout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft BBS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6432,7 +6512,11 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation Help</source>
+        <source>KingsoftOffice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KingsoftOffice_KSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6480,6 +6564,14 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Menu Edit Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu New Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Cells</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6522,6 +6614,10 @@ Master</source>
     </message>
     <message>
         <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6777,6 +6873,10 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slides List</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6786,10 +6886,6 @@ Master</source>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speaker Notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6817,11 +6913,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
+        <source>Symbol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Symbol</source>
+        <source>Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6869,11 +6965,19 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS BBS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Microblog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7006,10 +7110,6 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Move Shape Backward</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7035,6 +7135,10 @@ Master</source>
     </message>
     <message>
         <source>Use AutoFormat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>level</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7616,6 +7720,14 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7776,7 +7888,7 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
+        <source>Translate to Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7793,6 +7905,10 @@ AddIns</source>
     </message>
     <message>
         <source>WPS New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10744,6 +10860,10 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11565,6 +11685,17 @@ Click the arrow to select a different alignment.</source>
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DuplicateSlide</name>
     <message>
         <source>Insert a duplicate of the current slide into the presentation.</source>
@@ -11890,6 +12021,17 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
 </context>
 <context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.Hyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
@@ -12197,6 +12339,17 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>KOSCloudInformationTip Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12708,6 +12861,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
 </context>
 <context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PreComment</name>
     <message>
         <source>Pre Comment</source>
@@ -13027,6 +13191,17 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.SaveBackgroundPicture</name>
+    <message>
+        <source>SaveBackgroundPicture Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveBackgroundPicture Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13575,6 +13750,17 @@ Click the arrow to select a different text color.</source>
     </message>
 </context>
 <context>
+    <name>tips.TextMargin</name>
+    <message>
+        <source>TextMargin Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextMargin Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
@@ -13637,6 +13823,17 @@ Click the arrow to select a different text color.</source>
     </message>
     <message>
         <source>Character Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13932,7 +14129,19 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13945,10 +14154,6 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14124,6 +14329,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Colorize</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14238,7 +14447,7 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation type="obsolete">Сетка</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -14302,10 +14511,6 @@ Slide</source>
     </message>
     <message>
         <source>Motion Path Segment Popup Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MsgAtMe</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14409,7 +14614,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>S MsgAtMe</source>
+        <source>S CloudLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14429,11 +14634,19 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ShapeAndGallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show / Hide Grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14529,7 +14742,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Toolbars</source>
+        <source>ToolBars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14639,6 +14852,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14671,15 +14888,19 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14739,7 +14960,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stick the ToolBaar</source>
+        <source>Stick the ToolBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14801,10 +15022,6 @@ Slide</source>
         <source>Switch UI</source>
         <translation>Изменить стиль интерфейса</translation>
     </message>
-    <message>
-        <source>true</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
@@ -14850,6 +15067,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14882,15 +15103,19 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Login</source>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS View UserInfo</source>
+        <source>KOS User Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14983,6 +15208,22 @@ Slide</source>
     </message>
     <message>
         <source>What News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

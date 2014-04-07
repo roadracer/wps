@@ -6,7 +6,8 @@
     <message>
         <source>Slide %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dia %1
+</translation>
     </message>
     <message>
         <source>Notes Page:</source>
@@ -14,7 +15,7 @@
     </message>
     <message>
         <source>Being converted</source>
-        <translation type="unfinished"></translation>
+        <translation>Wordt geconverteerd</translation>
     </message>
     <message>
         <source>Still Need:</source>
@@ -22,23 +23,23 @@
     </message>
     <message>
         <source> Minute</source>
-        <translation type="unfinished"></translation>
+        <translation> Minuut</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconde</translation>
     </message>
     <message>
         <source>Ready to convert, please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereed voor conversie, even geduld a.u.b.</translation>
     </message>
     <message>
         <source>Being calculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Wordt berekend</translation>
     </message>
     <message>
         <source>Start converting</source>
-        <translation type="unfinished"></translation>
+        <translation>Start convertering</translation>
     </message>
 </context>
 <context>
@@ -49,7 +50,7 @@
     </message>
     <message>
         <source>Ready to convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereed voor conversie</translation>
     </message>
     <message>
         <source>Still Need:Being calculated</source>
@@ -57,11 +58,11 @@
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand openen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -72,23 +73,23 @@
     </message>
     <message>
         <source>Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia selecteren</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles(&amp;A)</translation>
     </message>
     <message>
         <source>Current Slide(&amp;C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige dia(&amp;C)</translation>
     </message>
     <message>
         <source>Selection(&amp;S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie(&amp;S)</translation>
     </message>
     <message>
         <source>Slides(&amp;P):</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia&apos;s(&amp;P):</translation>
     </message>
     <message>
         <source>Converted Layout</source>
@@ -128,23 +129,23 @@
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>Number slides in the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal dia&apos;s in het document</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -156,41 +157,41 @@
     </message>
     <message>
         <source>Text(&amp;T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst(&amp;T)</translation>
     </message>
     <message>
         <source>Table(&amp;L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel(&amp;L)</translation>
     </message>
     <message>
         <source>Picture(&amp;I)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding(&amp;I)</translation>
     </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
     <message>
         <source>The conversion is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>De conversie is voltooid.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Converting to Kingsoft Writer document encountered an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden.bij het converteren naar Kingsoft Writer-document.</translation>
     </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
     <message>
         <source>Input slide number or slide range. For example, 1,3,5-9</source>
-        <translation type="unfinished"></translation>
+        <translation>Geef dianummer of diabereik. Bijvoorbeeld, 1,3,5-9</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3, or 4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het nummer moet 1,2,3 of 4 zijn.</translation>
     </message>
     <message>
         <source>This is a valid number.
@@ -200,35 +201,35 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het nummer moet 1 of 2 zijn.</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document(*.wps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer document(*.wps)</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 97/2000/XP/2003 Document(*.doc)</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <source>The file &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bestand &quot;</translation>
     </message>
     <message>
         <source>&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;</translation>
     </message>
     <message>
         <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation type="unfinished"></translation>
+        <translation>bestaat al. U kunt het bestand niet opslaan met dezelfde naam als een ander open bestand. Kies een andere naam, of sluit het open bestand voordat het wordt opgeslagen.</translation>
     </message>
 </context>
 </TS>

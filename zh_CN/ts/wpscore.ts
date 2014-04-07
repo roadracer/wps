@@ -1964,10 +1964,6 @@ Type a different name for the document you want to save.
         <source>Graphic objects can not be placed in a text box, label annotations, footnotes or endnotes.</source>
         <translation>不可将图形对象置于文本框、标注批注、脚注或尾注中。&quot;</translation>
     </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.docx)</source>
-        <translation></translation>
-    </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Writer is opening this file.
 Please try one of the following.
@@ -2049,6 +2045,13 @@ Please try one of the following.
         <source>normal.wpt</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks: 
+· VB Project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsshell</name>
@@ -2062,7 +2065,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Diagram</source>
-        <translation>图表</translation>
+        <translation type="obsolete">图表</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -2126,7 +2129,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Heading</source>
-        <translation>标题</translation>
+        <translation type="obsolete">标题</translation>
     </message>
     <message>
         <source>Find</source>
@@ -2534,7 +2537,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Kingsoft Writer encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
-        <translation>导出 PDF 文件的过程中遇到错误！</translation>
+        <translation>导出 PDF 文件的过程中遇到错误。</translation>
     </message>
     <message>
         <source>This is a TrueType font. It will be used on both your printer and your screen.</source>
@@ -3306,23 +3309,23 @@ Please try one of the following.
     </message>
     <message>
         <source>Numbered item</source>
-        <translation>编号项</translation>
+        <translation type="obsolete">编号项</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>编辑书签</translation>
+        <translation type="obsolete">编辑书签</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>编辑脚注尾注</translation>
+        <translation type="obsolete">编辑脚注尾注</translation>
     </message>
     <message>
         <source>Endnote</source>
-        <translation>尾注</translation>
+        <translation type="obsolete">尾注</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation>公式</translation>
+        <translation type="obsolete">公式</translation>
     </message>
     <message>
         <source>Paragraph number</source>
@@ -3414,7 +3417,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Insert the text of a paragraph with styles.</source>
-        <translation>插入具有类似样式的段落中文本</translation>
+        <translation>插入具有类似样式的段落中文本。</translation>
     </message>
     <message>
         <source>StyleRef</source>
@@ -3434,7 +3437,7 @@ Please try one of the following.
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
-        <translation>优盘版的默认文档路径不能修改！&quot;</translation>
+        <translation>优盘版的默认文档路径不能修改！</translation>
     </message>
     <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
@@ -3450,7 +3453,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">左侧</translation>
+        <translation>左侧</translation>
     </message>
     <message>
         <source>Line spacing: Single, </source>
@@ -3467,6 +3470,56 @@ Please try one of the following.
     <message>
         <source>Search Down</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">编号项</translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">标题</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">书签</translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">脚注</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">尾注</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">公式</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">图表</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">表格</translation>
+    </message>
+    <message>
+        <source>(none)
+.</source>
+        <translation type="obsolete">(无)
+.</translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <translation type="unfinished">不允许您编辑此所选内容，因为它受保护。</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
@@ -4690,6 +4743,26 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>The checkbox or drop-down form field in vertical text is ignored, so it cannot be shown.</source>
         <translation>竖排文字中的复选框型/下拉列表型窗体域被忽略，不能显示。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished">WPS 已完成对文档的搜索</translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished">添加保护例外项</translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished">删除保护例外项</translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished">删除所有可编辑的区域</translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <translation type="unfinished">Excel 2007/2010 文件(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
     </message>
 </context>
 </TS>

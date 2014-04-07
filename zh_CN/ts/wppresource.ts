@@ -537,6 +537,10 @@
         <translation>横向文本框</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
@@ -1376,6 +1380,10 @@ Master</source>
         <translation>表格</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>公式</translation>
     </message>
@@ -1428,6 +1436,10 @@ Master</source>
         <translation>发送邮件</translation>
     </message>
     <message>
+        <source>Switch Language</source>
+        <translation>更改语言</translation>
+    </message>
+    <message>
         <source>Text</source>
         <translation>无格式文本</translation>
     </message>
@@ -1475,7 +1487,7 @@ Master</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -1523,7 +1535,7 @@ Master</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Select Column</source>
@@ -2218,7 +2230,7 @@ On</source>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -2230,7 +2242,7 @@ On</source>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>改变文字方向</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -2250,15 +2262,15 @@ On</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>减少缩进量</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>减少段落间距</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -2274,7 +2286,7 @@ On</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>分散对齐</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -2302,15 +2314,15 @@ On</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -2338,7 +2350,7 @@ On</source>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>顶端对齐</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -2346,15 +2358,15 @@ On</source>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>增加缩进量</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>增大段落间距</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -2362,23 +2374,23 @@ On</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>两端对齐</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>换行</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>行距</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -2418,7 +2430,7 @@ On</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>段落</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -2434,11 +2446,11 @@ On</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>罗马方式对齐</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -2458,7 +2470,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>选择窗格</translation>
+        <translation type="obsolete">选择窗格</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2466,7 +2478,7 @@ On</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -2498,11 +2510,11 @@ On</source>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>下标</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>上标</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -2518,7 +2530,7 @@ On</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -2594,6 +2606,18 @@ On</source>
         <translation>备份管理</translation>
     </message>
     <message>
+        <source>Change Version</source>
+        <translation>切换版本</translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>文档保护及属性</translation>
     </message>
@@ -2607,7 +2631,7 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished">邮件反馈</translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -2631,7 +2655,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished">WPS Office 社区</translation>
+        <translation>WPS Office 社区</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
@@ -2662,10 +2686,6 @@ On</source>
         <translation>WPS 演示 模板文件（*.dpt）</translation>
     </message>
     <message>
-        <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>PowerPoint 文件（*.ppt）</translation>
     </message>
@@ -2686,6 +2706,10 @@ On</source>
         <translation>新建空白文档</translation>
     </message>
     <message>
+        <source>New From Default Template</source>
+        <translation>从默认模板新建</translation>
+    </message>
+    <message>
         <source>New From Online Templates</source>
         <translation type="obsolete">从在线模板新建</translation>
     </message>
@@ -2703,11 +2727,11 @@ On</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>从在线模板新建</translation>
     </message>
     <message>
         <source>New from Templates</source>
-        <translation type="unfinished">从本机上的模板新建</translation>
+        <translation>从本机上的模板新建</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2739,7 +2763,7 @@ On</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office 产品中心</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -2748,6 +2772,10 @@ On</source>
     <message>
         <source>Properties</source>
         <translation>属性</translation>
+    </message>
+    <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
@@ -2771,15 +2799,11 @@ On</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished">在线学习</translation>
-    </message>
-    <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
+        <translation>在线学习</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">转为 WPS 文字文档</translation>
+        <translation>转为 WPS 文字文档</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -2787,10 +2811,14 @@ On</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation type="unfinished">WPS 论坛</translation>
+        <translation>WPS 论坛</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
+        <translation>微博求助</translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3278,6 +3306,10 @@ Slide</source>
         <translation>无阴影</translation>
     </message>
     <message>
+        <source>Object Select</source>
+        <translation type="obsolete">选择窗格</translation>
+    </message>
+    <message>
         <source>Package into Folder</source>
         <translation>打包成文件夹</translation>
     </message>
@@ -3392,6 +3424,10 @@ Slide</source>
     <message>
         <source>Slide</source>
         <translation>幻灯片</translation>
+    </message>
+    <message>
+        <source>Slide Show From Beginning</source>
+        <translation>从头开始</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3603,6 +3639,10 @@ Slide</source>
         <translation>素材库</translation>
     </message>
     <message>
+        <source>Header and Footer</source>
+        <translation>页眉和页脚</translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
         <translation>页眉和页脚</translation>
     </message>
@@ -3739,115 +3779,115 @@ Slide</source>
     <name>ongmani.ct_orgchart</name>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
-        <translation type="unfinished"></translation>
+        <translation>结构调整</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -3855,51 +3895,51 @@ Slide</source>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>布局</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -3915,11 +3955,11 @@ Slide</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Text Font Color</source>
@@ -3931,7 +3971,7 @@ Slide</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -3942,7 +3982,7 @@ Slide</source>
     <name>ongmani.ct_orgchart.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
@@ -4099,6 +4139,10 @@ Slide</source>
         <translation>排列</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation>自动</translation>
     </message>
@@ -4209,6 +4253,10 @@ Slide</source>
     <message>
         <source>Insert</source>
         <translation>插入</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4810,15 +4858,15 @@ On/Off</source>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>背景</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>项目符号</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4840,19 +4888,19 @@ Master View</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -4860,11 +4908,11 @@ Master View</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>其他项目符号</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>New Slide
@@ -4894,11 +4942,11 @@ Master</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线</translation>
     </message>
 </context>
 <context>
@@ -4933,11 +4981,11 @@ Master</source>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>其他编号</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>编号</translation>
     </message>
 </context>
 <context>
@@ -4987,6 +5035,10 @@ Transition</source>
 Settings</source>
         <translation>设置
 幻灯片放映</translation>
+    </message>
+    <message>
+        <source>Slide Show From Beginning</source>
+        <translation>从头开始</translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -5045,7 +5097,7 @@ Settings</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -5065,15 +5117,15 @@ Settings</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>减少段落间距</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -5109,15 +5161,15 @@ Settings</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -5125,15 +5177,15 @@ Settings</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>增大段落间距</translation>
     </message>
     <message>
         <source>Insert Above</source>
@@ -5153,7 +5205,7 @@ Settings</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Left</source>
@@ -5169,7 +5221,7 @@ Settings</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -5181,7 +5233,7 @@ Settings</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -5189,7 +5241,7 @@ Settings</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>行和列</translation>
     </message>
     <message>
         <source>Select</source>
@@ -5217,7 +5269,7 @@ Settings</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -5233,11 +5285,11 @@ Settings</source>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>下标</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>上标</translation>
     </message>
     <message>
         <source>Table</source>
@@ -5249,31 +5301,31 @@ Settings</source>
     </message>
     <message>
         <source>Text Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>单元格边距</translation>
     </message>
     <message>
         <source>Text Margin Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Text Margin Narrow</source>
-        <translation type="unfinished"></translation>
+        <translation>窄边距</translation>
     </message>
     <message>
         <source>Text Margin None</source>
-        <translation type="unfinished"></translation>
+        <translation>无边距</translation>
     </message>
     <message>
         <source>Text Margin Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>正常</translation>
     </message>
     <message>
         <source>Text Margin Wide</source>
-        <translation type="unfinished"></translation>
+        <translation>宽边距</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线</translation>
     </message>
 </context>
 <context>
@@ -5281,6 +5333,10 @@ Settings</source>
     <message>
         <source>Arrange All</source>
         <translation>重排窗口</translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6102,6 +6158,10 @@ On</source>
         <translation>新手指引</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>WPS通行证</translation>
     </message>
@@ -6233,6 +6293,10 @@ On</source>
         <translation>箭头选项</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto Point</source>
         <translation>自动顶点</translation>
     </message>
@@ -6305,6 +6369,10 @@ On</source>
         <translation>更改图片</translation>
     </message>
     <message>
+        <source>Change Points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>切换版本</translation>
     </message>
@@ -6342,7 +6410,7 @@ On</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -6538,7 +6606,7 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished">邮件反馈</translation>
+        <translation type="unfinished">反馈</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -6633,12 +6701,32 @@ On</source>
         <translation>墨迹颜色</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Columns</source>
-        <translation>插入列</translation>
+        <translation type="obsolete">插入列</translation>
+    </message>
+    <message>
+        <source>Insert Columns Left</source>
+        <translation type="unfinished">在左侧插入列</translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation type="unfinished">在右侧插入列</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>插入行</translation>
+        <translation type="obsolete">插入行</translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation type="unfinished">在上方插入行</translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
+        <translation type="unfinished">在下方插入行</translation>
     </message>
     <message>
         <source>Insert Tab</source>
@@ -6653,8 +6741,20 @@ On</source>
         <translation>用户反馈</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>从快盘打开</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -6670,7 +6770,7 @@ On</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -6678,7 +6778,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation>WPS 论坛</translation>
+        <translation type="obsolete">WPS 论坛</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -6697,8 +6797,12 @@ On</source>
         <translation type="obsolete">金山在线</translation>
     </message>
     <message>
-        <source>Kingsoft Presentation Help</source>
+        <source>KingsoftOffice</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KingsoftOffice_KSO</source>
+        <translation type="unfinished">KingsoftOffice</translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -6745,6 +6849,14 @@ On</source>
         <translation>母版版式</translation>
     </message>
     <message>
+        <source>Menu Edit Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu New Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Cells</source>
         <translation>合并单元格</translation>
     </message>
@@ -6789,6 +6901,10 @@ Master</source>
     <message>
         <source>Normal</source>
         <translation>普通</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished">演讲者备注</translation>
     </message>
     <message>
         <source>Object</source>
@@ -7043,6 +7159,10 @@ Master</source>
         <translation>幻灯片切换</translation>
     </message>
     <message>
+        <source>SlideShow</source>
+        <translation type="unfinished">幻灯片放映</translation>
+    </message>
+    <message>
         <source>Slides List</source>
         <translation>幻灯片列表</translation>
     </message>
@@ -7056,7 +7176,7 @@ Master</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation>演讲者备注</translation>
+        <translation type="obsolete">演讲者备注</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -7083,16 +7203,16 @@ Master</source>
         <translation type="unfinished">在线学习</translation>
     </message>
     <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch Language</source>
         <translation type="obsolete">更改语言</translation>
     </message>
     <message>
         <source>Symbol</source>
         <translation>符号</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished">表格</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -7143,12 +7263,20 @@ Master</source>
         <translation>可见</translation>
     </message>
     <message>
+        <source>WPS BBS</source>
+        <translation>WPS 论坛</translation>
+    </message>
+    <message>
         <source>WPS Microblog</source>
         <translation>微博反馈</translation>
     </message>
     <message>
         <source>WPS New features</source>
         <translation>WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished">WPS Office 主页</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
@@ -7206,7 +7334,7 @@ Master</source>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 <context>
@@ -7281,7 +7409,7 @@ Master</source>
     </message>
     <message>
         <source>Level</source>
-        <translation>级别</translation>
+        <translation type="obsolete">级别</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -7310,6 +7438,10 @@ Master</source>
     <message>
         <source>Use AutoFormat</source>
         <translation>自动套用格式</translation>
+    </message>
+    <message>
+        <source>level</source>
+        <translation>级别</translation>
     </message>
 </context>
 <context>
@@ -7891,6 +8023,14 @@ AddIns</source>
         <translation>切换版本</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>文档保护及属性</translation>
     </message>
@@ -7904,7 +8044,7 @@ AddIns</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -7924,7 +8064,7 @@ AddIns</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished">WPS Office 社区</translation>
+        <translation>WPS Office 社区</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
@@ -7944,7 +8084,7 @@ AddIns</source>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS 演示 帮助</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
@@ -7988,11 +8128,11 @@ AddIns</source>
     </message>
     <message>
         <source>New from My Computer Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>本机上的模板...</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>从在线模板新建</translation>
     </message>
     <message>
         <source>Open</source>
@@ -8024,7 +8164,7 @@ AddIns</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office 产品中心</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -8060,15 +8200,11 @@ AddIns</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
+        <translation>在线学习</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">转为 WPS 文字文档</translation>
+        <translation>转为 WPS 文字文档</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -8085,6 +8221,10 @@ AddIns</source>
     <message>
         <source>WPS New features</source>
         <translation>WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8700,7 +8840,7 @@ Slide</source>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>上标</translation>
     </message>
     <message>
         <source>Text</source>
@@ -9024,39 +9164,39 @@ Slide</source>
     <name>rainbow.ct_orgchart</name>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -9064,51 +9204,51 @@ Slide</source>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Choice</source>
@@ -9116,19 +9256,19 @@ Slide</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Delete Member</source>
@@ -9136,7 +9276,7 @@ Slide</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -9144,51 +9284,51 @@ Slide</source>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>布局</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -9204,11 +9344,11 @@ Slide</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Text</source>
@@ -9216,11 +9356,11 @@ Slide</source>
     </message>
     <message>
         <source>Text Font Color</source>
-        <translation type="unfinished">文本颜色</translation>
+        <translation>文本颜色</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -9231,7 +9371,7 @@ Slide</source>
     <name>rainbow.ct_orgchart.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
@@ -10212,7 +10352,7 @@ Settings</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>删除列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10276,7 +10416,7 @@ Settings</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>删除行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -10284,7 +10424,7 @@ Settings</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>行和列</translation>
     </message>
     <message>
         <source>Select</source>
@@ -11134,6 +11274,10 @@ Other Window</source>
         <translation>新手指引</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>WPS通行证</translation>
     </message>
@@ -11187,7 +11331,7 @@ Other Window</source>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>文件备份</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
@@ -11963,6 +12107,17 @@ Click the arrow to select a different alignment.</source>
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DuplicateSlide</name>
     <message>
         <source>Insert a duplicate of the current slide into the presentation.</source>
@@ -12294,6 +12449,17 @@ WPS素材库中的素材在联网情况下才可使用。</translation>
     </message>
 </context>
 <context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.Hyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
@@ -12607,24 +12773,35 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
 </context>
 <context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished">扫一下二维码分享到手机；贴到微信或米聊大家编辑。</translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished">10秒钟！把文档：</translation>
+    </message>
+</context>
+<context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名或密码不匹配</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespacePsaawordTip</name>
     <message>
         <source>password is wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>密码错误</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceRegPsaawordTip</name>
     <message>
         <source>password not match</source>
-        <translation type="unfinished"></translation>
+        <translation>密码不匹配</translation>
     </message>
 </context>
 <context>
@@ -13101,11 +13278,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PictureSetTransparentColor</name>
     <message>
         <source>PictureSetTransparentColor Content</source>
-        <translation type="unfinished"></translation>
+        <translation>将当前图片透明化。单击当前图形中的像素时，特定颜色的所有像素都会变得透明。</translation>
     </message>
     <message>
         <source>PictureSetTransparentColor Title</source>
-        <translation type="unfinished"></translation>
+        <translation>设置透明色</translation>
     </message>
 </context>
 <context>
@@ -13117,6 +13294,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     <message>
         <source>Picture Size</source>
         <translation>图片大小 </translation>
+    </message>
+</context>
+<context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13270,11 +13458,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>剪贴板</translation>
     </message>
     <message>
         <source>View all items copied to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>查看拷贝到剪贴板上的所有项目。</translation>
     </message>
 </context>
 <context>
@@ -13442,6 +13630,17 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
         <translation>弹出“宏”对话框，查看宏列表，可直接运行、删除或是创建宏。</translation>
+    </message>
+</context>
+<context>
+    <name>tips.SaveBackgroundPicture</name>
+    <message>
+        <source>SaveBackgroundPicture Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveBackgroundPicture Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14005,6 +14204,17 @@ Click the arrow to select a different text color.</source>
     </message>
 </context>
 <context>
+    <name>tips.TextMargin</name>
+    <message>
+        <source>TextMargin Content</source>
+        <translation>可直接设置或自定义表格单元格的内边距大小。</translation>
+    </message>
+    <message>
+        <source>TextMargin Title</source>
+        <translation>单元格边距</translation>
+    </message>
+</context>
+<context>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
@@ -14068,6 +14278,17 @@ Click the arrow to select a different text color.</source>
     <message>
         <source>Character Spacing</source>
         <translation>字符间距</translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14366,8 +14587,20 @@ Click the arrow to choose more outline styles.</source>
         <translation>用户反馈</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>从快盘打开</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -14383,7 +14616,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -14507,7 +14740,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Arrow Options Popup Menu</source>
@@ -14527,7 +14760,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
-        <translation type="unfinished">形状和素材</translation>
+        <translation>形状和素材</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -14567,11 +14800,15 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>剪贴板</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>剪贴板</translation>
+    </message>
+    <message>
+        <source>CloudLink</source>
+        <translation type="unfinished">文档分享</translation>
     </message>
     <message>
         <source>ColorSheme</source>
@@ -14579,7 +14816,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Colorize</source>
-        <translation type="unfinished">配色</translation>
+        <translation>配色</translation>
     </message>
     <message>
         <source>Comment Popup Menu</source>
@@ -14651,7 +14888,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished">效果</translation>
+        <translation>效果</translation>
     </message>
     <message>
         <source>Eraser Popup Menu</source>
@@ -14701,7 +14938,7 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>显示/隐藏网格</translation>
+        <translation type="obsolete">显示/隐藏网格</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -14769,7 +15006,7 @@ Slide</source>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>@我的消息</translation>
+        <translation type="obsolete">@我的消息</translation>
     </message>
     <message>
         <source>New</source>
@@ -14797,7 +15034,7 @@ Slide</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>从在线模板新建</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -14880,8 +15117,12 @@ Slide</source>
         <translation>标尺</translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished">分享</translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>消息</translation>
+        <translation type="obsolete">消息</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -14900,12 +15141,20 @@ Slide</source>
         <translation>全选</translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation>设置拼写检查语言</translation>
+    </message>
+    <message>
         <source>ShapeAndGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>形状和素材</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
         <translation>形状</translation>
+    </message>
+    <message>
+        <source>Show / Hide Grid</source>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Slide Background Popup Menu</source>
@@ -14965,7 +15214,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch</source>
-        <translation type="unfinished">切换</translation>
+        <translation>切换</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -14997,15 +15246,19 @@ Slide</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished">模板</translation>
+        <translation>模板</translation>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>
         <translation>文字编辑</translation>
     </message>
     <message>
-        <source>Toolbars</source>
+        <source>ToolBars</source>
         <translation>工具栏</translation>
+    </message>
+    <message>
+        <source>Toolbars</source>
+        <translation type="obsolete">工具栏</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -15114,6 +15367,10 @@ Slide</source>
         <translation>绘图工具</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation>WPS 售后微博</translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>文件</translation>
     </message>
@@ -15127,7 +15384,7 @@ Slide</source>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏功能区</translation>
     </message>
     <message>
         <source>Home</source>
@@ -15146,6 +15403,14 @@ Slide</source>
         <translation>切换账户</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation>未登录</translation>
     </message>
@@ -15155,7 +15420,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -15199,7 +15464,7 @@ Slide</source>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>显示功能区</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
@@ -15215,7 +15480,11 @@ Slide</source>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">固定功能区</translation>
+    </message>
+    <message>
+        <source>Stick the ToolBar</source>
+        <translation>固定功能区</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -15282,14 +15551,14 @@ Slide</source>
     </message>
     <message>
         <source>true</source>
-        <translation>确定</translation>
+        <translation type="obsolete">确定</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 <context>
@@ -15329,6 +15598,10 @@ Slide</source>
         <translation>绘图工具</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation>WPS 售后微博</translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>文件</translation>
     </message>
@@ -15342,7 +15615,7 @@ Slide</source>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏功能区</translation>
     </message>
     <message>
         <source>Home</source>
@@ -15361,8 +15634,16 @@ Slide</source>
         <translation>切换账户</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished">商业授权</translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation>注销</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished">充值稻米</translation>
     </message>
     <message>
         <source>KOS User Login</source>
@@ -15370,7 +15651,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>更改个人资料</translation>
+        <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
         <source>Login</source>
@@ -15426,7 +15707,7 @@ Slide</source>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>显示功能区</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
@@ -15442,7 +15723,7 @@ Slide</source>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>固定功能区</translation>
     </message>
     <message>
         <source>Switch Language</source>
@@ -15467,6 +15748,22 @@ Slide</source>
     <message>
         <source>What News</source>
         <translation>新消息</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished">最大化</translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished">最小化</translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished">还原</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -15503,7 +15800,7 @@ Slide</source>
     <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 <context>

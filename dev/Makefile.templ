@@ -1,12 +1,16 @@
 MAKE_QM="../dev/make_qm.sh"
 MAKE_RCC="../dev/make_rcc.sh"
+MAKE_PACKAGE="../dev/make_package.sh"
 MAKE_INSTALL="../dev/make_install.sh"
+MAKE_UPDATE="../dev/make_update.sh"
 LANGID=`basename ${CURDIR}`
 
 ifeq (${USER},root)
 	DEST=/opt/kingsoft/wps-office/office6/mui/${LANGID}
+	INSTALL_PATH=/opt/kingsoft/wps-office/office6/mui/
 else
 	DEST=${HOME}/.kingsoft/mui/${LANGID}
+	INSTALL_PATH=${HOME}/.kingsoft/mui/
 endif
 
 all: qm rcc
@@ -20,6 +24,13 @@ qm:
 
 rcc:
 	@ ${MAKE_RCC} res/*.qrc
+
+package:
+	@ ${MAKE_PACKAGE} ${INSTALL_PATH} ${LANGID}
+
+update:
+	[ -d "$(CODING)" ]
+	@ ${MAKE_UPDATE} $(CODING)
 
 install: all uninstall
 	@ ${MAKE_INSTALL}

@@ -6,95 +6,91 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>.</source>
-        <translation>#\</translation>
+        <translation type="obsolete">#\</translation>
     </message>
     <message>
         <source>(0)</source>
-        <translation>(0)</translation>
+        <translation type="obsolete">(0)</translation>
     </message>
     <message>
         <source>(1)</source>
-        <translation>(1)</translation>
+        <translation type="obsolete">(1)</translation>
     </message>
     <message>
         <source>(10)</source>
-        <translation>(10)</translation>
+        <translation type="obsolete">(10)</translation>
     </message>
     <message>
         <source>(2)</source>
-        <translation>(2)</translation>
+        <translation type="obsolete">(2)</translation>
     </message>
     <message>
         <source>(3)</source>
-        <translation>(3)</translation>
+        <translation type="obsolete">(3)</translation>
     </message>
     <message>
         <source>(4)</source>
-        <translation>(4)</translation>
+        <translation type="obsolete">(4)</translation>
     </message>
     <message>
         <source>(5)</source>
-        <translation>(5)</translation>
+        <translation type="obsolete">(5)</translation>
     </message>
     <message>
         <source>(6)</source>
-        <translation>(6)</translation>
+        <translation type="obsolete">(6)</translation>
     </message>
     <message>
         <source>(7)</source>
-        <translation>(7)</translation>
+        <translation type="obsolete">(7)</translation>
     </message>
     <message>
         <source>(8)</source>
-        <translation>(8)</translation>
+        <translation type="obsolete">(8)</translation>
     </message>
     <message>
         <source>(9)</source>
-        <translation>(9)</translation>
-    </message>
-    <message>
-        <source>)</source>
-        <translation></translation>
+        <translation type="obsolete">(9)</translation>
     </message>
     <message>
         <source>0</source>
-        <translation>2－ {0?}</translation>
+        <translation type="obsolete">2－ {0?}</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>2－ {1?}</translation>
+        <translation type="obsolete">2－ {1?}</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2－ {2?}</translation>
+        <translation type="obsolete">2－ {2?}</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>2－ {3?}</translation>
+        <translation type="obsolete">2－ {3?}</translation>
     </message>
     <message>
         <source>4</source>
-        <translation>2－ {4?}</translation>
+        <translation type="obsolete">2－ {4?}</translation>
     </message>
     <message>
         <source>5</source>
-        <translation>2－ {5?}</translation>
+        <translation type="obsolete">2－ {5?}</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>2－ {6?}</translation>
+        <translation type="obsolete">2－ {6?}</translation>
     </message>
     <message>
         <source>7</source>
-        <translation>2－ {7?}</translation>
+        <translation type="obsolete">2－ {7?}</translation>
     </message>
     <message>
         <source>8</source>
-        <translation>2－ {8?}</translation>
+        <translation type="obsolete">2－ {8?}</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>2－ {9?}</translation>
+        <translation type="obsolete">2－ {9?}</translation>
     </message>
     <message>
         <source>None</source>
@@ -829,7 +825,7 @@
     <name>KWppAnimCustomCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
 </context>
 <context>
@@ -841,6 +837,13 @@
     <message>
         <source>Automatic</source>
         <translation>自動</translation>
+    </message>
+</context>
+<context>
+    <name>KWppZoomSlider</name>
+    <message id="0">
+        <source>Slide Zoom Fit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1202,7 +1205,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
+        <source>&amp;Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1481,7 +1484,7 @@
     </message>
     <message>
         <source>Cancle</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
@@ -1518,6 +1521,10 @@
     <message>
         <source>Slide &amp;number</source>
         <translation>スライド番号(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -1947,6 +1954,14 @@
     </message>
     <message>
         <source>New Doc&amp;ument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2430,46 +2445,6 @@
         <source>Slide...</source>
         <translation>スライド</translation>
     </message>
-    <message>
-        <source>m_clickHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgWppColorScheme</name>
@@ -2772,7 +2747,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>The directory you specified dose not exist.</source>
-        <translation>指定したディレクトリが見つかりません</translation>
+        <translation type="obsolete">指定したディレクトリが見つかりません</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
@@ -2797,6 +2772,10 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>You have no permission to write files into this directory.</source>
         <translation>このディレクトリ内では書き込み権限がありません</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation>指定したディレクトリが見つかりません</translation>
     </message>
 </context>
 <context>
@@ -2840,6 +2819,10 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>User canceled operation.</source>
         <translation>ユーザーにより操作がキャンセルされました</translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3363,7 +3346,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Zoom</source>
-        <translation>フォーム</translation>
+        <translation type="obsolete">フォーム</translation>
     </message>
     <message>
         <source>apply all slides</source>
@@ -3423,6 +3406,10 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>loop play, to the next voice began</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3499,11 +3486,11 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>cbHorizontalFrom</source>
-        <translation>横方向</translation>
+        <translation type="obsolete">横方向</translation>
     </message>
     <message>
         <source>cbVerticalFrom</source>
-        <translation>縦位置</translation>
+        <translation type="obsolete">縦位置</translation>
     </message>
     <message>
         <source>pt, 2, -169077, 169077, 1</source>
@@ -3511,11 +3498,11 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>ucPositionHorizont</source>
-        <translation>横位置</translation>
+        <translation type="obsolete">横位置</translation>
     </message>
     <message>
         <source>ucPositionVertical</source>
-        <translation>縦位置</translation>
+        <translation type="obsolete">縦位置</translation>
     </message>
 </context>
 <context>
@@ -3572,7 +3559,7 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxWppAnimationOptionsDlg</name>
     <message>
         <source>Second</source>
-        <translation>分</translation>
+        <translation type="obsolete">分</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Dim</source>
@@ -3870,7 +3857,7 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxWppPrintDlg</name>
     <message>
         <source>All slides among the rang must be marked as hidden!</source>
-        <translation>範囲内のすべてのスライドが非表示スライド設定する必要があります</translation>
+        <translation type="obsolete">範囲内のすべてのスライドが非表示スライド設定する必要があります</translation>
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
@@ -3911,6 +3898,10 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Close</source>
         <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
+        <translation>範囲内のすべてのスライドが非表示スライド設定する必要があります</translation>
     </message>
 </context>
 <context>
@@ -4432,7 +4423,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Modify</source>
-        <translation>変更</translation>
+        <translation type="obsolete">変更</translation>
     </message>
     <message>
         <source>Modify selected effects</source>

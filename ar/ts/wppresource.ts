@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ar">
 <defaultcodec>UTF-8</defaultcodec>
@@ -535,6 +535,10 @@
     <message>
         <source>Horizontal</source>
         <translation>أفقي</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -1312,6 +1316,10 @@ Master</source>
         <translation>جدول البيانات</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>معادلة</translation>
     </message>
@@ -1362,6 +1370,10 @@ Master</source>
     <message>
         <source>Send E-mail</source>
         <translation>إرسال بريد إلكتروني</translation>
+    </message>
+    <message>
+        <source>Switch Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text</source>
@@ -2381,7 +2393,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>لوحة التحديد</translation>
+        <translation type="obsolete">لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2513,6 +2525,18 @@ On</source>
         <translation>إدارة النسخ الاحتياطي</translation>
     </message>
     <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>حماية المستند وخصائص أخرى</translation>
     </message>
@@ -2570,7 +2594,7 @@ On</source>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation>KingsoftOffice</translation>
+        <translation type="obsolete">KingsoftOffice</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
@@ -2591,6 +2615,10 @@ On</source>
     <message>
         <source>New Blank File</source>
         <translation>ملف فارغ جديد</translation>
+    </message>
+    <message>
+        <source>New From Default Template</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -2649,6 +2677,10 @@ On</source>
         <translation>خصائص</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>حفظ</translation>
     </message>
@@ -2674,7 +2706,11 @@ On</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>دراسة عبر الإنترنت</translation>
+        <translation type="obsolete">دراسة عبر الإنترنت</translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -2687,6 +2723,10 @@ On</source>
     <message>
         <source>WPS Microblog</source>
         <translation>المدونة الصغيرة لـ WPS</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3253,6 +3293,10 @@ Slide</source>
         <translation>شريحة</translation>
     </message>
     <message>
+        <source>Slide Show From Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>صلب</translation>
     </message>
@@ -3392,6 +3436,10 @@ Slide</source>
     <message>
         <source>Gallery</source>
         <translation>معرض رسوم</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -3886,6 +3934,10 @@ Slide</source>
         <translation>تنظيم</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation>تلقائي</translation>
     </message>
@@ -3996,6 +4048,10 @@ Slide</source>
     <message>
         <source>Insert</source>
         <translation>إدراج</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4761,6 +4817,10 @@ Settings</source>
 استعراض الشرائح</translation>
     </message>
     <message>
+        <source>Slide Show From Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Transition</source>
         <translation>انتقال الشريحة</translation>
     </message>
@@ -5041,6 +5101,10 @@ Settings</source>
     <message>
         <source>Arrange All</source>
         <translation>تنظيم الكل</translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -5858,6 +5922,10 @@ On</source>
         <translation>معلومات سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>حسابي في KOS</translation>
     </message>
@@ -5989,6 +6057,10 @@ On</source>
         <translation>خيارات السهم</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto Point</source>
         <translation>نقطة تلقائية</translation>
     </message>
@@ -6059,6 +6131,10 @@ On</source>
     <message>
         <source>Change Picture</source>
         <translation>تغيير الصورة</translation>
+    </message>
+    <message>
+        <source>Change Points</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -6389,12 +6465,32 @@ On</source>
         <translation>لون الحبر</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Columns</source>
-        <translation>إدراج أعمدة</translation>
+        <translation type="obsolete">إدراج أعمدة</translation>
+    </message>
+    <message>
+        <source>Insert Columns Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>إدراج صفوف</translation>
+        <translation type="obsolete">إدراج صفوف</translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -6405,8 +6501,20 @@ On</source>
         <translation>تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>فتح ملف من سحابة KOS</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -6422,7 +6530,7 @@ On</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>عرض معلومات المستخدم في KOS</translation>
+        <translation type="obsolete">عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -6430,7 +6538,7 @@ On</source>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation>منتديات Kingsoft</translation>
+        <translation type="obsolete">منتديات Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -6442,11 +6550,19 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>الصفحة الرئيسية لـ Kingsoft-Office</translation>
+        <translation type="unfinished">الصفحة الرئيسية لـ Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">مساعدة العرض التقديمي لـ Kingsoft</translation>
+    </message>
+    <message>
+        <source>KingsoftOffice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KingsoftOffice_KSO</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -6493,6 +6609,14 @@ On</source>
         <translation>تخطيط النموذج</translation>
     </message>
     <message>
+        <source>Menu Edit Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu New Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Cells</source>
         <translation>دمج الخلايا</translation>
     </message>
@@ -6537,6 +6661,10 @@ Master</source>
     <message>
         <source>Normal</source>
         <translation>عادي</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Object</source>
@@ -6791,6 +6919,10 @@ Master</source>
         <translation>انتقال الشريحة</translation>
     </message>
     <message>
+        <source>SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slides List</source>
         <translation>لائحة الشرائح</translation>
     </message>
@@ -6804,7 +6936,7 @@ Master</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation>ملاحظات المحاضر</translation>
+        <translation type="obsolete">ملاحظات المحاضر</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -6832,11 +6964,15 @@ Master</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>دراسة عبر الإنترنت</translation>
+        <translation type="obsolete">دراسة عبر الإنترنت</translation>
     </message>
     <message>
         <source>Symbol</source>
         <translation>رمز</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -6883,12 +7019,20 @@ Master</source>
         <translation>مرئي</translation>
     </message>
     <message>
+        <source>WPS BBS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Microblog</source>
         <translation>المدونة الصغيرة لـ WPS</translation>
     </message>
     <message>
         <source>WPS New features</source>
         <translation>ميزات جديدة لـ WPS</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
@@ -7021,7 +7165,7 @@ Master</source>
     </message>
     <message>
         <source>Level</source>
-        <translation>مستوى</translation>
+        <translation type="obsolete">مستوى</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -7050,6 +7194,10 @@ Master</source>
     <message>
         <source>Use AutoFormat</source>
         <translation>استعمال التنسيق التلقائي</translation>
+    </message>
+    <message>
+        <source>level</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7631,6 +7779,14 @@ AddIns</source>
         <translation>تغيير الإصدار</translation>
     </message>
     <message>
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>حماية المستند وخصائص أخرى</translation>
     </message>
@@ -7792,7 +7948,11 @@ AddIns</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>دراسة عبر الإنترنت</translation>
+        <translation type="obsolete">دراسة عبر الإنترنت</translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -7809,6 +7969,10 @@ AddIns</source>
     <message>
         <source>WPS New features</source>
         <translation>ميزات جديدة لـ WPS</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10767,6 +10931,10 @@ Other Window</source>
         <translation>معلومات سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS My account</source>
         <translation>حسابي في KOS</translation>
     </message>
@@ -11596,6 +11764,17 @@ Click the arrow to select a different alignment.</source>
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DuplicateSlide</name>
     <message>
         <source>Insert a duplicate of the current slide into the presentation.</source>
@@ -11927,6 +12106,17 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
 </context>
 <context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.Hyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
@@ -12237,6 +12427,17 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <message>
         <source>KOSCloudInformationTip Title</source>
         <translation>معلومات سحابة KOS</translation>
+    </message>
+</context>
+<context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12753,6 +12954,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
 </context>
 <context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.PreComment</name>
     <message>
         <source>Pre Comment</source>
@@ -13077,6 +13289,17 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
         <translation>عرض لائحة وحدات الماكرو، حيث يمكنك تشغيل أو إنشاء أو حذف وحدة ماكرو.</translation>
+    </message>
+</context>
+<context>
+    <name>tips.SaveBackgroundPicture</name>
+    <message>
+        <source>SaveBackgroundPicture Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveBackgroundPicture Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13638,6 +13861,17 @@ Click the arrow to select a different text color.</source>
     </message>
 </context>
 <context>
+    <name>tips.TextMargin</name>
+    <message>
+        <source>TextMargin Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextMargin Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
@@ -13701,6 +13935,17 @@ Click the arrow to select a different text color.</source>
     <message>
         <source>Character Spacing</source>
         <translation>تباعد الحروف</translation>
+    </message>
+</context>
+<context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14000,8 +14245,20 @@ Click the arrow to choose more outline styles.</source>
         <translation>تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Open cloud file</source>
         <translation>فتح ملف من سحابة KOS</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
@@ -14017,7 +14274,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>عرض معلومات المستخدم في KOS</translation>
+        <translation type="obsolete">عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -14192,6 +14449,10 @@ Click the arrow to choose more outline styles.</source>
         <translation>لوحة الحافظة</translation>
     </message>
     <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Colorize</source>
         <translation>تلوين</translation>
     </message>
@@ -14307,7 +14568,7 @@ Slide</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>خطوط الشبكة</translation>
+        <translation type="obsolete">خطوط الشبكة</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -14375,7 +14636,7 @@ Slide</source>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation>رسائلي</translation>
+        <translation type="obsolete">رسائلي</translation>
     </message>
     <message>
         <source>New</source>
@@ -14478,8 +14739,12 @@ Slide</source>
         <translation>قائمة منبثقة للمسطرة</translation>
     </message>
     <message>
+        <source>S CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>S MsgAtMe</source>
-        <translation>أخبار</translation>
+        <translation type="obsolete">أخبار</translation>
     </message>
     <message>
         <source>S Office space</source>
@@ -14498,12 +14763,20 @@ Slide</source>
         <translation>تحديد الكل</translation>
     </message>
     <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ShapeAndGallery</source>
         <translation>شكل ومعرض الرسوم</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
         <translation>قائمة منبثقة للأشكال</translation>
+    </message>
+    <message>
+        <source>Show / Hide Grid</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Background Popup Menu</source>
@@ -14598,8 +14871,12 @@ Slide</source>
         <translation>قائمة منبثقة لتحرير النص</translation>
     </message>
     <message>
+        <source>ToolBars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
-        <translation>أشرطة الأدوات</translation>
+        <translation type="obsolete">أشرطة الأدوات</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -14708,6 +14985,10 @@ Slide</source>
         <translation>أدوات الرسم</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>ملف</translation>
     </message>
@@ -14740,6 +15021,14 @@ Slide</source>
         <translation>تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation>معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
@@ -14749,7 +15038,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>عرض معلومات المستخدم في KOS</translation>
+        <translation type="obsolete">عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -14809,7 +15098,11 @@ Slide</source>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
-        <translation>إلصاق شريط الأدوات</translation>
+        <translation type="obsolete">إلصاق شريط الأدوات</translation>
+    </message>
+    <message>
+        <source>Stick the ToolBar</source>
+        <translation type="unfinished">إلصاق شريط الأدوات</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -14872,7 +15165,7 @@ Slide</source>
     </message>
     <message>
         <source>true</source>
-        <translation>صحيح</translation>
+        <translation type="obsolete">صحيح</translation>
     </message>
 </context>
 <context>
@@ -14919,6 +15212,10 @@ Slide</source>
         <translation>أدوات الرسم</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>ملف</translation>
     </message>
@@ -14951,8 +15248,16 @@ Slide</source>
         <translation>تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Logout</source>
         <translation>تسجيل الخروج من KOS</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Login</source>
@@ -14960,7 +15265,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS View UserInfo</source>
-        <translation>عرض معلومات المستخدم في KOS</translation>
+        <translation type="obsolete">عرض معلومات المستخدم في KOS</translation>
     </message>
     <message>
         <source>Login</source>
@@ -15053,6 +15358,22 @@ Slide</source>
     <message>
         <source>What News</source>
         <translation>ما الجديد</translation>
+    </message>
+    <message>
+        <source>Window Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Restore</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>

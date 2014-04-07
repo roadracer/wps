@@ -2320,6 +2320,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Kingsoft Office encountered an error when saving the file, please try again or contact customer service.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>krm</name>
@@ -2717,6 +2721,14 @@ You can click the button to recover files you work on.</source>
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Commercial Version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4174,7 +4186,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open in broser</source>
-        <translation type="unfinished">In Browser öffnen</translation>
+        <translation type="obsolete">In Browser öffnen</translation>
     </message>
     <message>
         <source>Dark Teal</source>
@@ -4689,8 +4701,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
-To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
-If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4701,6 +4715,10 @@ For better service, please update the trial edition to standard edition by:
 1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
 2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>In Browser öffnen</translation>
     </message>
     <message>
         <source>Organization Chart

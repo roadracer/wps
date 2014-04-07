@@ -12,38 +12,195 @@
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
 </context>
 <context>
     <name>KColorCtrl</name>
     <message>
-        <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen kleur</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meer kleuren</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vuleffecten...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Achtergrond</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation>Zwart</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation>Bruin</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation>Olijfgroen</translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation>Donkergroen</translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation>Donkerblauw</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation>Indigo</translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation>Grijs-80%</translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation>Donkerrood</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation>Oranje</translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation>Donkergeel</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation>Groen</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation>Blauwgroen</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation>Blauw</translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation>Blauw/grijs</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation>Grijs-50%</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation>Rood</translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation>Lichtoranje</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation>Limoen</translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation>Zeegroen</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation>Lichtblauw</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation>Violet</translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation>Grijs-40%</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation>Roze</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation>Goudkleurig</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation>Geel</translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation>Heldergroen</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation>Turkoois</translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation>Hemelsblauw</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translatorcomment>http://nl.wikipedia.org/wiki/Lijst_van_HTML-kleuren</translatorcomment>
+        <translation>Pruim</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation>Grijs-25%</translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation>Rooskleurig</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation>Geelbruin</translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation>Lichtgeel</translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation>Lichtgroen</translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation>Lichtturkoois</translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation>Lavendel</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation>Wit</translation>
     </message>
 </context>
 <context>
@@ -54,13 +211,6 @@
     </message>
     <message>
         <source>Undefined Widget</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KDocTab</name>
-    <message>
-        <source>Uploading file...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -80,60 +230,60 @@
     </message>
 </context>
 <context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Choose Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Choose your language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
     <name>KMDIMaximizeCommand</name>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaliseren</translation>
     </message>
 </context>
 <context>
     <name>KMDIMinimizeCommand</name>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimaliseren</translation>
     </message>
 </context>
 <context>
     <name>KMDINextCommand</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende</translation>
     </message>
 </context>
 <context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
+        <translation>Herstellen</translation>
+    </message>
+</context>
+<context>
+    <name>KMainWindow</name>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation>Ma&amp;ximaliseren</translation>
+    </message>
+    <message>
+        <source>Unma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation>Mi&amp;nimaliseren</translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use System &amp;Title Bar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -141,30 +291,30 @@
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst </translation>
     </message>
 </context>
 <context>
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock aan.</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Met Caps Lock aan kan er toe leiden dat u een verkeerd wachtwoord invoert.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voordat u uw wachtwoord invoert, moet u de &quot;Caps Lock&quot;indrukken om het uit te zetten.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet toegestaan.</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het is niet toegestaan ​​het wachtwoordveld te kopiëren.</translation>
     </message>
 </context>
 <context>
@@ -223,11 +373,11 @@
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen woorden</translation>
     </message>
 </context>
 <context>
@@ -286,26 +436,26 @@ multiple=multiple
     <name>QMainWindow</name>
     <message>
         <source>Previous Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige document</translation>
     </message>
     <message>
         <source>Next Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgend document</translation>
     </message>
     <message>
         <source>Document List</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentlijst</translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Herstellen</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen</translation>
     </message>
     <message>
         <source>Size</source>
@@ -313,42 +463,42 @@ multiple=multiple
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimaliseren</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaliseren</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>NumLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: aan</translation>
     </message>
     <message>
         <source>NumLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: uit</translation>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>CapsLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>CapsLock: aan</translation>
     </message>
     <message>
         <source>CapsLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>CapsLock: uit</translation>
     </message>
     <message>
         <source>OverWrite</source>
@@ -356,27 +506,27 @@ multiple=multiple
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation type="unfinished"></translation>
+        <translation>Wis record uit lijst</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished"></translation>
+        <translation>Recente documenten:</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen uit de lijst</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles wissen</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Map openen</translation>
     </message>
 </context>
 </TS>

@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Grau-90% {65%?}</translation>
     </message>
     <message>
         <source>Gray-70%</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Lilac</source>
-        <translation type="obsolete">Lila</translation>
+        <translation type="unfinished">Lila</translation>
     </message>
     <message>
         <source>Cyan</source>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Lazulite</source>
-        <translation type="obsolete">Lazulite</translation>
+        <translation type="unfinished">Lazulite</translation>
     </message>
     <message>
         <source>Light turquoise</source>
@@ -345,7 +345,7 @@
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>Advanced Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitertes Layout</translation>
     </message>
     <message>
         <source>Picture Position</source>
@@ -358,10 +358,6 @@
     <message>
         <source>&amp;Alignment</source>
         <translation>&amp;Ausrichtung</translation>
-    </message>
-    <message>
-        <source>cbxHorizontalAlignment</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
@@ -388,10 +384,6 @@
         <translation>&amp;relativ zu</translation>
     </message>
     <message>
-        <source>cbxHorRelativePosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Margin</source>
         <translation>Rand</translation>
     </message>
@@ -409,11 +401,7 @@
     </message>
     <message>
         <source>&amp;to the right of</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbxHorRightPosition</source>
-        <translation type="unfinished"></translation>
+        <translation>Rech&amp;ts von</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -425,15 +413,15 @@
     </message>
     <message>
         <source>cbxVerticalAlignment</source>
-        <translation>cbxVertikal Ausrichtung</translation>
+        <translation type="obsolete">cbxVertikal Ausrichtung</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Oben</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Unten</translation>
     </message>
     <message>
         <source>Inside</source>
@@ -448,12 +436,8 @@
         <translation>Absolute Po&amp;sition</translation>
     </message>
     <message>
-        <source>cbxVerRightPosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Absatz</translation>
     </message>
     <message>
         <source>Line</source>
@@ -462,10 +446,6 @@
     <message>
         <source>r&amp;elative to</source>
         <translation>r&amp;elativ zu</translation>
-    </message>
-    <message>
-        <source>cbxVerRelativePosition</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>belo&amp;w</source>
@@ -485,15 +465,15 @@
     </message>
     <message>
         <source>&amp;Lock anchor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anker sperren</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textumbruch</translation>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbruchart</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
@@ -501,55 +481,55 @@
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Dich&amp;t</translation>
     </message>
     <message>
         <source>T&amp;hrough</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Durc&amp;h</translation>
     </message>
     <message>
         <source>T&amp;op and bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oben und Unten</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hinterm Text</translation>
     </message>
     <message>
         <source>In &amp;front of text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vor dem Text</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Im Textfluss</translation>
     </message>
     <message>
         <source>Wrap text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text umbrechen</translation>
     </message>
     <message>
         <source>Both &amp;sides</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beide &amp;Seiten</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nur &amp;Links</translation>
     </message>
     <message>
         <source>&amp;Right only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nur &amp;Rechts</translation>
     </message>
     <message>
         <source>L&amp;argest only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nur Größte</translation>
     </message>
     <message>
         <source>Distance from text</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand zum Text</translation>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -557,15 +537,15 @@
     </message>
     <message>
         <source>L&amp;eft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Botto&amp;m</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <source>Ri&amp;ght</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
 </context>
 <context>
@@ -592,11 +572,11 @@
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
@@ -675,15 +655,15 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -734,7 +714,7 @@
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
 </context>
 <context>
@@ -822,6 +802,13 @@
     </message>
 </context>
 <context>
+    <name>KxAddUsersDlg</name>
+    <message>
+        <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
@@ -840,7 +827,7 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>Cell</source>
@@ -1277,6 +1264,21 @@
     </message>
     <message>
         <source>&amp;More</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddUsers</name>
+    <message>
+        <source>Add Users</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter user names,separated by semicolons:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Example:user1;DOMAIN\name;someone@example.com</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1804,7 +1806,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
+        <source>&amp;Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2224,26 +2226,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Footnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>cbHyperlink</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2359,7 +2341,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 3.6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1584, 1584, 3.6 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 1</source>
@@ -2410,7 +2392,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Center</source>
@@ -2418,7 +2400,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -2426,7 +2408,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 3.6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1584, 1584, 3.6 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -10, 10, 1</source>
@@ -2575,7 +2557,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -2925,6 +2907,14 @@ use buttons to apply borders</source>
         <source>Suppress all non_&amp;delimiter chars</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click below button for advanced setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contents...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFindReplace</name>
@@ -2953,10 +2943,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2973,19 +2959,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Find</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>G&amp;o to what:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highligh&amp;t all items found in:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Less</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2998,7 +2972,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seite</translation>
     </message>
     <message>
         <source>Previou&amp;s</source>
@@ -3006,10 +2980,6 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Re&amp;place</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3033,39 +3003,110 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Find and Replace</source>
+        <source>KxDlgFindReplace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Search options</source>
+        <source>Format Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Matc&amp;h case</source>
+        <source>Format options:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Find whole words onl&amp;y</source>
+        <source>find result</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Use wildcards</source>
+        <source>&amp;More Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Match half/full for&amp;ms</source>
+        <source>F&amp;ormat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace w&amp;ith:</source>
+        <source>Match half/full For&amp;ms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bookmarks</source>
+        <source>Ma&amp;tch Suffix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Enter section number:</source>
+        <source>Ignore Sp&amp;ace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sear&amp;ch:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matc&amp;h Case</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Prefi&amp;x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Whole Words Onl&amp;y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use Wildcards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Punct(&amp;S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace W&amp;ith:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter note number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>highlight the &amp;result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;ind Scope</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find &amp;Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFindStyle</name>
+    <message>
+        <source>find text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Find Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>description</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3185,7 +3226,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ab&amp;stand:</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
@@ -3340,6 +3381,49 @@ use buttons to apply borders</source>
     </message>
 </context>
 <context>
+    <name>KxDlgFormatRestrictions</name>
+    <message>
+        <source>Formatting Restrictions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Styles</source>
+        <translation type="unfinished">Stile</translation>
+    </message>
+    <message>
+        <source>By restricting formatting to the styles you select,you prevent the ability to modify styles and the ability to apply direct formatting to the document.Select the styles you want to allow to be used in this document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show(&amp;D):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current permission to use the style(&amp;P):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The restriction of the use of style(&amp;E):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Restrict(&amp;L) &gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> All Restrict(&amp;R) &gt;&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> &lt; Permit(&amp;A) </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> &lt;&lt; All Permit(&amp;O) </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgGenkoSetting</name>
     <message>
         <source>Genko Setting</source>
@@ -3391,7 +3475,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seite</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
@@ -3485,7 +3569,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>&amp;Align paragraph and table edges with border</source>
@@ -3535,15 +3619,15 @@ use buttons to apply borders</source>
     <name>KxDlgInsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum und Uhrzeit</translation>
     </message>
     <message>
         <source>&amp;Available formats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verfügb&amp;are Formate:</translation>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sprache:</translation>
     </message>
     <message>
         <source>Use full &amp;width characters</source>
@@ -3551,11 +3635,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;utomatisch updaten</translation>
     </message>
     <message>
         <source>&amp;Default...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stan&amp;dart...</translation>
     </message>
 </context>
 <context>
@@ -3605,77 +3689,77 @@ use buttons to apply borders</source>
     <name>KxDlgInsertNumber</name>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>&amp;Number</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nummer</translation>
     </message>
     <message>
         <source>Number &amp;Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummern&amp;typ</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelle einfügen</translation>
     </message>
     <message>
         <source>Table size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellen Größe</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl an &amp;Spalten:</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl an &amp;Zeilen:</translation>
     </message>
     <message>
         <source>AutoFit behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoFit verhalten</translation>
     </message>
     <message>
         <source>Fixed column &amp;width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Feste Spalten&amp;breite:</translation>
     </message>
     <message>
         <source>&amp;Auto column width  </source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autom. Spaltenbreite</translation>
     </message>
     <message>
         <source>pt, 2, -2.14748e+09, 2.14748e+09, 10</source>
-        <translation type="unfinished"></translation>
+        <translation>pt, 2, -2.14748e+09, 2.14748e+09, 10</translation>
     </message>
     <message>
         <source>Remember dimen&amp;sions for new tables</source>
-        <translation type="unfinished"></translation>
+        <translation>Merke Dimen&amp;sionen für neue Tabellen</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertTableRows</name>
     <message>
         <source>Insert Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen einfügen</translation>
     </message>
     <message>
         <source>Insert location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügungspunkt:</translation>
     </message>
     <message>
         <source>&amp;Below selection Row</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Unterhalb selektierter Zeile</translation>
     </message>
     <message>
         <source>&amp;Above selection Row</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Überhalb selektierter Zeile</translation>
     </message>
     <message>
         <source>&amp;Number of rows:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;nzahl an Spalten:</translation>
     </message>
 </context>
 <context>
@@ -3934,11 +4018,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>File location&amp;s:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei Verzeichni&amp;sse:</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten(&amp;m)...</translation>
     </message>
     <message>
         <source>Merge records</source>
@@ -3946,7 +4030,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alle</translation>
     </message>
     <message>
         <source>Curr&amp;ent record</source>
@@ -4091,11 +4175,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zeichen</translation>
     </message>
     <message>
         <source>Style &amp;based on:</source>
@@ -4192,11 +4276,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zeichen</translation>
     </message>
     <message>
         <source>label_3</source>
@@ -4287,251 +4371,251 @@ use buttons to apply borders</source>
     <name>KxDlgOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeige</translation>
     </message>
     <message>
         <source>Sta&amp;rtup task window</source>
-        <translation type="unfinished"></translation>
+        <translation>Sta&amp;rt Taskfenster</translation>
     </message>
     <message>
         <source>Scree&amp;nTips</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scree&amp;nTips</translation>
     </message>
     <message>
         <source>Fi&amp;eld shading:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">F&amp;eldschattierung:</translation>
     </message>
     <message>
         <source>&amp;Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hervorhebung</translation>
     </message>
     <message>
         <source>&amp;Field codes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Feldfunktionen</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Niemals</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Immer</translation>
     </message>
     <message>
         <source>Boo&amp;kmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesezeichen(&amp;k)</translation>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument Ma&amp;ppe:</translation>
     </message>
     <message>
         <source>Stat&amp;us bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Stat&amp;usleiste</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsichtbar</translation>
     </message>
     <message>
         <source>Formatting marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatierungszeichen</translation>
     </message>
     <message>
         <source>&amp;Tab characters</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tabulator</translation>
     </message>
     <message>
         <source>Paragraph &amp;marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraph(&amp;m)</translation>
     </message>
     <message>
         <source>&amp;Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwi&amp;schenraum</translation>
     </message>
     <message>
         <source>H&amp;idden text</source>
-        <translation type="unfinished"></translation>
+        <translation>Versteckter Text(&amp;i)</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;lle</translation>
     </message>
     <message>
         <source>Print options</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckoptionen</translation>
     </message>
     <message>
         <source>Ob&amp;ject anchors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ob&amp;jekt-Anker</translation>
     </message>
     <message>
         <source>Verti&amp;cal ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikales Lineal(&amp;c)</translation>
     </message>
     <message>
         <source>Te&amp;xt boundaries</source>
-        <translation type="unfinished"></translation>
+        <translation>Te&amp;xtgrenzen</translation>
     </message>
     <message>
         <source>Hide &amp;blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstecke leeres(&amp;b)</translation>
     </message>
     <message>
         <source>Document switch mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenten Wechselmodus</translation>
     </message>
     <message>
         <source>Taskb&amp;ar</source>
-        <translation type="unfinished"></translation>
+        <translation>Taskb&amp;ar</translation>
     </message>
     <message>
         <source>&amp;Document tab</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dokumenten Tab</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Edit options</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen bearbeiten</translation>
     </message>
     <message>
         <source>Use smart para&amp;graph selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwende Smart Para&amp;graph Auswahl</translation>
     </message>
     <message>
         <source>D&amp;rag-and-drop text editing</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;rag-and-Drop Text Bearbeitung</translation>
     </message>
     <message>
         <source>Auto load default language &amp;IME</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch Standartsprache laden &amp;IME</translation>
     </message>
     <message>
         <source>Click and type</source>
-        <translation type="unfinished"></translation>
+        <translation>Klick und Tippen</translation>
     </message>
     <message>
         <source>Enable &amp;click and type</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere Kli&amp;ck und Tippen</translation>
     </message>
     <message>
         <source>Default &amp;paragraph style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart &amp;Paragraphen-Stil:</translation>
     </message>
     <message>
         <source>AutoFormat</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoFormat</translation>
     </message>
     <message>
         <source>&amp;AutoFormat apply lists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;AutoFormat Listen anwenden</translation>
     </message>
     <message>
         <source>A&amp;uto circle number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;uto. Kreis Nummer</translation>
     </message>
     <message>
         <source>AutoCorrect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">AutoKorrekt</translation>
     </message>
     <message>
         <source>Capitalize first letter of &amp;sentences</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sätze mit Großbuchstaben beginnen lassen</translation>
     </message>
     <message>
         <source>Capitalize first letter of the names of the &amp;week</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wochennamen mit Großbuchstaben beginnen lassen</translation>
     </message>
     <message>
         <source>Mark &amp;ordinal numbers as superscripts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Markiere &amp;Ordnungszahlen hochgestellt</translation>
     </message>
     <message>
         <source>&amp;Hyperlink the internet or network address</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlinke Internet- oder Netzwerkadresse (&amp;H)</translation>
     </message>
     <message>
         <source>Correct accidental of caps &amp;lock key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Korrigiere versehentliche Caps&amp;lock Taste</translation>
     </message>
     <message>
         <source>The &amp;beginning of a paragraph applies first line indent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anfang eines A&amp;bsatzes mit Einzug</translation>
     </message>
     <message>
         <source>Auto-adjust the space &amp;format at the end of a line which are aligned right</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrigiere autom. das Abstands&amp;format am ende einer rechtsbündigen Zeile</translation>
     </message>
     <message>
         <source>Cut and paste options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausschneiden und Einfügen Optionen</translation>
     </message>
     <message>
         <source>Show pas&amp;te options buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Einfügen Op&amp;tionen Buttons</translation>
     </message>
     <message>
         <source>&amp;Default paste format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stan&amp;dart Einfügen Format:</translation>
     </message>
     <message>
         <source>With text format</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit Textformat</translation>
     </message>
     <message>
         <source>Matching the current format</source>
-        <translation type="unfinished"></translation>
+        <translation>Passend zum aktuellem Format</translation>
     </message>
     <message>
         <source>Text without format</source>
-        <translation type="unfinished"></translation>
+        <translation>Text ohne Format</translation>
     </message>
     <message>
         <source>General and Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemeines &amp; Speichern</translation>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemeines</translation>
     </message>
     <message>
         <source>Discern &amp;person</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Person erkennen</translation>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ort erkennen (&amp;l)</translation>
     </message>
     <message>
         <source>Bl&amp;ue background, white text</source>
-        <translation type="unfinished"></translation>
+        <translation>Bla&amp;uer Hintergrund, weißer Text</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuletzt benutzte Dateien (&amp;r):</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuletzt verwendete Dokumente</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -4539,47 +4623,47 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Einträge</translation>
     </message>
     <message>
         <source>&amp;Measurement units:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Maßeinheiten:</translation>
     </message>
     <message>
         <source>Use c&amp;haracter units</source>
-        <translation type="unfinished"></translation>
+        <translation>Nutze Zeichenein&amp;heiten:</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoll</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Zentimeter</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Millimeter</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkte</translation>
     </message>
     <message>
         <source>Recover options</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiederherstellungs-Optionen</translation>
     </message>
     <message>
         <source>&amp;Create backup file at the first save</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle Si&amp;cherungsdatei beim ersten Speichern</translation>
     </message>
     <message>
         <source>Save backup f&amp;ile every:</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere S&amp;icherungsdatei alle:</translation>
     </message>
     <message>
         <source>Timing Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup-Zeit</translation>
     </message>
     <message>
         <source>ch</source>
@@ -4591,27 +4675,27 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>mi&amp;nutes</source>
-        <translation type="unfinished"></translation>
+        <translation>mi&amp;nuten</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Save &amp;files as default:</source>
-        <translation type="unfinished"></translation>
+        <translation>Speicher Datei als Standart(&amp;f):</translation>
     </message>
     <message>
         <source>Embed &amp;true type</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;True Type einbetten</translation>
     </message>
     <message>
         <source>&amp;Just embed used chars</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur eingebettete Zeichen nutzen (&amp;j)</translation>
     </message>
     <message>
         <source>&amp;Do not embed normal fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale Schriftarten nicht einbetten (&amp;d)</translation>
     </message>
     <message>
         <source>Web page</source>
@@ -4623,47 +4707,47 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Druck</translation>
     </message>
     <message>
         <source>Printing options</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckoptionen</translation>
     </message>
     <message>
         <source>&amp;Update fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Akt&amp;ualisierende Felder</translation>
     </message>
     <message>
         <source>&amp;Reverse print order</source>
-        <translation type="unfinished"></translation>
+        <translation>Umgekehrte Druck &amp;Reihenfolge</translation>
     </message>
     <message>
         <source>Include with document</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit Dokument einbeziehen</translation>
     </message>
     <message>
         <source>H&amp;idden text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versteckter (&amp;i) Text:</translation>
     </message>
     <message>
         <source>Drawing &amp;objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichne &amp;Objekte</translation>
     </message>
     <message>
         <source>Do not print hidden text</source>
-        <translation type="unfinished"></translation>
+        <translation>Versteckten Text nicht drucken</translation>
     </message>
     <message>
         <source>Print hidden text</source>
-        <translation type="unfinished"></translation>
+        <translation>Versteckten Text drucken</translation>
     </message>
     <message>
         <source>Print space of hidden text</source>
-        <translation type="unfinished"></translation>
+        <translation>Leerraum für versteckten Text drucken</translation>
     </message>
     <message>
         <source>Options for duplex printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionen für Duplex-Drucken</translation>
     </message>
     <message>
         <source>Front of the &amp;sheet</source>
@@ -4675,7 +4759,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished">Änderungen verfolgen</translation>
+        <translation>Änderungen verfolgen</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -4683,47 +4767,47 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Insertions:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">E&amp;infügen:</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Keine)</translation>
     </message>
     <message>
         <source>Color only</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur Farbe</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Fett</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursiv</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstrichen</translation>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelt Unterstrichen</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe(&amp;c):</translation>
     </message>
     <message>
         <source>&amp;Deletions:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Löschungen(&amp;d):</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Versteckt</translation>
     </message>
     <message>
         <source>^</source>
@@ -4735,67 +4819,67 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>C&amp;olor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe(&amp;o):</translation>
     </message>
     <message>
         <source>Ch&amp;anged lines:</source>
-        <translation type="unfinished"></translation>
+        <translation>Be&amp;aarbeitete Linien:</translation>
     </message>
     <message>
         <source>Left border</source>
-        <translation type="unfinished"></translation>
+        <translation>Linker Rand</translation>
     </message>
     <message>
         <source>Right border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechter Rand</translation>
     </message>
     <message>
         <source>Outside border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand außen</translation>
     </message>
     <message>
         <source>Co&amp;lor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe(&amp;l):</translation>
     </message>
     <message>
         <source>Comments colo&amp;r:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentarfa&amp;rbe:</translation>
     </message>
     <message>
         <source>N&amp;umbering color:</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;ummerierungsfarbe:</translation>
     </message>
     <message>
         <source>Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ballons</translation>
     </message>
     <message>
         <source>Use &amp;balloons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ballons benutzen:</translation>
     </message>
     <message>
         <source>Show revisions in balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Version in Ballons</translation>
     </message>
     <message>
         <source>Show all revisions inline</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige alle Versionen im Text</translation>
     </message>
     <message>
         <source>Show reviewer information in the balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Reviewer Information im Ballon</translation>
     </message>
     <message>
         <source>&amp;Margin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand (&amp;m):</translation>
     </message>
     <message>
         <source>Preferred &amp;width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bevorzugte &amp;Weite:</translation>
     </message>
     <message>
         <source>Preferred Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevorzugte Breite</translation>
     </message>
     <message>
         <source>pt, 0, 0, 898.75, 1</source>
@@ -4803,19 +4887,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Show au&amp;thor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Au&amp;tor</translation>
     </message>
     <message>
         <source>Show initials</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Initialien</translation>
     </message>
     <message>
         <source>Show full name</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Namen</translation>
     </message>
     <message>
         <source>Do not show</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht zeigen</translation>
     </message>
     <message>
         <source>&amp;Show lines connecting to text</source>
@@ -4823,23 +4907,23 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Printing (With balloons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Drucken (mit Ballons)</translation>
     </message>
     <message>
         <source>&amp;Paper orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Papier Orientierung:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automatisch</translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Preserve</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewahren</translation>
     </message>
     <message>
         <source>Asian Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>Asiatische Typographie</translation>
     </message>
     <message>
         <source>Kerning</source>
@@ -4887,31 +4971,31 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>File Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei Verzeichnisse</translation>
     </message>
     <message>
         <source>&amp;File types:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Datei Typen:</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis:</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ändern...</translation>
     </message>
     <message>
         <source>User Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer Information</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Name:</translation>
     </message>
     <message>
         <source>&amp;Initials:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Initialien:</translation>
     </message>
     <message>
         <source>&amp;Mailing address:</source>
@@ -4919,43 +5003,39 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicherheit</translation>
     </message>
     <message>
         <source>File encryption options for this document</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei Verschlüsselung für dieses Dokument</translation>
     </message>
     <message>
         <source>You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie können eine höhere Verschlüsselungsart für dieses Dokument nutzen indem Sie ein Passwort festlegen.</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenten Passw&amp;ort:</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>(&amp;A)Erweitert...</translation>
     </message>
     <message>
         <source>Reenter &amp;password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Passwort bestätigen:</translation>
     </message>
     <message>
         <source>File sharing options for this document</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei Freigabe für dieses Dokument</translation>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
-        <translation type="unfinished"></translation>
+        <translation>Password zum &amp;bearbeiten:</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwo&amp;rt bestätigen:</translation>
     </message>
     <message>
         <source>Macro security</source>
@@ -4975,23 +5055,23 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Als PDF exportieren</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished"></translation>
+        <translation>Export Optionen</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation type="unfinished"></translation>
+        <translation>Zusammenfassungs &amp;Information</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lesezeichen</translation>
     </message>
     <message>
         <source>&amp;Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kommentare</translation>
     </message>
     <message>
         <source>Convert titl&amp;e styles to bookmarks</source>
@@ -5015,27 +5095,27 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Zugriffseinstellungen</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished"></translation>
+        <translation>Erlaubnis zum Bearbei&amp;ten</translation>
     </message>
     <message>
         <source>Permission p&amp;rint</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ruck Erlaubnis</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Erlaubnis zum Kopieren</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Drucken verboten</translation>
     </message>
     <message>
         <source>Low quality printing only</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur low-quality Druck</translation>
     </message>
     <message>
         <source>Free print</source>
@@ -5043,11 +5123,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Permit to add co&amp;mments</source>
-        <translation type="unfinished"></translation>
+        <translation>Erlaubnis Ko&amp;mmentare hinzuzufügen</translation>
     </message>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibung</translation>
     </message>
     <message>
         <source>Check s&amp;pelling as you type</source>
@@ -5075,11 +5155,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer&amp;definierte Wörterbücher...</translation>
     </message>
     <message>
         <source>Japanese Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Japanische Suche</translation>
     </message>
     <message>
         <source>Treat as equal</source>
@@ -5143,7 +5223,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorieren</translation>
     </message>
     <message>
         <source>&amp;Punctuation characters</source>
@@ -5187,7 +5267,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Optionen</translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
@@ -5211,7 +5291,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Privacy Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sicherheitsoptionen</translation>
     </message>
     <message>
         <source>Make hidden markup &amp;visible when opening or saving</source>
@@ -5223,18 +5303,26 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Start With</source>
-        <translation type="unfinished"></translation>
+        <translation>Starteigenschaft</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten mit:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
-        <translation type="unfinished"></translation>
+        <translation>Startseite(&amp;g)</translation>
     </message>
     <message>
         <source>&amp;New Document</source>
+        <translation>&amp;Neues Dokument</translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RadioButton</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5262,7 +5350,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -5270,15 +5358,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Innerhalb</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Außerhalb</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -5353,11 +5441,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>&amp;Gutter width:</source>
@@ -5665,11 +5753,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
@@ -5708,7 +5796,7 @@ use buttons to apply borders</source>
     <name>KxDlgParagraph</name>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>&amp;Indents and Spacing</source>
@@ -5724,15 +5812,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -5764,7 +5852,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1584, 1584, 1 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -316.8, 316.8, 0.5</source>
@@ -5860,10 +5948,6 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Multiple, 2, 0.06, 132, 0.5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5980,7 +6064,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>Center</source>
@@ -5992,7 +6076,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -6000,6 +6084,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Tabs...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6023,15 +6111,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -6076,6 +6164,14 @@ use buttons to apply borders</source>
     <message>
         <source>Change All...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-1-0</source>
+        <translation type="unfinished">0-1-0</translation>
+    </message>
+    <message>
+        <source>1-2-1</source>
+        <translation type="unfinished">1-2-1</translation>
     </message>
 </context>
 <context>
@@ -6208,43 +6304,23 @@ use buttons to apply borders</source>
 <context>
     <name>KxDlgProtectDocument</name>
     <message>
-        <source>Document Protection</source>
+        <source>Start Protection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Protect content</source>
+        <source>Protection Password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can track or lock the document to read-only by specifying an unlock password here.</source>
+        <source>The password can be set to null, but a malicious user could delete password and edit documents, recommended fill password.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Track changes</source>
+        <source>&amp;Enter new passowrd(optional):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Form fields</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Select Sections...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;No changes(Read only)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Reenter password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Caution: If you lose or forget the password, it cannot be recovered.(Remember that passwords are case sensitive.)</source>
+        <source>Reenter &amp;password to confirm:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6259,7 +6335,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>In protecting Window, Selected Section has also been Protected. </source>
+        <source>In protecting Window, Selected Section also been Protected. </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6352,15 +6428,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horizontal</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Center</source>
@@ -6368,15 +6444,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Innerhalb</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Außerhalb</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absolute &amp;Position</translation>
     </message>
     <message>
         <source>pt, -2, -1584, 1584, 1</source>
@@ -6384,7 +6460,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ausrichtung</translation>
     </message>
     <message>
         <source>Relati&amp;ve to:</source>
@@ -6392,11 +6468,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rand</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seite</translation>
     </message>
     <message>
         <source>Column</source>
@@ -6404,7 +6480,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vertikal</translation>
     </message>
     <message>
         <source>R&amp;elative to:</source>
@@ -6412,23 +6488,23 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absatz</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absolute Po&amp;sition</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausr&amp;ichtung</translation>
     </message>
     <message>
         <source>Distance from surrounding text</source>
@@ -6456,7 +6532,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>&amp;Move with text</source>
@@ -6503,15 +6579,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 1, -1080, 1080, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1080, 1080, 1 {1,?}</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mittig</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>Text wrapping</source>
@@ -6567,7 +6643,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>Allow row to brea&amp;k across pages</source>
@@ -6620,7 +6696,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -6655,7 +6731,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1538, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt, 2, -1538, 1584, 1 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 0.5</source>
@@ -6671,15 +6747,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mittig</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts</translation>
     </message>
     <message>
         <source>&amp;Decimal</source>
@@ -6826,11 +6902,11 @@ use buttons to apply borders</source>
 <context>
     <name>KxDlgUnProtectDocument</name>
     <message>
-        <source>Remove Protect</source>
+        <source>&amp;Password:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Password:</source>
+        <source>Unprotect Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6996,46 +7072,61 @@ use buttons to apply borders</source>
     </message>
 </context>
 <context>
+    <name>KxExpUserListPanel</name>
+    <message>
+        <source>&amp;Find next region this user can edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show all regions this user can edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove all editing permissions for this user</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bitte tragen Sie das Passwort aus den Rechte-Einstellungen ein!</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Password Bestätigung stimmt nicht überein.</translation>
     </message>
     <message>
         <source>Permissions Password and Document Open Password must be different.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechte-Passwort und Dokumenten-Passwort müssen unterschiedlich sein.</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte geben Sie einen Dateinamen an.</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es existiert bereits ein Ordner mit diesem Namen. </translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der angegebene Ordner existiert nicht.</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben keine Schreibberechtigung in diesem Ordner.</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Adobe PDF Datei speichern unter</translation>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf|All File(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF Datei(*.pdf)|*.pdf|Alle Dateien(*.*)|*.*</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die angebene Datei existiert bereits. Wollen Sie diese Datei überschreiben?</translation>
     </message>
 </context>
 <context>
@@ -7076,6 +7167,10 @@ use buttons to apply borders</source>
         <source>Exporting PDF file is completed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFieldDlg</name>
@@ -7109,7 +7204,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seite</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
@@ -7247,27 +7342,11 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Find All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Find What Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Footnote Mark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;More</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7363,18 +7442,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Writer has finished searching the document and made %1 replacements.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Writer has finished searching the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Writer has finished searching the document. The search item was not found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manual &amp;Line Break</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7411,27 +7478,11 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Boxes in Headers and Footers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Boxes in Main Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The search for &quot;%1&quot; is finished, no items were found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use wildcards</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Main document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7440,6 +7491,205 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Boxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has finished searching the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The search item was not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has finished searching and made %1 replacements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Prefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,Match Prefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,Match Suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Punct</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,Ignore Punct</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,Ignore Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>style:%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Options(&amp;L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[only format]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;clear Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find Para</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace Para</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current &amp;Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Main Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Headers and Footers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Footnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Endnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Text Boxes in Main Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Boxes in Headers and Footers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Highlight All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;clear All Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has find %1 item that fit the condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS can not find item that fit the condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has highlight %1 item. If you want to clear the highlight, please click highlight ALL button, and click clear highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFindStyleDlg</name>
+    <message>
+        <source>No Style</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7522,6 +7772,14 @@ This change will affect all the new documents based on the %1 template.</source>
         <source>Measured value must be between %1 pt and %2 pt</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Not Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFootAndEndnoteDlg</name>
@@ -7547,7 +7805,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -7583,6 +7841,29 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The measurement must be between 1 and 12.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatRestrictionsDlg</name>
+    <message>
+        <source>The Document Used Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Built-in Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The User Defined Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The All Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document may contain formatting or styles that arent&apos;t allowed.Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7827,7 +8108,7 @@ This change will affect all the new documents based on the %1 template.</source>
 </context>
 <context>
     <name>KxMailMergeTableDlg</name>
-    <message id="0">
+    <message>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8121,6 +8402,13 @@ Cancel:	Return to the dialog.</source>
     </message>
 </context>
 <context>
+    <name>KxNewLabelDlg</name>
+    <message>
+        <source>This caption label is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxNewStyleDlg</name>
     <message>
         <source>Style</source>
@@ -8156,15 +8444,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
@@ -8344,47 +8632,39 @@ Cancel:	Return to the dialog.</source>
     <name>KxOptionsDlg</name>
     <message>
         <source>By author</source>
-        <translation type="unfinished"></translation>
+        <translation>Durch Autor</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automatisch</translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente</translation>
     </message>
     <message>
         <source>User templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document Protec&amp;tion...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove &amp;Protection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer Vorlagen</translation>
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Standartverzeichnis für die USB Version kann nicht verändert werden!</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner auswählen:</translation>
     </message>
     <message>
         <source>Kingsoft Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer hat einen Fehler während des Einstellens der Makro Sicherheiten festgestellt. Grund hierfür kann eine fehlende VBA Entwicklungsumgebung sein. Kontaktieren Sie bitte Ihren technischen Support.</translation>
     </message>
     <message>
         <source>The key length of the file encryption must not be longer than 15 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Key Länge der Dateiverschlüsslung darf nicht mehr als 15 Zeichen lang sein.</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Password Bestätigung stimmt nicht überein.</translation>
     </message>
 </context>
 <context>
@@ -8407,7 +8687,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -8450,7 +8730,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
     <message>
         <source>?</source>
@@ -8557,7 +8837,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Innerhalb</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
@@ -8646,12 +8926,8 @@ This change will affect all new documents based on the %1 template.</source>
 <context>
     <name>KxProtectDocumentDlg</name>
     <message>
-        <source>Section </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Password Bestätigung stimmt nicht überein.</translation>
     </message>
 </context>
 <context>
@@ -8883,6 +9159,156 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+    <name>KxTpDocProtection</name>
+    <message>
+        <source>Limit formating to a selection of styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting the document protection type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracked changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filling in forms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groups:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Individuals:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Protection...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document is protected from unintentional editing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight the regions I can edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Next Region I Can Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show All Regions I Can Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Protection...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpDocProtectionWidget</name>
+    <message>
+        <source>Select Sections...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Users...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you make this change in document protection, WPS will ignore all the exceptions in this document.
+
+Do you want to remove the ignored exceptions?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read only, Can prevent the document has been modified. However, you can set the edit region.
+Select the part of the contents in the document, and select the users can edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracked changes, Allows you to modify the document, but modify records will be tracked to show.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments, Only allowed to insert annotations in the document. However, you can set the edit region.
+Select the part of the contents in the document, and select the users can edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filling in forms, Can prevent the document has been modified, only fill in the form field content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may only view this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may edit in this region,but all change will be tracked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may only insert comments into this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may only fill in forms in this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may freely edit in this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may format text only with certain styles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contributors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with full control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with permission to change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpStyeFormat</name>
     <message>
         <source>Drawing Grid</source>
@@ -8942,35 +9368,35 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbruchsart</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Im Textfluss</translation>
     </message>
     <message>
         <source>To&amp;p and bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oben und Unten</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Quadratisch</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hinterm Text</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dich&amp;t</translation>
     </message>
     <message>
         <source>In &amp;front of text</source>
-        <translation type="unfinished"></translation>
+        <translation>Vor dem Text</translation>
     </message>
     <message>
         <source>Horizontal alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale Ausrichtung</translation>
     </message>
     <message>
         <source>rbHorizontalLeft</source>
@@ -8978,7 +9404,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Links</translation>
     </message>
     <message>
         <source>rbHorizontalCenter</source>
@@ -8986,7 +9412,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mittig</translation>
     </message>
     <message>
         <source>rbHorizontalRight</source>
@@ -8994,7 +9420,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts</translation>
     </message>
     <message>
         <source>rbHorizontalOther</source>
@@ -9002,11 +9428,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Andere</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erweitert...</translation>
     </message>
 </context>
 <context>
@@ -9075,6 +9501,65 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsBookFormatDlg</name>
     <message>
         <source>Header and Footer Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsBookmarkPane</name>
+    <message>
+        <source>Document bookmarks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the bookmark position(G)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name(N)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location(L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename(R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whether to delete all bookmarks?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ShowBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HideBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark already exists, please change the name !</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9382,7 +9867,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horizontal</translation>
     </message>
     <message>
         <source>Diagonal</source>
@@ -9390,15 +9875,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zentriert</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -9406,11 +9891,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <source>DO NOT COPY</source>
@@ -9740,43 +10225,43 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile links</translation>
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile Mitte</translation>
     </message>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile rechts</translation>
     </message>
     <message>
         <source>Header inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile innen</translation>
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile außen</translation>
     </message>
     <message>
         <source>Footer left</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile links</translation>
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile Mitte</translation>
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile rechts</translation>
     </message>
     <message>
         <source>Footer inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile innen</translation>
     </message>
     <message>
         <source>Footer outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile außen</translation>
     </message>
 </context>
 <context>
@@ -9799,7 +10284,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Document map</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentenplan</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation>Lesezeichen</translation>
     </message>
 </context>
 <context>
@@ -9810,7 +10299,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="unfinished">Keine Farbe</translation>
+        <translation>Keine Farbe</translation>
     </message>
 </context>
 <context>
@@ -9821,7 +10310,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="unfinished">Keine Farbe</translation>
+        <translation>Keine Farbe</translation>
     </message>
 </context>
 <context>
@@ -9835,7 +10324,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsHFLinkToPreviousCommand</name>
     <message>
         <source>Header and Footer Link to Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopf- und Fußzeile verknüpft mit voriger</translation>
     </message>
 </context>
 <context>
@@ -10039,57 +10528,57 @@ an die Bildgröße anpassen?</translation>
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile links</translation>
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile Mitte</translation>
     </message>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile rechts</translation>
     </message>
     <message>
         <source>Header inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile innen</translation>
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile außen</translation>
     </message>
     <message>
         <source>Footer left</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile links</translation>
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile Mitte</translation>
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile rechts</translation>
     </message>
     <message>
         <source>Footer inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile innen</translation>
     </message>
     <message>
         <source>Footer outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile außen</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageNumStartCommand</name>
     <message>
         <source>Page Number Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitennummer Start</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageOrientationCommand</name>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientierung</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -10100,25 +10589,25 @@ an die Bildgröße anpassen?</translation>
     <name>KxWpsPageOrientationModel</name>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished">Querformat</translation>
+        <translation>Querformat</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished">Hochformat</translation>
+        <translation>Hochformat</translation>
     </message>
 </context>
 <context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenzahl neu beginnen</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSectNavViewItemSeperator</name>
     <message>
         <source>Insert Section Break</source>
-        <translation type="unfinished">Abschnittumbruchl einfügen</translation>
+        <translation>Abschnittumbruchl einfügen</translation>
     </message>
 </context>
 <context>
@@ -10191,10 +10680,6 @@ an die Bildgröße anpassen?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete current page page numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10209,6 +10694,10 @@ an die Bildgröße anpassen?</translation>
     <message>
         <source>Delete all page numbers</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -10290,10 +10779,6 @@ an die Bildgröße anpassen?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page X Of Y</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10324,6 +10809,10 @@ an die Bildgröße anpassen?</translation>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
         <translation type="unfinished">37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -10408,25 +10897,25 @@ an die Bildgröße anpassen?</translation>
     <name>KxWpsStatusPageInfo</name>
     <message>
         <source>Page Num: %1 Page: %2/%3 Section: %4/%5</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitennummer: %1 Seite: %2/%3 Absatz: %4/%5</translation>
     </message>
     <message>
         <source>Page: %1/%2 Section: %3/%4</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite: %1/%2 Absatz: %3/%4</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusPositionInfo</name>
     <message>
         <source>Row: %1 Column: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeile: %1 Spalte: %2</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusWordCountInfo</name>
     <message>
         <source>Words: </source>
-        <translation type="unfinished"></translation>
+        <translation>Wörter: </translation>
     </message>
 </context>
 <context>
@@ -10462,7 +10951,7 @@ an die Bildgröße anpassen?</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="unfinished">Keine Farbe</translation>
+        <translation>Keine Farbe</translation>
     </message>
 </context>
 <context>
@@ -10484,7 +10973,7 @@ an die Bildgröße anpassen?</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horizontal</translation>
     </message>
     <message>
         <source>Rotate All Text 90°</source>
@@ -10554,7 +11043,7 @@ an die Bildgröße anpassen?</translation>
     <name>MultSpinbox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: {1?}</translation>
     </message>
 </context>
 <context>
@@ -10577,7 +11066,7 @@ an die Bildgröße anpassen?</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibung</translation>
     </message>
 </context>
 <context>

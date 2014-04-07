@@ -1,17 +1,56 @@
 #!/bin/bash
 
-set -e 
+SED=sed
+LUPDATE=lupdate-qt4
 
-CODING=../../..
-
-LOCALES=`ls ../*/lang.conf | sed 's#^\.\./\(.*\)/lang.conf#\1#' | grep -v en_US`
-if [ ! -z "$1" -a "$1" != "ALL" ]; then
-	LOCALES=$1
+if [ "`uname`" != "Linux" ]; then
+	SED=gsed
+fi
+if ! which lupdate-qt4; then
+	LUPDATE=lupdate
 fi
 
-PROJS=`cat projs | sed -n 's/#.*$//;s/\[.*\]\s*\(\w*\):.*$/\1/p'`
-if [ ! -z "$2" ]; then
-	PROJS=$2
+set -e
+
+cur_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+while getopts c:p:l:h flag; do
+	case $flag in
+		c)
+			CODING=$OPTARG
+			;;
+		p)
+			PROJS=$OPTARG
+			;;
+		l)
+			LNG=$OPTARG
+			;;
+		h)
+			echo "Usage:"
+			echo "$0 [-c Coding] [-p project] [-l language]"
+			exit 0
+			;;
+		?)
+			exit 1
+			;;
+	esac
+done
+
+if [ -z "$CODING" ] ; then
+	if [ ! -z "$WPS_CODING" ] ; then
+		CODING=$WPS_CODING
+	else
+		CODING=../../..
+	fi
+fi
+
+LOCALES=`ls $cur_dir/../*/lang.conf | ${SED} 's#^\.\./\(.*\)/lang.conf#\1#' | grep -v en_US`
+if [ ! -z "$LNG" -a "$LNG" != "ALL" ]; then
+	LOCALES=$LNG
+fi
+
+if [ -z "$PROJS" ]; then
+	PROJS=`cat $cur_dir/projs | ${SED} -n 's/#.*$//;s/\[.*\]\s*\(\w*\):.*$/\1/p'`
 fi
 
 function kui2ts_update()
@@ -21,16 +60,16 @@ function kui2ts_update()
 		echo "You can find it in Coding/tools/kui2ts, build it first!" >> /dev/stderr
 		exit 1
 	fi
-	sed "s/@prj@/$2/g;s/@locale@/$1/g" > /tmp/kui2ts.ini << EOF
+	${SED} "s/@prj@/$2/g;s/@locale@/$1/g" > /tmp/kui2ts.ini << EOF
 Name=@prj@
 Version=2
 
 [Source]
-Path=../../resource/res
+Path=$CODING/shell2/resource/res
 Files=
 
 [Destination]
-Path=../@locale@/ts
+Path=$cur_dir/../@locale@/ts
 TargetLang=@locale@
 
 [Options]
@@ -46,13 +85,13 @@ for l in $LOCALES
 {
 	for p in $PROJS
 	{
-		TYPE=`sed -n "/$p:/ s/^\[\(.*\)\].*$/\1/p" projs`
-		DIR=`sed -n "/$p:/ s/^.*:\s*\(.*\)$/\1/p" projs`
+		TYPE=`${SED} -n "/$p:/ s/^\[\(.*\)\].*$/\1/p" $cur_dir/projs`
+		DIR=`${SED} -n "/$p:/ s/^.*:\s*\(.*\)$/\1/p" $cur_dir/projs`
 		if [ "$TYPE" == "qt" ]; then
-			lupdate -silent -locations none -target-language $l -recursive $CODING/$DIR -ts ../$l/ts/$p.ts
+			${LUPDATE} -silent -locations none -target-language $l -recursive $CODING/$DIR -ts $cur_dir/../$l/ts/$p.ts
 		elif [ "$TYPE" == "core" ]; then
 			# same as qt, but 
-			lupdate -silent -locations none -target-language $l -recursive $CODING/$DIR -ts ../$l/ts/$p.ts 2>&1 | sed '/lacks Q_OBJECT macro/d' >> /dev/stderr
+			${LUPDATE} -silent -locations none -target-language $l -recursive $CODING/$DIR -ts $cur_dir/../$l/ts/$p.ts 2>&1 | ${SED} '/lacks Q_OBJECT macro/d' >> /dev/stderr
 		elif [ "$TYPE" == "kui" ]; then
 			kui2ts_update $l $DIR
 		elif [ -z "$TYPE" ]; then

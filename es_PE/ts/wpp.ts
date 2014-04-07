@@ -4,98 +4,6 @@
 <context>
     <name>BulletNumberGridWidget</name>
     <message>
-        <source>0</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>7</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>8</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(0)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(4)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(5)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(6)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(7)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(8)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(9)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(10)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
@@ -809,13 +717,6 @@
     </message>
 </context>
 <context>
-    <name>KWppAnimCustomCommand</name>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KWppAnimDlgColorCommand</name>
     <message>
         <source>&amp;More Colors...</source>
@@ -823,6 +724,13 @@
     </message>
     <message>
         <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWppZoomSlider</name>
+    <message id="0">
+        <source>Slide Zoom Fit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1164,15 +1072,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Undo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1435,10 +1343,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1460,6 +1364,10 @@
     </message>
     <message>
         <source>&amp;Page number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1880,6 +1788,14 @@
         <source>Custom &amp;Dictionaries...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -2274,10 +2190,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Next slide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2322,10 +2234,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Browse...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2334,23 +2242,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Object &amp;action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m_clickObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Play sound:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickSoundCombo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2359,26 +2255,6 @@
     </message>
     <message>
         <source>Action on mouse over</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overSoundCombo</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2651,10 +2527,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have no permission to write files into this directory.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2684,6 +2556,10 @@
     </message>
     <message>
         <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2727,6 +2603,10 @@
     </message>
     <message>
         <source>Encountered an error when opening PDF file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3191,10 +3071,6 @@
 <context>
     <name>KxTpSlideTransition</name>
     <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Apply to selected slides:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3250,6 +3126,10 @@
         <source>AutoPreview</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
@@ -3303,10 +3183,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucPositionHorizont</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>pt, 2, -169077, 169077, 1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3315,15 +3191,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucPositionVertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbHorizontalFrom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3336,10 +3204,6 @@
     </message>
     <message>
         <source>F&amp;rom:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbVerticalFrom</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3406,10 +3270,6 @@
     </message>
     <message>
         <source>Sound Files(*.wav)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Second</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3688,10 +3548,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All slides among the rang must be marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Selected slides have marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3701,6 +3557,10 @@
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4188,10 +4048,6 @@
     </message>
     <message>
         <source>Add Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

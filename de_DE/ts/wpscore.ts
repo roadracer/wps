@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>or text box.</source>
-        <translation>Kommentar oder Textfeld nicht erlaubt.</translation>
+        <translation type="obsolete">Kommentar oder Textfeld nicht erlaubt.</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -473,7 +473,7 @@
     </message>
     <message>
         <source>please make sure your printer has been properly installed.</source>
-        <translation>Bitte prüfen Sie, ob Ihr Drucker korrekt installiert ist.</translation>
+        <translation type="obsolete">Bitte prüfen Sie, ob Ihr Drucker korrekt installiert ist.</translation>
     </message>
     <message>
         <source>Emboss</source>
@@ -481,11 +481,11 @@
     </message>
     <message>
         <source>Don&apos;t compress initial punctuation</source>
-        <translation type="obsolete">Erstes Satzzeichen nicht kommprimieren</translation>
+        <translation type="unfinished">Erstes Satzzeichen nicht kommprimieren</translation>
     </message>
     <message>
         <source>%s already exists.\nDo you want to replace it?</source>
-        <translation >%s existiert bereits.\n Möchten Sie dies ersetzen?</translation>
+        <translation type="obsolete">%s existiert bereits.\n Möchten Sie dies ersetzen?</translation>
     </message>
     <message>
         <source>Don&apos;t snap to grid</source>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>Thick-thin medium gap</source>
-        <translation type="obsolete">Thick-thin medium Lücke</translation>
+        <translation type="unfinished">Thick-thin medium Lücke</translation>
     </message>
     <message>
         <source>SpellingCheck: Off</source>
@@ -898,19 +898,19 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Unit: cm</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: cm</translation>
     </message>
     <message>
         <source>Unit: inch</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: inch</translation>
     </message>
     <message>
         <source>Unit: mm</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: mm</translation>
     </message>
     <message>
         <source>Unit: pt </source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: pt</translation>
     </message>
     <message>
         <source>The full-text search is finished, %d results were found. Only the first %d results were selected owing to too many results found.</source>
@@ -918,15 +918,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Font color</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftfarbe</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">Fett</translation>
+        <translation>Fett</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished">Kursiv</translation>
+        <translation>Kursiv</translation>
     </message>
     <message>
         <source>No underline</source>
@@ -1947,10 +1947,6 @@ Type a different name for the document you want to save.
         <source>Graphic objects can not be placed in a text box, label annotations, footnotes or endnotes.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.docx)</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Writer is opening this file.
 Please try one of the following.
@@ -2012,6 +2008,13 @@ Please try one of the following.
         <source>normal.wpt</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks: 
+· VB Project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsshell</name>
@@ -2025,7 +2028,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished">Diagramm</translation>
+        <translation type="obsolete">Diagramm</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -2089,7 +2092,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished">Überschrift</translation>
+        <translation type="obsolete">Überschrift</translation>
     </message>
     <message>
         <source>Find</source>
@@ -3268,24 +3271,12 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Bookmark</source>
-        <translation type="unfinished">Lesezeichen</translation>
+        <translation type="obsolete">Lesezeichen</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished">Fußnote</translation>
-    </message>
-    <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Fußnote</translation>
     </message>
     <message>
         <source>Paragraph number</source>
@@ -3429,6 +3420,50 @@ Please try one of the following.
     </message>
     <message>
         <source>Search Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Überschrift</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Lesezeichen</translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Fußnote</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Diagramm</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Tabelle</translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4665,6 +4700,26 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Format Line Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

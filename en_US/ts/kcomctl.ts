@@ -28,11 +28,11 @@
     </message>
     <message>
         <source>&amp;Fill effects...</source>
-        <translation>&amp;Fill Effects...</translation>
+        <translation type="obsolete">&amp;Fill Effects...</translation>
     </message>
     <message>
         <source>&amp;More Color</source>
-        <translation>&amp;More Colors</translation>
+        <translation type="obsolete">&amp;More Colors</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
@@ -43,11 +43,175 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
+        <source>No Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Color</source>
+        <source>&amp;More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fill Effects...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -66,7 +230,7 @@
     <name>KDocTab</name>
     <message>
         <source>File is uploading...</source>
-        <translation>File is being uploaded...</translation>
+        <translation type="obsolete">File is being uploaded...</translation>
     </message>
 </context>
 <context>
@@ -81,25 +245,6 @@
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Choose Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Choose your language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -139,6 +284,29 @@
     </message>
 </context>
 <context>
+    <name>KMainWindow</name>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
@@ -157,7 +325,7 @@
     </message>
     <message>
         <source>Keep the caps lock open may cause you to input error password.</source>
-        <translation>Keeping the Caps Lock on may cause you to input wrong password.</translation>
+        <translation type="obsolete">Keeping the Caps Lock on may cause you to input wrong password.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -165,6 +333,10 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -195,11 +367,19 @@
     </message>
     <message>
         <source>Fixed To The Listing</source>
-        <translation>Fixed to the Listing</translation>
+        <translation type="obsolete">Fixed to the Listing</translation>
     </message>
     <message>
         <source>Unfixed From The Listing</source>
-        <translation>Unfixed from the Listing</translation>
+        <translation type="obsolete">Unfixed from the Listing</translation>
+    </message>
+    <message>
+        <source>Unfixed from the Listing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fixed to the Listing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -349,7 +529,7 @@ multiple=multiple
     </message>
     <message>
         <source>Delete From The Listing</source>
-        <translation>Delete from the Listing</translation>
+        <translation type="obsolete">Delete from the Listing</translation>
     </message>
     <message>
         <source>NumLock</source>
@@ -377,6 +557,10 @@ multiple=multiple
     </message>
     <message>
         <source>Recent Documents: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from the Listing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

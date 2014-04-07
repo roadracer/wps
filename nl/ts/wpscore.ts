@@ -5,14 +5,14 @@
     <name>comment</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
 </context>
 <context>
     <name>drawing</name>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstvak</translation>
     </message>
 </context>
 <context>
@@ -66,7 +66,7 @@
     <name>field_parser_common</name>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source> </source>
@@ -82,19 +82,19 @@
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Current date</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige datum</translation>
     </message>
     <message>
         <source>Current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige tijd</translation>
     </message>
     <message>
         <source>_Top</source>
@@ -210,19 +210,19 @@
     </message>
     <message>
         <source>Odd Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Oneven pagina</translation>
     </message>
     <message>
         <source>Even Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Even pagina</translation>
     </message>
     <message>
         <source> Header </source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst</translation>
     </message>
     <message>
         <source> Footer </source>
-        <translation type="unfinished"></translation>
+        <translation>Voettekst</translation>
     </message>
     <message>
         <source> - Section %d - </source>
@@ -237,18 +237,18 @@
     <name>pdfexport</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisie</translation>
     </message>
 </context>
 <context>
     <name>renderhost</name>
     <message>
         <source>Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -311,7 +311,7 @@
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstvak</translation>
     </message>
     <message>
         <source>First Line Indent</source>
@@ -449,7 +449,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>ThisDocument</source>
@@ -457,7 +457,7 @@
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Module</source>
@@ -473,7 +473,7 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>None</source>
@@ -585,7 +585,7 @@
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina</translation>
     </message>
     <message>
         <source> of </source>
@@ -593,7 +593,7 @@
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina</translation>
     </message>
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
@@ -694,7 +694,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype</translation>
     </message>
     <message>
         <source>Font color</source>
@@ -710,31 +710,31 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>No underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet onderstrepen</translation>
     </message>
     <message>
         <source>Word underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Woord onderstrepen</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbel onderstrepen</translation>
     </message>
     <message>
         <source>Thick underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Dik onderstrepen</translation>
     </message>
     <message>
         <source>Dotted underline</source>
@@ -838,7 +838,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw</translation>
     </message>
     <message>
         <source>Emboss</source>
@@ -914,11 +914,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Voettekst</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -930,15 +930,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Gecentreerd</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -958,11 +958,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Left </source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Right </source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>First line</source>
@@ -1146,7 +1146,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>Aligned at</source>
@@ -1162,11 +1162,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Breedte</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoogte</translation>
     </message>
     <message>
         <source>Section start</source>
@@ -1178,15 +1178,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>New page</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe pagina</translation>
     </message>
     <message>
         <source>Even page</source>
-        <translation type="unfinished"></translation>
+        <translation>Even pagina</translation>
     </message>
     <message>
         <source>Odd page</source>
-        <translation type="unfinished"></translation>
+        <translation>Oneven pagina</translation>
     </message>
     <message>
         <source>Different first page header and footer</source>
@@ -1442,15 +1442,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>No border</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rand</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Tussen</translation>
     </message>
     <message>
         <source>Box</source>
@@ -1466,7 +1466,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>New column</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe kolom</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -1478,11 +1478,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Right-to-left</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts-naar-links</translation>
     </message>
     <message>
         <source>Left-to-right</source>
-        <translation type="unfinished"></translation>
+        <translation>Links-naar-rechts</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -1490,7 +1490,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkel</translation>
     </message>
     <message>
         <source>Complex Script Font</source>
@@ -1596,11 +1596,11 @@ Do you want to replace it?</source>
     <name>wpscore_persist</name>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjabloon</translation>
     </message>
     <message>
         <source>normal.wpt</source>
@@ -1616,10 +1616,6 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.docx)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1836,6 +1832,13 @@ Type a different name for the document you want to save.
         <source>Graphic objects can not be placed in a text box, label annotations, footnotes or endnotes.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks: 
+· VB Project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsshell</name>
@@ -1845,15 +1848,15 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Address 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 1</translation>
     </message>
     <message>
         <source>Address 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 2</translation>
     </message>
     <message>
         <source>Address 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres 3</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -1861,7 +1864,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Gecentreerd</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -1869,15 +1872,15 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>Error occurs when adding words.</source>
@@ -1889,7 +1892,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele document</translation>
     </message>
     <message>
         <source>Below selected item</source>
@@ -1905,11 +1908,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(geen)</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -1937,19 +1940,19 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Bullet:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsommingsteken:</translation>
     </message>
     <message>
         <source>Business Fax</source>
-        <translation type="unfinished"></translation>
+        <translation>Fax zakelijk</translation>
     </message>
     <message>
         <source>Business Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoon zakelijk</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Cannot check spelling in the Original review.</source>
@@ -1961,7 +1964,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
@@ -1969,7 +1972,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Stad</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -1977,15 +1980,15 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Columns %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen %s</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedrijf</translation>
     </message>
     <message>
         <source>When you convert this drawing object to a frame, some of the drawing object&apos;s formatting may be lost. Do you want to continue?</source>
@@ -1997,7 +2000,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Courtesy Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Beleefdheidstitel</translation>
     </message>
     <message>
         <source>Created Time</source>
@@ -2005,11 +2008,6 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for page setup?
-This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2030,11 +2028,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdeling</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Omschrijving</translation>
     </message>
     <message>
         <source>Incorrect dictionary! Can&apos;t modify!</source>
@@ -2074,7 +2072,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>E-mail Address</source>
@@ -2186,7 +2184,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>First Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Voornaam</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -2210,11 +2208,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Home Fax</source>
-        <translation type="unfinished"></translation>
+        <translation>Fax privé</translation>
     </message>
     <message>
         <source>Home Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoon privé</translation>
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
@@ -2238,7 +2236,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit is geen geldig getal.</translation>
     </message>
     <message>
         <source>You must type a character for the custom separator.</source>
@@ -2254,15 +2252,15 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Job Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Functietitel</translation>
     </message>
     <message>
         <source>Last Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Achternaam</translation>
     </message>
     <message>
         <source>left/right</source>
-        <translation type="unfinished"></translation>
+        <translation>links/rechts</translation>
     </message>
     <message>
         <source>Level</source>
@@ -2362,7 +2360,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>New Bullet...</source>
@@ -2374,11 +2372,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende bladwijzer</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende opmerking</translation>
     </message>
     <message>
         <source>Next Find/GoTo</source>
@@ -2386,11 +2384,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende pagina</translation>
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende sectie</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -2410,7 +2408,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>No Scaling</source>
@@ -2474,11 +2472,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>The password is incorrect!</source>
-        <translation type="unfinished"></translation>
+        <translation>Het wachtwoord is onjuist!</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -2614,11 +2612,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige bladwijzer</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige opmerking</translation>
     </message>
     <message>
         <source>Previous Find/GoTo</source>
@@ -2626,11 +2624,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige pagina</translation>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige sectie</translation>
     </message>
     <message>
         <source>Document protec&amp;tion...</source>
@@ -2646,7 +2644,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document and made %d replacements.</source>
@@ -2738,7 +2736,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -2830,7 +2828,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Underline words</source>
-        <translation type="unfinished"></translation>
+        <translation>Woorden onderstrepen</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
@@ -2925,20 +2923,6 @@ Type a different name for the document you want to save.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for style?
-This change will affect all the new documents based on the %s template.
-
-Yes:	Save to template;
-No:	Do not save to template;
-Cancel:	Return to the dialog.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2992,16 +2976,10 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading1...........................1
-  Heading2.........................3
-    Heading3.......................5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3086,34 +3064,6 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>The search for &quot;%s&quot; is finished, no items were found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Footnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Diagram</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3229,11 +3179,6 @@ Type a different name for the document you want to save.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(none)
-.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Formula:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3243,7 +3188,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Unit: %s</source>
@@ -3251,6 +3196,86 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType</comment>
+        <translation>Tabel</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for page setup?
+
+This change will affect all new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+
+This change will affect all the new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+
+This change will affect all the new documents based on the %s template.
+
+
+Yes:	Save to template;
+
+No:	Do not save to template;
+
+Cancel:	Return to the dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................3
+    Heading3.......................5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(none)
+.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3262,7 +3287,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden(*.*) | *.*; |</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
@@ -3298,7 +3323,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Excel Files(*.xls) | *.xls; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Excel bestanden(*.xls) | *.xls; |</translation>
     </message>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
@@ -3310,7 +3335,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Word Documents(*.doc) | *.doc; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Word documenten(*.doc) | *.doc; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
@@ -3334,7 +3359,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Paradox Files(*.db) | *.db; |</source>
-        <translation type="unfinished"></translation>
+        <translation>Paradox bestanden(*.db) | *.db; |</translation>
     </message>
     <message>
         <source>DBase Files(*.dbf) | *.dbf; |</source>
@@ -3358,19 +3383,19 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw van standaardsjabloon</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Character Shading</source>
@@ -3386,7 +3411,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Kleur</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -3394,11 +3419,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -3438,7 +3463,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsommingstekens</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -3458,7 +3483,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -3518,11 +3543,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum invoegen</translation>
     </message>
     <message>
         <source>Insert Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd invoegen</translation>
     </message>
     <message>
         <source>Switch Header/Footer Link</source>
@@ -3558,11 +3583,11 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Page Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Paginabreedte</translation>
     </message>
     <message>
         <source>Text Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbreedte</translation>
     </message>
     <message>
         <source>Whole Page</source>
@@ -3570,7 +3595,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Twee pagina&apos;s</translation>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
@@ -3698,7 +3723,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool</translation>
     </message>
     <message>
         <source>Data/Time</source>
@@ -3734,7 +3759,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -3798,7 +3823,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Outside Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Buitenste rand</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -3814,15 +3839,15 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Edit Field</source>
@@ -3834,7 +3859,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking bewerken</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -3878,7 +3903,7 @@ Type a different name for the document you want to save.
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram invoegen</translation>
     </message>
     <message>
         <source>To create a link, click the empty text box please.
@@ -4016,7 +4041,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen</translation>
     </message>
     <message>
         <source>Please make a selection first.</source>
@@ -4108,11 +4133,11 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Deleted</source>
@@ -4200,7 +4225,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet-opgemaakte tekst</translation>
     </message>
     <message>
         <source>Text With Format</source>
@@ -4288,7 +4313,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -4300,7 +4325,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmerking</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -4356,7 +4381,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Clean Paragraph Space And Indent</source>
@@ -4384,6 +4409,26 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Format Line Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

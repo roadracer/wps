@@ -6,7 +6,73 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
+        <translation>Spaltenbreite wählen</translation>
+    </message>
+</context>
+<context>
+    <name>Constraint</name>
+    <message>
+        <source>Constraint</source>
+        <translation>Bedingung</translation>
+    </message>
+    <message>
+        <source>C&amp;ell Reference:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Co&amp;nstraint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt;=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DisplayResult</name>
+    <message>
+        <source>Show Trial Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>Fortfahren</translation>
+    </message>
+    <message>
+        <source>&amp;Stop</source>
+        <translation>Stop</translation>
     </message>
 </context>
 <context>
@@ -25,7 +91,7 @@
     </message>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen Sie eine neue Datei, werden die Zelleninhalte dieser Datei gelöscht</translation>
     </message>
     <message>
         <source>Text Label</source>
@@ -106,7 +172,7 @@ condition is true: </source>
     <name>KApplication</name>
     <message>
         <source>Loading Core Module</source>
-        <translation>Lade Kernmodul</translation>
+        <translation type="obsolete">Lade Kernmodul</translation>
     </message>
     <message>
         <source>Loading KUI</source>
@@ -195,14 +261,21 @@ condition is true: </source>
     </message>
     <message>
         <source>&amp;Activate:</source>
-        <translation>&amp;Aktivieren</translation>
+        <translation type="obsolete">&amp;Aktivieren</translation>
+    </message>
+</context>
+<context>
+    <name>KSelectSheetPage</name>
+    <message>
+        <source>&amp;Activate:</source>
+        <translation type="unfinished">&amp;Aktivieren</translation>
     </message>
 </context>
 <context>
     <name>KValuesModel</name>
     <message>
         <source>Blanks</source>
-        <translation type="obsolet">Leerstellen</translation>
+        <translation>Leerstellen</translation>
     </message>
     <message>
         <source>All</source>
@@ -451,6 +524,78 @@ condition is true: </source>
         <source>(Blanks)</source>
         <translation type="unfinished">(Leerstellen)</translation>
     </message>
+    <message>
+        <source>Number filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not contains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by colors</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -476,6 +621,37 @@ condition is true: </source>
     </message>
     <message>
         <source>What you entered is an invalid reference or name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxAddInsDlg</name>
+    <message>
+        <source>Can&apos;t find addins macro &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;, delete it from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddIns Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is exist in the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a invalid addins macro file.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -509,6 +685,25 @@ condition is true: </source>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxAlignmentWidget</name>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtHori_1.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_3.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_4.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_5.png</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -642,6 +837,37 @@ condition is true: </source>
     </message>
 </context>
 <context>
+    <name>KxConstraintDlg</name>
+    <message>
+        <source>The integer constraint cell references must include only the variable cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binary constraint cell references must include only the variable cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraint must be a numeric value, simple reference or with a numerical formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;The cell reference position&apos; and &apos;restraint&apos; in different cell numbers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked &apos;the cell reference position&apos; or its content is invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxControlWidget</name>
     <message>
         <source>Input error, the value must be a Number.</source>
@@ -687,6 +913,10 @@ condition is true: </source>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -804,6 +1034,29 @@ To keep existing picture, click Cancel button.</source>
     </message>
 </context>
 <context>
+    <name>KxDisplayResultDlg</name>
+    <message>
+        <source>The maximum iteration limit was reached; continue anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum time limit was reached; continue anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of integer solutions was reached; continue anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of integer subproblems was reached; continue anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver paused, current solution values displayed on worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgAdcancedFilter</name>
     <message>
         <source>&amp;Criteria range:</source>
@@ -851,6 +1104,25 @@ To keep existing picture, click Cancel button.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgAddIns</name>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add-Ins available:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;utomation...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgAllowUsersToEditRanges</name>
     <message>
         <source>Allow Users to Edit Ranges</source>
@@ -882,6 +1154,14 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>Pr&amp;otect Sheet...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify who may edit the range without a password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Permissions...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1771,7 +2051,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Größe</translation>
     </message>
     <message>
         <source>Size and rotate</source>
@@ -1811,7 +2091,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maßstab</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
@@ -2038,27 +2318,27 @@ printer and your screen.</source>
     <name>KxDlgInsertFunction</name>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktion einfügen</translation>
     </message>
     <message>
         <source>All Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Funktionen</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Suche:</translation>
     </message>
     <message>
         <source>&amp;Goto</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gehe zu</translation>
     </message>
     <message>
         <source>or select a &amp;category:</source>
-        <translation type="unfinished"></translation>
+        <translation>oder Kategorie auswählen (&amp;c):</translation>
     </message>
     <message>
         <source>Select a functio&amp;n:</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktio&amp;n auswählen:</translation>
     </message>
     <message>
         <source>Function Prototype Label</source>
@@ -2220,6 +2500,10 @@ p, li { white-space: pre-wrap; }
         <source>Modify Range</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>P&amp;ermissions...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgOpenSharedWorkbook</name>
@@ -2324,10 +2608,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Manual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Force to recalculate after opening Spreadsheets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2460,10 +2740,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save Backup f&amp;ile every:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Timing Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2850,6 +3126,26 @@ p, li { white-space: pre-wrap; }
         <source>New Doc&amp;ument</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Set decimal symbol to ,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TimingBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -2939,18 +3235,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>4000 dpi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom paper size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>H&amp;eight:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3098,11 +3382,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hearder/Footer</source>
+        <source>(none)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(none)</source>
+        <source>Header/Footer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3229,6 +3513,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Num&amp;ber...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>buttonGroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>buttonGroup_2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3626,7 +3918,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle</translation>
     </message>
     <message>
         <source>Not yet reviewed</source>
@@ -3768,16 +4060,20 @@ prior to sharing the workbook.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Allows multiple users to simultaneously edit, 
-the same time allows workbook merging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Using this &amp;workbook:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Remove User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Export xls...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Allow changes by more than one user at the same time.
+This also allows workbook merging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Who has this &amp;workbook open now:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3938,7 +4234,7 @@ the same time allows workbook merging</source>
         <translation type="unfinished">Abbrechen</translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
+        <source>&amp;Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4428,35 +4724,35 @@ protected.</source>
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zwischen</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nicht zwischen</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">gleich</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nicht gleich</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">größer als</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">kleiner als</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">größer als oder gleich</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">kleiner als oder gleich</translation>
     </message>
     <message>
         <source>&amp;In-cell dropdown</source>
@@ -4662,6 +4958,36 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtAfCellFormatButton</name>
+    <message>
+        <source>NONE</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAutoFilterColorMenu</name>
+    <message>
+        <source>Filter by cell color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by font color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only one color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtAutoFilterList</name>
     <message>
         <source>(All)</source>
@@ -4803,7 +5129,7 @@ protected.</source>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nicht gleich</translation>
     </message>
 </context>
 <context>
@@ -4811,6 +5137,25 @@ protected.</source>
     <message>
         <source>Format AutoShape</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDlgInputBox</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -4863,6 +5208,29 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtInputBoxDlg</name>
+    <message>
+        <source>Number is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical Value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error Value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Array value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtLineColorModel</name>
     <message>
         <source>No Line Color</source>
@@ -4895,6 +5263,13 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtReadingLayoutColorModel</name>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtSheetTabBar</name>
     <message>
         <source>More Sheets...</source>
@@ -4905,11 +5280,46 @@ protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Before Sheet</source>
+        <source>Switch Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtSmartLabelAutoFill</name>
+    <message>
+        <source>auto fill options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bellow Sheet</source>
+        <source>etFillCopy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillFormats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillValues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillSeries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillDays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillWeekdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillMonths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillYears</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5034,10 +5444,6 @@ protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5051,6 +5457,10 @@ protected.</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5094,6 +5504,10 @@ protected.</source>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5546,11 +5960,11 @@ on iteration #%2.</source>
     <name>KxInsertFunctionDlg</name>
     <message>
         <source>Enter the name or the description of the function you want to look for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Namen oder die Beschreibung der gesuchten Funktion ein.</translation>
     </message>
     <message>
         <source>I want to comment function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ich möchte Kommentar-Funktion</translation>
     </message>
     <message>
         <source>Recommend</source>
@@ -5563,6 +5977,10 @@ on iteration #%2.</source>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter a name or description of the function you want to look for.</source>
+        <translation>Geben Sie einen Namen oder eine Beschreibung der gesuchten Funktion ein.</translation>
     </message>
 </context>
 <context>
@@ -5806,6 +6224,10 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <source>The changes to Standard Font and FontSize won&apos;t take effect until you create a new Workbook.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart Kingsoft Spreadsheets.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -5863,10 +6285,6 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6068,17 +6486,17 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Retrieve external data for all page field items (faster perform&apos; +
-            &apos;ance)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Query external data source as you select each page field item (&apos; +
-            &apos;requires less memory)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve external data for all page field items
+ (faster perform&apos; +&apos;ance)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Query external data source as you select each
+ page field item (&apos;+&apos;requires less memory)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6400,6 +6818,119 @@ automatically, and only one row can be kept.
     </message>
 </context>
 <context>
+    <name>KxSolverOptionsDlg</name>
+    <message>
+        <source>Precision must be a small positive number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer Tolerance must be a small positive number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum time must be a positive integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Iterations must be a positive integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convergence must be a small positive number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample Size must be a number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Seed must be a positive integer number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of subproblems must be a positive integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of feasible solution must be a positive integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSolverParaDlg</name>
+    <message>
+        <source>GRG Nonlinear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simplex LP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the GRG Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the LP Simplex engine for linear Solver Problems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective Cell contents must be a formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective Cell must be a single cell on the active sheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variable Cells must be on the active sheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too many Variable Cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset all Solver options and cell selections?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Problem to solve not specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Constraints to change.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSolverResultDlg</name>
+    <message>
+        <source>Lower and upper bounds on variables allow no feasible solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some upper bound on a Variable Cell is smaller than a lower bound on that same Variable Cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxSortDlg</name>
     <message>
         <source>(None)</source>
@@ -6477,7 +7008,7 @@ automatically, and only one row can be kept.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Import Wizard - Step %d of 3</source>
+        <source>Text Import Wizard - Step %1 of 3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6817,7 +7348,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Stil:</translation>
     </message>
     <message>
         <source>0</source>
@@ -7162,36 +7693,8 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Normal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comma</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comma[0]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency[0]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Percent</source>
-        <translation type="unfinished">Prozent</translation>
-    </message>
-    <message>
-        <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Followed Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Prozent</translation>
     </message>
     <message>
         <source>No Number Format</source>
@@ -7367,7 +7870,7 @@ t</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Größe</translation>
     </message>
     <message>
         <source>Font</source>
@@ -7673,7 +8176,7 @@ t</source>
         <source>Gray-95%</source>
         <translation type="unfinished"></translation>
     </message>
-    <message id="0">
+    <message>
         <source>&amp;Minimum:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7787,6 +8290,381 @@ t</source>
     </message>
     <message>
         <source>The file %1 cannot be found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fail to convert %1 to Microsoft Excel 2003 shared workbook.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2003 File (*.xls)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Answer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sensitivity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Solver Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to accept the solution and place the resulting values in the adjustable cells..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Original Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to restore the original values in the adjustable cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creates the type of report that you specify, and places each report on a separate sheet in the workbook.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver found a solution.  All Constraints and optimality conditions are satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When Simplex LP is used, this means Solver has found a global optimal solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum iteration limit was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver has stopped before finding a globally optimal solution. The best found solution, if any, will be given.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Objective Cell values do not converge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver can make the Objective Cell as large (or small when minimizing) as it wants.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver could not find a feasible solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver can not find a point for which all Constraints are satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users require the Solver stops.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The linearity conditions required by this LP Solver are not satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create a linearity report to see where the problem is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The problem is too large for Solver to handle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver is limited to 200 Variable Cells and 100 Constraints, plus bounds on the Variable Cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver encountered an error value in the Objective Cell or a Constraint cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum time limit was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is not enough memory available to solve the problem.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver requires more memory to solve this problem than is available on the machine.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error in model.  Please verify that all cells and Constraints are valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perhaps some cells that are not Variable Cells are marked as Integer or Binary.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum number of feasible solutions was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The workbook is protected,
+and cannot generate reports.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SolverOptions</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AllMethods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraint Precision:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Automatic Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;how Iteration Results</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solving with Integer Constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Igno&amp;re Integer Constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&amp;nteger Optimality(%):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solving Limits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max &amp;Time(Second):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&amp;terations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer Constraints:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Subproblems:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Feasible Solutions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GRG Nonlinear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convergence:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Derivatives</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Vorwärts</translation>
+    </message>
+    <message>
+        <source>Central</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multistart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Multistart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Population Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Seed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Require Bounds on Variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SolverParameters</name>
+    <message>
+        <source>SolverParameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Se&amp;t Objective:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Value Of:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;By Changing Variable Cells:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;ubject to the Constraint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;ResetAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Make Unconstrained Variables Non-Negative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select a Solving M&amp;ethod:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;ptions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solving Method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Briefly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Solve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cl&amp;ose</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SolverResult</name>
+    <message>
+        <source>SolverResults</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Keep Solver Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restore Original Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;eturn to Solver Parameters Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;utline Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveProject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8038,7 +8916,7 @@ t</source>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text Beschreibung</translation>
     </message>
     <message>
         <source>&amp;Step</source>

@@ -3,6 +3,13 @@
 <TS version="2.0" language="zh_CN">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
+    <name>KActiveDialogAtStartup</name>
+    <message>
+        <source>https://vip.wps.cn/openapi/card/activate</source>
+        <translation type="unfinished">https://vip.wps.cn/openapi/card/activate</translation>
+    </message>
+</context>
+<context>
     <name>KBeforeLoginTipWidget</name>
     <message>
         <source>&lt;a href = null&gt;click register&lt;a&gt;</source>
@@ -33,16 +40,145 @@
         <translation type="obsolete">了解更多</translation>
     </message>
     <message>
-        <source>qq login</source>
+        <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sina webo login</source>
+        <source>webHomeLink</source>
+        <translation type="unfinished">网页端</translation>
+    </message>
+    <message>
+        <source>introduce</source>
+        <translation type="unfinished">简介</translation>
+    </message>
+    <message>
+        <source>homepage link of qingbangong</source>
+        <translation type="unfinished">http://qing.wps.cn</translation>
+    </message>
+    <message>
+        <source>help link of qingbangong</source>
+        <translation type="unfinished">http://qing.wps.cn</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileStateItem</name>
+    <message>
+        <source>nologin, check fail</source>
+        <translation type="unfinished">帐号被注销导致检查失败，请重新登录</translation>
+    </message>
+    <message>
+        <source>nologin, upload fail</source>
+        <translation type="unfinished">帐号被注销导致上传失败，请重新登录</translation>
+    </message>
+    <message>
+        <source>file is not belong to current user</source>
+        <translation type="unfinished">文件不属于当前用户，请更换帐号</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileStatePanel</name>
+    <message>
+        <source>window_title</source>
+        <translation type="unfinished">Windows对话框标题</translation>
+    </message>
+    <message>
+        <source>status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>wps password logn</source>
+        <source>qingdizhi</source>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>dir</source>
+        <translation type="unfinished">目录</translation>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished">刷新文档列表</translation>
+    </message>
+    <message>
+        <source>filename</source>
+        <translation type="unfinished">文件名</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation type="unfinished">无</translation>
+    </message>
+    <message>
+        <source>user cancel task</source>
+        <translation type="unfinished">你手动停止了任务</translation>
+    </message>
+    <message>
+        <source>has new version, please check on cloud</source>
+        <translation type="unfinished">云端有新版本，请查看</translation>
+    </message>
+    <message>
+        <source>has new version, please refresh</source>
+        <translation type="unfinished">云端有新版本，请刷新</translation>
+    </message>
+    <message>
+        <source>checking new file version</source>
+        <translation type="unfinished">正在检查云端是否有更新...</translation>
+    </message>
+    <message>
+        <source>uploading to cloud server</source>
+        <translation type="unfinished">正上传到云端...</translation>
+    </message>
+    <message>
+        <source>file has been synced</source>
+        <translation type="unfinished">分钟前已检查，文档与云端一致</translation>
+    </message>
+    <message>
+        <source>sync ok</source>
+        <translation type="unfinished">文档与云端一致</translation>
+    </message>
+    <message>
+        <source>default error message</source>
+        <translation type="unfinished">与服务器连接失败</translation>
+    </message>
+    <message>
+        <source>cloud fileName</source>
+        <translation type="unfinished">云文档</translation>
+    </message>
+    <message>
+        <source>cloud dir</source>
+        <translation type="unfinished">云路径</translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation type="unfinished">查看</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileUpdateView</name>
+    <message>
+        <source>UpdateNewVersionView</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>clickLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>tipLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>some one update document, click refresh.</source>
+        <translation type="unfinished">更新了当前文档，点击刷新可查看更新后的内容。</translation>
+    </message>
+    <message>
+        <source>refresh  cloud document</source>
+        <translation type="unfinished">刷新</translation>
+    </message>
+    <message>
+        <source>some one updated document, click check.</source>
+        <translation type="unfinished">更新了当前文档，点击查看去云端查看更新的内容。</translation>
+    </message>
+    <message>
+        <source>check cloud document</source>
+        <translation type="unfinished">查看</translation>
     </message>
 </context>
 <context>
@@ -178,6 +314,13 @@
     </message>
 </context>
 <context>
+    <name>KCreateCloudLinkDlg</name>
+    <message>
+        <source>Sure you want to cancel the emission qing address?</source>
+        <translation type="unfinished">确定要取消生成轻地址吗？</translation>
+    </message>
+</context>
+<context>
     <name>KFileActionManager</name>
     <message>
         <source>The follow path no exist.</source>
@@ -266,7 +409,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>%1 already exists, are you sure you want to replace it?</source>
-        <translation>%1已存在。
+        <translation type="obsolete">%1已存在。
 要替换它吗？</translation>
     </message>
     <message>
@@ -452,7 +595,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File name error, please enter a correct file name format.</source>
-        <translation>文件名错误，请输入正确格式的文件名。</translation>
+        <translation type="obsolete">文件名错误，请输入正确格式的文件名。</translation>
     </message>
     <message>
         <source>FileName</source>
@@ -648,16 +791,38 @@ or the file path character number longer than 255 </source>
         <translation type="obsolete">查看（&amp;V）</translation>
     </message>
     <message>
-        <source>Please save groupfile in group.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File name too long, please enter a name smaller than %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件名太长，请输入长度小于 %1的文件名称。</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">圈子</translation>
+    </message>
+    <message>
+        <source>help</source>
+        <translation type="unfinished">帮助</translation>
+    </message>
+    <message>
+        <source>File %1 is not existence .</source>
+        <translation type="unfinished">%1找不到文件。
+请检查文件名是否正确，然后重试。</translation>
+    </message>
+    <message>
+        <source>File name error, please enter a correct format file name.</source>
+        <translation type="unfinished">文件名错误，请输入正确格式的文件名。</translation>
+    </message>
+    <message>
+        <source>%1 already exists, Sure you want to replace it?</source>
+        <translation type="unfinished">%1已存在。
+要替换它吗？</translation>
+    </message>
+    <message>
+        <source>New Save error, you could replace save in current view only.</source>
+        <translation type="unfinished">新建保存错误，您只能在当前视图中执行替换操作。</translation>
+    </message>
+    <message>
+        <source>Get Files Error!</source>
+        <translation type="unfinished">无法获取文件列表，请检查网络连接后重试</translation>
     </message>
 </context>
 <context>
@@ -683,6 +848,29 @@ or the file path character number longer than 255 </source>
     <message>
         <source>KOS_personal_Logout tip</source>
         <translation type="obsolete">查看个人资料，</translation>
+    </message>
+</context>
+<context>
+    <name>KOpenCloudLinkOKTip</name>
+    <message>
+        <source>看不见的标题</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;open_ok_tip_1&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;open_ok_tip_2&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;轻地址已成功打开，编辑后可直接保存至云端&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;推荐您下次直接从轻办公的“轻地址”中打开&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>i_know_and_never_show_again</source>
+        <translation type="unfinished">我知道了，下次不再提示</translation>
     </message>
 </context>
 <context>
@@ -725,18 +913,75 @@ or the file path character number longer than 255 </source>
     </message>
 </context>
 <context>
+    <name>KSendCloudLinkOKTip</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;send_ok_tip_1&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;send_ok_tip_2&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;恭喜，您成功生成了一个轻地址&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;该轻地址已经保存到您的轻办公中&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>never_show_again</source>
+        <translation type="unfinished">下次不再提示</translation>
+    </message>
+    <message>
+        <source>check_my_cloudlink</source>
+        <translation type="unfinished">查看我的轻地址</translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckUploadDlg</name>
+    <message>
+        <source>commit error, please retry</source>
+        <translation type="unfinished">文档保存到云端失败，请检查网络状态后重试</translation>
+    </message>
+    <message>
+        <source>commit ok, will uploading at background</source>
+        <translation type="unfinished">检查成功，将在后台为您上传</translation>
+    </message>
+    <message>
+        <source>Checking upload, Please wait..</source>
+        <translation type="unfinished">正在检查云端保存权限，请稍候...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckUpload</name>
+    <message>
+        <source>Committing</source>
+        <translation type="unfinished">提交检查</translation>
+    </message>
+    <message>
+        <source>Checking upload, Please wait..</source>
+        <translation type="unfinished">正在检查云端保存权限，请稍候...</translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation type="unfinished">重试</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">取消(&amp;C)</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgNewFolder</name>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新建文件夹</translation>
     </message>
     <message>
         <source>&amp;Input new FolderName:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请输入新的名称(&amp;I):</translation>
     </message>
     <message>
         <source>Newing Folder, Please wait..</source>
@@ -748,7 +993,7 @@ or the file path character number longer than 255 </source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -852,17 +1097,42 @@ or the file path character number longer than 255 </source>
     <message>
         <source>Group</source>
         <comment>Group tab in filedialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">圈子</translation>
     </message>
     <message>
-        <source>Group</source>
-        <comment>Match Windows Explorer</comment>
-        <translation type="unfinished"></translation>
+        <source>Private Space</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished">私人空间</translation>
+    </message>
+    <message>
+        <source>Qing Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished">轻地址</translation>
+    </message>
+    <message>
+        <source>Send Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished">发送地址</translation>
+    </message>
+    <message>
+        <source>Receive Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished">接收地址</translation>
+    </message>
+    <message>
+        <source>My Group</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished">我的圈子</translation>
+    </message>
+    <message>
+        <source>Normal Group</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished">圈子</translation>
     </message>
     <message>
         <source>Group Folder</source>
-        <comment>Match Windows Explorer</comment>
-        <translation type="unfinished"></translation>
+        <comment>FolderType</comment>
+        <translation type="unfinished">文件夹</translation>
     </message>
 </context>
 <context>
@@ -1001,14 +1271,10 @@ or the file path character number longer than 255 </source>
     </message>
 </context>
 <context>
-    <name>KxTpOfficeSpaceBaseWidget</name>
+    <name>KxTpCloudLinkWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>about:blank</source>
-        <translation type="unfinished"></translation>
+        <source>sending cloudlink failed</source>
+        <translation type="unfinished">发射轻地址失败，请检查网络</translation>
     </message>
 </context>
 <context>
@@ -1079,12 +1345,27 @@ Are you make sure to change?</source>
         <source>rename</source>
         <translation type="obsolete">重命名</translation>
     </message>
+    <message>
+        <source>qingbangong</source>
+        <translation type="unfinished">轻办公</translation>
+    </message>
 </context>
 <context>
     <name>kGuidBubble</name>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSHireCommand</name>
+    <message>
+        <source>Authorization update</source>
+        <translation type="unfinished">授权更新</translation>
+    </message>
+    <message>
+        <source>Business authorization</source>
+        <translation type="unfinished">商业授权</translation>
     </message>
 </context>
 <context>

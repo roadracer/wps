@@ -9,6 +9,72 @@
     </message>
 </context>
 <context>
+    <name>Constraint</name>
+    <message>
+        <source>Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ell Reference:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Co&amp;nstraint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt;=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Adicionar</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DisplayResult</name>
+    <message>
+        <source>Show Trial Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ExitEditOpenFile</name>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
@@ -178,7 +244,14 @@ condition is true: </source>
     </message>
     <message>
         <source>&amp;Activate:</source>
-        <translation>&amp;Ativar:</translation>
+        <translation type="obsolete">&amp;Ativar:</translation>
+    </message>
+</context>
+<context>
+    <name>KSelectSheetPage</name>
+    <message>
+        <source>&amp;Activate:</source>
+        <translation type="unfinished">&amp;Ativar:</translation>
     </message>
 </context>
 <context>
@@ -434,6 +507,78 @@ condition is true: </source>
         <source>(Blanks)</source>
         <translation>(Em branco)</translation>
     </message>
+    <message>
+        <source>Number filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not contains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by colors</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -460,6 +605,37 @@ condition is true: </source>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
         <translation>Esse comando não pode ser usado em uma planilha protegida.</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddInsDlg</name>
+    <message>
+        <source>Can&apos;t find addins macro &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;, delete it from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddIns Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation type="unfinished">Navegar</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is exist in the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a invalid addins macro file.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -493,6 +669,25 @@ condition is true: </source>
     <message>
         <source>Value should be between %1 and %2.</source>
         <translation>Valor deve estar entre %1 e %2.</translation>
+    </message>
+</context>
+<context>
+    <name>KxAlignmentWidget</name>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtHori_1.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_3.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_4.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_5.png</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -618,6 +813,37 @@ condition is true: </source>
     </message>
 </context>
 <context>
+    <name>KxConstraintDlg</name>
+    <message>
+        <source>The integer constraint cell references must include only the variable cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binary constraint cell references must include only the variable cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraint must be a numeric value, simple reference or with a numerical formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos;The cell reference position&apos; and &apos;restraint&apos; in different cell numbers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked &apos;the cell reference position&apos; or its content is invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxControlWidget</name>
     <message>
         <source>Input error, the value must be a Number.</source>
@@ -667,6 +893,10 @@ condition is true: </source>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <translation>Você não pode criar uma Tabela Pivô com estes dados. Por favor, verifique seus dados e se certifique que a referência é válida e que a planilha de trabalho existe.</translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -786,6 +1016,29 @@ Para manter a figura existente, clique no botão Cancelar.</translation>
     </message>
 </context>
 <context>
+    <name>KxDisplayResultDlg</name>
+    <message>
+        <source>The maximum iteration limit was reached; continue anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum time limit was reached; continue anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of integer solutions was reached; continue anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of integer subproblems was reached; continue anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver paused, current solution values displayed on worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgAdcancedFilter</name>
     <message>
         <source>Advanced Filter</source>
@@ -833,6 +1086,25 @@ Para manter a figura existente, clique no botão Cancelar.</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgAddIns</name>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add-Ins available:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">&amp;Navegar...</translation>
+    </message>
+    <message>
+        <source>A&amp;utomation...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgAllowUsersToEditRanges</name>
     <message>
         <source>Allow Users to Edit Ranges</source>
@@ -865,6 +1137,14 @@ Para manter a figura existente, clique no botão Cancelar.</translation>
     <message>
         <source>Pr&amp;otect Sheet...</source>
         <translation>&amp;Proteger planilha...</translation>
+    </message>
+    <message>
+        <source>Specify who may edit the range without a password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Permissions...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2000,11 +2280,11 @@ impressora e na sua tela.</translation>
     </message>
     <message>
         <source>Entire &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Linha inteira</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Coluna inteira</translation>
     </message>
 </context>
 <context>
@@ -2034,7 +2314,7 @@ impressora e na sua tela.</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Localizar:</translation>
     </message>
     <message>
         <source>&amp;Goto</source>
@@ -2129,7 +2409,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visualizar</translation>
     </message>
 </context>
 <context>
@@ -2206,6 +2486,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Modify Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ermissions...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2312,10 +2596,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Manual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Force to recalculate after opening Spreadsheets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2451,10 +2731,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timing Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>character</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2484,71 +2760,71 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">48</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">72</translation>
     </message>
     <message>
         <source>&amp;Default file location:</source>
@@ -2616,7 +2892,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Adicionar</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -2640,7 +2916,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Modificar...</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -2736,11 +3012,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nome</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Padrão</translation>
     </message>
     <message>
         <source>Folder(Double click to open folder)</source>
@@ -2752,7 +3028,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Novo...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -2776,7 +3052,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;dicionar</translation>
     </message>
     <message>
         <source>Words &amp;in current dictionary:</source>
@@ -2838,6 +3114,26 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Warn me when closing all tabs</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Set decimal symbol to ,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TimingBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -2847,7 +3143,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Página</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -2926,16 +3222,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom paper size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">La&amp;rgura:</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">A&amp;ltura:</translation>
     </message>
     <message>
         <source>Fi&amp;rst page number:</source>
@@ -2947,7 +3239,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Topo:</translation>
     </message>
     <message>
         <source>He&amp;ader:</source>
@@ -2959,11 +3251,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Direita:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Base:</translation>
     </message>
     <message>
         <source>&amp;Footer:</source>
@@ -2983,10 +3275,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hearder/Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3019,7 +3307,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Planilha</translation>
     </message>
     <message>
         <source>Print &amp;area:</source>
@@ -3091,6 +3379,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Print...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header/Footer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3219,6 +3511,14 @@ p, li { white-space: pre-wrap; }
         <source>Num&amp;ber...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>buttonGroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>buttonGroup_2</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -3228,7 +3528,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nome:</translation>
     </message>
     <message>
         <source>&amp;Grand totals for columns</source>
@@ -3295,7 +3595,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Tudo</translation>
     </message>
     <message>
         <source>Pa&amp;ges</source>
@@ -3548,7 +3848,7 @@ prior to sharing the workbook.</source>
     <name>KxDlgRepeatWord</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diálogo</translation>
     </message>
     <message>
         <source>It compares the contents by rows after click OK.</source>
@@ -3587,7 +3887,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -3614,7 +3914,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tudo</translation>
     </message>
     <message>
         <source>Not yet reviewed</source>
@@ -3660,11 +3960,11 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Linhas</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Colunas</translation>
     </message>
     <message>
         <source>&amp;Trend</source>
@@ -3716,7 +4016,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>St&amp;op value:</source>
@@ -3756,16 +4056,20 @@ prior to sharing the workbook.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Allows multiple users to simultaneously edit, 
-the same time allows workbook merging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Using this &amp;workbook:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Remove User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Export xls...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Allow changes by more than one user at the same time.
+This also allows workbook merging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Who has this &amp;workbook open now:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3918,15 +4222,15 @@ the same time allows workbook merging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Undo Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3970,19 +4274,19 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Modificar...</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Adicionar</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -4005,47 +4309,47 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soma</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contagem</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Média</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Máximo</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mínimo</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Produto</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contagem de números</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">StdDev</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">StdDevp</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Var</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varp</translation>
     </message>
     <message>
         <source>A&amp;dd subtotal to:</source>
@@ -4249,7 +4553,7 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
@@ -4311,11 +4615,11 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Linhas</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Colunas</translation>
     </message>
 </context>
 <context>
@@ -4392,11 +4696,11 @@ protected.</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Data</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hora</translation>
     </message>
     <message>
         <source>Text length</source>
@@ -4416,35 +4720,35 @@ protected.</source>
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">entre</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">não entre</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">igual a</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">não igual a</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">maior que</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">menor que</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">maior ou igual a</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">menor ou igual a</translation>
     </message>
     <message>
         <source>&amp;In-cell dropdown</source>
@@ -4539,7 +4843,7 @@ protected.</source>
     </message>
     <message>
         <source>20&amp;0%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">20&amp;0%</translation>
     </message>
     <message>
         <source>&amp;100%</source>
@@ -4639,7 +4943,7 @@ protected.</source>
     <name>KxEt3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
 </context>
 <context>
@@ -4650,17 +4954,47 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtAfCellFormatButton</name>
+    <message>
+        <source>NONE</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAutoFilterColorMenu</name>
+    <message>
+        <source>Filter by cell color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by font color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only one color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtBorderLineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
 </context>
 <context>
     <name>KxEtBorderWidget</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
 </context>
 <context>
@@ -4692,7 +5026,7 @@ protected.</source>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">não igual a</translation>
     </message>
     <message>
         <source>is greater than</source>
@@ -4763,17 +5097,36 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtDlgInputBox</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Diálogo</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
 </context>
 <context>
     <name>KxEtFormatShapeDlg</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fonte</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -4785,7 +5138,7 @@ protected.</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Figura</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -4808,6 +5161,29 @@ protected.</source>
     <name>KxEtFormulaBar</name>
     <message>
         <source>Formula Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtInputBoxDlg</name>
+    <message>
+        <source>Number is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical Value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error Value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Array value is not valid</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4844,6 +5220,13 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtReadingLayoutColorModel</name>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Padrão</translation>
+    </message>
+</context>
+<context>
     <name>KxEtSheetTabBar</name>
     <message>
         <source>More Sheets...</source>
@@ -4854,11 +5237,46 @@ protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Before Sheet</source>
+        <source>Switch Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtSmartLabelAutoFill</name>
+    <message>
+        <source>auto fill options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bellow Sheet</source>
+        <source>etFillCopy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillFormats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillValues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillSeries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillDays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillWeekdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillMonths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillYears</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4949,16 +5367,12 @@ protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha de confirmação não é idêntica.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting!</source>
@@ -4966,6 +5380,10 @@ protected.</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5005,10 +5423,14 @@ protected.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fechar</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5028,7 +5450,7 @@ protected.</source>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Opções&lt;&lt;</translation>
     </message>
     <message>
         <source>Please input the data you&apos;re searching for.</source>
@@ -5076,27 +5498,27 @@ protected.</source>
     </message>
     <message>
         <source>Smart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inteligente</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fórmulas</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valores</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comentários</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Localizar &amp;proximo</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Encontrar</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -5104,7 +5526,7 @@ protected.</source>
     </message>
     <message>
         <source>&amp;Go to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ir para</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -5132,7 +5554,8 @@ font will be used for printing.</source>
     <message>
         <source>This is a TrueType font. The same font will be used on both your 
 printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esta é uma fonte TrueType. A mesma fonte será usada na sua
+impressora e na sua tela.</translation>
     </message>
     <message>
         <source>The font is designed for use with a plotter.</source>
@@ -5155,19 +5578,19 @@ printer and your screen.</source>
     <name>KxFontWidget</name>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Regular</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Itálico</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Negrito</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Negrito itálico</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -5183,7 +5606,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
@@ -5214,7 +5637,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fonte</translation>
     </message>
     <message>
         <source>Border</source>
@@ -5233,19 +5656,19 @@ printer and your screen.</source>
     <name>KxFormatCellsFontWidget</name>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Regular</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Itálico</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Negrito</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Negrito itálico</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -5261,7 +5684,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
@@ -5284,7 +5707,7 @@ printer and your screen.</source>
     <name>KxFormatGraphicDlg</name>
     <message>
         <source>Value should be between %1 %3 and %2 %3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor deve estar entre %1 e %2. {1 %3 ?} {2 %3.?}</translation>
     </message>
     <message>
         <source>pt</source>
@@ -5326,7 +5749,7 @@ printer and your screen.</source>
     <name>KxGoalSeekDlg</name>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A referência não é válida.</translation>
     </message>
     <message>
         <source>Cell must contain a formula.</source>
@@ -5400,7 +5823,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A referência não é válida.</translation>
     </message>
 </context>
 <context>
@@ -5438,7 +5861,7 @@ on iteration #%2.</source>
     <name>KxImportDataDlg</name>
     <message>
         <source>Invalid reference.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Referência inválida.</translation>
     </message>
     <message>
         <source>The range is not in active sheet, ET can not import the data.</source>
@@ -5446,7 +5869,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>What you entered is an invalid reference or name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O que você inseriu é uma referência ou nome inválidos.</translation>
     </message>
 </context>
 <context>
@@ -5457,7 +5880,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>I want to comment function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eu quero comentar função</translation>
     </message>
     <message>
         <source>Recommend</source>
@@ -5469,6 +5892,10 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter a name or description of the function you want to look for.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5525,7 +5952,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha de confirmação não é idêntica.</translation>
     </message>
     <message>
         <source>A range with this title &quot;%1&quot; has already exists. Please enter a new title for the range.</source>
@@ -5603,7 +6030,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -5713,12 +6140,16 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <source>The changes to Standard Font and FontSize won&apos;t take effect until you create a new Workbook.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart Kingsoft Spreadsheets.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -5734,7 +6165,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visualizar</translation>
     </message>
     <message>
         <source>Page &amp;P</source>
@@ -5754,31 +6185,27 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arquivo</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Página</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Páginas</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Data</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hora</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Figura</translation>
     </message>
     <message>
         <source>&amp;[Picture]</source>
@@ -5818,18 +6245,18 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A medida deve estar entre %1 e %2.</translation>
     </message>
 </context>
 <context>
     <name>KxPatternsWidget</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nenhum</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5975,17 +6402,17 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Retrieve external data for all page field items (faster perform&apos; +
-            &apos;ance)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Query external data source as you select each page field item (&apos; +
-            &apos;requires less memory)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve external data for all page field items
+ (faster perform&apos; +&apos;ance)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Query external data source as you select each
+ page field item (&apos;+&apos;requires less memory)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5997,47 +6424,47 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soma</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contagem</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Média</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Máximo</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mínimo</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Produto</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contagem de números</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">StdDev</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">StdDevp</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Var</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varp</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
@@ -6073,7 +6500,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -6089,7 +6516,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fechar</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -6100,21 +6527,21 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxProtectAndShareWorkbookDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha de confirmação não é idêntica.</translation>
     </message>
 </context>
 <context>
     <name>KxProtectBookDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha de confirmação não é idêntica.</translation>
     </message>
 </context>
 <context>
     <name>KxProtectSheetDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha de confirmação não é idêntica.</translation>
     </message>
 </context>
 <context>
@@ -6140,7 +6567,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Limpar</translation>
     </message>
     <message>
         <source>Criteria</source>
@@ -6307,6 +6734,119 @@ automatically, and only one row can be kept.
     </message>
 </context>
 <context>
+    <name>KxSolverOptionsDlg</name>
+    <message>
+        <source>Precision must be a small positive number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer Tolerance must be a small positive number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum time must be a positive integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Iterations must be a positive integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convergence must be a small positive number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample Size must be a number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Seed must be a positive integer number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of subproblems must be a positive integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of feasible solution must be a positive integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSolverParaDlg</name>
+    <message>
+        <source>GRG Nonlinear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simplex LP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the GRG Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the LP Simplex engine for linear Solver Problems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective Cell contents must be a formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Objective Cell must be a single cell on the active sheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variable Cells must be on the active sheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too many Variable Cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset all Solver options and cell selections?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Problem to solve not specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Constraints to change.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSolverResultDlg</name>
+    <message>
+        <source>Lower and upper bounds on variables allow no feasible solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some upper bound on a Variable Cell is smaller than a lower bound on that same Variable Cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxSortDlg</name>
     <message>
         <source>(None)</source>
@@ -6384,7 +6924,7 @@ automatically, and only one row can be kept.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Import Wizard - Step %d of 3</source>
+        <source>Text Import Wizard - Step %1 of 3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6506,7 +7046,7 @@ automatically, and only one row can be kept.
     <name>KxValidNameDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>OK to All</source>
@@ -6582,7 +7122,7 @@ t</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preencher</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -6724,39 +7264,39 @@ t</source>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Estilo:</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Cor:</translation>
     </message>
     <message>
         <source>Border</source>
@@ -6779,27 +7319,27 @@ t</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Fonte:</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estilo de f&amp;onte:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Tamanho:</translation>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Sublinhado:</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nenhum</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Único</translation>
     </message>
     <message>
         <source>Double</source>
@@ -6807,27 +7347,27 @@ t</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Cor:</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Efeitos</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Riscado</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Super&amp;escrito</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">So&amp;bescrito</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visualizar</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
@@ -6862,11 +7402,11 @@ t</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Data</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hora</translation>
     </message>
     <message>
         <source>Percentage</source>
@@ -6922,23 +7462,23 @@ t</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5</translation>
     </message>
     <message>
         <source>&amp;Type:</source>
@@ -7007,34 +7547,34 @@ t</source>
     </message>
     <message>
         <source>200</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">200</translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">100</translation>
     </message>
     <message>
         <source>75</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">75</translation>
     </message>
     <message>
         <source>50</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">50</translation>
     </message>
     <message>
         <source>25</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">25</translation>
     </message>
     <message>
         <source>400</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">400</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nenhum</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot complete this task with available resources. Choose less data or close other applications.</source>
@@ -7046,38 +7586,6 @@ t</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comma</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comma[0]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency[0]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Percent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Followed Hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7190,7 +7698,7 @@ t</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preencher</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -7230,7 +7738,7 @@ t</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Único</translation>
     </message>
     <message>
         <source>Double Accounting</source>
@@ -7246,19 +7754,19 @@ t</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Itálico</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Negrito</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tamanho</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fonte</translation>
     </message>
     <message>
         <source>No Borders</source>
@@ -7560,7 +8068,7 @@ t</source>
         <source>Gray-95%</source>
         <translation type="unfinished"></translation>
     </message>
-    <message id="0">
+    <message>
         <source>&amp;Minimum:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7696,6 +8204,381 @@ t</source>
         <source>Forward</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fail to convert %1 to Microsoft Excel 2003 shared workbook.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2003 File (*.xls)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Answer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sensitivity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Solver Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to accept the solution and place the resulting values in the adjustable cells..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Original Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to restore the original values in the adjustable cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creates the type of report that you specify, and places each report on a separate sheet in the workbook.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver found a solution.  All Constraints and optimality conditions are satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When Simplex LP is used, this means Solver has found a global optimal solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum iteration limit was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver has stopped before finding a globally optimal solution. The best found solution, if any, will be given.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Objective Cell values do not converge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver can make the Objective Cell as large (or small when minimizing) as it wants.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver could not find a feasible solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver can not find a point for which all Constraints are satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users require the Solver stops.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The linearity conditions required by this LP Solver are not satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create a linearity report to see where the problem is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The problem is too large for Solver to handle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver is limited to 200 Variable Cells and 100 Constraints, plus bounds on the Variable Cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver encountered an error value in the Objective Cell or a Constraint cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum time limit was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is not enough memory available to solve the problem.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver requires more memory to solve this problem than is available on the machine.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error in model.  Please verify that all cells and Constraints are valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perhaps some cells that are not Variable Cells are marked as Integer or Binary.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum number of feasible solutions was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The workbook is protected,
+and cannot generate reports.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SolverOptions</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AllMethods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Constraint Precision:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Automatic Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;how Iteration Results</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solving with Integer Constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Igno&amp;re Integer Constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&amp;nteger Optimality(%):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solving Limits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max &amp;Time(Second):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I&amp;terations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer Constraints:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Subproblems:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Feasible Solutions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GRG Nonlinear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convergence:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Derivatives</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Central</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multistart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Multistart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Population Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Seed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Require Bounds on Variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SolverParameters</name>
+    <message>
+        <source>SolverParameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Se&amp;t Objective:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mi&amp;n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Value Of:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;By Changing Variable Cells:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;ubject to the Constraint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Adicionar</translation>
+    </message>
+    <message>
+        <source>&amp;Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;ResetAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Make Unconstrained Variables Non-Negative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select a Solving M&amp;ethod:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;ptions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solving Method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Briefly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Solve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cl&amp;ose</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SolverResult</name>
+    <message>
+        <source>SolverResults</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Keep Solver Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restore Original Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;eturn to Solver Parameters Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;utline Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveProject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TableWidgetHeaderChange</name>
@@ -7756,7 +8639,7 @@ t</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -7879,7 +8762,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Referência:</translation>
     </message>
     <message>
         <source>E&amp;valuation:</source>
@@ -7933,7 +8816,7 @@ t</source>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rótulo de texto</translation>
     </message>
     <message>
         <source>Current value:</source>
@@ -7968,7 +8851,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Navegar...</translation>
     </message>
     <message>
         <source>Export range</source>
@@ -8083,7 +8966,7 @@ t</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -8181,7 +9064,7 @@ Document</source>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valores</translation>
     </message>
     <message>
         <source>&amp;UnChecked</source>
@@ -8233,7 +9116,7 @@ Document</source>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
         <source>&amp;Min</source>
@@ -8272,15 +9155,15 @@ Document</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Topo:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Direita:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Base:</translation>
     </message>
     <message>
         <source>(Unit: Centimeters)</source>
@@ -8326,11 +9209,11 @@ Document</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -8414,7 +9297,7 @@ Document</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -8426,7 +9309,7 @@ Document</source>
     <message>
         <source>The file you are opening changes the option of Automatic Recalculation to Manual Recalculation, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual Recalculation?</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Manual Recalculation</source>
@@ -8434,7 +9317,7 @@ Do you want to change to Manual Recalculation?</source>
     </message>
     <message>
         <source>Automatic Recalculation (Recommend)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 </TS>

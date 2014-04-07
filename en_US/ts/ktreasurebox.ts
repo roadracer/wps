@@ -10,19 +10,35 @@
     </message>
     <message>
         <source>Treasure_Box_Prompt_No</source>
-        <translation>No thanks.</translation>
+        <translation type="obsolete">No thanks.</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Text</source>
-        <translation>Many people are using this great tool. Would you like to try it?</translation>
+        <translation type="obsolete">Many people are using this great tool. Would you like to try it?</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Title</source>
-        <translation>Kingsoft Office recommendation</translation>
+        <translation type="obsolete">Kingsoft Office recommendation</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Yes</source>
-        <translation>All right</translation>
+        <translation type="obsolete">All right</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office recommendation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Many people are using this great tool. Would you like to try it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No thanks.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

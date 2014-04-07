@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Save in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan in %1</translation>
     </message>
     <message>
         <source>Backup in %1</source>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Option:</source>
-        <translation type="unfinished"></translation>
+        <translation>Optie:</translation>
     </message>
     <message>
         <source>&amp;Line End:</source>
@@ -77,7 +77,7 @@
 <context>
     <name>EmptyBackupPanel</name>
     <message>
-        <source>:/NetbackupWizard/ENU_emptybacktip.png</source>
+        <source>emptybacktip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -85,7 +85,7 @@
     <name>KAlphaPanel</name>
     <message>
         <source>&amp;Transparence</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Transparantie</translation>
     </message>
 </context>
 <context>
@@ -96,34 +96,34 @@
     </message>
     <message>
         <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office-updates zijn gedownload, wilt u deze nu installeren?</translation>
     </message>
 </context>
 <context>
     <name>KAvailableCharSetInfoMap</name>
     <message>
         <source>Unicode(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unicode(HEX)</translation>
     </message>
     <message>
         <source>ASCII(DEC)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCII(DEC)</translation>
     </message>
     <message>
         <source>ASCII(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCII(HEX)</translation>
     </message>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereenvoudigd Chinees GB2312(HEX)</translation>
     </message>
     <message>
         <source>Symbol(DEC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool(DEC)</translation>
     </message>
     <message>
         <source>Symbol(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool(HEX)</translation>
     </message>
 </context>
 <context>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>HSL</source>
@@ -142,15 +142,15 @@
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rood:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Groen:</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bla&amp;uw:</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
@@ -170,11 +170,11 @@
     </message>
     <message>
         <source>&amp;Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleuren</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw</translation>
     </message>
     <message>
         <source>Current</source>
@@ -190,7 +190,7 @@
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleuren</translation>
     </message>
 </context>
 <context>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lay-out wijzigingen worden van kracht na het opnieuw opstarten.</translation>
     </message>
     <message>
         <source>Hey, click here to switch user interface!</source>
@@ -216,13 +216,25 @@
     <name>KCompressPicturesDlg</name>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolutie:</translation>
     </message>
 </context>
 <context>
     <name>KControlsListWidget</name>
     <message>
         <source>%1 controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ActiveX Control (*.ocx;*.dll)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not register this control.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -232,12 +244,16 @@
         <source>(damaged file : %1 )</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>error file list:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KDlgCrashUpload</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
@@ -253,7 +269,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Upload now</source>
@@ -304,11 +320,11 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ok</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuleren</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -323,10 +339,14 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Del</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C,X,V,Z,Y</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -345,7 +365,7 @@
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Wachtwoord</translation>
     </message>
 </context>
 <context>
@@ -364,42 +384,54 @@
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Wachtwoord</translation>
     </message>
 </context>
 <context>
-    <name>KInsertSymbolDlg</name>
+    <name>KLanguageChooseDialog</name>
     <message>
-        <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <source>Choose Language</source>
+        <translation>Kies taal</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
+        <source>Choose Language Installation Package</source>
+        <translation>Kies een taalinstallatiepakket</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <source>Install Language Package</source>
+        <translation>Installeer taalpakket</translation>
     </message>
     <message>
-        <source>&amp;Symbols</source>
-        <translation type="unfinished"></translation>
+        <source>installation fails, make sure to install the complete package!</source>
+        <translation>installatie mislukt, u moet het volledige pakket installeren!</translation>
     </message>
     <message>
-        <source>S&amp;pecial Characters</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Reset personal template</source>
+        <translation>Persoonlijk sjabloon &amp;resetten</translation>
     </message>
     <message>
-        <source>Cus&amp;tom Symbols</source>
-        <translation type="unfinished"></translation>
+        <source>Information</source>
+        <translation>Informatie</translation>
     </message>
     <message>
-        <source>Insert to Custom S&amp;ymbols</source>
-        <translation type="unfinished"></translation>
+        <source>Settings will be effected after application restarted.</source>
+        <translation>Instellingen worden actief na herstarten van de applicatie.</translation>
     </message>
     <message>
-        <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Install new language</source>
+        <translation>&amp;Installeer nieuwe taal</translation>
+    </message>
+    <message>
+        <source>Get &amp;More...</source>
+        <translation>&amp;Meer verkrijgen...</translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
+        <translation>ZIP-bestand (*.zip)</translation>
+    </message>
+    <message>
+        <source>&amp;Follow system locale</source>
+        <translation>&amp;Volg systeemlandinstelling</translation>
     </message>
 </context>
 <context>
@@ -429,11 +461,11 @@
     <name>KPPDOptionsModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarde</translation>
     </message>
 </context>
 <context>
@@ -456,11 +488,11 @@
     </message>
     <message>
         <source>Initi&amp;als:</source>
-        <translation type="unfinished"></translation>
+        <translation>Initi&amp;alen:</translation>
     </message>
     <message>
         <source>&amp;Organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Organisatie:</translation>
     </message>
     <message>
         <source>* &amp;Serial No.:</source>
@@ -468,7 +500,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
@@ -503,15 +535,15 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Active Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Actief venster:</translation>
     </message>
 </context>
 <context>
@@ -554,7 +586,7 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Ellipsis</source>
@@ -578,83 +610,6 @@
     </message>
 </context>
 <context>
-    <name>KSpecialCharTabWidget</name>
-    <message>
-        <source>&amp;Characters:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSymbolBarTabWidget</name>
-    <message>
-        <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cust&amp;om Symbols:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcut keys:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcut &amp;keys:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Specify S&amp;hortcut keys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>R&amp;eset Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSymbolTabWidget</name>
-    <message>
-        <source>(Normal Text)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S&amp;ubset:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Recently used symbols:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Character code:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fro&amp;m:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KTemplateItemModel</name>
     <message>
         <source>File Folder</source>
@@ -662,7 +617,7 @@
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjablonen</translation>
     </message>
     <message>
         <source>Never modify</source>
@@ -709,7 +664,7 @@
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Armeens</translation>
     </message>
     <message>
         <source>Basic Hebrew</source>
@@ -805,7 +760,7 @@
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijlen</translation>
     </message>
     <message>
         <source>Mathematical Operators</source>
@@ -973,7 +928,7 @@
     </message>
     <message>
         <source>Ethiopic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ethiopisch</translation>
     </message>
     <message>
         <source>Cherokee</source>
@@ -1001,7 +956,7 @@
     </message>
     <message>
         <source>Braille</source>
-        <translation type="unfinished"></translation>
+        <translation>Braille</translation>
     </message>
     <message>
         <source>Yi Radicals</source>
@@ -1012,19 +967,19 @@
     <name>KxAboutDlg</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Kingsoft Writer</translation>
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Kingsoft Presentation</translation>
     </message>
     <message>
         <source>About Kingsoft Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Kingsoft Office</translation>
     </message>
     <message>
         <source>%1%2</source>
@@ -1054,6 +1009,14 @@
         <source>%1(%2)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>res:/icons/kxshare/%1.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Part of %1 activation version</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxApplication</name>
@@ -1070,7 +1033,7 @@
     <name>KxAutoShapePanel</name>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnen</translation>
     </message>
     <message>
         <source>Connectors</source>
@@ -1117,7 +1080,7 @@
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldig</translation>
     </message>
     <message>
         <source>Add Item</source>
@@ -1148,11 +1111,11 @@
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden(*.*)</translation>
     </message>
     <message>
         <source>Icon Files(*.ico)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikoon bestanden(*.ico)</translation>
     </message>
     <message>
         <source>Executable Files(*.exe)</source>
@@ -1164,14 +1127,14 @@
     </message>
     <message>
         <source>&quot;%1&quot; has no icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;.heeft geen ikoon.</translation>
     </message>
 </context>
 <context>
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -1186,7 +1149,7 @@
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen lijn</translation>
     </message>
     <message>
         <source>%1 pt</source>
@@ -1228,10 +1191,25 @@
     </message>
 </context>
 <context>
+    <name>KxControlToolboxToolBarViewCommand</name>
+    <message>
+        <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxControlsListCommand</name>
+    <message>
+        <source>Register Custom Control...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"></translation>
+        <translation>Volledig pad:</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -1325,7 +1303,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Copy To...</source>
@@ -1345,15 +1323,15 @@
     </message>
     <message>
         <source>P&amp;aste Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Pl&amp;ak afbeelding</translation>
     </message>
     <message>
         <source>Copy To</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer naar</translation>
     </message>
     <message>
         <source>Move To</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaats naar</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
@@ -1394,7 +1372,7 @@
     <name>KxCustomToolBarTB</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Tool&amp;bars:</source>
@@ -1402,7 +1380,7 @@
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nieuw</translation>
     </message>
     <message>
         <source>R&amp;ename</source>
@@ -1410,7 +1388,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -1445,6 +1423,14 @@
     </message>
 </context>
 <context>
+    <name>KxDevelopToolsTriggerCommand</name>
+    <message>
+        <source>To work with Developer tab (including Macros, Control
+Toolbox), please purchase Kingsoft Office Professional.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>OrgChart</source>
@@ -1452,11 +1438,11 @@
     </message>
     <message>
         <source>Cycle Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Radial Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Pyramid diagram</source>
@@ -1507,11 +1493,11 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -1523,7 +1509,7 @@
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie:</translation>
     </message>
     <message>
         <source>Load behavior:</source>
@@ -1531,7 +1517,7 @@
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Omschtijving:</translation>
     </message>
 </context>
 <context>
@@ -1589,7 +1575,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>path</source>
@@ -1615,7 +1601,7 @@
     </message>
     <message>
         <source>&amp;Word:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Woord:</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
@@ -1627,11 +1613,11 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -1704,7 +1690,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleuren</translation>
     </message>
     <message>
         <source>O&amp;ne color</source>
@@ -1720,7 +1706,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color &amp;1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur &amp;1:</translation>
     </message>
     <message>
         <source>Dar&amp;k</source>
@@ -1728,11 +1714,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Licht</translation>
     </message>
     <message>
         <source>Color &amp;2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur &amp;2:</translation>
     </message>
     <message>
         <source>Pres&amp;et colors:</source>
@@ -1840,7 +1826,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Groen</translation>
     </message>
     <message>
         <source>Coffee</source>
@@ -1856,7 +1842,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rood</translation>
     </message>
     <message>
         <source>Shading styles</source>
@@ -1868,7 +1854,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertikaal</translation>
     </message>
     <message>
         <source>Diagonal &amp;up</source>
@@ -1888,7 +1874,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textuur</translation>
     </message>
     <message>
         <source>&amp;Texture:</source>
@@ -1916,11 +1902,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Picture:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding:</translation>
     </message>
     <message>
         <source>Se&amp;lect Picture...</source>
@@ -1962,11 +1948,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee</translation>
     </message>
 </context>
 <context>
@@ -2008,7 +1994,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultaat</translation>
     </message>
     <message>
         <source>&amp;Display as icon</source>
@@ -2023,11 +2009,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInsertSymbol</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Symbolen</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -2103,14 +2089,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
     <name>KxDlgLicense</name>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentie</translation>
     </message>
     <message>
         <source>Agree</source>
@@ -2125,11 +2111,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjablonen</translation>
     </message>
     <message>
         <source>Set as &amp;Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellen als &amp;standaardsjabloon</translation>
     </message>
 </context>
 <context>
@@ -2159,7 +2145,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
 </context>
 <context>
@@ -2218,15 +2204,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alles selecteren</translation>
     </message>
 </context>
 <context>
@@ -2275,7 +2261,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxDockPaneTitle</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -2441,7 +2427,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Golf 1</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
@@ -2557,7 +2543,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle afbeeldingen</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -2597,7 +2583,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding selecteren</translation>
     </message>
 </context>
 <context>
@@ -2623,18 +2609,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstvak</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsExplorer</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Open</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -2649,11 +2635,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gebruikersnaam:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wachtwoord:</translation>
     </message>
     <message>
         <source>Captcha:</source>
@@ -2673,15 +2659,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Username or password is empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersnaam of wachtwoord is niet ingevuld!</translation>
     </message>
     <message>
         <source>Username or password is invalid!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersnaam of wachtwoord is niet geldig!</translation>
     </message>
     <message>
         <source>Network Error! Login failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Netwerkfout! Aanmelden mislukt!</translation>
     </message>
     <message>
         <source>Failed to get captcha image!</source>
@@ -2696,7 +2682,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsModel</name>
     <message>
         <source>Document Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentnaam</translation>
     </message>
     <message>
         <source>Last Modified Date</source>
@@ -2707,15 +2693,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsModule</name>
     <message>
         <source>Network Error! Open file failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Netwerkfout! Bestand openen mislukt!</translation>
     </message>
     <message>
         <source>Network Error! Upload file failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Netwerkfout! Bestand uploaden mislukt!</translation>
     </message>
     <message>
         <source>Failed to create file! File may be opened or no permission to create file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan geen bestand aanmaken! Bestand is mogelijk al geopend of toestemming is geweigerd om bestand aan te maken!</translation>
     </message>
 </context>
 <context>
@@ -2753,11 +2739,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand openen</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden (*.*)</translation>
     </message>
 </context>
 <context>
@@ -2834,11 +2820,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden(*.*)</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -2877,11 +2863,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -2904,10 +2890,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee</translation>
     </message>
     <message>
-        <source>Click to try it now.</source>
+        <source>Click to purchase now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMacroListCommand</name>
+    <message>
+        <source>To work with macros, please purchase Kingsoft Office Professional.
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2915,7 +2909,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxMainWindow</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -2930,7 +2924,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxModifyCommandDlg</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>&amp;Appearance</source>
@@ -3069,7 +3063,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Leeg document</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
@@ -3114,6 +3108,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Update to Personal</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You also can download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Free.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
@@ -3127,7 +3133,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultaat:</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
@@ -3149,7 +3155,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxPrinter</name>
     <message>
         <source>Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Printer</translation>
     </message>
     <message>
         <source>Manual duple&amp;x</source>
@@ -3161,7 +3167,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Print to fi&amp;le</source>
-        <translation type="unfinished"></translation>
+        <translation>Print naar b&amp;estand</translation>
     </message>
     <message>
         <source>&amp;Properties...</source>
@@ -3189,15 +3195,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereed</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Gepauzeerd</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -3224,7 +3230,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxPropertyDlg</name>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantoor</translation>
     </message>
     <message>
         <source>Editor</source>
@@ -3252,7 +3258,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoonnummer</translation>
     </message>
     <message>
         <source>Work Group</source>
@@ -3284,7 +3290,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Doel</translation>
     </message>
     <message>
         <source>Content</source>
@@ -3292,7 +3298,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenaar</translation>
     </message>
     <message>
         <source>Finish Date</source>
@@ -3316,11 +3322,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Bron</translation>
     </message>
     <message>
         <source>Forward to</source>
@@ -3344,11 +3350,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee</translation>
     </message>
     <message>
         <source>Your input data do not match the type specified, value should be text!</source>
@@ -3364,11 +3370,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>ja</translation>
     </message>
     <message>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>nee</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3395,7 +3402,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -3442,7 +3449,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Openen</translation>
     </message>
 </context>
 <context>
@@ -3456,13 +3463,36 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
     <name>KxSerchCtrl</name>
     <message>
         <source>Please input command name to search</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSetSpellcheckLanguageDlg</name>
+    <message>
+        <source>Choose Spellcheck Installation Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
+        <translation>ZIP-bestand (*.zip)</translation>
+    </message>
+    <message>
+        <source>Install Spellcheck Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installation fails, make sure to install the complete package!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spellcheck language already exists.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3500,15 +3530,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ok</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuleren</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
@@ -3528,6 +3558,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>This locale can not use the skin!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>restart will change</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxSymbolGalleryModel</name>
@@ -3543,10 +3577,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxSystemCheckerCommand</name>
     <message>
-        <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>, </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3558,20 +3588,16 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
-        <source>System Checking</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikoon</translation>
     </message>
     <message>
         <source>Checking...</source>
@@ -3589,6 +3615,14 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Checking completed!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>System Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following issues were detected on this system:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTabbarMenuActCommand</name>
@@ -3602,7 +3636,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbergen</translation>
     </message>
     <message>
         <source>Disable title drag menu</source>
@@ -3633,7 +3667,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTableGalleryModel</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel invoegen</translation>
     </message>
     <message>
         <source> %1 * %2 Table</source>
@@ -3658,7 +3692,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTemplateWidget</name>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjabloon</translation>
     </message>
     <message>
         <source>Size</source>
@@ -3684,7 +3718,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
@@ -3714,7 +3748,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpBackUp</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
@@ -3737,7 +3771,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpBackup</name>
     <message>
         <source>Remove All Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder alle waarschuwingen</translation>
     </message>
     <message>
         <source>Cannot Remove All Backup Files</source>
@@ -3851,11 +3885,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpNewDoc</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>Manage</source>
@@ -3898,7 +3932,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Recente documenten</translation>
     </message>
     <message>
         <source>Manage</source>
@@ -3910,19 +3944,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished"></translation>
+        <translation>Open...(Ctrl+ O)</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>Open...</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw leeg document</translation>
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
@@ -3945,7 +3979,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTpSelectShape</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Shapes on this page:</source>
@@ -3953,11 +3987,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles tonen</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles verbergen</translation>
     </message>
     <message>
         <source>up</source>
@@ -3992,7 +4026,7 @@ of services and features.</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee</translation>
     </message>
     <message>
         <source>Click to try it now.</source>
@@ -4118,11 +4152,11 @@ of services and features.</source>
     <name>KxWidgetPicture</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links</translation>
     </message>
     <message>
         <source>Crop from</source>
@@ -4134,18 +4168,10 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucBrightness</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>%, 1, 0, 100, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucCropRight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4153,12 +4179,8 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbDropDownList</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4177,19 +4199,7 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucContrast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucCropLeft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucCropBottom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4205,10 +4215,6 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucCropTop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Co&amp;mpress...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4221,11 +4227,11 @@ of services and features.</source>
     <name>KxWidgetSize</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoogte:</translation>
     </message>
     <message>
         <source>Original size</source>
@@ -4245,7 +4251,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Res&amp;olution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Res&amp;olutie:</translation>
     </message>
     <message>
         <source>cbResolution</source>
@@ -4285,7 +4291,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bree&amp;dte:</translation>
     </message>
     <message>
         <source>ucShapeWidth</source>
@@ -4293,7 +4299,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rotatie:</translation>
     </message>
     <message>
         <source>ucRotation</source>
@@ -4305,11 +4311,11 @@ of services and features.</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaal</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hoogte:</translation>
     </message>
     <message>
         <source>ucScaleHeight</source>
@@ -4321,7 +4327,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Breedte:</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
@@ -4329,7 +4335,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Breedte:</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -4340,7 +4346,7 @@ of services and features.</source>
     <name>KxWidgetTemplate</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Up</source>
@@ -4356,7 +4362,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Details</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4373,7 +4379,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Do&amp;cument</source>
-        <translation type="unfinished"></translation>
+        <translation>Do&amp;cument</translation>
     </message>
     <message>
         <source>&amp;Template</source>
@@ -4384,7 +4390,7 @@ cannot be previewed.</source>
     <name>KxWidgetTextBox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
@@ -4420,7 +4426,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Links:</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -4432,7 +4438,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -4490,565 +4496,19 @@ cannot be previewed.</source>
     <name>QObject</name>
     <message>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand overschrijven?</translation>
     </message>
     <message>
         <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Saudi Arabia)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese (Taiwan)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>German (Germany)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (United States)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Spain)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>French (France)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Italian (Italy)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dutch (The Netherlands)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Swedish (Sweden)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Azeri (Latin)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Malay (Malaysia)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uzbek (Latin)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Iraq)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese (China)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>German (Switzerland)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (United Kingdom)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Mexico)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>French (Belgium)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Italian (Switzerland)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dutch (Belgium)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Norwegian (Nynorsk)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Portuguese (Portugal)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Romanian (Republic of Moldova)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Russian (Republic of Moldova)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Swedish (Finland)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Azeri (Cyrillic)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gaelic (Ireland)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Malay (Brunei)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uzbek (Cyrillic)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Egypt)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese (Hong Kong SAR)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>German (Austria)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (Australia)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>French (Canada)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Serbian (Cyrillic)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Libya)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese (Singapore)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>German (Luxembourg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (Canada)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Guatemala)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>French (Switzerland)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Algeria)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese (Macau SAR)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>German (Liechtenstein)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (New Zealand)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Costa Rica)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>French (Luxembourg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Morocco)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (Ireland)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Panama)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Tunisia)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (South Africa)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Dominican Republic)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Oman)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (Jamaica)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Venezuela)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Yemen)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (Caribbean)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Colombia)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Syria)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (Belize)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Peru)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Jordan)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (Trinidad)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Argentina)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Lebanon)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Ecuador)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Kuwait)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>English (Phillippines)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Chile)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (United Arab Emirates)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Uruguay)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Bahrain)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Paraguay)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arabic (Qatar)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Bolivia)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (El Salvador)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Honduras)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Nicaragua)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spanish (Puerto Rico)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Russian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Catalan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Czech</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Danish</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Greek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Finnish</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hebrew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hungarian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Icelandic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Japanese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Korean</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Polish</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Raeto-Romance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Romanian (Romania)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Croatian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slovak</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Albanian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thai</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Turkish</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Urdu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indonesian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Belarusian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slovenian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Estonian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Latvian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Farsi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Armenian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Basque</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sorbian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FYRO Macedonian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sutu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tsonga</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setsuana</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Xhosa</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zulu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Afrikaans</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Faroese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hindi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Maltese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gaelic (Scotland)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yiddish</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Swahili</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tatar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tamil</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Marathi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sanskrit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The selected dict was deleted, please select another dict.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een bestand met de naam &quot;%1&quot; bestaat al. Bent u zeker dat u wil overschrijven?</translation>
     </message>
     <message>
         <source>custom %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls and ppt files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwart</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
@@ -5056,7 +4516,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkerblauw</translation>
     </message>
     <message>
         <source>Thumb Blue</source>
@@ -5064,7 +4524,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Blauw</translation>
     </message>
     <message>
         <source>Wathet Blue</source>
@@ -5092,7 +4552,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemelsblauw</translation>
     </message>
     <message>
         <source>Baby Blue</source>
@@ -5116,7 +4576,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeegroen</translation>
     </message>
     <message>
         <source>Cyan Green</source>
@@ -5128,19 +4588,19 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Wit</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtgeel</translation>
     </message>
     <message>
         <source>Dark Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkerbruin</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <source>Gray-40%</source>
@@ -5148,27 +4608,27 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkergroen</translation>
     </message>
     <message>
         <source>Light Green </source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtgroen</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Geel</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Goudkleurig</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtoranje</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rood</translation>
     </message>
     <message>
         <source>Plum Purple</source>
@@ -5180,7 +4640,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Groen</translation>
     </message>
     <message>
         <source>Lime Green </source>
@@ -5188,103 +4648,103 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkergeel</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Olijfgroen</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Oranje</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruin</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkerrood</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-5%</translation>
     </message>
     <message>
         <source>Gray-10% </source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-20%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-37.5%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-45%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-75%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Grijs-95%</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyaan</translation>
     </message>
     <message>
         <source>AutoBackup</source>
@@ -5300,16 +4760,32 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Do not show this message again</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit bericht niet meer weergeven</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
 Always take this action</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit bericht niet meer weergeven,
+Neem altijd deze actie</translation>
     </message>
     <message>
         <source>Do not check it when starting Kingsoft Office next time</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected dict has been deleted, please select another dict.</source>
+        <translation>Het geselecteerde woordenboek is verwijderd, selecteer a.u.b. een ander woordenboek.</translation>
+    </message>
+    <message>
+        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <translation>Kingsoft Office is niet de standaard kantoorsoftware,wilt u het instellen als de standaard?
+(Het systeem gebruikt standaard Kingsoft Office om %1bestanden te openen)</translation>
     </message>
 </context>
 <context>
@@ -5347,7 +4823,7 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjablonen</translation>
     </message>
 </context>
 <context>
@@ -5358,10 +4834,6 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>Copyright </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1988-2013 Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5384,10 +4856,14 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>&amp;Tech Support...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5427,7 +4903,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
@@ -5536,7 +5012,7 @@ Document</source>
     </message>
     <message>
         <source>Addr&amp;ess:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adr&amp;es:</translation>
     </message>
     <message>
         <source>&amp;E-mail address:</source>
@@ -5544,7 +5020,7 @@ Document</source>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;nderwerp:</translation>
     </message>
     <message>
         <source>Re&amp;cently used e-mail addresses:</source>
@@ -5570,19 +5046,27 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>close</source>
+        <source>More</source>
+        <translation>Meer</translation>
+    </message>
+    <message>
+        <source>Install</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Sluiten</translation>
     </message>
 </context>
 <context>
     <name>pasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken speciaal</translation>
     </message>
     <message>
         <source>Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bron:</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -5606,15 +5090,15 @@ Document</source>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultaat</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Plakken</translation>
     </message>
     <message>
         <source>Paste &amp;Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak &amp;link</translation>
     </message>
 </context>
 <context>
@@ -5633,7 +5117,7 @@ Document</source>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -5677,7 +5161,7 @@ Document</source>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Samenvatting</translation>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>
@@ -5693,7 +5177,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Titel:</translation>
     </message>
     <message>
         <source>C&amp;ompany:</source>
@@ -5721,7 +5205,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Naam:</translation>
     </message>
     <message>
         <source>ADD</source>
@@ -5729,7 +5213,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verwijderen</translation>
     </message>
     <message>
         <source>Checked by</source>
@@ -5757,19 +5241,19 @@ Document</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Groep</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantoor</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenaar</translation>
     </message>
     <message>
         <source>Project</source>
@@ -5777,11 +5261,11 @@ Document</source>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Bron</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Purpose</source>
@@ -5801,15 +5285,15 @@ Document</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummer</translation>
     </message>
     <message>
         <source>Whether or not</source>
@@ -5833,14 +5317,29 @@ Document</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarde</translation>
     </message>
     <message>
         <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>updateMessageDlg</name>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is prepared. Would you like to get it now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore this version.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

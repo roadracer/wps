@@ -6,95 +6,87 @@
     <name>BulletNumberGridWidget</name>
     <message>
         <source>.</source>
-        <translation>、</translation>
-    </message>
-    <message>
-        <source>(0)</source>
-        <translation></translation>
+        <translation type="obsolete">、</translation>
     </message>
     <message>
         <source>(1)</source>
-        <translation>①</translation>
+        <translation type="obsolete">①</translation>
     </message>
     <message>
         <source>(10)</source>
-        <translation>⑩</translation>
+        <translation type="obsolete">⑩</translation>
     </message>
     <message>
         <source>(2)</source>
-        <translation>②</translation>
+        <translation type="obsolete">②</translation>
     </message>
     <message>
         <source>(3)</source>
-        <translation>③</translation>
+        <translation type="obsolete">③</translation>
     </message>
     <message>
         <source>(4)</source>
-        <translation>④</translation>
+        <translation type="obsolete">④</translation>
     </message>
     <message>
         <source>(5)</source>
-        <translation>⑤</translation>
+        <translation type="obsolete">⑤</translation>
     </message>
     <message>
         <source>(6)</source>
-        <translation>⑥</translation>
+        <translation type="obsolete">⑥</translation>
     </message>
     <message>
         <source>(7)</source>
-        <translation>⑦</translation>
+        <translation type="obsolete">⑦</translation>
     </message>
     <message>
         <source>(8)</source>
-        <translation>⑧</translation>
+        <translation type="obsolete">⑧</translation>
     </message>
     <message>
         <source>(9)</source>
-        <translation>⑨</translation>
-    </message>
-    <message>
-        <source>)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">⑨</translation>
     </message>
     <message>
         <source>0</source>
-        <translation>О</translation>
+        <translation type="obsolete">О</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>一</translation>
+        <translation type="obsolete">一</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>二</translation>
+        <translation type="obsolete">二</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>三</translation>
+        <translation type="obsolete">三</translation>
     </message>
     <message>
         <source>4</source>
-        <translation>四</translation>
+        <translation type="obsolete">四</translation>
     </message>
     <message>
         <source>5</source>
-        <translation>五</translation>
+        <translation type="obsolete">五</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>六</translation>
+        <translation type="obsolete">六</translation>
     </message>
     <message>
         <source>7</source>
-        <translation>七</translation>
+        <translation type="obsolete">七</translation>
     </message>
     <message>
         <source>8</source>
-        <translation>八</translation>
+        <translation type="obsolete">八</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>九</translation>
+        <translation type="obsolete">九</translation>
     </message>
     <message>
         <source>None</source>
@@ -360,7 +352,7 @@
     </message>
     <message>
         <source>Fi&amp;nd What:</source>
-        <translation type="unfinished"></translation>
+        <translation>查找内容(&amp;N):</translation>
     </message>
 </context>
 <context>
@@ -1066,7 +1058,7 @@
     <name>KWppAnimCustomCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">自定义</translation>
+        <translation type="obsolete">自定义</translation>
     </message>
 </context>
 <context>
@@ -1078,6 +1070,13 @@
     <message>
         <source>Automatic</source>
         <translation>自动</translation>
+    </message>
+</context>
+<context>
+    <name>KWppZoomSlider</name>
+    <message id="0">
+        <source>Slide Zoom Fit</source>
+        <translation type="unfinished">最佳显示比例</translation>
     </message>
 </context>
 <context>
@@ -1331,11 +1330,11 @@
     </message>
     <message>
         <source>&amp;Background fill</source>
-        <translation type="unfinished"></translation>
+        <translation>背景填充(&amp;B)</translation>
     </message>
     <message>
         <source>I&amp;gnor the back ground of main</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略母版的背景图形(&amp;G)</translation>
     </message>
 </context>
 <context>
@@ -1495,11 +1494,15 @@
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">设置拼写检查语言(&amp;amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
+        <translation>设置拼写检查语言(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -1848,7 +1851,7 @@
     </message>
     <message>
         <source>Cancle</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
@@ -1886,6 +1889,10 @@
         <source>Slide &amp;number</source>
         <translation>幻灯片编号(&amp;N)</translation>
     </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgInsertMedia</name>
@@ -1911,7 +1918,7 @@
     </message>
     <message>
         <source>When &amp;Click</source>
-        <translation type="unfinished">在单击时(&amp;C)</translation>
+        <translation>在单击时(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -1930,7 +1937,7 @@
     </message>
     <message>
         <source>Number of &amp;cols:</source>
-        <translation type="unfinished">列数(&amp;C):</translation>
+        <translation>列数(&amp;C):</translation>
     </message>
 </context>
 <context>
@@ -1961,7 +1968,7 @@
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
@@ -2344,19 +2351,27 @@ be recovered.</source>
     </message>
     <message>
         <source>Start With</source>
-        <translation type="unfinished">启动</translation>
+        <translation>启动</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation type="unfinished">启动:</translation>
+        <translation>启动:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
-        <translation type="unfinished">主页(&amp;g)</translation>
+        <translation>主页(&amp;g)</translation>
     </message>
     <message>
         <source>New Doc&amp;ument</source>
-        <translation type="unfinished">新建文档(&amp;u)</translation>
+        <translation>新建文档(&amp;u)</translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished">启用定时备份(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished">智能备份(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -2367,7 +2382,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Also Packaged As Compressed File</source>
-        <translation type="unfinished">同时打包成一个压缩文件(&amp;A)</translation>
+        <translation>同时打包成一个压缩文件(&amp;A)</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -2387,11 +2402,11 @@ be recovered.</source>
     </message>
     <message>
         <source>Folder &amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件夹名称(&amp;N)：</translation>
     </message>
     <message>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>位置(&amp;L):</translation>
     </message>
 </context>
 <context>
@@ -2646,7 +2661,7 @@ be recovered.</source>
     </message>
     <message>
         <source>During the slide show</source>
-        <translation type="unfinished"></translation>
+        <translation>放映幻灯片时</translation>
     </message>
 </context>
 <context>
@@ -2681,7 +2696,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Total playing time:</source>
-        <translation type="unfinished">播放时间总和:</translation>
+        <translation>播放时间总和:</translation>
     </message>
 </context>
 <context>
@@ -2700,7 +2715,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Number of &amp;cols:</source>
-        <translation type="unfinished">列数(&amp;C):</translation>
+        <translation>列数(&amp;C):</translation>
     </message>
 </context>
 <context>
@@ -2874,46 +2889,6 @@ be recovered.</source>
     <message>
         <source>Slide...</source>
         <translation>幻灯片...</translation>
-    </message>
-    <message>
-        <source>m_clickHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_clickSoundCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overHyperlinkCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overObjectCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunMacroCombo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overRunProgramLine</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m_overSoundCombo</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3338,7 +3313,7 @@ be recovered.</source>
     </message>
     <message>
         <source>The directory you specified dose not exist.</source>
-        <translation>指定的目录不存在。</translation>
+        <translation type="obsolete">指定的目录不存在。</translation>
     </message>
     <message>
         <source>The file is exist, are you sure to overwrite the file?</source>
@@ -3383,6 +3358,10 @@ be recovered.</source>
     <message>
         <source>You selected to output slides does not exist, please choose another.</source>
         <translation type="obsolete">您所选的要输出的幻灯片不存在，请选另一个。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3430,6 +3409,10 @@ be recovered.</source>
     <message>
         <source>WPS Preseentation</source>
         <translation type="obsolete">WPS 演示</translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="unfinished">PDF转换器遇到了内存分配问题，请缩小文档大小或者图片大小！</translation>
     </message>
 </context>
 <context>
@@ -4124,7 +4107,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>来自</translation>
+        <translation type="obsolete">来自</translation>
     </message>
     <message>
         <source>Apply to Master</source>
@@ -4176,7 +4159,11 @@ be recovered.</source>
     </message>
     <message>
         <source>loop play, to the next voice began</source>
-        <translation type="unfinished"></translation>
+        <translation>循环播放，到下一声音开始时</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished">幻灯片切换</translation>
     </message>
 </context>
 <context>
@@ -4266,24 +4253,8 @@ be recovered.</source>
         <translation>左上角</translation>
     </message>
     <message>
-        <source>cbHorizontalFrom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbVerticalFrom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>pt, 2, -169077, 169077, 1</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>ucPositionHorizont</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ucPositionVertical</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4463,7 +4434,7 @@ be recovered.</source>
     <name>KxWppAnimationOptionsDlg</name>
     <message>
         <source>Second</source>
-        <translation> 秒</translation>
+        <translation type="obsolete"> 秒</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Dim</source>
@@ -4632,7 +4603,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Pau&amp;se</source>
@@ -4883,7 +4854,7 @@ be recovered.</source>
     </message>
     <message>
         <source>All slides among the rang must be marked as hidden!</source>
-        <translation>在此范围内所有的幻灯片已标记为隐藏！</translation>
+        <translation type="obsolete">在此范围内所有的幻灯片已标记为隐藏！</translation>
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
@@ -5088,6 +5059,10 @@ be recovered.</source>
     <message>
         <source>Close</source>
         <translation>关闭</translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
+        <translation>在此范围内所有的幻灯片已标记为隐藏！</translation>
     </message>
 </context>
 <context>
@@ -5710,7 +5685,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Modify</source>
-        <translation>修改</translation>
+        <translation type="obsolete">修改</translation>
     </message>
     <message>
         <source>Modify selected effects</source>
@@ -5766,7 +5741,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Customize Animation:</source>
-        <translation type="unfinished">自定义动画:</translation>
+        <translation>自定义动画:</translation>
     </message>
 </context>
 <context>
@@ -6123,31 +6098,31 @@ be recovered.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Export Range</source>
-        <translation type="unfinished"></translation>
+        <translation>输出范围</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
-        <translation type="unfinished">当前幻灯片(&amp;C)</translation>
+        <translation>当前幻灯片(&amp;C)</translation>
     </message>
     <message>
         <source>C&amp;ustom shows:</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义放映(&amp;amp;U):</translation>
     </message>
     <message>
         <source>Notes Pages</source>
-        <translation type="unfinished">备注页</translation>
+        <translation>备注页</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished">大纲视图</translation>
+        <translation>大纲视图</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="unfinished">纯黑白</translation>
+        <translation>纯黑白</translation>
     </message>
     <message>
         <source>1</source>
@@ -6179,7 +6154,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Permission Print:</source>
-        <translation type="unfinished"></translation>
+        <translation>打印权限:</translation>
     </message>
 </context>
 <context>

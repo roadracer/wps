@@ -38,47 +38,91 @@
     </message>
     <message>
         <source>deep color style</source>
-        <translation>Deep Color Style</translation>
+        <translation type="obsolete">Deep Color Style</translation>
     </message>
     <message>
         <source>deep color style 2</source>
-        <translation>Dark Color Style 2</translation>
+        <translation type="obsolete">Dark Color Style 2</translation>
     </message>
     <message>
         <source>deep color style 2-emphaisze 3/emphasize 4</source>
-        <translation>Dark Color Style 2 - Emphasize 3/Emphasize 4</translation>
+        <translation type="obsolete">Dark Color Style 2 - Emphasize 3/Emphasize 4</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 1/empahsize 2</source>
-        <translation>Dark Color Style 2 - Emphasize 1/Emphasize 2</translation>
+        <translation type="obsolete">Dark Color Style 2 - Emphasize 1/Emphasize 2</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 5/emphasize 6</source>
-        <translation>Dark Color Style 2 - Emphasize 5/Emphasize 6</translation>
+        <translation type="obsolete">Dark Color Style 2 - Emphasize 5/Emphasize 6</translation>
     </message>
     <message>
         <source>emphasize</source>
-        <translation>Emphasize</translation>
+        <translation type="obsolete">Emphasize</translation>
     </message>
     <message>
         <source>light color style</source>
-        <translation>Light Color Style</translation>
+        <translation type="obsolete">Light Color Style</translation>
     </message>
     <message>
         <source>moderate color style</source>
-        <translation>Medium Color Style</translation>
+        <translation type="obsolete">Medium Color Style</translation>
     </message>
     <message>
         <source>styless,no grid</source>
-        <translation>Styless, no grid</translation>
+        <translation type="obsolete">Styless, no grid</translation>
     </message>
     <message>
         <source>stylish,gridded</source>
-        <translation>Styless, gridded</translation>
+        <translation type="obsolete">Styless, gridded</translation>
     </message>
     <message>
         <source>theme style</source>
-        <translation>Themed Style</translation>
+        <translation type="obsolete">Themed Style</translation>
+    </message>
+    <message>
+        <source>Styless, no grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emphasize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Styless, gridded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Color Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Color Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deep Color Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -113,47 +157,91 @@
     </message>
     <message>
         <source>deep color style</source>
-        <translation>Dark Color Style</translation>
+        <translation type="obsolete">Dark Color Style</translation>
     </message>
     <message>
         <source>deep color style 2</source>
-        <translation>Dark Color Style 2</translation>
+        <translation type="obsolete">Dark Color Style 2</translation>
     </message>
     <message>
         <source>deep color style 2-emphaisze 3/emphasize 4</source>
-        <translation>Dark Color Style 2 - Emphasize 3/Emphasize 4</translation>
+        <translation type="obsolete">Dark Color Style 2 - Emphasize 3/Emphasize 4</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 1/empahsize 2</source>
-        <translation>Dark Color Style 2 - Emphasize 1/Emphasize 2</translation>
+        <translation type="obsolete">Dark Color Style 2 - Emphasize 1/Emphasize 2</translation>
     </message>
     <message>
         <source>deep color style 2-emphasize 5/emphasize 6</source>
-        <translation>Dark Color Style 2 - Emphasize 5/Emphasize 6</translation>
+        <translation type="obsolete">Dark Color Style 2 - Emphasize 5/Emphasize 6</translation>
     </message>
     <message>
         <source>emphasize</source>
-        <translation>Emphasize</translation>
+        <translation type="obsolete">Emphasize</translation>
     </message>
     <message>
         <source>light color style</source>
-        <translation>Light Color Style</translation>
+        <translation type="obsolete">Light Color Style</translation>
     </message>
     <message>
         <source>moderate color style</source>
-        <translation>Medium Color Style</translation>
+        <translation type="obsolete">Medium Color Style</translation>
     </message>
     <message>
         <source>styless,no grid</source>
-        <translation>Styless, no grid</translation>
+        <translation type="obsolete">Styless, no grid</translation>
     </message>
     <message>
         <source>stylish,gridded</source>
-        <translation>Styless, gridded</translation>
+        <translation type="obsolete">Styless, gridded</translation>
     </message>
     <message>
         <source>theme style</source>
-        <translation>Themed Style</translation>
+        <translation type="obsolete">Themed Style</translation>
+    </message>
+    <message>
+        <source>Styless, no grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themed Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emphasize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Styless, gridded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Color Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Color Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

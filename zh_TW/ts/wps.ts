@@ -360,10 +360,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxHorizontalAlignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation type="unfinished">靠左對齊</translation>
     </message>
@@ -388,10 +384,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxHorRelativePosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Margin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -412,19 +404,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxHorRightPosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbxVerticalAlignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -448,10 +432,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbxVerRightPosition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Paragraph</source>
         <translation type="unfinished"></translation>
     </message>
@@ -461,10 +441,6 @@
     </message>
     <message>
         <source>r&amp;elative to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbxVerRelativePosition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -830,6 +806,13 @@
     </message>
     <message>
         <source>Words only</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxAddUsersDlg</name>
+    <message>
+        <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1290,6 +1273,21 @@
     <message>
         <source>&amp;More</source>
         <translation type="unfinished">其他(&amp;M)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddUsers</name>
+    <message>
+        <source>Add Users</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter user names,separated by semicolons:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Example:user1;DOMAIN\name;someone@example.com</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1820,7 +1818,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Set Spell language</source>
+        <source>&amp;Set Spellcheck Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2240,24 +2238,8 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Bookmarks</source>
-        <translation type="unfinished">書籤</translation>
-    </message>
-    <message>
-        <source>Footnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">書籤</translation>
     </message>
     <message>
         <source>cbHyperlink</source>
@@ -2941,6 +2923,14 @@ use buttons to apply borders</source>
         <source>Suppress all non_&amp;delimiter chars</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click below button for advanced setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contents...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFindReplace</name>
@@ -2950,7 +2940,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Enter section number:</source>
-        <translation>輸入附註編號(&amp;E):</translation>
+        <translation type="obsolete">輸入附註編號(&amp;E):</translation>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
@@ -2974,15 +2964,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation>搜尋(&amp;S)</translation>
+        <translation type="obsolete">搜尋(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Use wildcards</source>
-        <translation>使用萬用字元(&amp;U)</translation>
+        <translation type="obsolete">使用萬用字元(&amp;U)</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>書籤</translation>
+        <translation type="obsolete">書籤</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3002,11 +2992,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Find</source>
-        <translation>尋找</translation>
+        <translation type="obsolete">尋找</translation>
     </message>
     <message>
         <source>Find whole words onl&amp;y</source>
-        <translation>全字拼寫須相符(&amp;Y)</translation>
+        <translation type="obsolete">全字拼寫須相符(&amp;Y)</translation>
     </message>
     <message>
         <source>G&amp;o to what:</source>
@@ -3014,19 +3004,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Highligh&amp;t all items found in:</source>
-        <translation>將尋找到的項目醒目提示：</translation>
+        <translation type="obsolete">將尋找到的項目醒目提示：</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation>搜尋和替換</translation>
+        <translation type="obsolete">搜尋和替換</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation>更少</translation>
+        <translation type="obsolete">更少</translation>
     </message>
     <message>
         <source>Matc&amp;h case</source>
-        <translation>大小寫須相符(&amp;H)</translation>
+        <translation type="obsolete">大小寫須相符(&amp;H)</translation>
     </message>
     <message>
         <source>Match Byte</source>
@@ -3034,7 +3024,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Match half/full for&amp;ms</source>
-        <translation>全半形須相符</translation>
+        <translation type="obsolete">全半形須相符</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
@@ -3054,7 +3044,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation>取代</translation>
+        <translation type="obsolete">取代</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
@@ -3062,11 +3052,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Replace w&amp;ith:</source>
-        <translation>取代為(&amp;I):</translation>
+        <translation type="obsolete">取代為(&amp;I):</translation>
     </message>
     <message>
         <source>Search options</source>
-        <translation>搜尋選項</translation>
+        <translation type="obsolete">搜尋選項</translation>
     </message>
     <message>
         <source>Search options:</source>
@@ -3083,6 +3073,113 @@ use buttons to apply borders</source>
     <message>
         <source>Sp&amp;ecial Characters</source>
         <translation>特殊字元(&amp;E)</translation>
+    </message>
+    <message>
+        <source>KxDlgFindReplace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;ormat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match half/full For&amp;ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ma&amp;tch Suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Sp&amp;ace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sear&amp;ch:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matc&amp;h Case</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Prefi&amp;x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Whole Words Onl&amp;y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use Wildcards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Punct(&amp;S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace W&amp;ith:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter note number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>highlight the &amp;result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;ind Scope</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find &amp;Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFindStyle</name>
+    <message>
+        <source>find text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Find Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>description</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3352,6 +3449,49 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFormatRestrictions</name>
+    <message>
+        <source>Formatting Restrictions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Styles</source>
+        <translation type="unfinished">樣式</translation>
+    </message>
+    <message>
+        <source>By restricting formatting to the styles you select,you prevent the ability to modify styles and the ability to apply direct formatting to the document.Select the styles you want to allow to be used in this document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show(&amp;D):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current permission to use the style(&amp;P):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The restriction of the use of style(&amp;E):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Restrict(&amp;L) &gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> All Restrict(&amp;R) &gt;&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> &lt; Permit(&amp;A) </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> &lt;&lt; All Permit(&amp;O) </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4970,10 +5110,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Macro security</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5251,6 +5387,14 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;New Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RadioButton</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5879,10 +6023,6 @@ use buttons to apply borders</source>
         <translation type="unfinished">多倍行高</translation>
     </message>
     <message>
-        <source>Multiple, 2, 0.06, 132, 0.5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Snap to grid &amp;when document grid is defined</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6018,6 +6158,10 @@ use buttons to apply borders</source>
         <source>&amp;Tabs...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPhoneticGuide</name>
@@ -6092,6 +6236,14 @@ use buttons to apply borders</source>
     <message>
         <source>Change All...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-1-0</source>
+        <translation type="unfinished">0-1-0</translation>
+    </message>
+    <message>
+        <source>1-2-1</source>
+        <translation type="unfinished">1-2-1</translation>
     </message>
 </context>
 <context>
@@ -6224,43 +6376,23 @@ use buttons to apply borders</source>
 <context>
     <name>KxDlgProtectDocument</name>
     <message>
-        <source>Document Protection</source>
+        <source>Start Protection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Protect content</source>
+        <source>Protection Password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can track or lock the document to read-only by specifying an unlock password here.</source>
+        <source>The password can be set to null, but a malicious user could delete password and edit documents, recommended fill password.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Track changes</source>
+        <source>&amp;Enter new passowrd(optional):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Form fields</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Select Sections...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;No changes(Read only)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Reenter password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Caution: If you lose or forget the password, it cannot be recovered.(Remember that passwords are case sensitive.)</source>
+        <source>Reenter &amp;password to confirm:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6275,7 +6407,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>In protecting Window, Selected Section has also been Protected. </source>
+        <source>In protecting Window, Selected Section also been Protected. </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6842,11 +6974,11 @@ use buttons to apply borders</source>
 <context>
     <name>KxDlgUnProtectDocument</name>
     <message>
-        <source>Remove Protect</source>
+        <source>&amp;Password:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Password:</source>
+        <source>Unprotect Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7012,6 +7144,21 @@ use buttons to apply borders</source>
     </message>
 </context>
 <context>
+    <name>KxExpUserListPanel</name>
+    <message>
+        <source>&amp;Find next region this user can edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show all regions this user can edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove all editing permissions for this user</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
@@ -7090,6 +7237,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7264,11 +7415,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Find All</source>
-        <translation>全部尋找(&amp;F)</translation>
+        <translation type="obsolete">全部尋找(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation>尋找下一筆(&amp;F)</translation>
+        <translation type="obsolete">尋找下一筆(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Find What Text</source>
@@ -7280,11 +7431,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>更少(&amp;L)</translation>
+        <translation type="obsolete">更少(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>其他(&amp;M)</translation>
+        <translation type="obsolete">其他(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Paragraph Mark</source>
@@ -7380,19 +7531,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document and made %1 replacements.</source>
-        <translation>Kingsoft Writer已經完成搜尋且替換 %1。</translation>
+        <translation type="obsolete">Kingsoft Writer已經完成搜尋且替換 %1。</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document.</source>
-        <translation>KingSoft Writer已完成文件的搜尋</translation>
+        <translation type="obsolete">KingSoft Writer已完成文件的搜尋</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document. The search item was not found.</source>
-        <translation>KingSoft Writer已結束搜尋。找不到要搜尋的項目。</translation>
+        <translation type="obsolete">KingSoft Writer已結束搜尋。找不到要搜尋的項目。</translation>
     </message>
     <message>
         <source>Main document</source>
-        <translation>主文件</translation>
+        <translation type="obsolete">主文件</translation>
     </message>
     <message>
         <source>Manual &amp;Line Break</source>
@@ -7440,11 +7591,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text Boxes in Headers and Footers</source>
-        <translation>頁首及頁尾的文字方塊</translation>
+        <translation type="obsolete">頁首及頁尾的文字方塊</translation>
     </message>
     <message>
         <source>Text Boxes in Main Document</source>
-        <translation>主文件的文字方塊</translation>
+        <translation type="obsolete">主文件的文字方塊</translation>
     </message>
     <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
@@ -7452,11 +7603,210 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The search for &quot;%1&quot; is finished, no items were found.</source>
-        <translation>找不到 %1 項目</translation>
+        <translation type="obsolete">找不到 %1 項目</translation>
     </message>
     <message>
         <source>Use wildcards</source>
         <translation>使用萬用字元</translation>
+    </message>
+    <message>
+        <source>Search options:</source>
+        <translation type="unfinished">搜尋選項:</translation>
+    </message>
+    <message>
+        <source>Format options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Boxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has finished searching the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The search item was not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has finished searching and made %1 replacements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Prefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,Match Prefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,Match Suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Punct</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,Ignore Punct</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,Ignore Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>style:%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Options(&amp;L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[only format]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;clear Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find Para</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace Para</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>replace Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current &amp;Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Main Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Headers and Footers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Footnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Endnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Text Boxes in Main Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Boxes in Headers and Footers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Highlight All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;clear All Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has find %1 item that fit the condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS can not find item that fit the condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has highlight %1 item. If you want to clear the highlight, please click highlight ALL button, and click clear highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFindStyleDlg</name>
+    <message>
+        <source>No Style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7538,6 +7888,14 @@ This change will affect all the new documents based on the %1 template.</source>
         <source>Measured value must be between %1 pt and %2 pt</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Not Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFootAndEndnoteDlg</name>
@@ -7599,6 +7957,29 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The measurement must be between 1 and 12.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatRestrictionsDlg</name>
+    <message>
+        <source>The Document Used Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Built-in Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The User Defined Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The All Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document may contain formatting or styles that arent&apos;t allowed.Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7843,7 +8224,7 @@ This change will affect all the new documents based on the %1 template.</source>
 </context>
 <context>
     <name>KxMailMergeTableDlg</name>
-    <message id="0">
+    <message>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8137,6 +8518,13 @@ Cancel:	Return to the dialog.</source>
     </message>
 </context>
 <context>
+    <name>KxNewLabelDlg</name>
+    <message>
+        <source>This caption label is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxNewStyleDlg</name>
     <message>
         <source>Style</source>
@@ -8372,14 +8760,6 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>User templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document Protec&amp;tion...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove &amp;Protection...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8662,10 +9042,6 @@ This change will affect all new documents based on the %1 template.</source>
 <context>
     <name>KxProtectDocumentDlg</name>
     <message>
-        <source>Section </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The password confirmation does not match.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8899,6 +9275,156 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+    <name>KxTpDocProtection</name>
+    <message>
+        <source>Limit formating to a selection of styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting the document protection type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracked changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished">註解</translation>
+    </message>
+    <message>
+        <source>Filling in forms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groups:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Individuals:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Protection...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document is protected from unintentional editing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight the regions I can edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Next Region I Can Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show All Regions I Can Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Protection...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpDocProtectionWidget</name>
+    <message>
+        <source>Select Sections...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Users...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you make this change in document protection, WPS will ignore all the exceptions in this document.
+
+Do you want to remove the ignored exceptions?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read only, Can prevent the document has been modified. However, you can set the edit region.
+Select the part of the contents in the document, and select the users can edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracked changes, Allows you to modify the document, but modify records will be tracked to show.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments, Only allowed to insert annotations in the document. However, you can set the edit region.
+Select the part of the contents in the document, and select the users can edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filling in forms, Can prevent the document has been modified, only fill in the form field content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may only view this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may edit in this region,but all change will be tracked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may only insert comments into this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may only fill in forms in this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may freely edit in this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may format text only with certain styles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contributors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with full control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with permission to change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpStyeFormat</name>
     <message>
         <source>Drawing Grid</source>
@@ -9100,6 +9626,65 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Header and Footer Settings</source>
         <translation>頁首頁尾設定</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsBookmarkPane</name>
+    <message>
+        <source>Document bookmarks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the bookmark position(G)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by name(N)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by location(L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename(R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whether to delete all bookmarks?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ShowBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HideBookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark already exists, please change the name !</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9710,6 +10295,10 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Show Level</source>
         <translation>顯示層級</translation>
     </message>
+    <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsFillColorModel</name>
@@ -10005,10 +10594,6 @@ This change will affect all new documents based on the %1 template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete current page page numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10023,6 +10608,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Delete all page numbers</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>
@@ -10104,10 +10693,6 @@ This change will affect all new documents based on the %1 template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page X Of Y</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10138,6 +10723,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
         <translation type="unfinished">37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>

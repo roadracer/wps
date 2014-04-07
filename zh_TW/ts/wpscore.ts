@@ -1931,10 +1931,6 @@ Type a different name for the document you want to save.
         <source>Graphic objects can not be placed in a text box, label annotations, footnotes or endnotes.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.docx)</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Writer is opening this file.
 Please try one of the following.
@@ -1996,6 +1992,13 @@ Please try one of the following.
         <source>normal.wpt</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks: 
+· VB Project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsshell</name>
@@ -2009,7 +2012,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished">圖表</translation>
+        <translation type="obsolete">圖表</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -2073,7 +2076,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished">標題</translation>
+        <translation type="obsolete">標題</translation>
     </message>
     <message>
         <source>Find</source>
@@ -3252,24 +3255,12 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numbered item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Bookmark</source>
-        <translation type="unfinished">書籤</translation>
+        <translation type="obsolete">書籤</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished">脚註</translation>
-    </message>
-    <message>
-        <source>Endnote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">脚註</translation>
     </message>
     <message>
         <source>Paragraph number</source>
@@ -3413,6 +3404,50 @@ Please try one of the following.
     </message>
     <message>
         <source>Search Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">標題</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">書籤</translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">脚註</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">圖表</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">表格</translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4635,6 +4670,26 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>The checkbox or drop-down form field in vertical text is ignored, so it cannot be shown.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
