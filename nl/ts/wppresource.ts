@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -526,7 +526,7 @@
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Group</source>
@@ -823,7 +823,7 @@
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Witruimte Verkleinen</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -843,7 +843,7 @@
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Regelafstand</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -867,7 +867,7 @@
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialayout</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -921,7 +921,7 @@
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <source>Select</source>
@@ -932,11 +932,11 @@
     <name>classics.org_chart.OrgChartAndDiagram</name>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Assistenten</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Verbindingslijnen</translation>
     </message>
     <message>
         <source>Assistant</source>
@@ -948,11 +948,11 @@
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Beide Hangend</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak</translation>
     </message>
     <message>
         <source>Coworker</source>
@@ -960,11 +960,11 @@
     </message>
     <message>
         <source>Fit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Uitvullen</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Links Hangend</translation>
     </message>
     <message>
         <source>Level</source>
@@ -972,7 +972,7 @@
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts Hangend</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -1110,7 +1110,7 @@
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Hand-outmodel</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -1138,7 +1138,7 @@
     </message>
     <message>
         <source>Print Skipped Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk overgeslane dia&apos;s af</translation>
     </message>
     <message>
         <source>Print What</source>
@@ -1150,7 +1150,7 @@
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
+        <translation>Puur zwart/wit</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1249,32 +1249,33 @@
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Model</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Model-Layout</translation>
     </message>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Dia
+Model</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw diamodel</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Titelmodel</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Behoud Model</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem Model</translation>
     </message>
 </context>
 <context>
@@ -1304,15 +1305,15 @@ Master</source>
     <name>classics.standard</name>
     <message>
         <source>Covert to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet om naar vereenvoudigd Chinees.</translation>
     </message>
     <message>
         <source>Covert to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet om naar Traditioneel Chinees</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel Invoegen</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
@@ -1344,7 +1345,7 @@ Master</source>
     </message>
     <message>
         <source>Insert Data Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel Invoegen</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -1380,7 +1381,7 @@ Master</source>
     </message>
     <message>
         <source>With Text Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Met Tekstformaat</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1751,11 +1752,11 @@ Master</source>
     <name>ongmani.ct_animation</name>
     <message>
         <source>Animation</source>
-        <translation>Animatie</translation>
+        <translation>Animaties</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Animatie Effecten</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -1763,15 +1764,15 @@ Master</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorbeeld</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformatie</translation>
     </message>
     <message>
         <source>Transition Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformatie-effect</translation>
     </message>
 </context>
 <context>
@@ -1782,15 +1783,15 @@ Master</source>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurschema&apos;s</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwerp Templates</translation>
     </message>
     <message>
         <source>Edit Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk Diamodel</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -1810,11 +1811,11 @@ Master</source>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialayout</translation>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia-oriëntatie</translation>
     </message>
 </context>
 <context>
@@ -1871,7 +1872,7 @@ Master</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>COM-invoegtoepassingen</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -1986,19 +1987,19 @@ Master</source>
     </message>
     <message>
         <source>108</source>
-        <translation type="unfinished"></translation>
+        <translation>108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation type="unfinished"></translation>
+        <translation>110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation type="unfinished"></translation>
+        <translation>117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation type="unfinished"></translation>
+        <translation>118</translation>
     </message>
     <message>
         <source>2.0</source>
@@ -2048,7 +2049,7 @@ Aan</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation type="unfinished"></translation>
+        <translation>8226</translation>
     </message>
     <message>
         <source>Align</source>
@@ -2064,7 +2065,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Uitlijnen</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -2156,7 +2157,7 @@ Aan</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal Centreren</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -2184,7 +2185,7 @@ Aan</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettergrootte verkleinen</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -2192,7 +2193,7 @@ Aan</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Witruimte Verkleinen</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -2260,7 +2261,7 @@ Aan</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -2272,7 +2273,7 @@ Aan</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangend</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -2280,7 +2281,7 @@ Aan</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Tekengrootte</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -2288,7 +2289,7 @@ Aan</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Regelafstand</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -2372,7 +2373,7 @@ Aan</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Romeins</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -2456,7 +2457,7 @@ Aan</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vast</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -2478,31 +2479,31 @@ Aan</translation>
     <name>ongmani.ct_drawingtool.Num</name>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -2517,7 +2518,7 @@ Aan</translation>
     <name>ongmani.ct_file</name>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Kingsoft Presentatie</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -2533,7 +2534,7 @@ Aan</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak CloudLink Titel</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -2585,11 +2586,11 @@ Aan</translation>
     </message>
     <message>
         <source>Kingsoft Presentation File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentatie Bestand</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation-sjabloon</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
@@ -2597,15 +2598,15 @@ Aan</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97-2003 Presentatie</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97-2003 Presentatie Sjabloon</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97-2003 Voorstelling</translation>
     </message>
     <message>
         <source>New</source>
@@ -2621,7 +2622,7 @@ Aan</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Niewe Presentatie</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -2633,7 +2634,7 @@ Aan</translation>
     </message>
     <message>
         <source>New from Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw van Sjablonen</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2649,11 +2650,11 @@ Aan</translation>
     </message>
     <message>
         <source>Package Presentation into compress file</source>
-        <translation type="unfinished"></translation>
+        <translation>Steek Presentatie in Gecomprimeerd Bestand</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Steek Presentatie in Map</translation>
     </message>
     <message>
         <source>Print</source>
@@ -2709,7 +2710,7 @@ Aan</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaal naar Document</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -2725,14 +2726,14 @@ Aan</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>Waar</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentatie Hulp</translation>
     </message>
 </context>
 <context>
@@ -2767,19 +2768,19 @@ Aan</translation>
     </message>
     <message>
         <source>108</source>
-        <translation type="unfinished"></translation>
+        <translation>108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation type="unfinished"></translation>
+        <translation>110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation type="unfinished"></translation>
+        <translation>117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation type="unfinished"></translation>
+        <translation>118</translation>
     </message>
     <message>
         <source>2.0</source>
@@ -2795,11 +2796,11 @@ Aan</translation>
     </message>
     <message>
         <source>216</source>
-        <translation type="unfinished"></translation>
+        <translation>216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation type="unfinished"></translation>
+        <translation>252</translation>
     </message>
     <message>
         <source>3 pt</source>
@@ -2823,7 +2824,7 @@ Aan</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation type="unfinished"></translation>
+        <translation>8226</translation>
     </message>
     <message>
         <source>Align</source>
@@ -2839,7 +2840,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Uitlijnen</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -2855,7 +2856,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -2935,7 +2936,7 @@ Aan</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal Centreren</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -2975,7 +2976,7 @@ Aan</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettergrootte verkleinen</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -2983,7 +2984,7 @@ Aan</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Verklein Inspringing</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -3007,7 +3008,7 @@ Aan</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Dupliceren</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -3063,16 +3064,16 @@ Aan</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Begin</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -3080,7 +3081,7 @@ Slide</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -3092,15 +3093,15 @@ Slide</source>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangend</translation>
     </message>
     <message>
         <source>Home_Shape Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Opvullen van vorm</translation>
     </message>
     <message>
         <source>Home_Shape Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Omtrek van vorm</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3108,7 +3109,7 @@ Slide</source>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Tekengrootte</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3116,7 +3117,7 @@ Slide</source>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Regelafstand</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3192,7 +3193,7 @@ Slide</source>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakket in de map</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3228,7 +3229,7 @@ Slide</source>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Vervangen</translation>
     </message>
     <message>
         <source>Right</source>
@@ -3236,7 +3237,7 @@ Slide</source>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Romeins</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -3244,11 +3245,11 @@ Slide</source>
     </message>
     <message>
         <source>Rotate Left 90掳</source>
-        <translation type="unfinished"></translation>
+        <translation>90° Links Draaien</translation>
     </message>
     <message>
         <source>Rotate Right 90掳</source>
-        <translation type="unfinished"></translation>
+        <translation>90° Rechts Draaien</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -3292,7 +3293,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show From Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Presentatie Vanaf Begin</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3332,7 +3333,7 @@ Slide</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vast</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -3344,7 +3345,7 @@ Slide</source>
     </message>
     <message>
         <source>With Text Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Met Tekstformaat</translation>
     </message>
 </context>
 <context>
@@ -3397,11 +3398,11 @@ Slide</source>
     <name>ongmani.ct_insert</name>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Actie</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -3413,7 +3414,7 @@ Slide</source>
     </message>
     <message>
         <source>Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel Invoegen</translation>
     </message>
     <message>
         <source>Date/Time</source>
@@ -3429,7 +3430,7 @@ Slide</source>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -3457,11 +3458,11 @@ Slide</source>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Invoegen</translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel Invoegen</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -3489,7 +3490,7 @@ Slide</source>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Media</translation>
     </message>
     <message>
         <source>More Symbols</source>
@@ -3509,15 +3510,15 @@ Slide</source>
     </message>
     <message>
         <source>Package File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand Verpakken</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Verpakken in Map</translation>
     </message>
     <message>
         <source>Packge into zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Verpakken als zip</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -3572,43 +3573,43 @@ Slide</source>
     <name>ongmani.ct_orgchart</name>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pt.</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pt.</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pt.</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pt.</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pt.</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pt.</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pt.</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pt.</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pt.</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Structuur Aanpassen</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -3660,7 +3661,7 @@ Slide</source>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Keuze</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -3684,15 +3685,15 @@ Slide</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnstijl</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnstijl Palet</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -3724,7 +3725,7 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout Organigram</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3740,11 +3741,11 @@ Slide</source>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Vormlijn</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Slimme Keuze</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3756,11 +3757,11 @@ Slide</source>
     </message>
     <message>
         <source>Text Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertypekleur</translation>
     </message>
     <message>
         <source>TextAdapted</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste Tekst</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -3768,7 +3769,7 @@ Slide</source>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Thema</translation>
     </message>
 </context>
 <context>
@@ -3782,75 +3783,75 @@ Slide</source>
     <name>ongmani.ct_orgchart.OrgChartAndDiagram</name>
     <message>
         <source>Add Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistent Toevoegen</translation>
     </message>
     <message>
         <source>Add Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>Collega Toevoegen</translation>
     </message>
     <message>
         <source>Add One Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Eén Assistent Toevoegen</translation>
     </message>
     <message>
         <source>Add One Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>Eén Collega Toevoegen</translation>
     </message>
     <message>
         <source>Add One Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Eén Onderdaan Toevoegen</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderdaan Toevoegen</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Assistenten</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Verbindingslijnen</translation>
     </message>
     <message>
         <source>All OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Organigrammen</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Beide Hangend</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak</translation>
     </message>
     <message>
         <source>Delete Member</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Lid</translation>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Uitvullen</translation>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst uitlijnen op zowel de linker- als de rechtermarge. Hierbij wordt de ruimte tussen de woorden, indien nodig, vergroot.</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Links Hangend</translation>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorm Herstellen</translation>
     </message>
     <message>
         <source>ResetLayout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout Herstellen</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts Hangend</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -3858,7 +3859,7 @@ Slide</source>
     </message>
     <message>
         <source>level</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau</translation>
     </message>
 </context>
 <context>
@@ -3933,7 +3934,7 @@ Slide</source>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -4033,7 +4034,7 @@ Slide</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -4049,7 +4050,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4253,31 +4254,31 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Hand-outmodel</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (1 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (2 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (2 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (3 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (4 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (4 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (6 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (6 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (9 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (9 dia per pagina)</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -4293,15 +4294,15 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Notes pages (1 slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitiepagina&apos;s (1 per pagina)</translation>
     </message>
     <message>
         <source>Notes pages (3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitie-pagina&apos;s (3 per pagina)</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"></translation>
+        <translation>Schets</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -4321,11 +4322,11 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk overgeslane dia&apos;s af</translation>
     </message>
     <message>
         <source>Printing Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Printvolgorde</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -4370,23 +4371,23 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinese Omzetting</translation>
     </message>
     <message>
         <source>Covert to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet om naar vereenvoudigd Chinees.</translation>
     </message>
     <message>
         <source>Covert to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet om naar Traditioneel Chinees</translation>
     </message>
     <message>
         <source>Delete All Mark In Current Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder alle tekens in huidige presentatie</translation>
     </message>
     <message>
         <source>Delete All Mark In Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder alle tekens in huidige dia</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -4398,11 +4399,11 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder alle Opmaak</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder opmaak op Dia</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -4430,7 +4431,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Show/Hide Mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon/Verberg Opmaak</translation>
     </message>
 </context>
 <context>
@@ -4610,35 +4611,35 @@ Aan/Uit</translation>
     <name>ongmani.ct_slidemaster</name>
     <message>
         <source>108</source>
-        <translation type="unfinished"></translation>
+        <translation>108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation type="unfinished"></translation>
+        <translation>110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation type="unfinished"></translation>
+        <translation>117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation type="unfinished"></translation>
+        <translation>118</translation>
     </message>
     <message>
         <source>216</source>
-        <translation type="unfinished"></translation>
+        <translation>216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation type="unfinished"></translation>
+        <translation>252</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation type="unfinished"></translation>
+        <translation>8226</translation>
     </message>
     <message>
         <source>Backdrop</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrondschaduw</translation>
     </message>
     <message>
         <source>Background</source>
@@ -4659,15 +4660,16 @@ Aan/Uit</translation>
     <message>
         <source>Close
 Master View</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit
+Model</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Model</translation>
     </message>
     <message>
         <source>Edit Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig Model</translation>
     </message>
     <message>
         <source>Font</source>
@@ -4687,7 +4689,7 @@ Master View</source>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Model-Layout</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -4700,23 +4702,24 @@ Master View</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Dia
+Model</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw diamodel</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Titelmodel</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Behoud Model</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem Model</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
@@ -4735,31 +4738,31 @@ Master</source>
     <name>ongmani.ct_slidemaster.Num</name>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -4778,16 +4781,16 @@ Master</source>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Begin</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>Hide Slide</source>
@@ -4812,7 +4815,7 @@ Settings</source>
     </message>
     <message>
         <source>Slide Show From Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Presentatie Vanaf Begin</translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -4887,7 +4890,7 @@ Settings</source>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal Centreren</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -4899,7 +4902,7 @@ Settings</source>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Witruimte Verkleinen</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4947,7 +4950,7 @@ Settings</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -4955,11 +4958,11 @@ Settings</source>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Tekengrootte</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Regelafstand</translation>
     </message>
     <message>
         <source>Insert Above</source>
@@ -5123,7 +5126,7 @@ Other Window</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -5645,7 +5648,7 @@ Aan</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -5998,7 +6001,7 @@ Aan</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Kingsoft Presentatie</translation>
     </message>
     <message>
         <source>Action Buttons</source>
@@ -6006,7 +6009,7 @@ Aan</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Actie</translation>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
@@ -6026,7 +6029,7 @@ Aan</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Uitlijnen</translation>
     </message>
     <message>
         <source>All Slides</source>
@@ -6034,7 +6037,7 @@ Aan</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Animatie Effecten</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -6046,7 +6049,7 @@ Aan</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -6102,7 +6105,7 @@ Aan</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>COM-invoegtoepassingen</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6122,10 +6125,6 @@ Aan</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Wijzig Versie</translation>
-    </message>
-    <message>
-        <source>Change Version</source>
         <translation>Versie wijzigen</translation>
     </message>
     <message>
@@ -6134,7 +6133,7 @@ Aan</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinese Omzetting</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -6218,7 +6217,7 @@ Aan</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel Invoegen</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -6234,7 +6233,7 @@ Aan</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Model</translation>
     </message>
     <message>
         <source>Delete Point</source>
@@ -6250,7 +6249,7 @@ Aan</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwerp Templates</translation>
     </message>
     <message>
         <source>Diagram</source>
@@ -6266,7 +6265,7 @@ Aan</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Dupliceren</translation>
     </message>
     <message>
         <source>Duplicate Slide Master</source>
@@ -6322,11 +6321,11 @@ Aan</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder alle Opmaak</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder opmaak op Dia</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
@@ -6374,7 +6373,7 @@ Aan</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Font</source>
@@ -6402,7 +6401,7 @@ Aan</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Group</source>
@@ -6414,7 +6413,7 @@ Aan</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangend</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -6454,7 +6453,7 @@ Aan</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Invoegen</translation>
     </message>
     <message>
         <source>Insert Columns Left</source>
@@ -6466,11 +6465,11 @@ Aan</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen Erboven Invoegen</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen ERonder Invoegen</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -6505,10 +6504,6 @@ Aan</translation>
         <translation>KOS User login</translation>
     </message>
     <message>
-        <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS logout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6530,7 +6525,7 @@ Aan</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
+        <translation>KingsoftOffice</translation>
     </message>
     <message>
         <source>KingsoftOffice_KSO</source>
@@ -6578,7 +6573,7 @@ Aan</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Model-Layout</translation>
     </message>
     <message>
         <source>Menu Edit Comment</source>
@@ -6594,7 +6589,7 @@ Aan</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Film</translation>
     </message>
     <message>
         <source>Movies and Sounds</source>
@@ -6611,15 +6606,16 @@ Aan</translation>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Dia
+Model</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw diamodel</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Titelmodel</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -6671,11 +6667,11 @@ Master</source>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigram</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout Organigram</translation>
     </message>
     <message>
         <source>OrgChart Select</source>
@@ -6687,7 +6683,7 @@ Master</source>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Steek Presentatie in Map</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -6727,7 +6723,7 @@ Master</source>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Behoud Model</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -6767,11 +6763,11 @@ Master</source>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem Model</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Vervangen</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -6791,7 +6787,7 @@ Master</source>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Romeins</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -6863,7 +6859,7 @@ Master</source>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialayout</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -6896,10 +6892,6 @@ Master</source>
     <message>
         <source>Smooth Point</source>
         <translation>Boogpunt</translation>
-    </message>
-    <message>
-        <source>Smooth Point</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sound</source>
@@ -6951,7 +6943,7 @@ Master</source>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaal naar Document</translation>
     </message>
     <message>
         <source>Typography</source>
@@ -6963,7 +6955,7 @@ Master</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vast</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -6987,7 +6979,7 @@ Master</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS BBS</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -7064,11 +7056,11 @@ Master</source>
     <name>popupmenu.OrgChartAndDiagram</name>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Assistenten</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Verbindingslijnen</translation>
     </message>
     <message>
         <source>Assistant</source>
@@ -7080,11 +7072,11 @@ Master</source>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Beide Hangend</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak</translation>
     </message>
     <message>
         <source>Change to Cycle</source>
@@ -7128,7 +7120,7 @@ Master</source>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Links Hangend</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -7144,7 +7136,7 @@ Master</source>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts Hangend</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -7160,7 +7152,7 @@ Master</source>
     </message>
     <message>
         <source>level</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau</translation>
     </message>
 </context>
 <context>
@@ -7196,7 +7188,7 @@ Master</source>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Animatie Effecten</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -7204,11 +7196,11 @@ Master</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorbeeld</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformatie</translation>
     </message>
     <message>
         <source>Transition Effects</source>
@@ -7223,7 +7215,7 @@ Master</source>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurschema&apos;s</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -7247,11 +7239,11 @@ Master</source>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialayout</translation>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia-oriëntatie</translation>
     </message>
 </context>
 <context>
@@ -7313,7 +7305,7 @@ AddIns</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>COM-invoegtoepassingen</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -7588,7 +7580,7 @@ AddIns</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -7730,7 +7722,7 @@ AddIns</source>
     <name>rainbow.ct_file</name>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Kingsoft Presentatie</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -7786,11 +7778,11 @@ AddIns</source>
     </message>
     <message>
         <source>Kingsoft Presentation File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentatie Bestand</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentatie Hulp</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
@@ -7798,15 +7790,15 @@ AddIns</source>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97-2003 Presentatie</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97-2003 Presentatie Sjabloon</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97-2003 Voorstelling</translation>
     </message>
     <message>
         <source>New</source>
@@ -7818,7 +7810,7 @@ AddIns</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Niewe Presentatie</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -7850,7 +7842,7 @@ AddIns</source>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Steek Presentatie in Map</translation>
     </message>
     <message>
         <source>Print</source>
@@ -7906,7 +7898,7 @@ AddIns</source>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaal naar Document</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -7933,7 +7925,7 @@ AddIns</source>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentatie Hulp</translation>
     </message>
 </context>
 <context>
@@ -8040,7 +8032,7 @@ AddIns</source>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Uitlijnen</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -8056,7 +8048,7 @@ AddIns</source>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -8140,7 +8132,7 @@ AddIns</source>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal Centreren</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -8180,7 +8172,7 @@ AddIns</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettergrootte verkleinen</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -8188,7 +8180,7 @@ AddIns</source>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Witruimte Verkleinen</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -8212,7 +8204,7 @@ AddIns</source>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Dupliceren</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -8236,7 +8228,7 @@ AddIns</source>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8272,16 +8264,16 @@ AddIns</source>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Begin</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -8293,7 +8285,7 @@ Slide</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -8305,7 +8297,7 @@ Slide</source>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangend</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -8313,7 +8305,7 @@ Slide</source>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Tekengrootte</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -8321,7 +8313,7 @@ Slide</source>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Regelafstand</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -8357,7 +8349,7 @@ Slide</source>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Media</translation>
     </message>
     <message>
         <source>More</source>
@@ -8389,7 +8381,7 @@ Slide</source>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Film</translation>
     </message>
     <message>
         <source>New Slide</source>
@@ -8405,7 +8397,7 @@ Slide</source>
     </message>
     <message>
         <source>Package File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand Verpakken</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -8413,7 +8405,7 @@ Slide</source>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Steek Presentatie in Map</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -8449,7 +8441,7 @@ Slide</source>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Vervangen</translation>
     </message>
     <message>
         <source>Right</source>
@@ -8457,7 +8449,7 @@ Slide</source>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Romeins</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -8565,7 +8557,7 @@ Slide</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vast</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -8577,7 +8569,7 @@ Slide</source>
     </message>
     <message>
         <source>With Text Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Met Tekstformaat</translation>
     </message>
 </context>
 <context>
@@ -8630,11 +8622,11 @@ Slide</source>
     <name>rainbow.ct_insert</name>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Actie</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -8658,7 +8650,7 @@ Slide</source>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -8682,15 +8674,15 @@ Slide</source>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingen</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Invoegen</translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel Invoegen</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -8718,7 +8710,7 @@ Slide</source>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Media</translation>
     </message>
     <message>
         <source>More Symbols</source>
@@ -8738,7 +8730,7 @@ Slide</source>
     </message>
     <message>
         <source>Package File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand Verpakken</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -8746,7 +8738,7 @@ Slide</source>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Steek Presentatie in Map</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -8801,43 +8793,43 @@ Slide</source>
     <name>rainbow.ct_orgchart</name>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pt.</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pt.</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pt.</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pt.</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pt.</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pt.</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pt.</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pt.</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pt.</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Structuur Aanpassen</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -8889,7 +8881,7 @@ Slide</source>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Keuze</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -8898,7 +8890,6 @@ Slide</source>
     <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
-
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -8914,15 +8905,15 @@ Slide</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnstijl</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnstijl Palet</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -8954,7 +8945,7 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout Organigram</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -8970,11 +8961,11 @@ Slide</source>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Vormlijn</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Slimme Keuze</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -8990,7 +8981,7 @@ Slide</source>
     </message>
     <message>
         <source>Text Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertypekleur</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -8998,7 +8989,7 @@ Slide</source>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Thema</translation>
     </message>
 </context>
 <context>
@@ -9017,51 +9008,51 @@ Subordinate</source>
     </message>
     <message>
         <source>Add Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistent Toevoegen</translation>
     </message>
     <message>
         <source>Add Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>Collega Toevoegen</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderdaan Toevoegen</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Assistenten</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Verbindingslijnen</translation>
     </message>
     <message>
         <source>All OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Organigrammen</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Beide Hangend</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak</translation>
     </message>
     <message>
         <source>Delete Member</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Lid</translation>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Uitvullen</translation>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst uitlijnen op zowel de linker- als de rechtermarge. Hierbij wordt de ruimte tussen de woorden, indien nodig, vergroot.</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Links Hangend</translation>
     </message>
     <message>
         <source>Level</source>
@@ -9073,11 +9064,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorm Herstellen</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts Hangend</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -9156,7 +9147,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -9197,7 +9188,6 @@ Subordinate</source>
     <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
-
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -9261,7 +9251,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -9277,7 +9267,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Invoegen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -9486,31 +9476,31 @@ Subordinate</source>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Hand-outmodel</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (1 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (2 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (2 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (3 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (4 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (4 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (6 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (6 dia per pagina)</translation>
     </message>
     <message>
         <source>Handouts (9 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Handouts (9 dia per pagina)</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -9526,15 +9516,15 @@ Subordinate</source>
     </message>
     <message>
         <source>Notes pages (1 slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitiepagina&apos;s (1 per pagina)</translation>
     </message>
     <message>
         <source>Notes pages (3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitie-pagina&apos;s (3 per pagina)</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"></translation>
+        <translation>Schets</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -9554,15 +9544,15 @@ Subordinate</source>
     </message>
     <message>
         <source>Print Skipped Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk overgeslane dia&apos;s af</translation>
     </message>
     <message>
         <source>Printing Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Printvolgorde</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
+        <translation>Puur zwart/wit</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9574,7 +9564,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia&apos;s</translation>
     </message>
 </context>
 <context>
@@ -9599,7 +9589,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinese Omzetting</translation>
     </message>
     <message>
         <source>Conversion</source>
@@ -9607,11 +9597,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Covert to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet om naar vereenvoudigd Chinees.</translation>
     </message>
     <message>
         <source>Covert to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet om naar Traditioneel Chinees</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9631,11 +9621,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder alle Opmaak</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder opmaak op Dia</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -9841,36 +9831,37 @@ Subordinate</source>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Model</translation>
     </message>
     <message>
         <source>Edit Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig Model</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Model-Layout</translation>
     </message>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Dia
+Model</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw diamodel</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Titelmodel</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Behoud Model</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem Model</translation>
     </message>
 </context>
 <context>
@@ -9881,16 +9872,16 @@ Master</source>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Begin</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>Hide Slide</source>
@@ -9967,7 +9958,7 @@ Settings</source>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal Centreren</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -10124,7 +10115,7 @@ Other Window</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -10519,7 +10510,6 @@ Other Window</source>
     <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
-
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -10623,7 +10613,7 @@ Other Window</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
+        <translation>Raster en Hulplijnen</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -11126,7 +11116,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignCenter</name>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal Centreren</translation>
     </message>
     <message>
         <source>Vertically center the text.</source>
@@ -11148,7 +11138,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AnimationSchemes</name>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Animatie Effecten</translation>
     </message>
     <message>
         <source>Bring up &apos;Slide Design - Animation Schemes&apos; task pane to apply animation effects to the current slide or the entire presentation.</source>
@@ -11293,7 +11283,7 @@ Klik op de pijl om tussen verschillende stijlen van opsommingstekens te kiezen.<
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>COM-invoegtoepassingen</translation>
     </message>
 </context>
 <context>
@@ -11436,7 +11426,7 @@ Klik op de pijl om tussen verschillende stijlen van opsommingstekens te kiezen.<
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurschema&apos;s</translation>
     </message>
 </context>
 <context>
@@ -11504,7 +11494,7 @@ A custom slide show displays only the slides you select.</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettergrootte verkleinen</translation>
     </message>
 </context>
 <context>
@@ -11522,7 +11512,7 @@ A custom slide show displays only the slides you select.</source>
     <name>tips.DecreaseSpace</name>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Witruimte Verkleinen</translation>
     </message>
     <message>
         <source>Decrease spacing between lines.</source>
@@ -11555,7 +11545,7 @@ A custom slide show displays only the slides you select.</source>
     <name>tips.DeleteMaster</name>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder Model</translation>
     </message>
     <message>
         <source>Delete the selected slide master.</source>
@@ -11688,14 +11678,14 @@ A custom slide show displays only the slides you select.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawAlignTop</name>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Uitlijnen</translation>
     </message>
     <message>
         <source>Click the arrow to select a different alignment.</source>
@@ -11746,7 +11736,7 @@ Click the arrow to select a different alignment.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -11798,7 +11788,7 @@ Click the arrow to select a different alignment.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -11902,7 +11892,7 @@ Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -11991,7 +11981,7 @@ Dubbelklik deze knop om dezelfde opmaak op verschillende plaatsen in het documen
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12045,7 +12035,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12075,14 +12065,14 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseFontSize</name>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Tekengrootte</translation>
     </message>
     <message>
         <source>Increase the font size.</source>
@@ -12104,7 +12094,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.IncreaseSpace</name>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Regelafstand</translation>
     </message>
     <message>
         <source>Increase spacing between lines.</source>
@@ -12131,7 +12121,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12197,7 +12187,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Media</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -12205,7 +12195,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12254,7 +12244,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12306,7 +12296,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12325,7 +12315,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12518,7 +12508,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     <name>tips.MasterLayout</name>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Model-Layout</translation>
     </message>
     <message>
         <source>Set the placeholder elements contained in the slide master.</source>
@@ -12541,7 +12531,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12582,7 +12572,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12604,7 +12594,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw diamodel</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -12612,7 +12602,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -12623,7 +12613,7 @@ Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw Titelmodel</translation>
     </message>
 </context>
 <context>
@@ -12920,7 +12910,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     <name>tips.PreserveMaster</name>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Behoud Model</translation>
     </message>
     <message>
         <source>Preserve the selected master slide. Even if it is unused it can still remain in the presentation.</source>
@@ -13045,7 +13035,7 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     <name>tips.PrintingOrder</name>
     <message>
         <source>Printing Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Printvolgorde</translation>
     </message>
     <message>
         <source>Set the order of printed handouts vertically or horizontally.</source>
@@ -13096,7 +13086,7 @@ Click the arrow to select different fill options.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -13117,14 +13107,14 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.RenameMaster</name>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem Model</translation>
     </message>
     <message>
         <source>Rename the selected master slide.</source>
@@ -13173,7 +13163,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -13203,7 +13193,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -13456,7 +13446,7 @@ Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwerp Templates</translation>
     </message>
 </context>
 <context>
@@ -13467,7 +13457,7 @@ Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialayout</translation>
     </message>
 </context>
 <context>
@@ -13507,7 +13497,7 @@ Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     <name>tips.SlideOrientation</name>
     <message>
         <source>Slide Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia-oriëntatie</translation>
     </message>
     <message>
         <source>Switch the slide orientation between portrait and landscape.</source>
@@ -13540,7 +13530,7 @@ Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     <name>tips.SlideShowFromCurrent</name>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>Start the slide show from the current slide.</source>
@@ -13607,7 +13597,7 @@ Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -14064,7 +14054,7 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
     <name>tips.WpPrintWhat_OutlineView</name>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"></translation>
+        <translation>Schets</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Outline view&apos;. Slide content showed in print page by outline way.</source>
@@ -14188,10 +14178,6 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
         <translation>KOS User login</translation>
     </message>
     <message>
-        <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS logout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14298,7 +14284,7 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigram</translation>
     </message>
 </context>
 <context>
@@ -14409,7 +14395,7 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettergrootte verkleinen</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -14462,11 +14448,11 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Vanaf Huidige Dia</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -14490,7 +14476,7 @@ Slide</source>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Grotere Tekengrootte</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -14518,7 +14504,7 @@ Slide</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <source>Left</source>
@@ -14562,7 +14548,7 @@ Slide</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Niewe Presentatie</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -14674,7 +14660,7 @@ Slide</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Controletaal Aanpassen</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -14706,7 +14692,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialayout</translation>
     </message>
     <message>
         <source>Slide Miniature Popup Menu</source>
@@ -14821,7 +14807,7 @@ Slide</source>
     <name>wppcommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentatie Hulp</translation>
     </message>
 </context>
 <context>
@@ -14832,7 +14818,7 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigram</translation>
     </message>
 </context>
 <context>
@@ -14933,10 +14919,6 @@ Slide</source>
     <message>
         <source>KOS User login</source>
         <translation>KOS User login</translation>
-    </message>
-    <message>
-        <source>KOS User login</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS logout</source>
@@ -15073,7 +15055,7 @@ Slide</source>
     <name>wppongmani.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigram</translation>
     </message>
 </context>
 <context>
@@ -15183,7 +15165,7 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigram</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -15251,7 +15233,7 @@ Slide</source>
     </message>
     <message>
         <source>Window Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster Sluiten</translation>
     </message>
     <message>
         <source>Window Max</source>
@@ -15307,7 +15289,7 @@ Slide</source>
     <name>wpprainbow.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigram</translation>
     </message>
 </context>
 </TS>
