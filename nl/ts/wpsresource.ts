@@ -1587,7 +1587,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Enterprise Microblogging</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -2667,7 +2667,7 @@ Aan</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal Tekstvak</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -2883,7 +2883,7 @@ Aan</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Verticaal Tekstvak</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -2914,7 +2914,7 @@ Aan</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak CloudLink Titel</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -3108,7 +3108,7 @@ Aan</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3315,7 +3315,7 @@ Aan</translation>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Randen</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3388,7 +3388,8 @@ Aan</translation>
     <message>
         <source>Format
 Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Opmaak
+Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -3408,11 +3409,11 @@ Painter</source>
     </message>
     <message>
         <source>Home Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Thuisobject Selecteren</translation>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale Middenrand</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3588,7 +3589,7 @@ Painter</source>
     </message>
     <message>
         <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Verticale Middenrand</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -3618,7 +3619,7 @@ Painter</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindes</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -3634,7 +3635,7 @@ Painter</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolomeinde</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -3646,7 +3647,7 @@ Painter</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Sectie-einde</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -3686,7 +3687,7 @@ Painter</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Even-pagina-einde</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3746,15 +3747,15 @@ Painter</source>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding uit Bestand toevoegen</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding uit Scan Toevoegen</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Scan Invoegen</translation>
     </message>
     <message>
         <source>Links</source>
@@ -3770,7 +3771,7 @@ Painter</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende Pagina Sectie-einde</translation>
     </message>
     <message>
         <source>Number</source>
@@ -3782,7 +3783,7 @@ Painter</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Oneven-pagina-einde</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -3819,7 +3820,7 @@ Painter</source>
     <message>
         <source>Sym
 bol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -3851,7 +3852,7 @@ bol</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstterugloop-einde</translation>
     </message>
     <message>
         <source>Text from File</source>
@@ -4296,7 +4297,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Rotate Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotatiestijl</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5408,7 +5409,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>DetailedSettings</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -5888,15 +5889,15 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Align Bottom Center</source>
-        <translation>Uitlijnen Omlaag Midden</translation>
+        <translation>Gecentreerd Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Bottom Justified</source>
-        <translation>Uitlijnen Omlaag Gerechtvaardigd</translation>
+        <translation>Linksonder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Bottom Right</source>
-        <translation>Uitlijnen Omlaag Rechts</translation>
+        <translation>Rechtsonder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -5904,23 +5905,23 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Align Center Justified</source>
-        <translation>Uitlijnen Midden Gerechtvaardigd</translation>
+        <translation>Linksmidden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center Right</source>
-        <translation>Uitlijnen Rechts</translation>
+        <translation>Rechtsmidden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top Center</source>
-        <translation>Uitlijnen Omhoog Midden</translation>
+        <translation>Gecentreerd Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top Justified</source>
-        <translation>Uitlijnen Omhoog Gerechtvaardigd</translation>
+        <translation>Linksboven Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top Right</source>
-        <translation>Uitlijnen Omhoog Rechts</translation>
+        <translation>Rechtboven Uitlijnen</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -6177,7 +6178,7 @@ Delen</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>COM Add-Ins</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -7251,7 +7252,7 @@ Aan</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
-        <translation type="unfinished"></translation>
+        <translation>KOS Maak Cloud Link</translation>
     </message>
     <message>
         <source>KOS My account</source>
@@ -7490,7 +7491,7 @@ Aan</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -12101,15 +12102,15 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Align Bottom Center</source>
-        <translation>Uitlijnen Omlaag Midden</translation>
+        <translation>Gecentreerd Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Bottom Justified</source>
-        <translation>Uitlijnen Omlaag Gerechtvaardigd</translation>
+        <translation>Linksonder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Bottom Right</source>
-        <translation>Uitlijnen Omlaag Rechts</translation>
+        <translation>Rechtsonder Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -12117,23 +12118,23 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Align Center Justified</source>
-        <translation>Uitlijnen Midden Gerechtvaardigd</translation>
+        <translation>Linksmidden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Center Right</source>
-        <translation>Uitlijnen Rechts</translation>
+        <translation>Rechtsmidden Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top Center</source>
-        <translation>Uitlijnen Omhoog Midden</translation>
+        <translation>Gecentreerd Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top Justified</source>
-        <translation>Uitlijnen Omhoog Gerechtvaardigd</translation>
+        <translation>Linksboven Uitlijnen</translation>
     </message>
     <message>
         <source>Align Top Right</source>
-        <translation>Uitlijnen Omhoog Rechts</translation>
+        <translation>Rechtboven Uitlijnen</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -13603,7 +13604,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignBottomCenter</name>
     <message>
         <source>Align Bottom Center</source>
-        <translation>Uitlijnen Omlaag Midden</translation>
+        <translation>Gecentreerd Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Center text and align it to the bottom of the cell.</source>
@@ -13614,7 +13615,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignBottomJustified</name>
     <message>
         <source>Align Bottom Justified</source>
-        <translation>Uitlijnen Omlaag Gerechtvaardigd</translation>
+        <translation>Linksonder Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the bottom left corner of the cell.</source>
@@ -13625,7 +13626,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignBottomRight</name>
     <message>
         <source>Align Bottom Right</source>
-        <translation>Uitlijnen Omlaag Rechts</translation>
+        <translation>Rechtsonder Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the bottom right corner of the cell.</source>
@@ -13647,7 +13648,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignCenterJustified</name>
     <message>
         <source>Align Center Justified</source>
-        <translation>Uitlijnen Midden Gerechtvaardigd</translation>
+        <translation>Linksmidden Uitlijnen</translation>
     </message>
     <message>
         <source>Center text vertically and align it to the left side of the cell.</source>
@@ -13658,7 +13659,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignCenterRight</name>
     <message>
         <source>Align Center Right</source>
-        <translation>Uitlijnen Rechts</translation>
+        <translation>Rechtsmidden Uitlijnen</translation>
     </message>
     <message>
         <source>Center text and align it to the right side of the cell.</source>
@@ -13680,7 +13681,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignTopCenter</name>
     <message>
         <source>Align Top Center</source>
-        <translation>Uitlijnen Omhoog Midden</translation>
+        <translation>Gecentreerd Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Center text and align it to the top of the cell.</source>
@@ -13691,7 +13692,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignTopJustified</name>
     <message>
         <source>Align Top Justified</source>
-        <translation>Uitlijnen Omhoog Gerechtvaardigd</translation>
+        <translation>Linksboven Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the top left corner of the cell.</source>
@@ -13702,7 +13703,7 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.AlignTopRight</name>
     <message>
         <source>Align Top Right</source>
-        <translation>Uitlijnen Omhoog Rechts</translation>
+        <translation>Rechtboven Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the top right corner of the cell.</source>
@@ -19246,7 +19247,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Table Style</source>
-        <translation>Tabelstijn</translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>Table Tools</source>
