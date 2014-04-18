@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru_RU">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.1" language="ru_RU">
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -3994,7 +3993,7 @@ On</source>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск/Замена</translation>
     </message>
     <message>
         <source>Font</source>
@@ -4010,7 +4009,7 @@ On</source>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форматирование</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -4223,19 +4222,19 @@ Center</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортировка</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортировать по возрастанию</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортировать по убыванию</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стили</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -4307,7 +4306,7 @@ Center</source>
     </message>
     <message>
         <source>WorkSheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лист</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -5486,7 +5485,7 @@ On/Off</source>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Close
@@ -5507,7 +5506,7 @@ Other Window</source>
     </message>
     <message>
         <source>Freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиксировать</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -5575,7 +5574,7 @@ Other Window</source>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Убрать фиксацию</translation>
     </message>
     <message>
         <source>Unsplit</source>
@@ -12401,9 +12400,6 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
     </message>
 </context>
 <context>
-    <name>tips.GoalSeek</name>
-</context>
-<context>
     <name>tips.Group</name>
     <message>
         <source>Group</source>
@@ -14634,11 +14630,11 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WorkSheet</name>
     <message>
         <source>Click here to modify the worksheet. You can insert or delete the worksheet, change the worksheet name, or change the color of the worksheet tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нажмите для управления листами. Вы можете добавить или удалить лист, изменить имя листа или цвет вкладки.</translation>
     </message>
     <message>
         <source>Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Лист</translation>
     </message>
 </context>
 <context>
@@ -14658,7 +14654,9 @@ Click the arrow to choose more outline styles.</source>
         <source>Open the Zoom dialog box to specify the zoom level of the document. 
 
 In most cases, you can also use the zoom controls in the status bar at the bottom of the window to quickly zoom the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для установки масштаба откройте диалог. 
+
+В большинстве случаев, вы можете использовать управление масштабом страницы в статус баре внизу окна.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -14680,22 +14678,23 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <name>tips.sp_AutoSum</name>
     <message>
         <source>Click here to display the result of a simple calculation, such as Average or Maximum value, after the selected cells.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нажмите для получения результата простых вычислений. Таких, как среднее значение или максимальное число. Результат будет выведен после выделенных ячеек.</translation>
     </message>
     <message>
         <source>Display the sum of the selected cells directly after the selected cells.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Получает сумму выделенных ячеек. </translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ссимс</translatorcomment>
+        <translation type="unfinished">Сумма</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation>Щёлкните здесь, чтобы посмотреть дополнительные параметры, такие как вставка из буфера обмена только значений.</translation>
+        <translation>Щёлкните здесь, чтобы посмотреть дополнительные параметры, такие как вставка из буфера обмена только значений.  или форматирования.</translation>
     </message>
     <message>
         <source>Paste</source>
