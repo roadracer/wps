@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2147,11 +2147,11 @@ Daten anzeigen</translation>
     <name>ongmani.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Rahmenlinien</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -2159,11 +2159,11 @@ Daten anzeigen</translation>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen und Schattierung</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie unten</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -2171,7 +2171,7 @@ Daten anzeigen</translation>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinien innen</translation>
     </message>
     <message>
         <source>Draw MutidiagonalCell</source>
@@ -2191,11 +2191,11 @@ Daten anzeigen</translation>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Innere horizontale Rahmenlinie</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie links</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -2215,7 +2215,7 @@ Daten anzeigen</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Rahmen</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -2223,15 +2223,15 @@ Daten anzeigen</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie rechts</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Schattierung</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -2247,11 +2247,11 @@ Daten anzeigen</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie oben</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Innere vertikale Rahmenlinie</translation>
     </message>
 </context>
 <context>
@@ -3226,7 +3226,7 @@ On</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Rahmenlinien</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -3238,11 +3238,11 @@ On</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen und Schattierung</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie unten</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3290,7 +3290,7 @@ On</source>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinien innen</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3387,7 +3387,7 @@ Painter</source>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Innere horizontale Rahmenlinie</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3403,7 +3403,7 @@ Painter</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie links</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3439,15 +3439,15 @@ Painter</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Rahmen</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Außenrahmen</translation>
+        <translation>Rahmenlinien außen</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3479,7 +3479,7 @@ Painter</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie rechts</translation>
     </message>
     <message>
         <source>Select</source>
@@ -3543,7 +3543,7 @@ Painter</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie oben</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -3559,7 +3559,7 @@ Painter</source>
     </message>
     <message>
         <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Innere vertikale Rahmenlinie</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -3589,7 +3589,7 @@ Painter</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbrüche</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -3605,19 +3605,19 @@ Painter</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaltenumbruch</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnittsumbruch (fortlaufend)</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -3657,7 +3657,7 @@ Painter</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnittsumbruch (gerade Seite)</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3741,7 +3741,7 @@ Painter</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnittsumbruch (nächste Seite)</translation>
     </message>
     <message>
         <source>Number</source>
@@ -3753,7 +3753,7 @@ Painter</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnittsumbruch (ungerade Seite)</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -3823,7 +3823,7 @@ bol</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Textumbruch</translation>
     </message>
     <message>
         <source>Text from File</source>
@@ -8480,22 +8480,22 @@ Diagonal Line in Cell</source>
     <name>popupmenu.InsertBlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.InsertTextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal</translation>
     </message>
 </context>
 <context>
@@ -8527,7 +8527,7 @@ Diagonal Line in Cell</source>
     <name>rainbow.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Rahmenlinien</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -8535,11 +8535,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen und Schattierung</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie unten</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -8547,7 +8547,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinien innen</translation>
     </message>
     <message>
         <source>Draw
@@ -8568,11 +8568,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Innere horizontale Rahmenlinie</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie links</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -8592,19 +8592,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Rahmen</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Außenrahmen</translation>
+        <translation>Rahmenlinien außen</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie rechts</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -8620,11 +8620,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie oben</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Innere vertikale Rahmenlinie</translation>
     </message>
 </context>
 <context>
@@ -9528,7 +9528,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Rahmenlinien</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -9540,11 +9540,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen und Schattierung</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie unten</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -9592,7 +9592,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinien innen</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -9672,7 +9672,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Innere horizontale Rahmenlinie</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -9688,7 +9688,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie links</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9724,15 +9724,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Rahmen</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Außenrahmen</translation>
+        <translation>Rahmenlinien außen</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9760,7 +9760,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie rechts</translation>
     </message>
     <message>
         <source>Select</source>
@@ -9828,7 +9828,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinie oben</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -9844,7 +9844,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Innere vertikale Rahmenlinie</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -9874,7 +9874,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbrüche</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -9890,19 +9890,19 @@ Header and Footer</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaltenumbruch</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnittsumbruch (fortlaufend)</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -9942,7 +9942,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnittsumbruch (gerade Seite)</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -10038,7 +10038,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnittsumbruch (nächste Seite)</translation>
     </message>
     <message>
         <source>Number</source>
@@ -10050,7 +10050,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnittsumbruch (ungerade Seite)</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -10114,7 +10114,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Textumbruch</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -13384,7 +13384,7 @@ Other Window</source>
     </message>
     <message>
         <source>Zoom the document to 100% of the normal size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Dokument auf 100% der normalen Größe zoomen.</translation>
     </message>
 </context>
 <context>
@@ -16490,9 +16490,6 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
 </context>
 <context>
-    <name>tips.ProtectDocument</name>
-</context>
-<context>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
@@ -16544,11 +16541,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Customize the borders of the selected cells or text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Rahmen der ausgewähten Zellen oder des ausgewählten Textes anpassen.</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -17160,7 +17157,7 @@ Click the arrow to select subscript.</source>
     <name>tips.TableBorderColor</name>
     <message>
         <source>Border Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenfarbe</translation>
     </message>
     <message>
         <source>Click the arrow to select different border colors.</source>
@@ -17181,7 +17178,7 @@ Click the arrow to select different border colors.</source>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienstil</translation>
     </message>
 </context>
 <context>
@@ -17192,7 +17189,7 @@ Click the arrow to select different border colors.</source>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienstärke</translation>
     </message>
 </context>
 <context>
@@ -17203,7 +17200,7 @@ Click the arrow to select different border colors.</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhaltsverzeichnis</translation>
     </message>
 </context>
 <context>
@@ -17613,11 +17610,11 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Dialogfeld &quot;Zoom&quot; öffnen, um den Zoommodus des Dokuments anzugeben.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
 </context>
 <context>
@@ -17746,33 +17743,33 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_PageBorder</name>
     <message>
         <source>Add or change the border around the page of the current section or the entire document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Rahmen für die aktuelle Auswahl oder das gesamte Dokument auswählen.</translation>
     </message>
     <message>
         <source>Page Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenrahmen</translation>
     </message>
 </context>
 <context>
     <name>tips.m_PageSize</name>
     <message>
         <source>Choose a paper size for the current section or the entire document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Papierformat für die aktuelle Auswahl oder das gesamte Dokument auswählen.</translation>
     </message>
     <message>
         <source>Page Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenformat</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drücke F1, um die Hilfe anzuzeigen.</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehen</translation>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
@@ -20634,11 +20631,11 @@ Datensatz</translation>
     </message>
     <message>
         <source>Restrict</source>
-        <translation type="unfinished"></translation>
+        <translation>Einschränken</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished">Bearbeitung einschränken</translation>
+        <translation>Bearbeitung einschränken</translation>
     </message>
     <message>
         <source>Right</source>
