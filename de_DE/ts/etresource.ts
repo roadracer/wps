@@ -3750,7 +3750,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>Neu aus anderen Vorlagen</translation>
+        <translation>Neu aus anderen Templates</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -11952,7 +11952,7 @@ AddIns</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from My Computer Templates</source>

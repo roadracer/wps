@@ -4129,11 +4129,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus anderen Vorlagen...</translation>
     </message>
 </context>
 <context>
@@ -4168,7 +4168,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New From Other Templates...</source>
@@ -4184,7 +4184,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus anderen Vorlagen...</translation>
     </message>
 </context>
 <context>

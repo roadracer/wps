@@ -6353,11 +6353,11 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>Format Text box...</source>
@@ -9221,18 +9221,6 @@ Continue ?</source>
     </message>
     <message>
         <source>Edit range without a password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -3926,7 +3926,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished">Neu aus Standardvorlage</translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
@@ -4634,7 +4634,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
