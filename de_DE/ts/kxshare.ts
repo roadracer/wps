@@ -1178,35 +1178,35 @@
     <name>KxAutoShapePanel</name>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktions-Buttons</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindungen</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation type="unfinished"></translation>
+        <translation>Flussdiagramm</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linien</translation>
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfache Formen</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation type="unfinished"></translation>
+        <translation>Sterne und Banner</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Blockpfeile</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprechblasen</translation>
     </message>
 </context>
 <context>
