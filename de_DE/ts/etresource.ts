@@ -3750,7 +3750,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>Neu aus anderen Vorlagen</translation>
+        <translation>Neu aus anderen Templates</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -7871,7 +7871,7 @@ und zentrieren</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Außenrahmen</translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -11952,7 +11952,7 @@ AddIns</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from My Computer Templates</source>
@@ -12538,7 +12538,7 @@ Center</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -16934,11 +16934,11 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     <name>tips.OutsideBorders</name>
     <message>
         <source>Apply outside borders to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Rahmen der ausgewählten Zelle(n) anpassen.</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
 </context>
 <context>
