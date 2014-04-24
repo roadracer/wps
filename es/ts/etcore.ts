@@ -5,33 +5,33 @@
     <name>et_app</name>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoja de Cálculo de Kingsoft</translation>
     </message>
     <message>
         <source>VBAProject</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyecto VBA</translation>
     </message>
     <message>
         <source>ThisWorkbook</source>
-        <translation type="unfinished"></translation>
+        <translation>MiLibro</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento se guardará en formato &quot;%s&quot;. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento ha sido bloqueado por otra aplicación. ¿Desea abrirlo como documento de solo lectura?</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Spreadsheets opening this file.
@@ -40,7 +40,12 @@ Please try one of the following.
 •Make sure there is enough memory and disk space.	
 •Make sure this file is recognizable format.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Se han encontrado errores al abrir este archivo.
+Por favor, intente alguna de las siguientes opciones:
+•Asegúrese de que se permite el acceso al archivo o al dispositivo en el que se encuentra.
+•Asegúrese de que hay suficiente memoria y espacio en el disco.	
+•Asegúrese de que el archivo tiene un formato reconocible.
+</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
