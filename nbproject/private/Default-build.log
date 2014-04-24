@@ -1,0 +1,6 @@
+./each_locale /usr/bin/make all
+make[1]: вход в каталог «/home/ms/NetBeansProjects/wps_i18n/ar»
+Makefile:1: *** пропущен разделитель.  Останов.
+make[1]: выход из каталога «/home/ms/NetBeansProjects/wps_i18n/ar»
+Makefile:2: ошибка выполнения рецепта для цели «all»
+make: *** [all] Ошибка 2
