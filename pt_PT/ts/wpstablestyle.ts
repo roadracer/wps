@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type=Realçe></translation>
+        <translation type=Realce></translation>
     </message>
     <message>
         <source>1-</source>
@@ -45,15 +45,15 @@
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type=Estilo de cores escuras 2 - Realçe 1/Realçe 2></translation>
+        <translation type=Estilo de cores escuras 2 - Realce 1/Realce 2></translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type=Estilo de cores escuras 2 - Realçe 3/Realçe 4></translation>
+        <translation type=Estilo de cores escuras 2 - Realce 3/Realce 4></translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type=Estilo de cores escuras 2 - Realçe 5/Realçe 6></translation>
+        <translation type=Estilo de cores escuras 2 - Realce 5/Realce 6></translation>
     </message>
     <message>
         <source>First Row</source>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type=Realçe></translation>
+        <translation type=Realce></translation>
     </message>
     <message>
         <source>1-</source>
