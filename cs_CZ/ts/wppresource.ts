@@ -14956,7 +14956,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stick the ToolBaar</source>
+        <source>Stick the ToolBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

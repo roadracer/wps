@@ -117,15 +117,15 @@
     <name>classics.3dsettings</name>
     <message>
         <source>0 pt</source>
-        <translation>0 pto</translation>
+        <translation type="obsolete">0 pto</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation>144 pto</translation>
+        <translation type="obsolete">144 pto</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation>288 pto</translation>
+        <translation type="obsolete">288 pto</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -133,7 +133,7 @@
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3-D</translation>
+        <translation type="obsolete">Activar/Desactivar 3-D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -11751,7 +11751,7 @@ Haga clic en la flecha para eliminar el marcado de la presentación.</translatio
     <name>tips.DistRowSevenly</name>
     <message>
         <source>Distribute Rows</source>
-        <translation>>Distribuir filas</translation>
+        <translation>&gt;Distribuir filas</translation>
     </message>
     <message>
         <source>Distribute the height of the selected rows equally between them.</source>
@@ -15119,12 +15119,8 @@ Slide</source>
         <translation>Presentación con diapositivas</translation>
     </message>
     <message>
-        <source>Stick the ToolBaar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Stick the ToolBar</source>
-        <translation type="obsolete">Pegar la barra de herramientas</translation>
+        <translation type="unfinished">Pegar la barra de herramientas</translation>
     </message>
     <message>
         <source>Switch UI</source>

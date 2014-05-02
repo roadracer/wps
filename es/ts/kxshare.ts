@@ -31,7 +31,7 @@
     <name>DlgKxFileConverter</name>
     <message>
         <source>File Conversion</source>
-        <translation type="unfinished">Conversión de archivo</translation>
+        <translation>Conversión de archivo</translation>
     </message>
     <message>
         <source>Text encoding:</source>
@@ -316,7 +316,7 @@
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Los cambios de diseño surtirán efecto tras reiniciar.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1827,7 +1827,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verde</translation>
     </message>
     <message>
         <source>Coffee</source>
@@ -1843,7 +1843,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rojo</translation>
     </message>
     <message>
         <source>Shading styles</source>
@@ -2533,7 +2533,7 @@ Haga doble clic en cualquier objeto para abrir el archivo, o puede usar el menú
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desde el centro</translation>
     </message>
     <message>
         <source>Fro&amp;m title</source>
@@ -3531,11 +3531,11 @@ Haga doble clic en cualquier objeto para abrir el archivo, o puede usar el menú
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Aceptar</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Cancelar</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4621,7 +4621,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oro</translation>
     </message>
     <message>
         <source>Light Orange</source>

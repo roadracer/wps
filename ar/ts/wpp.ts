@@ -1442,10 +1442,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>معاينة</translation>
     </message>
@@ -1467,6 +1463,10 @@
     </message>
     <message>
         <source>&amp;Page number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2626,10 +2626,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have no permission to write files into this directory.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2659,6 +2655,10 @@
     </message>
     <message>
         <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3651,10 +3651,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All slides among the rang must be marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Selected slides have marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3664,6 +3660,10 @@
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

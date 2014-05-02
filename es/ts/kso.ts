@@ -4298,7 +4298,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Open in broser</source>
-        <translation>Abrir en navegador</translation>
+        <translation type="obsolete">Abrir en navegador</translation>
     </message>
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -4437,7 +4437,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation>No puede crear una tabla dinámica con estos datos. Por favor, asegúrese de si los datos que desea analizar cumplen los siguientes requisitos:
+        <translation type="obsolete">No puede crear una tabla dinámica con estos datos. Por favor, asegúrese de si los datos que desea analizar cumplen los siguientes requisitos:
 1.Asegúrese de que la referencia existe. Si es un nombre, debe estar en un rango válido;
 2.Asegúrese de que la referencia es de un solo rango, y debe contener dos filas al menos;
 3.Asegúrese de que la primera fila del rango de referencia no contiene ninguna celda vacía, ningún error de valor, y que cada celda no contiene más de 255 caracteres.</translation>
@@ -4448,7 +4448,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
-        <translation>El nombre de la tabla dinámica no es válido.
+        <translation type="obsolete">El nombre de la tabla dinámica no es válido.
 
 Para crear un informe de tabla dinámica, debe usar datos que estén organizados en una lista con columnas etiquetadas. 
 
@@ -4461,12 +4461,40 @@ You have installed Kingsoft Office Personal Trial Edition.
 For better service, please update the trial edition to standard edition by:
 1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
 2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
-        <translation>Gracias por ejegir un producto de Kingsoft Office.
+        <translation type="obsolete">Gracias por ejegir un producto de Kingsoft Office.
 
 Ha instalado la edición de prueba de Kingsoft Office PErsonal.
 Para un mejor servicio, por favor actualice la versión de prueba a la edición estándar:
 1. Haga clic en &quot;Validar su pasaporte Kingsoft&quot;. Si no ha registrado un pasaporte Kingsoft, por favor haga clic en &quot;Registrar pasaporte Kingsoft&quot; primero;
 2. Haga clic en &quot;Pasaporte Kingsoft&quot; bajo el menú de &quot;Ayuda&quot;.</translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PivotTable field name is not valid. 
+
+To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
+
+If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thank you for choosing Kingsoft Office series product.
+
+You have installed Kingsoft Office Personal Trial Edition.
+For better service, please update the trial edition to standard edition by:
+1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
+2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation type="unfinished">Abrir en navegador</translation>
     </message>
     <message>
         <source>Organization Chart

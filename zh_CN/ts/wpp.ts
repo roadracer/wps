@@ -1851,7 +1851,7 @@
     </message>
     <message>
         <source>Cancle</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
@@ -1888,6 +1888,10 @@
     <message>
         <source>Slide &amp;number</source>
         <translation>幻灯片编号(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -3309,7 +3313,7 @@ be recovered.</source>
     </message>
     <message>
         <source>The directory you specified dose not exist.</source>
-        <translation>指定的目录不存在。</translation>
+        <translation type="obsolete">指定的目录不存在。</translation>
     </message>
     <message>
         <source>The file is exist, are you sure to overwrite the file?</source>
@@ -3354,6 +3358,10 @@ be recovered.</source>
     <message>
         <source>You selected to output slides does not exist, please choose another.</source>
         <translation type="obsolete">您所选的要输出的幻灯片不存在，请选另一个。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4846,7 +4854,7 @@ be recovered.</source>
     </message>
     <message>
         <source>All slides among the rang must be marked as hidden!</source>
-        <translation>在此范围内所有的幻灯片已标记为隐藏！</translation>
+        <translation type="obsolete">在此范围内所有的幻灯片已标记为隐藏！</translation>
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
@@ -5051,6 +5059,10 @@ be recovered.</source>
     <message>
         <source>Close</source>
         <translation>关闭</translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
+        <translation>在此范围内所有的幻灯片已标记为隐藏！</translation>
     </message>
 </context>
 <context>

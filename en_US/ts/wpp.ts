@@ -1666,10 +1666,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Don&apos;t show on title &amp;slide</source>
         <translation type="obsolete">Do not show on title &amp;slide</translation>
     </message>
@@ -1707,6 +1703,10 @@
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3046,10 +3046,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file name is the same as an existent directory.</source>
         <translation type="obsolete">The file name is the same as an existing directory.</translation>
     </message>
@@ -3075,6 +3071,10 @@
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4407,10 +4407,6 @@
 <context>
     <name>KxWppPrintDlg</name>
     <message>
-        <source>All slides among the rang must be marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4456,6 +4452,10 @@
     </message>
     <message>
         <source>The Slide that you selected is not exist, please choose another one!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

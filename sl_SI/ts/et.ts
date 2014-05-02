@@ -245,7 +245,14 @@ condition is true: </source>
     </message>
     <message>
         <source>&amp;Activate:</source>
-        <translation>&amp;Aktiviraj:</translation>
+        <translation type="obsolete">&amp;Aktiviraj:</translation>
+    </message>
+</context>
+<context>
+    <name>KSelectSheetPage</name>
+    <message>
+        <source>&amp;Activate:</source>
+        <translation type="unfinished">&amp;Aktiviraj:</translation>
     </message>
 </context>
 <context>
@@ -501,12 +508,84 @@ condition is true: </source>
         <source>(Blanks)</source>
         <translation>(Prazno)</translation>
     </message>
+    <message>
+        <source>Number filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not contains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by colors</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
     <message>
         <source>Invalid reference.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neveljaven sklic.</translation>
     </message>
     <message>
         <source>What you entered is an invalid reference or name.</source>
@@ -813,6 +892,10 @@ condition is true: </source>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxCustomHeaderFooterDlg</name>
@@ -1050,6 +1133,14 @@ To keep existing picture, click Cancel button.</source>
         <source>Pr&amp;otect Sheet...</source>
         <translation>&amp;Zaščiti list...</translation>
     </message>
+    <message>
+        <source>Specify who may edit the range without a password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Permissions...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgAssignMacro</name>
@@ -1106,7 +1197,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Oblike</translation>
     </message>
     <message>
         <source>Val&amp;ues and number formats</source>
@@ -1924,7 +2015,7 @@ kazalec v vnosno polje in kliknite gumb »Ponastavi sliko«.</translation>
     <message>
         <source>This is a TrueType font. The same font will be used on both your 
 printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">To je pisava TrueType. Za zaslon in tiskalnik se bo uporabljala ista pisava.</translation>
     </message>
 </context>
 <context>
@@ -2369,7 +2460,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Naslov:</translation>
     </message>
     <message>
         <source>Range</source>
@@ -2390,6 +2481,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Modify Range</source>
         <translation>Spremeni obseg</translation>
+    </message>
+    <message>
+        <source>P&amp;ermissions...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2630,10 +2725,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timing Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>character</source>
         <translation>znak</translation>
     </message>
@@ -2663,71 +2754,71 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">48</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">72</translation>
     </message>
     <message>
         <source>&amp;Default file location:</source>
@@ -2735,7 +2826,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>User &amp;name:</source>
@@ -2795,7 +2886,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dodaj</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -2819,7 +2910,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Spremeni...</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -2843,7 +2934,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dodatno...</translation>
     </message>
     <message>
         <source>Reenter &amp;password to open:</source>
@@ -2899,15 +2990,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Vedno predlagaj popravke</translation>
     </message>
     <message>
         <source>Ignore words in &amp;UPPERCASE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Prezri besede, pisane z VELIKIMI ČRKAMI</translation>
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezri besede s števil&amp;kami</translation>
     </message>
     <message>
         <source>Customize Dictionaries</source>
@@ -2931,7 +3022,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nova...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -2955,7 +3046,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dod&amp;aj</translation>
     </message>
     <message>
         <source>Words &amp;in current dictionary:</source>
@@ -3019,6 +3110,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Set decimal symbol to ,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;Timing Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TimingBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3110,15 +3217,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Custom paper size</source>
-        <translation>Velikost lista po meri</translation>
+        <translation type="obsolete">Velikost lista po meri</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>Širi&amp;na:</translation>
+        <translation type="obsolete">Širi&amp;na:</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation>V&amp;išina:</translation>
+        <translation type="obsolete">V&amp;išina:</translation>
     </message>
     <message>
         <source>Fi&amp;rst page number:</source>
@@ -3170,7 +3277,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hearder/Footer</source>
-        <translation>Glava/Noga</translation>
+        <translation type="obsolete">Glava/Noga</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -3275,6 +3382,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Print...</source>
         <translation>Na&amp;tisni...</translation>
+    </message>
+    <message>
+        <source>Header/Footer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3401,6 +3512,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Num&amp;ber...</source>
         <translation>Šte&amp;vilka...</translation>
+    </message>
+    <message>
+        <source>buttonGroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>buttonGroup_2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3799,7 +3918,7 @@ preden omogočite skupno rabo delovnega zvezka.</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vse</translation>
     </message>
     <message>
         <source>Not yet reviewed</source>
@@ -3901,7 +4020,7 @@ preden omogočite skupno rabo delovnega zvezka.</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>St&amp;op value:</source>
@@ -3941,20 +4060,20 @@ preden omogočite skupno rabo delovnega zvezka.</translation>
         <translation>Uredi</translation>
     </message>
     <message>
-        <source>&amp;Allows multiple users to simultaneously edit, 
-the same time allows workbook merging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Using this &amp;workbook:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Remove User</source>
         <translation>&amp;Odstrani uporabnika</translation>
     </message>
     <message>
         <source>&amp;Export xls...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Allow changes by more than one user at the same time.
+This also allows workbook merging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Who has this &amp;workbook open now:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4014,7 +4133,7 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Možnosti...</translation>
     </message>
 </context>
 <context>
@@ -4108,7 +4227,7 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>&amp;Set Spell language</source>
-        <translation>&amp;Nastavi jezika za preverjanje črkovanja</translation>
+        <translation type="obsolete">&amp;Nastavi jezika za preverjanje črkovanja</translation>
     </message>
     <message>
         <source>&amp;Undo Last</source>
@@ -4117,6 +4236,10 @@ the same time allows workbook merging</source>
     <message>
         <source>Cancel</source>
         <translation>Prekliči</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spellcheck Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4230,11 +4353,11 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varianca</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varp</translation>
     </message>
     <message>
         <source>A&amp;dd subtotal to:</source>
@@ -4841,6 +4964,36 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtAfCellFormatButton</name>
+    <message>
+        <source>NONE</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAutoFilterColorMenu</name>
+    <message>
+        <source>Filter by cell color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter by font color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only one color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtBorderLineColorModel</name>
     <message>
         <source>Automatic</source>
@@ -4872,7 +5025,7 @@ protected.</source>
     <name>KxEtChartObjectsCommand</name>
     <message>
         <source>Invalid Unit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neveljaven znak</translation>
     </message>
 </context>
 <context>
@@ -4954,6 +5107,25 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtDlgInputBox</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Pogovorno okno</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">V redu</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Prekliči</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFontColorModel</name>
     <message>
         <source>Automatic</source>
@@ -5003,6 +5175,29 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtInputBoxDlg</name>
+    <message>
+        <source>Number is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical Value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error Value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Array value is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtLineColorModel</name>
     <message>
         <source>No Line Color</source>
@@ -5035,6 +5230,13 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtReadingLayoutColorModel</name>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Privzeto</translation>
+    </message>
+</context>
+<context>
     <name>KxEtSheetTabBar</name>
     <message>
         <source>More Sheets...</source>
@@ -5045,11 +5247,46 @@ protected.</source>
         <translation>Nov list</translation>
     </message>
     <message>
-        <source>Before Sheet</source>
+        <source>Switch Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtSmartLabelAutoFill</name>
+    <message>
+        <source>auto fill options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bellow Sheet</source>
+        <source>etFillCopy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillFormats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillValues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillSeries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillDays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillWeekdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillMonths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>etFillYears</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5140,10 +5377,6 @@ protected.</source>
         <translation>Datoteka PDF(*.pdf)|*.pdf</translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
         <translation>Datoteka, ki ste jo določili, že obstaja. Ali želite zamenjati obstoječo datoteko?</translation>
     </message>
@@ -5157,6 +5390,10 @@ protected.</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5200,6 +5437,10 @@ protected.</source>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5475,11 +5716,11 @@ printer and your screen.</source>
     <name>KxFormatGraphicDlg</name>
     <message>
         <source>Value should be between %1 %3 and %2 %3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vrednost bi morala biti med %1 in %2. {1 %3 ?} {2 %3.?}</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pt</translation>
     </message>
     <message>
         <source>in</source>
@@ -5517,7 +5758,7 @@ printer and your screen.</source>
     <name>KxGoalSeekDlg</name>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sklic ni veljaven.</translation>
     </message>
     <message>
         <source>Cell must contain a formula.</source>
@@ -5660,6 +5901,10 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter a name or description of the function you want to look for.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5973,7 +6218,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Po meri</translation>
+        <translation type="obsolete">Po meri</translation>
     </message>
     <message>
         <source>&amp;[Picture]</source>
@@ -6013,7 +6258,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mera mora biti med %1 in %2.</translation>
     </message>
 </context>
 <context>
@@ -6170,18 +6415,18 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <translation>Možnosti polj strani</translation>
     </message>
     <message>
-        <source>&amp;Retrieve external data for all page field items (faster perform&apos; +
-            &apos;ance)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Query external data source as you select each page field item (&apos; +
-            &apos;requires less memory)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
         <translation>Onemogo&amp;či vrtenje tega polja (priporočljivo)</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve external data for all page field items
+ (faster perform&apos; +&apos;ance)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Query external data source as you select each
+ page field item (&apos;+&apos;requires less memory)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6337,7 +6582,7 @@ Za pripravo poročila vrtilne tabele potrebujete seznam podatkov z označenimi s
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Počisti</translation>
     </message>
     <message>
         <source>Criteria</source>
@@ -6695,7 +6940,11 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>Text Import Wizard - Step %d of 3</source>
-        <translation>Čarovnik za uvoz besedila - Korak %d od 3</translation>
+        <translation type="obsolete">Čarovnik za uvoz besedila - Korak %d od 3</translation>
+    </message>
+    <message>
+        <source>Text Import Wizard - Step %1 of 3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7078,7 +7327,7 @@ t</source>
     </message>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P&amp;očisti</translation>
     </message>
 </context>
 <context>
@@ -7256,7 +7505,7 @@ t</source>
     </message>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P&amp;očisti</translation>
     </message>
 </context>
 <context>
@@ -7309,7 +7558,7 @@ t</source>
     <name>KxZoomViewDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vnos ni uporaben. Morda je potrebno celo ali decimalno število.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
@@ -7360,35 +7609,35 @@ t</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Navadno</translation>
+        <translation type="obsolete">Navadno</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation>Vejica</translation>
+        <translation type="obsolete">Vejica</translation>
     </message>
     <message>
         <source>Comma[0]</source>
-        <translation>Vejica[0]</translation>
+        <translation type="obsolete">Vejica[0]</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation>Valuta</translation>
+        <translation type="obsolete">Valuta</translation>
     </message>
     <message>
         <source>Currency[0]</source>
-        <translation>Valuta [0]</translation>
+        <translation type="obsolete">Valuta [0]</translation>
     </message>
     <message>
         <source>Percent</source>
-        <translation>Odstotek</translation>
+        <translation type="obsolete">Odstotek</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation>Hiperpovezava</translation>
+        <translation type="obsolete">Hiperpovezava</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
-        <translation>Obiskana hiperpovezava</translation>
+        <translation type="obsolete">Obiskana hiperpovezava</translation>
     </message>
     <message>
         <source>No Number Format</source>
@@ -8155,6 +8404,15 @@ t</source>
         <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
         <translation>Ustavi izbrani postopek, ko je najdeno največje dovoljeno število celoštevilskih podproblemov.</translation>
     </message>
+    <message>
+        <source>The workbook is protected,
+and cannot generate reports.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SolverOptions</name>
@@ -8910,7 +9168,7 @@ dokumentu</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
         <source>&amp;Min</source>

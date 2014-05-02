@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Título:</translation>
     </message>
     <message>
         <source>Label:</source>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>El mayor número de título es 5.</translation>
     </message>
     <message>
         <source>More:</source>

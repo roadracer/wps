@@ -78,7 +78,7 @@
     <name>ExitEditOpenFile</name>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
-        <translation>Se abre un archivo nuevo, el contenido de la celda de este archivo será eliminado:</translation>
+        <translation>Si abre un archivo nuevo, el contenido en la celda de este archivo será eliminado:</translation>
     </message>
     <message>
         <source>Text Label</source>
@@ -1987,7 +1987,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Individual</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -5352,7 +5352,7 @@ protected.</source>
     </message>
     <message>
         <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation>El directorio que ha especificado no existe, introduzca un directorio válido, por favor.</translation>
+        <translation type="obsolete">El directorio que ha especificado no existe, introduzca un directorio válido, por favor.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
@@ -5368,6 +5368,10 @@ protected.</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7325,7 +7329,7 @@ t</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Individual</translation>
     </message>
     <message>
         <source>Double</source>
@@ -7724,7 +7728,7 @@ t</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Individual</translation>
     </message>
     <message>
         <source>Double Accounting</source>
@@ -8060,7 +8064,7 @@ t</source>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Má&amp;ximo:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
@@ -8346,7 +8350,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Switch Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cambiar hoja</translation>
     </message>
 </context>
 <context>
@@ -8825,7 +8829,7 @@ and cannot generate reports.</source>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportar a archivo Adobe PDF</translation>
     </message>
     <message>
         <source>Normal</source>

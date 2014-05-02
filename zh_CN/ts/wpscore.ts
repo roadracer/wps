@@ -3512,6 +3512,16 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <translation type="unfinished">表格</translation>
     </message>
     <message>
+        <source>(none)
+.</source>
+        <translation type="obsolete">(无)
+.</translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <translation type="unfinished">不允许您编辑此所选内容，因为它受保护。</translation>
+    </message>
+    <message>
         <source>Do you want to change the default settings for page setup?
 This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
@@ -3539,12 +3549,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>(none)
 .</source>
-        <translation type="unfinished">(无)
-.</translation>
-    </message>
-    <message>
-        <source>You are not allowed to edit this selection because it is protected.</source>
-        <translation type="unfinished">不允许您编辑此所选内容，因为它受保护。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

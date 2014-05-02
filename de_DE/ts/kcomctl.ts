@@ -574,11 +574,11 @@ multiple=multiple
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Dokumente:</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>

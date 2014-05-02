@@ -1621,7 +1621,7 @@ Ali želite zamenjati?</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.docx)</source>
-        <translation>Pogoste datoteke(*.wps; *.wpt; *.doc; *.dot; *.docx)</translation>
+        <translation type="obsolete">Pogoste datoteke(*.wps; *.wpt; *.doc; *.dot; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot; *.docx</source>
@@ -3052,7 +3052,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>2008-8-8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2008-8-8</translation>
     </message>
     <message>
         <source>20</source>
@@ -3080,31 +3080,31 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Numbered item</source>
-        <translation>Oštevilčeni element</translation>
+        <translation type="obsolete">Oštevilčeni element</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation>Naslov</translation>
+        <translation type="obsolete">Naslov</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>Zaznamek</translation>
+        <translation type="obsolete">Zaznamek</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>Sprotna opomba</translation>
+        <translation type="obsolete">Sprotna opomba</translation>
     </message>
     <message>
         <source>Endnote</source>
-        <translation>Končna opomba</translation>
+        <translation type="obsolete">Končna opomba</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation>Enačba</translation>
+        <translation type="obsolete">Enačba</translation>
     </message>
     <message>
         <source>Diagram</source>
-        <translation>Diagram</translation>
+        <translation type="obsolete">Diagram</translation>
     </message>
     <message>
         <source>Page number</source>
@@ -3242,41 +3242,96 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <source>Do you want to change the default settings for page setup?
 
 This change will affect all new documents based on the %s template.</source>
-        <translation>Ali želite spremeniti privzete nastavitve za pripravo strani?
+        <translation type="obsolete">Ali želite spremeniti privzete nastavitve za pripravo strani?
 
 Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %s.</translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for font?
-
-This change will affect all the new documents based on the %s template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for style?
-
-This change will affect all the new documents based on the %s template.
-
-
-Yes:	Save to template;
-
-No:	Do not save to template;
-
-Cancel:	Return to the dialog.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Heading1...........................1
   Heading2.........................3
     Heading3.......................5</source>
-        <translation>Naslov1...........................1
+        <translation type="obsolete">Naslov1...........................1
   Naslov2.........................3
     Naslov3.......................5</translation>
     </message>
     <message>
         <source>(none)
 .</source>
-        <translation>(brez).</translation>
+        <translation type="obsolete">(brez).</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for page setup?
+This change will affect all new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all the new documents based on the %s template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
+
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................3
+    Heading3.......................5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Oštevilčeni element</translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Naslov</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Zaznamek</translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Sprotna opomba</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Končna opomba</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Enačba</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Diagram</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType</comment>
+        <translation type="unfinished">Tabela</translation>
+    </message>
+    <message>
+        <source>(none)
+.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4411,6 +4466,26 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Format Line Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has finished searching the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

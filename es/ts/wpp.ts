@@ -1344,7 +1344,7 @@
     </message>
     <message>
         <source>Cancle</source>
-        <translation>Cancelar</translation>
+        <translation type="obsolete">Cancelar</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1369,6 +1369,10 @@
     <message>
         <source>&amp;Page number</source>
         <translation>Númer&amp;o de página</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2223,10 +2227,6 @@
         <translation>Diapositiva...</translation>
     </message>
     <message>
-        <source>Otherf presentation file...</source>
-        <translation>Otro archivo de presentación...</translation>
-    </message>
-    <message>
         <source>Other file...</source>
         <translation>Otro archivo...</translation>
     </message>
@@ -2257,6 +2257,10 @@
     <message>
         <source>Action on mouse over</source>
         <translation>Acción sobre el puntero del ratón</translation>
+    </message>
+    <message>
+        <source>Other presentation file...</source>
+        <translation>Otro archivo de presentación...</translation>
     </message>
 </context>
 <context>
@@ -2529,7 +2533,7 @@
     </message>
     <message>
         <source>The directory you specified dose not exist.</source>
-        <translation>El directorio especificado no existe.</translation>
+        <translation type="obsolete">El directorio especificado no existe.</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
@@ -2562,6 +2566,10 @@
     <message>
         <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
         <translation>Asegurese de que las diapositivas no sean omitidas, o elija la exportación de diapositivas omitidas.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation>El directorio especificado no existe.</translation>
     </message>
 </context>
 <context>
@@ -3550,7 +3558,7 @@
     </message>
     <message>
         <source>All slides among the rang must be marked as hidden!</source>
-        <translation>Todas las diapositivas entre los intervalos deben de estar marcadas como ocultas!</translation>
+        <translation type="obsolete">Todas las diapositivas entre los intervalos deben de estar marcadas como ocultas!</translation>
     </message>
     <message>
         <source>Selected slides have marked as hidden!</source>
@@ -3563,6 +3571,10 @@
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
         <translation>Todas las diapositivas de la presentación actual se omiten. Debe de asegurarse de que las diapositivas no sean omitidas de nuevo, o escoger las diapositivas de impresión omitidas.</translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
+        <translation>Todas las diapositivas entre los intervalos deben de estar marcadas como ocultas!</translation>
     </message>
 </context>
 <context>

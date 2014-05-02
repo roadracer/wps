@@ -5,55 +5,55 @@
     <name>aeobean</name>
     <message>
         <source>Applause</source>
-        <translation type="unfinished"></translation>
+        <translation>Applause</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl</translation>
     </message>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bom</translation>
     </message>
     <message>
         <source>Breeze</source>
-        <translation type="unfinished"></translation>
+        <translation>Bries</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Camera</translation>
     </message>
     <message>
         <source>Cash register</source>
-        <translation type="unfinished"></translation>
+        <translation>Kassa</translation>
     </message>
     <message>
         <source>Chime</source>
-        <translation type="unfinished"></translation>
+        <translation>Klokkenspel</translation>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"></translation>
+        <translation>Munt</translation>
     </message>
     <message>
         <source>Drum roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Tromgeroffel</translation>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosie</translation>
     </message>
     <message>
         <source>Hammer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamer</translation>
     </message>
     <message>
         <source>Laser</source>
-        <translation type="unfinished"></translation>
+        <translation>Laser</translation>
     </message>
     <message>
         <source>Push</source>
@@ -61,11 +61,11 @@
     </message>
     <message>
         <source>Suction</source>
-        <translation type="unfinished"></translation>
+        <translation>Zuiging</translation>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Typemachine</translation>
     </message>
     <message>
         <source>Voltage</source>
@@ -77,23 +77,23 @@
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Wind</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Text&lt;Date and Time&gt;</source>
@@ -113,11 +113,11 @@
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object</translation>
     </message>
     <message>
         <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Times New Roman</source>
-        <translation type="unfinished"></translation>
+        <translation>Times New Roman</translation>
     </message>
 </context>
 <context>
@@ -171,11 +171,11 @@
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen verwijderen</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rijen verwijderen</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>Edit Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel bewerken</translation>
     </message>
 </context>
 <context>
@@ -300,7 +300,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -308,7 +308,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -316,15 +316,15 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Text Shadow</source>
@@ -336,7 +336,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Kleur</translation>
     </message>
     <message>
         <source>Baseline Offset</source>
@@ -348,7 +348,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeleinde</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
@@ -356,7 +356,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Center</source>
@@ -364,7 +364,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -380,7 +380,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Gecentreerd</translation>
     </message>
     <message>
         <source>Roman</source>
@@ -400,11 +400,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum en tijd</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -432,7 +432,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink invoegen</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -495,7 +495,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -523,7 +523,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Module</source>
@@ -535,7 +535,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Langzaam</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -543,7 +543,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Snel</translation>
     </message>
     <message>
         <source>No Transition</source>
@@ -551,11 +551,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Blinds Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale jaloezieën</translation>
     </message>
     <message>
         <source>Blinds Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikale jaloezieën</translation>
     </message>
     <message>
         <source>Box In</source>
@@ -743,39 +743,39 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Wheel Clockwise, 1 Spoke</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 1 spaak</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 2 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 2 spaken</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 3 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 3 spaken</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 4 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 4 spaken</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 8 Spokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiel rechtsom, 8 spaken</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Veeg omlaag</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Veeg naar links</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Veeg naar rechts</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Veeg omhoog</translation>
     </message>
     <message>
         <source>Random Transition</source>
@@ -795,7 +795,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pijl</translation>
     </message>
     <message>
         <source>Bomb</source>
@@ -819,23 +819,23 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"></translation>
+        <translation>Munt</translation>
     </message>
     <message>
         <source>Drum Roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Tromgeroffel</translation>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"></translation>
+        <translation>Explosie</translation>
     </message>
     <message>
         <source>Hammer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamer</translation>
     </message>
     <message>
         <source>Laser</source>
@@ -851,7 +851,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Typewriter</source>
-        <translation type="unfinished"></translation>
+        <translation>Typemachine</translation>
     </message>
     <message>
         <source>Voltage</source>
@@ -863,11 +863,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Wind</translation>
     </message>
     <message>
         <source>Other sound...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ander geluid...</translation>
     </message>
     <message>
         <source>Sound Files(*.wav)|*.wav</source>
@@ -1246,11 +1246,11 @@ Please try one of the following.
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool</translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -1497,15 +1497,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object verplaatsen</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia verbergen</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprekernotities</translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -1849,7 +1849,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Licht</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -1873,11 +1873,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Subtitle %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtitel %d</translation>
     </message>
     <message>
         <source>Title %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel %d</translation>
     </message>
     <message>
         <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
@@ -1888,7 +1888,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
+        <source>Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1963,19 +1967,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>wpprender</name>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsommingstekens</translation>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia %d</translation>
     </message>
     <message>
         <source>Slide%d</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia%d</translation>
     </message>
 </context>
 <context>
@@ -1994,7 +1998,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste animatie</translation>
     </message>
     <message>
         <source>1 cm</source>
@@ -2046,7 +2050,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Afspelen</translation>
     </message>
     <message>
         <source>Add Effect</source>
@@ -2070,7 +2074,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle dia&apos;s</translation>
     </message>
     <message>
         <source>Hide After Animation</source>
@@ -2258,7 +2262,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <source>&amp;Horizontal</source>
@@ -2450,11 +2454,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikaal</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertikaal</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
@@ -2626,7 +2630,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkel</translation>
     </message>
     <message>
         <source>Crescent Moon</source>
@@ -2714,7 +2718,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Loop de Loop</source>
@@ -2750,7 +2754,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Right Triangle</source>
@@ -2922,7 +2926,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervagen</translation>
     </message>
     <message>
         <source>Faded Swivel</source>
@@ -3110,7 +3114,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Onderstrepen</translation>
     </message>
     <message>
         <source>&amp;More Colors(&amp;M)...</source>
@@ -3182,7 +3186,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen)</translation>
     </message>
     <message>
         <source>Exciting</source>
@@ -3194,19 +3198,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Negeren</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen...</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vervangen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Cancelled by user.</source>
@@ -3234,7 +3238,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Change</source>
@@ -3258,7 +3262,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Copy %sof %s</source>
@@ -3270,7 +3274,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Current slide is skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige dia wordt overgeslagen.</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -3338,7 +3342,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>Elbow</source>
@@ -3426,7 +3430,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende dia</translation>
     </message>
     <message>
         <source>On Click</source>
@@ -3502,15 +3506,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur</translation>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kleur</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Richting</translation>
     </message>
     <message>
         <source>Di&amp;rection</source>
@@ -3526,7 +3530,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Kleur</translation>
     </message>
     <message>
         <source>&amp;Font Color</source>
@@ -3550,7 +3554,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnkleur</translation>
     </message>
     <message>
         <source>&amp;Line Color</source>
@@ -3622,11 +3626,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen suggesties)</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notities</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has finished searching the presentation. The search item wasn&apos;t found.</source>
@@ -3650,7 +3654,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Speciaal</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -3678,7 +3682,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Primary Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Primair beeldscherm</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
@@ -3758,7 +3762,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Background Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrondkleur</translation>
     </message>
     <message>
         <source>Text and Lines Color</source>
@@ -3874,7 +3878,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia %d</translation>
     </message>
     <message>
         <source>Sound Oper&amp;ation</source>
@@ -3886,7 +3890,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelheid:</translation>
     </message>
     <message>
         <source>Sp&amp;eed:</source>
@@ -3894,7 +3898,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Snel</translation>
     </message>
     <message>
         <source>%d seconds(Fast)</source>
@@ -3910,7 +3914,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Langzaam</translation>
     </message>
     <message>
         <source>%d seconds(Slow)</source>
@@ -3918,7 +3922,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Very Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeer snel</translation>
     </message>
     <message>
         <source>%.1f seconds(Very Fast)</source>
@@ -3926,7 +3930,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Very Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeer langzaam</translation>
     </message>
     <message>
         <source>%d seconds(Very Slow)</source>
@@ -3974,7 +3978,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelstijl</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
@@ -4098,7 +4102,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Dianummer</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -4106,7 +4110,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaal</translation>
     </message>
     <message>
         <source>Normal (Restore Panes)</source>
@@ -4234,7 +4238,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -4242,7 +4246,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervangen</translation>
     </message>
     <message>
         <source>Delete Slide</source>
@@ -4266,7 +4270,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst en voettekst</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
@@ -4274,7 +4278,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum en tijd</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -4282,7 +4286,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe dia</translation>
     </message>
     <message>
         <source>Insert New Slide Master</source>
@@ -4298,11 +4302,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbool</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype</translation>
     </message>
     <message>
         <source>Font Alignment</source>
@@ -4310,7 +4314,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitlijning</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -4322,7 +4326,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Regeleinde</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -4330,7 +4334,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -4350,7 +4354,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink invoegen</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -4362,7 +4366,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia verbergen</translation>
     </message>
     <message>
         <source>Custom Shows</source>
@@ -4374,15 +4378,15 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Vet</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen</translation>
     </message>
     <message>
         <source>Text Shadow</source>
@@ -4398,7 +4402,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettertype Kleur</translation>
     </message>
     <message>
         <source>Numbering</source>
@@ -4406,7 +4410,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsommingstekens</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -4430,7 +4434,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprekernotities</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -4494,7 +4498,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert Media</source>
@@ -4506,7 +4510,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijnkleur</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -4526,11 +4530,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel invoegen</translation>
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram invoegen</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -4546,7 +4550,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"></translation>
+        <translation>Typografie</translation>
     </message>
     <message>
         <source>Edit Object</source>
@@ -4574,7 +4578,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -4590,7 +4594,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -4638,7 +4642,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Insert Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Geluid invoegen</translation>
     </message>
     <message>
         <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
@@ -4762,7 +4766,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw van standaardsjabloon</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -4794,7 +4798,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet-opgemaakte tekst</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -4822,11 +4826,11 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar vereenvoudigd Chinees</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertalen naar traditioneel Chinees</translation>
     </message>
     <message>
         <source>Print</source>

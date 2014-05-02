@@ -15098,7 +15098,11 @@ Slide</source>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
-        <translation>إلصاق شريط الأدوات</translation>
+        <translation type="obsolete">إلصاق شريط الأدوات</translation>
+    </message>
+    <message>
+        <source>Stick the ToolBar</source>
+        <translation type="unfinished">إلصاق شريط الأدوات</translation>
     </message>
     <message>
         <source>Switch UI</source>

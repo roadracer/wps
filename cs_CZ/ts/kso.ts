@@ -4293,10 +4293,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open in broser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4448,6 +4444,10 @@ You have installed Kingsoft Office Personal Trial Edition.
 For better service, please update the trial edition to standard edition by:
 1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
 2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

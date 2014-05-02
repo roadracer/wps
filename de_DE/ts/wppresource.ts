@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2612,7 +2612,7 @@ On</source>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished">Neu aus Standard-Vorlage</translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -2620,7 +2620,7 @@ On</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished">Neu aus Standard-Vorlage</translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -7828,7 +7828,7 @@ AddIns</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished">Neu aus Standard-Vorlage</translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from My Computer Templates</source>
@@ -17409,7 +17409,7 @@ Folie</translation>
         <translation>Bildschirmpräsentation</translation>
     </message>
     <message>
-        <source>Stick the ToolBaar</source>
+        <source>Stick the ToolBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -1484,7 +1484,7 @@
     </message>
     <message>
         <source>Cancle</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
@@ -1521,6 +1521,10 @@
     <message>
         <source>Slide &amp;number</source>
         <translation>スライド番号(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -2743,7 +2747,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>The directory you specified dose not exist.</source>
-        <translation>指定したディレクトリが見つかりません</translation>
+        <translation type="obsolete">指定したディレクトリが見つかりません</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
@@ -2768,6 +2772,10 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>You have no permission to write files into this directory.</source>
         <translation>このディレクトリ内では書き込み権限がありません</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation>指定したディレクトリが見つかりません</translation>
     </message>
 </context>
 <context>
@@ -3849,7 +3857,7 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxWppPrintDlg</name>
     <message>
         <source>All slides among the rang must be marked as hidden!</source>
-        <translation>範囲内のすべてのスライドが非表示スライド設定する必要があります</translation>
+        <translation type="obsolete">範囲内のすべてのスライドが非表示スライド設定する必要があります</translation>
     </message>
     <message>
         <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
@@ -3890,6 +3898,10 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Close</source>
         <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>All slides among the range must be marked as hidden!</source>
+        <translation>範囲内のすべてのスライドが非表示スライド設定する必要があります</translation>
     </message>
 </context>
 <context>

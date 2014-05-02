@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Dark Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de cores negras</translation>
     </message>
 </context>
 <context>

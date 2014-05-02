@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="ar">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="bin">
+      </df>
+      <df name="ca_ES">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="cs_CZ">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="de_DE">
+        <df name="data">
+        </df>
+        <df name="templates">
+          <df name="coverpage">
+            <df name="buildin">
+              <df name="lengthwise">
+                <df name="Business">
+                </df>
+                <df name="Resume">
+                </df>
+                <df name="Thesis">
+                </df>
+              </df>
+              <df name="transverse">
+                <df name="transverse">
+                </df>
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="ts">
+        </df>
+      </df>
+      <df name="default">
+        <df name="config">
+        </df>
+        <df name="data">
+        </df>
+        <df name="res">
+          <df name="cursors">
+          </df>
+          <df name="data">
+          </df>
+          <df name="icons">
+            <df name="12x12-ongmani">
+            </df>
+            <df name="15x15-ongmani">
+            </df>
+            <df name="16x16">
+            </df>
+            <df name="16x16-old">
+            </df>
+            <df name="16x16-ongmani">
+            </df>
+            <df name="24x24">
+            </df>
+            <df name="24x24-ongmani">
+            </df>
+            <df name="256x256">
+            </df>
+            <df name="32x32">
+            </df>
+            <df name="32x32-ongmani">
+            </df>
+            <df name="3D">
+            </df>
+            <df name="3DStyle">
+            </df>
+            <df name="48x48">
+            </df>
+            <df name="48x48-ongmani">
+            </df>
+            <df name="66x66">
+            </df>
+            <df name="6x6">
+            </df>
+            <df name="6x6-ongmani">
+            </df>
+            <df name="90x90">
+            </df>
+            <df name="ArrowStyle">
+            </df>
+            <df name="DashStyle">
+            </df>
+            <df name="et">
+            </df>
+            <df name="kxshare">
+              <df name="DlgFormatShape">
+              </df>
+            </df>
+            <df name="LineStyle">
+            </df>
+            <df name="notabpage">
+            </df>
+            <df name="notabpage-ongmani">
+            </df>
+            <df name="Numbering_Bullets">
+            </df>
+            <df name="ShadowStyle">
+            </df>
+            <df name="ShadowStyle-ongmani">
+            </df>
+            <df name="TitleBarButton">
+            </df>
+            <df name="UnderLine">
+            </df>
+            <df name="WordArtShapes">
+            </df>
+            <df name="wpp">
+            </df>
+            <df name="wpp-ongmani">
+            </df>
+            <df name="wps">
+              <df name="PageNumberPosition">
+              </df>
+              <df name="TextDirection">
+                <df name="wps_DlgTextDirection_iglPrev">
+                </df>
+              </df>
+              <df name="waterMark">
+              </df>
+            </df>
+          </df>
+          <df name="images">
+            <df name="bulletsnumbering">
+            </df>
+            <df name="parabutton">
+            </df>
+            <df name="SwitchUi">
+            </df>
+          </df>
+          <df name="NetbackupWizard">
+          </df>
+          <df name="splash">
+          </df>
+          <df name="starttrialdlg">
+            <df name="images">
+            </df>
+          </df>
+        </df>
+        <df name="templates">
+        </df>
+      </df>
+      <df name="dev">
+      </df>
+      <df name="doc">
+      </df>
+      <df name="en_US">
+        <df name="splash">
+        </df>
+        <df name="templates">
+          <df name="coverpage">
+            <df name="buildin">
+              <df name="lengthwise">
+                <df name="Business">
+                </df>
+                <df name="Resume">
+                </df>
+                <df name="Thesis">
+                </df>
+              </df>
+              <df name="transverse">
+                <df name="transverse">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="et">
+            <df name="Business">
+            </df>
+            <df name="Education">
+            </df>
+            <df name="Office">
+            </df>
+            <df name="Personal">
+            </df>
+          </df>
+          <df name="presentationdesigns">
+          </df>
+          <df name="wpp">
+            <df name="Business">
+            </df>
+            <df name="Education">
+            </df>
+          </df>
+          <df name="wps">
+            <df name="Business">
+            </df>
+            <df name="Daily Life">
+            </df>
+            <df name="Education">
+            </df>
+            <df name="Letters and Faxes">
+            </df>
+            <df name="Personal">
+            </df>
+          </df>
+        </df>
+        <df name="ts">
+        </df>
+      </df>
+      <df name="es">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="es_PE">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="ja_JP">
+        <df name="config">
+        </df>
+        <df name="data">
+        </df>
+        <df name="res">
+          <df name="icons">
+            <df name="Numbering_Bullets">
+            </df>
+          </df>
+          <df name="images">
+            <df name="bulletsnumbering">
+            </df>
+          </df>
+        </df>
+        <df name="splash">
+        </df>
+        <df name="templates">
+          <df name="coverpage">
+            <df name="buildin">
+              <df name="lengthwise">
+                <df name="jianyue">
+                </df>
+                <df name="shangwu">
+                </df>
+                <df name="sheji">
+                </df>
+              </df>
+              <df name="transverse">
+                <df name="jianyue">
+                </df>
+                <df name="shangwu">
+                </df>
+                <df name="sheji">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="et">
+            <df name="business">
+            </df>
+            <df name="education">
+            </df>
+            <df name="finance">
+            </df>
+            <df name="manage">
+            </df>
+            <df name="personal">
+            </df>
+          </df>
+          <df name="presentationdesigns">
+          </df>
+          <df name="wpp">
+            <df name="business">
+            </df>
+            <df name="education">
+            </df>
+            <df name="general">
+            </df>
+            <df name="other">
+            </df>
+          </df>
+          <df name="wps">
+            <df name="business">
+            </df>
+            <df name="card">
+            </df>
+            <df name="personal">
+            </df>
+          </df>
+        </df>
+        <df name="ts">
+        </df>
+      </df>
+      <df name="nl">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="pl_PL">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="pt_BR">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="pt_PT">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="ru_RU">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="sample">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="sk">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="sl_SI">
+        <df name="ts">
+        </df>
+      </df>
+      <df name="zh_CN">
+        <df name="config">
+        </df>
+        <df name="data">
+        </df>
+        <df name="res">
+          <df name="icons">
+            <df name="Numbering_Bullets">
+            </df>
+          </df>
+          <df name="images">
+            <df name="bulletsnumbering">
+            </df>
+            <df name="SwitchUi">
+            </df>
+          </df>
+        </df>
+        <df name="templates">
+          <df name="coverpage">
+            <df name="buildin">
+              <df name="lengthwise">
+                <df name="jianli">
+                </df>
+                <df name="lunwen">
+                </df>
+                <df name="shangwu">
+                </df>
+              </df>
+              <df name="transverse">
+                <df name="hengxiang">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="et">
+            <df name="family life">
+            </df>
+            <df name="financial reporting">
+            </df>
+            <df name="managerial report">
+            </df>
+          </df>
+          <df name="presentationdesigns">
+          </df>
+          <df name="wpp">
+            <df name="business">
+            </df>
+            <df name="education">
+            </df>
+            <df name="general">
+            </df>
+            <df name="government">
+            </df>
+          </df>
+          <df name="wps">
+            <df name="daily life">
+            </df>
+            <df name="economy">
+            </df>
+            <df name="law">
+            </df>
+            <df name="office">
+              <df name="daily affairs">
+              </df>
+              <df name="finance">
+              </df>
+              <df name="management">
+              </df>
+              <df name="standard official document">
+              </df>
+            </df>
+            <df name="Peking official document">
+            </df>
+            <df name="technology">
+            </df>
+          </df>
+        </df>
+        <df name="ts">
+        </df>
+      </df>
+      <df name="zh_TW">
+        <df name="data">
+        </df>
+        <df name="splash">
+        </df>
+        <df name="templates">
+          <df name="et">
+            <df name="family life">
+            </df>
+            <df name="financial reporting">
+            </df>
+            <df name="managerial report">
+            </df>
+          </df>
+          <df name="presentationdesigns">
+          </df>
+          <df name="wpp">
+            <df name="business">
+            </df>
+            <df name="education">
+            </df>
+            <df name="general">
+            </df>
+            <df name="government">
+            </df>
+          </df>
+          <df name="wps">
+            <df name="daily life">
+            </df>
+            <df name="economy">
+            </df>
+            <df name="law">
+            </df>
+            <df name="office">
+              <df name="daily affairs">
+              </df>
+              <df name="finance">
+              </df>
+              <df name="management">
+              </df>
+              <df name="standard official document">
+              </df>
+            </df>
+            <df name="Peking official document">
+            </df>
+            <df name="technology">
+            </df>
+          </df>
+        </df>
+        <df name="ts">
+        </df>
+      </df>
+    </df>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>

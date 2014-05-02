@@ -1992,7 +1992,11 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to edit Master text stylesSecond levelThird levelFourth levelFifth level</source>
+        <source>Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4542,7 +4546,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="unfinished">Neu aus Standardvorlage</translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -5023,7 +5027,7 @@ Do you want to change the folder name from &quot;%s&apos;&apos;  into &apos;&apo
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message utf8="true">
         <source>Failed to save. Please try one of the following: 

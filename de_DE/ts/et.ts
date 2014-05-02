@@ -6,14 +6,14 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaltenbreite wählen</translation>
     </message>
 </context>
 <context>
     <name>Constraint</name>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedingung</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
@@ -68,11 +68,11 @@
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortfahren</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
 </context>
 <context>
@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen Sie eine neue Datei, werden die Zelleninhalte dieser Datei gelöscht</translation>
     </message>
     <message>
         <source>Text Label</source>
@@ -2318,27 +2318,27 @@ printer and your screen.</source>
     <name>KxDlgInsertFunction</name>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktion einfügen</translation>
     </message>
     <message>
         <source>All Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Funktionen</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Suche:</translation>
     </message>
     <message>
         <source>&amp;Goto</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gehe zu</translation>
     </message>
     <message>
         <source>or select a &amp;category:</source>
-        <translation type="unfinished"></translation>
+        <translation>oder Kategorie auswählen (&amp;c):</translation>
     </message>
     <message>
         <source>Select a functio&amp;n:</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktio&amp;n auswählen:</translation>
     </message>
     <message>
         <source>Function Prototype Label</source>
@@ -5444,10 +5444,6 @@ protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5461,6 +5457,10 @@ protected.</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5960,7 +5960,7 @@ on iteration #%2.</source>
     <name>KxInsertFunctionDlg</name>
     <message>
         <source>Enter the name or the description of the function you want to look for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Namen oder die Beschreibung der gesuchten Funktion ein.</translation>
     </message>
     <message>
         <source>I want to comment function</source>
@@ -5980,7 +5980,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Enter a name or description of the function you want to look for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie einen Namen oder eine Beschreibung der gesuchten Funktion ein.</translation>
     </message>
 </context>
 <context>

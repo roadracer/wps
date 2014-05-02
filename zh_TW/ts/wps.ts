@@ -10594,10 +10594,6 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete current page page numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10612,6 +10608,10 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>Delete all page numbers</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>
@@ -10693,10 +10693,6 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page X Of Y</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10727,6 +10723,10 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
         <translation type="unfinished">37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>

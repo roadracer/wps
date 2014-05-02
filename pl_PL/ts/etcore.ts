@@ -5562,7 +5562,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koszt</translation>
     </message>
     <message>
         <source>Salvage</source>
@@ -6046,7 +6046,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arkusz</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -6054,7 +6054,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Książka</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -8152,6 +8152,57 @@ Continue ?</source>
         <source> is invalid for your system, do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Active document is not a worksheet or in unprotected state.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot execute this command in Group Edit mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit range without a password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The entered value is invalid.
+
+The values which can be typed here is restricted by other users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Continue ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>????????????????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>?????????????????????????????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>???????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>????????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>????</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>???</source>
+        <translation type="unfinished"></translation>
+    </message>
+>>>>>>> upstream/master
 </context>
 <context>
     <name>et_undodesc</name>
@@ -8537,7 +8588,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cień</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -8712,7 +8763,7 @@ Continue ?</source>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arkusz kalkulacyjny Kingsoft</translation>
     </message>
     <message>
         <source>Accepted changes</source>

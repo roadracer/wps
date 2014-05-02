@@ -6,7 +6,7 @@
     <message>
         <source>Slide %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositiva %1</translation>
     </message>
     <message>
         <source>Notes Page:</source>
@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar diapositiva</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>

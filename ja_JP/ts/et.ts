@@ -5916,11 +5916,15 @@ protected.</source>
     </message>
     <message>
         <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation>指定したディレクトリが存在しません。有効なディレクトリを入力して下さい</translation>
+        <translation type="obsolete">指定したディレクトリが存在しません。有効なディレクトリを入力して下さい</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
         <translation>指定したファイル名はすでに存在します。既存のものと置き換えてもよろしいですか？</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
+        <translation>指定したディレクトリが存在しません。有効なディレクトリを入力して下さい</translation>
     </message>
 </context>
 <context>

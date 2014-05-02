@@ -5,195 +5,196 @@
     <name>CWpsTableStyle</name>
     <message>
         <source>Styless, no grid</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Без стиля, без сетки</translatorcomment>
+        <translation>Без стиля, без сетки</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль из шаблонов (&quot;тем&quot;)</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Без стиля, с сеткой</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль светлый цвет</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль умеренный цвет</translation>
     </message>
     <message>
         <source>Deep Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль глубокий цвет</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2 - Выделить 1/Выделить 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2 - Выделить 3/Выделить 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2 - Выделить 5/Выделить 6</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Последняя строка</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Чередующиеся строки</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Чередующиеся колонки</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая колонка</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Последняя колонка</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Встроенный</translation>
     </message>
     <message>
         <source>Styless, no grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Без стиля, без сетки</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль из шаблонов (&quot;тем&quot;)</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Без стиля, с сеткой</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль светлый цвет</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль умеренный цвет</translation>
     </message>
     <message>
         <source>Dark Color Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2 - Выделить 1/Выделить 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2 - Выделить 3/Выделить 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2 - Выделить 5/Выделить 6</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Наиболее подходящий</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="unfinished"></translation>
+        <translation>Бледный</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Средний</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished"></translation>
+        <translation>Глубокий</translation>
     </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Наиболее подходящий</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="unfinished"></translation>
+        <translation>Бледный</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Средний</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished"></translation>
+        <translation>Глубокий</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры стиля таблицы:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить стиль таблицы</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Apply Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить стиль таблицы</translation>
     </message>
 </context>
 </TS>

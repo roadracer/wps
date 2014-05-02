@@ -12296,10 +12296,6 @@ to the picture size?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete current page page numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12313,6 +12309,10 @@ to the picture size?</source>
     </message>
     <message>
         <source>Delete all page numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12483,11 +12483,11 @@ to the picture size?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
+        <source>Insert page number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert page number</source>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

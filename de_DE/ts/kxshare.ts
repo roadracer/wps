@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Benutzerdefiniert</translation>
     </message>
     <message>
         <source>New</source>
@@ -262,7 +262,7 @@
     <name>KDlgCrashUpload</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
@@ -1178,35 +1178,35 @@
     <name>KxAutoShapePanel</name>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktions-Buttons</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindungen</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation type="unfinished"></translation>
+        <translation>Flussdiagramm</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linien</translation>
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfache Formen</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation type="unfinished"></translation>
+        <translation>Sterne und Banner</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Blockpfeile</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprechblasen</translation>
     </message>
 </context>
 <context>
@@ -1472,7 +1472,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zurücksetzen</translation>
     </message>
     <message>
         <source>U</source>
@@ -1529,7 +1529,7 @@
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>R&amp;ename</source>
@@ -2054,7 +2054,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Grafik</translation>
     </message>
     <message>
         <source>Picture:</source>
@@ -2085,7 +2085,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formatiere AutoForm</translation>
     </message>
 </context>
 <context>
@@ -2914,7 +2914,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Benutzerdefiniert</translation>
     </message>
 </context>
 <context>
@@ -3162,7 +3162,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(GIF)(*.gif)</source>
@@ -3416,7 +3416,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Layout</translation>
     </message>
     <message>
         <source>Department</source>
@@ -3583,7 +3583,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zurücksetzen</translation>
     </message>
     <message>
         <source>Separator</source>
@@ -3914,7 +3914,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
@@ -3948,7 +3948,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
@@ -4129,18 +4129,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus anderen Vorlagen...</translation>
     </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished">Aktuelle Dokumente</translation>
+        <translation>Aktuelle Dokumente</translation>
     </message>
     <message>
         <source>Manage</source>
@@ -4168,7 +4168,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New From Other Templates...</source>
@@ -4184,14 +4184,14 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus anderen Vorlagen...</translation>
     </message>
 </context>
 <context>
     <name>KxTpSelectShape</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -4599,7 +4599,7 @@ of services and features.</source>
     <name>KxWidgetTemplate</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Up</source>
@@ -4643,7 +4643,7 @@ cannot be previewed.</source>
     <name>KxWidgetTextBox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
@@ -4687,15 +4687,15 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Rechts:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten:</translation>
     </message>
     <message>
         <source>&amp;Word wrap text in autoshape</source>
@@ -5269,7 +5269,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwenden</translation>
     </message>
     <message>
         <source>W&amp;hole Document</source>
@@ -5541,7 +5541,7 @@ Document</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Benutzerdefiniert</translation>
     </message>
     <message>
         <source>&amp;Name:</source>

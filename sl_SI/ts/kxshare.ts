@@ -225,11 +225,27 @@
         <source>%1 controls</source>
         <translation>%1 kontrolnikov</translation>
     </message>
+    <message>
+        <source>ActiveX Control (*.ocx;*.dll)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not register this control.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
         <source>(damaged file : %1 )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>error file list:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -329,6 +345,10 @@
         <source>Del</source>
         <translation>Del</translation>
     </message>
+    <message>
+        <source>C,X,V,Z,Y</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
@@ -371,35 +391,27 @@
     <name>KInsertSymbolDlg</name>
     <message>
         <source>Symbol</source>
-        <translation>Simbol</translation>
+        <translation type="obsolete">Simbol</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zapri</translation>
+        <translation type="obsolete">Zapri</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekliči</translation>
+        <translation type="obsolete">Prekliči</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation>Si&amp;mboli</translation>
+        <translation type="obsolete">Si&amp;mboli</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation>Posebni &amp;znaki</translation>
-    </message>
-    <message>
-        <source>Cus&amp;tom Symbols</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert to Custom S&amp;ymbols</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Posebni &amp;znaki</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>&amp;Vstavi</translation>
+        <translation type="obsolete">&amp;Vstavi</translation>
     </message>
 </context>
 <context>
@@ -409,20 +421,12 @@
         <translation>Izberite jezik</translation>
     </message>
     <message>
-        <source>Get More...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Install Locale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Choose Language Installation Package</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>archives (*.zip)</source>
-        <translation>Arhivi (*.zip)</translation>
+        <translation type="obsolete">Arhivi (*.zip)</translation>
     </message>
     <message>
         <source>Install Language Package</source>
@@ -434,7 +438,7 @@
     </message>
     <message>
         <source>Choose your language</source>
-        <translation>Izberite jezik</translation>
+        <translation type="obsolete">Izberite jezik</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
@@ -447,6 +451,22 @@
     <message>
         <source>Settings will be effected after application restarted.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Install new language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get &amp;More...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Follow system locale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
+        <translation type="unfinished">Datoteka ZIP (*.zip)</translation>
     </message>
 </context>
 <context>
@@ -628,77 +648,61 @@
     <name>KSpecialCharTabWidget</name>
     <message>
         <source>&amp;Characters:</source>
-        <translation>&amp;Znaki:</translation>
+        <translation type="obsolete">&amp;Znaki:</translation>
     </message>
 </context>
 <context>
     <name>KSymbolBarTabWidget</name>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation>Ali ste prepričani, da želite ponastaviti orodno vrstico simbolov?</translation>
-    </message>
-    <message>
-        <source>Cust&amp;om Symbols:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Ali ste prepričani, da želite ponastaviti orodno vrstico simbolov?</translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation>Tipke za bližnjice:</translation>
-    </message>
-    <message>
-        <source>Shortcut &amp;keys:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Tipke za bližnjice:</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Brez</translation>
-    </message>
-    <message>
-        <source>Specify S&amp;hortcut keys</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Brez</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation>Prema&amp;kni navzdol</translation>
+        <translation type="obsolete">Prema&amp;kni navzdol</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation>&amp;Premakni navzgor</translation>
+        <translation type="obsolete">&amp;Premakni navzgor</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>Od&amp;strani</translation>
-    </message>
-    <message>
-        <source>R&amp;eset Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Od&amp;strani</translation>
     </message>
 </context>
 <context>
     <name>KSymbolTabWidget</name>
     <message>
         <source>(Normal Text)</source>
-        <translation>(Navadno besedilo)</translation>
+        <translation type="obsolete">(Navadno besedilo)</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>&amp;Pisava:</translation>
+        <translation type="obsolete">&amp;Pisava:</translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation>Po&amp;dmnožica:</translation>
+        <translation type="obsolete">Po&amp;dmnožica:</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation>&amp;Nedavno uporabljeni simboli:</translation>
+        <translation type="obsolete">&amp;Nedavno uporabljeni simboli:</translation>
     </message>
     <message>
         <source>&amp;Character code:</source>
-        <translation>&amp;Koda znaka:</translation>
+        <translation type="obsolete">&amp;Koda znaka:</translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation>&amp;iz:</translation>
+        <translation type="obsolete">&amp;iz:</translation>
     </message>
 </context>
 <context>
@@ -1099,7 +1103,7 @@
     </message>
     <message>
         <source>%1(%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1(%2)</translation>
     </message>
     <message>
         <source>res:/icons/kxshare/%1.png</source>
@@ -1287,6 +1291,13 @@
     <message>
         <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxControlsListCommand</name>
+    <message>
+        <source>Register Custom Control...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2037,7 +2048,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne</translation>
     </message>
 </context>
 <context>
@@ -2087,7 +2098,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Change &amp;Icon...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zamenjaj ikono...</translation>
     </message>
 </context>
 <context>
@@ -2102,7 +2113,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Pisava:</translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
@@ -3193,6 +3204,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Update to Personal</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You also can download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Free.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
@@ -3649,12 +3672,8 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxSystemCheckerCommand</name>
     <message>
-        <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>, </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">, </translation>
     </message>
     <message>
         <source>Missing libcups.so: can not access printer!</source>
@@ -3664,20 +3683,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
         <source>System Checking</source>
-        <translation>Preverjanje sistema</translation>
+        <translation type="obsolete">Preverjanje sistema</translation>
     </message>
     <message>
         <source>Icon</source>
         <translation>Ikona</translation>
-    </message>
-    <message>
-        <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Checking...</source>
@@ -3694,6 +3713,14 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Checking completed!</source>
         <translation>Preverjanje končano!</translation>
+    </message>
+    <message>
+        <source>System Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following issues were detected on this system:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4098,7 +4125,7 @@ of services and features.</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne</translation>
     </message>
     <message>
         <source>Click to try it now.</source>
@@ -4514,7 +4541,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Spodaj:</translation>
     </message>
     <message>
         <source>&amp;Word wrap text in autoshape</source>
@@ -4576,539 +4603,526 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Arabic (Saudi Arabia)</source>
-        <translation>Arabščina (Saudska Arabija)</translation>
+        <translation type="obsolete">Arabščina (Saudska Arabija)</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation>Kitajščina (Tajvan)</translation>
+        <translation type="obsolete">Kitajščina (Tajvan)</translation>
     </message>
     <message>
         <source>German (Germany)</source>
-        <translation>Nemščina (Nemčija)</translation>
+        <translation type="obsolete">Nemščina (Nemčija)</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation>Angleščina (Združene države)</translation>
+        <translation type="obsolete">Angleščina (Združene države)</translation>
     </message>
     <message>
         <source>Spanish (Spain)</source>
-        <translation>Španščina (Španija)</translation>
+        <translation type="obsolete">Španščina (Španija)</translation>
     </message>
     <message>
         <source>French (France)</source>
-        <translation>Francoščina (Francija)</translation>
+        <translation type="obsolete">Francoščina (Francija)</translation>
     </message>
     <message>
         <source>Italian (Italy)</source>
-        <translation>Italijanščina (Italija)</translation>
+        <translation type="obsolete">Italijanščina (Italija)</translation>
     </message>
     <message>
         <source>Dutch (The Netherlands)</source>
-        <translation>Nizozemščina (Nizozemska)</translation>
+        <translation type="obsolete">Nizozemščina (Nizozemska)</translation>
     </message>
     <message>
         <source>Portuguese (Brazil)</source>
-        <translation>Portugalščina (Brazilija)</translation>
+        <translation type="obsolete">Portugalščina (Brazilija)</translation>
     </message>
     <message>
         <source>Swedish (Sweden)</source>
-        <translation>Švedščina (Švedska)</translation>
+        <translation type="obsolete">Švedščina (Švedska)</translation>
     </message>
     <message>
         <source>Azeri (Latin)</source>
-        <translation>Azerščina (latinica)</translation>
+        <translation type="obsolete">Azerščina (latinica)</translation>
     </message>
     <message>
         <source>Malay (Malaysia)</source>
-        <translation>Malajščina (Malezija)</translation>
+        <translation type="obsolete">Malajščina (Malezija)</translation>
     </message>
     <message>
         <source>Uzbek (Latin)</source>
-        <translation>Uzbeščina (latinica)</translation>
+        <translation type="obsolete">Uzbeščina (latinica)</translation>
     </message>
     <message>
         <source>Arabic (Iraq)</source>
-        <translation>Arabščina (Irak)</translation>
+        <translation type="obsolete">Arabščina (Irak)</translation>
     </message>
     <message>
         <source>Chinese (China)</source>
-        <translation>Kitajščina (Kitajska)</translation>
+        <translation type="obsolete">Kitajščina (Kitajska)</translation>
     </message>
     <message>
         <source>German (Switzerland)</source>
-        <translation>Nemščina (Švica)</translation>
+        <translation type="obsolete">Nemščina (Švica)</translation>
     </message>
     <message>
         <source>English (United Kingdom)</source>
-        <translation>Angleščina (Združeno kraljestvo)</translation>
+        <translation type="obsolete">Angleščina (Združeno kraljestvo)</translation>
     </message>
     <message>
         <source>Spanish (Mexico)</source>
-        <translation>Španščina (Mehika)</translation>
+        <translation type="obsolete">Španščina (Mehika)</translation>
     </message>
     <message>
         <source>French (Belgium)</source>
-        <translation>Francoščina (Belgija)</translation>
+        <translation type="obsolete">Francoščina (Belgija)</translation>
     </message>
     <message>
         <source>Italian (Switzerland)</source>
-        <translation>Italijanščina (Švica)</translation>
+        <translation type="obsolete">Italijanščina (Švica)</translation>
     </message>
     <message>
         <source>Dutch (Belgium)</source>
-        <translation>Nizozemščina (Belgija)</translation>
+        <translation type="obsolete">Nizozemščina (Belgija)</translation>
     </message>
     <message>
         <source>Norwegian (Nynorsk)</source>
-        <translation>Norveščina (Nynorsk)</translation>
+        <translation type="obsolete">Norveščina (Nynorsk)</translation>
     </message>
     <message>
         <source>Portuguese (Portugal)</source>
-        <translation>Portugalščina (Portugalska)</translation>
+        <translation type="obsolete">Portugalščina (Portugalska)</translation>
     </message>
     <message>
         <source>Romanian (Republic of Moldova)</source>
-        <translation>Romunščina (Republika Moldova)</translation>
+        <translation type="obsolete">Romunščina (Republika Moldova)</translation>
     </message>
     <message>
         <source>Russian (Republic of Moldova)</source>
-        <translation>Ruščina (Republika Moldova)</translation>
+        <translation type="obsolete">Ruščina (Republika Moldova)</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation>Srbščina (latinica)</translation>
+        <translation type="obsolete">Srbščina (latinica)</translation>
     </message>
     <message>
         <source>Swedish (Finland)</source>
-        <translation>Švedščina (Finska)</translation>
+        <translation type="obsolete">Švedščina (Finska)</translation>
     </message>
     <message>
         <source>Azeri (Cyrillic)</source>
-        <translation>Azerščina (cirilica)</translation>
+        <translation type="obsolete">Azerščina (cirilica)</translation>
     </message>
     <message>
         <source>Gaelic (Ireland)</source>
-        <translation>Galščina (Irska)</translation>
+        <translation type="obsolete">Galščina (Irska)</translation>
     </message>
     <message>
         <source>Malay (Brunei)</source>
-        <translation>Malajščina (Brunej)</translation>
+        <translation type="obsolete">Malajščina (Brunej)</translation>
     </message>
     <message>
         <source>Uzbek (Cyrillic)</source>
-        <translation>Uzbeščina (Cirilica)</translation>
+        <translation type="obsolete">Uzbeščina (Cirilica)</translation>
     </message>
     <message>
         <source>Arabic (Egypt)</source>
-        <translation>Arabščina (Egipt)</translation>
+        <translation type="obsolete">Arabščina (Egipt)</translation>
     </message>
     <message>
         <source>Chinese (Hong Kong SAR)</source>
-        <translation>Kitajščina (Posebna administrativna regija Hongkong)</translation>
+        <translation type="obsolete">Kitajščina (Posebna administrativna regija Hongkong)</translation>
     </message>
     <message>
         <source>German (Austria)</source>
-        <translation>Nemščina (Avstrija)</translation>
+        <translation type="obsolete">Nemščina (Avstrija)</translation>
     </message>
     <message>
         <source>English (Australia)</source>
-        <translation>Angleščina (Avstralija)</translation>
+        <translation type="obsolete">Angleščina (Avstralija)</translation>
     </message>
     <message>
         <source>French (Canada)</source>
-        <translation>Francoščina (Kanada)</translation>
+        <translation type="obsolete">Francoščina (Kanada)</translation>
     </message>
     <message>
         <source>Serbian (Cyrillic)</source>
-        <translation>Srbščina (cirilica)</translation>
+        <translation type="obsolete">Srbščina (cirilica)</translation>
     </message>
     <message>
         <source>Arabic (Libya)</source>
-        <translation>Arabščina (Libija)</translation>
+        <translation type="obsolete">Arabščina (Libija)</translation>
     </message>
     <message>
         <source>Chinese (Singapore)</source>
-        <translation>Kitajščina (Singapur)</translation>
+        <translation type="obsolete">Kitajščina (Singapur)</translation>
     </message>
     <message>
         <source>German (Luxembourg)</source>
-        <translation>Nemščina (Luksemburg)</translation>
+        <translation type="obsolete">Nemščina (Luksemburg)</translation>
     </message>
     <message>
         <source>English (Canada)</source>
-        <translation>Angleščina (Kanada)</translation>
+        <translation type="obsolete">Angleščina (Kanada)</translation>
     </message>
     <message>
         <source>Spanish (Guatemala)</source>
-        <translation>Španščina (Gvatemala)</translation>
+        <translation type="obsolete">Španščina (Gvatemala)</translation>
     </message>
     <message>
         <source>French (Switzerland)</source>
-        <translation>Francoščina (Švica)</translation>
+        <translation type="obsolete">Francoščina (Švica)</translation>
     </message>
     <message>
         <source>Arabic (Algeria)</source>
-        <translation>Arabščina (Alžirija)</translation>
+        <translation type="obsolete">Arabščina (Alžirija)</translation>
     </message>
     <message>
         <source>Chinese (Macau SAR)</source>
-        <translation>Kitajščina (Macao)</translation>
+        <translation type="obsolete">Kitajščina (Macao)</translation>
     </message>
     <message>
         <source>German (Liechtenstein)</source>
-        <translation>Nemščina (Liechtenstein)</translation>
+        <translation type="obsolete">Nemščina (Liechtenstein)</translation>
     </message>
     <message>
         <source>English (New Zealand)</source>
-        <translation>Angleščina (Nova Zelandija)</translation>
+        <translation type="obsolete">Angleščina (Nova Zelandija)</translation>
     </message>
     <message>
         <source>Spanish (Costa Rica)</source>
-        <translation>Španščina (Kostarika)</translation>
+        <translation type="obsolete">Španščina (Kostarika)</translation>
     </message>
     <message>
         <source>French (Luxembourg)</source>
-        <translation>Francoščina (Luksemburg)</translation>
+        <translation type="obsolete">Francoščina (Luksemburg)</translation>
     </message>
     <message>
         <source>Arabic (Morocco)</source>
-        <translation>Arabščina (Maroko)</translation>
+        <translation type="obsolete">Arabščina (Maroko)</translation>
     </message>
     <message>
         <source>English (Ireland)</source>
-        <translation>Angleščina (Irska)</translation>
+        <translation type="obsolete">Angleščina (Irska)</translation>
     </message>
     <message>
         <source>Spanish (Panama)</source>
-        <translation>Španščina (Panama)</translation>
+        <translation type="obsolete">Španščina (Panama)</translation>
     </message>
     <message>
         <source>Arabic (Tunisia)</source>
-        <translation>Arabščina (Tunizija)</translation>
+        <translation type="obsolete">Arabščina (Tunizija)</translation>
     </message>
     <message>
         <source>English (South Africa)</source>
-        <translation>Angleščina (Južna Afrika)</translation>
+        <translation type="obsolete">Angleščina (Južna Afrika)</translation>
     </message>
     <message>
         <source>Spanish (Dominican Republic)</source>
-        <translation>Španščina (Dominikanska republika)</translation>
+        <translation type="obsolete">Španščina (Dominikanska republika)</translation>
     </message>
     <message>
         <source>Arabic (Oman)</source>
-        <translation>Arabščina (Oman)</translation>
+        <translation type="obsolete">Arabščina (Oman)</translation>
     </message>
     <message>
         <source>English (Jamaica)</source>
-        <translation>Angleščina (Jamajka)</translation>
+        <translation type="obsolete">Angleščina (Jamajka)</translation>
     </message>
     <message>
         <source>Spanish (Venezuela)</source>
-        <translation>Španščina (Venezuela)</translation>
+        <translation type="obsolete">Španščina (Venezuela)</translation>
     </message>
     <message>
         <source>Arabic (Yemen)</source>
-        <translation>Arabščina (Jemen)</translation>
+        <translation type="obsolete">Arabščina (Jemen)</translation>
     </message>
     <message>
         <source>English (Caribbean)</source>
-        <translation>Angleščina (Karibi)</translation>
+        <translation type="obsolete">Angleščina (Karibi)</translation>
     </message>
     <message>
         <source>Spanish (Colombia)</source>
-        <translation>Španščina (Kolumbija)</translation>
+        <translation type="obsolete">Španščina (Kolumbija)</translation>
     </message>
     <message>
         <source>Arabic (Syria)</source>
-        <translation>Arabščina (Sirija)</translation>
+        <translation type="obsolete">Arabščina (Sirija)</translation>
     </message>
     <message>
         <source>English (Belize)</source>
-        <translation>Angleščina (Belize)</translation>
+        <translation type="obsolete">Angleščina (Belize)</translation>
     </message>
     <message>
         <source>Spanish (Peru)</source>
-        <translation>Španščina (Peru)</translation>
+        <translation type="obsolete">Španščina (Peru)</translation>
     </message>
     <message>
         <source>Arabic (Jordan)</source>
-        <translation>Arabščina (Jordanija)</translation>
+        <translation type="obsolete">Arabščina (Jordanija)</translation>
     </message>
     <message>
         <source>English (Trinidad)</source>
-        <translation>Angleščina (Trinidad)</translation>
+        <translation type="obsolete">Angleščina (Trinidad)</translation>
     </message>
     <message>
         <source>Spanish (Argentina)</source>
-        <translation>Španščina (Argentina)</translation>
+        <translation type="obsolete">Španščina (Argentina)</translation>
     </message>
     <message>
         <source>Arabic (Lebanon)</source>
-        <translation>Arabščina (Libanon)</translation>
+        <translation type="obsolete">Arabščina (Libanon)</translation>
     </message>
     <message>
         <source>Spanish (Ecuador)</source>
-        <translation>Španščina (Ekvador)</translation>
+        <translation type="obsolete">Španščina (Ekvador)</translation>
     </message>
     <message>
         <source>Arabic (Kuwait)</source>
-        <translation>Arabščina (Kuvajt)</translation>
+        <translation type="obsolete">Arabščina (Kuvajt)</translation>
     </message>
     <message>
         <source>English (Phillippines)</source>
-        <translation>Angleščina (Filipini)</translation>
+        <translation type="obsolete">Angleščina (Filipini)</translation>
     </message>
     <message>
         <source>Spanish (Chile)</source>
-        <translation>Španščina (Čile)</translation>
+        <translation type="obsolete">Španščina (Čile)</translation>
     </message>
     <message>
         <source>Arabic (United Arab Emirates)</source>
-        <translation>Arabščina (Združeni arabski emirati)</translation>
+        <translation type="obsolete">Arabščina (Združeni arabski emirati)</translation>
     </message>
     <message>
         <source>Spanish (Uruguay)</source>
-        <translation>Španščina (Urugvaj)</translation>
+        <translation type="obsolete">Španščina (Urugvaj)</translation>
     </message>
     <message>
         <source>Arabic (Bahrain)</source>
-        <translation>Arabščina (Bahrajn)</translation>
+        <translation type="obsolete">Arabščina (Bahrajn)</translation>
     </message>
     <message>
         <source>Spanish (Paraguay)</source>
-        <translation>Španščina (Paragvaj)</translation>
+        <translation type="obsolete">Španščina (Paragvaj)</translation>
     </message>
     <message>
         <source>Arabic (Qatar)</source>
-        <translation>Arabščina (Katar)</translation>
+        <translation type="obsolete">Arabščina (Katar)</translation>
     </message>
     <message>
         <source>Spanish (Bolivia)</source>
-        <translation>Španščina (Bolivija)</translation>
+        <translation type="obsolete">Španščina (Bolivija)</translation>
     </message>
     <message>
         <source>Spanish (El Salvador)</source>
-        <translation>Španščina (El Salvador)</translation>
+        <translation type="obsolete">Španščina (El Salvador)</translation>
     </message>
     <message>
         <source>Spanish (Honduras)</source>
-        <translation>Španščina (Honduras)</translation>
+        <translation type="obsolete">Španščina (Honduras)</translation>
     </message>
     <message>
         <source>Spanish (Nicaragua)</source>
-        <translation>Španščina (Nikaragva)</translation>
+        <translation type="obsolete">Španščina (Nikaragva)</translation>
     </message>
     <message>
         <source>Spanish (Puerto Rico)</source>
-        <translation>Španščina (Portoriko)</translation>
+        <translation type="obsolete">Španščina (Portoriko)</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>Ruščina</translation>
+        <translation type="obsolete">Ruščina</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation>Bolgarščina</translation>
+        <translation type="obsolete">Bolgarščina</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation>Katalonščina</translation>
+        <translation type="obsolete">Katalonščina</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation>Češčina</translation>
+        <translation type="obsolete">Češčina</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation>Danščina</translation>
+        <translation type="obsolete">Danščina</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation>Grško</translation>
+        <translation type="obsolete">Grško</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation>Finščina</translation>
+        <translation type="obsolete">Finščina</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>Hebrejščina</translation>
+        <translation type="obsolete">Hebrejščina</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation>Madžarščina</translation>
+        <translation type="obsolete">Madžarščina</translation>
     </message>
     <message>
         <source>Icelandic</source>
-        <translation>Islandščina</translation>
+        <translation type="obsolete">Islandščina</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>Japonščina</translation>
+        <translation type="obsolete">Japonščina</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation>Korejščina</translation>
+        <translation type="obsolete">Korejščina</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Poljščina</translation>
-    </message>
-    <message>
-        <source>Raeto-Romance</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Poljščina</translation>
     </message>
     <message>
         <source>Romanian (Romania)</source>
-        <translation>Romunščina (Romunija)</translation>
+        <translation type="obsolete">Romunščina (Romunija)</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation>Hrvaščina</translation>
+        <translation type="obsolete">Hrvaščina</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation>Slovaščina</translation>
+        <translation type="obsolete">Slovaščina</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation>Albanščina</translation>
+        <translation type="obsolete">Albanščina</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation>Tajščina</translation>
+        <translation type="obsolete">Tajščina</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation>Turščina</translation>
+        <translation type="obsolete">Turščina</translation>
     </message>
     <message>
         <source>Urdu</source>
-        <translation>Urdujščina</translation>
+        <translation type="obsolete">Urdujščina</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation>Indonezijščina</translation>
+        <translation type="obsolete">Indonezijščina</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation>Ukrajinščina</translation>
+        <translation type="obsolete">Ukrajinščina</translation>
     </message>
     <message>
         <source>Belarusian</source>
-        <translation>Beloruščina</translation>
+        <translation type="obsolete">Beloruščina</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation>Slovenščina</translation>
+        <translation type="obsolete">Slovenščina</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation>Estonščina</translation>
+        <translation type="obsolete">Estonščina</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation>Latvijščina</translation>
+        <translation type="obsolete">Latvijščina</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation>Litovščina</translation>
+        <translation type="obsolete">Litovščina</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation>Perzijščina</translation>
+        <translation type="obsolete">Perzijščina</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation>Vietnamščina</translation>
+        <translation type="obsolete">Vietnamščina</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation>Armenski</translation>
+        <translation type="obsolete">Armenski</translation>
     </message>
     <message>
         <source>Basque</source>
-        <translation>Baskovščina</translation>
+        <translation type="obsolete">Baskovščina</translation>
     </message>
     <message>
         <source>Sorbian</source>
-        <translation>lužiška srbščina</translation>
+        <translation type="obsolete">lužiška srbščina</translation>
     </message>
     <message>
         <source>FYRO Macedonian</source>
-        <translation>Makedonščina (nekdanja jugoslovanska republika)</translation>
+        <translation type="obsolete">Makedonščina (nekdanja jugoslovanska republika)</translation>
     </message>
     <message>
         <source>Sutu</source>
-        <translation>Sutujščina</translation>
+        <translation type="obsolete">Sutujščina</translation>
     </message>
     <message>
         <source>Tsonga</source>
-        <translation>Tsonga</translation>
-    </message>
-    <message>
-        <source>Setsuana</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Tsonga</translation>
     </message>
     <message>
         <source>Xhosa</source>
-        <translation>Xhosa</translation>
+        <translation type="obsolete">Xhosa</translation>
     </message>
     <message>
         <source>Zulu</source>
-        <translation>Zulujščina</translation>
+        <translation type="obsolete">Zulujščina</translation>
     </message>
     <message>
         <source>Afrikaans</source>
-        <translation>Afrikanščina</translation>
+        <translation type="obsolete">Afrikanščina</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation>Ferščina</translation>
+        <translation type="obsolete">Ferščina</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation>Hindijščina</translation>
+        <translation type="obsolete">Hindijščina</translation>
     </message>
     <message>
         <source>Maltese</source>
-        <translation>Malteščina</translation>
+        <translation type="obsolete">Malteščina</translation>
     </message>
     <message>
         <source>Gaelic (Scotland)</source>
-        <translation>Galščina (Škotska)</translation>
+        <translation type="obsolete">Galščina (Škotska)</translation>
     </message>
     <message>
         <source>Yiddish</source>
-        <translation>Jidiš</translation>
+        <translation type="obsolete">Jidiš</translation>
     </message>
     <message>
         <source>Swahili</source>
-        <translation>Svahili</translation>
+        <translation type="obsolete">Svahili</translation>
     </message>
     <message>
         <source>Tatar</source>
-        <translation>Tatarščina</translation>
+        <translation type="obsolete">Tatarščina</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation>Tatarščina</translation>
+        <translation type="obsolete">Tatarščina</translation>
     </message>
     <message>
         <source>Marathi</source>
-        <translation>Maratščina</translation>
+        <translation type="obsolete">Maratščina</translation>
     </message>
     <message>
         <source>Sanskrit</source>
-        <translation>Sanskrt</translation>
+        <translation type="obsolete">Sanskrt</translation>
     </message>
     <message>
         <source>custom %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5378,15 +5392,20 @@ Always take this action</source>
     </message>
     <message>
         <source>Norwegian (BokmÃ¥l)</source>
-        <translation>Norveščina (Bokmal)</translation>
+        <translation type="obsolete">Norveščina (Bokmal)</translation>
     </message>
     <message>
         <source>The selected dict has been deleted, please select another dict.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
+(The system uses Kingsoft Office as the default one to open %1 files)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5439,10 +5458,6 @@ The settings will take effect after restarting the application.</source>
         <translation>Avtorske pravice</translation>
     </message>
     <message>
-        <source>1988-2013 Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All rights reserved.</source>
         <translation>Vse pravice pridržane.</translation>
     </message>
@@ -5467,6 +5482,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source>&amp;Tech Support...</source>
         <translation>&amp;Tehnična podpora...</translation>
+    </message>
+    <message>
+        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5816,7 +5835,7 @@ dokumentu</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Izbriši</translation>
     </message>
     <message>
         <source>Checked by</source>

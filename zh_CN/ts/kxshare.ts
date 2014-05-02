@@ -299,8 +299,8 @@
         <translation>（疑似损坏文件：%1）</translation>
     </message>
     <message>
-        <source></source>
-        <translation type="unfinished">疑似损坏文件：</translation>
+        <source>error file list:</source>
+        <translation>疑似损坏文件：</translation>
     </message>
 </context>
 <context>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2195,11 +2195,27 @@ scalonych danych</translation>
         <translation>Więcej kolorów linii</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>Outside Border</source>
         <translation>Zewnętrzna krawędź</translation>
     </message>
     <message>
         <source>Shading Color</source>
+=======
+        <source>No Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation>Zewnętrzna krawędź</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shading</source>
+>>>>>>> upstream/master
         <translation>Kolor cieniowania</translation>
     </message>
     <message>
@@ -2846,6 +2862,17 @@ Włącz</translation>
         <translation>Zmień wersję</translation>
     </message>
     <message>
+<<<<<<< HEAD
+=======
+        <source>Create CloudLink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation>Ochrona i właściwości dokumentu</translation>
+    </message>
+    <message>
+>>>>>>> upstream/master
         <source>Document Protection and Properties</source>
         <translation>Ochrona i właściwości dokumentu</translation>
     </message>
@@ -3173,6 +3200,13 @@ Włącz</translation>
     <message>
         <source>Align Right</source>
         <translation>Wyrównaj do prawej</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Asian Layout</source>
@@ -3181,6 +3215,17 @@ Włącz</translation>
     <message>
         <source>Bold</source>
         <translation>Pogrubienie</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Bullets</source>
@@ -3319,6 +3364,13 @@ formatów</translation>
     <message>
         <source>Home Object Select</source>
         <translation>Narzędzia główne wybierz obiekt</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3331,6 +3383,13 @@ formatów</translation>
     <message>
         <source>Justify</source>
         <translation>Wyjustuj</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished">Lewy Margines</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3363,10 +3422,24 @@ formatów</translation>
     <message>
         <source>New Style</source>
         <translation>Nowy styl</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation type="unfinished">Bez Marginesów</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Outside Border</source>
         <translation>Zewnętrzna krawędź</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished">Obramowanie zewnętrzne</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Paragraph</source>
@@ -3467,6 +3540,13 @@ formatów</translation>
     <message>
         <source>Underline Color</source>
         <translation>Kolor podkreślenia</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Word Tools</source>
@@ -3505,6 +3585,25 @@ formatów</translation>
     <message>
         <source>Clip Art</source>
         <translation>Obiekt ClipArt</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation>Konwertuj tabelę na tekst</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Konwertuj tekst na tabelę</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -3541,6 +3640,13 @@ formatów</translation>
     <message>
         <source>Equation</source>
         <translation>Równanie</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Fields</source>
@@ -3621,6 +3727,13 @@ formatów</translation>
     <message>
         <source>Multi-line Text</source>
         <translation>Tekst wielowierszowy</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Number</source>
@@ -3694,6 +3807,13 @@ bol</source>
     <message>
         <source>Text Form Field</source>
         <translation>Pole tekstowe formularza</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Text from File</source>
@@ -7082,6 +7202,13 @@ Włącz</translation>
     <message>
         <source>File Auto Backup</source>
         <translation>Plik automatycznej kopii zapasowej</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>KOS My account</source>
@@ -7304,7 +7431,11 @@ Włącz</translation>
     </message>
     <message>
         <source>Change User Information</source>
+<<<<<<< HEAD
         <translation>Zmień informacje o użytkowniku</translation>
+=======
+        <translation type="obsolete">Zmień informacje o użytkowniku</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Change Version</source>
@@ -7505,10 +7636,13 @@ Włącz</translation>
     <message>
         <source>Document Map</source>
         <translation>Plan dokumentu</translation>
+<<<<<<< HEAD
     </message>
     <message>
         <source>Document Protection</source>
         <translation>Ochrona dokumentu</translation>
+=======
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Draw
@@ -8063,6 +8197,13 @@ Ukośna linia w komórce</translation>
     <message>
         <source>Restart Numbering</source>
         <translation>Ponownie uruchom numerowanie</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation>Tabulator prawy</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Right Tab</source>
@@ -8387,6 +8528,13 @@ Ukośna linia w komórce</translation>
         <translation>Wyczyść styl tabeli</translation>
     </message>
     <message>
+<<<<<<< HEAD
+=======
+        <source>Cross Border</source>
+        <translation></translation>
+    </message>
+    <message>
+>>>>>>> upstream/master
         <source>Draw
 Diagonal Line in Cell</source>
         <translation>Rysuj
@@ -8423,6 +8571,17 @@ Ukośna linia w komórce</translation>
     <message>
         <source>Outside Border</source>
         <translation>Zewnętrzna krawędź</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Shading Color</source>
@@ -8998,6 +9157,17 @@ Ukośna linia w komórce</translation>
         <translation>Zmień wersję</translation>
     </message>
     <message>
+<<<<<<< HEAD
+=======
+        <source>Create CloudLink</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Create CloudLink Title</source>
+        <translation>Ochrona i właściwości dokumentu</translation>
+    </message>
+    <message>
+>>>>>>> upstream/master
         <source>Document Protection and Properties</source>
         <translation>Ochrona i właściwości dokumentu</translation>
     </message>
@@ -9331,6 +9501,13 @@ nagłówkiem i stopką</translation>
         <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
+<<<<<<< HEAD
+=======
+        <source>All Borders</source>
+        <translation>Układ azjatycki</translation>
+    </message>
+    <message>
+>>>>>>> upstream/master
         <source>Asian Layout</source>
         <translation>Układ azjatycki</translation>
     </message>
@@ -9339,6 +9516,17 @@ nagłówkiem i stopką</translation>
         <translation>Pogrubienie</translation>
     </message>
     <message>
+<<<<<<< HEAD
+=======
+        <source>Border and shading</source>
+        <translation>Wypunktowanie</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation>Wyśrodkowany</translation>
+    </message>
+    <message>
+>>>>>>> upstream/master
         <source>Bullets</source>
         <translation>Wypunktowanie</translation>
     </message>
@@ -9457,6 +9645,13 @@ nagłówkiem i stopką</translation>
     <message>
         <source>Highlight</source>
         <translation>Wyróżnienie</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Increase Indent</source>
@@ -9471,6 +9666,13 @@ nagłówkiem i stopką</translation>
         <translation>Wyjustuj</translation>
     </message>
     <message>
+<<<<<<< HEAD
+=======
+        <source>Left Border</source>
+        <translation>Interlinia</translation>
+    </message>
+    <message>
+>>>>>>> upstream/master
         <source>Line Spacing</source>
         <translation>Interlinia</translation>
     </message>
@@ -9501,10 +9703,24 @@ nagłówkiem i stopką</translation>
     <message>
         <source>New Style</source>
         <translation>Nowy styl</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Outside Border</source>
         <translation>Zewnętrzna krawędź</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished">Krawędzie zewnętrzne</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Paragraph</source>
@@ -9529,6 +9745,13 @@ nagłówkiem i stopką</translation>
     <message>
         <source>Phonetic Guide...</source>
         <translation>Przewodnik fonetyczny...</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Select</source>
@@ -9595,6 +9818,13 @@ nagłówkiem i stopką</translation>
         <translation>Kolor tekstu</translation>
     </message>
     <message>
+<<<<<<< HEAD
+=======
+        <source>Top Border</source>
+        <translation></translation>
+    </message>
+    <message>
+>>>>>>> upstream/master
         <source>Two Lines in One</source>
         <translation>Dwa wiersze w jednym</translation>
     </message>
@@ -9605,6 +9835,13 @@ nagłówkiem i stopką</translation>
     <message>
         <source>Underline Color</source>
         <translation>Kolor podkreślenia</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Word Tools</source>
@@ -9643,6 +9880,25 @@ nagłówkiem i stopką</translation>
     <message>
         <source>Clip Art</source>
         <translation>Obiekt ClipArt</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -9771,6 +10027,13 @@ nagłówkiem i stopką</translation>
     <message>
         <source>Multi-line Text</source>
         <translation>Tekst wielowierszowy</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Next Page Section Break</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Number</source>
@@ -9779,6 +10042,13 @@ nagłówkiem i stopką</translation>
     <message>
         <source>Object</source>
         <translation>Obiekt</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Page Break</source>
@@ -9839,6 +10109,13 @@ nagłówkiem i stopką</translation>
     <message>
         <source>Text Form Field</source>
         <translation>Pole tekstowe formularza</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Vertical</source>
@@ -13041,6 +13318,13 @@ pozostałe okno</translation>
     <message>
         <source>Help us improve our product.</source>
         <translation>Pomóż w ulepszaniu naszego produktu.</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>KOS My account</source>
@@ -15316,6 +15600,20 @@ Kliknij strzałkę, aby wstawić zawartość pliku do dokumentu.</translation>
     <message>
         <source>Newbie Guide</source>
         <translation>Internetowy poradnik</translation>
+<<<<<<< HEAD
+=======
+    </message>
+</context>
+<context>
+    <name>tips.KOSCreatecloudLinkTip</name>
+    <message>
+        <source>KOSCreatecloudLinkTip Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOSCreatecloudLinkTip Title</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
 </context>
 <context>
@@ -16266,11 +16564,19 @@ Kliknij strzałkę, aby wybrać szczegółowe ustawienia dla wybranego obiektu.<
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
+<<<<<<< HEAD
         <translation>Ochrona dokumentu</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
         <translation>Pomóż ograniczyć innym osobom możliwości wprowadzania pewnego typu zmian edycyjnych lub zmian w formatowaniu dokumentu przez określenie hasła.</translation>
+=======
+        <translation type="obsolete">Ochrona dokumentu</translation>
+    </message>
+    <message>
+        <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
+        <translation type="obsolete">Pomóż ograniczyć innym osobom możliwości wprowadzania pewnego typu zmian edycyjnych lub zmian w formatowaniu dokumentu przez określenie hasła.</translation>
+>>>>>>> upstream/master
     </message>
 </context>
 <context>
@@ -16503,6 +16809,20 @@ Kliknij strzałkę, aby wybrać inne kolory tła.</translation>
     <message>
         <source>Restart Page Numbering</source>
         <translation>Ponownie uruchom numerowanie stron</translation>
+<<<<<<< HEAD
+=======
+    </message>
+</context>
+<context>
+    <name>tips.RestrictEditing</name>
+    <message>
+        <source>RestrictEditing Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RestrictEditing Title</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
 </context>
 <context>
@@ -17754,7 +18074,11 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     </message>
     <message>
         <source>Change User Information</source>
+<<<<<<< HEAD
         <translation>Zmień informacje o użytkowniku</translation>
+=======
+        <translation type="obsolete">Zmień informacje o użytkowniku</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Cloud Feedback</source>
@@ -17771,6 +18095,21 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     <message>
         <source>Export as Images</source>
         <translation>Eksportuj jako obrazy</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>KOS Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Login</source>
@@ -18000,6 +18339,13 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     <message>
         <source>Clipboard Pane</source>
         <translation>Okienko schowka</translation>
+<<<<<<< HEAD
+=======
+    </message>
+    <message>
+        <source>CloudLink</source>
+        <translation type="unfinished"></translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Collapse</source>
@@ -18196,10 +18542,13 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     <message>
         <source>Move Up</source>
         <translation>Przenieś w górę</translation>
+<<<<<<< HEAD
     </message>
     <message>
         <source>MsgAtMe</source>
         <translation>Wiadomość do mnie</translation>
+=======
+>>>>>>> upstream/master
     </message>
     <message>
         <source>New</source>
@@ -18302,7 +18651,11 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
         <translation>Tryb obracania</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>S MsgAtMe</source>
+=======
+        <source>S CloudLink</source>
+>>>>>>> upstream/master
         <translation>S wiadomości do mnie</translation>
     </message>
     <message>
@@ -18504,7 +18857,11 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     </message>
     <message>
         <source>Change User Information</source>
+<<<<<<< HEAD
         <translation>Zmień informacje o użytkowniku</translation>
+=======
+        <translation type="obsolete">Zmień informacje o użytkowniku</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -18732,7 +19089,11 @@ Możesz też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.<
     </message>
     <message>
         <source>Change User Information</source>
+<<<<<<< HEAD
         <translation>Zmień informacje o użytkowniku</translation>
+=======
+        <translation type="obsolete">Zmień informacje o użytkowniku</translation>
+>>>>>>> upstream/master
     </message>
     <message>
         <source>Developer</source>

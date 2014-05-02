@@ -5409,10 +5409,6 @@ protected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory you specified dose not exist, enter a valid directory please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5426,6 +5422,10 @@ protected.</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
