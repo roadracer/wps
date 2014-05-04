@@ -1240,10 +1240,6 @@ To fix the links, select a single sheet and click Edit Links.</source>
         <source>Forming Sensitivity Report...</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>No cells were found.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>et_appcore</name>
@@ -4470,14 +4466,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Returns the price per $100 face value of a security that pays periodic interest.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GETPIVOTDATA(data_field, pivot_table, field, item,...)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Extracts data stored in a PivotTable.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8164,6 +8152,8 @@ Continue ?</source>
         <source> is invalid for your system, do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
+<<<<<<< HEAD
+=======
     <message>
         <source>Active document is not a worksheet or in unprotected state.</source>
         <translation type="unfinished"></translation>
@@ -8212,6 +8202,7 @@ Continue ?</source>
         <source>???</source>
         <translation type="unfinished"></translation>
     </message>
+>>>>>>> upstream/master
 </context>
 <context>
     <name>et_undodesc</name>
