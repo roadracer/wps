@@ -382,7 +382,7 @@
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 пунктов</translation>
+        <translation>4,5 пунктов</translation>
     </message>
     <message>
         <source>6 pt</source>
@@ -490,15 +490,15 @@
     </message>
     <message>
         <source>Dash</source>
-        <translation>Тире</translation>
+        <translation>Штрих</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль тире</translation>
+        <translation>Стиль штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Тире-Точка</translation>
+        <translation>Штрихпунктир</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -534,7 +534,7 @@
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Заполнение цветом</translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>Fill Effects</source>
@@ -606,15 +606,15 @@
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Длинное тире</translation>
+        <translation>Длинный штрих</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Длинное тире-точка</translation>
+        <translation>Длинный штрихпунктир</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинное тире-точка-точка</translation>
+        <translation>Длинный штрих -пунктир-пунктир</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -622,7 +622,7 @@
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -658,7 +658,7 @@
     </message>
     <message>
         <source>Order</source>
-        <translation>Порядок</translation>
+        <translation>	Упорядочивание</translation>
     </message>
     <message>
         <source>Oval</source>
@@ -1288,7 +1288,7 @@ Merged Data</source>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 пунктов</translation>
+        <translation>4,5 пунктов</translation>
     </message>
     <message>
         <source>6 pt</source>
@@ -1734,19 +1734,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Колонки</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
-        <translation>Колонки слева</translation>
+        <translation>Столбцы слева</translation>
     </message>
     <message>
         <source>Columns to the Right</source>
-        <translation>Колонки справа</translation>
+        <translation>Столбцы справа</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить колонки равномерно</translation>
+        <translation>Распределить столбцы равномерно</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -1794,7 +1794,7 @@ Merged Data</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -2211,7 +2211,7 @@ Merged Data</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -2535,15 +2535,15 @@ On</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Тире</translation>
+        <translation>Штрих</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль тире</translation>
+        <translation>Стиль штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Тире-Точка</translation>
+        <translation>Штрихпунктир</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -2671,15 +2671,15 @@ On</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Длинное тире</translation>
+        <translation>Длинный штрихпунктир</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Длинное тире-точка</translation>
+        <translation>Длинный штрихпунктир</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинное тире-точка-точка</translation>
+        <translation>Длинный штрих-пунктир-пунктир</translation>
     </message>
     <message>
         <source>More</source>
@@ -2691,7 +2691,7 @@ On</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -3416,7 +3416,7 @@ Painter</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -4187,7 +4187,7 @@ Different New Document</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -4656,15 +4656,15 @@ Different New Document</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Тире</translation>
+        <translation>Штрих</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль тире</translation>
+        <translation>Стиль штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Тире-Точка</translation>
+        <translation>Штрихпунктир</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -4764,15 +4764,15 @@ Different New Document</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Длинное тире</translation>
+        <translation>Длинный штрих</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Длинное тире-точка</translation>
+        <translation>Длинный штрихпунктир</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинное тире-точка-точка</translation>
+        <translation>Длинный штрих-пунктир-пунктир</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -4784,7 +4784,7 @@ Different New Document</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -5912,7 +5912,7 @@ On/Off</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Колонки</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -5928,7 +5928,7 @@ On/Off</source>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить колонки равномерно</translation>
+        <translation>Распределить столбцы равномерно</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -6032,7 +6032,7 @@ On/Off</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>Строки/Колонки</translation>
+        <translation>Строки/Столбцы</translation>
     </message>
     <message>
         <source>Select</source>
@@ -6044,7 +6044,7 @@ On/Off</source>
     </message>
     <message>
         <source>Select Column</source>
-        <translation>Выделить колонку</translation>
+        <translation>Выделить столбец</translation>
     </message>
     <message>
         <source>Select Row</source>
@@ -6073,7 +6073,7 @@ Cells</source>
     </message>
     <message>
         <source>Split Table by Column</source>
-        <translation>Разделить таблицу по колонке</translation>
+        <translation>Разделить таблицу по столбцу</translation>
     </message>
     <message>
         <source>Split Table by Row</source>
@@ -6795,15 +6795,15 @@ On</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Тире</translation>
+        <translation>Штрих</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль тире</translation>
+        <translation>Стиль штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Тире-Точка</translation>
+        <translation>Штрихпунктир</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -6943,15 +6943,15 @@ On</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Длинное тире</translation>
+        <translation>Длинный штрих</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Длинное тире-точка</translation>
+        <translation>Длинный штрихпунктир</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинное тире-точка-точка</translation>
+        <translation>Длинный штрих-пунктир-пунктир</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -6959,7 +6959,7 @@ On</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -7984,7 +7984,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>Move Here</source>
@@ -8060,7 +8060,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Order</source>
-        <translation></translation>
+        <translation>	Упорядочивание</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -8568,7 +8568,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -8864,15 +8864,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Тире</translation>
+        <translation>Штрих</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль тире</translation>
+        <translation>Стиль штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Тире-Точка</translation>
+        <translation>Штрихпунктир</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -8972,15 +8972,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Длинное тире</translation>
+        <translation>Длинный штрих</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Длинное тире-точка</translation>
+        <translation>Длинный штрихпунктир</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинное тире-точка-точка</translation>
+        <translation>Длинный штрих-пунктир-пунктир</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -8988,7 +8988,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -9692,7 +9692,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -10466,7 +10466,7 @@ Merged Data</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -10844,15 +10844,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Тире</translation>
+        <translation>Штрих</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль тире</translation>
+        <translation>Стиль штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Тире-Точка</translation>
+        <translation>Штрихпунктир</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -10948,15 +10948,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Длинное тире</translation>
+        <translation>Длинный штрих</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation></translation>
+        <translation>Длинный штрихпунктир</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинное тире-точка-точка</translation>
+        <translation>Длинный штрих-пунктир-пунктир</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -10968,7 +10968,7 @@ Merged Data</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -12090,7 +12090,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Колонки</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -12110,7 +12110,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить колонки равномерно</translation>
+        <translation>Распределить столбцы равномерно</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -12166,7 +12166,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>Строки/Колонки</translation>
+        <translation>Строки/Столбцы</translation>
     </message>
     <message>
         <source>Select</source>
@@ -12178,7 +12178,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Select Column</source>
-        <translation>Выделить колонку</translation>
+        <translation>Выделить столбец</translation>
     </message>
     <message>
         <source>Select Row</source>
@@ -12202,7 +12202,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Split Table by Column</source>
-        <translation>Разделить таблицу по колонке</translation>
+        <translation>Разделить таблицу по столбцу</translation>
     </message>
     <message>
         <source>Split Table by Row</source>
@@ -12761,7 +12761,7 @@ Other Window</source>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 пунктов</translation>
+        <translation>4,5 пунктов</translation>
     </message>
     <message>
         <source>6 pt</source>
@@ -12889,15 +12889,15 @@ Other Window</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Тире</translation>
+        <translation>Штрих</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль тире</translation>
+        <translation>Стиль штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Тире-Точка</translation>
+        <translation>Штрихпунктир</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -13039,15 +13039,15 @@ Other Window</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Длинное тире</translation>
+        <translation>Длинный штрих</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Длинное тире-точка</translation>
+        <translation>Длинный штрихпунктир</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинное тире-точка-точка</translation>
+        <translation>Длинный штрих-пунктир-пунктир</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -13055,7 +13055,7 @@ Other Window</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие заполнения цветом</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -16066,7 +16066,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-        <translation>Показать Область выделения для выделения определённого объекта или установления их порядка и видимости.</translation>
+        <translation>Показать Область выделения для выделения определённого объекта или для их упорядочивания и видимости.</translation>
     </message>
 </context>
 <context>
@@ -17278,7 +17278,7 @@ Click the arrow to select different border colors.</source>
     <name>tips.TableProperties</name>
     <message>
         <source>Change advanced table properties, such as text wrapping, indentations and allow rows to break across pages.</source>
-        <translation>Изменение дополнительные свойств таблицы, например, обтекания текстом, отступов и разрешение разрывов строк между страницами.</translation>
+        <translation type="unfinished">Изменение дополнительных свойств таблицы, например, обтекания текстом, отступов и разрешение разрывов строк между страницами.</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -17293,7 +17293,7 @@ Click the arrow to select different border colors.</source>
     </message>
     <message>
         <source>Select the current cell, row, column, or the entire table, and select tables with dashed borders.</source>
-        <translation>Выделение текущей ячейки, строки, колонки или всей таблицы, а также выделение таблицы пунктирными границами.</translation>
+        <translation>Выделение текущей ячейки, строки, столбца или всей таблицы, а также выделение таблицы пунктирными границами.</translation>
     </message>
 </context>
 <context>
@@ -18384,7 +18384,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Frame Context Menu</source>
-        <translation>Контекстное меню кадра</translation>
+        <translation>Контекстное меню рамки</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -18564,7 +18564,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Отменить</translation>
+        <translation>Вернуть</translation>
     </message>
     <message>
         <source>Replace</source>
