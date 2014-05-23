@@ -66,7 +66,7 @@ Please try one of the following.
     <message>
         <source>Kingsoft Spreadsheets cannot open this file, because the password is not correct.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets no se puede abrir este archivo, porque la contraseña no es correcta.</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
