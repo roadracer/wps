@@ -4530,19 +4530,19 @@
     </message>
     <message>
         <source>Do you want to export every slide in the presentation or only the current slide?</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать все слайды в презентации или только текущий?</translation>
     </message>
     <message>
         <source>&amp;Every Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Каждый слайд</translation>
     </message>
     <message>
         <source>&amp;Current Slide Only</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Только текущий слайд</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 </TS>
