@@ -609,171 +609,173 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст WordArt одной высоты</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt вертикальный текст</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание по левому краю</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание по центру</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание по правому краю</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять слова</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять символы</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Растянуть</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Очень плотно</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Плотно</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Нормально</translation>
     </message>
     <message>
         <source>Loose</source>
-        <translation type="unfinished"></translation>
+        <translation>Свободный</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation type="unfinished"></translation>
+        <translation>Очень свободный</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Настраиваемый</translation>
     </message>
     <message>
         <source>Kern Character Pairs</source>
-        <translation type="unfinished"></translation>
+        <translation>Интервал</translation>
     </message>
     <message>
         <source>More AutoShapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие автофигуры</translation>
     </message>
     <message>
         <source>Insert Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить прямоугольник</translation>
     </message>
     <message>
         <source>Insert Oval</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить овал</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить поле для текста</translation>
     </message>
     <message>
         <source>Insert Vertical Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить вертикальное поле для текста</translation>
     </message>
     <message>
         <source>Insert Diagram or Organization Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить диаграмму или график</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить клипарт</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить OLE объект</translation>
     </message>
     <message>
         <source>Edit OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать OLE объект</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Линии</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать текст</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить текст</translation>
     </message>
     <message>
         <source>Update Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить ссылку</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат объекта</translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Относительно страницы</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Относительно слайда</translation>
     </message>
     <message>
         <source>The value must be between 0% and 500%.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть между 0% и 500%.</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить форматирование</translation>
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть между -600pt и 9600pt.</translation>
+
+
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>Контрастнее</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить контрастность</translation>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярче</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Тусклее</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрезать</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить цвет прозрачности</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить изображение</translation>
     </message>
     <message>
         <source>Kingsoft Writer</source>
@@ -789,40 +791,40 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить управление</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Сжать изображение</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение слишком большое. Пожалуйста сожмите его для сохранения на диске. Помните, что сжатое изображение может отличаться по качеству от вашего. Действительно сжать изображение ?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш текст</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим дизайна</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти из режима дизайна</translation>
     </message>
     <message>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный формат изображения.</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить картинку</translation>
     </message>
     <message>
         <source>The server application, source file, or item can&apos;t be found, or returned an unknown error. You may need to reinstall the server application</source>
@@ -830,11 +832,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как изображение</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp</source>
@@ -842,19 +844,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно сохранить как изображение, неподдерживаемый формат.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевести</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer, please make sure it&apos;s safe before continuing. Do you want to continue?</source>
@@ -862,11 +864,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cannot create the object, please make sure the object has been registered in the Registry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно создать объект, пожалуйста убедитесь что он зарегестрирован в Библиотеке.</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation>Объект поврежден или может больше использоваться.</translation>
     </message>
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
