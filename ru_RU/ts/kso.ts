@@ -5,209 +5,211 @@
     <name>api_err</name>
     <message>
         <source>No Item In Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет пункта в коллекции</translation>
     </message>
     <message>
         <source>Object Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Объект удален</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение вне диапазона</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный параметр</translation>
     </message>
     <message>
         <source>Command Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось выполнить команду</translation>
     </message>
     <message>
         <source>Unknown Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестная ошибка</translation>
     </message>
     <message>
         <source>Invalid Argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный аргумент</translation>
     </message>
     <message>
         <source>Item Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Элемент существует</translation>
     </message>
     <message>
         <source>Temporary directory does not exist or failed to create temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Временный каталог не существует или не удалось создать временный каталог.
+
+Пожалуйста, проверьте настройки системы, убедитесь в наличии временной директории и перезагрузите Kingsoft Office.</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий пользователь не имеет прав на запись во временном каталоге. Убедитесь в наличии прав доступа к временной директории и перезапустите Kingsoft Office.</translation>
     </message>
 </context>
 <context>
     <name>copypaste</name>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Неформатированный текст</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено без форматирования</translation>
     </message>
     <message>
         <source>Data of Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ Kingsoft Writer</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Writer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как Документ Kingsoft Writer.</translation>
     </message>
     <message>
-        <source>Data of Kingsoft Spreadsheets</source>
+        <source>Лист Kingsoft Spreadsheets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как Лист Kingsoft Spreadsheets.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Презентация Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как Презентация Kingsoft Presentation.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Письмо Kingsoft Mail</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Mail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как Письмо Kingsoft Mail.</translation>
     </message>
     <message>
         <source>Data of WPS Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисунок WPS Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как Рисунок Kingsoft Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
-        <translation type="unfinished"></translation>
+        <translation>%s Объект</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как OLE Объект</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисунок (Windows Metafile)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как Рисунок (Windows Metafile).</translation>
     </message>
     <message>
         <source>Picture (Enhanced Metafile)</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисунок (Enhanced Metafile)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an enhanced metafile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как расширенный метафайл (Enhanced Metafile).</translation>
     </message>
     <message>
         <source>Picture (PNG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисунок (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как PNG рисунок.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисунок (JFIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как JFIF рисунок.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисунок (GIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как GIF рисунок.</translation>
     </message>
     <message>
         <source>Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Точечный рисунок (BMP)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как точечный рисунок.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>аппаратно-независимый растр</translation>
     </message>
     <message>
         <source>Picture (JPG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисунок (JPG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPEG picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено как JPEG рисунок.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматированный Текст (RTF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text with font and table formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено в виде текста с шрифтами и таблицами форматирования.</translation>
     </message>
     <message>
         <source>HTML Format</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML Формат</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено в виде HTML форматирования.</translation>
     </message>
     <message>
         <source>MS Office Drawing Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисунок MS Office</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Office Drawing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено в виде Рисунка Майкрософт Офиса.</translation>
     </message>
     <message>
         <source>FILES</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл снимка</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое буфера обмена будет вставлено в виде Файл снимка</translation>
     </message>
 </context>
 <context>
     <name>dguil</name>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation>Все Изображения(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Enhanced Metafile(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
@@ -235,311 +237,311 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить картинку</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить Автофигуру</translation>
     </message>
     <message>
         <source>Insert Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить Конектор</translation>
     </message>
     <message>
         <source>Insert Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить Линию</translation>
     </message>
     <message>
         <source>Insert Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить Стрелку</translation>
     </message>
     <message>
         <source>Insert Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить Кривую</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить Свободную форму</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить "неразборчивый подчерк"</translation>
     </message>
     <message>
         <source>Change Freeform Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить точку на Свободной форме</translation>
     </message>
     <message>
         <source>Insert Freeform Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить точку на Свободной форме</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить точку на Свободной форме</translation>
     </message>
     <message>
         <source>Paste Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить Формат</translation>
     </message>
     <message>
         <source>Rotate Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть Объект</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить Объект</translation>
     </message>
     <message>
         <source>Resize Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить размер Объекта</translation>
     </message>
     <message>
         <source>Adjust Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить Объект</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Make Same Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить Одинаковую высоту</translation>
     </message>
     <message>
         <source>Make Same Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить Одинаковую ширину</translation>
     </message>
     <message>
         <source>Make Same Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить Одинаковый размер</translation>
     </message>
     <message>
         <source>Group </source>
-        <translation type="unfinished"></translation>
+        <translation>Сгруппировать </translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Разгруппировать</translation>
     </message>
     <message>
         <source>Regroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Перегруппировать</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>На передний план</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>На задний план</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдвинуть</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить назад</translation>
     </message>
     <message>
         <source>Nudge Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдвинуть объект</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по верхнему краю</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по середине</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по ниднему краю</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по ширине</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по высоте</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Свободное вращение</translation>
     </message>
     <message utf8="true">
         <source>Rotate Left 90º</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть влево на 90º</translation>
     </message>
     <message utf8="true">
         <source>Rotate Right 90º</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть вправо на 90º</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Отразить по горизонтали</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Отразить по вертикали</translation>
     </message>
     <message>
         <source>Reroute Connectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенаправить соединения</translation>
     </message>
     <message>
         <source>Change Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить точки</translation>
     </message>
     <message>
         <source>Change To Autoshape</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить на автофигуру</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить Автофигуру по умолчанию</translation>
     </message>
     <message>
         <source>Select Multiple Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать несколько объектов</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать объекты</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Последний цвет заливки</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Эффекты заливки</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Последний Цвет линии</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет линии</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль линии</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат автофигуры</translation>
     </message>
     <message>
         <source>Format Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат фигуры</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Без тени</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Тень</translation>
     </message>
     <message>
         <source>Toggle Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить тень</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдвинуть тень</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет тени</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Полупрозрачность тени</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>Без 3D-эффекта</translation>
     </message>
     <message>
         <source>3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>3D-эффект</translation>
     </message>
     <message>
         <source>Toggle 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить 3D-эффект</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть 3D-эффект</translation>
     </message>
     <message>
         <source>Custom 3-D</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить 3D-эффект</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет 3D-эффекта</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать изменение узлов</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершить изменение узлов</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить узел</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить сегмент</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямой сешмент</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Искривленный сегмент</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершить изменение узлов</translation>
     </message>
     <message>
         <source>Delete Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить узел</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -547,63 +549,63 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Сглаженный узел</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямой узел</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Угловой узел</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямая соединительная</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Коленчатая соединительная</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Кривая соединительная</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать ссылку</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть ссылку</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать ссылку</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить ссылку</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти из режима</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить объект WordArt</translation>
     </message>
     <message>
         <source>Edit Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить текст...</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Галлерея WordArt</translation>
     </message>
     <message>
         <source>Format WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить объект WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
