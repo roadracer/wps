@@ -1669,167 +1669,167 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cd Drive</source>
-        <translation type="unfinished"></translation>
+        <translation>Cd Диск</translation>
     </message>
     <message>
         <source>Chair</source>
-        <translation type="unfinished"></translation>
+        <translation>Кресло</translation>
     </message>
     <message>
         <source>Guest Chair</source>
-        <translation type="unfinished"></translation>
+        <translation>Гостевое кресло</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако</translation>
     </message>
     <message>
         <source>Desktop computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Настольный компьютер</translation>
     </message>
     <message>
         <source>Work station</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочая станция</translation>
     </message>
     <message>
         <source>Tower</source>
-        <translation type="unfinished"></translation>
+        <translation>Башня</translation>
     </message>
     <message>
         <source>Traditional Mac computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac-компьютер</translation>
     </message>
     <message>
         <source>Two-seater</source>
-        <translation type="unfinished"></translation>
+        <translation>Двухместный</translation>
     </message>
     <message>
         <source>Three-seater</source>
-        <translation type="unfinished"></translation>
+        <translation>Трехместный</translation>
     </message>
     <message>
         <source>Curved Ribbon3</source>
-        <translation type="unfinished"></translation>
+        <translation>Изогнутая лента 3</translation>
     </message>
     <message>
         <source>Desk</source>
-        <translation type="unfinished"></translation>
+        <translation>Стол</translation>
     </message>
     <message>
         <source>Desk Lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Настольная лампа</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Документы</translation>
     </message>
     <message>
         <source>Door leaf</source>
-        <translation type="unfinished"></translation>
+        <translation>Дверное полотно</translation>
     </message>
     <message>
         <source>Down Ribbon Sharp</source>
-        <translation type="unfinished"></translation>
+        <translation>Острая лента вниз</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <source>File Cab</source>
-        <translation type="unfinished"></translation>
+        <translation>Картотека</translation>
     </message>
     <message>
         <source>File Cab (horizontal)</source>
-        <translation type="unfinished"></translation>
+        <translation>Картотека (Горизонтальная)</translation>
     </message>
     <message>
         <source>Film</source>
-        <translation type="unfinished"></translation>
+        <translation>Пленка</translation>
     </message>
     <message>
         <source>Firewall</source>
-        <translation type="unfinished"></translation>
+        <translation>Брандмауэр</translation>
     </message>
     <message>
         <source>Floor Lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Напольная лампа</translation>
     </message>
     <message>
         <source>Feedback form/order form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма заказа/отзыва</translation>
     </message>
     <message>
         <source>Gear</source>
-        <translation type="unfinished"></translation>
+        <translation>Шестерня</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <source>Infopage</source>
-        <translation type="unfinished"></translation>
+        <translation>Информационная страница</translation>
     </message>
     <message>
         <source>Laptop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ноутбук</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Символ</translation>
     </message>
     <message>
         <source>Light bulb</source>
-        <translation type="unfinished"></translation>
+        <translation>Лампочка</translation>
     </message>
     <message>
         <source>Padlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Замок</translation>
     </message>
     <message>
         <source>Mainframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Мейнфрейм</translation>
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Мультимедия</translation>
     </message>
     <message>
         <source>Modem</source>
-        <translation type="unfinished"></translation>
+        <translation>Модем</translation>
     </message>
     <message>
         <source>Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Монитор</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Музыка</translation>
     </message>
     <message>
         <source>PC</source>
-        <translation type="unfinished"></translation>
+        <translation>ПК</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Телефон</translation>
     </message>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Фото</translation>
     </message>
     <message>
         <source>Plant</source>
-        <translation type="unfinished"></translation>
+        <translation>Растение</translation>
     </message>
     <message>
         <source>Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Принтер</translation>
     </message>
     <message>
         <source>Pub Banner</source>
@@ -1873,19 +1873,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Puzzle1</source>
-        <translation type="unfinished"></translation>
+        <translation>Мозаика1</translation>
     </message>
     <message>
         <source>Puzzle2</source>
-        <translation type="unfinished"></translation>
+        <translation>Мозаика2</translation>
     </message>
     <message>
         <source>Puzzle3</source>
-        <translation type="unfinished"></translation>
+        <translation>Мозаика3</translation>
     </message>
     <message>
         <source>Puzzle4</source>
-        <translation type="unfinished"></translation>
+        <translation>Мозаика4</translation>
     </message>
     <message>
         <source>Pyr1</source>
@@ -1913,31 +1913,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Scanner</source>
-        <translation type="unfinished"></translation>
+        <translation>Сканер</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер</translation>
     </message>
     <message>
         <source>Sink1</source>
-        <translation type="unfinished"></translation>
+        <translation>Раковина1</translation>
     </message>
     <message>
         <source>Sink2</source>
-        <translation type="unfinished"></translation>
+        <translation>Раковина2</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Доска</translation>
     </message>
     <message>
         <source>Toilet</source>
-        <translation type="unfinished"></translation>
+        <translation>Туалет</translation>
     </message>
     <message>
         <source>Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Дерево</translation>
     </message>
     <message>
         <source>Up Ribbon Sharp</source>
@@ -1949,39 +1949,39 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Puzzle5</source>
-        <translation type="unfinished"></translation>
+        <translation>Мозаика5</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Формула</translation>
     </message>
     <message>
         <source>Unknown Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестная фигура</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа</translation>
     </message>
     <message>
         <source>Mixed texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Смешанная текстура</translation>
     </message>
     <message>
         <source>Pane1</source>
-        <translation type="unfinished"></translation>
+        <translation>Оконное стекло1</translation>
     </message>
     <message>
         <source>Pane2</source>
-        <translation type="unfinished"></translation>
+        <translation>Оконное стекло2</translation>
     </message>
     <message>
         <source>Traditional1</source>
-        <translation type="unfinished"></translation>
+        <translation>Традиционный1</translation>
     </message>
     <message>
         <source>Traditional2</source>
-        <translation type="unfinished"></translation>
+        <translation>Традиционный2</translation>
     </message>
     <message>
         <source>Crossband</source>
@@ -2045,15 +2045,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Water</source>
-        <translation type="unfinished"></translation>
+        <translation>Вода</translation>
     </message>
     <message>
         <source>Earth1</source>
-        <translation type="unfinished"></translation>
+        <translation>Земля1</translation>
     </message>
     <message>
         <source>Earth2</source>
-        <translation type="unfinished"></translation>
+        <translation>Земля2</translation>
     </message>
     <message>
         <source>Radialized Pattern</source>
@@ -2065,11 +2065,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить картинку</translation>
     </message>
     <message>
         <source>Invalid index</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный индекс</translation>
     </message>
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
@@ -2081,19 +2081,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Object</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Объект</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить картинку</translation>
     </message>
     <message>
         <source>Click to add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите, чтобы добавить текст</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -2117,15 +2117,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"></translation>
+        <translation>Огонь</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>3D цвет</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Градиент</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -2157,19 +2157,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Каркас</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Классический</translation>
     </message>
     <message>
         <source>Blue Overall Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Синий градиент</translation>
     </message>
     <message>
         <source>Black Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Черный градиент</translation>
     </message>
 </context>
 <context>
