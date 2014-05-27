@@ -860,7 +860,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer, please make sure it&apos;s safe before continuing. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь активировать внедренный объект, который может содержать вирусы или повредить ваш компьютер, убедитесь, что это безопасно, прежде чем продолжить. Хотите продолжить?</translation>
     </message>
     <message>
         <source>Cannot create the object, please make sure the object has been registered in the Registry.</source>
@@ -872,586 +872,586 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается создать объект, возможно файл используется. Пожалуйста, закройте файл и попробуйте вставить объект снова.</translation>
     </message>
     <message>
         <source>Kingsoft Office can not start the source application of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office не может запустить исходное приложение объекта.</translation>
     </message>
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается воспроизвести указанный файл на указанном устройстве. Файл может быть поврежден или имеет неправильный формат, или нет обработчика файла, доступного для этого формата.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно найти указанный файл, пожалуйста, убедитесь, что путь и имя файла верны.</translation>
     </message>
 </context>
 <context>
     <name>drawing</name>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямоугольник</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямоугольник с закругленными углами</translation>
     </message>
     <message>
         <source>Oval</source>
-        <translation type="unfinished"></translation>
+        <translation>Овал</translation>
     </message>
     <message>
         <source>Diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Ромб</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Равнобедренный треугольник</translation>
     </message>
     <message>
         <source>Right Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямоугольный треугольник</translation>
     </message>
     <message>
         <source>Parallelogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Параллелограмм</translation>
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"></translation>
+        <translation>Трапеция</translation>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Шестиугольник</translation>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Восьмиугольник</translation>
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Крест</translation>
     </message>
     <message>
         <source>5-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>5-ти конечная звезда</translation>
     </message>
     <message>
         <source>Right Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка вправо</translation>
     </message>
     <message>
         <source>Thin Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Тонкая стрелка</translation>
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Пятиугольник</translation>
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"></translation>
+        <translation>Куб</translation>
     </message>
     <message>
         <source>Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Воздушный шар</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished"></translation>
+        <translation>Звезда</translation>
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Дуга</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Линия</translation>
     </message>
     <message>
         <source>Plaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Бляшка</translation>
     </message>
     <message>
         <source>Can</source>
-        <translation type="unfinished"></translation>
+        <translation>Ведро</translation>
     </message>
     <message>
         <source>Donut</source>
-        <translation type="unfinished"></translation>
+        <translation>Кольцо</translation>
     </message>
     <message>
         <source>WordArt: Simple Text</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Простой текст</translation>
     </message>
     <message>
         <source>WordArt: Hexagon</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Шестиугольник</translation>
     </message>
     <message>
         <source>WordArt: Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Пятиугольник</translation>
     </message>
     <message>
         <source>WordArt: Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Кривая</translation>
     </message>
     <message>
         <source>WordArt: Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Волна</translation>
     </message>
     <message>
         <source>WordArt: Donought</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Кольцо</translation>
     </message>
     <message>
         <source>WordArt: Curve2</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Кривая 2</translation>
     </message>
     <message>
         <source>WordArt: Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Круг</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямое соединение</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Угловое соединение</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Кривое соединение</translation>
     </message>
     <message>
         <source>Line Callout 2 (No Border)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 2 (Без границ)</translation>
     </message>
     <message>
         <source>Line Callout 3 (No Border)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 3 (Без границ)</translation>
     </message>
     <message>
         <source>Line Callout 4 (No Border)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 4 (Без границ)</translation>
     </message>
     <message>
         <source>Line Callout 2 (Border and Accent Bar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 2 (Граница и черта)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Border and Accent Bar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 3 (Граница и черта)</translation>
     </message>
     <message>
         <source>Line Callout 4 (Border and Accent Bar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 4 (Граница и черта)</translation>
     </message>
     <message>
         <source>Line Callout 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 2</translation>
     </message>
     <message>
         <source>Line Callout 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 3</translation>
     </message>
     <message>
         <source>Line Callout 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 4</translation>
     </message>
     <message>
         <source>Line Callout 2 (Accent Bar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 2 (С границей)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Accent Bar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 3 (С границей)</translation>
     </message>
     <message>
         <source>Line Callout 4 (Accent Bar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска 4 (С границей)</translation>
     </message>
     <message>
         <source>Down Ribbon</source>
-        <translation type="unfinished"></translation>
+        <translation>Лента лицом вниз</translation>
     </message>
     <message>
         <source>Up Ribbon</source>
-        <translation type="unfinished"></translation>
+        <translation>Лента лицом вверх</translation>
     </message>
     <message>
         <source>Chevron</source>
-        <translation type="unfinished"></translation>
+        <translation>Нашивка</translation>
     </message>
     <message>
         <source>Regular Pentagon</source>
-        <translation type="unfinished"></translation>
+        <translation>Правильный пятиугольник</translation>
     </message>
     <message>
         <source>No Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Без символов</translation>
     </message>
     <message>
         <source>8-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>8-конечная звезда</translation>
     </message>
     <message>
         <source>16-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>16-конечная звезда</translation>
     </message>
     <message>
         <source>32-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>32-конечная звезда</translation>
     </message>
     <message>
         <source>Rectangular Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадратная выноска</translation>
     </message>
     <message>
         <source>Rounded Rectangular Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадратная выноска с закругленными углами</translation>
     </message>
     <message>
         <source>Oval Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Овальная выноска</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Волна</translation>
     </message>
     <message>
         <source>Folded Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Загнутый угол</translation>
     </message>
     <message>
         <source>Left Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка влево</translation>
     </message>
     <message>
         <source>Down Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка вниз</translation>
     </message>
     <message>
         <source>Up Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка вверх</translation>
     </message>
     <message>
         <source>Left-Right Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойная стрелка влево/вправо</translation>
     </message>
     <message>
         <source>Up-Down Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойная стрелка вверх/вниз</translation>
     </message>
     <message>
         <source>Explosion 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Пятно 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Пятно 2</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
-        <translation type="unfinished"></translation>
+        <translation>Молния</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Сердце</translation>
     </message>
     <message>
         <source>Picture Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Багетная рамка</translation>
     </message>
     <message>
         <source>Quad Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Счетверенная стрелка</translation>
     </message>
     <message>
         <source>Left Arrow Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска со стрелкой влево</translation>
     </message>
     <message>
         <source>Right Arrow Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска со стрелкой вправо</translation>
     </message>
     <message>
         <source>Up Arrow Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска со стрелкой вверх</translation>
     </message>
     <message>
         <source>Down Arrow Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска со стрелкой вниз</translation>
     </message>
     <message>
         <source>Left-Right Arrow Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска со стрелками влево/вправо</translation>
     </message>
     <message>
         <source>Up-Down Arrow Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска со стрелками вверх/вниз</translation>
     </message>
     <message>
         <source>Quad Arrow Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска с четырьмя стрелками</translation>
     </message>
     <message>
         <source>Bevel</source>
-        <translation type="unfinished"></translation>
+        <translation>Скос</translation>
     </message>
     <message>
         <source>Left Bracket</source>
-        <translation type="unfinished"></translation>
+        <translation>Левая скобка</translation>
     </message>
     <message>
         <source>Right Bracket</source>
-        <translation type="unfinished"></translation>
+        <translation>Правая скобка</translation>
     </message>
     <message>
         <source>Left Brace</source>
-        <translation type="unfinished"></translation>
+        <translation>Левая фигурная скобка</translation>
     </message>
     <message>
         <source>Right Brace</source>
-        <translation type="unfinished"></translation>
+        <translation>Правая фигурная скобка</translation>
     </message>
     <message>
         <source>Left-Up Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойная стрелка влево/вверх</translation>
     </message>
     <message>
         <source>Bent-Up Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка углом вверх</translation>
     </message>
     <message>
         <source>Bent Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка углом</translation>
     </message>
     <message>
         <source>24-Point Star</source>
-        <translation type="unfinished"></translation>
+        <translation>24-конечная звезда</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Штриховая стрелка вправо</translation>
     </message>
     <message>
         <source>Notched Right Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка вправо с вырезом</translation>
     </message>
     <message>
         <source>Block Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Арка</translation>
     </message>
     <message>
         <source>Smiling Face</source>
-        <translation type="unfinished"></translation>
+        <translation>Улыбающееся лицо</translation>
     </message>
     <message>
         <source>Vertical Scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикальная прокрутка</translation>
     </message>
     <message>
         <source>Horizontal Scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Горизонтальная прокрутка</translation>
     </message>
     <message>
         <source>Circular Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Круговая стрелка</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигура</translation>
     </message>
     <message>
         <source>U-Turn Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Развернутая стрелка</translation>
     </message>
     <message>
         <source>Curved Left Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгнутая стрелка влево</translation>
     </message>
     <message>
         <source>Curved Right Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгнутая стрелка вправо</translation>
     </message>
     <message>
         <source>Curved Down Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгнутая стрелка вниз</translation>
     </message>
     <message>
         <source>Curved Up Arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгнутая стрелка вверх</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноска-облако</translation>
     </message>
     <message>
         <source>Curved Down Ribbon</source>
-        <translation type="unfinished"></translation>
+        <translation>Круглая лента лицом вниз</translation>
     </message>
     <message>
         <source>Curved Up Ribbon</source>
-        <translation type="unfinished"></translation>
+        <translation>Круглая лента лицом вверх</translation>
     </message>
     <message>
         <source>Flowchart: Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Процесс </translation>
     </message>
     <message>
         <source>Flowchart: Decision</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Решение</translation>
     </message>
     <message>
         <source>Flowchart: Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Данные</translation>
     </message>
     <message>
         <source>Flowchart: Predefined Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Типовой процесс</translation>
     </message>
     <message>
         <source>Flowchart: Internal Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Внутренняя память</translation>
     </message>
     <message>
         <source>Flowchart: Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Документ</translation>
     </message>
     <message>
         <source>Flowchart: Multidocument</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Несколько документов</translation>
     </message>
     <message>
         <source>Flowchart: Terminator</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Завершение</translation>
     </message>
     <message>
         <source>Flowchart: Preparation</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Подготовка</translation>
     </message>
     <message>
         <source>Flowchart: Manual Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Ручной ввод</translation>
     </message>
     <message>
         <source>Flowchart: Manual Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Ручное управление</translation>
     </message>
     <message>
         <source>Flowchart: Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Узел</translation>
     </message>
     <message>
         <source>Flowchart: Card</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Карточка</translation>
     </message>
     <message>
         <source>Flowchart: Punched Tape</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Перфолента</translation>
     </message>
     <message>
         <source>Flowchart: Summing Junction</source>
-        <translation type="unfinished"></translation>
+        <translation>Узел суммирования</translation>
     </message>
     <message>
         <source>Flowchart: Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Или</translation>
     </message>
     <message>
         <source>Flowchart: Collate</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Сопоставление</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Сортировка</translation>
     </message>
     <message>
         <source>Flowchart: Extract</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Извлечени</translation>
     </message>
     <message>
         <source>Flowchart: Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Слияние</translation>
     </message>
     <message>
         <source>FlowChart: Offline Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Внешнее хранилище</translation>
     </message>
     <message>
         <source>Flowchart: Stored Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Сохраненные данные</translation>
     </message>
     <message>
         <source>Flowchart: Seqential Access Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Память с последовательным доступом</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Магнитный диск</translation>
     </message>
     <message>
         <source>Flowchart: Direct Access Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Память с прямым доступом</translation>
     </message>
     <message>
         <source>Flowchart: Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Дисплей</translation>
     </message>
     <message>
         <source>Flowchart: Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: Задержка</translation>
     </message>
     <message>
         <source>WordArt: Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Обычный текст</translation>
     </message>
     <message>
         <source>WordArt: Octagon</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Восьмиугольник</translation>
     </message>
     <message>
         <source>WordArt: Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Треугольник</translation>
     </message>
     <message>
         <source>WordArt: Triangle Inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Перевернутый треугольник</translation>
     </message>
     <message>
         <source>WordArt: Chevron</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Нашивка</translation>
     </message>
     <message>
         <source>WordArt: Chevron Inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Перевернутая нашивка</translation>
     </message>
     <message>
         <source>WordArt: Ring Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Внутреннее кольцо</translation>
     </message>
     <message>
         <source>WordArt: Ring Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Внешнее кольцо</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Выгнутая вверх арка</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Выгнутая вниз арка</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Неровная окружность</translation>
     </message>
     <message>
         <source>WordArt: Button Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Неровный гриб</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Pour</source>
