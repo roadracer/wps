@@ -1451,15 +1451,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Button Curve</source>
-        <translation>WordArt: Неровный гриб</translation>
+        <translation>WordArt: Скругленная кнопка</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Pour</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Литая арка вверх</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Литая арка вниз</translation>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
