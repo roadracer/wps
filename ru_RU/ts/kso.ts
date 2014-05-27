@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru_RU">
+<TS version="2.1" language="ru_RU">
 <context>
     <name>api_err</name>
     <message>
@@ -383,11 +383,11 @@ Please check your system settings and ensure the temporary directory under the c
         <source>Free Rotate</source>
         <translation>Свободное вращение</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Left 90º</source>
         <translation>Повернуть влево на 90º</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Right 90º</source>
         <translation>Повернуть вправо на 90º</translation>
     </message>
@@ -1549,11 +1549,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Can Up</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Коробка вверх</translation>
     </message>
     <message>
         <source>WordArt: Can Down</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Коробка вниз</translation>
     </message>
     <message>
         <source>Flowchart: Alternate Process</source>
@@ -1609,63 +1609,63 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Action Button: Custom</source>
-        <translation>Активная кнопка: Пользовательские настройки</translation>
+        <translation>Кнопка действия: Пользовательские настройки</translation>
     </message>
     <message>
         <source>Action Button: Home</source>
-        <translation>Активная кнопка: Домой</translation>
+        <translation>Кнопка действия: Домой</translation>
     </message>
     <message>
         <source>Action Button: Help</source>
-        <translation>Активная кнопка: Помощь</translation>
+        <translation>Кнопка действия: Помощь</translation>
     </message>
     <message>
         <source>Action Button: Information</source>
-        <translation>Активная кнопка: Информация</translation>
+        <translation>Кнопка действия: Информация</translation>
     </message>
     <message>
         <source>Action Button: Forward or Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка действия: Вперед или Далее</translation>
     </message>
     <message>
         <source>Action Button: Back or Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка действия: Назад или Предыдущее</translation>
     </message>
     <message>
         <source>Action Button: End</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка действия: Конец</translation>
     </message>
     <message>
         <source>Action Button: Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка действия: Начало</translation>
     </message>
     <message>
         <source>Action Button: Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка действия: Вернуть</translation>
     </message>
     <message>
         <source>Action Button: Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка действия: Документ</translation>
     </message>
     <message>
         <source>Action Button: Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка действия: Звук</translation>
     </message>
     <message>
         <source>Action Button: Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка действия: Видео</translation>
     </message>
     <message>
         <source>Host Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Управляющий</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле для ввода текста</translation>
     </message>
     <message>
         <source>Group Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Сгруппировать фигуру</translation>
     </message>
     <message>
         <source>Cd Drive</source>
@@ -1833,43 +1833,43 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pub Banner</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний баннер</translation>
     </message>
     <message>
         <source>Pub Chord</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний пояс</translation>
     </message>
     <message>
         <source>Pub Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний крест</translation>
     </message>
     <message>
         <source>Pub Half Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешняя половина рамки</translation>
     </message>
     <message>
         <source>Pub L</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний угол (L)</translation>
     </message>
     <message>
         <source>Pub Oval Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешняя овальная вывеска</translation>
     </message>
     <message>
         <source>Pub Pie Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Кусок пирога</translation>
     </message>
     <message>
         <source>Pub R-Rect Callout</source>
-        <translation type="unfinished"></translation>
+        <translation>R-треугольная вывеска</translation>
     </message>
     <message>
         <source>Diagonal Stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Диагональная линия</translation>
     </message>
     <message>
         <source>Pub Triangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний треугольник</translation>
     </message>
     <message>
         <source>Puzzle1</source>
@@ -1889,27 +1889,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pyr1</source>
-        <translation type="unfinished"></translation>
+        <translation>Пир1</translation>
     </message>
     <message>
         <source>Pyr2</source>
-        <translation type="unfinished"></translation>
+        <translation>Пир2</translation>
     </message>
     <message>
         <source>Pyr3</source>
-        <translation type="unfinished"></translation>
+        <translation>Пир3</translation>
     </message>
     <message>
         <source>Pyr4</source>
-        <translation type="unfinished"></translation>
+        <translation>Пир4</translation>
     </message>
     <message>
         <source>Ribbon1 Sharp</source>
-        <translation type="unfinished"></translation>
+        <translation>Лента 1 Ровная</translation>
     </message>
     <message>
         <source>Ribbon2 Sharp</source>
-        <translation type="unfinished"></translation>
+        <translation>Лента 2 Ровная</translation>
     </message>
     <message>
         <source>Scanner</source>
@@ -1941,11 +1941,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Up Ribbon Sharp</source>
-        <translation type="unfinished"></translation>
+        <translation>Пряма лента смотрящая вверх</translation>
     </message>
     <message>
         <source>Webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>Веб-страница</translation>
     </message>
     <message>
         <source>Puzzle5</source>
@@ -1985,63 +1985,63 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Crossband</source>
-        <translation type="unfinished"></translation>
+        <translation>Перекрестные линии</translation>
     </message>
     <message>
         <source>Leather</source>
-        <translation type="unfinished"></translation>
+        <translation>Кожа</translation>
     </message>
     <message>
         <source>Coarse Cloth</source>
-        <translation type="unfinished"></translation>
+        <translation>Грубая ткань</translation>
     </message>
     <message>
         <source>Kingsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft</translation>
     </message>
     <message>
         <source>Paper1</source>
-        <translation type="unfinished"></translation>
+        <translation>Бумага1</translation>
     </message>
     <message>
         <source>Paper2</source>
-        <translation type="unfinished"></translation>
+        <translation>Бумага2</translation>
     </message>
     <message>
         <source>Pane Woven</source>
-        <translation type="unfinished"></translation>
+        <translation>Полотно ткани</translation>
     </message>
     <message>
         <source>Old Cotton Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Старый хлопок</translation>
     </message>
     <message>
         <source>Starry Sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Звездное небо</translation>
     </message>
     <message>
         <source>Colored Paper 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветная бумага1</translation>
     </message>
     <message>
         <source>Colored Paper 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветная бумага 2</translation>
     </message>
     <message>
         <source>Colored Paper 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветная бумага 3</translation>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"></translation>
+        <translation>Сплетение</translation>
     </message>
     <message>
         <source>Flannelette List</source>
-        <translation type="unfinished"></translation>
+        <translation>Байковый лист</translation>
     </message>
     <message>
         <source>Fell</source>
-        <translation type="unfinished"></translation>
+        <translation>Шерсть</translation>
     </message>
     <message>
         <source>Water</source>
@@ -2057,11 +2057,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Radialized Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Лучистый рисунок</translation>
     </message>
     <message>
         <source>Twine</source>
-        <translation type="unfinished"></translation>
+        <translation>Шпагат</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -2073,11 +2073,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный запрос. Чтобы выбрать форму, вид должен быть активирован.</translation>
     </message>
     <message>
         <source>The value specified is beyond the range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Указанное значение за пределами диапазона.</translation>
     </message>
     <message>
         <source>&amp;Object</source>
@@ -2097,23 +2097,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Контур</translation>
     </message>
     <message>
         <source>Double Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойной контур</translation>
     </message>
     <message>
         <source>Thick Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Толстый контур</translation>
     </message>
     <message>
         <source>Primary Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Основные цвета</translation>
     </message>
     <message>
         <source>Shaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Штриховать</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -2129,31 +2129,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Brackets</source>
-        <translation type="unfinished"></translation>
+        <translation>Скобки</translation>
     </message>
     <message>
         <source>Braces</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигурные скобки</translation>
     </message>
     <message>
         <source>Bookend Fills</source>
-        <translation type="unfinished"></translation>
+        <translation>Форзац  для заливки</translation>
     </message>
     <message>
         <source>Stripes</source>
-        <translation type="unfinished"></translation>
+        <translation>Полосы</translation>
     </message>
     <message>
         <source>Beveled</source>
-        <translation type="unfinished"></translation>
+        <translation>Скошенный</translation>
     </message>
     <message>
         <source>Beveled Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Скошенный градиент</translation>
     </message>
     <message>
         <source>Square Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадратные тени</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -2336,7 +2336,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Backuping the file, please wait...</source>
         <translation>Резервное копирование файла, пожалуйста подождите...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
 •[Undo] the previous operations and [Save] it; 
 •[Save As...] text files（*.txt）; 
@@ -2345,7 +2345,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 (%s)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
 •[Undo] the previous operations and [Save] it; 
 •[Copy/Paste] the contents to the new file; 
@@ -2610,7 +2610,7 @@ You can click the button to recover files you work on.</source>
 </context>
 <context>
     <name>print</name>
-    <message utf8="true">
+    <message>
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
 You can add the customized paper %dmm×%dmm in printer Properties and print it again.
 Do you want to continue?</source>
@@ -4363,11 +4363,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>: (Colon)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>— (EmDash)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>– (EnDash)</source>
         <translation type="unfinished"></translation>
     </message>
