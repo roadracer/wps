@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru_RU">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>api_err</name>
     <message>
@@ -237,7 +237,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Вставить картинку</translation>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
@@ -329,7 +329,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>На передний план</translation>
+        <translation>Поместить на передний план</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -337,7 +337,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Выдвинуть</translation>
+        <translation>Поместить вперёд</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -369,15 +369,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Выровнять по ниднему краю</translation>
+        <translation>Выровнять по нижнему краю</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>Выровнять по ширине</translation>
+        <translation>Распределить по горизонтали</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>Выровнять по высоте</translation>
+        <translation>Распределить по вертикали</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -393,11 +393,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>Отразить по горизонтали</translation>
+        <translation>Зеркально по горизонтали</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>Отразить по вертикали</translation>
+        <translation>Зеркально по вертикали</translation>
     </message>
     <message>
         <source>Reroute Connectors</source>
@@ -413,7 +413,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>Установить Автофигуру по умолчанию</translation>
+        <translation>Сохраить исходное состояние автофигуры </translation>
     </message>
     <message>
         <source>Select Multiple Objects</source>
@@ -429,11 +429,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Цвет заливки</translation>
+        <translation>Заполнение цветом</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation>Эффекты заливки</translation>
+        <translation>Эффекты заполнения</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
@@ -445,7 +445,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Узорные линии</translation>
+        <translation>Образцы линий</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -481,11 +481,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation>Полупрозрачность тени</translation>
+        <translation>Полупрозрачная тень</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Без 3D-эффекта</translation>
+        <translation>Без 3-D</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -505,7 +505,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Цвет 3D-эффекта</translation>
+        <translation>3-D цвет</translation>
     </message>
     <message>
         <source>pt</source>
@@ -513,15 +513,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Open Path</source>
-        <translation>Начать изменение узлов</translation>
+        <translation>Открыть путь</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation>Завершить изменение узлов</translation>
+        <translation>Закрыть путь</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation>Добавить узел</translation>
+        <translation>Добавить точку</translation>
     </message>
     <message>
         <source>Delete Segment</source>
@@ -529,11 +529,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation>Прямой сешмент</translation>
+        <translation>Прямой сегмент</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation>Искривленный сегмент</translation>
+        <translation>Сегмент кривой</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -541,51 +541,51 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Delete Point</source>
-        <translation>Удалить узел</translation>
+        <translation>Удалить точку</translation>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation>Автоузел</translation>
+        <translation>Автоточка</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation>Сглаженный узел</translation>
+        <translation>Гладкая точка</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation>Прямой узел</translation>
+        <translation>Прямая точка</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation>Угловой узел</translation>
+        <translation>Угловая точка</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation>Прямая соединительная</translation>
+        <translation>Соединительная прямая</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation>Коленчатая соединительная</translation>
+        <translation>Угловое соединение</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation>Кривая соединительная</translation>
+        <translation>Соединительная кривая</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation>Редактировать ссылку</translation>
+        <translation>Изменить гиперссылку</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation>Открыть ссылку</translation>
+        <translation>Открыть гиперссылку</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
-        <translation>Копировать ссылку</translation>
+        <translation>Копировать гиперссылку</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation>Удалить ссылку</translation>
+        <translation>Удалить гиперссылку</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
@@ -593,7 +593,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>Вставить объект WordArt</translation>
+        <translation>Вставить фигурный текст</translation>
     </message>
     <message>
         <source>Edit Text...</source>
@@ -601,19 +601,19 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Галлерея WordArt</translation>
+        <translation>Галерея фигурных текстов</translation>
     </message>
     <message>
         <source>Format WordArt</source>
-        <translation>Изменить объект WordArt</translation>
+        <translation>Форматировать фигурный текст</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>Текст WordArt одной высоты</translation>
+        <translation>Символы одной высоты</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>WordArt вертикальный текст</translation>
+        <translation>Вертикальный фигурный текст</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -621,7 +621,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Center</source>
-        <translation>Выравнивание по центру</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -629,15 +629,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>Выровнять слова</translation>
+        <translation>Выровнять слова по ширине</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>Выровнять символы</translation>
+        <translation>Выровнять символы по ширине</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>Растянуть</translation>
+        <translation>Растянуть с выравниванием по ширине</translation>
     </message>
     <message>
         <source>Very Tight</source>
@@ -649,19 +649,19 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормально</translation>
+        <translation>Нормальный</translation>
     </message>
     <message>
         <source>Loose</source>
-        <translation>Свободный</translation>
+        <translation>Разреженный</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation>Очень свободный</translation>
+        <translation>Очень разреженный</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Настраиваемый</translation>
+        <translation>Выбор</translation>
     </message>
     <message>
         <source>Kern Character Pairs</source>
@@ -709,7 +709,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Edit Text</source>
-        <translation>Редактировать текст</translation>
+        <translation>Изменить текст</translation>
     </message>
     <message>
         <source>Add Text</source>
@@ -721,7 +721,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Формат объекта</translation>
+        <translation>Форматирование объекта</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -749,7 +749,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>More Contrast</source>
-        <translation>Контрастнее</translation>
+        <translation>Увеличить контрастность</translation>
     </message>
     <message>
         <source>Less Contrast</source>
@@ -757,11 +757,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>More Brightness</source>
-        <translation>Ярче</translation>
+        <translation>Увеличить яркость</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation>Тусклее</translation>
+        <translation>Уменьшить яркость</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -769,11 +769,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Установить цвет прозрачности</translation>
+        <translation>Прозрачный цвет</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Сбросить изображение</translation>
+        <translation>Исходные параметры изображения</translation>
     </message>
     <message>
         <source>Kingsoft Writer</source>
@@ -806,11 +806,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Режим дизайна</translation>
+        <translation>Режим моделирования</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation>Выйти из режима дизайна</translation>
+        <translation>Выйти из режима моделирования</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -822,7 +822,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Изменить картинку</translation>
+        <translation>Поменять изображение</translation>
     </message>
     <message>
         <source>The server application, source file, or item can&apos;t be found, or returned an unknown error. You may need to reinstall the server application</source>
@@ -1013,7 +1013,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation>Прямое соединение</translation>
+        <translation>Соединительная прямая</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
@@ -1021,7 +1021,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation>Кривое соединение</translation>
+        <translation>Соединительная кривая</translation>
     </message>
     <message>
         <source>Line Callout 2 (No Border)</source>
@@ -1769,7 +1769,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Домашняя страница</translation>
+        <translation>Главная</translation>
     </message>
     <message>
         <source>Infopage</source>
@@ -1929,7 +1929,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Table</source>
-        <translation>Доска</translation>
+        <translation>Таблица</translation>
     </message>
     <message>
         <source>Toilet</source>
@@ -2065,7 +2065,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Вставить картинку</translation>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -2085,7 +2085,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Изменить картинку</translation>
+        <translation>Поменять изображение</translation>
     </message>
     <message>
         <source>Click to add text</source>
@@ -2097,7 +2097,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Outline</source>
-        <translation>Контур</translation>
+        <translation>Структура</translation>
     </message>
     <message>
         <source>Double Outline</source>
@@ -2121,7 +2121,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3D цвет</translation>
+        <translation>3-D цвет</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -2343,7 +2343,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка%s возникает при резервном копировании! Пожалуйста, попробуйте выполнить следующие операции:
+• [Отменить] предыдущие операции и [Сохранить];
+• [Сохранить как ...] текстовый файл (*.txt);
+• [Копировать / Вставить] содержимое в новый файл;
+• Откажитесь от просмотра файла.
+(%s)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -2351,7 +2356,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка %s возникает при работающем резервном копировании! Пожалуйста, попробуйте выполнить следующие операции:
+• [Отменить] предыдущие операции и [Сохранить] его;
+• [Копировать / Вставить] содержимое в новый файл;
+• Откажитесь от просмотра файл.
+(%s)</translation>
     </message>
     <message>
         <source>The following addin has not passed the antivirus examination. To assure security, %s will refuse to load it. 
@@ -2360,7 +2369,10 @@ Name: %s
 Description: %s
 File: %s
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не прошло антивирусное обследование. Для обеспечения безопасности,%s откажитесь от загрузки.
+Имя:%s
+Описание:%s
+Файл:%s</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -2384,39 +2396,39 @@ File: %s
     </message>
     <message>
         <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение: Эта компьютерная программа защищена законом об авторском праве и международными договорами. Несанкционированное воспроизведение или распространение этой программы или любой ее части, может повлечь за собой гражданскую и уголовную ответственность, и будут преследоваться по максимально возможной степени в соответствии с законом.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has encountered a problem and needs to close.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer обнаружена ошибка необходимо закрыть приложение.</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has encountered a problem and needs to close.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation обнаружена ошибка необходимо закрыть приложение.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets has encountered a problem and needs to close.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets обнаружена ошибка необходимо закрыть приложение.</translation>
     </message>
     <message>
         <source>Kingsoft Simulation has encountered a problem and needs to close.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Simulation обнаружена ошибка необходимо закрыть приложение.</translation>
     </message>
     <message>
         <source>Kingsoft Writer Error Recovery Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer Ошибка Помощь по восстановлению</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Error Recovery Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation Ошибка Помощь по восстановлению</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Error Recovery Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets Ошибка Помощь по восстановлению</translation>
     </message>
     <message>
         <source>Kingsoft Simulation Error Recovery Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Simulation Ошибка Помощь по восстановлению</translation>
     </message>
     <message>
         <source>The file is loading, please wait.</source>
@@ -2448,7 +2460,7 @@ File: %s
     </message>
     <message>
         <source>System and Exception Information File</source>
-        <translation type="unfinished"></translation>
+        <translation>Системная информация о файле </translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2464,23 +2476,23 @@ File: %s
     </message>
     <message>
         <source>Send out success</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправлено успешно</translation>
     </message>
     <message>
         <source>Data transfer completed, thanks for your support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные переданы, спасибо за поддержку.</translation>
     </message>
     <message>
         <source>Terminate sending</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрыв передачи</translation>
     </message>
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
-        <translation type="unfinished"></translation>
+        <translation>Отчет о передачи еще не готов. Действительно хотите прервать передачу?</translation>
     </message>
     <message>
         <source>This document has been protected from any changes by another application. You can only open it as read-only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот документ защищен от любых изменений другим приложением. Вы можете только открыть его только для чтения.</translation>
     </message>
     <message>
         <source>Kingsoft Writer</source>
@@ -2496,19 +2508,20 @@ File: %s
     </message>
     <message>
         <source>(Not limited)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Не ограничено)</translation>
     </message>
     <message>
         <source>(Can use %d days)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Можете использовать %d дней)</translation>
     </message>
     <message>
         <source>(Overdue)</source>
-        <translation type="unfinished"></translation>
+        <translation>
+(Просрочено)</translation>
     </message>
     <message>
         <source>(Haven&apos;t used)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Не используется)</translation>
     </message>
     <message>
         <source> Invalid</source>
@@ -2547,15 +2560,15 @@ File: %s
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет разрешения в соответствии с лицензией FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология для преобразования между упрощенным китайским и традиционным китайским обеспечивается Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checke; Hunspell Spell Checker имеет открытый исходный код согласно Open Source лицензионного соглашения от MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>New Workbook.xls</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый Workbook.xls</translation>
     </message>
     <message>
         <source>New Document.doc</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый Document.doc</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -2601,7 +2614,7 @@ You can click the button to recover files you work on.</source>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет все разрешения в соответствии с лицензией FreeType; Chinese Word Segment,  Chinese Phonetic Annotations,, и технология для преобразования между упрощенный китайский и традиционный китайский обеспечивается информационно-поисковой центр, Харбинский технологический институт; Hunspell Spell Checker, исходный код в Hunspell применима для исходного кода в Open Source лицензионного соглашения от MPL 1.1/GPL 2.0/LGPL 2.1; Основатель шрифты, и получает свое разрешение в соответствии с официальными пунктами авторизации основателя.</translation>
     </message>
     <message>
         <source>WPS Office Commercial Version</source>
@@ -2624,7 +2637,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Настроить</translation>
+        <translation>Выбор</translation>
     </message>
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
@@ -2693,7 +2706,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>Последние документы</translation>
+        <translation>Недавние документы</translation>
     </message>
     <message>
         <source>Recent presentations</source>
@@ -2769,1674 +2782,1677 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Error happens when application trys to register. Error code: 0x%8.8x.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при регистрации. Код ошибки: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application trys to logout. Error code: 0x%8.8x.</source>
-        <translation type="unfinished"></translation>
+        <translation>Возникла ошибкаи при выходе. Код ошибки: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Arrow Style %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки %d</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Автофигуры</translation>
     </message>
     <message>
         <source>The name already exists. Please enter another one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя уже существует. Пожалуйста попробуйте другое.</translation>
     </message>
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно отобразить панель. Введите имя.</translation>
     </message>
     <message>
         <source>&amp;Blue:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Синий:</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Закладки</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Yes or No</source>
-        <translation type="unfinished"></translation>
+        <translation>Да или нет</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Да</translation>
     </message>
     <message>
         <source>(Build %s)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Создать %s)</translation>
     </message>
     <message>
         <source>Byte</source>
-        <translation type="unfinished"></translation>
+        <translation>Байт</translation>
     </message>
     <message>
         <source> Bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Байты</translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is opened. Click OK, and then close the dialog box to try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда не может быть выполнена, поскольку открыто диалоговое окно. Нажмите кнопку ОК, а затем закройте диалоговое окно, чтобы повторить попытку.</translation>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно создать ссылку на файл &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>The printer &quot;%s&quot; returned an error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Принтер &quot;%s&quot; вернул ошибку!</translation>
     </message>
     <message>
         <source>CAPS</source>
-        <translation type="unfinished"></translation>
+        <translation>CAPS</translation>
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>О Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>О Kingsoft Presentation</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе Kingsoft Writer</translation>
     </message>
     <message>
         <source>Cell Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка на ячейку</translation>
     </message>
     <message>
         <source>Automatic clear backup files before close application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая очистка резервных файлов перед закрытием.</translation>
     </message>
     <message>
         <source>Automatic clear clipboard before close application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая очистка буфера перед закрытием.</translation>
     </message>
     <message>
         <source>Automatic clear Recent File Lists before close application.</source>
-        <translation type="unfinished"></translation>
+        <translation>автоматическая очистка Недавних файлов перед закрытием.</translation>
     </message>
     <message>
         <source>Automatic clear temporary files before close application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая очистка временных файлов перед закрытием.</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Клипарт</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
-        <translation type="unfinished"></translation>
+        <translation>Название не может быть пустым. Пожалуйста введите имя.</translation>
     </message>
     <message>
         <source>Failed to modify the Add-In settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно изменить Add-In настройки</translation>
     </message>
     <message>
         <source>Load on Demand (currently loaded)</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка по запросу (загружено)</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор</translation>
     </message>
     <message>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить</translation>
     </message>
     <message>
         <source>Checked by;Client;Date completed;Department;Destination;Disposition;Division;Document number;Editor;Forward to;Group;Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверил; Клиент; Дата завершения; Отдел; Назначение; Планировка; Отдел; Номер документа; Редактор; Вперед; Группа; Язык</translation>
     </message>
     <message>
         <source>Mailstop;Matter;Office;Owner;Project;Publisher;Purpose;Received from;Recorded by;Recorded date;Reference;Source;Status;Telephone number;Typist</source>
-        <translation type="unfinished"></translation>
+        <translation>Mailstop; Материал; Офис; Владелец; Проект; Издатель; Цель; Поступило от; Записал; Записанные данные; Ссылка; Источник; Статус; Телефон; Машинист</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Изменить</translation>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Выборочное отображение</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введенное значение не соответствует заданному типу. Значение будет храниться в виде текста.</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный вниз по диагонали</translation>
     </message>
     <message>
         <source>Dark horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный горизонтальный</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный вверх по диагонали</translation>
     </message>
     <message>
         <source>Dark vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный вертикальный</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Пунктирная вниз по диагонали</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Пунктирная горизонтальная</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Пунктирный вверх по горизонтали</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Пунктирный вертиклаьный</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <source>Tahoma</source>
-        <translation type="unfinished"></translation>
+        <translation>Tahoma</translation>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Определенные имена</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
-        <translation type="unfinished"></translation>
+        <translation> удалось удалить Add-In</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the &apos;%s&apos; toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить &apos;%s&apos; панель?</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
-        <translation type="unfinished"></translation>
+        <translation>Параллелограмм</translation>
     </message>
     <message>
         <source>Divot</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить Сводную Таблицу</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Ромб из точек</translation>
     </message>
     <message>
         <source>Dotted grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетка из точек</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить гиперссылку</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Элементы с &quot;*&quot; должны быть введены.</translation>
     </message>
     <message>
         <source>Office Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Office Standard</translation>
     </message>
     <message>
         <source>Office XOR</source>
-        <translation type="unfinished"></translation>
+        <translation>Office XOR</translation>
     </message>
     <message>
         <source>At least one item must be shown. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation type="unfinished"></translation>
+        <translation>По крайней мере один элемент должен быть показан. Если вы не хотите, чтобы поле было отображено, то отмените текущую операцию, а затем перетащите поле из отчета.</translation>
     </message>
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Длина ключа должна быть кратной 8 между %d и %d.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка не действительна.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не можете создать сводную таблицу с этими данными. Пожалуйста, проверьте свои данные и убедитесь, что ссылка является действительной и лист существует.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Позиция, которую вы выбрали, для внесения в Сводную таблицу является недопустимой. Пожалуйста, убедитесь, что ссылка на диапазон действительна.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не можете изменить сводную таблицу с этими данными. Пожалуйста, проверьте свои данные и убедитесь, что ссылка является действительной, и лист существует.</translation>
     </message>
     <message>
         <source>Unkown Format Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный источник формата.</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Пустая рабочая тетрадь</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)|*.*</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot access %s, the file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets не может получить доступ к %s, неверное имя файла.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет значок, который представляет содержимое файла в ваш документ.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the program which created the source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет содержимое файла в документ, так что вы можете редактировать его позже с помощью программы, которая создала исходный файл.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить новый объект %s в документ.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your document as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить новый объект %s в документ в виде значка.</translation>
     </message>
     <message>
         <source>Inserts an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить  значок, представляющий содержимое файла в документе. Изменения в исходном файле будут отражены в документе.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет содержимое файла в документ и создает ссылку на исходный файл. Изменения в исходном файле будут отражены в документе.</translation>
     </message>
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось сохранить серийный номер. Пожалуйста, проверьте есть ли у вас права администратора.</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя Сводной таблицы уже существует.</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>The file name is incorrect, please input the filename with correct format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильное имя файла, пожалуйста введите корректное имя и формат.</translation>
     </message>
     <message>
         <source>File not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не найден</translation>
     </message>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Первый слайд</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>папка</translation>
     </message>
     <message>
         <source>GB</source>
-        <translation type="unfinished"></translation>
+        <translation>GB</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Основной</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зеленый:</translation>
     </message>
     <message>
         <source>Headings</source>
-        <translation type="unfinished"></translation>
+        <translation>Рубрики</translation>
     </message>
     <message>
         <source>Help file doesn&apos;t exist or is broken!</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл помощи не существует или поврежден!</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
-        <translation type="unfinished"></translation>
+        <translation>Горизонтальный кирпич</translation>
     </message>
     <message>
         <source>H&amp;ue:</source>
-        <translation type="unfinished"></translation>
+        <translation>О&amp;ттенок:</translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in Document&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt;Selection in Document&gt;&gt;</translation>
     </message>
     <message>
         <source>An error occurred while importing this file. %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка во время импорта файла. %s</translation>
     </message>
     <message>
         <source>Please input &amp;toolbar&apos;s name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста введите имя &amp;панели:</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить гиперссылку</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный</translation>
     </message>
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%s&apos; неверное целочисленное значение</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это не верное число.</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя сводной таблицы не верно.</translation>
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введен неврный серийный номер. Проверьте формат ввода, поддерживаемую версию и действительную дату.</translation>
     </message>
     <message>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation>KB</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Водяной</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Черный</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Синий</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Сине-серый</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярко-зеленый</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Коричневый</translation>
     </message>
     <message>
         <source>Coral</source>
-        <translation type="unfinished"></translation>
+        <translation>Коралловый</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-синий</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-зеленый</translation>
     </message>
     <message>
         <source>Dark Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-пурпурный</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-красный</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный Тил</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-желтый</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Золотой</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>серый-95%</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеленый</translation>
     </message>
     <message>
         <source>IceBlue</source>
-        <translation type="unfinished"></translation>
+        <translation>Снежно-синий</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Индиго</translation>
     </message>
     <message>
         <source>Ivory</source>
-        <translation type="unfinished"></translation>
+        <translation>Айвори</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Лавандовый</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-синий</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-зеленый</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-оранжевый</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-бирюзовый</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-желтый</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Лайм</translation>
     </message>
     <message>
         <source>OceanBlue</source>
-        <translation type="unfinished"></translation>
+        <translation>Морской</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Оливково-зеленый</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Оранжевый</translation>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Бледно-синий</translation>
     </message>
     <message>
         <source>Periwinkle</source>
-        <translation type="unfinished"></translation>
+        <translation>Перва́нш</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Розовый</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Сливовый</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Красный</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет розы</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Морской зеленый</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Небесно-синий</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет загара</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Берюзовый</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Бирюза</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиолетовый</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Белый</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Желтый</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Большая шахматная доска</translation>
     </message>
     <message>
         <source>Large confetti</source>
-        <translation type="unfinished"></translation>
+        <translation>Большое конфети</translation>
     </message>
     <message>
         <source>Large grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Большая сетка</translation>
     </message>
     <message>
         <source>Last saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Последний сохраненный</translation>
     </message>
     <message>
         <source>Last Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Последний слайд</translation>
     </message>
     <message>
         <source>Light downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый вниз по диагонали </translation>
     </message>
     <message>
         <source>Light horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый горизонтальный</translation>
     </message>
     <message>
         <source>Light upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый вверх по диагонали</translation>
     </message>
     <message>
         <source>Light vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый вертикальный</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Тире</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Тире-Точка</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Черта-точка-точка</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Образцы линий</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Длинное тире</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Длинная черта-точка</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Растровая точка</translation>
     </message>
     <message>
         <source>Soild</source>
-        <translation type="unfinished"></translation>
+        <translation>Цельный</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадратная растровая точка</translation>
     </message>
     <message>
         <source>Loading DLL fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при загрузке DLL</translation>
     </message>
     <message>
         <source>Loading %s fails. Application will terminate. Please check and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при загрузке %s . Приложение будет завершено. Пожалуйста проверьте и попробуйте еще раз..</translation>
     </message>
     <message>
         <source>Load on Demand</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка по требованию</translation>
     </message>
     <message>
         <source>Load at Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка при запуске</translation>
     </message>
     <message>
         <source>&amp;Lum:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Лам:</translation>
     </message>
     <message>
         <source>You&apos;ve reached the max retry step, program will terminate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы достигли максимального количества попыток, программа будет завершена.</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимое измерение.</translation>
     </message>
     <message>
         <source>More Color...</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше цветов...</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить</translation>
     </message>
     <message>
         <source>Narrow horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Узкая горизонтальная</translation>
     </message>
     <message>
         <source>Narrow vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Узкая вертикальная</translation>
     </message>
     <message>
         <source>Never Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Никогда не изменять</translation>
     </message>
     <message>
         <source>New Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая кнопка</translation>
     </message>
     <message>
         <source>New Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая команда</translation>
     </message>
     <message>
         <source>New Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое меню</translation>
     </message>
     <message>
         <source>Next Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый слайд</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Без границы</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Без заливки</translation>
     </message>
     <message>
         <source>&quot;%s&quot; has no icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; не имеет иконки.</translation>
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Без линий</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ни одного</translation>
     </message>
     <message>
         <source>(normal text)</source>
-        <translation type="unfinished"></translation>
+        <translation>(нормальный текст)</translation>
     </message>
     <message>
         <source>NUM</source>
-        <translation type="unfinished"></translation>
+        <translation>NUM</translation>
     </message>
     <message>
         <source>The number must be between %d and %d. Try again by entering a number in this range.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Число должно быть между%d и%d. Попробуйте еще раз, введя число в этом диапазоне.</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Далее</translation>
     </message>
     <message>
         <source>All Files (*.*) | *.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы (*.*) | *.*</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите кодировку, для верного отображения текста.</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрисованный ромб</translation>
     </message>
     <message>
         <source>OVR</source>
-        <translation type="unfinished"></translation>
+        <translation>OVR</translation>
     </message>
     <message>
         <source>Part of %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть из %s</translation>
     </message>
     <message>
         <source>Part of %s trial version</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть из %s пробной версии</translation>
     </message>
     <message>
         <source>The key length of the file encryption must not be longer than %d characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Длина ключа шифрования файла не должна быть больше, чем%d символов.</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярлык будет создан к исходному файлу при вставке в качестве гиперссылки. Изменения в исходном файле будут отражены в документе.</translation>
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать картинку</translation>
     </message>
     <message>
         <source>Plaid</source>
-        <translation type="unfinished"></translation>
+        <translation>Клетчатый</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Previous Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущий слайд</translation>
     </message>
     <message>
         <source>Initializing the printer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Подготовка принтера...</translation>
     </message>
     <message>
         <source>Printing %d page of %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать %d страницы из %d</translation>
     </message>
     <message>
         <source>Product ID: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификационный номер: %s</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Красный:</translation>
     </message>
     <message>
         <source>Refercence is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка не действительна.</translation>
     </message>
     <message>
         <source>Are you sure you have saved these files you need?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что сохранили эти файлы?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите сбросить панель символов?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите сбросить &apos;%s&apos; панель?</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Суббота:</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение: Сохранение в виде текстового файла вызовет потерю всего форматирования, изображений и объектов в файле.</translation>
     </message>
     <message>
         <source>SCRL</source>
-        <translation type="unfinished"></translation>
+        <translation>SCRL</translation>
     </message>
     <message>
         <source>---Search Selection---</source>
-        <translation type="unfinished"></translation>
+        <translation>---Поиск---</translation>
     </message>
     <message>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>сек</translation>
     </message>
     <message>
         <source>Automatic check file security troubles before close application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая проверка файла на безопасность перед закрытием приложения.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, выберите &amp;папку:</translation>
     </message>
     <message>
         <source>Automatic check file security troubles before send e-mail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая проверка файла на безопасность перед отправкой электронного сообщения.</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"></translation>
+        <translation>От &amp;Центра</translation>
     </message>
     <message>
         <source>Fro&amp;m title</source>
-        <translation type="unfinished"></translation>
+        <translation>От &amp;названия</translation>
     </message>
     <message>
         <source>Shadow Style %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тени %d</translation>
     </message>
     <message>
         <source>[Restricted]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Ограничение]</translation>
     </message>
     <message>
         <source>Shingle</source>
-        <translation type="unfinished"></translation>
+        <translation>Галька</translation>
     </message>
     <message>
         <source>(Show All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Показать всеl)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
-        <translation type="unfinished"></translation>
+        <translation>Список слайдов</translation>
     </message>
     <message>
         <source>Small checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Мелкая шахматная доска</translation>
     </message>
     <message>
         <source>Small confetti</source>
-        <translation type="unfinished"></translation>
+        <translation>Мелкое конфети</translation>
     </message>
     <message>
         <source>Small grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Мелкая сетка</translation>
     </message>
     <message>
         <source>Solid diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Заполненый ромб</translation>
     </message>
     <message>
         <source>Sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Сфера</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Занят</translation>
     </message>
     <message>
         <source>DoorOpen</source>
-        <translation type="unfinished"></translation>
+        <translation>Открытая дверь</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Офлайн</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>приостановлено</translation>
     </message>
     <message>
         <source>Printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Готовность</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторское право</translation>
     </message>
     <message>
         <source>Double Closing Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойные закрывающие кавычки</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Двоные открывающие кавыяки</translation>
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation type="unfinished"></translation>
+        <translation>Элипс</translation>
     </message>
     <message>
         <source>Em Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Длинное тире</translation>
     </message>
     <message>
         <source>Em Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Длинный пробел</translation>
     </message>
     <message>
         <source>En Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткое тире</translation>
     </message>
     <message>
         <source>En Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткий пробел</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиксированный пробел</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Абзац</translation>
     </message>
     <message>
         <source>Registered</source>
-        <translation type="unfinished"></translation>
+        <translation>Зарегестрирован</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Раздел</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Одинарная закрывающая кавычка</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Одинарная открывающая кавычка</translation>
     </message>
     <message>
         <source>Trademark</source>
-        <translation type="unfinished"></translation>
+        <translation>Водяной знак</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Система</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Окно задачи</translation>
     </message>
     <message>
         <source>More Buttons|</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше кнопок|</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон</translation>
     </message>
     <message>
         <source>what you entered is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>То, что вы ввели неверно.</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный целочисленный текст.</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>Select Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите текстуру</translation>
     </message>
     <message>
         <source>3D Style %d</source>
-        <translation type="unfinished"></translation>
+        <translation>3D стиль %d</translation>
     </message>
     <message>
         <source>Top of the Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Верх документа</translation>
     </message>
     <message>
         <source>Trellis</source>
-        <translation type="unfinished"></translation>
+        <translation>Решетка</translation>
     </message>
     <message>
         <source>(Trial)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Пробный)</translation>
     </message>
     <message>
         <source>&lt;List of Toolbars&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Список панелей&gt;</translation>
     </message>
     <message>
         <source>&lt;More Control&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;More Control&gt;</translation>
     </message>
     <message>
         <source>&lt;List of Current Windows&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Список окон&gt;</translation>
     </message>
     <message>
         <source>&lt;Dynamic List&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Динамический список&gt;</translation>
     </message>
     <message>
         <source>Basic Latin;Latin-1 Supplement;Latin Extended-A;Latin Extended-B;IPA Extensions;Spacing Modifier Letters;Combining Diacritical Marks;Basic Greek;Cyrillic;Armenian;Basic Hebrew;Basic Arabic;Devanagari;</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic Latin;Latin-1 Supplement;Latin Extended-A;Latin Extended-B;IPA Extensions;Spacing Modifier Letters;Combining Diacritical Marks;Basic Greek;Cyrillic;Armenian;Basic Hebrew;Basic Arabic;Devanagari;</translation>
     </message>
     <message>
         <source>Bengali;Gurmukhi;Gujarati;Oriya;Tamil;Telugu;Kannada;Malayalam;Thai;Lao;Basic Georgian;Hangul Jamo;Latin Extended Additional;Greek Extended;General Punctuation;Subscripts and Superscripts;</source>
-        <translation type="unfinished"></translation>
+        <translation>Bengali;Gurmukhi;Gujarati;Oriya;Tamil;Telugu;Kannada;Malayalam;Thai;Lao;Basic Georgian;Hangul Jamo;Latin Extended Additional;Greek Extended;General Punctuation;Subscripts and Superscripts;</translation>
     </message>
     <message>
         <source>Currency Symbols;Combining Diacritical Marks for Symbols;Letter-like Symbols;Number Forms;Arrows;Mathematical Operators;Miscellaneous Technical;Control Pictures;Optical Character Recognition;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enclosed Alphanumerics;Box Drawing;Block Elements;Geometric Shapes;Miscellaneous Symbols;Dingbats;CJK Symbols and Punctuation;Hiragana;Katakana;Bopomofo;Extended Bopomofo;Hangul Compatibility Jamo;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>CJK Miscellaneous;Enclosed CJK Letters and Months;CJK Compatibility;Hangul;Surrogates;CJK Unified Ideographs;CJK Radicals Supplement;Kangxi Radicals;Ideographic Description;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>CJK Unified Ideograph Extension A;Private Use Area;CJK Compatibility Ideographs;Alphabetic Presentation Forms;Arabic Presentation Forms-A;Combining Half Marks;CJK Compatibility Forms;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Small Form Variants;Arabic Presentation Forms-B;Halfwidth and Fullwidth Forms;Specials;Tibetan;Syriac;Thaana;Sinhala;Myanmar;Ethiopic;Cherokee;Canadian Aboriginal Syllabics;Ogham;Runic;Khmer;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mongolian;Braille;Yi Radicals</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Value should be between %s and %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть между %s и %s.</translation>
     </message>
     <message>
         <source>Value should be not less than %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть не менее%s.</translation>
     </message>
     <message>
         <source>Value should be not greater than %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть не больше%s.</translation>
     </message>
     <message>
         <source>%s is illegal floating value.</source>
-        <translation type="unfinished"></translation>
+        <translation>%s неверное значение с плавающей запятой.</translation>
     </message>
     <message>
         <source>Value should be between %d and %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть между %d и %d.</translation>
     </message>
     <message>
         <source>Value should not be less than %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть не менее%d.</translation>
     </message>
     <message>
         <source>Value should not be greater than %d.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть не больше%d.</translation>
     </message>
     <message>
         <source>%d is illegal value.</source>
-        <translation type="unfinished"></translation>
+        <translation>%d неверное значение.</translation>
     </message>
     <message>
         <source>The &quot;%s&quot; you entered is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; неправильно введен.</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дуга вниз (Кривая)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дуга вниз (Заливка)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дуга вверх (Кривая)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дуга вверх (Заливка)</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка (Кривая)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка (Заливка)</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Дном вниз</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Дном вверх</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Каскадом вниз</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Каскадом вверх</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Шеврон вниз</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Нашивка вверх</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Окружность (Кривая)</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation type="unfinished"></translation>
+        <translation>Окружность (Заливка)</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Кривая вниз</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Кривая вверх</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдуть Наполнить Сдуть</translation>
     </message>
     <message>
         <source>Deflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдуть</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдуть снизу</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдуть Наполнить</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдуть сверху</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойная волна 1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойная волна 2</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Сужаться вниз</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Сужаться влево</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Сужаться вправо</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Сужаться вверх</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="unfinished"></translation>
+        <translation>Наполнить</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Наполнить снизу</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Наполнить сверху</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Простой текст</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Внутри круга</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Снаружи круга</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Наклон вниз</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Наклон вверх</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Стоп</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Треугольник вверх</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Треугольник вниз</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Волна 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Волна 2</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"></translation>
+        <translation>Волна</translation>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"></translation>
+        <translation>Плетение</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Широкий вниз по диагонали</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Широкий вверх по диагонали</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Пустая презентация</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Presentations and Shows(*.dps;*.ppt)|*.dps;*.ppt</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)|*.*|Презентации(*.dps;*.ppt)|*.dps;*.ppt</translation>
     </message>
     <message>
         <source>Kingsoft Presentation cannot access %s, the file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation не может получить доступ %s, недопустимое имя файла.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет содержимое файла как объекта в презентацию так, чтобы активировать приложение с помощью которого он был создан. Будет отображен в виде значка.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет содержимое файла как объекта в презентацию так, чтобы его можно активировать с помощью приложения, с помощью которого был создан.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить новый объект %s в презентацию.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your presentation. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить новый объект %s в документ в виде значка.</translation>
     </message>
     <message>
         <source>Inserts an icon into your presentation which represents the file. The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет иконку в презентации, которая представляет собой файл. Значок будет ярлыком к файлу, изменения в файле будут отражены в презентации.</translation>
     </message>
     <message>
         <source>Inserts a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет файл рисунка в презентацию. Картина будет ярлыком к файлу так, чтобы изменения в файле могли быть  отражены в презентации.</translation>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Пустой документ</translation>
     </message>
     <message>
         <source>Kingsoft Writer cannot access %s, the file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer не может получить доступ %s, недопустимое имя файла.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет содержимое файла в документ, так что вы можете редактировать его позже с помощью приложения, которым он был создан.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Вставляет значок, который отображает содержимое файла в документе. Изменения в исходном файле будут отражены в документе.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет содержимое файла в документ и создает ярлык к исходному файлу. Изменения в исходном файле будут отражены в документе.</translation>
     </message>
     <message>
         <source>Zig zag</source>
-        <translation type="unfinished"></translation>
+        <translation>Зигзаг</translation>
     </message>
     <message>
         <source>%s Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>%s Свойства</translation>
     </message>
     <message>
         <source>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"></translation>
+        <translation>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
-        <translation type="unfinished"></translation>
+        <translation>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
     </message>
     <message>
         <source>Unknown picture file extension (.%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестное расширение файла изображения (.%s)</translation>
     </message>
     <message>
         <source>The size of the custom dictionary can&apos;t be bigger than 10M.</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер пользовательского словаря не может быть больше 10М.</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите сбросить &apos;%s&apos; команду?</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сводная таблица не может быть создана на новом листе, так как книга защищена. Выберите существующий лист или снемите защиту от записи.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста введите пароль к настройкам доступа!</translation>
     </message>
     <message>
         <source>---Translate Selection---</source>
-        <translation type="unfinished"></translation>
+        <translation>---Секция перевода---</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <source>Forword</source>
-        <translation type="unfinished"></translation>
+        <translation>Вперед</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт отсутствует в системе %s, текст будет отображаться шрифтом по умолчанию, вы все равно хотите использовать его?</translation>
     </message>
     <message>
         <source>Embed in File</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить в файл</translation>
     </message>
     <message>
         <source>Educational material</source>
-        <translation type="unfinished"></translation>
+        <translation>Образовательный материал</translation>
     </message>
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Хотите сохранить изменения в &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Unknown object</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный объект</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"></translation>
+        <translation>Английский (United States)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайский (PRC)</translation>
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Японский (Japan)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Въетнамский</translation>
     </message>
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Все изображения(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение слишком большое, чтобы использовать в качестве шаблона.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайский (Taiwan)</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратная связь</translation>
     </message>
     <message>
         <source>- (Hyphen)</source>
-        <translation type="unfinished"></translation>
+        <translation>- (Дефис)</translation>
     </message>
     <message>
         <source>. (Period)</source>
-        <translation type="unfinished"></translation>
+        <translation>. (Период)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (Колон)</translation>
     </message>
     <message>
         <source>— (EmDash)</source>
-        <translation type="unfinished"></translation>
+        <translation>- (Длинное Тире)</translation>
     </message>
     <message>
         <source>– (EnDash)</source>
-        <translation type="unfinished"></translation>
+        <translation>- (Короткое Тире)</translation>
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы закрываете %d вкладку, хотите продолжить?</translation>
     </message>
     <message>
         <source>The previous tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущий лист</translation>
     </message>
     <message>
         <source>The next tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий лист</translation>
     </message>
     <message>
         <source>Tab list</source>
-        <translation type="unfinished"></translation>
+        <translation>Список листов</translation>
     </message>
     <message>
         <source>New document</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый документ</translation>
     </message>
     <message>
         <source>Document tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Вкладка документы</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
-        <translation type="unfinished"></translation>
+        <translation>Офисный пакет по умолчанию %s.</translation>
     </message>
     <message>
         <source>%s is not the current default office software. Are you sure you want to set %s as the default office software?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+%s неверная версия офисного пакета по умолчанию. Вы уверены, что хотите установить %s  как версию офисногопакета по умолчанию?</translation>
     </message>
     <message>
         <source>Verifying the serial number, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка серийного номера, пожалуйста ждите...</translation>
     </message>
     <message>
         <source>Fail to open email client automatically, please send email to %s to feedback information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неудачная попытка открыть почтовый клиент автоматически, пожалуйста, отправьте%s для отладочной информации.</translation>
     </message>
     <message>
         <source>The installation or update patches are running, now, %s will exit, please run %s again after the completion of installation or updating.</source>
-        <translation type="unfinished"></translation>
+        <translation>Идет установка обновлений %s будет закрыто. Запустите %s  вновь после завершения установки обновлений.</translation>
     </message>
     <message>
         <source>The file can not be deleted, which may be occupied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не может быть удален, возможно он занят.</translation>
     </message>
     <message>
         <source>Some files can not be deleted, which may be occupied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые файлы не могут быть удалены, возможно они заняты.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим просмотра</translation>
     </message>
     <message>
         <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка обновлений Kingsoft Office завершена, хотите установить их сейчас ?</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
@@ -4444,7 +4460,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Thank you for choosing Kingsoft Office series product.
@@ -4453,43 +4469,56 @@ You have installed Kingsoft Office Personal Trial Edition.
 For better service, please update the trial edition to standard edition by:
 1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
 2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Благодарим Вас за выбор продуктов серии Kingsoft Office.
+
+Вы установили Kingsoft Office Personal Trial Edition.
+Для лучшего обслуживания, пожалуйста, обновите пробную версию до стандартного издания:
+1. Нажмите кнопку &quot;Подтвердить Kingsoft Passport&quot;. Если вы еще не зарегистрировали Kingsoft Passport, пожалуйста, нажмите на &quot;Регистрация Kingsoft Passport&quot; в первую очередь;
+2. Нажмите кнопку &quot;Kingsoft Passport&quot; в меню &quot;Справка&quot;.</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть в браузере</translation>
     </message>
     <message>
         <source>Organization Chart
 Used to show hierarchical relationships</source>
-        <translation type="unfinished"></translation>
+        <translation>Организационная диаграмма
+Используется для отображения иерархии и связей </translation>
     </message>
     <message>
         <source>Cycle Diagram
 Used to show a process with a continuous 
 cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>Циклическая диаграмма
+Используется, чтобы показать процесс с непрерывными
+циклами</translation>
     </message>
     <message>
         <source>Radial Diagram
 Used to show relationships of core elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Радиальная диаграмма
+Используется для отображения связей основных элементов</translation>
     </message>
     <message>
         <source>Pyramid diagram
 Used to show foundation-based relationships</source>
-        <translation type="unfinished"></translation>
+        <translation>Пирамидальная диаграмма
+Используется для отображения фундаментальный отношений</translation>
     </message>
     <message>
         <source>Venn diagram
 Used to show areas of overlap between 
 elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Диаграмма Венна
+Используется, чтобы показать области дублирования между
+элементами</translation>
     </message>
     <message>
         <source>Target Diagram
 Used to show steps toward a goal</source>
-        <translation type="unfinished"></translation>
+        <translation>Целевая диаграмма
+Используется, чтобы показать шаги к цели</translation>
     </message>
 </context>
 </TS>
