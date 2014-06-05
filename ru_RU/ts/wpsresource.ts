@@ -831,7 +831,7 @@
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённо</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -1388,7 +1388,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённо</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -2081,7 +2081,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённый</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -2835,7 +2835,7 @@ On</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Плотно</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -2914,11 +2914,11 @@ On</source>
     </message>
     <message>
         <source>File Menu Help</source>
-        <translation>Помощь меню файла</translation>
+        <translation>Справка меню файла</translation>
     </message>
     <message>
         <source>Help Title</source>
-        <translation>Заголовок справочной информации</translation>
+        <translation>Заголовок справки</translation>
     </message>
     <message>
         <source>Kingsoft BBS</source>
@@ -3065,7 +3065,7 @@ On</source>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Помощь Kingsoft Writer</translation>
+        <translation>Справка Kingsoft Writer</translation>
     </message>
 </context>
 <context>
@@ -4195,7 +4195,7 @@ Different New Document</source>
     </message>
     <message>
         <source>None</source>
-        <translation>Ни одного</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -4327,7 +4327,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Плотно</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -4514,7 +4514,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённый</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
@@ -5020,7 +5020,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённо</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -7083,7 +7083,7 @@ On</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённо</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -7932,7 +7932,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Kingsoft Writer справочная информация</translation>
+        <translation>Справка Kingsoft Writer</translation>
     </message>
     <message>
         <source>Left Tab</source>
@@ -8008,7 +8008,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>None</source>
-        <translation>Ни одного</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -9128,7 +9128,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённый</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -9207,7 +9207,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>Помощь</translation>
+        <translation>Справка</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -9231,7 +9231,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Справочная информация Kingsoft Writer</translation>
+        <translation>Справка Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Template</source>
@@ -9354,7 +9354,7 @@ Diagonal Line in Cell</source>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Справочная информация Kingsoft Writer</translation>
+        <translation>Справка Kingsoft Writer</translation>
     </message>
 </context>
 <context>
@@ -10474,7 +10474,7 @@ Merged Data</source>
     </message>
     <message>
         <source>None</source>
-        <translation>Ни одного</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -10602,7 +10602,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённый</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -10717,7 +10717,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённый</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
@@ -11200,11 +11200,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Through</source>
-        <translation></translation>
+        <translation>Сквозь</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённый</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -13175,7 +13175,7 @@ Other Window</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Уплотнённый</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -13294,7 +13294,7 @@ Other Window</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>Помощь</translation>
+        <translation>Справка</translation>
     </message>
     <message>
         <source>Help us improve our product.</source>
@@ -13877,7 +13877,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для дополнительной справочной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -18763,7 +18763,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>wpscommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Помощь Kingsoft Writer</translation>
+        <translation>Справка Kingsoft Writer</translation>
     </message>
 </context>
 <context>

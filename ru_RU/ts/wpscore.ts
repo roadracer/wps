@@ -477,7 +477,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation>Ни одного</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Pound</source>
@@ -1952,7 +1952,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>(none)</source>
-        <translation>(ни одного)</translation>
+        <translation>(нет)</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -2972,11 +2972,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>=(Formula)</source>
-        <translation type="unfinished">=(Формула)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Страница</translation>
+        <translation></translation>
     </message>
     <message>
         <source>PageRef</source>
@@ -3008,7 +3008,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation>Гиперссылка</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -3016,7 +3016,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Time</source>
-        <translation>Время</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
@@ -3064,7 +3064,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>THREE</source>
-        <translation>ТРИ</translation>
+        <translation></translation>
     </message>
     <message>
         <source>5</source>
@@ -3220,7 +3220,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation>&amp;Формула:</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
@@ -3993,7 +3993,7 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
-        <translation>Не найдены или ошибка файлов справочной информации.</translation>
+        <translation>Не найдены или ошибка файлов справки</translation>
     </message>
     <message>
         <source>New Style</source>
