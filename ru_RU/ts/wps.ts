@@ -2914,7 +2914,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation>На&amp;йти то, что:</translation>
+        <translation>На&amp;йти:</translation>
     </message>
     <message>
         <source>Search options:</source>
@@ -3316,7 +3316,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bottom of page</source>
-        <translation>Низ страницы</translation>
+        <translation>Внизу страницы</translation>
     </message>
     <message>
         <source>Below text</source>
@@ -5018,7 +5018,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
-        <translation>Выбирая пароль ниже, вы можете использовать более высокий уровень шифрования для вашего документа. При этом документ будет зашифрован с использованием учётных данных, введённых в поле пароля.</translation>
+        <translation>Выбирая пароль, вы можете использовать более высокий уровень шифрования для вашего документа. При этом документ будет зашифрован с использованием данных, введённых в поле пароля.</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -5034,7 +5034,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
-        <translation>&amp;Измененяемый пароль:</translation>
+        <translation>&amp;Изменяемый пароль:</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
@@ -5329,7 +5329,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bottom of page(Footer)</source>
-        <translation>Низ страницы (нижний колонтитул)</translation>
+        <translation>Внизу страницы (нижний колонтитул)</translation>
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
@@ -5408,11 +5408,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation>&amp;Верх:</translation>
+        <translation>&amp;Сверху:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation>&amp;Низ:</translation>
+        <translation>&amp;Снизу:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
@@ -7322,7 +7322,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
-        <translation>Текст &quot;Найти то, что&quot; содержит недопустимое выражение.</translation>
+        <translation>Текст &quot;Найти&quot; содержит недопустимое выражение.</translation>
     </message>
     <message>
         <source>Kingsoft Writer Cannot replace the found item with text containing a break.</source>
@@ -7382,7 +7382,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
-        <translation>%1 недопустимый специальный символ для поля &quot;Найти то, что&quot;.</translation>
+        <translation>%1 недопустимый специальный символ для поля &quot;Найти&quot;.</translation>
     </message>
     <message>
         <source>Current Selection</source>
@@ -9328,7 +9328,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Select Style to Apply</source>
-        <translation>Выберать стиль для применения</translation>
+        <translation>Выбрать стиль</translation>
     </message>
     <message>
         <source>Show:</source>
