@@ -3339,7 +3339,7 @@ On</source>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation>Найти/Заменить</translation>
+        <translation>Найти/заменить</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5497,7 +5497,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>Разделить раздел</translation>
+        <translation>Разрыв раздела</translation>
     </message>
     <message>
         <source>Three</source>
@@ -8276,7 +8276,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="unfinished">Сохраить исходное состояние автофигуры </translation>
+        <translation type="unfinished">Сохранить исходное состояние автофигуры </translation>
     </message>
     <message>
         <source>Share to Weibo</source>
@@ -9628,7 +9628,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation>Найти/Заменить</translation>
+        <translation>Найти/заменить</translation>
     </message>
     <message>
         <source>Font</source>
@@ -11688,7 +11688,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>Разделить раздел</translation>
+        <translation>Разрыв раздела</translation>
     </message>
     <message>
         <source>Three</source>
@@ -17078,7 +17078,7 @@ The selected level and all higher levels will be visible.</source>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>Разделить раздел</translation>
+        <translation>Разрыв раздела</translation>
     </message>
 </context>
 <context>

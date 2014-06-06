@@ -2208,7 +2208,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;Find / Replace...</source>
-        <translation>&amp;Найти / Заменить...</translation>
+        <translation>&amp;Найти/заменить...</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
@@ -3100,7 +3100,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
-        <translation>Текст функции &quot;Найти то, что&quot; содержит недопустимое выражение в &quot;условии совпадения&quot;.</translation>
+        <translation>Текст функции &quot;Найти&quot; содержит недопустимое выражение в &quot;условии совпадения&quot;.</translation>
     </message>
     <message>
         <source>The search for &quot;%s&quot; is finished, no items were found.</source>
