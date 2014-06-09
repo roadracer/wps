@@ -325,7 +325,7 @@
     </message>
     <message>
         <source>Col#:</source>
-        <translation></translation>
+        <translation>Кол.</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
@@ -1287,7 +1287,7 @@
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation>&amp;Место</translation>
+        <translation>&amp;Положение</translation>
     </message>
     <message>
         <source>&amp;Hidden bookmarks</source>
@@ -2970,11 +2970,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
-        <translation>&amp;Введите номер страницы:</translation>
+        <translation>&amp;Введите число страниц:</translation>
     </message>
     <message>
         <source>Enter + and - to move relative to the current location. Example:+4 will move forward four items</source>
-        <translation>Введите + и - для перемещения относительно текущего местоположения. Пример: +4 соответствует перемещению вперед четыре пункта</translation>
+        <translation>Введите + и - для перемещения относительно текущего места. Прим.: +4 соответствует перемещению вперед четыре пункта</translation>
     </message>
     <message>
         <source>&amp;Enter Bookmark Name:</source>
@@ -3280,7 +3280,7 @@ use buttons to apply borders</source>
     <name>KxDlgFootAndEndnote</name>
     <message>
         <source>Footnote and Endnote</source>
-        <translation>Сноска и концевая сноска</translation>
+        <translation>Сноски</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -3296,7 +3296,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation>Непрерывный</translation>
+        <translation>Непрерывная</translation>
     </message>
     <message>
         <source>Restart each section</source>
@@ -3308,7 +3308,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Location</source>
-        <translation>Место</translation>
+        <translation>Положение</translation>
     </message>
     <message>
         <source>&amp;Footnotes:</source>
@@ -3320,7 +3320,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Below text</source>
-        <translation>Текст ниже</translation>
+        <translation>Под текстом</translation>
     </message>
     <message>
         <source>&amp;Endnotes:</source>
@@ -3348,7 +3348,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>C&amp;ustom mark:</source>
-        <translation>&amp;Пользовательский знак:</translation>
+        <translation>&amp;Выбрать:</translation>
     </message>
     <message>
         <source>S&amp;ymbol...</source>
@@ -3734,7 +3734,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert location:</source>
-        <translation>Вставить место:</translation>
+        <translation>Вставить положение:</translation>
     </message>
     <message>
         <source>&amp;Below selection Row</source>
@@ -4582,7 +4582,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Общий и сохранить</translation>
+        <translation>Общие параметры и сохранение</translation>
     </message>
     <message>
         <source>General options</source>
@@ -4594,7 +4594,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation>Различать &amp;местоположение</translation>
+        <translation>Различать &amp;положение</translation>
     </message>
     <message>
         <source>Bl&amp;ue background, white text</source>
@@ -4970,11 +4970,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>C&amp;annot start line:</source>
-        <translation>Невозможно &amp;начать строку:</translation>
+        <translation>Недопустимый &amp;первый символ строки:</translation>
     </message>
     <message>
         <source>Cann&amp;ot end line:</source>
-        <translation>Невозможно &amp;закончить строку:</translation>
+        <translation>Недопустимый по&amp;следний символ строки:</translation>
     </message>
     <message>
         <source>File Locations</source>
@@ -5026,7 +5026,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Reenter &amp;password:</source>
-        <translation>Введите пароль по&amp;вторно:</translation>
+        <translation>Подтвердите в&amp;ведённый пароль:</translation>
     </message>
     <message>
         <source>File sharing options for this document</source>
@@ -5034,11 +5034,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
-        <translation>&amp;Изменяемый пароль:</translation>
+        <translation>&amp;Пароль разрешения записи:</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
-        <translation>Введите &amp;пароль повторно:</translation>
+        <translation>Под&amp;твердите введённый пароль:</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
@@ -5190,7 +5190,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Match &amp;full/half width form</source>
-        <translation>Учитывать половину / полную ф&amp;орму</translation>
+        <translation>Учитывать &amp;ширину знаков</translation>
     </message>
     <message>
         <source>Match &amp;ba/va, ha/fa</source>
@@ -5424,7 +5424,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>G&amp;utter position:</source>
-        <translation>Расположение &amp;переплёта:</translation>
+        <translation>&amp;Переплёт:</translation>
     </message>
     <message>
         <source>Left</source>
@@ -5576,7 +5576,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation>Непрерывный</translation>
+        <translation>Непрерывная</translation>
     </message>
     <message>
         <source>New page</source>
@@ -7235,7 +7235,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents,  click Options, then select Table entry fields. Field code: TC</source>
-        <translation>По умолчанию в поле TC вставляется скрытый текст. Для просмотра этого поля, выберите Вставить / Ссылка / Оглавление, затем выберите Поля элементов оглавления. Код поля: TC</translation>
+        <translation>По умолчанию в поле TC вставляется скрытый текст. Для просмотра этого поля, выберите "Вставить"->"Ссылка"->"Оглавление", затем выберите "Поля элементов оглавления". Код поля: TC</translation>
     </message>
     <message>
         <source>TC</source>
@@ -7350,7 +7350,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>,Match case</source>
-        <translation>,учитывать регистр</translation>
+        <translation> ,учитывать регистр</translation>
     </message>
     <message>
         <source>Find whole words only</source>
@@ -7358,19 +7358,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>,Find whole words only</source>
-        <translation>,найти слово целиком</translation>
+        <translation> ,найти слово целиком</translation>
     </message>
     <message>
         <source>,Use Wildcards</source>
-        <translation>,Знаки подстановки</translation>
+        <translation> ,знаки подстановки</translation>
     </message>
     <message>
         <source>Match half/full Forms</source>
-        <translation>Учитывать половину/полную форму</translation>
+        <translation>учитывать ширину знаков</translation>
     </message>
     <message>
         <source>,Match half/full Forms</source>
-        <translation>,Учитывать половину/полную форму</translation>
+        <translation> ,учитывать ширину знаков</translation>
     </message>
     <message>
         <source>Sounds like(Japannese)</source>
@@ -7378,7 +7378,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>,Sounds like(Japannese)</source>
-        <translation>,Фонетический (японский)</translation>
+        <translation> ,фонетический (японский)</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -7510,7 +7510,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>,Match Prefix</source>
-        <translation>,Учитывать префикс</translation>
+        <translation> ,учитывать префикс</translation>
     </message>
     <message>
         <source>Match Suffix</source>
@@ -7518,7 +7518,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>,Match Suffix</source>
-        <translation>,Учитывать cуффикс</translation>
+        <translation> ,учитывать cуффикс</translation>
     </message>
     <message>
         <source>Ignore Punct</source>
@@ -7526,7 +7526,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>,Ignore Punct</source>
-        <translation>,Пропустить элемент</translation>
+        <translation> ,пропустить элемент</translation>
     </message>
     <message>
         <source>Ignore Space</source>
@@ -7793,7 +7793,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation>Непрерывный</translation>
+        <translation>Непрерывная</translation>
     </message>
     <message>
         <source>Restart each section</source>
@@ -8815,7 +8815,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Пользовательские</translation>
+        <translation>Выбрать</translation>
     </message>
     <message>
         <source>Using the printer setup</source>
@@ -10864,7 +10864,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Password to prot&amp;ect permissions settings</source>
-        <translation>Пароль для &amp;защиты параметров прав доступа</translation>
+        <translation>Пароль &amp;защиты настроек прав доступа</translation>
     </message>
     <message>
         <source>&amp;Password:</source>

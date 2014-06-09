@@ -2120,15 +2120,15 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;Enter bookmark number:</source>
-        <translation>&amp;Введите номер закладки:</translation>
+        <translation>&amp;Введите число закладок:</translation>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
-        <translation>&amp;Введите номер страницы:</translation>
+        <translation>&amp;Введите число страниц:</translation>
     </message>
     <message>
         <source>&amp;Enter section number:</source>
-        <translation>&amp;Введите номер раздела:</translation>
+        <translation>&amp;Введите число разделов:</translation>
     </message>
     <message>
         <source>The font &apos;%s&apos; is not available in your system. Do you want to use it anyway?</source>
@@ -2800,7 +2800,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Стили / Форматирование</translation>
+        <translation>Стили/форматирование</translation>
     </message>
     <message>
         <source>Type</source>
@@ -3044,7 +3044,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents,  click Options, then select Table entry fields. Field code: TC</source>
-        <translation>По умолчанию в поле TC вставляется скрытый текст. Для просмотра этого поля, выберите Вставить / Ссылка / Оглавление, затем выберите Поля элементов оглавления. Код поля: TC</translation>
+        <translation>По умолчанию в поле TC вставляется скрытый текст. Для просмотра этого поля, выберите "Вставить"->"Ссылка"->"Оглавление", затем выберите "Поля элементов оглавления". Код поля: TC</translation>
     </message>
     <message>
         <source>Presume it is August 8 of 2008. Field code:Time \@ &quot;yyyy-M-d&quot;</source>
@@ -3128,7 +3128,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Above / below</source>
-        <translation>Сверху / снизу</translation>
+        <translation>Сверху/снизу</translation>
     </message>
     <message>
         <source>Heading text</source>
@@ -3965,7 +3965,7 @@ Cancel:	Return to the dialog.</source>
         <source>To create a link, click the empty text box please.
 To create a text box, please select Text Box from Insert menu, then click or drag the mouse in the document. Please select the original text box and select Create Text Box Link again.</source>
         <translation>Чтобы создать связь, щелкните пустое текстовое поле. 
-Чтобы создать текстовое поле, выберите Вставка-&gt;Текстовое поле, затем щелкните или перетащите курсором в документ. Выделите исходное текстовое поле и снова выберите Создать связь с текстовым полем.</translation>
+Чтобы создать текстовое поле, выберите "Вставка"-&gt;"Текстовое поле", затем щелкните или перетащите курсором в документ. Выделите исходное текстовое поле и снова выберите Создать связь с текстовым полем.</translation>
     </message>
     <message>
         <source>The text box you selected cannot be linked because a link has already existed in the text box , or you have linked the text box to itself.</source>
@@ -4235,7 +4235,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>Отслеживание изменений</translation>
+        <translation>Исправления</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -4243,7 +4243,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверить орфографию</translation>
+        <translation>Проверка орфографии</translation>
     </message>
     <message>
         <source>Formatted</source>

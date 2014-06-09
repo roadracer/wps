@@ -70,15 +70,15 @@
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation>Чередующиеся колонки</translation>
+        <translation>Чередующиеся столбцы</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation>Первая колонка</translation>
+        <translation>Первый столбец</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation>Последняя колонка</translation>
+        <translation>Последний столбец</translation>
     </message>
 </context>
 <context>
