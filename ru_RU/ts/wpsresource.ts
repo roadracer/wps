@@ -1758,7 +1758,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Eraser</source>
-        <translation>Резинка</translation>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -1838,7 +1838,7 @@ Merged Data</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Показать сетку</translation>
+        <translation>Показать линии сетки</translation>
     </message>
 </context>
 <context>
@@ -1993,7 +1993,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Format WordArt</source>
-        <translation>Форматировать фигурный текст</translation>
+        <translation>Форматировать</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -2133,7 +2133,7 @@ Merged Data</source>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>Форма фигурного текста</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -2179,7 +2179,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Draw MutidiagonalCell</source>
-        <translation type="unfinished">Рисовать MutidiagonalCell</translation>
+        <translation type="unfinished">Рисовать диагональную ячейку</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -2623,7 +2623,7 @@ On</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -3088,7 +3088,7 @@ On</source>
     </message>
     <message>
         <source>Date / Time</source>
-        <translation>Дата/Время</translation>
+        <translation>Дата/время</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3634,7 +3634,7 @@ Painter</source>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Дата/Время</translation>
+        <translation>Дата/время</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -4155,7 +4155,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -4402,7 +4402,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Document Gridlines</source>
-        <translation>Сетка документа</translation>
+        <translation>Линии сетки документа</translation>
     </message>
     <message>
         <source>Font</source>
@@ -4422,7 +4422,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -4724,7 +4724,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -5090,7 +5090,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Название</translation>
+        <translation>Подпись</translation>
     </message>
     <message>
         <source>Captions</source>
@@ -5222,7 +5222,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверить орфографию</translation>
+        <translation>Проверка орфографии</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5944,7 +5944,7 @@ On/Off</source>
     </message>
     <message>
         <source>Eraser</source>
-        <translation>Резинка</translation>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -6097,7 +6097,7 @@ Cells</source>
     </message>
     <message>
         <source>TableAutoAdjust</source>
-        <translation type="unfinished">TableAutoAdjust</translation>
+        <translation type="unfinished">Автоподгонка таблицы</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -6121,7 +6121,7 @@ Cells</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Показать сетку</translation>
+        <translation>Показать линии сетки</translation>
     </message>
 </context>
 <context>
@@ -6178,7 +6178,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -6254,7 +6254,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Show View Gridlines</source>
-        <translation>Показать отображение сетки</translation>
+        <translation>Показать линии сетки</translation>
     </message>
     <message>
         <source>Switch Window</source>
@@ -6903,7 +6903,7 @@ On</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -7083,7 +7083,7 @@ On</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>По контуру</translation>
+        <translation>Плотный</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -7131,7 +7131,7 @@ On</source>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Выравнивание фигурного текста</translation>
+        <translation>Выравнивание</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
@@ -7139,7 +7139,7 @@ On</source>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>Форматировать фигурный текст</translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -7155,19 +7155,19 @@ On</source>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>Форма фигурного текста</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>Размер фигурного текста</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation>Стили фигурного текста</translation>
+        <translation>Стили</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>Вертикальный фигурный текст</translation>
+        <translation>Вертикальный</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
@@ -7393,7 +7393,7 @@ On</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Название</translation>
+        <translation>Подпись</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -7429,7 +7429,7 @@ On</source>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
-        <translation>Проверить орфографию при вводе</translation>
+        <translation>Проверка орфографии при вводе</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -7626,17 +7626,16 @@ On</source>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>Нарисовать
-диагональную строку в ячейке</translation>
+        <translation>Рисовать
+диагональную линию в ячейке</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>Рисовать
-диагональную строку в ячейке</translation>
+        <translation>Диагональная линия в ячейке</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Нарисовать таблицу</translation>
+        <translation>Рисовать таблицу</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -7820,7 +7819,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -7876,7 +7875,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Вставка</translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -8056,11 +8055,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>	Упорядочивание</translation>
+        <translation>Упорядочивание</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -8416,7 +8415,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Показать сетку</translation>
+        <translation>Показать линии сетки</translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -8936,7 +8935,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -9373,7 +9372,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Дата/Время</translation>
+        <translation>Дата/время</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9910,7 +9909,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Дата/Время</translation>
+        <translation>Дата/время</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -10434,7 +10433,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -10653,11 +10652,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Document Gridlines</source>
-        <translation>Сетка документа</translation>
+        <translation>Линии сетки документа</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Increase Line Spacing</source>
@@ -10912,7 +10911,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -10928,7 +10927,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Вставка</translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -11270,11 +11269,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Название</translation>
+        <translation>Подпись</translation>
     </message>
     <message>
         <source>Captions</source>
-        <translation>Названия</translation>
+        <translation>Подписи</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -11405,7 +11404,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверить орфографию</translation>
+        <translation>Проверка орфографии</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -12142,7 +12141,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>Максисум</translation>
+        <translation>Максимум</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -12234,7 +12233,7 @@ and Endnote</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Показать сетку</translation>
+        <translation>Показать линии сетки</translation>
     </message>
 </context>
 <context>
@@ -12283,7 +12282,7 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -12379,7 +12378,7 @@ Other Window</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Показать сетку</translation>
+        <translation>Показать линии сетки</translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -12821,11 +12820,11 @@ Other Window</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Кнопка (Кривая)</translation>
+        <translation>Кнопка (кривая)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Кнопка (Заливка)</translation>
+        <translation>Кнопка (заливка)</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -12999,7 +12998,7 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Group</source>
@@ -13239,7 +13238,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>Контур фигурного текста</translation>
+        <translation>Контур</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -13932,7 +13931,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверить орфографию</translation>
+        <translation>Проверка орфографии</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
@@ -14017,7 +14016,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CloseMail</name>
     <message>
         <source>Click here to hide Mailings tab.</source>
-        <translation>Щёлкните здесь, чтобы скрыть вкладку Рассылки.</translation>
+        <translation>Щёлкните здесь, чтобы скрыть вкладку "Рассылки".</translation>
     </message>
     <message>
         <source>Close</source>
@@ -14885,7 +14884,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.Gridlines</name>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
@@ -15125,7 +15124,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Insert Caption</source>
-        <translation>Вставить название</translation>
+        <translation>Вставить подпись</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15369,7 +15368,7 @@ The diagonal lines in the table headings can be moved.</source>
     </message>
     <message>
         <source>Insert Object</source>
-        <translation>Вствить объект</translation>
+        <translation>Вставить объект</translation>
     </message>
     <message>
         <source>Insert an embedded object into the document.
@@ -15800,7 +15799,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     <name>tips.Mail</name>
     <message>
         <source>Click here to open Mailings tab, which includes features such as Mail Merge.</source>
-        <translation>Щёлкните здесь, чтобы открыть вкладку Рассылки с такими функциями, как, например, Слияние с электронной почтой.</translation>
+        <translation>Щёлкните здесь, чтобы открыть вкладку "Рассылки" с такими функциями, как, например, "Слияние с электронной почтой".</translation>
     </message>
 </context>
 <context>
@@ -16982,7 +16981,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>View Table Gridlines</source>
-        <translation>Показать сетку таблицы</translation>
+        <translation>Показать линии сетки таблицы</translation>
     </message>
 </context>
 <context>
@@ -17135,9 +17134,9 @@ Click the arrow to add an emphasis mark.</source>
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation type="unfinished">Вставка маленьких символов, находящихся ниже линии основания текста. 
+        <translation type="unfinished">Вставка небольших символов, находящихся ниже линии текста. 
 
-Щёлкните стрелку для выбора надстрочных знаков.</translation>
+Щёлкните стрелку для выбора подстрочных знаков.</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -17150,9 +17149,9 @@ Click the arrow to select superscript.</source>
         <source>Create small letters above the line of text.
 
 Click the arrow to select subscript.</source>
-        <translation>Вставка маленьких символов, находящихся выше линии текста. 
+        <translation>Вставка небольших символов, находящихся выше линии текста. 
 
-Щёлкните стрелку для выбора подстрочных знаков.</translation>
+Щёлкните стрелку для выбора надстрочных знаков.</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -17204,11 +17203,11 @@ Click the arrow to select subscript.</source>
     <name>tips.TableAutoAdjust</name>
     <message>
         <source>TableAutoAdjust Content</source>
-        <translation type="unfinished">TableAutoAdjust Содержание</translation>
+        <translation type="unfinished">Автоподгонка строк и столбцов таблицы по ширине и высоте.</translation>
     </message>
     <message>
         <source>TableAutoAdjust Title</source>
-        <translation type="unfinished">TableAutoAdjust Заголовок</translation>
+        <translation type="unfinished">Автоподгонка таблицы по ширине и высоте</translation>
     </message>
 </context>
 <context>
@@ -18456,7 +18455,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
-        <translation>Единица измерения. Щёлкните для открытия диалогового окна &quot;Настройки&quot;.</translation>
+        <translation>Единица измерения. Щёлкните для открытия диалогового окна &quot;"Параметры"&quot;.</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -18612,7 +18611,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Выбрать язык проверки орфографии</translation>
+        <translation>Установить язык проверки орфографии</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -18873,7 +18872,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -19089,7 +19088,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Outline</source>

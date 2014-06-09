@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru_RU">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.1" language="ru_RU">
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -2530,21 +2529,21 @@ Window</source>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить язык</translation>
     </message>
 </context>
 <context>
     <name>etrainbow.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Листы</translation>
     </message>
 </context>
 <context>
@@ -2559,15 +2558,15 @@ Window</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Разработчик</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты рисования</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
@@ -2575,71 +2574,71 @@ Window</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматы</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Формулы</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Главная</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Главная</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
+        <translation>KOS вакансии</translation>
     </message>
     <message>
         <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation>KOS перезарядка</translation>
     </message>
     <message>
         <source>Log off</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Войти</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое сообщение</translation>
     </message>
     <message>
         <source>Not logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Не зарегистрирован</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Разметка страницы</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Работа с рисунками</translation>
     </message>
     <message>
         <source>PivotTable Tools</source>
@@ -2663,63 +2662,63 @@ Window</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Обзор</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать панель инструментов</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать/скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Stick the toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Зафиксировать панель инструментов</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>Switch User</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключть пользователя</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрация пользователя</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>Window Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть окно</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный размер окна</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимальный размер окна</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить окно</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигурный текст</translation>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочая область</translation>
     </message>
     <message>
         <source>test Rb Tab Widget</source>
@@ -2730,257 +2729,257 @@ Window</source>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>true</translation>
     </message>
 </context>
 <context>
     <name>etrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить язык</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель инструментов пользователя</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_charttools</name>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить тип диаграммы</translation>
     </message>
     <message>
         <source>Chart Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Объекты диаграммы</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип диаграммы</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблица с данными</translation>
     </message>
     <message>
         <source>Format Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат диаграммы</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Легенда</translation>
     </message>
     <message>
         <source>Select Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор содержимого</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор данных</translation>
     </message>
     <message>
         <source>Switch Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить колонку</translation>
     </message>
     <message>
         <source>Switch Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить строку</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Тэг</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_data</name>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Clear Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить структуру</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"></translation>
+        <translation>Консолидировать</translation>
     </message>
     <message>
         <source>CustomSort</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательская сортировка</translation>
     </message>
     <message>
         <source>Data Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты работы с данными</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробные параметры</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторения</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Правка</translation>
     </message>
     <message>
         <source>Edit OLE DB Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Правка запросов OLE DB</translation>
     </message>
     <message>
         <source>External Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства диапазона внешних данных</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Формы</translation>
     </message>
     <message>
         <source>Get External Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить внешние данные</translation>
     </message>
     <message>
         <source>Goal Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>Подбор параметра</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть детали</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсветить повторения</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать данные</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Структура</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Сводная таблица</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить повторно</translation>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить все</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить данные</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Отклонить повторяющиеся элементы</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить повторения</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать детали</translation>
     </message>
     <message>
         <source>Solver</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Решатель</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировка</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по возрастанию</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по убыванию</translation>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>Промежуточный результат</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблицы</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст в колонки</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Разгруппировать</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Анализ &quot;Что если&quot;</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_design</name>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить стиль таблицы</translation>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры стиля таблицы</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Стили таблицы</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_developtools</name>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Флажок</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2988,79 +2987,79 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Комбинированный список</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Командная кнопка</translation>
     </message>
     <message>
         <source>Control List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список управляющих элементов</translation>
     </message>
     <message>
         <source>Control Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства элемента</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Элементы управления</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим моделирования</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти из режима моделирования</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <source>List Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка списка</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Макросы</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие управляющие элементы</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка выбора</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Полоса прокрутки</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Безопасность</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка прокрутки</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка переключения</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр кода</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -3071,505 +3070,506 @@ OLE DB Query</source>
     <name>ongmani.ct_developtools.Add-Ins</name>
     <message>
         <source>Add Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнения</translation>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнения</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_developtools.Add-Ins.COMAddIns</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнения</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,25 пт</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,5 пт</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,75 пт</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 пт</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5 пт</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2,25 пт</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 пт</translation>
     </message>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D вкл</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D вкл</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4,5 пт</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 пт</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по нижнему краю</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по середине</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по верхнему краю</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Упорядочить</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль стрелки 9</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Поместить вперёд</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Поместить на передний план</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Тире</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тире</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Тире-Точка</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Тире-Точка-Точка</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробные параметры</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Распределить по горизонтали</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Распределить по вертикали</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить точки контура</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять высоту</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять размер</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять ширину</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеркально по горизонтали</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеркально по вертикали</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет шрифта</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер шрифта</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование объекта</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Свободное вращение</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Градиент</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группировать</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить фигуры</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Образец строки</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль образца строки</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Длинное тире</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Длинное тире-точка</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие стрелки</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие заполнения цветом</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие цвета линии</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие линии</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Образец</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Вращение</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Вращать влево 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Вращать вправо 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Растровая точка</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Область выделения</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Поместить на задний план</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить назад</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation type="unfinished"></translation>
+        <translation>С тенью</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заполнить фигуру</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Контур фигуры</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер фигуры</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Стили фигуры</translation>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать сетку</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Привязка к сетке</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Сплошной</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадратная растровая точка</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстура</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчёркивание</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Разгруппировать</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Центровать по вертикали</translatorcomment>
+        <translation>Вертикально</translation>
     </message>
     <message>
         <source>Vertical Center</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>О Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление резервным копированием</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Поменять версию</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать CloudLink</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать название CloudLink</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Защита и свойства документа</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрование</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать в PDF</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратная связь</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратная связь и информация о продукции</translation>
     </message>
     <message>
         <source>File Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Сведения о файле</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помощь</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщество Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашняя страница Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office New Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Новые функции Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы Kingsoft Spreadsheet</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны Kingsoft Spreadsheet</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
+        <translation>KingsoftOffice</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы Microsoft Excel 2007-2010</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы Microsoft Excel 97-2003</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны Microsoft Excel 97-2003</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая книга</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая книга Excel 2007/2010</translation>
     </message>
     <message>
         <source>New Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая книга</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый из заданного шаблона</translation>
     </message>
     <message>
         <source>New from My Computer Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать из шаблона на компьютере</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый документ из онлайн шаблона</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3577,11 +3577,11 @@ On</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть из Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие форматы</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3593,23 +3593,23 @@ On</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр распределения продукции</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр управления продукцией</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Приобрести серийный номер</translation>
     </message>
     <message>
         <source>Reload Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить текстовый файл</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3621,192 +3621,192 @@ On</source>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить в Klive</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить копию документа</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Послать электронную почту</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Обучение онлайн</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить онлайн</translation>
     </message>
     <message>
         <source>User Feedback by mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратная связь через электронную почту</translation>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation type="unfinished"></translation>
+        <translation>Электронная доска объявлений WPS</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Микроблог WPS</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Spreadsheets Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помощь по Kingsoft Spreadsheet</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_formulas</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation type="unfinished"></translation>
+        <translation>Сумма</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Средний</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Посчитать лист</translation>
     </message>
     <message>
         <source>Calculation</source>
-        <translation type="unfinished"></translation>
+        <translation>Вычисление</translation>
     </message>
     <message>
         <source>Circular References</source>
-        <translation type="unfinished"></translation>
+        <translation>Циклические ссылки</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединения</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата/Время</translation>
     </message>
     <message>
         <source>Define Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать имя</translation>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Заданные имена</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить ссылки</translation>
     </message>
     <message>
         <source>Engineering</source>
-        <translation type="unfinished"></translation>
+        <translation>Разработка</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Вычислить формулу</translation>
     </message>
     <message>
         <source>Financial</source>
-        <translation type="unfinished"></translation>
+        <translation>Финансовые</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
-        <translation type="unfinished"></translation>
+        <translation>Контроль формул</translation>
     </message>
     <message>
         <source>Function Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека функций</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить функцию</translation>
     </message>
     <message>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>Логические</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск/Ссылка</translation>
     </message>
     <message>
         <source>Math/Trig</source>
-        <translation type="unfinished"></translation>
+        <translation>Мат./Триг.</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Мин</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие функции</translation>
     </message>
     <message>
         <source>Name Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Менеджер имен</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Recalculate Active Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Пересчитать активную книгу</translation>
     </message>
     <message>
         <source>Recently Used</source>
-        <translation type="unfinished"></translation>
+        <translation>Недавно использованые</translation>
     </message>
     <message>
         <source>Statistical</source>
-        <translation type="unfinished"></translation>
+        <translation>Статистические</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Сумма</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_home</name>
     <message>
         <source>Across Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Через листы</translation>
     </message>
     <message>
         <source>Advanced Filler</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширеный фильтр</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по нижнему краю</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -3818,39 +3818,39 @@ On</source>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по верхнему краю</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Все границы</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Угол по часовой стрелке</translation>
     </message>
     <message>
         <source>Angle Countclockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Угол против часовой стрелки</translation>
     </message>
     <message>
         <source>AutoFit Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто-выравнивание ширины колонок</translation>
     </message>
     <message>
         <source>AutoFit Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто-выравнивание высоты колонок</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation type="unfinished"></translation>
+        <translation>Автосумма</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -3858,23 +3858,23 @@ On</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Нижняя граница</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойная нижняя граница</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Ячейки</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -3882,11 +3882,11 @@ On</source>
     </message>
     <message>
         <source>Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина колонки</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Колонки</translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -3894,27 +3894,27 @@ On</source>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation type="unfinished"></translation>
+        <translation>С использованием запятой</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Комментарии</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Условное форматирование</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать текст в гиперссылку</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать текст в число</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3922,11 +3922,11 @@ On</source>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Вылютный</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3934,264 +3934,264 @@ On</source>
     </message>
     <message>
         <source>Decrease Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить разрядность</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить размер шрифта</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить отступ</translation>
     </message>
     <message>
         <source>Default Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина по умолчанию</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить лист</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробные параметры</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <source>Draw Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисовать границу</translation>
     </message>
     <message>
         <source>Draw Border Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисовать границы ячеек</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Исправления</translation>
     </message>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Стереть границу</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка цветом</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти/Заменить</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет шрифта</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер шрифта</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат по образцу</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Формулы</translation>
     </message>
     <message>
         <source>Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти</translation>
     </message>
     <message>
         <source>Hide Colums</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть колонки</translation>
     </message>
     <message>
         <source>Hide Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть строки</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть лист</translation>
     </message>
     <message>
         <source>Hide&amp;Unhide</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть/показать</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить разрядность</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить шрифт</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить отступ</translation>
     </message>
     <message>
         <source>Insert Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить ячейки</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить колонки</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить скопированые ячейки</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить вырезанные ячейки</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить строки</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить лист</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Присоединить и центровать</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Левый</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Левая граница</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет линии</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль линии</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокировать ячейку</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Максисум</translation>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation type="unfinished"></translation>
+        <translation>Сквозное объедининие</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Объединить ячейки</translation>
     </message>
     <message>
         <source>Merge&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Слить и центровать</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимум</translation>
     </message>
     <message>
         <source>More Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Еще границы</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Еще функции</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить или скопировать лист</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Без границы</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Число</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешние границы</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставка</translation>
     </message>
     <message>
         <source>Paste As Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить как неформатированныйтекст</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Специальная вставка</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить как изображение</translation>
     </message>
     <message>
         <source>Percent Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Процентный стиль</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Защита листа</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить повторно</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Справа</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Правая граница</translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
@@ -4203,122 +4203,122 @@ Center</source>
     </message>
     <message>
         <source>Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Высота строки</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Строки</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Строки/колонки</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить объекты</translation>
     </message>
     <message>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Последовательности</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировка</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировка по возрастанию</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по убыванию</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Стили</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Сумма</translation>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет вкладки</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Толстая нижняя граница</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Толстая граница вокруг</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхняя граница</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхняя и нижняя границы</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхняя и двойная нижняя граница</translation>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхняя и жирная нижняя граница</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчёркнутый</translation>
     </message>
     <message>
         <source>Unhide Colums</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать колонки</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать строки</translation>
     </message>
     <message>
         <source>Unhide Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать лист</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Наверх</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Значения</translation>
     </message>
     <message>
         <source>Vertical Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Центровка по вертикали</translation>
     </message>
     <message>
         <source>Vertical Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикальный текст</translation>
     </message>
     <message>
         <source>WorkSheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Лист</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенос текста</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_home.Alignment</name>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание</translation>
     </message>
 </context>
 <context>
@@ -12401,9 +12401,6 @@ The online gallery, included in the Kingsoft Office gallery, can be used when yo
     </message>
 </context>
 <context>
-    <name>tips.GoalSeek</name>
-</context>
-<context>
     <name>tips.Group</name>
     <message>
         <source>Group</source>
@@ -14261,11 +14258,11 @@ You can use this feature to view multiple distant panes of your worksheet at onc
     <name>tips.SwitchWindow</name>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти в другое окно</translation>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти в другое открытое окно.</translation>
     </message>
 </context>
 <context>
@@ -14285,22 +14282,24 @@ You can use this feature to view multiple distant panes of your worksheet at onc
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение цвета текста
+
+Нажмите стрелку чтобы выбрать другой цвет.</translation>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите стрелку чтобы выбрать другой цвет.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет текста</translation>
     </message>
 </context>
 <context>
     <name>tips.TextOrientation</name>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ориентация</translation>
     </message>
     <message>
         <source>Rotate text to a diagonal angle or vertical orientation.
@@ -14319,77 +14318,82 @@ Click the currently selected text orientation again to reset the text back to no
 For example, you can separate a column of full names into separate first and last name columns.
 
 In Writer, use this feature to convert the selected text into a table, splitting the text into columns at each comma, period, or other character you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделить содержимое ячеек листа на отдельные колонки.
+
+К примеру, вы можете разделить колонку  ФИО на отдельные колонки с фамилией, именем и отчеством.
+
+Во Writer эта возможность используется для преобразования выделенного текста в таблицу, разделения на колонки текста с разделителями.</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст в колонки</translation>
     </message>
 </context>
 <context>
     <name>tips.ThickBottomBorder</name>
     <message>
         <source>Add a thick bottom border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Жирная нижняя граница</translatorcomment>
+        <translation>Добавить жирную нижнюю границу к выделенным ячейкам.</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.ThickBoxBorder</name>
     <message>
         <source>Add a thick box border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить жирную границу вокруг выделенных ячеек.</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Жирная граница вокруг</translation>
     </message>
 </context>
 <context>
     <name>tips.TopAndBottomBorder</name>
     <message>
         <source>Add a top and bottom border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить вернюю и нижнюю границу к выделенным ячейкам.</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхняя и нижняя границы</translation>
     </message>
 </context>
 <context>
     <name>tips.TopAndDloubleBottomBorder</name>
     <message>
         <source>Add a top and double bottom border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить верхнюю границу и двойную нижнюю к выделенным ячейкам.</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхняя и двойная нижняя граница</translation>
     </message>
 </context>
 <context>
     <name>tips.TopAndThickBottomBorder</name>
     <message>
         <source>Add a top and thick bottom border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить верхнюю границу и жирную нижнюю границу к выделенным ячейкам.</translation>
     </message>
     <message>
         <source>Thick Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхняя и жирная нижняя граница</translation>
     </message>
 </context>
 <context>
     <name>tips.TopBorder</name>
     <message>
         <source>Add a top border to the selected cell(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить верхнюю границу к выделенным ячейкам.</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхняя граница</translation>
     </message>
 </context>
 <context>
@@ -14400,11 +14404,11 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Отслеживать изменения</translation>
     </message>
     <message>
         <source>Track all changes made to the document, including insertions, deletions, and formatting changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отслеживать все изменения зделаные в документе, включая вставку, удаление или изменения в форматировании.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/spreadsheets</source>
@@ -14437,44 +14441,44 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.Underline</name>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>Underline the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчекнуть выделенный текст.</translation>
     </message>
 </context>
 <context>
     <name>tips.VAlignBottom</name>
     <message>
         <source>Align text to the bottom of the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять текст по низу ячейки.</translation>
     </message>
     <message>
         <source>Bottom Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по низу</translation>
     </message>
 </context>
 <context>
     <name>tips.VAlignCenter</name>
     <message>
         <source>Align text so that it is centered between the top and bottom of the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять текст по середине ячейки по вертикали.</translation>
     </message>
     <message>
         <source>Middle Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по центру</translation>
     </message>
 </context>
 <context>
     <name>tips.VAlignTop</name>
     <message>
         <source>Align text to the top of the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять текст по верху ячейки.</translation>
     </message>
     <message>
         <source>Top Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по верху</translation>
     </message>
 </context>
 <context>
@@ -14504,11 +14508,11 @@ You can also force input to be chosen from a dropdown list of values you specify
     <name>tips.VerticalText</name>
     <message>
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разместить текст вертикально, расположив буквы одна над другой.</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикальный фигурный текст</translation>
     </message>
 </context>
 <context>
@@ -14567,24 +14571,26 @@ You can also force input to be chosen from a dropdown list of values you specify
     <name>tips.WordArtFillColor</name>
     <message>
         <source>Click the arrow to fill the WordArt in different ways.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите стрелку, чтобы использовать другую заливку для фигурного текста.</translation>
     </message>
     <message>
         <source>Fill the selected WordArt with a solid color, gradient, texture and picture.
 
 Click the arrow to fill the WordArt in different ways.</source>
-        <translation type="unfinished"></translation>
+        <translation>Залейте выделенный фигурный текст сплошным цветом, градиентом, текстурой или изображением.
+
+Нажмите стрелку, чтобы использовать другую заливку для фигурного текста.</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка фигурного текста</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtGallery</name>
     <message>
         <source>Change the style of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Измените стиль выбранного фигурного текста.</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -14595,61 +14601,63 @@ Click the arrow to fill the WordArt in different ways.</source>
     <name>tips.WordArtLineColor</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на стрелку, чтобы выбрать другой стиль обводки.</translation>
     </message>
     <message>
         <source>Specify the color, width and line style for the outline of the selected WordArt.
 
 Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите цвет, ширину и стиль обводки выделенного фигурного текста.
+
+Нажмите на стрелку, чтобы выбрать другой стиль обводки.</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обводка фигурного текста</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>Change the shape style of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение формы выбраного фигурного текста.</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма фигурного текста</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка размера, угла поворота и масштаба выбраного фигурного текста.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер фигурного текста</translation>
     </message>
 </context>
 <context>
     <name>tips.WorkSheet</name>
     <message>
         <source>Click here to modify the worksheet. You can insert or delete the worksheet, change the worksheet name, or change the color of the worksheet tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щекните здесь, чтобы управлять листами. Вы можете добавлять или удалять листы, а так же изменять цвета вкладок.</translation>
     </message>
     <message>
         <source>Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Лист</translation>
     </message>
 </context>
 <context>
     <name>tips.WorkSpace_Backup</name>
     <message>
         <source>WorkSpace_Backup Content</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -14658,7 +14666,9 @@ Click the arrow to choose more outline styles.</source>
         <source>Open the Zoom dialog box to specify the zoom level of the document. 
 
 In most cases, you can also use the zoom controls in the status bar at the bottom of the window to quickly zoom the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите масштаб отображения документа в диалоге.
+
+В большинстве случаев, для быстрого изменения масштаба документа, достаточно воспользоваться ползунком внизу окна.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -14669,33 +14679,33 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <name>tips.m_Format</name>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование</translation>
     </message>
     <message>
         <source>Quickly format a range of cells and convert it to a Table by choosing a pre-defined Table Style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое форматирование выделенной области ячеек и преобразование их в таблицу с заданным стилевым оформлением.</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_AutoSum</name>
     <message>
         <source>Click here to display the result of a simple calculation, such as Average or Maximum value, after the selected cells.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Щелкните здесь, чтобы посмотреть результат простых вычислений, таки как Среднее значение или Максимальное значение, после выделенных ячеек.</translation>
     </message>
     <message>
         <source>Display the sum of the selected cells directly after the selected cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывает сумму выделенных ячеек, непосредственно за ними.</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Сумма</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation>Щёлкните здесь, чтобы посмотреть дополнительные параметры, такие как вставка из буфера обмена только значений.</translation>
+        <translation>Щёлкните здесь для выбора других функций, таких как, вставка из буфера  только значений или форматирование.</translation>
     </message>
     <message>
         <source>Paste</source>

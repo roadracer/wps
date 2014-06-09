@@ -5,211 +5,211 @@
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробная версия</translation>
     </message>
 </context>
 <context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
 </context>
 <context>
     <name>KColorCtrl</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Без цвета</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Больше цветов</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Заполнить эффектами...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Фон</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Тип линий</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Черный</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Коричневый</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Оливково-зеленый</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-зеленый</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-бирюзовый</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-синий</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Индиго</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>80%-ный Серый</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-красный</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Оранжевый</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-желтый</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеленый</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Бирюзовый</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Синий</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Серо-синий</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>50%-ный серый</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Красный</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-Оранжевый</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Лайм</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Морской</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет воды</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-синий</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиолетовый</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>40%-ный Серый</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Розовый</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Золотой</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Желтый</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярко-зеленый</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Бирюзовый</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Небесно-синий</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Сливовый</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>25%-ный Серый</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет розы</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation>Желтовато-коричневый</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-желтый</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-зеленый</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-бирюзовый</translation>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Бледно-синий</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Лавандовый</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Белый</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Не определено</translation>
     </message>
     <message>
-        <source>Undefined Widget</source>
+        <source>Неизвестный виджет</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -217,144 +217,144 @@
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить быстрый доступ</translation>
     </message>
     <message>
         <source>Add to</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Скрыть быстрый доступ</translation>
     </message>
 </context>
 <context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>KMDIMaximizeCommand</name>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Развернуть</translation>
     </message>
 </context>
 <context>
     <name>KMDIMinimizeCommand</name>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть</translation>
     </message>
 </context>
 <context>
     <name>KMDINextCommand</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Далее</translation>
     </message>
 </context>
 <context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить</translation>
     </message>
 </context>
 <context>
     <name>KMainWindow</name>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ра&amp;звернуть</translation>
     </message>
     <message>
         <source>Unma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Вер&amp;нуть</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Све&amp;рнуть</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выход</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать системный &amp;заголовок</translation>
     </message>
 </context>
 <context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Текст </translation>
     </message>
 </context>
 <context>
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock включен.</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Включенный CapsLock может привести к неправильному вводу пароля.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перед вводом пароля выключите &quot;Caps Lock&quot;</translation>
     </message>
     <message>
         <source>Not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не поддерживается</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не можете копировать из поля ввода пароля.</translation>
     </message>
 </context>
 <context>
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить с панели быстрого доступа</translation>
     </message>
     <message>
         <source>&amp;Show quick access</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Показать Быстрый доступ</translation>
     </message>
     <message>
         <source>More commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Остальные команды</translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Unfixed from the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Открепленный от списка</translation>
     </message>
     <message>
         <source>Clear All Fixed Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить все прикрепленные файлы</translation>
     </message>
     <message>
         <source>Fixed to the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Прикрепленный к списку</translation>
     </message>
     <message>
         <source>Clear All Unfixed Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить все не прикрепленные файлы</translation>
     </message>
 </context>
 <context>
     <name>KSystemMenuCommand</name>
     <message>
         <source>System Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Системное меню</translation>
     </message>
 </context>
 <context>
@@ -413,64 +413,64 @@ multiple=multiple
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вводимое значение должно быть между %1 и %2.</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверное целочисленное.</translation>
     </message>
 </context>
 <context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вводимое значение должно быть между %1 и %2.</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверное целочисленное.</translation>
     </message>
 </context>
 <context>
     <name>QMainWindow</name>
     <message>
         <source>Previous Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущий документ</translation>
     </message>
     <message>
         <source>Next Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий документ</translation>
     </message>
     <message>
         <source>Document List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список документов</translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Развернуть</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -481,11 +481,11 @@ multiple=multiple
     </message>
     <message>
         <source>NumLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: Включен</translation>
     </message>
     <message>
         <source>NumLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: Выключен</translation>
     </message>
     <message>
         <source>Caps Lock</source>
@@ -493,39 +493,39 @@ multiple=multiple
     </message>
     <message>
         <source>CapsLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>CapsLock: Включен</translation>
     </message>
     <message>
         <source>CapsLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>CapsLock: Выключен</translation>
     </message>
     <message>
         <source>OverWrite</source>
-        <translation type="unfinished"></translation>
+        <translation>Переписать</translation>
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить запись</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished"></translation>
+        <translation>Переслать документы:</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить из списка</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить всё</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку</translation>
     </message>
 </context>
 </TS>

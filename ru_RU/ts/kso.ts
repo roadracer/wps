@@ -2396,7 +2396,7 @@ File: %s
     </message>
     <message>
         <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
-        <translation>Предупреждение: Эта компьютерная программа защищена законом об авторском праве и международными договорами. Несанкционированное воспроизведение или распространение этой программы или любой ее части, может повлечь за собой гражданскую и уголовную ответственность, и будут преследоваться по максимально возможной степени в соответствии с законом.</translation>
+        <translation>Предупреждение: эта компьютерная программа защищена законом об авторских правах и международными договорами. Несанкционированное воспроизведение или распространение этой программы или любой ее части может повлечь за собой гражданскую и уголовную ответственность и преследуется в соответствии с законом.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has encountered a problem and needs to close.</source>
@@ -2531,32 +2531,32 @@ File: %s
     <message>
         <source> Professional</source>
         <comment>versionType</comment>
-        <translation>Профессиональная</translation>
+        <translation> Профессиональная</translation>
     </message>
     <message>
         <source> Persional</source>
         <comment>versionType</comment>
-        <translation>Персональная</translation>
+        <translation> Персональная</translation>
     </message>
     <message>
         <source> Development</source>
         <comment>versionType</comment>
-        <translation>Для разработчиков</translation>
+        <translation> Для разработчиков</translation>
     </message>
     <message>
         <source> OEM</source>
         <comment>versionType</comment>
-        <translation>OEM</translation>
+        <translation> OEM</translation>
     </message>
     <message>
         <source> Education</source>
         <comment>versionType</comment>
-        <translation>Образовательная</translation>
+        <translation> Образовательная</translation>
     </message>
     <message>
         <source> Community</source>
         <comment>versionType</comment>
-        <translation>Сообщества</translation>
+        <translation> Сообщество</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
