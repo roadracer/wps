@@ -1085,7 +1085,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Chevron</source>
-        <translation>Нашивка</translation>
+        <translation>Угол</translation>
     </message>
     <message>
         <source>Regular Pentagon</source>
@@ -1425,11 +1425,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Chevron</source>
-        <translation>Нашивка</translation>
+        <translation>Угол вверх</translation>
     </message>
     <message>
         <source>WordArt: Chevron Inverted</source>
-        <translation>Перевёрнутая нашивка</translation>
+        <translation>Угол вниз</translation>
     </message>
     <message>
         <source>WordArt: Ring Inside</source>
@@ -1441,35 +1441,35 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
-        <translation>Дуга вверх (кривая)</translation>
+        <translation>Дуга вверх (обычная)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
-        <translation>Дуга вниз (кривая)</translation>
+        <translation>Дуга вниз (обычная)</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
-        <translation type="unfinished">Окружность (кривая)</translation>
+        <translation type="unfinished">Окружность (обычная)</translation>
     </message>
     <message>
         <source>WordArt: Button Curve</source>
-        <translation>Кнопка (кривая)</translation>
+        <translation>Кнопка (обычная)</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Pour</source>
-        <translation>Дуга вверх (заливка)</translation>
+        <translation>Дуга вверх (утолщённая)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
-        <translation>Дуга вниз (заливка)</translation>
+        <translation>Дуга вниз (утолщённая)</translation>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
-        <translation>Окружность (заливка)</translation>
+        <translation>Окружность (утолщённая)</translation>
     </message>
     <message>
         <source>WordArt: Button Pour</source>
-        <translation>Кнопка (заливка)</translation>
+        <translation>Кнопка (утолщённая)</translation>
     </message>
     <message>
         <source>WordArt: Curve Up</source>
@@ -1481,11 +1481,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
-        <translation>Каскадом вверх</translation>
+        <translation>Каскад вверх</translation>
     </message>
     <message>
         <source>WordArt: Cascade Down</source>
-        <translation>Каскадом вниз</translation>
+        <translation>Каскад вниз</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
@@ -1553,11 +1553,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Can Up</source>
-        <translation>Дном вверх</translation>
+        <translation>Изгиб вверх</translation>
     </message>
     <message>
         <source>WordArt: Can Down</source>
-        <translation>Дном вниз</translation>
+        <translation>Изгиб вниз</translation>
     </message>
     <message>
         <source>Flowchart: Alternate Process</source>

@@ -6622,7 +6622,7 @@ On/Off</source>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation></translation>
+        <translation>Каркас</translation>
     </message>
 </context>
 <context>
@@ -6727,11 +6727,11 @@ On</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Кнопка (Кривая)</translation>
+        <translation>Кнопка (обычная)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Кнопка (Заливка)</translation>
+        <translation>Кнопка (утолщённая)</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -6767,19 +6767,19 @@ On</source>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation>Шеврон вниз</translation>
+        <translation>Угол вниз</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation>Шеврон вверх</translation>
+        <translation>Угол вверх</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation>Окружность (Кривая)</translation>
+        <translation>Окружность (обычная)</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation>Окружность (Заливка)</translation>
+        <translation>Окружность (утолщённая)</translation>
     </message>
     <message>
         <source>Curve Down</source>
