@@ -3455,7 +3455,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation>Заливка символа</translation>
+        <translation>Заливка знака</translation>
     </message>
     <message>
         <source>Character Scaling</source>
@@ -3871,7 +3871,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>Цвет затенения фона</translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
@@ -3931,11 +3931,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation>Нельзя отменить</translation>
+        <translation>Невозможно отменить</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation>Нельзя вернуть</translation>
+        <translation>Невозможно вернуть</translation>
     </message>
     <message>
         <source>Undo</source>
