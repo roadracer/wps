@@ -2539,7 +2539,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Margin</source>
-        <translation>&amp;Поле</translation>
+        <translation>&amp;Буквица на поле</translation>
     </message>
     <message>
         <source>Options</source>

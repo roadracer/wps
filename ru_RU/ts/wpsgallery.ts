@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>From:</source>
-        <translation>Из:</translation>
+        <translation>От:</translation>
     </message>
     <message>
         <source>Text</source>

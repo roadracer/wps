@@ -5,11 +5,11 @@
     <name>api_err</name>
     <message>
         <source>No Item In Collection</source>
-        <translation>Нет пункта в коллекции</translation>
+        <translation>Элемент коллекции отсутствует</translation>
     </message>
     <message>
         <source>Object Deleted</source>
-        <translation>Объект удален</translation>
+        <translation>Объект удалён</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
@@ -39,15 +39,17 @@
         <source>Temporary directory does not exist or failed to create temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation>Временный каталог не существует или не удалось создать временный каталог.
+        <translation>Временный каталог не существует или не удалось создать.
 
-Пожалуйста, проверьте настройки системы, убедитесь в наличии временной директории и перезагрузите Kingsoft Office.</translation>
+Проверьте настройки системы, убедитесь в наличии прав доступа к временному каталогу для текущего пользователя и перезагрузите Kingsoft Office.</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
-        <translation>Текущий пользователь не имеет прав на запись во временном каталоге. Убедитесь в наличии прав доступа к временной директории и перезапустите Kingsoft Office.</translation>
+        <translation>Текущий пользователь не имеет прав на запись во временный каталог.
+
+Проверьте настройки системы, убедитесь в наличии прав доступа к временному каталогу для текущего пользователя и перезагрузите Kingsoft Office.</translation>
     </message>
 </context>
 <context>
@@ -62,11 +64,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Data of Kingsoft Writer</source>
-        <translation>Документ Kingsoft Writer</translation>
+        <translation>Данные Kingsoft Writer</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Writer.</source>
-        <translation>Содержимое буфера обмена будет вставлено как Документ Kingsoft Writer.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как данные Kingsoft Writer.</translation>
     </message>
     <message>
         <source>Лист Kingsoft Spreadsheets</source>
@@ -74,55 +76,55 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Spreadsheets.</source>
-        <translation>Содержимое буфера обмена будет вставлено как Лист Kingsoft Spreadsheets.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как данные Kingsoft Spreadsheets.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Presentation</source>
-        <translation>Презентация Kingsoft Presentation</translation>
+        <translation>Данные Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation.</source>
-        <translation>Содержимое буфера обмена будет вставлено как Презентация Kingsoft Presentation.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как данные Kingsoft Presentation.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Mail</source>
-        <translation>Письмо Kingsoft Mail</translation>
+        <translation>Данные Kingsoft Mail</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Mail.</source>
-        <translation>Содержимое буфера обмена будет вставлено как Письмо Kingsoft Mail.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как данные Kingsoft Mail.</translation>
     </message>
     <message>
         <source>Data of WPS Drawing</source>
-        <translation>Рисунок WPS Drawing</translation>
+        <translation>Данные WPS Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
-        <translation>Содержимое буфера обмена будет вставлено как Рисунок Kingsoft Drawing.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как данные Kingsoft Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
-        <translation>%s Объект</translation>
+        <translation>%s объект</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
-        <translation>Содержимое буфера обмена будет вставлено как OLE Объект.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как объект OLE.</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
-        <translation>Рисунок (Windows Metafile)</translation>
+        <translation>Рисунок (метафайл Windows)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
-        <translation>Содержимое буфера обмена будет вставлено как Рисунок (Windows Metafile).</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок (метафайл Windows).</translation>
     </message>
     <message>
         <source>Picture (Enhanced Metafile)</source>
-        <translation>Рисунок (Enhanced Metafile)</translation>
+        <translation>Метафайл Windows (EMF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an enhanced metafile.</source>
-        <translation>Содержимое буфера обмена будет вставлено как расширенный метафайл (Enhanced Metafile).</translation>
+        <translation>Содержимое буфера обмена будет вставлено как Метафайл Windows (EMF).</translation>
     </message>
     <message>
         <source>Picture (PNG)</source>
@@ -130,7 +132,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
-        <translation>Содержимое буфера обмена будет вставлено как PNG рисунок.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок PNG.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
@@ -138,7 +140,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
-        <translation>Содержимое буфера обмена будет вставлено как JFIF рисунок.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок JFIF.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
@@ -146,7 +148,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
-        <translation>Содержимое буфера обмена будет вставлено как GIF рисунок.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок GIF.</translation>
     </message>
     <message>
         <source>Bitmap</source>
@@ -158,7 +160,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Device Independent Bitmap</source>
-        <translation>аппаратно-независимый растр</translation>
+        <translation>Аппаратно-независимый рисунок</translation>
     </message>
     <message>
         <source>Picture (JPG)</source>
@@ -166,58 +168,58 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPEG picture.</source>
-        <translation>Содержимое буфера обмена будет вставлено как JPEG рисунок.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок JPEG.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
-        <translation>Форматированный Текст (RTF)</translation>
+        <translation>Текст в формате RTF</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text with font and table formatting.</source>
-        <translation>Содержимое буфера обмена будет вставлено в виде текста с шрифтами и таблицами форматирования.</translation>
+        <translation>Содержимое буфера обмена будет вставлено в виде текста со шрифтом и таблицей форматирования.</translation>
     </message>
     <message>
         <source>HTML Format</source>
-        <translation>HTML Формат</translation>
+        <translation>Формат HTML</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
-        <translation>Содержимое буфера обмена будет вставлено в виде HTML форматирования.</translation>
+        <translation>Содержимое буфера обмена будет вставлено в виде формата HTML.</translation>
     </message>
     <message>
         <source>MS Office Drawing Object</source>
-        <translation>Рисунок MS Office</translation>
+        <translation>Графический объект MS Office</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Office Drawing.</source>
-        <translation>Содержимое буфера обмена будет вставлено в виде Рисунка Майкрософт Офиса.</translation>
+        <translation>Содержимое буфера обмена будет вставлено в виде графического объекта MS Office.</translation>
     </message>
     <message>
         <source>FILES</source>
-        <translation>Файл снимка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
-        <translation>Содержимое буфера обмена будет вставлено в виде Файл снимка.</translation>
+        <translation>Содержимое буфера обмена будет вставлено в виде формата FILES.</translation>
     </message>
 </context>
 <context>
     <name>dguil</name>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation>Все Изображения(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation>Все изображения(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation>Windows Enhanced Metafile(*.emf)|*.emf</translation>
+        <translation>Метафайл Windows (EMF)(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation>Windows Metafile(*.wmf)|*.wmf</translation>
+        <translation>Метафайл Windows(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
+        <translation>JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
@@ -225,7 +227,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation>Windows Bitmap(*.bmp)|*.bmp</translation>
+        <translation>Точечный рисунок(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
@@ -241,63 +243,64 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert AutoShape</source>
-        <translation>Вставить Автофигуру</translation>
+        <translation>Вставить автофигуру</translation>
     </message>
     <message>
         <source>Insert Connector</source>
+        <translatorcomment>Вставить соединительную линию</translatorcomment>
         <translation>Вставить Конектор</translation>
     </message>
     <message>
         <source>Insert Line</source>
-        <translation>Вставить Линию</translation>
+        <translation>Вставить линию</translation>
     </message>
     <message>
         <source>Insert Arrow</source>
-        <translation>Вставить Стрелку</translation>
+        <translation>Вставить стрелку</translation>
     </message>
     <message>
         <source>Insert Curve</source>
-        <translation>Вставить Кривую</translation>
+        <translation>Проведение кривой</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
-        <translation>Вставить Свободную форму</translation>
+        <translation>Проведение полилинии</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
-        <translation>Вставить &quot;неразборчивый подчерк&quot;</translation>
+        <translation>Проведение рисованной кривой</translation>
     </message>
     <message>
         <source>Change Freeform Point</source>
-        <translation>Изменить точку на Свободной форме</translation>
+        <translation>Изменение узла полилинии</translation>
     </message>
     <message>
         <source>Insert Freeform Point</source>
-        <translation>Вставить точку на Свободной форме</translation>
+        <translation>Добавление узла полилинии</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
-        <translation>Удалить точку на Свободной форме</translation>
+        <translation>Удаление узла полилинии</translation>
     </message>
     <message>
         <source>Paste Format</source>
-        <translation>Вставить Формат</translation>
+        <translation>Вставить формат</translation>
     </message>
     <message>
         <source>Rotate Object</source>
-        <translation>Повернуть Объект</translation>
+        <translation>Повернуть объект</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation>Переместить Объект</translation>
+        <translation>Переместить объект</translation>
     </message>
     <message>
         <source>Resize Object</source>
-        <translation>Изменить размер Объекта</translation>
+        <translation>Изменение размеров объекта</translation>
     </message>
     <message>
         <source>Adjust Object</source>
-        <translation>Изменить Объект</translation>
+        <translation>Изменение формы объекта</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -305,19 +308,19 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Make Same Height</source>
-        <translation>Установить Одинаковую высоту</translation>
+        <translation>Установить одинаковую высоту</translation>
     </message>
     <message>
         <source>Make Same Width</source>
-        <translation>Установить Одинаковую ширину</translation>
+        <translation>Установить одинаковую ширину</translation>
     </message>
     <message>
         <source>Make Same Size</source>
-        <translation>Установить Одинаковый размер</translation>
+        <translation>Установить одинаковый размер</translation>
     </message>
     <message>
         <source>Group </source>
-        <translation>Сгруппировать </translation>
+        <translation>Группировать </translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -329,7 +332,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>Поместить на передний план</translation>
+        <translation>На передний план</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -337,7 +340,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Поместить вперёд</translation>
+        <translation>Переместить вперед</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -345,7 +348,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Nudge Object</source>
-        <translation>Сдвинуть объект</translation>
+        <translation>Сдвиг объекта</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -401,7 +404,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Reroute Connectors</source>
-        <translation>Перенаправить соединения</translation>
+        <translation>Спрямить соединения</translation>
     </message>
     <message>
         <source>Change Points</source>
@@ -413,15 +416,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>Сохраить исходное состояние автофигуры </translation>
+        <translation>По умолчанию для автофигур </translation>
     </message>
     <message>
         <source>Select Multiple Objects</source>
-        <translation>Выбрать несколько объектов</translation>
+        <translation>Выделить несколько объектов</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Выбрать объекты</translation>
+        <translation>Выделить объекты</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
@@ -429,15 +432,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Заполнение цветом</translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation>Эффекты заполнения</translation>
+        <translation>Способы заливки</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
-        <translation>Последний Цвет линии</translation>
+        <translation>Последний цвет линии</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -445,7 +448,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -469,11 +472,11 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Toggle Shadow</source>
-        <translation>Изменить тень</translation>
+        <translation>Переключение тени</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
-        <translation>Сдвинуть тень</translation>
+        <translation>Сдвиг тени</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -489,35 +492,35 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>3-D</source>
-        <translation>3D-эффект</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Toggle 3-D</source>
-        <translation>Изменить 3D-эффект</translation>
+        <translation>Переключить 3D</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
-        <translation>Повернуть 3D-эффект</translation>
+        <translation>Повернуть 3D</translation>
     </message>
     <message>
         <source>Custom 3-D</source>
-        <translation>Настроить 3D-эффект</translation>
+        <translation>Настроить 3D</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D цвет</translation>
+        <translation>Цвет 3-D</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation>pt</translation>
+        <translation>пт</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation>Открыть путь</translation>
+        <translation>Разомкнуть кривую</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation>Закрыть путь</translation>
+        <translation>Замкнуть кривую</translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -533,7 +536,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation>Сегмент кривой</translation>
+        <translation>Искривленный сегмент</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -561,14 +564,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation>Соединительная прямая</translation>
+        <translation>Прямое соединение</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation>Угловое соединение</translation>
+        <translation>Соединительная линия уступом</translation>
     </message>
     <message>
         <source>Curved Connector</source>
+        <translatorcomment>Криволинейное соединение</translatorcomment>
         <translation>Соединительная кривая</translation>
     </message>
     <message>
@@ -589,7 +593,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Exit Rotate Mode</source>
-        <translation>Выйти из режима</translation>
+        <translation>Завершить режим поворота</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -617,27 +621,27 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Left Align</source>
-        <translation>Выравнивание по левому краю</translation>
+        <translation>По левому краю</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Выровнять по центру</translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>Выравнивание по правому краю</translation>
+        <translation>По правому краю</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>Выровнять слова по ширине</translation>
+        <translation>Выровнять по обоим краям</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>Выровнять символы по ширине</translation>
+        <translation>Выровнять за счет интервалов</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>Растянуть с выравниванием по ширине</translation>
+        <translation>Выровнять за счет ширины</translation>
     </message>
     <message>
         <source>Very Tight</source>
@@ -665,7 +669,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Kern Character Pairs</source>
-        <translation>Интервал</translation>
+        <translation>Кернинг пар знаков</translation>
     </message>
     <message>
         <source>More AutoShapes</source>
@@ -681,27 +685,27 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Insert Text Box</source>
-        <translation>Вставить поле для текста</translation>
+        <translation>Вставить текстовое поле</translation>
     </message>
     <message>
         <source>Insert Vertical Text Box</source>
-        <translation>Вставить вертикальное поле для текста</translation>
+        <translation>Вставить вертикальное текстовое поле</translation>
     </message>
     <message>
         <source>Insert Diagram or Organization Chart</source>
-        <translation>Вставить диаграмму или график</translation>
+        <translation>Добавить диаграмму или организационную диаграмму</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>Вставить клипарт</translation>
+        <translation>Вставить клип</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
-        <translation>Вставить OLE объект</translation>
+        <translation>Вставить объект OLE</translation>
     </message>
     <message>
         <source>Edit OLE Object</source>
-        <translation>Редактировать OLE объект</translation>
+        <translation>Изменить объект OLE</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -717,7 +721,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Update Link</source>
-        <translation>Обновить ссылку</translation>
+        <translation>Обновить связь</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -733,15 +737,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>The value must be between 0% and 500%.</source>
-        <translation>Значение должно быть между 0% и 500%.</translation>
+        <translation>Значение должно быть в интервале между 0% и 500%.</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Очистить форматирование</translation>
+        <translation>Формат по образцу</translation>
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
-        <translation>Значение должно быть между -600pt и 9600pt.</translation>
+        <translation>Значение должно быть в интервале между 600pt и 9600pt.</translation>
     </message>
     <message>
         <source>Color</source>
@@ -777,19 +781,19 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation>Kingsoft Writer</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation>Kingsoft Presentation</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Insert Control</source>
-        <translation>Вставить управление</translation>
+        <translation>Вставить элемент управления</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -798,7 +802,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation>Изображение слишком большое. Пожалуйста сожмите его для сохранения на диске. Помните, что сжатое изображение может отличаться по качеству от вашего. Действительно сжать изображение ?</translation>
+        <translation>Изображение слишком велико. Можно применить сжатие для экономии дискового пространства, но сжатие может ухудшить качество изображения. Хотитет сжать изображение ?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
@@ -806,15 +810,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Режим моделирования</translation>
+        <translation>Режим конструктора</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation>Выйти из режима моделирования</translation>
+        <translation>Выйти из режима конструктора</translation>
     </message>
     <message>
         <source>Controls</source>
-        <translation>Управление</translation>
+        <translation>Элементы управления</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
@@ -826,7 +830,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>The server application, source file, or item can&apos;t be found, or returned an unknown error. You may need to reinstall the server application</source>
-        <translation>Серверное приложение, исходный файл или элемент не может быть найден, или возвратил неизвестную ошибку. Возможно, вам придется переустановить приложение-сервер</translation>
+        <translation>Серверное приложение, исходный файл или элемент не найден или возвратил неизвестную ошибку. Возможно нужно переустановить серверное приложение.</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -842,7 +846,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
-        <translation>Невозможно сохранить как изображение, неподдерживаемый формат.</translation>
+        <translation>Ошибка сохранения как изображение, неподдерживаемый формат.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -850,7 +854,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Translate</source>
-        <translation>Перевести</translation>
+        <translation type="unfinished">Преобразовать</translation>
     </message>
     <message>
         <source>Search</source>
@@ -858,31 +862,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer, please make sure it&apos;s safe before continuing. Do you want to continue?</source>
-        <translation>Вы собираетесь активировать внедренный объект, который может содержать вирусы или повредить ваш компьютер, убедитесь, что это безопасно, прежде чем продолжить. Хотите продолжить?</translation>
+        <translation>Вы собираетесь активировать внедренный объект, который может содержать вирусы или повредить ваш компьютер.  Прежде, чем продолжить, убедитесь в его безопасности. Хотите продолжить?</translation>
     </message>
     <message>
         <source>Cannot create the object, please make sure the object has been registered in the Registry.</source>
-        <translation>Невозможно создать объект, пожалуйста убедитесь что он зарегестрирован в Библиотеке.</translation>
+        <translation>Ошибка создания объекта. Убедитесь, что он зарегистрирован в Реестре.</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
-        <translation>Объект поврежден или может больше использоваться.</translation>
+        <translation>Ошибка объекта или невозможность использования.</translation>
     </message>
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
-        <translation>Не удается создать объект, возможно файл используется. Пожалуйста, закройте файл и попробуйте вставить объект снова.</translation>
+        <translation>Ошибка создания объекта, возможно файл уже используется. Закройте файл и попробуйте повторно вставить объект.</translation>
     </message>
     <message>
         <source>Kingsoft Office can not start the source application of the object.</source>
-        <translation>Kingsoft Office не может запустить исходное приложение объекта.</translation>
+        <translation type="unfinished">Kingsoft Office не может запустить исходное приложение объекта.</translation>
     </message>
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
-        <translation>Не удается воспроизвести указанный файл на указанном устройстве. Файл может быть поврежден или имеет неправильный формат, или нет обработчика файла, доступного для этого формата.</translation>
+        <translation>Ошибка воспроизведения файла на указанном устройстве. Повреждение, неправильный формат или невозможность обработки данного файла.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
-        <translation>Невозможно найти указанный файл, пожалуйста, убедитесь, что путь и имя файла верны.</translation>
+        <translation>Ошибка поиска файла. Убедитесь в правильности пути и имени файла</translation>
     </message>
 </context>
 <context>
@@ -893,7 +897,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Rounded Rectangle</source>
-        <translation>Прямоугольник с закругленными углами</translation>
+        <translation>Скругленный прямоугольник</translation>
     </message>
     <message>
         <source>Oval</source>
@@ -929,11 +933,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cross</source>
-        <translation>Крест</translation>
+        <translation>Пересечение</translation>
     </message>
     <message>
         <source>5-Point Star</source>
-        <translation>5-ти конечная звезда</translation>
+        <translation>5 конечная звезда</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -953,7 +957,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Balloon</source>
-        <translation>Воздушный шар</translation>
+        <translation>Шар</translation>
     </message>
     <message>
         <source>Star</source>
@@ -969,11 +973,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Plaque</source>
-        <translation>Бляшка</translation>
+        <translation>Табличка</translation>
     </message>
     <message>
         <source>Can</source>
-        <translation>Ведро</translation>
+        <translation>Банка</translation>
     </message>
     <message>
         <source>Donut</source>
@@ -981,71 +985,71 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>WordArt: Simple Text</source>
-        <translation>WordArt: Простой текст</translation>
+        <translation>Простой текст</translation>
     </message>
     <message>
         <source>WordArt: Hexagon</source>
-        <translation>WordArt: Шестиугольник</translation>
+        <translation>Шестиугольник</translation>
     </message>
     <message>
         <source>WordArt: Pentagon</source>
-        <translation>WordArt: Пятиугольник</translation>
+        <translation>Пятиугольник</translation>
     </message>
     <message>
         <source>WordArt: Curve</source>
-        <translation>WordArt: Кривая</translation>
+        <translation>Кривая</translation>
     </message>
     <message>
         <source>WordArt: Wave</source>
-        <translation>WordArt: Волна</translation>
+        <translation>Волна</translation>
     </message>
     <message>
         <source>WordArt: Donought</source>
-        <translation>WordArt: Кольцо</translation>
+        <translation>Кольцо</translation>
     </message>
     <message>
         <source>WordArt: Curve2</source>
-        <translation>WordArt: Кривая 2</translation>
+        <translation>Кривая 2</translation>
     </message>
     <message>
         <source>WordArt: Circle</source>
-        <translation>WordArt: Круг</translation>
+        <translation>Окружность</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation>Соединительная прямая</translation>
+        <translation>Прямое соединение</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation>Угловое соединение</translation>
+        <translation>Соединительная линия уступом</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation>Соединительная кривая</translation>
+        <translation>Криволинейное соединение</translation>
     </message>
     <message>
         <source>Line Callout 2 (No Border)</source>
-        <translation>Выноска 2 (Без границ)</translation>
+        <translation>Выноска 2 (без границы)</translation>
     </message>
     <message>
         <source>Line Callout 3 (No Border)</source>
-        <translation>Выноска 3 (Без границ)</translation>
+        <translation>Выноска 3 (без границы)</translation>
     </message>
     <message>
         <source>Line Callout 4 (No Border)</source>
-        <translation>Выноска 4 (Без границ)</translation>
+        <translation>Выноска 4 (без границы)</translation>
     </message>
     <message>
         <source>Line Callout 2 (Border and Accent Bar)</source>
-        <translation>Выноска 2 (Граница и черта)</translation>
+        <translation>Выноска 2 (с границей и чертой)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Border and Accent Bar)</source>
-        <translation>Выноска 3 (Граница и черта)</translation>
+        <translation>Выноска 3 (с границей и чертой)</translation>
     </message>
     <message>
         <source>Line Callout 4 (Border and Accent Bar)</source>
-        <translation>Выноска 4 (Граница и черта)</translation>
+        <translation>Выноска 4 (с границей и чертой)</translation>
     </message>
     <message>
         <source>Line Callout 2</source>
@@ -1061,15 +1065,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Line Callout 2 (Accent Bar)</source>
-        <translation>Выноска 2 (С границей)</translation>
+        <translation>Выноска 2 (с чертой)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Accent Bar)</source>
-        <translation>Выноска 3 (С границей)</translation>
+        <translation>Выноска 3 (с чертой)</translation>
     </message>
     <message>
         <source>Line Callout 4 (Accent Bar)</source>
-        <translation>Выноска 4 (С границей)</translation>
+        <translation>Выноска 4 (с чертой)</translation>
     </message>
     <message>
         <source>Down Ribbon</source>
@@ -1081,7 +1085,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Chevron</source>
-        <translation>Нашивка</translation>
+        <translation>Угол</translation>
     </message>
     <message>
         <source>Regular Pentagon</source>
@@ -1105,11 +1109,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Rectangular Callout</source>
-        <translation>Квадратная выноска</translation>
+        <translation>Прямоугольная выноска</translation>
     </message>
     <message>
         <source>Rounded Rectangular Callout</source>
-        <translation>Квадратная выноска с закругленными углами</translation>
+        <translation>Скругленная прямоугольная выноска</translation>
     </message>
     <message>
         <source>Oval Callout</source>
@@ -1157,7 +1161,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Heart</source>
-        <translation>Сердце</translation>
+        <translation>Сердечко</translation>
     </message>
     <message>
         <source>Picture Frame</source>
@@ -1245,7 +1249,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Smiling Face</source>
-        <translation>Улыбающееся лицо</translation>
+        <translation>Улыбка</translation>
     </message>
     <message>
         <source>Vertical Scroll</source>
@@ -1269,19 +1273,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Curved Left Arrow</source>
-        <translation>Выгнутая стрелка влево</translation>
+        <translation>Выгнутая вправо стрелка</translation>
     </message>
     <message>
         <source>Curved Right Arrow</source>
-        <translation>Выгнутая стрелка вправо</translation>
+        <translation>Выгнутая влево стрелка</translation>
     </message>
     <message>
         <source>Curved Down Arrow</source>
-        <translation>Выгнутая стрелка вниз</translation>
+        <translation>Выгнутая вверх стрелка</translation>
     </message>
     <message>
         <source>Curved Up Arrow</source>
-        <translation>Выгнутая стрелка вверх</translation>
+        <translation>Выгнутая вниз стрелка</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
@@ -1297,279 +1301,279 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Flowchart: Process</source>
-        <translation>Блок-схема: Процесс </translation>
+        <translation>Блок-схема: процесс </translation>
     </message>
     <message>
         <source>Flowchart: Decision</source>
-        <translation>Блок-схема: Решение</translation>
+        <translation>Блок-схема: решение</translation>
     </message>
     <message>
         <source>Flowchart: Data</source>
-        <translation>Блок-схема: Данные</translation>
+        <translation>Блок-схема: данные</translation>
     </message>
     <message>
         <source>Flowchart: Predefined Process</source>
-        <translation>Блок-схема: Типовой процесс</translation>
+        <translation>Блок-схема: типовой процесс</translation>
     </message>
     <message>
         <source>Flowchart: Internal Storage</source>
-        <translation>Блок-схема: Внутренняя память</translation>
+        <translation>Блок-схема: внутренняя память</translation>
     </message>
     <message>
         <source>Flowchart: Document</source>
-        <translation>Блок-схема: Документ</translation>
+        <translation>Блок-схема: документ</translation>
     </message>
     <message>
         <source>Flowchart: Multidocument</source>
-        <translation>Блок-схема: Несколько документов</translation>
+        <translation>Блок-схема: несколько документов</translation>
     </message>
     <message>
         <source>Flowchart: Terminator</source>
-        <translation>Блок-схема: Завершение</translation>
+        <translation>Блок-схема: завершение</translation>
     </message>
     <message>
         <source>Flowchart: Preparation</source>
-        <translation>Блок-схема: Подготовка</translation>
+        <translation>Блок-схема: подготовка</translation>
     </message>
     <message>
         <source>Flowchart: Manual Input</source>
-        <translation>Блок-схема: Ручной ввод</translation>
+        <translation>Блок-схема: ручной ввод</translation>
     </message>
     <message>
         <source>Flowchart: Manual Operation</source>
-        <translation>Блок-схема: Ручное управление</translation>
+        <translation>Блок-схема: ручное управление</translation>
     </message>
     <message>
         <source>Flowchart: Connector</source>
-        <translation>Блок-схема: Узел</translation>
+        <translation>Блок-схема: узел</translation>
     </message>
     <message>
         <source>Flowchart: Card</source>
-        <translation>Блок-схема: Карточка</translation>
+        <translation>Блок-схема: карточка</translation>
     </message>
     <message>
         <source>Flowchart: Punched Tape</source>
-        <translation>Блок-схема: Перфолента</translation>
+        <translation>Блок-схема: перфолента</translation>
     </message>
     <message>
         <source>Flowchart: Summing Junction</source>
-        <translation>Узел суммирования</translation>
+        <translation>Блок-схема: узел суммирования</translation>
     </message>
     <message>
         <source>Flowchart: Or</source>
-        <translation>Блок-схема: Или</translation>
+        <translation>Блок-схема: или</translation>
     </message>
     <message>
         <source>Flowchart: Collate</source>
-        <translation>Блок-схема: Сопоставление</translation>
+        <translation>Блок-схема: сопоставление</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
-        <translation>Блок-схема: Сортировка</translation>
+        <translation>Блок-схема:сортировка</translation>
     </message>
     <message>
         <source>Flowchart: Extract</source>
-        <translation>Блок-схема: Извлечени</translation>
+        <translation>Блок-схема: извлечение</translation>
     </message>
     <message>
         <source>Flowchart: Merge</source>
-        <translation>Блок-схема: Слияние</translation>
+        <translation>Блок-схема: слияние</translation>
     </message>
     <message>
         <source>FlowChart: Offline Storage</source>
-        <translation>Блок-схема: Внешнее хранилище</translation>
+        <translation>Блок-схема: внешнее хранилище</translation>
     </message>
     <message>
         <source>Flowchart: Stored Data</source>
-        <translation>Блок-схема: Сохраненные данные</translation>
+        <translation>Блок-схема: сохранённые данные</translation>
     </message>
     <message>
         <source>Flowchart: Seqential Access Storage</source>
-        <translation>Блок-схема: Память с последовательным доступом</translation>
+        <translation>Блок-схема: память с последовательным доступом</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
-        <translation>Блок-схема: Магнитный диск</translation>
+        <translation>Блок-схема: магнитный диск</translation>
     </message>
     <message>
         <source>Flowchart: Direct Access Storage</source>
-        <translation>Блок-схема: Память с прямым доступом</translation>
+        <translation>Блок-схема: память с прямым доступом</translation>
     </message>
     <message>
         <source>Flowchart: Display</source>
-        <translation>Блок-схема: Дисплей</translation>
+        <translation>Блок-схема: дисплей</translation>
     </message>
     <message>
         <source>Flowchart: Delay</source>
-        <translation>Блок-схема: Задержка</translation>
+        <translation>Блок-схема: задержка</translation>
     </message>
     <message>
         <source>WordArt: Plain Text</source>
-        <translation>WordArt: Обычный текст</translation>
+        <translation>Обычный текст</translation>
     </message>
     <message>
         <source>WordArt: Octagon</source>
-        <translation>WordArt: Восьмиугольник</translation>
+        <translation>Восьмиугольник</translation>
     </message>
     <message>
         <source>WordArt: Triangle</source>
-        <translation>WordArt: Треугольник</translation>
+        <translation>Треугольник</translation>
     </message>
     <message>
         <source>WordArt: Triangle Inverted</source>
-        <translation>WordArt: Перевернутый треугольник</translation>
+        <translation>Перевернутый треугольник</translation>
     </message>
     <message>
         <source>WordArt: Chevron</source>
-        <translation>WordArt: Нашивка</translation>
+        <translation>Угол вверх</translation>
     </message>
     <message>
         <source>WordArt: Chevron Inverted</source>
-        <translation>WordArt: Перевернутая нашивка</translation>
+        <translation>Угол вниз</translation>
     </message>
     <message>
         <source>WordArt: Ring Inside</source>
-        <translation>WordArt: Внутреннее кольцо</translation>
+        <translation>Кольцо внутрь</translation>
     </message>
     <message>
         <source>WordArt: Ring Outside</source>
-        <translation>WordArt: Внешнее кольцо</translation>
+        <translation>Кольцо наружу</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
-        <translation>WordArt: Выгнутая вверх арка</translation>
+        <translation>Дуга вверх (обычная)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
-        <translation>WordArt: Выгнутая вниз арка</translation>
+        <translation>Дуга вниз (обычная)</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
-        <translation>WordArt: Неровная окружность</translation>
+        <translation type="unfinished">Окружность (обычная)</translation>
     </message>
     <message>
         <source>WordArt: Button Curve</source>
-        <translation>WordArt: Скругленная кнопка</translation>
+        <translation>Кнопка (обычная)</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Pour</source>
-        <translation>WordArt: Литая арка вверх</translation>
+        <translation>Дуга вверх (утолщённая)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
-        <translation>WordArt: Литая арка вниз</translation>
+        <translation>Дуга вниз (утолщённая)</translation>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
-        <translation>WordArt: Литой круг</translation>
+        <translation>Окружность (утолщённая)</translation>
     </message>
     <message>
         <source>WordArt: Button Pour</source>
-        <translation>WordArt: Литая кнопка</translation>
+        <translation>Кнопка (утолщённая)</translation>
     </message>
     <message>
         <source>WordArt: Curve Up</source>
-        <translation>WordArt: кривая наверх</translation>
+        <translation>Кривая вверх</translation>
     </message>
     <message>
         <source>WordArt: Curve Down</source>
-        <translation>WordArt: Кривая вниз</translation>
+        <translation>Кривая вниз</translation>
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
-        <translation>WordArt: Ломаная вверх</translation>
+        <translation>Каскад вверх</translation>
     </message>
     <message>
         <source>WordArt: Cascade Down</source>
-        <translation>WordArt: Ломаная вниз</translation>
+        <translation>Каскад вниз</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
-        <translation>WordArt: Волна 1</translation>
+        <translation>Волна1</translation>
     </message>
     <message>
         <source>WordArt: Wave2</source>
-        <translation>WordArt: Волна 2</translation>
+        <translation>Волна2</translation>
     </message>
     <message>
         <source>WordArt: Inflate</source>
-        <translation>WordArt: Широкий</translation>
+        <translation>Выпуклая линза</translation>
     </message>
     <message>
         <source>WordArt: Deflate</source>
-        <translation>WordArt: Узкий</translation>
+        <translation>Вогнутая линза</translation>
     </message>
     <message>
         <source>WordArt: Inflate Bottom</source>
-        <translation>WordArt: Широкий низ</translation>
+        <translation>Выпуклое дно</translation>
     </message>
     <message>
         <source>WordArt: Deflate Bottom</source>
-        <translation>WordArt: Узкий низ</translation>
+        <translation>Вогнутое дно</translation>
     </message>
     <message>
         <source>WordArt: Inflate Top</source>
-        <translation>WordArt: Широкий верх</translation>
+        <translation>Выпуклый верх</translation>
     </message>
     <message>
         <source>WordArt: Deflate Top</source>
-        <translation>Узкий низ</translation>
+        <translation>Вогнутый верх</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate</source>
-        <translation>Узкий-Широкий</translation>
+        <translation>Вогнутость и выпуклость</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate-Deflate</source>
-        <translation>WordArt: Узкий - Широкий - Узкий</translation>
+        <translation>Выпуклая линза в футляре</translation>
     </message>
     <message>
         <source>WordArt: Fade Right</source>
-        <translation>WordArt: Убывающий вправо</translation>
+        <translation>Конус вправо</translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
-        <translation>WordArt: Убывающий влево</translation>
+        <translation>Конус влево</translation>
     </message>
     <message>
         <source>WordArt: Fade Up</source>
-        <translation>Убывающий к верху</translation>
+        <translation>Конус вверх</translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
-        <translation>Убывающий к низу</translation>
+        <translation>Конус вниз</translation>
     </message>
     <message>
         <source>WordArt: Slant Up</source>
-        <translation>WordArt: Наклон вверх</translation>
+        <translation>Наклон вверх</translation>
     </message>
     <message>
         <source>WordArt: Slant Down</source>
-        <translation>WordArt: Наклон вниз</translation>
+        <translation>Наклон вниз</translation>
     </message>
     <message>
         <source>WordArt: Can Up</source>
-        <translation>WordArt: Коробка вверх</translation>
+        <translation>Изгиб вверх</translation>
     </message>
     <message>
         <source>WordArt: Can Down</source>
-        <translation>WordArt: Коробка вниз</translation>
+        <translation>Изгиб вниз</translation>
     </message>
     <message>
         <source>Flowchart: Alternate Process</source>
-        <translation>Блок-схема: Альтернативный процесс</translation>
+        <translation>Блок-схема: альтернативный процесс</translation>
     </message>
     <message>
         <source>Flowchart: Off-page Connector</source>
-        <translation>Блок-схема: Ссылка на другую страницу</translation>
+        <translation>Блок-схема: ссылка на другую страницу</translation>
     </message>
     <message>
         <source>Line Callout 1 (No Border)</source>
-        <translation>Выноска 1 (Без границ)</translation>
+        <translation>Выноска 1 (без границы)</translation>
     </message>
     <message>
         <source>Line Callout 1 (Accent Bar)</source>
-        <translation>Выноска 1 (с границей)</translation>
+        <translation>Выноска 1 (с чертой)</translation>
     </message>
     <message>
         <source>Line Callout 1</source>
@@ -1577,7 +1581,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Line Callout 1 (Border and Accent Bar)</source>
-        <translation>Выноска 1 (граница и черта)</translation>
+        <translation>Выноска 1 (с границей и чертой)</translation>
     </message>
     <message>
         <source>Left-Right-Up Arrow</source>
@@ -1593,11 +1597,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Double Bracket</source>
-        <translation>Двойной кронштейн</translation>
+        <translation>Двойные круглые скобки</translation>
     </message>
     <message>
         <source>Double Brace</source>
-        <translation>Двойная фигурная скобка</translation>
+        <translation>Двойные фигурные скобки</translation>
     </message>
     <message>
         <source>4-Point Star</source>
@@ -1609,67 +1613,67 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Action Button: Custom</source>
-        <translation>Кнопка действия: Пользовательские настройки</translation>
+        <translation>Управляющая кнопка: настраиваемая</translation>
     </message>
     <message>
         <source>Action Button: Home</source>
-        <translation>Кнопка действия: Домой</translation>
+        <translation>Управляющая кнопка: домашняя</translation>
     </message>
     <message>
         <source>Action Button: Help</source>
-        <translation>Кнопка действия: Помощь</translation>
+        <translation>Управляющая кнопка: справка</translation>
     </message>
     <message>
         <source>Action Button: Information</source>
-        <translation>Кнопка действия: Информация</translation>
+        <translation>Управляющая кнопка: сведения</translation>
     </message>
     <message>
         <source>Action Button: Forward or Next</source>
-        <translation>Кнопка действия: Вперед или Далее</translation>
+        <translation>Управляющая кнопка: далее</translation>
     </message>
     <message>
         <source>Action Button: Back or Previous</source>
-        <translation>Кнопка действия: Назад или Предыдущее</translation>
+        <translation>Управляющая кнопка: назад</translation>
     </message>
     <message>
         <source>Action Button: End</source>
-        <translation>Кнопка действия: Конец</translation>
+        <translation>Управляющая кнопка: в конец</translation>
     </message>
     <message>
         <source>Action Button: Beginning</source>
-        <translation>Кнопка действия: Начало</translation>
+        <translation>Управляющая кнопка: в начало</translation>
     </message>
     <message>
         <source>Action Button: Return</source>
-        <translation>Кнопка действия: Вернуть</translation>
+        <translation>Управляющая кнопка: возврат</translation>
     </message>
     <message>
         <source>Action Button: Document</source>
-        <translation>Кнопка действия: Документ</translation>
+        <translation>Управляющая кнопка: документ</translation>
     </message>
     <message>
         <source>Action Button: Sound</source>
-        <translation>Кнопка действия: Звук</translation>
+        <translation>Управляющая кнопка: звук</translation>
     </message>
     <message>
         <source>Action Button: Movie</source>
-        <translation>Кнопка действия: Видео</translation>
+        <translation>Управляющая кнопка: фильм</translation>
     </message>
     <message>
         <source>Host Control</source>
-        <translation>Управляющий</translation>
+        <translation>Элемент управления</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Поле для ввода текста</translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>Group Shape</source>
-        <translation>Сгруппировать фигуру</translation>
+        <translation>Групповая фигура</translation>
     </message>
     <message>
         <source>Cd Drive</source>
-        <translation>Cd Диск</translation>
+        <translation>CD-дисковод</translation>
     </message>
     <message>
         <source>Chair</source>
@@ -1681,7 +1685,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Cloud</source>
-        <translation>Облако</translation>
+        <translation>Облачный сервис</translation>
     </message>
     <message>
         <source>Desktop computer</source>
@@ -1697,7 +1701,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Traditional Mac computer</source>
-        <translation>Mac-компьютер</translation>
+        <translation>Компьютер Mac</translation>
     </message>
     <message>
         <source>Two-seater</source>
@@ -1705,11 +1709,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Three-seater</source>
-        <translation>Трехместный</translation>
+        <translation>Трёхместный</translation>
     </message>
     <message>
         <source>Curved Ribbon3</source>
-        <translation>Изогнутая лента 3</translation>
+        <translation>Круглая лента3</translation>
     </message>
     <message>
         <source>Desk</source>
@@ -1745,11 +1749,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>File Cab (horizontal)</source>
-        <translation>Картотека (Горизонтальная)</translation>
+        <translation>Картотека (горизонтальная)</translation>
     </message>
     <message>
         <source>Film</source>
-        <translation>Пленка</translation>
+        <translation>Плёнка</translation>
     </message>
     <message>
         <source>Firewall</source>
@@ -1765,11 +1769,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Gear</source>
-        <translation>Шестерня</translation>
+        <translation>Шестеренка</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Главная</translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <source>Infopage</source>
@@ -1777,7 +1781,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Laptop</source>
-        <translation>Ноутбук</translation>
+        <translation>Переносной компьютер</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -1793,7 +1797,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Mainframe</source>
-        <translation>Мейнфрейм</translation>
+        <translation>Большая ЭВМ</translation>
     </message>
     <message>
         <source>Multimedia</source>
@@ -1833,43 +1837,43 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pub Banner</source>
-        <translation>Внешний баннер</translation>
+        <translation type="unfinished">Внешний баннер</translation>
     </message>
     <message>
         <source>Pub Chord</source>
-        <translation>Внешний пояс</translation>
+        <translation type="unfinished">Внешний пояс</translation>
     </message>
     <message>
         <source>Pub Cross</source>
-        <translation>Внешний крест</translation>
+        <translation type="unfinished">Внешнее пересечение</translation>
     </message>
     <message>
         <source>Pub Half Frame</source>
-        <translation>Внешняя половина рамки</translation>
+        <translation type="unfinished">Внешняя половина рамки</translation>
     </message>
     <message>
         <source>Pub L</source>
-        <translation>Внешний угол (L)</translation>
+        <translation type="unfinished">Внешний угол (L)</translation>
     </message>
     <message>
         <source>Pub Oval Callout</source>
-        <translation>Внешняя овальная вывеска</translation>
+        <translation type="unfinished">Внешняя овальная выноска</translation>
     </message>
     <message>
         <source>Pub Pie Slice</source>
-        <translation>Кусок пирога</translation>
+        <translation type="unfinished">Кусок пирога</translation>
     </message>
     <message>
         <source>Pub R-Rect Callout</source>
-        <translation>R-треугольная вывеска</translation>
+        <translation type="unfinished">R-прямоугольная выноска</translation>
     </message>
     <message>
         <source>Diagonal Stripe</source>
-        <translation>Диагональная линия</translation>
+        <translation>Диагональная полоса</translation>
     </message>
     <message>
         <source>Pub Triangle</source>
-        <translation>Внешний треугольник</translation>
+        <translation type="unfinished">Внешний треугольник</translation>
     </message>
     <message>
         <source>Puzzle1</source>
@@ -1889,31 +1893,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pyr1</source>
-        <translation>Пир1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pyr2</source>
-        <translation>Пир2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pyr3</source>
-        <translation>Пир3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pyr4</source>
-        <translation>Пир4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ribbon1 Sharp</source>
-        <translation>Лента 1 Ровная</translation>
+        <translation type="unfinished">Лента1 острая</translation>
     </message>
     <message>
         <source>Ribbon2 Sharp</source>
-        <translation>Лента 2 Ровная</translation>
+        <translation type="unfinished">Лента2 острая</translation>
     </message>
     <message>
         <source>Scanner</source>
-        <translation>Сканер</translation>
+        <translation>Сканнер</translation>
     </message>
     <message>
         <source>Server</source>
@@ -1941,7 +1945,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Up Ribbon Sharp</source>
-        <translation>Пряма лента смотрящая вверх</translation>
+        <translation type="unfinished">Острая лента вверх</translation>
     </message>
     <message>
         <source>Webpage</source>
@@ -1969,11 +1973,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pane1</source>
-        <translation>Оконное стекло1</translation>
+        <translation>Панель1</translation>
     </message>
     <message>
         <source>Pane2</source>
-        <translation>Оконное стекло2</translation>
+        <translation>Панель2</translation>
     </message>
     <message>
         <source>Traditional1</source>
@@ -2017,7 +2021,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Starry Sky</source>
-        <translation>Звездное небо</translation>
+        <translation>Звёздное небо</translation>
     </message>
     <message>
         <source>Colored Paper 1</source>
@@ -2037,11 +2041,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Flannelette List</source>
-        <translation>Байковый лист</translation>
+        <translation type="unfinished">Фланелевый лист</translation>
     </message>
     <message>
         <source>Fell</source>
-        <translation>Шерсть</translation>
+        <translation type="unfinished">Шерсть</translation>
     </message>
     <message>
         <source>Water</source>
@@ -2057,11 +2061,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Radialized Pattern</source>
-        <translation>Лучистый рисунок</translation>
+        <translation type="unfinished">Лучистый рисунок</translation>
     </message>
     <message>
         <source>Twine</source>
-        <translation>Шпагат</translation>
+        <translation>Верёвка</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -2069,11 +2073,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Invalid index</source>
-        <translation>Неверный индекс</translation>
+        <translation>Недопустимый индекс</translation>
     </message>
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
-        <translation>Неверный запрос. Чтобы выбрать форму, вид должен быть активирован.</translation>
+        <translation>Недопустимый запрос. Чтобы выбрать форму, должно быть активировано её представление.</translation>
     </message>
     <message>
         <source>The value specified is beyond the range.</source>
@@ -2089,7 +2093,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Click to add text</source>
-        <translation>Нажмите, чтобы добавить текст</translation>
+        <translation>Щелкните, чтобы добавить текст</translation>
     </message>
     <message>
         <source>Default</source>
@@ -2097,7 +2101,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Outline</source>
-        <translation>Структура</translation>
+        <translation type="unfinished">Контур</translation>
     </message>
     <message>
         <source>Double Outline</source>
@@ -2105,7 +2109,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Thick Outline</source>
-        <translation>Толстый контур</translation>
+        <translation>Жирный контур</translation>
     </message>
     <message>
         <source>Primary Colors</source>
@@ -2113,15 +2117,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Shaded</source>
-        <translation>Штриховать</translation>
+        <translation>С затенением</translation>
     </message>
     <message>
         <source>Fire</source>
-        <translation>Огонь</translation>
+        <translation>Пламя</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D цвет</translation>
+        <translation>Цвет 3-D</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -2129,7 +2133,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Brackets</source>
-        <translation>Скобки</translation>
+        <translation>Квадратные скобки</translation>
     </message>
     <message>
         <source>Braces</source>
@@ -2137,7 +2141,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Bookend Fills</source>
-        <translation>Форзац  для заливки</translation>
+        <translation>Корешки книг</translation>
     </message>
     <message>
         <source>Stripes</source>
@@ -2145,11 +2149,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Beveled</source>
-        <translation>Скошенный</translation>
+        <translation>Скошенное</translation>
     </message>
     <message>
         <source>Beveled Gradient</source>
-        <translation>Скошенный градиент</translation>
+        <translation>Рельефный градиент</translation>
     </message>
     <message>
         <source>Square Shadows</source>
@@ -2176,27 +2180,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>filter</name>
     <message>
         <source>XML Files</source>
-        <translation>XML Файлы</translation>
+        <translation>Файлы XML</translation>
     </message>
     <message>
         <source>XML Document Templates</source>
-        <translation>XML Шаблоны документов</translation>
+        <translation>Шаблоны документов XML</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Files</source>
-        <translation>Kingsoft файлы презентаций</translation>
+        <translation>Файлы презентаций Kingsoft</translation>
     </message>
     <message>
         <source>The document is created by Microsoft Office 95 or earlier version, please convert it to Microsoft Office 97 or later version and try again.</source>
-        <translation>Документ создан в Microsoft Office 95 или в более ранних версиях, пожалуйста сконвертируйте в формат Microsoft Office 97 или более позднюю версию и попробуйте снова.</translation>
+        <translation>Документ создан в Microsoft Office 95 или в более ранних версиях. Преобразуйте в формат Microsoft Office 97 или более позднюю версию и повторите.</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
-        <translation>Документ Microsoft Word 97/2000/XP/2003 </translation>
+        <translation>Документ Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Documents</source>
-        <translation>Документы Microsoft Word 97/2000/XP/2003 </translation>
+        <translation>Документы Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Template</source>
@@ -2236,15 +2240,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>RTF Files</source>
-        <translation>RTF Файлы</translation>
+        <translation>Файлы RTF</translation>
     </message>
     <message>
         <source>HTML File</source>
-        <translation>HTML файл</translation>
+        <translation>Файл HTML</translation>
     </message>
     <message>
         <source>HTML Files</source>
-        <translation>HTML файлы</translation>
+        <translation>Файлы HTML</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
@@ -2252,7 +2256,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>(beta) Single Web Page File</source>
-        <translation>(Тестовый) Веб-страница полностью</translation>
+        <translation>(бета-тест) файл всей Веб-страницы</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 File</source>
@@ -2272,35 +2276,34 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Single Web Page Files</source>
-        <translation>Веб-страница полностью</translation>
+        <translation>файлы всей Веб-страницы</translation>
     </message>
     <message>
         <source>Kingsoft Office encountered an error when saving the file, please try again or contact customer service.</source>
-        <translation>Kingsoft Office обнаружил ошибку при сохранении файла, попробуйте еще раз или свяжитесь со службой поддержки.</translation>
+        <translation>Ошибка сохранения файла Kingsoft Office. Повторите и, в случае ошибки, свяжитесь со службой поддержки.</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
-        <translation>Шаблон с включенной поддержкой макросов Microsoft Word 2007/2010</translation>
+        <translation>Шаблон с разрешением макросов Microsoft Word 2007/2010</translation>
     </message>
 </context>
 <context>
     <name>krm</name>
     <message>
         <source>KRM &amp;Options...</source>
-        <translation>KRM &amp;Опции...</translation>
+        <translation>&amp;Параметры KRM...</translation>
     </message>
     <message>
         <source>&amp;Restrict Permission  ...</source>
-        <translation>Ограничить &amp;Разрешения  ...</translation>
+        <translation>Ограничить &amp;разрешения.....</translation>
     </message>
     <message>
         <source>The number of copies is out of range. Do you want to cut the number of copies or cancel this print task.</source>
-        <translation>Количество копий вне диапазона. Вы хотите уменьшить количество копий или отменить эту задачу печати?.</translation>
+        <translation>Превышено допустимое количество копий. Уменьшить количество копий или отменить печать?.</translation>
     </message>
     <message>
         <source>You have no permission to save files. Please check your permission information.</source>
-        <translation>
-У вас нет разрешения на сохранение файлов. Пожалуйста, проверьте ваши разрешения.</translation>
+        <translation>Нет разрешения на сохранение файлов. Проверьте имеющиеся разрешения.</translation>
     </message>
 </context>
 <context>
@@ -2334,7 +2337,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
-        <translation>Резервное копирование файла, пожалуйста подождите...</translation>
+        <translation>Пожалуйста, дождитесь окончания резервного копирования файла...</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -2343,11 +2346,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
-        <translation>Ошибка%s возникает при резервном копировании! Пожалуйста, попробуйте выполнить следующие операции:
+        <translation>Ошибка резервного копирования %s! Попробуйте выполнить следующие операции:
 • [Отменить] предыдущие операции и [Сохранить];
 • [Сохранить как ...] текстовый файл (*.txt);
-• [Копировать / Вставить] содержимое в новый файл;
-• Откажитесь от просмотра файла.
+• [Копировать/вставить] содержимое в новый файл;
+• Отменить исправления в файле.
 (%s)</translation>
     </message>
     <message>
@@ -2356,10 +2359,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
-        <translation>Ошибка %s возникает при работающем резервном копировании! Пожалуйста, попробуйте выполнить следующие операции:
+        <translation>Ошибка резервного копирования %s! Попробуйте выполнить следующие операции:
 • [Отменить] предыдущие операции и [Сохранить] его;
 • [Копировать / Вставить] содержимое в новый файл;
-• Откажитесь от просмотра файл.
+• Отменить исправления в файле.
 (%s)</translation>
     </message>
     <message>
@@ -2369,14 +2372,15 @@ Name: %s
 Description: %s
 File: %s
 </source>
-        <translation>Не прошло антивирусное обследование. Для обеспечения безопасности,%s откажитесь от загрузки.
-Имя:%s
-Описание:%s
-Файл:%s</translation>
+        <translation type="unfinished">Предупреждение при проверке антивирусом для данного дополнения. Для обеспечения безопасности загрузка %s отменена.
+
+Имя: %s
+Описание: %s
+Файл: %s</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Внимание</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -2400,39 +2404,39 @@ File: %s
     </message>
     <message>
         <source>Kingsoft Writer has encountered a problem and needs to close.</source>
-        <translation>Kingsoft Writer обнаружена ошибка необходимо закрыть приложение.</translation>
+        <translation>Ошибка Kingsoft Writer. Приложение будет закрыто.</translation>
     </message>
     <message>
         <source>Kingsoft Presentation has encountered a problem and needs to close.</source>
-        <translation>Kingsoft Presentation обнаружена ошибка необходимо закрыть приложение.</translation>
+        <translation>Ошибка Kingsoft Presentation. Приложение будет закрыто.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets has encountered a problem and needs to close.</source>
-        <translation>Kingsoft Spreadsheets обнаружена ошибка необходимо закрыть приложение.</translation>
+        <translation>Ошибка Kingsoft Spreadsheets. Приложение будет закрыто.</translation>
     </message>
     <message>
         <source>Kingsoft Simulation has encountered a problem and needs to close.</source>
-        <translation>Kingsoft Simulation обнаружена ошибка необходимо закрыть приложение.</translation>
+        <translation>Ошибка Kingsoft Simulation. Приложение будет закрыто.</translation>
     </message>
     <message>
         <source>Kingsoft Writer Error Recovery Help</source>
-        <translation>Kingsoft Writer Ошибка Помощь по восстановлению</translation>
+        <translation>Помощь по восстановлению после ошибок Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Error Recovery Help</source>
-        <translation>Kingsoft Presentation Ошибка Помощь по восстановлению</translation>
+        <translation>Помощь по восстановлению после ошибок Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Error Recovery Help</source>
-        <translation>Kingsoft Spreadsheets Ошибка Помощь по восстановлению</translation>
+        <translation>Помощь по восстановлению после ошибок Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Kingsoft Simulation Error Recovery Help</source>
-        <translation>Kingsoft Simulation Ошибка Помощь по восстановлению</translation>
+        <translation>Помощь по восстановлению после ошибок Kingsoft Simulation</translation>
     </message>
     <message>
         <source>The file is loading, please wait.</source>
-        <translation>Файл загружается, ожидайте.</translation>
+        <translation>Дождитесь окончания загрузки файла.</translation>
     </message>
     <message>
         <source>File loaded</source>
@@ -2456,11 +2460,11 @@ File: %s
     </message>
     <message>
         <source>Dump File</source>
-        <translation>Дамп файла</translation>
+        <translation>Файл содержимого (дампа) памяти</translation>
     </message>
     <message>
         <source>System and Exception Information File</source>
-        <translation>Системная информация о файле </translation>
+        <translation>Файл информации о системе и исключениях</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2472,7 +2476,7 @@ File: %s
     </message>
     <message>
         <source>Network transfer failed! Error code: %d</source>
-        <translation>Ошибка передачи! номер ошибки: %d</translation>
+        <translation>Ошибка передачи в сети! Код ошибки: %d</translation>
     </message>
     <message>
         <source>Send out success</source>
@@ -2480,19 +2484,19 @@ File: %s
     </message>
     <message>
         <source>Data transfer completed, thanks for your support.</source>
-        <translation>Данные переданы, спасибо за поддержку.</translation>
+        <translation>Передача данных завершена, спасибо за поддержку.</translation>
     </message>
     <message>
         <source>Terminate sending</source>
-        <translation>Обрыв передачи</translation>
+        <translation>Прервать отправку</translation>
     </message>
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
-        <translation>Отчет о передачи еще не готов. Действительно хотите прервать передачу?</translation>
+        <translation>Отправка отчёта ещё ​​не завершена. Хотите прервать отправку?</translation>
     </message>
     <message>
         <source>This document has been protected from any changes by another application. You can only open it as read-only.</source>
-        <translation>Этот документ защищен от любых изменений другим приложением. Вы можете только открыть его только для чтения.</translation>
+        <translation>Этот документ защищён от любых изменений из другого приложения и доступен только для чтения.</translation>
     </message>
     <message>
         <source>Kingsoft Writer</source>
@@ -2508,25 +2512,24 @@ File: %s
     </message>
     <message>
         <source>(Not limited)</source>
-        <translation>(Не ограничено)</translation>
+        <translation>(не ограничен)</translation>
     </message>
     <message>
         <source>(Can use %d days)</source>
-        <translation>(Можете использовать %d дней)</translation>
+        <translation type="unfinished">(можно использовать в течении %d дней)</translation>
     </message>
     <message>
         <source>(Overdue)</source>
-        <translation>
-(Просрочено)</translation>
+        <translation type="unfinished">(просрочено)</translation>
     </message>
     <message>
         <source>(Haven&apos;t used)</source>
-        <translation>(Не используется)</translation>
+        <translation type="unfinished">(не использован)</translation>
     </message>
     <message>
         <source> Invalid</source>
         <comment>versionType</comment>
-        <translation>Неверная</translation>
+        <translation type="unfinished"> Неверная</translation>
     </message>
     <message>
         <source> Professional</source>
@@ -2560,7 +2563,7 @@ File: %s
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет разрешения в соответствии с лицензией FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология для преобразования между упрощенным китайским и традиционным китайским обеспечивается Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checke; Hunspell Spell Checker имеет открытый исходный код согласно Open Source лицензионного соглашения от MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>New Workbook.xls</source>
@@ -2576,29 +2579,29 @@ File: %s
     </message>
     <message>
         <source>(Not activated)</source>
-        <translation>(Не активировано)</translation>
+        <translation>(не активирован)</translation>
     </message>
     <message>
         <source>Kingsoft Office Crashing Information</source>
-        <translation>Kingsoft Office информация о сбоях</translation>
+        <translation>Информация об ошибках выполнения Kingsoft Office</translation>
     </message>
     <message>
         <source>Sorry, Kingsoft Office crashes.
 You can click the button to recover files you work on.</source>
-        <translation>Извините, в Kingsoft Office произошел сбой.
-Вы можете нажать кнопку для восстановления файлов с которыми вы работали.</translation>
+        <translation type="unfinished">Сбой при выполнении Kingsoft Office.
+Нажмите кнопку для начала восстановления файлов, с которыми вы работали.</translation>
     </message>
     <message>
         <source>&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</source>
-        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Отправьте &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;отчет об ошибке&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt;,чтобы помочь нам улучшить наши продукты.&lt;/a&gt;</translation>
+        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Отправьте &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;отчёт об ошибке&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt;,чтобы помочь нам улучшить наши продукты.&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation>Перезапустить</translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <source>(version:%d)</source>
-        <translation>(версия:%d)</translation>
+        <translation>(версия: %d)</translation>
     </message>
     <message>
         <source>mail feedback</source>
@@ -2614,11 +2617,11 @@ You can click the button to recover files you work on.</source>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment,  Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1; право на бесплатное использование шрифтов Founder в соответствии со статьями прав на использование от Founder.</translation>
+        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1; право на бесплатное использование шрифтов Founder в соответствии со статьями прав на использование от Founder.</translation>
     </message>
     <message>
         <source>WPS Office Commercial Version</source>
-        <translation>WPS Office Комерческая версия</translation>
+        <translation>Комерческая версия WPS Office</translation>
     </message>
 </context>
 <context>
@@ -2627,13 +2630,13 @@ You can click the button to recover files you work on.</source>
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
 You can add the customized paper %dmm×%dmm in printer Properties and print it again.
 Do you want to continue?</source>
-        <translation>Принтер не поддерживает текущий размер бумаги. Продолжить печать, качество может не удовлетворить вас.
-Вы можете добавить свой размер бумаги%d mm ×%d mm в свойствах принтера и распечатать его снова.
-Хотите продолжить?</translation>
+        <translation>Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
+Вы можете добавить в свойствах принтера другой размер бумаги %d mm ×%d mm, и повторить печать.
+Продолжить?</translation>
     </message>
     <message>
         <source>Kingsoft Office has not found any installed printers.</source>
-        <translation>Kingsoft Office не может найти установленных принтеров.</translation>
+        <translation>Нет установленных принтеров в Kingsoft Office.</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2641,7 +2644,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
-        <translation>Пожалуйста, удалите бумагу из выходного лотка и поместите её обратно в входной лоток, а затем нажмите кнопку ОК, чтобы продолжить печать.</translation>
+        <translation>Выньте бумагу с напечатанной одной стороной из выходного лотка и поместите её во входной лоток, затем нажмите кнопку ОК для продолжения печати.</translation>
     </message>
     <message>
         <source>Use printer settings</source>
@@ -2650,8 +2653,8 @@ Do you want to continue?</source>
     <message>
         <source>Kingsoft Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
-        <translation>Kingsoft Office не может начать печать. Пожалуйста, проверьте, включен ли принтер или подключен.
-Если проблема все еще существует, вы можете напечатать тестовую страницу, щелкнув правой кнопкой мыши на значок принтера в Windows, а затем выберите Свойства из контекстного меню, чтобы проверить, был ли установлен правильно ваш принтер.</translation>
+        <translation>Невозможно начать печать в Kingsoft Office. Проверьте подключение и включение принтера.
+В случае повторения ошибки можно проверить правильность установки принтера, попробовав напечатать тестовую страницу. Для этого щёлкните правой кнопкой мыши на значок принтера в Windows и выберите &quot;Свойства&quot; из контекстного меню.</translation>
     </message>
     <message>
         <source>Print to file</source>
@@ -2659,34 +2662,34 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>All(*.*)|*.*|Printable File(*.prn)|*.prn</source>
-        <translation>Все(*.*)|*.*|Printable File(*.prn)|*.prn</translation>
+        <translation>Все(*.*)|*.*|Файл для печати(*.prn)|*.prn</translation>
     </message>
 </context>
 <context>
     <name>shellpub</name>
     <message>
         <source>ASCII(DEC)</source>
-        <translation>ASCII(DEC)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Symbol(DEC)</source>
-        <translation>Symbol(DEC)</translation>
+        <translation>Символ (DEC)</translation>
     </message>
     <message>
         <source>ASCII(HEX)</source>
-        <translation>ASCII(HEX)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
-        <translation>Simplified Chinese GB2312(HEX)</translation>
+        <translation>Китайский (упрощённое письмо) GB2312(HEX)</translation>
     </message>
     <message>
         <source>Symbol(HEX)</source>
-        <translation>Symbol(HEX)</translation>
+        <translation>Символ (HEX)</translation>
     </message>
     <message>
         <source>Unicode(HEX)</source>
-        <translation>Unicode(HEX)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -2702,11 +2705,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>New Workbook</source>
-        <translation>Новая рабочая тетрадь</translation>
+        <translation>Новая книга</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>Недавние документы</translation>
+        <translation>Последние документы</translation>
     </message>
     <message>
         <source>Recent presentations</source>
@@ -2714,55 +2717,55 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Recent workbooks</source>
-        <translation>Последние рабочие тетради</translation>
+        <translation>Последние книги</translation>
     </message>
     <message>
         <source>10%</source>
-        <translation>10%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>20%</source>
-        <translation>20%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>25%</source>
-        <translation>25%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>30%</source>
-        <translation>30%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>40%</source>
-        <translation>40%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>50%</source>
-        <translation>50%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>5%</source>
-        <translation>5%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>60%</source>
-        <translation>60%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>70%</source>
-        <translation>70%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>75%</source>
-        <translation>75%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>80%</source>
-        <translation>80%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>90%</source>
-        <translation>90%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Add</source>
@@ -2770,7 +2773,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Failed to add Add-In</source>
-        <translation>Неудается добавиь в Add-In</translation>
+        <translation>Ошибка при добавлении дополнения</translation>
     </message>
     <message>
         <source>(All)</source>
@@ -2778,15 +2781,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Error happens when application initializes. Error code: 0x%8.8x.</source>
-        <translation>Возникла ошибка при инициализации приложения. Код ошибки: 0x%8.8x.</translation>
+        <translation>Ошибка инициализации приложения. Код ошибки: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application trys to register. Error code: 0x%8.8x.</source>
-        <translation>Произошла ошибка при регистрации. Код ошибки: 0x%8.8x.</translation>
+        <translation>Ошибка регистрации приложения. Код ошибки: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application trys to logout. Error code: 0x%8.8x.</source>
-        <translation>Возникла ошибкаи при выходе. Код ошибки: 0x%8.8x.</translation>
+        <translation>Ошибка разрегистрации приложения. Код ошибки: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Arrow Style %d</source>
@@ -2802,11 +2805,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The name already exists. Please enter another one.</source>
-        <translation>Имя уже существует. Пожалуйста попробуйте другое.</translation>
+        <translation>Имя уже используется. Выберите другое имя.</translation>
     </message>
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
-        <translation>Невозможно отобразить панель. Введите имя.</translation>
+        <translation>Отстутствует имя панели инструментов. Введите имя.</translation>
     </message>
     <message>
         <source>&amp;Blue:</source>
@@ -2830,7 +2833,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>(Build %s)</source>
-        <translation>(Создать %s)</translation>
+        <translation>(Сборка %s)</translation>
     </message>
     <message>
         <source>Byte</source>
@@ -2842,7 +2845,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is opened. Click OK, and then close the dialog box to try again.</source>
-        <translation>Команда не может быть выполнена, поскольку открыто диалоговое окно. Нажмите кнопку ОК, а затем закройте диалоговое окно, чтобы повторить попытку.</translation>
+        <translation>Команда не может быть выполнена, так как открыто диалоговое окно. Нажмите кнопку ОК, закройте диалоговое окно и повтрорите команду.</translation>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%s&quot;.</source>
@@ -2850,19 +2853,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The printer &quot;%s&quot; returned an error!</source>
-        <translation>Принтер &quot;%s&quot; вернул ошибку!</translation>
+        <translation>Ошибка принтера &quot;%s&quot;!</translation>
     </message>
     <message>
         <source>CAPS</source>
-        <translation>CAPS</translation>
+        <translation></translation>
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation>О Kingsoft Spreadsheets</translation>
+        <translation>О программе Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation>О Kingsoft Presentation</translation>
+        <translation>О программе Kingsoft Presentation</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
@@ -2874,23 +2877,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Automatic clear backup files before close application.</source>
-        <translation>Автоматическая очистка резервных файлов перед закрытием.</translation>
+        <translation>Автоматическая очистка резервных файлов перед закрытием приложения.</translation>
     </message>
     <message>
         <source>Automatic clear clipboard before close application.</source>
-        <translation>Автоматическая очистка буфера перед закрытием.</translation>
+        <translation>Автоматическая очистка буфера обмена перед закрытием приложения.</translation>
     </message>
     <message>
         <source>Automatic clear Recent File Lists before close application.</source>
-        <translation>автоматическая очистка Недавних файлов перед закрытием.</translation>
+        <translation>Автоматическая очистка списков &quot;Последние файлы&quot; перед закрытием приложения.</translation>
     </message>
     <message>
         <source>Automatic clear temporary files before close application.</source>
-        <translation>Автоматическая очистка временных файлов перед закрытием.</translation>
+        <translation>Автоматическая очистка временных файлов перед закрытием приложения.</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>Клипарт</translation>
+        <translation>Клип</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2898,15 +2901,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
-        <translation>Название не может быть пустым. Пожалуйста введите имя.</translation>
+        <translation>Не может отсутствовать имя элемента управления. Введите имя.</translation>
     </message>
     <message>
         <source>Failed to modify the Add-In settings</source>
-        <translation>Невозможно изменить Add-In настройки</translation>
+        <translation>Ошибка при изменении настроек дополнения.</translation>
     </message>
     <message>
         <source>Load on Demand (currently loaded)</source>
-        <translation>Загрузка по запросу (загружено)</translation>
+        <translation>Загрузка по требованию (в настоящее время загружены)</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -2926,11 +2929,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Checked by;Client;Date completed;Department;Destination;Disposition;Division;Document number;Editor;Forward to;Group;Language</source>
-        <translation>Проверил; Клиент; Дата завершения; Отдел; Назначение; Планировка; Отдел; Номер документа; Редактор; Вперед; Группа; Язык</translation>
+        <translation type="unfinished">Проверено; Клиент; Дата завершения; Отдел; Назначение; Расположение; Подразделение; Номер документа; Редактор; Переслать; Группа; Язык</translation>
     </message>
     <message>
         <source>Mailstop;Matter;Office;Owner;Project;Publisher;Purpose;Received from;Recorded by;Recorded date;Reference;Source;Status;Telephone number;Typist</source>
-        <translation>Mailstop; Материал; Офис; Владелец; Проект; Издатель; Цель; Поступило от; Записал; Записанные данные; Ссылка; Источник; Статус; Телефон; Машинист</translation>
+        <translation>Почтовое отделение; Вопрос; Офис; Владелец; Проект; Издатель; Цель; Получено от; Записано; Дата записи; Ссылка; Источник; Статус; Телефон; Отпечатано</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
@@ -2938,43 +2941,43 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation>Выборочное отображение</translation>
+        <translation>Произвольные показы</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
-        <translation>Введенное значение не соответствует заданному типу. Значение будет храниться в виде текста.</translation>
+        <translation>Тип введённого значения не соответствует заданному. Значение будет сохранено в текстовом формате.</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
-        <translation>Темный вниз по диагонали</translation>
+        <translation>Темная по диагонали вниз</translation>
     </message>
     <message>
         <source>Dark horizontal</source>
-        <translation>Темный горизонтальный</translation>
+        <translation>Темная по горизонтали</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
-        <translation>Темный вверх по диагонали</translation>
+        <translation>Темная по диагонали вверх</translation>
     </message>
     <message>
         <source>Dark vertical</source>
-        <translation>Темный вертикальный</translation>
+        <translation>Темная по вертикали</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
-        <translation>Пунктирная вниз по диагонали</translation>
+        <translation>Штриховая по диагонали вниз</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
-        <translation>Пунктирная горизонтальная</translation>
+        <translation>Штриховая по горизонтали</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
-        <translation>Пунктирный вверх по горизонтали</translation>
+        <translation>Штриховая по диагонали вверх</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
-        <translation>Пунктирный вертиклаьный</translation>
+        <translation>Штриховая по вертикали</translation>
     </message>
     <message>
         <source>Date</source>
@@ -2982,31 +2985,31 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Tahoma</source>
-        <translation>Tahoma</translation>
-    </message>
-    <message>
-        <source>Defined Names</source>
-        <translation>Определенные имена</translation>
-    </message>
-    <message>
-        <source>Failed to unintall Add-In</source>
-        <translation> удалось удалить Add-In</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to delete the &apos;%s&apos; toolbar?</source>
-        <translation>Вы действительно хотите удалить &apos;%s&apos; панель?</translation>
-    </message>
-    <message>
-        <source>Diagonal brick</source>
-        <translation>Параллелограмм</translation>
-    </message>
-    <message>
-        <source>Divot</source>
         <translation></translation>
     </message>
     <message>
+        <source>Defined Names</source>
+        <translation>Определённые имена</translation>
+    </message>
+    <message>
+        <source>Failed to unintall Add-In</source>
+        <translation>Ошибка удаления дополнения.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the &apos;%s&apos; toolbar?</source>
+        <translation>Хотите удалить панель &apos;%s&apos;?</translation>
+    </message>
+    <message>
+        <source>Diagonal brick</source>
+        <translation>Диагональный кирпич</translation>
+    </message>
+    <message>
+        <source>Divot</source>
+        <translation>Уголки</translation>
+    </message>
+    <message>
         <source>Modify PivotTable</source>
-        <translation>Изменить Сводную Таблицу</translation>
+        <translation>Изменение сводной таблицы</translation>
     </message>
     <message>
         <source>Document</source>
@@ -3014,11 +3017,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dotted diamond</source>
-        <translation>Ромб из точек</translation>
+        <translation>Точечные ромбики</translation>
     </message>
     <message>
         <source>Dotted grid</source>
-        <translation>Сетка из точек</translation>
+        <translation>Точечная сетка</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -3026,51 +3029,51 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translation>5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
-        <translation>Элементы с &quot;*&quot; должны быть введены.</translation>
+        <translation>Должны быть введены элементы со знаком &quot;*&quot;.</translation>
     </message>
     <message>
         <source>Office Standard</source>
-        <translation>Office Standard</translation>
+        <translation>Office стандартный</translation>
     </message>
     <message>
         <source>Office XOR</source>
-        <translation>Office XOR</translation>
+        <translation></translation>
     </message>
     <message>
         <source>At least one item must be shown. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation>По крайней мере один элемент должен быть показан. Если вы не хотите, чтобы поле было отображено, то отмените текущую операцию, а затем перетащите поле из отчета.</translation>
+        <translation>Должен быть показан, по крайней мере, один элемент. Если вы не хотите показывать данное поле, то отмените текущую операцию, и перетащите поле из отчёта с помощью курсора.</translation>
     </message>
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
-        <translation>Длина ключа должна быть кратной 8 между %d и %d.</translation>
+        <translation>Длина ключа должна быть в диапазоне между %d и %d и кратной 8.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation>Ссылка не действительна.</translation>
+        <translation>Неверная ссылка.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation>Вы не можете создать сводную таблицу с этими данными. Пожалуйста, проверьте свои данные и убедитесь, что ссылка является действительной и лист существует.</translation>
+        <translation>Невозможно создать сводную таблицу с этими данными. Проверьте данные и убедитесь в правильности ссылки и существовании электронной таблицы.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
-        <translation>Позиция, которую вы выбрали, для внесения в Сводную таблицу является недопустимой. Пожалуйста, убедитесь, что ссылка на диапазон действительна.</translation>
+        <translation>Неправильная позиция для помещения сводной таблицы. Убедитесь, что выбран правильный диапазон, и вы не попадаете в диапазон скрытой электронной таблицы.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation>Вы не можете изменить сводную таблицу с этими данными. Пожалуйста, проверьте свои данные и убедитесь, что ссылка является действительной, и лист существует.</translation>
+        <translation>Невозможно изменить сводную таблицу с этими данными. Проверьте данные и убедитесь в правильности ссылки и существовании электронной таблицы.</translation>
     </message>
     <message>
         <source>Unkown Format Source.</source>
-        <translation>Неизвестный источник формата.</translation>
+        <translation>Источник с неизвестным форматом.</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
-        <translation>Пустая рабочая тетрадь</translation>
+        <translation>Пустая электронная книга</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
@@ -3078,19 +3081,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot access %s, the file name is invalid.</source>
-        <translation>Kingsoft Spreadsheets не может получить доступ к %s, неверное имя файла.</translation>
+        <translation>Ошибка доступа Kingsoft Spreadsheets к %s. Неверное имя файла.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document.</source>
-        <translation>Вставляет значок, который представляет содержимое файла в ваш документ.</translation>
+        <translation>Вставка значка, представляющего содержимое файла, в ваш документ.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the program which created the source file.</source>
-        <translation>Вставляет содержимое файла в документ, так что вы можете редактировать его позже с помощью программы, которая создала исходный файл.</translation>
+        <translation>Вставка содержимого файла в документ с возможностью редактирования его, используя программу, в которой был создан исходный файл.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your document.</source>
-        <translation>Вставить новый объект %s в документ.</translation>
+        <translation>Вставка в документ нового объекта %s.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your document as an icon.</source>
@@ -3098,19 +3101,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Inserts an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
-        <translation>Вставить  значок, представляющий содержимое файла в документе. Изменения в исходном файле будут отражены в документе.</translation>
+        <translation>Вставка в документ значка, представляющего содержимое файла. Изменения в исходном файле будут отображаться в документе.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation>Вставляет содержимое файла в документ и создает ссылку на исходный файл. Изменения в исходном файле будут отражены в документе.</translation>
+        <translation>Вставка содержимого файла в документ, и создание ссылки на исходный файл. Изменения в исходном файле будут отображаться в документе.</translation>
     </message>
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
-        <translation>Не удалось сохранить серийный номер. Пожалуйста, проверьте есть ли у вас права администратора.</translation>
+        <translation>Ошибка сохранения серийного номера. Проверьте наличие у вас прав администратора.</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
-        <translation>Имя Сводной таблицы уже существует.</translation>
+        <translation>Имя сводной таблицы уже существует.</translation>
     </message>
     <message>
         <source>File</source>
@@ -3118,7 +3121,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The file name is incorrect, please input the filename with correct format.</source>
-        <translation>Неправильное имя файла, пожалуйста введите корректное имя и формат.</translation>
+        <translation>Неверное имя файла, введите имя в правильном формате.</translation>
     </message>
     <message>
         <source>File not found</source>
@@ -3130,27 +3133,27 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Folder</source>
-        <translation>папка</translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <source>GB</source>
-        <translation>GB</translation>
+        <translation>Гб</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Основной</translation>
+        <translation>Общий</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>&amp;Зеленый:</translation>
+        <translation>&amp;Зелёный:</translation>
     </message>
     <message>
         <source>Headings</source>
-        <translation>Рубрики</translation>
+        <translation>Заголовки</translation>
     </message>
     <message>
         <source>Help file doesn&apos;t exist or is broken!</source>
-        <translation>Файл помощи не существует или поврежден!</translation>
+        <translation>Отсутствует или повреждён файл справки!</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -3162,15 +3165,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&lt;&lt;Selection in Document&gt;&gt;</source>
-        <translation>&lt;&lt;Selection in Document&gt;&gt;</translation>
+        <translation>&lt;&lt;Выбор в документе&gt;</translation>
     </message>
     <message>
         <source>An error occurred while importing this file. %s</source>
-        <translation>Ошибка во время импорта файла. %s</translation>
+        <translation>Ошибка импорта файла %s.</translation>
     </message>
     <message>
         <source>Please input &amp;toolbar&apos;s name:</source>
-        <translation>Пожалуйста введите имя &amp;панели:</translation>
+        <translation>Введите имя &amp;панели:</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -3182,31 +3185,31 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
-        <translation>&apos;%s&apos; неверное целочисленное значение</translation>
+        <translation>Неверное целое значение &apos;%s&apos;</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation>Это не верное число.</translation>
+        <translation>Нверное число.</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
-        <translation>Имя сводной таблицы не верно.</translation>
+        <translation>Неверное имя сводной таблицы.</translation>
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
-        <translation>Введен неврный серийный номер. Проверьте формат ввода, поддерживаемую версию и действительную дату.</translation>
+        <translation>Введён неверный серийный номер. Проверьте формат ввода, поддерживаемую версию и действительную дату.</translation>
     </message>
     <message>
         <source>KB</source>
-        <translation>KB</translation>
+        <translation>Кб</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation>Водяной</translation>
+        <translation>Аква</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Черный</translation>
+        <translation>Чёрный</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -3218,7 +3221,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Bright Green</source>
-        <translation>Ярко-зеленый</translation>
+        <translation>Ярко-зелёный</translation>
     </message>
     <message>
         <source>Brown</source>
@@ -3230,27 +3233,27 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation>Темно-синий</translation>
+        <translation>Тёмно-синий</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation>Темно-зеленый</translation>
+        <translation>Темно-зелёный</translation>
     </message>
     <message>
         <source>Dark Purple</source>
-        <translation>Темно-пурпурный</translation>
+        <translation>Тёмно-пурпурный</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation>Темно-красный</translation>
+        <translation>Тёмно-красный</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation>Темный Тил</translation>
+        <translation>Тёмный сине-зелёный</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation>Темно-желтый</translation>
+        <translation>Тёмно-желтый</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -3262,7 +3265,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation>Серый-12.5%</translation>
+        <translation>Серый-12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
@@ -3286,7 +3289,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation>Серый-37.5%</translation>
+        <translation>Серый-37,5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
@@ -3314,7 +3317,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation>Серый-62.5%</translation>
+        <translation>Серый-62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
@@ -3338,7 +3341,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation>Серый-87.5%</translation>
+        <translation>Серый-87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
@@ -3350,11 +3353,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Green</source>
-        <translation>Зеленый</translation>
+        <translation>Зелёный</translation>
     </message>
     <message>
         <source>IceBlue</source>
-        <translation>Снежно-синий</translation>
+        <translation>Пастельный голубой</translation>
     </message>
     <message>
         <source>Indigo</source>
@@ -3362,7 +3365,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Ivory</source>
-        <translation>Айвори</translation>
+        <translation>Слоновая кость</translation>
     </message>
     <message>
         <source>Lavender</source>
@@ -3370,11 +3373,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Light Blue</source>
-        <translation>Светло-синий</translation>
+        <translation>Голубой</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation>Светло-зеленый</translation>
+        <translation>Светло-зелёный</translation>
     </message>
     <message>
         <source>Light Orange</source>
@@ -3386,7 +3389,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation>Светло-желтый</translation>
+        <translation>Светло-жёлтый</translation>
     </message>
     <message>
         <source>Lime</source>
@@ -3398,7 +3401,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Olive Green</source>
-        <translation>Оливково-зеленый</translation>
+        <translation>Оливково-зелёный</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -3410,7 +3413,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Periwinkle</source>
-        <translation>Перва́нш</translation>
+        <translation>Фиолетово-голубой</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -3426,27 +3429,27 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Rose</source>
-        <translation>Цвет розы</translation>
+        <translation>Роза</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation>Морской зеленый</translation>
+        <translation>Морской зелёный</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation>Небесно-синий</translation>
+        <translation>Небесно-голубой</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation>Цвет загара</translation>
+        <translation>Жёлто-коричневый</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation>Берюзовый</translation>
+        <translation>Сине-зелёный</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation>Бирюза</translation>
+        <translation>Бирюзовый</translation>
     </message>
     <message>
         <source>Violet</source>
@@ -3458,7 +3461,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Yellow</source>
-        <translation>Желтый</translation>
+        <translation>Жёлтый</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
@@ -3466,7 +3469,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Large confetti</source>
-        <translation>Большое конфети</translation>
+        <translation>Крупное конфетти</translation>
     </message>
     <message>
         <source>Large grid</source>
@@ -3474,7 +3477,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Last saved</source>
-        <translation>Последний сохраненный</translation>
+        <translation>Последний сохранённый</translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -3482,63 +3485,63 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Light downward diagonal</source>
-        <translation>Светлый вниз по диагонали </translation>
+        <translation>Светлая по диагонали вниз</translation>
     </message>
     <message>
         <source>Light horizontal</source>
-        <translation>Светлый горизонтальный</translation>
+        <translation>Светлая по горизонтали</translation>
     </message>
     <message>
         <source>Light upward diagonal</source>
-        <translation>Светлый вверх по диагонали</translation>
+        <translation>Светлая по диагонали вверх</translation>
     </message>
     <message>
         <source>Light vertical</source>
-        <translation>Светлый вертикальный</translation>
+        <translation>Светлая по вертикали</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Тире</translation>
+        <translation>Штрих</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Тире-Точка</translation>
+        <translation>Штрих-пунктир</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Черта-точка-точка</translation>
+        <translation>Штрих-точечная линия</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Длинное тире</translation>
+        <translation>Длинный штрих</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Длинная черта-точка</translation>
+        <translation>Длинный штрих-пунктир</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Soild</source>
-        <translation>Цельный</translation>
+        <translation>Сплошной</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Loading DLL fails</source>
-        <translation>Ошибка при загрузке DLL</translation>
+        <translation>Ошибка загрузки DLL</translation>
     </message>
     <message>
         <source>Loading %s fails. Application will terminate. Please check and try again.</source>
-        <translation>Ошибка при загрузке %s . Приложение будет завершено. Пожалуйста проверьте и попробуйте еще раз..</translation>
+        <translation>Ошибка загрузки %s . Приложение будет завершено. Проверьте и попробуйте снова.</translation>
     </message>
     <message>
         <source>Load on Demand</source>
@@ -3550,23 +3553,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&amp;Lum:</source>
-        <translation>&amp;Лам:</translation>
+        <translation>&amp;Яркость:</translation>
     </message>
     <message>
         <source>You&apos;ve reached the max retry step, program will terminate.</source>
-        <translation>Вы достигли максимального количества попыток, программа будет завершена.</translation>
+        <translation>Превышение максимального количества попыток, программа будет завершена.</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation>MB</translation>
+        <translation>Mб</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation>Недопустимое измерение.</translation>
+        <translation>Неверно указана единица измерения.</translation>
     </message>
     <message>
         <source>More Color...</source>
-        <translation>Больше цветов...</translation>
+        <translation>Другие цвета...</translation>
     </message>
     <message>
         <source>Move to</source>
@@ -3574,15 +3577,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Narrow horizontal</source>
-        <translation>Узкая горизонтальная</translation>
+        <translation>Частая по горизонтали</translation>
     </message>
     <message>
         <source>Narrow vertical</source>
-        <translation>Узкая вертикальная</translation>
+        <translation>Частая по вертикали</translation>
     </message>
     <message>
         <source>Never Modify</source>
-        <translation>Никогда не изменять</translation>
+        <translation>Не изменять</translation>
     </message>
     <message>
         <source>New Button</source>
@@ -3598,7 +3601,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Next Slide</source>
-        <translation>Новый слайд</translation>
+        <translation>Следующий слайд</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -3618,24 +3621,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>None</source>
-        <translation>Ни одного</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>(normal text)</source>
-        <translation>(нормальный текст)</translation>
+        <translation>(обычный текст)</translation>
     </message>
     <message>
         <source>NUM</source>
-        <translation>NUM</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The number must be between %d and %d. Try again by entering a number in this range.</source>
-        <translation>
-Число должно быть между%d и%d. Попробуйте еще раз, введя число в этом диапазоне.</translation>
+        <translation>Число должно быть в диапазоне между%d и%d. Повторите, выбрав число в допустимом диапазоне.</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Номер</translation>
+        <translation>Число</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -3647,47 +3649,47 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
-        <translation>Выберите кодировку, для верного отображения текста.</translation>
+        <translation>Выберите кодировку для правильного отображения текста.</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
-        <translation>Обрисованный ромб</translation>
+        <translation>Контурные ромбики</translation>
     </message>
     <message>
         <source>OVR</source>
-        <translation>OVR</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Part of %s</source>
-        <translation>Часть из %s</translation>
+        <translation>Часть %s</translation>
     </message>
     <message>
         <source>Part of %s trial version</source>
-        <translation>Часть из %s пробной версии</translation>
+        <translation>Часть пробной версии %s</translation>
     </message>
     <message>
         <source>The key length of the file encryption must not be longer than %d characters.</source>
-        <translation>Длина ключа шифрования файла не должна быть больше, чем%d символов.</translation>
+        <translation>Длина ключа шифрования файла не должна превышать %d символов.</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation>Ярлык будет создан к исходному файлу при вставке в качестве гиперссылки. Изменения в исходном файле будут отражены в документе.</translation>
+        <translation>При вставке в качестве гиперссылки будет создан ярлык исходного файла. Изменения в исходном файле будут отображаться в документе.</translation>
     </message>
     <message>
         <source>Select Picture</source>
-        <translation>Выбрать картинку</translation>
+        <translation>Выбрать изображение</translation>
     </message>
     <message>
         <source>Plaid</source>
-        <translation>Клетчатый</translation>
+        <translation>Шотландка</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation>pt</translation>
+        <translation>пт</translation>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Previous Slide</source>
@@ -3699,11 +3701,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Printing %d page of %d</source>
-        <translation>Печать %d страницы из %d</translation>
+        <translation>Печать страницы %d из %d</translation>
     </message>
     <message>
         <source>Product ID: %s</source>
-        <translation>Идентификационный номер: %s</translation>
+        <translation>Код продукта: %s</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
@@ -3711,23 +3713,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Refercence is not valid.</source>
-        <translation>Ссылка не действительна.</translation>
+        <translation>Неверная ссылка.</translation>
     </message>
     <message>
         <source>Are you sure you have saved these files you need?</source>
-        <translation>Вы уверены, что сохранили эти файлы?</translation>
+        <translation>Уверены, что сохранили необходимые файлы?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation>Вы действительно хотите сбросить панель символов?</translation>
+        <translation>Действительно хотите вернуть исходные параметры панели &quot;Символ&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; toolbar?</source>
-        <translation>Вы действительно хотите сбросить &apos;%s&apos; панель?</translation>
+        <translation>Действительно хотите вернуть исходные параметры панели &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Суббота:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save As</source>
@@ -3735,35 +3737,35 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation>Предупреждение: Сохранение в виде текстового файла вызовет потерю всего форматирования, изображений и объектов в файле.</translation>
+        <translation>Предупреждение: cохранение в виде текстового файла приведёт к потере форматирования, изображений и объектов в файле.</translation>
     </message>
     <message>
         <source>SCRL</source>
-        <translation>SCRL</translation>
+        <translation></translation>
     </message>
     <message>
         <source>---Search Selection---</source>
-        <translation>---Поиск---</translation>
+        <translation>---Поиск в выделенном---</translation>
     </message>
     <message>
         <source>sec</source>
-        <translation>сек</translation>
+        <translation>сек.</translation>
     </message>
     <message>
         <source>Automatic check file security troubles before close application.</source>
-        <translation>Автоматическая проверка файла на безопасность перед закрытием приложения.</translation>
+        <translation>Автоматически проверять файл на ошибки безопасности перед закрытием приложения.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation>Пожалуйста, выберите &amp;папку:</translation>
+        <translation>Выберите &amp;папку:</translation>
     </message>
     <message>
         <source>Automatic check file security troubles before send e-mail.</source>
-        <translation>Автоматическая проверка файла на безопасность перед отправкой электронного сообщения.</translation>
+        <translation>Автоматически проверять файл на ошибки безопасности перед отправкой электронного сообщения.</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation>От &amp;Центра</translation>
+        <translation>От &amp;центра</translation>
     </message>
     <message>
         <source>Fro&amp;m title</source>
@@ -3779,19 +3781,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Shingle</source>
-        <translation>Галька</translation>
+        <translation>Дранка</translation>
     </message>
     <message>
         <source>(Show All)</source>
-        <translation>(Показать всеl)</translation>
+        <translation>(Показать всё)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
-        <translation>Список слайдов</translation>
+        <translation>Заголовки слайдов</translation>
     </message>
     <message>
         <source>Small checkerboard</source>
-        <translation>Мелкая шахматная доска</translation>
+        <translation>Небольшая шахматная доска</translation>
     </message>
     <message>
         <source>Small confetti</source>
@@ -3803,7 +3805,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Solid diamond</source>
-        <translation>Заполненый ромб</translation>
+        <translation>Сплошной-ромб</translation>
     </message>
     <message>
         <source>Sphere</source>
@@ -3815,15 +3817,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>DoorOpen</source>
-        <translation>Открытая дверь</translation>
+        <translation>Открыта дверца</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Офлайн</translation>
+        <translation>Не в сети</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation>приостановлено</translation>
+        <translation>Приостановлено</translation>
     </message>
     <message>
         <source>Printing</source>
@@ -3835,19 +3837,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Авторское право</translation>
+        <translation>Авторские права</translation>
     </message>
     <message>
         <source>Double Closing Quote</source>
-        <translation>Двойные закрывающие кавычки</translation>
+        <translation>Двойная закрывающая кавычка</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
-        <translation>Двоные открывающие кавыяки</translation>
+        <translation>Двойная открывающая кавычка</translation>
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation>Элипс</translation>
+        <translation>Многоточие</translation>
     </message>
     <message>
         <source>Em Dash</source>
@@ -3867,7 +3869,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Nonbreaking Space</source>
-        <translation>Фиксированный пробел</translation>
+        <translation>Неразрывный пробел</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3875,7 +3877,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Registered</source>
-        <translation>Зарегестрирован</translation>
+        <translation>Зарегестрировано</translation>
     </message>
     <message>
         <source>Section</source>
@@ -3891,7 +3893,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Trademark</source>
-        <translation>Водяной знак</translation>
+        <translation>Товарный знак</translation>
     </message>
     <message>
         <source>System</source>
@@ -3903,7 +3905,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>More Buttons|</source>
-        <translation>Больше кнопок|</translation>
+        <translation>Другие кнопки|</translation>
     </message>
     <message>
         <source>Template</source>
@@ -3911,11 +3913,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>what you entered is invalid.</source>
-        <translation>То, что вы ввели неверно.</translation>
+        <translation>неверный ввод.</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Неверный целочисленный текст.</translation>
+        <translation>ошибка преобразования текста в целое число.</translation>
     </message>
     <message>
         <source>Text</source>
@@ -3923,11 +3925,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Select Texture</source>
-        <translation>Выберите текстуру</translation>
+        <translation>Выбрать текстуру</translation>
     </message>
     <message>
         <source>3D Style %d</source>
-        <translation>3D стиль %d</translation>
+        <translation>Стиль 3D %d</translation>
     </message>
     <message>
         <source>Top of the Document</source>
@@ -3935,11 +3937,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Trellis</source>
-        <translation>Решетка</translation>
+        <translation>Шпалера</translation>
     </message>
     <message>
         <source>(Trial)</source>
-        <translation>(Пробный)</translation>
+        <translation>(Ознакомительная версия)</translation>
     </message>
     <message>
         <source>&lt;List of Toolbars&gt;</source>
@@ -3947,11 +3949,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>&lt;More Control&gt;</source>
-        <translation>&lt;More Control&gt;</translation>
+        <translation>&lt;Другие элементы управления&gt;</translation>
     </message>
     <message>
         <source>&lt;List of Current Windows&gt;</source>
-        <translation>&lt;Список окон&gt;</translation>
+        <translation>&lt;Список текущих окон&gt;</translation>
     </message>
     <message>
         <source>&lt;Dynamic List&gt;</source>
@@ -3959,47 +3961,47 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Basic Latin;Latin-1 Supplement;Latin Extended-A;Latin Extended-B;IPA Extensions;Spacing Modifier Letters;Combining Diacritical Marks;Basic Greek;Cyrillic;Armenian;Basic Hebrew;Basic Arabic;Devanagari;</source>
-        <translation>Basic Latin;Latin-1 Supplement;Latin Extended-A;Latin Extended-B;IPA Extensions;Spacing Modifier Letters;Combining Diacritical Marks;Basic Greek;Cyrillic;Armenian;Basic Hebrew;Basic Arabic;Devanagari;</translation>
+        <translation>Базовая латиница; Дополнительная латиница-1; Расширенная латиница-А; Расширенная латиница-B; Фонетические значки; Символы изменения пробелов; Диакритические знаки; Греческий основной; Кириллица; Армянский; Иврит основной; Арабский основной; Деванагари;</translation>
     </message>
     <message>
         <source>Bengali;Gurmukhi;Gujarati;Oriya;Tamil;Telugu;Kannada;Malayalam;Thai;Lao;Basic Georgian;Hangul Jamo;Latin Extended Additional;Greek Extended;General Punctuation;Subscripts and Superscripts;</source>
-        <translation>Bengali;Gurmukhi;Gujarati;Oriya;Tamil;Telugu;Kannada;Malayalam;Thai;Lao;Basic Georgian;Hangul Jamo;Latin Extended Additional;Greek Extended;General Punctuation;Subscripts and Superscripts;</translation>
+        <translation>Бенгальский; Гурмухи; Гуджарати; Ория; Тамильский; Телугу; Каннада; Малаялам; Тайский; Лао; Грузинский основной; Хангыль джамо; Дополнительная латиница; Греческий расширенный; Знаки пунктуации; Верхние и нижние индексы;</translation>
     </message>
     <message>
         <source>Currency Symbols;Combining Diacritical Marks for Symbols;Letter-like Symbols;Number Forms;Arrows;Mathematical Operators;Miscellaneous Technical;Control Pictures;Optical Character Recognition;</source>
-        <translation></translation>
+        <translation>Символ валюты; Диакритические знаки для символов; Буквоподобные символы; Числовые формы; Стрелки; Математические операторы; Технические символы; Значки управляющих кодов; Распознавание символов (OCR);</translation>
     </message>
     <message>
         <source>Enclosed Alphanumerics;Box Drawing;Block Elements;Geometric Shapes;Miscellaneous Symbols;Dingbats;CJK Symbols and Punctuation;Hiragana;Katakana;Bopomofo;Extended Bopomofo;Hangul Compatibility Jamo;</source>
-        <translation></translation>
+        <translation>Алфавитно-цифровые обрамленные; Символы рамок; Символы заполнения; Геометрические фигуры; Различные символы; Декоративные символы и значки; ККЯ символы и пунктуация; Хирагана; Катакана; Бопомофо; Расширенный Бопомофо; Хангыль джамо (совместимый);</translation>
     </message>
     <message>
         <source>CJK Miscellaneous;Enclosed CJK Letters and Months;CJK Compatibility;Hangul;Surrogates;CJK Unified Ideographs;CJK Radicals Supplement;Kangxi Radicals;Ideographic Description;</source>
-        <translation></translation>
+        <translation>ККЯ различные знаки; ККЯ обрамленные буквы и месяцы; ККЯ совместимые; Хангыль; Суррогаты; ККЯ - унифицированные иероглифы; ККЯ дополнительные ключи; Ключи кандзи; Идеографические символы;</translation>
     </message>
     <message>
         <source>CJK Unified Ideograph Extension A;Private Use Area;CJK Compatibility Ideographs;Alphabetic Presentation Forms;Arabic Presentation Forms-A;Combining Half Marks;CJK Compatibility Forms;</source>
-        <translation></translation>
+        <translation>ККЯ идеографическое расширение A; Область личных символов; ККЯ совместимые иероглифы; Декоративные варианты букв; Арабский декоративный-А; Дополняющие половинки; ККЯ совместимые варианты;</translation>
     </message>
     <message>
         <source>Small Form Variants;Arabic Presentation Forms-B;Halfwidth and Fullwidth Forms;Specials;Tibetan;Syriac;Thaana;Sinhala;Myanmar;Ethiopic;Cherokee;Canadian Aboriginal Syllabics;Ogham;Runic;Khmer;</source>
-        <translation></translation>
+        <translation>Варианты малых форм; Арабский декоративный-B; Символы полной и половинной ширины; Специальные символы; Тибетский; Сирийский; Тхаана; Сингальский; Бирманский; Эфиопский; Чероки; Канадское слоговое письмо; Огамическое письмо; Руническое письмо; Кхмерский;</translation>
     </message>
     <message>
         <source>Mongolian;Braille;Yi Radicals</source>
-        <translation></translation>
+        <translation>Монгольский; Брайля; Ицзу ключи</translation>
     </message>
     <message>
         <source>Value should be between %s and %s.</source>
-        <translation>Значение должно быть между %s и %s.</translation>
+        <translation>Значение должно быть в диапазоне между %s и %s.</translation>
     </message>
     <message>
         <source>Value should be not less than %s.</source>
-        <translation>Значение должно быть не менее%s.</translation>
+        <translation>Значение должно быть не меньше %s.</translation>
     </message>
     <message>
         <source>Value should be not greater than %s.</source>
-        <translation>Значение должно быть не больше%s.</translation>
+        <translation>Значение должно быть не больше %s.</translation>
     </message>
     <message>
         <source>%s is illegal floating value.</source>
@@ -4007,79 +4009,79 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Value should be between %d and %d.</source>
-        <translation>Значение должно быть между %d и %d.</translation>
+        <translation>Значение должно быть в диапазоне между %d и %d.</translation>
     </message>
     <message>
         <source>Value should not be less than %d.</source>
-        <translation>Значение должно быть не менее%d.</translation>
+        <translation>Значение должно быть не меньше %d.</translation>
     </message>
     <message>
         <source>Value should not be greater than %d.</source>
-        <translation>Значение должно быть не больше%d.</translation>
+        <translation>Значение должно быть не больше %d.</translation>
     </message>
     <message>
         <source>%d is illegal value.</source>
-        <translation>%d неверное значение.</translation>
+        <translation>Неверное значение %d.</translation>
     </message>
     <message>
         <source>The &quot;%s&quot; you entered is not valid.</source>
-        <translation>&quot;%s&quot; неправильно введен.</translation>
+        <translation> Неверный ввод &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation>Дуга вниз (Кривая)</translation>
+        <translation>Дуга вниз (обычная)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation>Дуга вниз (Заливка)</translation>
+        <translation>Дуга вниз (утолщённая)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation>Дуга вверх (Кривая)</translation>
+        <translation>Дуга вверх (обычная)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation>Дуга вверх (Заливка)</translation>
+        <translation>Дуга вверх (утолщённая)</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Кнопка (Кривая)</translation>
+        <translation>Кнопка (обычная)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Кнопка (Заливка)</translation>
+        <translation>Кнопка (утолщённая)</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>Дном вниз</translation>
+        <translation>Изгиб вниз</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>Дном вверх</translation>
+        <translation>Изгиб вверх</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation>Каскадом вниз</translation>
+        <translation>Каскад вниз</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation>Каскадом вверх</translation>
+        <translation>Каскад вверх</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation>Шеврон вниз</translation>
+        <translation>Угол вниз</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation>Нашивка вверх</translation>
+        <translation>Угол вверх</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation>Окружность (Кривая)</translation>
+        <translation>Окружность (обычная)</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation>Окружность (Заливка)</translation>
+        <translation>Окружность (утолщённая)</translation>
     </message>
     <message>
         <source>Curve Down</source>
@@ -4091,23 +4093,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation>Сдуть Наполнить Сдуть</translation>
+        <translation>Выпуклая линза в футляре</translation>
     </message>
     <message>
         <source>Deflate</source>
-        <translation>Сдуть</translation>
+        <translation>Вогнутая линза</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation>Сдуть снизу</translation>
+        <translation>Вогнутый верх</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation>Сдуть Наполнить</translation>
+        <translation>Вогнутость и выпуклость</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation>Сдуть сверху</translation>
+        <translation>Вогнутый верх</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
@@ -4119,31 +4121,31 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Fade Down</source>
-        <translation>Сужаться вниз</translation>
+        <translation>Конус вниз</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation>Сужаться влево</translation>
+        <translation>Конус влево</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation>Сужаться вправо</translation>
+        <translation>Конус вправо</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation>Сужаться вверх</translation>
+        <translation>Конус вверх</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation>Наполнить</translation>
+        <translation>Выпуклая линза</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation>Наполнить снизу</translation>
+        <translation>Выпуклое дно</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation>Наполнить сверху</translation>
+        <translation>Выпуклый верх</translation>
     </message>
     <message>
         <source>Plain Text</source>
@@ -4151,11 +4153,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>Внутри круга</translation>
+        <translation>Кольцо внутрь</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>Снаружи круга</translation>
+        <translation>Кольцо наружу</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -4195,11 +4197,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Wide downward diagonal</source>
-        <translation>Широкий вниз по диагонали</translation>
+        <translation>Широкая по диагонали вниз</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
-        <translation>Широкий вверх по диагонали</translation>
+        <translation>Широкая по диагонали вверх</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
@@ -4207,19 +4209,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>All Files(*.*)|*.*|Presentations and Shows(*.dps;*.ppt)|*.dps;*.ppt</source>
-        <translation>Все файлы(*.*)|*.*|Презентации(*.dps;*.ppt)|*.dps;*.ppt</translation>
+        <translation>Все файлы(*.*)|*.*|Презентации и демонстрации (*.dps;*.ppt)|*.dps;*.ppt</translation>
     </message>
     <message>
         <source>Kingsoft Presentation cannot access %s, the file name is invalid.</source>
-        <translation>Kingsoft Presentation не может получить доступ %s, недопустимое имя файла.</translation>
+        <translation>Невозмоность доступа Kingsoft Presentation к %s, неверное имя файла.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
-        <translation>Вставляет содержимое файла как объекта в презентацию так, чтобы активировать приложение с помощью которого он был создан. Будет отображен в виде значка.</translation>
+        <translation>Вставляет содержимое файла как объект, что позволяет его активизировать, используя создавшее приложение. Отображается значком.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
-        <translation>Вставляет содержимое файла как объекта в презентацию так, чтобы его можно активировать с помощью приложения, с помощью которого был создан.</translation>
+        <translation type="unfinished">Вставляет содержимое файла как объект, что позволяет его активизировать, используя создавшее приложение.</translation>
     </message>
     <message>
         <source>Inserts a new %s object into your presentation.</source>
@@ -4227,15 +4229,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Inserts a new %s object into your presentation. It will be displayed as an icon.</source>
-        <translation>Вставить новый объект %s в документ в виде значка.</translation>
+        <translation>Вставить новый объект %s в презентацию. Отображается значком.</translation>
     </message>
     <message>
         <source>Inserts an icon into your presentation which represents the file. The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation>Вставляет иконку в презентации, которая представляет собой файл. Значок будет ярлыком к файлу, изменения в файле будут отражены в презентации.</translation>
+        <translation>Вставляет значок, представляющий файл. Значок будет являться ссылкой на файл, так что изменения файла будут отражаться в презентации.</translation>
     </message>
     <message>
         <source>Inserts a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation>Вставляет файл рисунка в презентацию. Картина будет ярлыком к файлу так, чтобы изменения в файле могли быть  отражены в презентации.</translation>
+        <translation>Вставляет файл изображения в презентацию. Изображение будет являться ссылкой на файл, так что изменения файла будут отражаться в презентации.</translation>
     </message>
     <message>
         <source>Blank Document</source>
@@ -4243,11 +4245,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Kingsoft Writer cannot access %s, the file name is invalid.</source>
-        <translation>Kingsoft Writer не может получить доступ %s, недопустимое имя файла.</translation>
+        <translation>Невозмоность доступа Kingsoft Writer к %s, неверное имя файла.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
-        <translation>Вставляет содержимое файла в документ, так что вы можете редактировать его позже с помощью приложения, которым он был создан.</translation>
+        <translation>Вставка содержимого указанного файла в документ так, чтобы его можно было редактировать, используя приложение, в котором он был создан.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
@@ -4256,7 +4258,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation>Вставляет содержимое файла в документ и создает ярлык к исходному файлу. Изменения в исходном файле будут отражены в документе.</translation>
+        <translation>Вставка содержимого файла в документ и создание связи с источником. Изменения в исходном файле будут автоматически отражаться в документе.</translation>
     </message>
     <message>
         <source>Zig zag</source>
@@ -4264,15 +4266,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>%s Properties</source>
-        <translation>%s Свойства</translation>
+        <translation>Свойства %s</translation>
     </message>
     <message>
         <source>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translation></translation>
     </message>
     <message>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
-        <translation>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unknown picture file extension (.%s)</source>
@@ -4284,19 +4286,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; command?</source>
-        <translation>Вы действительно хотите сбросить &apos;%s&apos; команду?</translation>
+        <translation>Вы действительно хотите перезапустить из исходного состояния команду&apos;%s&apos;?</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
-        <translation>Сводная таблица не может быть создана на новом листе, так как книга защищена. Выберите существующий лист или снемите защиту от записи.</translation>
+        <translation>Невозможно создать сводную таблицу в новом листе электронной таблицы из-за защиты электронной книги. Выберите существующую электронную таблицу или снимите защиту записи электронной книги.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation>Пожалуйста введите пароль к настройкам доступа!</translation>
+        <translation>Введите пароль к настройкам разрешений!</translation>
     </message>
     <message>
         <source>---Translate Selection---</source>
-        <translation>---Секция перевода---</translation>
+        <translation>---Перевести выделенное---</translation>
     </message>
     <message>
         <source>Back</source>
@@ -4316,11 +4318,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation>Шрифт отсутствует в системе %s, текст будет отображаться шрифтом по умолчанию, вы все равно хотите использовать его?</translation>
+        <translation>Не найден шрифт %s в системе, для отображения текста будет использован шрифт замены. Продолжить?</translation>
     </message>
     <message>
         <source>Embed in File</source>
-        <translation>Вставить в файл</translation>
+        <translation>Встроить в файл</translation>
     </message>
     <message>
         <source>Educational material</source>
@@ -4336,15 +4338,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>English (United States)</source>
-        <translation>Английский (United States)</translation>
+        <translation>Английский (США)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
-        <translation>Китайский (PRC)</translation>
+        <translation>Китайский (КНР)</translation>
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation>Японский (Japan)</translation>
+        <translation>Японский (Япония)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
@@ -4352,15 +4354,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
-        <translation>Все изображения(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
+        <translation>Все изображения(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Метафайл Windows (EMF)(*.emf)|*.emf|Метафайл Windows (*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
-        <translation>Изображение слишком большое, чтобы использовать в качестве шаблона.</translation>
+        <translation>Изображение слишком велико для использования в качестве шаблона.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation>Китайский (Taiwan)</translation>
+        <translation>Китайский (Тайвань)</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -4368,39 +4370,39 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>- (Hyphen)</source>
-        <translation>- (Дефис)</translation>
+        <translation>- (дефис)</translation>
     </message>
     <message>
         <source>. (Period)</source>
-        <translation>. (Период)</translation>
+        <translation>. (точка)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation>: (Колон)</translation>
+        <translation>: (двоеточие)</translation>
     </message>
     <message>
         <source>— (EmDash)</source>
-        <translation>- (Длинное Тире)</translation>
+        <translation>- (длинное тире)</translation>
     </message>
     <message>
         <source>– (EnDash)</source>
-        <translation>- (Короткое Тире)</translation>
+        <translation>- (короткое тире)</translation>
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
-        <translation>Вы закрываете %d вкладку, хотите продолжить?</translation>
+        <translation>Вкладка %d будет закрыта, продолжить?</translation>
     </message>
     <message>
         <source>The previous tab</source>
-        <translation>Предыдущий лист</translation>
+        <translation>Предыдущая вкладка</translation>
     </message>
     <message>
         <source>The next tab</source>
-        <translation>Следующий лист</translation>
+        <translation>Следующая вкладка</translation>
     </message>
     <message>
         <source>Tab list</source>
-        <translation>Список листов</translation>
+        <translation>Список вкладок</translation>
     </message>
     <message>
         <source>New document</source>
@@ -4408,36 +4410,35 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Document tab</source>
-        <translation>Вкладка документы</translation>
+        <translation>Вкладка документа</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
-        <translation>Офисный пакет по умолчанию %s.</translation>
+        <translation>%s является текущей версией офисного программного обеспечения по умолчанию.</translation>
     </message>
     <message>
         <source>%s is not the current default office software. Are you sure you want to set %s as the default office software?</source>
-        <translation>
-%s неверная версия офисного пакета по умолчанию. Вы уверены, что хотите установить %s  как версию офисногопакета по умолчанию?</translation>
+        <translation>%s не является текущим офисным программным обеспечением по умолчанию. Вы уверены, что хотите установить %s в качестве офисного программного обеспечения по умолчанию?</translation>
     </message>
     <message>
         <source>Verifying the serial number, please wait...</source>
-        <translation>Проверка серийного номера, пожалуйста ждите...</translation>
+        <translation>Проверка серийного номера, пожалуйста, подождите...</translation>
     </message>
     <message>
         <source>Fail to open email client automatically, please send email to %s to feedback information.</source>
-        <translation>Неудачная попытка открыть почтовый клиент автоматически, пожалуйста, отправьте%s для отладочной информации.</translation>
+        <translation>Ошибка автоматического открытия почтового клиента. Пожалуйста, для информации обратной связи отправьте электронное сообщение в %s.</translation>
     </message>
     <message>
         <source>The installation or update patches are running, now, %s will exit, please run %s again after the completion of installation or updating.</source>
-        <translation>Идет установка обновлений %s будет закрыто. Запустите %s  вновь после завершения установки обновлений.</translation>
+        <translation>Идёт установка исправлений или обновлений, %s будет закрыто. Перезапустите %s после завершения.</translation>
     </message>
     <message>
         <source>The file can not be deleted, which may be occupied.</source>
-        <translation>Файл не может быть удален, возможно он занят.</translation>
+        <translation>Невозможно удалить файл, возможно он находится в использовании.</translation>
     </message>
     <message>
         <source>Some files can not be deleted, which may be occupied.</source>
-        <translation>Некоторые файлы не могут быть удалены, возможно они заняты.</translation>
+        <translation>Некоторые файлы не могут быть удалены, возможно они находятся в использовании.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>
@@ -4452,7 +4453,10 @@ If the problem still exists, you can print a test page by right-clicking the pri
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation></translation>
+        <translation>Невозможно создать сводную таблицу с этими данными. Убедитесь, что данные для анализа соответствуют следующим условиям: 
+1. Убедитесь что ссылка существует. Если это имя, то оно не должно выходить за допустимый диапазон; 
+2. Убедитесь, что ссылка в одном диапазоне, который содержит, по крайней мере, две строки; 
+3. Убедитесь, что первая строка диапазона не содержит пустые ячейки, нет ошибочных значений, и каждая ячейка содержит не более 255 символов.</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
@@ -4460,7 +4464,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
-        <translation></translation>
+        <translation>Неверное имя сводной таблицы. 
+
+Чтобы создать отчёт сводной таблицы, необходимо использовать данные, организованные в виде списка с заголовками столбцов. 
+
+Для изменения имени поля сводной таблицы введите новое имя.</translation>
     </message>
     <message>
         <source>Thank you for choosing Kingsoft Office series product.
@@ -4471,10 +4479,10 @@ For better service, please update the trial edition to standard edition by:
 2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
         <translation>Благодарим Вас за выбор продуктов серии Kingsoft Office.
 
-Вы установили Kingsoft Office Personal Trial Edition.
-Для лучшего обслуживания, пожалуйста, обновите пробную версию до стандартного издания:
-1. Нажмите кнопку &quot;Подтвердить Kingsoft Passport&quot;. Если вы еще не зарегистрировали Kingsoft Passport, пожалуйста, нажмите на &quot;Регистрация Kingsoft Passport&quot; в первую очередь;
-2. Нажмите кнопку &quot;Kingsoft Passport&quot; в меню &quot;Справка&quot;.</translation>
+Вы установили Kingsoft Office персональный, пробная версия.
+Для лучшего обслуживания, пожалуйста, обновите пробную версию до стандартной:
+1. Нажмите кнопку &quot;Подтвердить паспорт Kingsoft&quot;. Если вы еще не зарегистрировали паспорт Kingsoft, пожалуйста, сначала нажмите кнопку &quot;Регистрация паспорта Kingsoft&quot;;
+2. Нажмите кнопку &quot;Паспорт Kingsoft&quot; в меню &quot;Справка&quot;.</translation>
     </message>
     <message>
         <source>Open in browser</source>
@@ -4484,41 +4492,39 @@ For better service, please update the trial edition to standard edition by:
         <source>Organization Chart
 Used to show hierarchical relationships</source>
         <translation>Организационная диаграмма
-Используется для отображения иерархии и связей </translation>
+Используется для отображения иерархических отношений</translation>
     </message>
     <message>
         <source>Cycle Diagram
 Used to show a process with a continuous 
 cycle</source>
         <translation>Циклическая диаграмма
-Используется, чтобы показать процесс с непрерывными
-циклами</translation>
+Используется для отображения процесса непрерывного цикла</translation>
     </message>
     <message>
         <source>Radial Diagram
 Used to show relationships of core elements</source>
         <translation>Радиальная диаграмма
-Используется для отображения связей основных элементов</translation>
+Используется для отображения отношений основных элементов</translation>
     </message>
     <message>
         <source>Pyramid diagram
 Used to show foundation-based relationships</source>
         <translation>Пирамидальная диаграмма
-Используется для отображения фундаментальный отношений</translation>
+Используется для отображения фундаментальных отношений</translation>
     </message>
     <message>
         <source>Venn diagram
 Used to show areas of overlap between 
 elements</source>
         <translation>Диаграмма Венна
-Используется, чтобы показать области дублирования между
-элементами</translation>
+Используется для отображения областей перекрывания элементов</translation>
     </message>
     <message>
         <source>Target Diagram
 Used to show steps toward a goal</source>
         <translation>Целевая диаграмма
-Используется, чтобы показать шаги к цели</translation>
+Используется для отображения шагов, направленных на достижение цели</translation>
     </message>
 </context>
 </TS>
