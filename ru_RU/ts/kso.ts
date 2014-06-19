@@ -605,7 +605,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Галерея фигурных текстов</translation>
+        <translation>Коллекция фигурных текстов</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -645,15 +645,15 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Очень плотно</translation>
+        <translation>Очень плотный</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Плотно</translation>
+        <translation>Плотный</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Обычный</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -777,7 +777,7 @@ Please check your system settings and ensure the temporary directory under the c
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Исходные параметры изображения</translation>
+        <translation>Восстановить изображение</translation>
     </message>
     <message>
         <source>Kingsoft Writer</source>
@@ -826,7 +826,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Поменять изображение</translation>
+        <translation>Изменить изображение</translation>
     </message>
     <message>
         <source>The server application, source file, or item can&apos;t be found, or returned an unknown error. You may need to reinstall the server application</source>
@@ -2089,7 +2089,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Поменять изображение</translation>
+        <translation>Изменить изображение</translation>
     </message>
     <message>
         <source>Click to add text</source>
@@ -2337,7 +2337,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
-        <translation>Пожалуйста, дождитесь окончания резервного копирования файла...</translation>
+        <translation>Дождитесь окончания резервного копирования файла...</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -3509,7 +3509,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Штрих-точечная линия</translation>
+        <translation>Штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -4169,7 +4169,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Stop</source>
-        <translation>Стоп</translation>
+        <translation>Знак "стоп"</translation>
     </message>
     <message>
         <source>Triangle Up</source>
@@ -4426,7 +4426,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Fail to open email client automatically, please send email to %s to feedback information.</source>
-        <translation>Ошибка автоматического открытия почтового клиента. Пожалуйста, для информации обратной связи отправьте электронное сообщение в %s.</translation>
+        <translation>Ошибка автоматического открытия почтового клиента. Пожалуйста, для информации обратной связи отправьте электронную почту %s.</translation>
     </message>
     <message>
         <source>The installation or update patches are running, now, %s will exit, please run %s again after the completion of installation or updating.</source>
@@ -4481,7 +4481,7 @@ For better service, please update the trial edition to standard edition by:
 
 Вы установили Kingsoft Office персональный, пробная версия.
 Для лучшего обслуживания, пожалуйста, обновите пробную версию до стандартной:
-1. Нажмите кнопку &quot;Подтвердить паспорт Kingsoft&quot;. Если вы еще не зарегистрировали паспорт Kingsoft, пожалуйста, сначала нажмите кнопку &quot;Регистрация паспорта Kingsoft&quot;;
+1. Нажмите кнопку &quot;Подтвердить паспорт Kingsoft&quot;. Если вы ещё не зарегистрировали паспорт Kingsoft, пожалуйста, сначала нажмите кнопку &quot;Регистрация паспорта Kingsoft&quot;;
 2. Нажмите кнопку &quot;Паспорт Kingsoft&quot; в меню &quot;Справка&quot;.</translation>
     </message>
     <message>

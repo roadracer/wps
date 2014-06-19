@@ -472,7 +472,7 @@
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation>К&amp;вадрат</translation>
+        <translation>В к&amp;вадрате</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
@@ -555,7 +555,7 @@
     </message>
     <message>
         <source>&amp;One</source>
-        <translation>&amp;Один</translation>
+        <translation>&amp;Одна</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
@@ -591,7 +591,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
@@ -820,7 +820,7 @@
     </message>
     <message>
         <source>Pt</source>
-        <translation>Пт</translation>
+        <translation>пт</translation>
     </message>
     <message>
         <source>Writer</source>
@@ -1045,7 +1045,7 @@
     </message>
     <message>
         <source>See above/below</source>
-        <translation>Смотри выше / ниже</translation>
+        <translation>Смотреть выше/ниже</translation>
     </message>
     <message>
         <source>Head text</source>
@@ -1359,7 +1359,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>   Click on diagram below or
@@ -1609,7 +1609,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>List preview:</source>
-        <translation>Предпросмотр списка:</translation>
+        <translation>Просмотр списка:</translation>
     </message>
     <message>
         <source>None list</source>
@@ -1998,7 +1998,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Use &amp;hyperlinks</source>
-        <translation>Использовать &amp;гипессылки</translation>
+        <translation>Использовать &amp;гиперссылки</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -2041,7 +2041,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation>&amp;Вернуть в исходное состояние</translation>
+        <translation>&amp;Восстановить исходные параметры</translation>
     </message>
 </context>
 <context>
@@ -2303,7 +2303,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>Bullet position</source>
@@ -2370,7 +2370,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
@@ -2743,7 +2743,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Please choose a field</source>
-        <translation>Пожалуйста, выберите поле</translation>
+        <translation>Выберите поле</translation>
     </message>
     <message>
         <source>&amp;Field names:</source>
@@ -2755,7 +2755,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Field &amp;codes:</source>
-        <translation>&amp;Коды поля:</translation>
+        <translation>&amp;Код поля:</translation>
     </message>
     <message>
         <source>Assistant:</source>
@@ -2875,11 +2875,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview:</source>
-        <translation>Предпросмотр:</translation>
+        <translation>Просмотр:</translation>
     </message>
     <message>
         <source>&amp;Examples:</source>
-        <translation>&amp;Примеры:</translation>
+        <translation>&amp;Пример:</translation>
     </message>
     <message>
         <source>&amp;Style name:</source>
@@ -3209,7 +3209,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
@@ -3257,7 +3257,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Condensed</source>
-        <translation>Уплонтнённый</translation>
+        <translation>Уплотнённый</translation>
     </message>
     <message>
         <source>&amp;Kerning for fonts:</source>
@@ -3344,7 +3344,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Number format:</source>
-        <translation>&amp;Формат числа:</translation>
+        <translation>&amp;Формат номера:</translation>
     </message>
     <message>
         <source>C&amp;ustom mark:</source>
@@ -3576,7 +3576,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
 </context>
 <context>
@@ -4182,7 +4182,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>(All scripts)</source>
-        <translation type="unfinished">(Все сценарии)</translation>
+        <translation type="unfinished">(Все рукописные</translation>
     </message>
     <message>
         <source>Latin</source>
@@ -4307,7 +4307,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>(All scripts)</source>
-        <translation>(Все сценарии)</translation>
+        <translation>(Все рукописные)</translation>
     </message>
     <message>
         <source>Latin</source>
@@ -4622,7 +4622,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Use c&amp;haracter units</source>
-        <translation>Использовать символь&amp;ные единицы</translation>
+        <translation>Использовать единицы з&amp;наков</translation>
     </message>
     <message>
         <source>Inches</source>
@@ -5357,11 +5357,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>Number &amp;format:</source>
-        <translation>&amp;Формат числа:</translation>
+        <translation>&amp;Формат номера:</translation>
     </message>
     <message>
         <source>&amp;Show numher on first page</source>
@@ -5524,7 +5524,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
@@ -5608,11 +5608,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Header:</source>
-        <translation>&amp;Верхний колонтитул:</translation>
+        <translation>&amp;верхний колонтитул:</translation>
     </message>
     <message>
         <source>&amp;Footer:</source>
-        <translation>Нижний &amp;колонтитул:</translation>
+        <translation>нижний &amp;колонтитул:</translation>
     </message>
     <message>
         <source>General options</source>
@@ -5640,7 +5640,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Use &amp;character units</source>
-        <translation>Использовать символь&amp;ные единицы</translation>
+        <translation>Использовать единицы &amp;знаков</translation>
     </message>
     <message>
         <source>&amp;Borders....</source>
@@ -5728,7 +5728,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;One</source>
-        <translation>&amp;Один</translation>
+        <translation>&amp;Одна</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
@@ -5939,7 +5939,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>&amp;Outline level:</source>
@@ -6122,7 +6122,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview </source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -6793,7 +6793,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview </source>
-        <translation>Предпросмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
@@ -6947,7 +6947,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Page width</source>
-        <translation>Ширина &amp;страницы</translation>
+        <translation>По ширине &amp;страницы</translation>
     </message>
     <message>
         <source>&amp;75%</source>
@@ -6955,7 +6955,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Text width</source>
-        <translation>Ширина &amp;текста</translation>
+        <translation>По ширине &amp;текста</translation>
     </message>
     <message>
         <source>RadioButton</source>
@@ -6967,7 +6967,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Whole page</source>
-        <translation>&amp;Вся страница</translation>
+        <translation>&amp;Страница целиком</translation>
     </message>
     <message>
         <source>P&amp;ercent:</source>
@@ -7163,11 +7163,12 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
-        <translation>Изменить и вычислить формулу, показать результат в окне предварительного просмотра.</translation>
+        <translation>вычисление значения математической формулы.</translation>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation>Если KingSoft.wps находится на диске С, то код поля: HYPERLINK C:\\KingSoft.wps</translation>
+        <translation>если KingSoft.wps находится на диске С, 
+то код поля: HYPERLINK C:\\KingSoft.wps</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -7175,15 +7176,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
-        <translation>Открытие указанного файла и переход к нему</translation>
+        <translation>способ перехода к другим документам.</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation>Открыть и активировать файл KingSoft.wps на диске C.</translation>
+        <translation>открыть и активировать файл KingSoft.wps на диске C.</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
-        <translation>Если вставляете поле на третьей странице, то код поля: PAGE \* CHINESENUM2</translation>
+        <translation>поле на третьей странице. Код поля: PAGE \* CHINESENUM2</translation>
     </message>
     <message>
         <source>Page</source>
@@ -7191,7 +7192,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert the number of the current page</source>
-        <translation>Вставка номера текущей страницы</translation>
+        <translation>вставка номера текущей страницы.</translation>
     </message>
     <message>
         <source>THREE</source>
@@ -7199,7 +7200,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Presume the page number of the bookmark myEndPage is 5. Field code:PAGEREF myEndPage</source>
-        <translation>Если 5 это номер страницы закладки myEndPage, то код поля:PAGEREF myEndPage</translation>
+        <translation>5 это номер страницы закладки myEndPage. Код поля:PAGEREF myEndPage</translation>
     </message>
     <message>
         <source>PageRef</source>
@@ -7207,11 +7208,12 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert the page number containing the specified bookmark</source>
-        <translation>Вставьте номер страницы, содержащей указанную закладку.</translation>
+        <translation>служит для вставки перекрестной ссылки 
+на номер страницы, на которой находится закладка.</translation>
     </message>
     <message>
         <source>Presume there are 10 pages in the section where this field is inserted. Field code:SECTIONPAGES</source>
-        <translation>Если в разделе, где вставляется поле, 10 страниц, то код поля: SECTIONPAGES</translation>
+        <translation>в разделе, где вставляется поле, 10 страниц. Код поля: SECTIONPAGES</translation>
     </message>
     <message>
         <source>SectionPages</source>
@@ -7219,11 +7221,12 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert the total number of pages in the section</source>
-        <translation>Вставка общего числа страниц в разделе</translation>
+        <translation>служит для вставки общего числа страниц в разделе.</translation>
     </message>
     <message>
         <source>The display result of the first place. Field code:SEQ KGS</source>
-        <translation type="unfinished">Показ результата первой позиции. Код поля:SEQ KGS</translation>
+        <translation>перезапустить нумерацию страниц с 1 
+во всех разделах после первого. Код поля:SEQ KGS</translation>
     </message>
     <message>
         <source>Seq</source>
@@ -7231,11 +7234,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert an automatic sequence number</source>
-        <translation>Вставить автоматический порядковый номер</translation>
+        <translation>вставка автоматического порядкового номера.</translation>
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents,  click Options, then select Table entry fields. Field code: TC</source>
-        <translation>По умолчанию в поле TC вставляется скрытый текст. Для просмотра этого поля, выберите "Вставить"->"Ссылка"->"Оглавление", затем выберите "Поля элементов оглавления". Код поля: TC</translation>
+        <translation>поле TC(элемент оглавления) форматируется как скрытый текст и не отображается в документе. Для просмотра этого поля, выберите "Вставка"->"Ссылки"->"Оглавление", затем выберите поля элементов оглавления. Код поля: TC</translation>
     </message>
     <message>
         <source>TC</source>
@@ -7243,23 +7246,24 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
-        <translation>Отметить элемент оглавления</translation>
+        <translation>определяет текст и номера страниц для элементов в оглавлении 
+и списках таблиц, рисунков и подобном содержимом.</translation>
     </message>
     <message>
         <source>Presume it is August 8 of 2008. Field code:Time \@ yyyy-M-d</source>
-        <translation>Предположим дата в формате Август, 8, 2008. Код поля:Time \@ yyyy-M-d</translation>
+        <translation>если дата в формате Август, 8, 2008, то код поля:Time \@ yyyy-M-d</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Время</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The current time</source>
-        <translation>Текущее время</translation>
+        <translation>служит для вставки текущего времени в документ.</translation>
     </message>
     <message>
         <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:TOC \o 1-3 \h  \u</source>
-        <translation>Предположим есть стили от Оглавления1 до Оглавления3 или уровни структуры от абзаца 1 до абзаца 3. Код поля:TOC \o 1-3 \h  \u</translation>
+        <translation>если есть стили от Заголовка1 до Заголовка3 или уровни структуры от абзаца 1 до абзаца 3, то код поля:TOC \o 1-3 \h  \u</translation>
     </message>
     <message>
         <source>ToC</source>
@@ -7267,7 +7271,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Create a table of contents</source>
-        <translation>Создать оглавление</translation>
+        <translation>служит для создания оглавления.</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -7275,7 +7279,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Presume there are 20 pages of the current document. Field code:NumPages</source>
-        <translation>Предположим есть 20 страниц в текущем документе. Код поля:NumPages</translation>
+        <translation>текущий документ состоит из 20-ти страниц. Код поля:NumPages</translation>
     </message>
     <message>
         <source>NumPages</source>
@@ -7283,11 +7287,12 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The number of pages in the document</source>
-        <translation>Число страниц в документе</translation>
+        <translation>служит для вставки общего числа страниц в документе.</translation>
     </message>
     <message>
         <source>Presume set the KingSoft variable assignment as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
-        <translation>Предположим в VBA установливается значение 100 переменной Kingsoft. Код поля: DOCVARIABLE KingSoft</translation>
+        <translation>в VBA устанавливается значение 100 
+переменной Kingsoft. Код поля: DOCVARIABLE KingSoft</translation>
     </message>
     <message>
         <source>DocVariable</source>
@@ -7295,7 +7300,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert the value of document variable NAME</source>
-        <translation>Вставьте значение переменной документа NAME</translation>
+        <translation>служит для вставки строки, назначенной переменной документа.</translation>
     </message>
     <message>
         <source>StyleRef</source>
@@ -7303,7 +7308,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert the text of a paragraph with styles.</source>
-        <translation>Включить текст абзаца со стилями.</translation>
+        <translation>служит для вставки текста, отформатированного с указанным стилем.</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -9265,7 +9270,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>You may edit in this region,but all change will be tracked.</source>
-        <translation>Вы можете редактировать эту область, но все изменения будут записываться.</translation>
+        <translation>Вы можете редактировать эту область, но все исправления будут записываться.</translation>
     </message>
     <message>
         <source>You may only insert comments into this region.</source>
@@ -9339,7 +9344,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxTpStyleFormatWidget</name>
     <message>
         <source>Valid styles</source>
-        <translation>Допустимые стили</translation>
+        <translation>Действующие стили</translation>
     </message>
     <message>
         <source>All styles</source>
@@ -9380,7 +9385,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation>К&amp;вадрат</translation>
+        <translation>В к&amp;вадрате</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
@@ -11017,7 +11022,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>preview</source>
-        <translation>предпросмотр</translation>
+        <translation>просмотр</translation>
     </message>
     <message>
         <source>appl&amp;y to:</source>

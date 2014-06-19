@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D цвет</translation>
+        <translation>Цвет 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D применить/отменить</translation>
+        <translation>Применить или отменить 3-D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>Bright</source>
-        <translation>Яркий</translation>
+        <translation>Яркое</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>Dim</source>
-        <translation>Тусклый</translation>
+        <translation>Тусклое</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -62,11 +62,11 @@
     </message>
     <message>
         <source>Matte</source>
-        <translation>Матовый</translation>
+        <translation>Матовая</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>Металлический</translation>
+        <translation>Металл</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Нормальное</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -294,11 +294,11 @@
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3-D Параметры</translation>
+        <translation>Параметры 3-D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D стиль</translation>
+        <translation>Стиль 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -422,51 +422,51 @@
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation>Стиль стрелки</translation>
+        <translation>Вид стрелки</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation>Стиль стрелки 1</translation>
+        <translation>Вид стрелки 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation>Стиль стрелки 10</translation>
+        <translation>Вид стрелки 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation>Стиль стрелки 11</translation>
+        <translation>Вид стрелки 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation>Стиль стрелки 2</translation>
+        <translation>Вид стрелки 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation>Стиль стрелки 3</translation>
+        <translation>Вид стрелки 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation>Стиль стрелки 4</translation>
+        <translation>Вид стрелки 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation>Стиль стрелки 5</translation>
+        <translation>Вид стрелки 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation>Стиль стрелки 6</translation>
+        <translation>Вид стрелки 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation>Стиль стрелки 7</translation>
+        <translation>Вид стрелки 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation>Стиль стрелки 8</translation>
+        <translation>Вид стрелки 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation>Стиль стрелки 9</translation>
+        <translation>Вид стрелки 9</translation>
     </message>
     <message>
         <source>Auto Shapes</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль штриха</translation>
+        <translation>Тип штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -522,15 +522,15 @@
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>Выровнять по высоте</translation>
+        <translation>Равной высоты</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Выровнять по ширине</translation>
+        <translation>Равной ширины</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -538,7 +538,7 @@
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation>Эффекты заполнения</translation>
+        <translation>Способы заливки</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -558,7 +558,7 @@
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -614,7 +614,7 @@
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинный штрих -пунктир-пунктир</translation>
+        <translation>Длинный штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -666,7 +666,7 @@
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -718,7 +718,7 @@
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>Поместить назад</translation>
+        <translation>По умолчанию для автофигур</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -815,7 +815,7 @@
     </message>
     <message>
         <source>Square</source>
-        <translation>Квадрат</translation>
+        <translation>В квадрате</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -1089,7 +1089,7 @@
     </message>
     <message>
         <source>Next Header</source>
-        <translation>Следующий верхний колонтитул</translation>
+        <translation>Следующий колонтитул</translation>
     </message>
     <message>
         <source>Number of Pages</source>
@@ -1105,7 +1105,7 @@
     </message>
     <message>
         <source>Page X</source>
-        <translation>Станица X</translation>
+        <translation>Страница X</translation>
     </message>
     <message>
         <source>Page X of Y</source>
@@ -1113,11 +1113,11 @@
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>Предыдущий верхний колонтитул</translation>
+        <translation>Предыдущий колонтитул</translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
-        <translation>Переключение между верхним и нижним колонтитулами</translation>
+        <translation>Переключение верхнего и нижнего</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
@@ -1308,7 +1308,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Поменять изображение</translation>
+        <translation>Изменить изображение</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1324,7 +1324,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -1364,7 +1364,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Исходные параметры изображения</translation>
+        <translation>Восстановить изображение</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -1411,7 +1411,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>Закрыть предпросмотр</translation>
+        <translation>Закрыть просмотр</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -1529,7 +1529,7 @@ Merged Data</source>
     <name>classics.shadow_settings</name>
     <message>
         <source>More Shadow Colors</source>
-        <translation>Больше цветов тени</translation>
+        <translation>Другие цвета тени</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -1541,7 +1541,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>С тенью / без тени</translation>
+        <translation>Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -1564,7 +1564,7 @@ Merged Data</source>
     <name>classics.standard</name>
     <message>
         <source>Average</source>
-        <translation>Средний</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>Blank Page</source>
@@ -1624,7 +1624,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -1652,7 +1652,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>Максисум</translation>
+        <translation>Максимум</translation>
     </message>
     <message>
         <source>Min</source>
@@ -1714,7 +1714,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Average</source>
-        <translation>Средний</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -1746,11 +1746,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить столбцы равномерно</translation>
+        <translation>Выровнять ширину столбцов</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>Распределить строки равномерно</translation>
+        <translation>Выровнять высоту строк</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -1782,7 +1782,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>Максисум</translation>
+        <translation>Максимум</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -2033,11 +2033,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Обычный</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Простой текст</translation>
+        <translation>Обычный текст</translation>
     </message>
     <message>
         <source>Right Alignment</source>
@@ -2061,11 +2061,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>Квадрат</translation>
+        <translation>В квадрате</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Стоп</translation>
+        <translation>Знак "стоп"</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -2081,7 +2081,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Плотно</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -2101,7 +2101,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Очень плотно</translation>
+        <translation>Очень плотный</translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -2125,7 +2125,7 @@ Merged Data</source>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Галерея фигурных текстов</translation>
+        <translation>Коллекция фигурных текстов</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -2431,7 +2431,7 @@ On</source>
     </message>
     <message>
         <source>Align Center</source>
-        <translation></translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -2451,55 +2451,55 @@ On</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Упорядочить</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation>Стиль стрелки</translation>
+        <translation>Вид стрелки</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation>Стиль стрелки 1</translation>
+        <translation>Вид стрелки 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation>Стиль стрелки 10</translation>
+        <translation>Вид стрелки 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation>Стиль стрелки 11</translation>
+        <translation>Вид стрелки 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation>Стиль стрелки 2</translation>
+        <translation>Вид стрелки 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation>Стиль стрелки 3</translation>
+        <translation>Вид стрелки 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation>Стиль стрелки 4</translation>
+        <translation>Вид стрелки 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation>Стиль стрелки 5</translation>
+        <translation>Вид стрелки 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation>Стиль стрелки 6</translation>
+        <translation>Вид стрелки 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation>Стиль стрелки 7</translation>
+        <translation>Вид стрелки 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation>Стиль стрелки 8</translation>
+        <translation>Вид стрелки 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation>Стиль стрелки 9</translation>
+        <translation>Вид стрелки 9</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -2539,7 +2539,7 @@ On</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль штриха</translation>
+        <translation>Тип штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -2639,7 +2639,7 @@ On</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Горизонталь</translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -2679,7 +2679,7 @@ On</source>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинный штрих-пунктир-пунктир</translation>
+        <translation>Длинный штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>More</source>
@@ -2727,7 +2727,7 @@ On</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2779,7 +2779,7 @@ On</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заполнить фигуру</translation>
+        <translation>Заливка фигуры</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -2795,7 +2795,7 @@ On</source>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation></translation>
+        <translation>Уменьшить шрифт</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -2803,7 +2803,7 @@ On</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>Квадрат</translation>
+        <translation>В квадрате</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -2859,7 +2859,7 @@ On</source>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>Вертикальное текстовое поле</translation>
+        <translation>Вертикально</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -2878,11 +2878,11 @@ On</source>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Управление резервным копированием</translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Поменять версию</translation>
+        <translation>Изменить версию</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -2978,15 +2978,15 @@ On</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>Новый из заданного шаблона</translation>
+        <translation>Создание на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Новый из локальных шаблонов</translation>
+        <translation>Создание на локальном шаблоне</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Новый из онлайн шаблонов</translation>
+        <translation>Создание на шаблоне из Интернета</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3050,11 +3050,11 @@ On</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>Обучение онлайн</translation>
+        <translation>Обучение в Интернете</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Обновить онлайн</translation>
+        <translation>Обновить из Интернета</translation>
     </message>
     <message>
         <source>WPS New features</source>
@@ -3096,7 +3096,7 @@ On</source>
     </message>
     <message>
         <source>Header&amp;Footer  Options</source>
-        <translation>Параметры  &amp;Колонтитулов</translation>
+        <translation>Параметры колонтитулов</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -3124,7 +3124,7 @@ On</source>
     </message>
     <message>
         <source>Next Header</source>
-        <translation>Следующий верхний колонтитул</translation>
+        <translation>Следующий колонтитул</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -3132,7 +3132,7 @@ On</source>
     </message>
     <message>
         <source>Page X</source>
-        <translation>Станица X</translation>
+        <translation>Страница X</translation>
     </message>
     <message>
         <source>Page X of Y</source>
@@ -3144,15 +3144,15 @@ On</source>
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>Предыдущий верхний колонтитул</translation>
+        <translation>Предыдущий колонтитул</translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>Переключение между верхним и нижним колонтитулами</translation>
+        <translation>Переключение верхнего и нижнего</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>Страница X из Y</translation>
+        <translation>Всего Y страниц</translation>
     </message>
 </context>
 <context>
@@ -3339,7 +3339,7 @@ On</source>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation>Найти/заменить</translation>
+        <translation>Поиск и замена</translation>
     </message>
     <message>
         <source>Font</source>
@@ -3380,7 +3380,7 @@ Painter</source>
     </message>
     <message>
         <source>Home Object Select</source>
-        <translation type="unfinished">Выделение объекта Главной вкладки</translation>
+        <translation type="unfinished">Выделение объекта вкладки "Главная"</translation>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
@@ -3614,7 +3614,7 @@ Painter</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Разрыв раздела текущей страницы</translation>
+        <translation>На текущей странице</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -3654,7 +3654,7 @@ Painter</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>Разрыв раздела чётных страниц</translation>
+        <translation>С чётной страницы</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3682,7 +3682,7 @@ Painter</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -3690,7 +3690,7 @@ Painter</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Горизонталь</translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Horizontal Blank Page</source>
@@ -3738,7 +3738,7 @@ Painter</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>Разрыв раздела следующей страницы</translation>
+        <translation>Со следующей страницы</translation>
     </message>
     <message>
         <source>Number</source>
@@ -3750,7 +3750,7 @@ Painter</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>Разрыв раздела нечётных страниц</translation>
+        <translation>С нечётной страницы</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -3831,7 +3831,7 @@ bol</source>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>Вертикальное текстовое поле</translation>
+        <translation>Вертикально</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -3928,7 +3928,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Preview Result</source>
-        <translation>Предпросмотр результатов</translation>
+        <translation>Просмотр результатов</translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -4055,7 +4055,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Упорядочить</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -4095,7 +4095,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Непрерывный разрыв раздела</translation>
+        <translation>На текущей странице</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -4123,7 +4123,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>Разрыв раздела чётных страниц</translation>
+        <translation>С чётной страницы</translation>
     </message>
     <message>
         <source>Even Width</source>
@@ -4191,7 +4191,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>Разрыв раздела следующей страницы</translation>
+        <translation>Со следующей страницы</translation>
     </message>
     <message>
         <source>None</source>
@@ -4199,7 +4199,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>Разрыв раздела нечётных страниц</translation>
+        <translation>С нечётной страницы</translation>
     </message>
     <message>
         <source>One</source>
@@ -4291,7 +4291,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>Квадрат</translation>
+        <translation>В квадрате</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -4514,7 +4514,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Плотно</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
@@ -4608,11 +4608,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Упорядочить</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation></translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -4636,7 +4636,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Поменять изображение</translation>
+        <translation>Изменить изображение</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4660,7 +4660,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль штриха</translation>
+        <translation>Тип штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -4708,7 +4708,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -4772,7 +4772,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинный штрих-пунктир-пунктир</translation>
+        <translation>Длинный штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -4796,7 +4796,7 @@ Different New Document</source>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>Больше цветов тени</translation>
+        <translation>Другие цвета тени</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -4808,7 +4808,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -4840,7 +4840,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Исходные параметры изображения</translation>
+        <translation>Восстановить изображение</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5051,7 +5051,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>Закрыть предпросмотр</translation>
+        <translation>Закрыть просмотр</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -5357,7 +5357,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Разрыв раздела текущей страницы</translation>
+        <translation>На текущей странице</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -5381,7 +5381,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>Разрыв раздела чётных страниц</translation>
+        <translation>С чётной страницы</translation>
     </message>
     <message>
         <source>First Section</source>
@@ -5429,7 +5429,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>Разрыв раздела следующей страницы</translation>
+        <translation>Со следующей страницы</translation>
     </message>
     <message>
         <source>Next Section</source>
@@ -5437,7 +5437,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>Разрыв раздела нечётных страниц</translation>
+        <translation>С нечётной страницы</translation>
     </message>
     <message>
         <source>One</source>
@@ -5524,19 +5524,19 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D цвет</translation>
+        <translation>Цвет 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D применить/отменить</translation>
+        <translation>Применить или отменить 3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3-D Параметры</translation>
+        <translation>Параметры 3-D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D стиль</translation>
+        <translation>Стиль 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -5628,7 +5628,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Bright</source>
-        <translation>Яркий</translation>
+        <translation>Яркое</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -5640,7 +5640,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Dim</source>
-        <translation>Тусклый</translation>
+        <translation>Тусклое</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -5656,11 +5656,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Matte</source>
-        <translation>Матовый</translation>
+        <translation>Матовая</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>Металлический</translation>
+        <translation>Металл</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
@@ -5680,11 +5680,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Нормальное</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>Параллельный</translation>
+        <translation>Параллельно</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -5709,7 +5709,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>С тенью / без тени</translation>
+        <translation>Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -5896,7 +5896,7 @@ On/Off</source>
     </message>
     <message>
         <source>Average</source>
-        <translation>Средний</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -5928,11 +5928,11 @@ On/Off</source>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить столбцы равномерно</translation>
+        <translation>Выровнять ширину столбцов</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>Распределить строки равномерно</translation>
+        <translation>Выровнять высоту строк</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -5996,7 +5996,7 @@ On/Off</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>Максисум</translation>
+        <translation>Максимум</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -6182,7 +6182,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Упорядочить по горизонтали</translation>
+        <translation>Расположить по горизонтали</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -6214,7 +6214,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Page Width</source>
-        <translation>Ширина страницы</translation>
+        <translation>По ширине страницы</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -6274,7 +6274,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation>Упорядочить по вертикали</translation>
+        <translation>Расположить по вертикали</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -6309,19 +6309,19 @@ Other Windows</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D цвет</translation>
+        <translation>Цвет 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D применить/отменить</translation>
+        <translation>Применить или отменить 3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3-D Параметры</translation>
+        <translation>Параметры 3-D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D стиль</translation>
+        <translation>Стиль 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -6413,7 +6413,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Bright</source>
-        <translation>Яркий</translation>
+        <translation>Яркое</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6425,7 +6425,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Dim</source>
-        <translation>Тусклый</translation>
+        <translation>Тусклое</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -6441,11 +6441,11 @@ Other Windows</source>
     </message>
     <message>
         <source>Matte</source>
-        <translation>Матовый</translation>
+        <translation>Матовая</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>Металлический</translation>
+        <translation>Металл</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
@@ -6453,7 +6453,7 @@ Other Windows</source>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>Больше цветов тени</translation>
+        <translation>Другие цвета тени</translation>
     </message>
     <message>
         <source>No 3-D</source>
@@ -6465,11 +6465,11 @@ Other Windows</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Нормальное</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>Параллельный</translation>
+        <translation>Параллельно</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -6494,7 +6494,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>С тенью/без тени</translation>
+        <translation>Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -6719,7 +6719,7 @@ On</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Упорядочить</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -6799,7 +6799,7 @@ On</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль штриха</translation>
+        <translation>Тип штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -6951,7 +6951,7 @@ On</source>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинный штрих-пунктир-пунктир</translation>
+        <translation>Длинный штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -6971,7 +6971,7 @@ On</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Обычный</translation>
     </message>
     <message>
         <source>Object Select</source>
@@ -6983,7 +6983,7 @@ On</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -6991,7 +6991,7 @@ On</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Простой текст</translation>
+        <translation>Обычный текст</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -7015,7 +7015,7 @@ On</source>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation></translation>
+        <translation>Вращать влево 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -7055,7 +7055,7 @@ On</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>Квадрат</translation>
+        <translation>В квадрате</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -7063,7 +7063,7 @@ On</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Стоп</translation>
+        <translation>Знак "стоп"</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -7143,7 +7143,7 @@ On</source>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
@@ -7289,7 +7289,7 @@ On</source>
     <name>popupmenu</name>
     <message>
         <source>0 More Histories</source>
-        <translation type="unfinished">0 Другие архивы</translation>
+        <translation type="unfinished">Другие архивы</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
@@ -7345,11 +7345,11 @@ On</source>
     </message>
     <message>
         <source>Average</source>
-        <translation>Средний</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Управление резервным копированием</translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Blank Page</source>
@@ -7421,11 +7421,11 @@ On</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Поменять изображение</translation>
+        <translation>Изменить изображение</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Поменять версию</translation>
+        <translation>Изменить версию</translation>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
@@ -7509,7 +7509,7 @@ On</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Разрыв раздела текущей страницы</translation>
+        <translation>На текущей странице</translation>
     </message>
     <message>
         <source>Control Menu</source>
@@ -7605,11 +7605,11 @@ On</source>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить колонки равномерно</translation>
+        <translation>Выровнять ширину столбцов</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>Распределить строки равномерно</translation>
+        <translation>Выровнять высоту строк</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -7617,7 +7617,7 @@ On</source>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны из Интернета</translation>
     </message>
     <message>
         <source>Document Map</source>
@@ -7683,7 +7683,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>Разрыв раздела чётных страниц</translation>
+        <translation>С чётной страницы</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
@@ -7795,7 +7795,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -7863,7 +7863,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Упорядочить по горизонтали</translation>
+        <translation>Расположить по горизонтали</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -7951,7 +7951,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Разрегистрация</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -7971,7 +7971,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>Максисум</translation>
+        <translation>Максимум</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -7995,11 +7995,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>Новый из онлайн шаблонов</translation>
+        <translation>Новый шаблон из Интернета</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>Разрыв раздела следующей страницы</translation>
+        <translation>Со следующей страницы</translation>
     </message>
     <message>
         <source>Next Text Box</source>
@@ -8023,7 +8023,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>Разрыв раздела нечётных страниц</translation>
+        <translation>С нечётной страницы</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -8219,7 +8219,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Save All</source>
-        <translation>Сохранить всё</translation>
+        <translation>Сохранить все</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -8275,7 +8275,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="unfinished">Сохранить исходное состояние автофигуры </translation>
+        <translation>По умолчанию для автофигур </translation>
     </message>
     <message>
         <source>Share to Weibo</source>
@@ -8331,19 +8331,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished">Прямая точка</translation>
+        <translation>Прямая точка</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished">Прямой сегмент</translation>
+        <translation>Прямой сегмент</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>Обучение онлайн</translation>
+        <translation>Обучение в Интернете</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation type="unfinished">StudyOnline</translation>
+        <translation type="unfinished">Обучение в Интернете</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -8351,7 +8351,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished">Сумма</translation>
+        <translation>Сумма</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -8403,11 +8403,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Обновить онлайн</translation>
+        <translation>Обновить из Интернета</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation>Упорядочить по вертикали</translation>
+        <translation>Расположить по вертикали</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -8779,55 +8779,55 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Упорядочить</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation>Стиль стрелки</translation>
+        <translation>Вид стрелки</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation>Стиль стрелки 1</translation>
+        <translation>Вид стрелки 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation>Стиль стрелки 10</translation>
+        <translation>Вид стрелки 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation>Стиль стрелки 11</translation>
+        <translation>Вид стрелки 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation>Стиль стрелки 2</translation>
+        <translation>Вид стрелки 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation>Стиль стрелки 3</translation>
+        <translation>Вид стрелки 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation>Стиль стрелки 4</translation>
+        <translation>Вид стрелки 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation>Стиль стрелки 5</translation>
+        <translation>Вид стрелки 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation>Стиль стрелки 6</translation>
+        <translation>Вид стрелки 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation>Стиль стрелки 7</translation>
+        <translation>Вид стрелки 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation>Стиль стрелки 8</translation>
+        <translation>Вид стрелки 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation>Стиль стрелки 9</translation>
+        <translation>Вид стрелки 9</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -8867,7 +8867,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль штриха</translation>
+        <translation>Тип штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -8955,7 +8955,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>В  тексте</translation>
+        <translation>В тексте</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -8979,7 +8979,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинный штрих-пунктир-пунктир</translation>
+        <translation>Длинный штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9023,7 +9023,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -9071,7 +9071,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заполнить фигуру</translation>
+        <translation>Заливка фигуры</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -9095,7 +9095,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>Квадрат</translation>
+        <translation>В квадрате</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -9103,7 +9103,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation></translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -9166,11 +9166,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Управление резервным копированием</translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Поменять версию</translation>
+        <translation>Изменить версию</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -9262,15 +9262,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>Новый из заданного шаблона</translation>
+        <translation>Создание на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Новый из локальных шаблонов</translation>
+        <translation>Создание на локальном шаблоне</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Новый из онлайн шаблонов</translation>
+        <translation>Создание на шаблоне из Интернета</translation>
     </message>
     <message>
         <source>Open</source>
@@ -9334,11 +9334,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>Обучение онлайн</translation>
+        <translation>Обучение в Интернете</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Обновить онлайн</translation>
+        <translation>Обновить из Интернета</translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -9410,7 +9410,7 @@ Options</source>
     </message>
     <message>
         <source>Next Header</source>
-        <translation>Следующий верхний колонтитул</translation>
+        <translation>Следующий колонтитул</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -9418,7 +9418,7 @@ Options</source>
     </message>
     <message>
         <source>Page X</source>
-        <translation>Станица X</translation>
+        <translation>Страница X</translation>
     </message>
     <message>
         <source>Page X of Y</source>
@@ -9430,17 +9430,17 @@ Options</source>
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>Предыдущий верхний колонтитул</translation>
+        <translation>Предыдущий колонтитул</translation>
     </message>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation>Переключение между
-верхним и нижним колонтитулами</translation>
+        <translation>Переключение
+верхнего и нижнего</translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>Переключение между верхним и нижним колонтитулами</translation>
+        <translation>Переключение верхнего и нижнего</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
@@ -9627,7 +9627,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation>Найти/заменить</translation>
+        <translation>Поиск и замена</translation>
     </message>
     <message>
         <source>Font</source>
@@ -9889,7 +9889,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Разрыв раздела текущей страницы</translation>
+        <translation>На текущей странице</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -9929,7 +9929,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>Разрыв раздела чётных страниц</translation>
+        <translation>С чётной страницы</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9957,7 +9957,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -10025,7 +10025,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>Разрыв раздела следующей страницы</translation>
+        <translation>Со следующей страницы</translation>
     </message>
     <message>
         <source>Number</source>
@@ -10037,7 +10037,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>Разрыв раздела нечётных страниц</translation>
+        <translation>С нечётной страницы</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -10200,7 +10200,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Preview Result</source>
-        <translation>Предпросмотр результатов</translation>
+        <translation>Просмотр результатов</translation>
     </message>
     <message>
         <source>Previous
@@ -10333,7 +10333,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Упорядочить</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -10373,7 +10373,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Разрыв раздела текущей страницы</translation>
+        <translation>На текущей странице</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -10401,7 +10401,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>Разрыв раздела чётных страниц</translation>
+        <translation>С чётной страницы</translation>
     </message>
     <message>
         <source>Even Width</source>
@@ -10469,7 +10469,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>Разрыв раздела следующей страницы</translation>
+        <translation>Со следующей страницы</translation>
     </message>
     <message>
         <source>None</source>
@@ -10477,7 +10477,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>Разрыв раздела нечётных страниц</translation>
+        <translation>С нечётной страницы</translation>
     </message>
     <message>
         <source>One</source>
@@ -10565,7 +10565,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>Квадрат</translation>
+        <translation>В квадрате</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -10613,7 +10613,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation></translation>
+        <translation>Разгрупировать</translation>
     </message>
 </context>
 <context>
@@ -10795,7 +10795,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Упорядочить</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -10823,7 +10823,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Поменять изображение</translation>
+        <translation>Изменить изображение</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -10847,7 +10847,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль штриха</translation>
+        <translation>Тип штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -10895,7 +10895,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -10955,7 +10955,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинный штрих-пунктир-пунктир</translation>
+        <translation>Длинный штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -10979,7 +10979,7 @@ Merged Data</source>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>Больше цветов тени</translation>
+        <translation>Другие цвета тени</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -10991,7 +10991,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -11023,7 +11023,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Исходные параметры изображения</translation>
+        <translation>Восстановить изображение</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -11071,7 +11071,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>С тенью / без тени</translation>
+        <translation>Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -11234,7 +11234,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>Закрыть предпросмотр</translation>
+        <translation>Закрыть просмотр</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -11547,7 +11547,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>Разрыв раздела текущей страницы</translation>
+        <translation>На текущей странице</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -11571,7 +11571,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>Разрыв раздела чётных страниц</translation>
+        <translation>С чётной страницы</translation>
     </message>
     <message>
         <source>First Section</source>
@@ -11619,7 +11619,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>Разрыв раздела следующей страницы</translation>
+        <translation>Со следующей страницы</translation>
     </message>
     <message>
         <source>Next Section</source>
@@ -11627,7 +11627,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>Разрыв раздела нечётных страниц</translation>
+        <translation>С нечётной страницы</translation>
     </message>
     <message>
         <source>One</source>
@@ -11714,19 +11714,19 @@ and Endnote</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D цвет</translation>
+        <translation>Цвет 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D применить/отменить</translation>
+        <translation>Применить или отменить 3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3-D Параметры</translation>
+        <translation>Параметры 3-D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D стиль</translation>
+        <translation>Стиль 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -11818,7 +11818,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Bright</source>
-        <translation>Яркий</translation>
+        <translation>Яркое</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -11830,7 +11830,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Dim</source>
-        <translation>Тусклый</translation>
+        <translation>Тусклое</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -11846,11 +11846,11 @@ and Endnote</source>
     </message>
     <message>
         <source>Matte</source>
-        <translation>Матовый</translation>
+        <translation>Матовая</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>Металлический</translation>
+        <translation>Металл</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
@@ -11858,7 +11858,7 @@ and Endnote</source>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>Больше цветов тени</translation>
+        <translation>Другие цвета тени</translation>
     </message>
     <message>
         <source>No 3-D</source>
@@ -11870,11 +11870,11 @@ and Endnote</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Нормальное</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>Параллельный</translation>
+        <translation>Параллельно</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -11894,7 +11894,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>С тенью / без тени</translation>
+        <translation>Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -12077,7 +12077,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Average</source>
-        <translation>Средний</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -12109,11 +12109,11 @@ and Endnote</source>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить столбцы равномерно</translation>
+        <translation>Выровнять ширину столбцов</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>Распределить строки равномерно</translation>
+        <translation>Выровнять высоту строк</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -12286,7 +12286,7 @@ Other Window</source>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Упорядочить по горизонтали</translation>
+        <translation>Расположить по горизонтали</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -12374,7 +12374,7 @@ Other Window</source>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation>Упорядочить по вертикали</translation>
+        <translation>Расположить по вертикали</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -12417,19 +12417,19 @@ Other Window</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D цвет</translation>
+        <translation>Цвет 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D применить/отменить</translation>
+        <translation>Применить или отменить 3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3-D Параметры</translation>
+        <translation>Параметры 3-D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D стиль</translation>
+        <translation>Стиль 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -12521,7 +12521,7 @@ Other Window</source>
     </message>
     <message>
         <source>Bright</source>
-        <translation>Яркий</translation>
+        <translation>Яркое</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -12533,7 +12533,7 @@ Other Window</source>
     </message>
     <message>
         <source>Dim</source>
-        <translation>Тусклый</translation>
+        <translation>Тусклое</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -12549,19 +12549,19 @@ Other Window</source>
     </message>
     <message>
         <source>Matte</source>
-        <translation>Матовый</translation>
+        <translation>Матовая</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>Металлический</translation>
+        <translation>Металл</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation></translation>
+        <translation>Другие цвета 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>Больше цветов тени</translation>
+        <translation>Другие цвета тени</translation>
     </message>
     <message>
         <source>No 3-D</source>
@@ -12573,11 +12573,11 @@ Other Window</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Нормальное</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>Параллельный</translation>
+        <translation>Параллельно</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -12597,7 +12597,7 @@ Other Window</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>С тенью / без тени</translation>
+        <translation>Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -12812,7 +12812,7 @@ Other Window</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Упорядочить</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -12892,7 +12892,7 @@ Other Window</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Стиль штриха</translation>
+        <translation>Тип штриха</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -13046,7 +13046,7 @@ Other Window</source>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Длинный штрих-пунктир-пунктир</translation>
+        <translation>Длинный штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -13066,7 +13066,7 @@ Other Window</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нормальный</translation>
+        <translation>Обычный</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -13074,7 +13074,7 @@ Other Window</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Образцы линий</translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -13082,7 +13082,7 @@ Other Window</source>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Простой текст</translation>
+        <translation>Обычный текст</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -13154,7 +13154,7 @@ Other Window</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Стоп</translation>
+        <translation>Знак "стоп"</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -13234,7 +13234,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Галерея фигурных текстов</translation>
+        <translation>Коллекция фигурных текстов</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
@@ -13277,11 +13277,11 @@ Other Window</source>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Обзор резервного каталога</translation>
+        <translation>Просмотр резервного каталога</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Обзор резервных версий</translation>
+        <translation>Просмотр резервных версий</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -13329,7 +13329,7 @@ Other Window</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation>Онлайн документы</translation>
+        <translation>Документы из Интернета</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
@@ -13383,7 +13383,7 @@ Other Window</source>
     <name>tips.3DColor</name>
     <message>
         <source>3-D color</source>
-        <translation>3-D цвет</translation>
+        <translation>Цвет 3-D</translation>
     </message>
     <message>
         <source>Click the arrow to select from different 3-D colors.</source>
@@ -13435,7 +13435,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.3DOnOff</name>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D применить/отменить</translation>
+        <translation>Применить или отменить 3-D</translation>
     </message>
     <message>
         <source>Turn on or off the 3-D effect applied to the shape.</source>
@@ -13887,7 +13887,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>Поменять изображение</translation>
+        <translation>Изменить изображение</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
@@ -13968,7 +13968,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
-        <translation>Удаление любого форматирования из выделенного фрагмента с оставлением только простого текста.</translation>
+        <translation>Удаление любого форматирования из выделенного фрагмента с оставлением только обычного текста.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14042,7 +14042,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Close Outline View and return to editing the document.</source>
-        <translation>Закрыть вкладку Просмотр структуры и вернуться к редактированию документа.</translation>
+        <translation>Закрыть вкладку "Режим структуры" и вернуться к редактированию документа.</translation>
     </message>
 </context>
 <context>
@@ -14053,7 +14053,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Close Print Preview, and return to editing the document.</source>
-        <translation>Закрыть вкладку Предварительный просмотр и вернуться к редактированию документа.</translation>
+        <translation>Закрыть вкладку "Предварительный просмотр" и вернуться к редактированию документа.</translation>
     </message>
 </context>
 <context>
@@ -14387,7 +14387,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.DistributeColumns</name>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить колонки равномерно</translation>
+        <translation>Выровнять ширину столбцов</translation>
     </message>
     <message>
         <source>Distribute the width of the selected columns equally between them.</source>
@@ -14398,7 +14398,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.DistributeRows</name>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>Распределить строки равномерно</translation>
+        <translation>Выровнять высоту строк</translation>
     </message>
     <message>
         <source>Distribute the height of the selected rows equally between them.</source>
@@ -14546,7 +14546,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <name>tips.ExplorBackupDir</name>
     <message>
         <source>Explore File Safe</source>
-        <translation>Просмотр Резервного хранения файлов</translation>
+        <translation>Просмотр резервного хранилища файлов</translation>
     </message>
     <message>
         <source>View backup files and open or recover the backup files for a certain document.</source>
@@ -14598,7 +14598,7 @@ Click the arrow to choose different fill types.</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заполнить фигуру</translation>
+        <translation>Заливка фигуры</translation>
     </message>
 </context>
 <context>
@@ -14817,15 +14817,15 @@ Double-click this button to apply the same formatting to multiple places in the 
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Gallery</source>
-        <translation>Галерея Kingsoft</translation>
+        <translation>Коллекция Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
 
 Kingsoft Gallery Online Sources require internet connection. My Gallery can be used  without internet after logging in. </source>
-        <translation>Галерея Kingsoft предоставляет все виды источников изображений для использования, сбора коллекции изображений, изменения и управления. 
+        <translation>Коллекция Kingsoft предоставляет все виды источников изображений для использования, сбора коллекции изображений, изменения и управления. 
 
-Для использования Галереи Kingsoft Онлайн необходимо подключение к Интернету. Моя Галерея после регистрации может быть использована без Интернета.</translation>
+Для использования коллекции Kingsoft из Интернета необходимо подключение к Интернету. "Моя Коллекция" после регистрации может быть использована без Интернета.</translation>
     </message>
 </context>
 <context>
@@ -15636,7 +15636,7 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.KOSUserLoginCloudTextBtnTip</name>
     <message>
         <source>Login to use the free Cloud services such as Online Document, File Safe, Online Templates, and Resource Library.</source>
-        <translation>Введите логин и пароль, чтобы пользоваться бесплатными услугами облачного сервиса, такими как, Онлайн документы, Резервное хранение файлов, Онлайн шаблоны и Библиотека ресурсов.</translation>
+        <translation>Введите логин и пароль, чтобы пользоваться бесплатными услугами облачного сервиса, такими как, документы из Интернета, резервное хранение файлов, шаблоны из Интернета и библиотека ресурсов.</translation>
     </message>
     <message>
         <source>Not Logged in.</source>
@@ -15662,7 +15662,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>You have logged in WPS account. View your profile or logout.</source>
-        <translation>Регистрация с учётной записью WPS. Просмотр профиля пользователя или разрегистрация.</translation>
+        <translation>Регистрация с учётной записью WPS. Просмотр профиля пользователя или выход.</translation>
     </message>
 </context>
 <context>
@@ -16098,7 +16098,7 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.OutLine</name>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished">Режим структуры</translation>
+        <translation>Режим структуры</translation>
     </message>
     <message>
         <source>View the document as an outline.</source>
@@ -16744,7 +16744,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Исходные параметры изображения</translation>
+        <translation>Восстановить изображение</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -16877,7 +16877,7 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.ShadowOnOff</name>
     <message>
         <source>Shadow On/Off</source>
-        <translation>С тенью / без тени</translation>
+        <translation>Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
@@ -17337,7 +17337,7 @@ Click the arrow to select different shading colors.</source>
     <name>tips.TaskPane</name>
     <message>
         <source>Show or hide task pane in the document.</source>
-        <translation type="unfinished">Показать или скрыть область задач в документе.</translation>
+        <translation>Показать или скрыть область задач в документе.</translation>
     </message>
     <message>
         <source>Task Pane</source>
@@ -17576,7 +17576,7 @@ Click the arrow to fill the WordArt in different ways.</source>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Галерея фигурных текстов</translation>
+        <translation>Коллекция фигурных текстов</translation>
     </message>
 </context>
 <context>
@@ -17818,7 +17818,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_PageBorder</name>
     <message>
         <source>Add or change the border around the page of the current section or the entire document.</source>
-        <translation>Добавленее или изменение рамки для страницы текущего раздела или всего документа.</translation>
+        <translation>Добавление или изменение рамки для страницы текущего раздела или всего документа.</translation>
     </message>
     <message>
         <source>Page Borders</source>
@@ -17999,7 +17999,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
-        <translation type="unfinished">Упорядочить абзацы</translation>
+        <translation type="unfinished">Расположить абзацы</translation>
     </message>
     <message>
         <source>Smart Rearrange</source>
@@ -18050,7 +18050,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Разрегистрация</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -18207,7 +18207,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Управление резервным копированием</translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -18391,7 +18391,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Галерея</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -18443,7 +18443,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation>Онлайн шаблон Kingsoft</translation>
+        <translation>Шаблон Kingsoft из Интернета</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -18451,7 +18451,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Materials</source>
-        <translation>Материалы</translation>
+        <translation>Автофигуры</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
@@ -18495,19 +18495,19 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>Новый документ из заданного шаблона</translation>
+        <translation>Создание на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Новый документ из локальных шаблонов</translation>
+        <translation>Создание на локальном шаблоне</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Новый документ из других шаблонов</translation>
+        <translation>Создание из других шаблонов</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Новый документ из онлайн шаблона</translation>
+        <translation>Создание на шаблоне из Интернета</translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -18792,7 +18792,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation type="unfinished">Онлайн шаблоны</translation>
+        <translation>Шаблоны из Интернета</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -18800,7 +18800,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished">EnterpriseMicroblog</translation>
+        <translation>Микроблог предприятия</translation>
     </message>
     <message>
         <source>File</source>
@@ -18844,7 +18844,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Разрегистрация</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -18860,11 +18860,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Новый документ из других шаблонов</translation>
+        <translation>Создание из других шаблонов</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Не зарегистрирован</translation>
     </message>
     <message>
         <source>Open</source>
@@ -19020,7 +19020,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Онлайн шаблоны</translation>
+        <translation>Шаблоны из Интернета</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -19028,7 +19028,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Микроблог предприятия</translation>
     </message>
     <message>
         <source>File</source>
@@ -19072,7 +19072,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Разрегистрация</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Mailings</source>
