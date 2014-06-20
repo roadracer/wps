@@ -1996,7 +1996,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Cannot check spelling in the Original review.</source>
-        <translation type="unfinished">Невозможно проверять правописание в исходной проверке.</translation>
+        <translation type="unfinished">Невозможна проверка правописания в исходном рецензировании.</translation>
     </message>
     <message>
         <source>Kingsoft Writer Cannot replace the found item with text containing a break.</source>

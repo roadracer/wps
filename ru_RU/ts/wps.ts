@@ -1749,7 +1749,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation>Изменить &amp;в:</translation>
+        <translation>Заменить &amp;на:</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
@@ -1757,11 +1757,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation>&amp;Изменить</translation>
+        <translation>&amp;Заменить</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation>Изменить в&amp;се</translation>
+        <translation>Заменить в&amp;се</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
@@ -2590,7 +2590,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Изменить</translation>
+        <translation>&amp;Редактирование</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -3108,7 +3108,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation>А&amp;зиатский текст:</translation>
+        <translation>Текст на а&amp;зиатском языке:</translation>
     </message>
     <message>
         <source>Font st&amp;yle:</source>
@@ -4478,11 +4478,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Изменить</translation>
+        <translation>Редактирование</translation>
     </message>
     <message>
         <source>Edit options</source>
-        <translation>Параметры изменений</translation>
+        <translation>Параметры редактирования</translation>
     </message>
     <message>
         <source>Use smart para&amp;graph selection</source>
@@ -4594,7 +4594,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation>Различать &amp;положение</translation>
+        <translation>Различать &amp;место</translation>
     </message>
     <message>
         <source>Bl&amp;ue background, white text</source>
@@ -4614,7 +4614,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation>&amp;записи</translation>
+        <translation>&amp;записей</translation>
     </message>
     <message>
         <source>&amp;Measurement units:</source>
@@ -4642,11 +4642,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Recover options</source>
-        <translation>Варианты восстановления</translation>
+        <translation>Способы восстановления файла</translation>
     </message>
     <message>
         <source>&amp;Create backup file at the first save</source>
-        <translation>Создавать &amp;резервную копию файла при первом сохранении</translation>
+        <translation>Создавать &amp;резервную копию при первом сохранении файла</translation>
     </message>
     <message>
         <source>Save backup f&amp;ile every:</source>
@@ -4670,7 +4670,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Сохранение</translation>
     </message>
     <message>
         <source>Save &amp;files as default:</source>
@@ -4678,15 +4678,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Embed &amp;true type</source>
-        <translation type="unfinished">Вставить &amp;TrueType</translation>
+        <translation type="unfinished">Внедрить &amp;TrueType</translation>
     </message>
     <message>
         <source>&amp;Just embed used chars</source>
-        <translation type="unfinished">Вставить &amp;используемые символы</translation>
+        <translation type="unfinished">Внедрить только &amp;используемые символы</translation>
     </message>
     <message>
         <source>&amp;Do not embed normal fonts</source>
-        <translation type="unfinished">&amp;Не вставлять нормальные шрифты</translation>
+        <translation type="unfinished">&amp;Не внедрять обычные шрифты</translation>
     </message>
     <message>
         <source>Web page</source>
@@ -4782,7 +4782,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Color only</source>
-        <translation>Только цвет</translation>
+        <translation>Только цветом</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4830,7 +4830,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Ch&amp;anged lines:</source>
-        <translation>Из&amp;мененные строки:</translation>
+        <translation>Из&amp;менённые строки:</translation>
     </message>
     <message>
         <source>Left border</source>
@@ -4850,11 +4850,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Comments colo&amp;r:</source>
-        <translation>&amp;Комментарии цветов:</translation>
+        <translation>&amp;Цвет примечаний:</translation>
     </message>
     <message>
         <source>N&amp;umbering color:</source>
-        <translation>&amp;Нумерация цветов:</translation>
+        <translation>&amp;Цвет нумерации:</translation>
     </message>
     <message>
         <source>Balloons</source>
@@ -4910,7 +4910,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Show lines connecting to text</source>
-        <translation type="unfinished">&amp;Показать строки, соединяющие с текстом</translation>
+        <translation type="unfinished">&amp;Показывать линии выносок</translation>
     </message>
     <message>
         <source>Printing (With balloons)</source>
@@ -4978,7 +4978,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>File Locations</source>
-        <translation>Расположение файлов</translation>
+        <translation>Место хранения файлов</translation>
     </message>
     <message>
         <source>&amp;File types:</source>
@@ -4986,7 +4986,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Location:</source>
-        <translation>Расположение:</translation>
+        <translation>Место:</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -5086,7 +5086,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Comments</source>
-        <translation>&amp;Комментарии</translation>
+        <translation>&amp;Примечания</translation>
     </message>
     <message>
         <source>Convert titl&amp;e styles to bookmarks</source>
@@ -6146,7 +6146,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Change All...</source>
-        <translation>Изменить все...</translation>
+        <translation>Заменить все...</translation>
     </message>
     <message>
         <source>0-1-0</source>
@@ -7407,7 +7407,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation>Комментарии</translation>
+        <translation>Примечания</translation>
     </message>
     <message>
         <source>Down</source>
@@ -7643,7 +7643,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Comments</source>
-        <translation>&amp;Комментарии</translation>
+        <translation>&amp;Примечания</translation>
     </message>
     <message>
         <source>&amp;Text Boxes in Main Document</source>
@@ -7685,7 +7685,7 @@ use buttons to apply borders</source>
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian Text Font)</source>
-        <translation>(Используйте азиатский шрифт)</translation>
+        <translation>(Используйте шрифт для азиатских языков)</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -7705,7 +7705,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation>А&amp;зиатский шрифт текста:</translation>
+        <translation>Шрифт текста на а&amp;зиатском языке:</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -8631,7 +8631,7 @@ Cancel:	Return to the dialog.</source>
     <name>KxOptionsDlg</name>
     <message>
         <source>By author</source>
-        <translation>Автор</translation>
+        <translation>От автора</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -9183,7 +9183,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation>Комментарии</translation>
+        <translation>Примечания</translation>
     </message>
     <message>
         <source>Filling in forms</source>
@@ -9257,7 +9257,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>Comments, Only allowed to insert annotations in the document. However, you can set the edit region.
 Select the part of the contents in the document, and select the users can edit.</source>
-        <translation>Комментарии. Разрешено вставлять аннотации в документе с возможностью выбора области редактирования. 
+        <translation>Примечания Разрешено вставлять аннотации в документе с возможностью выбора области редактирования. 
 Выберите часть содержимого в документе и пользователей с разрешением на редактирование.</translation>
     </message>
     <message>

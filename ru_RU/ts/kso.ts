@@ -1837,31 +1837,31 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pub Banner</source>
-        <translation type="unfinished">Внешний баннер</translation>
+        <translation>Баннер</translation>
     </message>
     <message>
         <source>Pub Chord</source>
-        <translation type="unfinished">Внешний пояс</translation>
+        <translation type="unfinished">Хорда</translation>
     </message>
     <message>
         <source>Pub Cross</source>
-        <translation type="unfinished">Внешнее пересечение</translation>
+        <translation type="unfinished">Пересечение</translation>
     </message>
     <message>
         <source>Pub Half Frame</source>
-        <translation type="unfinished">Внешняя половина рамки</translation>
+        <translation type="unfinished">Половина рамки</translation>
     </message>
     <message>
         <source>Pub L</source>
-        <translation type="unfinished">Внешний угол (L)</translation>
+        <translation type="unfinished">Угол</translation>
     </message>
     <message>
         <source>Pub Oval Callout</source>
-        <translation type="unfinished">Внешняя овальная выноска</translation>
+        <translation type="unfinished">Овальная выноска</translation>
     </message>
     <message>
         <source>Pub Pie Slice</source>
-        <translation type="unfinished">Кусок пирога</translation>
+        <translation>Сектор круговой диаграммы</translation>
     </message>
     <message>
         <source>Pub R-Rect Callout</source>
@@ -1873,7 +1873,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Pub Triangle</source>
-        <translation type="unfinished">Внешний треугольник</translation>
+        <translation type="unfinished">Треугольник</translation>
     </message>
     <message>
         <source>Puzzle1</source>

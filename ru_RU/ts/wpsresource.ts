@@ -94,7 +94,7 @@
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>Наклон вниз</translation>
+        <translation>Наклон вперёд</translation>
     </message>
     <message>
         <source>Tilt Left</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>Наклон вверх</translation>
+        <translation>Наклон назад</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -5821,7 +5821,7 @@ On/Off</source>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>Наклон вниз</translation>
+        <translation>Наклон вперёд</translation>
     </message>
     <message>
         <source>Tilt Left</source>
@@ -5833,7 +5833,7 @@ On/Off</source>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>Наклон вверх</translation>
+        <translation>Наклон назад</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -6526,7 +6526,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation></translation>
+        <translation>Стиль тени 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
@@ -6606,7 +6606,7 @@ On/Off</source>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>Наклон вниз</translation>
+        <translation>Наклон вперёд</translation>
     </message>
     <message>
         <source>Tilt Left</source>
@@ -6618,7 +6618,7 @@ On/Off</source>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>Наклон вверх</translation>
+        <translation>Наклон назад</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -7655,7 +7655,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>Изменить точки</translation>
+        <translation>Начать изменение узлов</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -8891,7 +8891,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>Изменить точки</translation>
+        <translation>Начать изменение узлов</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -12006,7 +12006,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>Наклон вниз</translation>
+        <translation>Наклон вперёд</translation>
     </message>
     <message>
         <source>Tilt Left</source>
@@ -12018,7 +12018,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>Наклон вверх</translation>
+        <translation>Наклон назад</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -12709,7 +12709,7 @@ Other Window</source>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>Наклон вниз</translation>
+        <translation>Наклон вперёд</translation>
     </message>
     <message>
         <source>Tilt Left</source>
@@ -12721,7 +12721,7 @@ Other Window</source>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>Наклон вверх</translation>
+        <translation>Наклон назад</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -13468,7 +13468,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.3DTiltDown</name>
     <message>
         <source>Tilt Down</source>
-        <translation>Наклон вниз</translation>
+        <translation>Наклон вперёд</translation>
     </message>
     <message>
         <source>Tilt the shape forward.</source>
@@ -13501,7 +13501,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.3DTiltUp</name>
     <message>
         <source>Tilt Up</source>
-        <translation>Наклон вверх</translation>
+        <translation>Наклон назад</translation>
     </message>
     <message>
         <source>Tilt the shape backward.</source>
@@ -13527,7 +13527,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.AdjustTableProperties</name>
     <message>
         <source>Open the Table Properties dialog box.</source>
-        <translation>Открывает диалоговое окно Свойств таблицы.</translation>
+        <translation>Открывает диалоговое окно "Свойств таблицы".</translation>
     </message>
     <message>
         <source>Table Properties</source>
