@@ -5,7 +5,7 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation>Не удалось скачать &quot;%1&quot;.</translation>
+        <translation>Ошибка загрузки &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -20,11 +20,11 @@
     </message>
     <message>
         <source>This is the latest version.</source>
-        <translation>Установлена последняя версия</translation>
+        <translation>Последняя версия.</translation>
     </message>
     <message>
         <source>Version is too old.</source>
-        <translation>Версия слишком старая.</translation>
+        <translation>Версия устарела.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
@@ -36,17 +36,17 @@
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>Онлайн шаблоны</translation>
+        <translation>Из Интернета</translation>
     </message>
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation>Проверить Онлайн Шаблоны</translation>
+        <translation>Просмотреть шаблоны из Интернета</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translation>Онлайн Шаблоны</translation>
+        <translation>Из Интернета</translation>
     </message>
 </context>
 </TS>

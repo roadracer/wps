@@ -2101,7 +2101,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished">Контур</translation>
+        <translation>Контур</translation>
     </message>
     <message>
         <source>Double Outline</source>
@@ -3901,7 +3901,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Task Window</source>
-        <translation>Окно задачи</translation>
+        <translation>Окно задач</translation>
     </message>
     <message>
         <source>More Buttons|</source>

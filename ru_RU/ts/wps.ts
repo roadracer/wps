@@ -559,7 +559,7 @@
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation>&amp;Два</translation>
+        <translation>&amp;Две</translation>
     </message>
     <message>
         <source>&amp;Three</source>
@@ -4370,7 +4370,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Sta&amp;rtup task window</source>
-        <translation>За&amp;пуск окна задачи</translation>
+        <translation>По&amp;казывать окно задач при запуске</translation>
     </message>
     <message>
         <source>Scree&amp;nTips</source>
@@ -4382,7 +4382,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Highlight</source>
-        <translation>&amp;Выделить</translation>
+        <translation>&amp;Выделение</translation>
     </message>
     <message>
         <source>&amp;Field codes</source>
@@ -4486,23 +4486,23 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Use smart para&amp;graph selection</source>
-        <translation>Использовать &amp;интеллектуальное выделение абзаца</translation>
+        <translation>&amp;Выделение абзацев</translation>
     </message>
     <message>
         <source>D&amp;rag-and-drop text editing</source>
-        <translation>Пере&amp;местить и вставить изменение текста</translation>
+        <translation>Разрешить &amp;перетаскивание текста при редактировании</translation>
     </message>
     <message>
         <source>Auto load default language &amp;IME</source>
-        <translation>Автозагрузка языка по умолчанию &amp;IME</translation>
+        <translation>Автозагрузка &amp;редактора Input Method Editor (IME) языка по умолчанию</translation>
     </message>
     <message>
         <source>Click and type</source>
-        <translation>Щелкнуть и ввести</translation>
+        <translation>Свободный ввод</translation>
     </message>
     <message>
         <source>Enable &amp;click and type</source>
-        <translation>Включить режим &amp;щелкнуть и ввести</translation>
+        <translation>Включить режим &amp;свободного ввода</translation>
     </message>
     <message>
         <source>Default &amp;paragraph style:</source>
@@ -4534,11 +4534,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Mark &amp;ordinal numbers as superscripts</source>
-        <translation>Пометить по&amp;рядковые числительные как надстрочные</translation>
+        <translation>Форматировать по&amp;рядковые числительные с надстрочными знаками</translation>
     </message>
     <message>
         <source>&amp;Hyperlink the internet or network address</source>
-        <translation>Преобразовать в гипер&amp;ссылку сетевой или Интернет адрес</translation>
+        <translation>Преобразовать сетевой или Интернет адрес в гипер&amp;ссылку</translation>
     </message>
     <message>
         <source>Correct accidental of caps &amp;lock key</source>
@@ -4550,7 +4550,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Auto-adjust the space &amp;format at the end of a line which are aligned right</source>
-        <translation>Автоматически настраивать форм&amp;атирование простанства в конце строк, выровненных вправо</translation>
+        <translation>Автоматически настраивать форм&amp;атирование интервала в конце строк, выравненных вправо</translation>
     </message>
     <message>
         <source>Auto convert straight &amp;quote to curly quote</source>
@@ -4558,11 +4558,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cut and paste options</source>
-        <translation>Параметры режима вырезать и вставить</translation>
+        <translation>Параметры вырезания и вставки</translation>
     </message>
     <message>
         <source>Show pas&amp;te options buttons</source>
-        <translation>Показать кнопки параметров &amp;вставки</translation>
+        <translation>Показывать кнопки &amp;специальной вставки</translation>
     </message>
     <message>
         <source>&amp;Default paste format:</source>
@@ -4858,15 +4858,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Balloons</source>
-        <translation>Всплывающие подсказки</translation>
+        <translation>Выноски</translation>
     </message>
     <message>
         <source>Use &amp;balloons:</source>
-        <translation>Использовать всплывающие &amp;подсказки:</translation>
+        <translation>Использовать &amp;выноски:</translation>
     </message>
     <message>
         <source>Show revisions in balloons</source>
-        <translation>Показывать исправления во всплывающих подсказках</translation>
+        <translation>Показывать исправления в выносках</translation>
     </message>
     <message>
         <source>Show all revisions inline</source>
@@ -4874,7 +4874,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Show reviewer information in the balloon</source>
-        <translation>Показать данные рецензента во всплывающих подсказках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>&amp;Margin:</source>
@@ -4914,7 +4914,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Printing (With balloons)</source>
-        <translation>Печать (с всплывающими подсказками)</translation>
+        <translation>Печать (с выносками)</translation>
     </message>
     <message>
         <source>&amp;Paper orientation:</source>
@@ -4978,7 +4978,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>File Locations</source>
-        <translation>Место хранения файлов</translation>
+        <translation>Местонахождение файлов</translation>
     </message>
     <message>
         <source>&amp;File types:</source>
@@ -5070,7 +5070,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Преобразовать в PDF</translation>
+        <translation>Преобразование в PDF</translation>
     </message>
     <message>
         <source>Export options</source>
@@ -5094,7 +5094,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Hyper&amp;link</source>
-        <translation>&amp;Гиперссылка</translation>
+        <translation>&amp;Гиперссылки</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
@@ -5110,7 +5110,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Permission settings</source>
-        <translation>Настройки прав доступа</translation>
+        <translation>Параметры разрешений</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
@@ -5134,7 +5134,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Free print</source>
-        <translation>Свободная печать</translation>
+        <translation>Без ограничений</translation>
     </message>
     <message>
         <source>Permit to add co&amp;mments</source>
@@ -5178,7 +5178,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Treat as equal</source>
-        <translation>Рассматривать как равнозначные</translation>
+        <translation>Обрабатывать как равнозначные</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
@@ -5226,7 +5226,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Match i&amp;a/iya (piano/piyano)</source>
-        <translation type="unfinished">Учитывать i&amp;a/iya (piano/piyano)</translation>
+        <translation>Учитывать i&amp;a/iya (piano/piyano)</translation>
     </message>
     <message>
         <source>Match cho-on &amp;used for vowels</source>
@@ -5732,7 +5732,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation>&amp;Два</translation>
+        <translation>&amp;Две</translation>
     </message>
     <message>
         <source>&amp;Three</source>
@@ -8643,7 +8643,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>User templates</source>
-        <translation>Шаблоны пользователя</translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
@@ -9444,7 +9444,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWordCountDlgClass</name>
     <message>
         <source>Word Count</source>
-        <translation>Подсчет слов</translation>
+        <translation>Статистика файла</translation>
     </message>
     <message>
         <source>Statistics:</source>
@@ -9691,14 +9691,14 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Table Content</source>
-        <translation>Содержимое таблицы </translation>
+        <translation>Содержание</translation>
     </message>
 </context>
 <context>
     <name>KxWpsContentsModel</name>
     <message>
         <source>Built-in</source>
-        <translation>Встроенный</translation>
+        <translation>Встроенный формат</translation>
     </message>
     <message>
         <source>Current</source>
@@ -10813,7 +10813,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation>Экспорт файла Adobe PDF</translation>
+        <translation>Экспорт в файл Adobe PDF</translation>
     </message>
     <message>
         <source>General</source>
@@ -10865,11 +10865,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation>Настройки прав доступа</translation>
+        <translation>Параметры разрешений</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permissions settings</source>
-        <translation>Пароль &amp;защиты настроек прав доступа</translation>
+        <translation>Пароль &amp;защиты параметров разрешений</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
@@ -10881,7 +10881,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Note:only set password,option following can be valid on note,and protected without others on note.</source>
-        <translation type="unfinished">Примечание: только установка пароля.</translation>
+        <translation type="unfinished">Примечание: следующие параметры только при установленном пароле.</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
@@ -10913,7 +10913,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Free Print</source>
-        <translation>Свободная печать</translation>
+        <translation>Без ограничений</translation>
     </message>
     <message>
         <source>File Open password:</source>
@@ -10936,7 +10936,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation>Экспорт файла Adobe PDF</translation>
+        <translation>Экспорт в файл Adobe PDF</translation>
     </message>
     <message>
         <source>&amp;Open File</source>

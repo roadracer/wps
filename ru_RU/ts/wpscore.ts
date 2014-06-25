@@ -2828,7 +2828,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>User templates             %s</source>
-        <translation>Пользовательские шаблоны             %s</translation>
+        <translation>Шаблоны             %s</translation>
     </message>
     <message>
         <source>Use Wildcards</source>

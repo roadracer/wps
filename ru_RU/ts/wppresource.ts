@@ -355,7 +355,7 @@
     </message>
     <message>
         <source>Align / Distribute / Equalize</source>
-        <translation>Выровнять/распределить/уравнять</translation>
+        <translation>Выровнять, распределить или уравнять</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -3086,11 +3086,11 @@ Slide</source>
     </message>
     <message>
         <source>Home_Shape Fill</source>
-        <translation>Заливка Home_Shape</translation>
+        <translation>Заливка фигуры</translation>
     </message>
     <message>
         <source>Home_Shape Line</source>
-        <translation type="unfinished">Строка Home_Shape</translation>
+        <translation>Контур фигуры</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3734,7 +3734,7 @@ Slide</source>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation>Интеллектульный выбор</translation>
+        <translation>Интеллектуальный выбор</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -4794,7 +4794,7 @@ Slide</source>
     </message>
     <message>
         <source>Set Up Slide Show</source>
-        <translation>Настройка показа слайдов</translation>
+        <translation>Параметры показа слайдов</translation>
     </message>
     <message>
         <source>Slide Show
@@ -5116,7 +5116,7 @@ Other Window</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation>По месту</translation>
+        <translation>По размеру окна</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -6372,7 +6372,7 @@ On</source>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished">Флэш</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Font</source>
@@ -8231,7 +8231,7 @@ AddIns</source>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished">Флэш</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8653,7 +8653,7 @@ Slide</source>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Флэш</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -8968,7 +8968,7 @@ Slide</source>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation>Интеллектульный выбор</translation>
+        <translation>Интеллектуальный выбор</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9902,7 +9902,7 @@ Slide</source>
     </message>
     <message>
         <source>Set Up Slide Show</source>
-        <translation>Настройка показа слайдов</translation>
+        <translation>Параметры показа слайдов</translation>
     </message>
     <message>
         <source>Slide
@@ -10113,12 +10113,12 @@ Other Window</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation>По месту</translation>
+        <translation>По размеру окна</translation>
     </message>
     <message>
         <source>Fit
 </source>
-        <translation>По месту
+        <translation>По размеру окна
 </translation>
     </message>
     <message>
@@ -11526,51 +11526,51 @@ A custom slide show displays only the slides you select.</source>
     </message>
     <message>
         <source>Decrease spacing between lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшение интервала между строками.</translation>
     </message>
 </context>
 <context>
     <name>tips.Delete</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Delete the selected row or column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление выделенной строки или столбца.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteComment</name>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить примечание</translation>
     </message>
     <message>
         <source>Delete the comments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление примечания.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteMaster</name>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить образец</translation>
     </message>
     <message>
         <source>Delete the selected slide master.</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаления выбранного образца слайдов.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteMember</name>
     <message>
         <source>DeleteMember Content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DeleteMember содержание</translation>
     </message>
     <message>
         <source>DeleteMember Title</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DeleteMember название</translation>
     </message>
 </context>
 <context>
@@ -11621,91 +11621,93 @@ A custom slide show displays only the slides you select.</source>
     <name>tips.DevelopmentTools</name>
     <message>
         <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты разработчика</translation>
     </message>
     <message>
         <source>Open the Developer Tools tab to insert the Option Button, Check Box and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Откройте вкладку &quot;Инструменты разработчика&quot; для добавления переключателя, флажка и других элементов.</translation>
     </message>
 </context>
 <context>
     <name>tips.Direction</name>
     <message>
         <source>Choose the direction effect of the selected 3-D Shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите эффект направления для выделенной 3-D формы.</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Направление</translation>
     </message>
 </context>
 <context>
     <name>tips.DistColumnSevenly</name>
     <message>
         <source>Distribute Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять ширину столбцов</translation>
     </message>
     <message>
         <source>Distribute the width of the selected columns equally between them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сделать выделенные столбцы равными по ширине.</translation>
     </message>
 </context>
 <context>
     <name>tips.DistRowSevenly</name>
     <message>
         <source>Distribute Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять высоту строк</translation>
     </message>
     <message>
         <source>Distribute the height of the selected rows equally between them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сделать выделенные строки равными по высоте.</translation>
     </message>
 </context>
 <context>
     <name>tips.Distributed</name>
     <message>
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание абзаца по левому и правому краям добавлением пробелов между символами при необходимости.</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Распределённый равномерно</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawAlignLeft</name>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять</translation>
     </message>
     <message>
         <source>Align the selected object left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять выделенный объект по левому краю.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.DrawAlignTop</name>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять текст</translation>
     </message>
     <message>
         <source>Click the arrow to select a different alignment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора способа выравнивания текста.</translation>
     </message>
     <message>
         <source>Setting the alignment to the text.
 
 Click the arrow to select a different alignment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка вида выравнивания для текста. 
+
+Щёлкните стрелку для выбора способа выравнивания текста.</translation>
     </message>
 </context>
 <context>
@@ -11723,104 +11725,104 @@ Click the arrow to select a different alignment.</source>
     <name>tips.DuplicateSlide</name>
     <message>
         <source>Insert a duplicate of the current slide into the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка дубликата текущего слайда в презентацию.</translation>
     </message>
     <message>
         <source>New copy of slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая копия слайда</translation>
     </message>
 </context>
 <context>
     <name>tips.DynamicShape</name>
     <message>
         <source>Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление готовых форм, таких как прямоугольники и окружности, стрелки, линии, символы блок-схем и выноски.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигуры</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.EditComment</name>
     <message>
         <source>Edit the comments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение примечания.</translation>
     </message>
     <message>
         <source>EditComment</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить примечание</translation>
     </message>
 </context>
 <context>
     <name>tips.EditPoints</name>
     <message>
         <source>Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать изменение узлов</translation>
     </message>
     <message>
         <source>Edit the wrap points to change the shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Измените положение точек контура для изменения формы.</translation>
     </message>
 </context>
 <context>
     <name>tips.EditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить фигурный текст</translation>
     </message>
     <message>
         <source>Edit the text of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение выделенного фигурного текста.</translation>
     </message>
 </context>
 <context>
     <name>tips.EquationEditor</name>
     <message>
         <source>Insert Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить формулу</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Use the Equation Editor to insert mathematical formulas.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использование редактора формул для добавления математических формул.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorBackupDir</name>
     <message>
         <source>Explore File Safe</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр хранилища файлов</translation>
     </message>
     <message>
         <source>View backup files and open or recover the backup files for a certain document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр файлов резервных копий и открытие, или восстановление файлов резервных копий определенного документа.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorVersion</name>
     <message>
         <source>View Backup History</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр записей резервного копирования</translation>
     </message>
     <message>
         <source>View the backup record history of the current document to open, delete or restore the files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр записей резервного копирования текущего документа для открытия, удаления или восстановления файлов.</translation>
     </message>
 </context>
 <context>
@@ -11838,11 +11840,11 @@ Click the arrow to select a different alignment.</source>
     <name>tips.Find</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>Find text in the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск текста в презентации.</translation>
     </message>
 </context>
 <context>
@@ -11860,22 +11862,22 @@ Click the arrow to select a different alignment.</source>
     <name>tips.Flash</name>
     <message>
         <source>Insert Flash Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить Flash-анимацию</translation>
     </message>
     <message>
         <source>Insert a flash animation into the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добаление Flash-анимации в презентацию.</translation>
     </message>
 </context>
 <context>
     <name>tips.FontAlignMenu</name>
     <message>
         <source>Font Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание шрифта</translation>
     </message>
     <message>
         <source>Set the alignment between the fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять шрифт по размеру.</translation>
     </message>
 </context>
 <context>
@@ -11884,89 +11886,91 @@ Click the arrow to select a different alignment.</source>
         <source>Change the text color.
 
 Click the arrow to choose a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение цвета текста.
+
+Щёлкните стрелку для выбора другого цвета текста.</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора другого цвета текста.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет шрифта</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.FontName</name>
     <message>
         <source>Change the font face.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение типа шрифта.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
 </context>
 <context>
     <name>tips.FontSize</name>
     <message>
         <source>Change the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение размера шрифта.</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер шрифта</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignCenter</name>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание текста по центру.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять текст по левому краю</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнивание текста по левому краю.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять текст по правому краю</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнивание текста по правому краю.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatObject</name>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование объекта</translation>
     </message>
     <message>
         <source>Show the Format Object dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать диалоговое окно &quot;Форматирование объекта&quot;.</translation>
     </message>
 </context>
 <context>
@@ -11975,61 +11979,65 @@ Click the arrow to choose a different text color.</source>
         <source>Copy formatting from one place to apply it to another.
 
 Double-click this button to apply the same formatting to multiple places in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование форматирования для применения в другом месте.
+
+Дважды щёлкните эту кнопку для применения одного форматирования нескольких местах в документе.</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат по образцу</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Коллекция Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
 
 Kingsoft Gallery Online Sources require internet connection. My Gallery can be used without internet after logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Коллекция Kingsoft предоставляет все виды источников изображений для использования, сбора коллекции изображений, изменения и управления.
+
+Для использования коллекции Kingsoft из Интернета необходимо подключение к Интернету. &quot;Моя Коллекция&quot; после регистрации может быть использована без Интернета.</translation>
     </message>
 </context>
 <context>
     <name>tips.GridGuides</name>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть линии сетки, по которым можно выровнять объекты в документе.</translation>
     </message>
 </context>
 <context>
     <name>tips.Group</name>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группировать</translation>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Группирование объектов вместе, как единого объекта.</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderFooter</name>
     <message>
         <source>Edit the Header or Footer of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение верхнего или нижнего колонтитула документа.</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -12037,11 +12045,11 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -12059,19 +12067,19 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.Hyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание ссылки на веб-страницу, изображение, или адрес электронной почты.</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить гиперссылку</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -12089,128 +12097,130 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase List Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Повысить уровень списка</translation>
     </message>
     <message>
         <source>Increase the indent level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение уровня отступа абзаца.</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseSpace</name>
     <message>
         <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить интервал</translation>
     </message>
     <message>
         <source>Increase spacing between lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение интервала между строками.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertChart</name>
     <message>
         <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить диаграмму</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
 
 Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставьте диаграмму для отображения и сравнения данных. 
+
+Выберите из типов диаграмм, например, гистограммы, круговой диаграммы, графика, лепестковой диаграммы.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.InsertClipArt</name>
     <message>
         <source>Choose a Clip Art from the task pane and insert it into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите клип из панели задач и вставьте в документ.</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить клип</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnsLeft</name>
     <message>
         <source>Insert Columns to the Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить столбцы слева</translation>
     </message>
     <message>
         <source>Insert a column to the left of the selected column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление столбца слева от выделенного столбца.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnsRight</name>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить столбцы справа</translation>
     </message>
     <message>
         <source>Insert a column to the right of the selected column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление столбца справа от выделенного столбца.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата и время</translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление текущей даты и времени в текущий документ.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFileObject</name>
     <message>
         <source>Insert File Object</source>
-        <translation type="unfinished">Файловый объект</translation>
+        <translation>Вставить файловый объект</translation>
     </message>
     <message>
         <source>Insert the selected file into document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление выбранного файла в документ.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMedia</name>
     <message>
         <source>Insert the music, video, animation and other media files into presentation, enhanced expression for presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление музыки, видео, анимации и других мультимедийных файлов в презентацию.</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Мультимедиа</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.InsertObject</name>
     <message>
         <source>Insert Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить объект</translation>
     </message>
     <message>
         <source>Insert an embedded object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление встроенного объекта.</translation>
     </message>
 </context>
 <context>
@@ -12225,101 +12235,101 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>LinkText</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPictureFromFile</name>
     <message>
         <source>Insert Picture from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить изображение из файла</translation>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление изображения из файла.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowsAbove</name>
     <message>
         <source>Add a new row directly above the selected row.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление новой строки над выбранной строкой.</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить строки выше</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowsBelow</name>
     <message>
         <source>Insert Rows Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить строки ниже</translation>
     </message>
     <message>
         <source>Insert a new row directly below the selected row.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление новой строки под выбранной строкой.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSymbol</name>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление символа, которого нет на клавиатуре, например, вложенного знака и символа авторского права.</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Символ</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertTable</name>
     <message>
         <source>Insert or draw a table into the current slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить или нарисовать таблицу в текущем слайде.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблица</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление фигурного текста в документ.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигурный текст</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -12330,18 +12340,18 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделение текста курсивом.</translation>
     </message>
 </context>
 <context>
     <name>tips.Justify</name>
     <message>
         <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание текста по левому и правому краям с добавлением дополнительного пространства между словами при необходимости.</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по ширине</translation>
     </message>
 </context>
 <context>
@@ -12381,21 +12391,21 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильное имя пользователя или пароль.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespacePsaawordTip</name>
     <message>
         <source>password is wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>неправильный пароль</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceRegPsaawordTip</name>
     <message>
         <source>password not match</source>
-        <translation type="unfinished"></translation>
+        <translation>неправильный пароль</translation>
     </message>
 </context>
 <context>
@@ -12457,272 +12467,275 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.Lighting</name>
     <message>
         <source>Lighting Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Угол освещения</translation>
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор для выделенной формы 3-D направления и силы освещения, включая, яркое, нормальное и тусклое.</translation>
     </message>
 </context>
 <context>
     <name>tips.LineBreak</name>
     <message>
         <source>Change the line break format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор формата разрыва строки.</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрыв строки</translation>
     </message>
 </context>
 <context>
     <name>tips.LineSpacing</name>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Междустрочный интервал</translation>
     </message>
     <message>
         <source>Specify the line spacing to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор междустрочного интервала.</translation>
     </message>
 </context>
 <context>
     <name>tips.MarkVersion</name>
     <message>
         <source>Manual Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Резервное копирование вручную</translation>
     </message>
     <message>
         <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не закрывая файл, можно вручную создать резервную копию текущего файла в хранилище файлов, и добавить примечания к файлу резервной копии.</translation>
     </message>
 </context>
 <context>
     <name>tips.Markup</name>
     <message>
         <source>Revision Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Исправления</translation>
     </message>
     <message>
         <source>Show or hide revision markups in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть исправления в документе.</translation>
     </message>
 </context>
 <context>
     <name>tips.MasterLayout</name>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Установить элементы заполнителей в образце слайдов.</translatorcomment>
+        <translation>Разметка образца</translation>
     </message>
     <message>
         <source>Set the placeholder elements contained in the slide master.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить заполнители в образце слайдов.</translation>
     </message>
 </context>
 <context>
     <name>tips.Media</name>
     <message>
         <source>Insert a movie into the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление фильма в презентацию.</translation>
     </message>
     <message>
         <source>Movie from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильм из файла</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.MergeCells</name>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Объединить ячейки</translation>
     </message>
     <message>
         <source>Merge the selected cells into one cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Слияние выделенных ячеек в одну.</translation>
     </message>
 </context>
 <context>
     <name>tips.NewComment</name>
     <message>
         <source>Create a new comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать новое примечание.</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое примечание</translation>
     </message>
 </context>
 <context>
     <name>tips.NewSlide</name>
     <message>
         <source>Add a slide to the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление слайда в презентацию.</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый слайд</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.NewSlide2</name>
     <message>
         <source>Click here to select &apos;New Slide Copy&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните здесь для выбора функции &quot;Новая копия слайда&quot;.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие параметры</translation>
     </message>
 </context>
 <context>
     <name>tips.NewSlideMaster</name>
     <message>
         <source>Insert a new slide master.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить новый образец слайдов.</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать образец слайдов</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.NewTitleMaster</name>
     <message>
         <source>Insert a slide master with a new title style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление образца слайдов с новым стилем заголовка.</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать образец заголовков</translation>
     </message>
 </context>
 <context>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое окно</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть новое окно, содержащее вид текущего документа.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextComment</name>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующее примечание</translation>
     </message>
     <message>
         <source>Next comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующее примечание.</translation>
     </message>
 </context>
 <context>
     <name>tips.Normal</name>
     <message>
         <source>Normal View</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычный режим</translation>
     </message>
     <message>
         <source>View the presentation in normal view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр презентации в обычном режиме.</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowDown</name>
     <message>
         <source>Move the shadow of the selected object down.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемещение тени выделенного объекта вниз.</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдвинуть тень вниз</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowLeft</name>
     <message>
         <source>Move the shadow of the selected object to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемещение тени выделенного объекта влево.</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдвинуть тень влево</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowRight</name>
     <message>
         <source>Move the shadow of the selected object to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемещение тени выделенного объекта вправо.</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдвинуть тень вправо</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowUp</name>
     <message>
         <source>Move the shadow of the selected object up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемещение тени выделенного объекта вверх.</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдвинуть тень вверх</translation>
     </message>
 </context>
 <context>
     <name>tips.Numbering</name>
     <message>
         <source>Click the arrow to choose different numbering formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора формата нумерации.</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Нумерация</translation>
     </message>
     <message>
         <source>Start a numbered list.
 
 Click the arrow to choose different numbering formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание нумерованного списка.
+
+Щёлкните стрелку для выбора формата нумерации.</translation>
     </message>
 </context>
 <context>
     <name>tips.ObjectSelect</name>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Область выделения</translation>
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать область выделения для выделения определённого объекта, или для выбора его расположения и видимости.</translation>
     </message>
 </context>
 <context>
@@ -12740,51 +12753,51 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.Package</name>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование файла презентации и, связанных с ним, элементов медиафайлов, например, видео, звука и т.д. в выбранный каталог для воспроизведения файла на другом компьютере.</translation>
     </message>
     <message>
         <source>Package the presentation file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Упаковать файл презентации.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры страницы</translation>
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать диалоговое окно &quot;Параметры страницы&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.Paragraph1</name>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different alignment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора способа выравнивания текста.</translation>
     </message>
 </context>
 <context>
     <name>tips.Paragraph2</name>
     <message>
         <source>Click the arrow to select &apos;increase the spacing&apos;, &apos;decrease the spacing&apos; and &apos;wrap&apos; option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора функций &quot;Увеличение интервала», «Уменьшение интервала» и других.</translation>
     </message>
     <message>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие параметры</translation>
     </message>
 </context>
 <context>
     <name>tips.Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните здесь для выбора других функций, таких как, вставка из буфера только значений или форматирование.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -12792,74 +12805,78 @@ Click the arrow to choose different numbering formats.</source>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка содержимого буфера обмена.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить изображение</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение или уменьшение контрастности и яркости выделенного изображения.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureColor</name>
     <message>
         <source>Recolor</source>
-        <translation type="unfinished"></translation>
+        <translation>Перекрасить</translation>
     </message>
     <message>
         <source>Recolor the picture to give it a black and white, washout or transparent color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перекрасить изображение в чёрно-белый, размытый или прозрачный цвет.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureCrop</name>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрезать</translation>
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрезать снимок для удаления лишних частей.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureFill</name>
     <message>
         <source>Click the arrow to select different fill modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора из режимов заливки.</translation>
     </message>
     <message>
         <source>Fill the selected object with a color, gradient, pattern and picture.
 
 Click the arrow to select different fill modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заполнение выделенного объекта цветом, применение градиента, текстуры, образцов и изображений. 
+
+Щёлкните стрелку для выбора из режимов заливки.</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка изображения</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureLine</name>
     <message>
         <source>Click the arrow to select detailed settings for the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора подробных параметров для выделенного объекта.</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Контур изображения</translation>
     </message>
     <message>
         <source>Set picture outline color, outline width and outline style for the selected object.
 
 Click the arrow to select detailed settings for the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор цвета, ширины и стиля контура изображения для выделенного объекта. 
+
+Щёлкните стрелку для выбора подробных параметров для выделенного объекта.</translation>
     </message>
 </context>
 <context>
@@ -12877,11 +12894,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PictureSize</name>
     <message>
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение размера, угла вращения и шкалы масштабирования выделенной формы.</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер изображения</translation>
     </message>
 </context>
 <context>
@@ -12899,22 +12916,22 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreComment</name>
     <message>
         <source>Pre Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущее примечание</translation>
     </message>
     <message>
         <source>Previous comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущее примечание.</translation>
     </message>
 </context>
 <context>
     <name>tips.PreserveMaster</name>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить образец</translation>
     </message>
     <message>
         <source>Preserve the selected master slide. Even if it is unused it can still remain in the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранение выбранного мастер-слайда. Он может оставаться в презентации даже, если не используется, .</translation>
     </message>
 </context>
 <context>
@@ -12925,84 +12942,84 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Close the print preview and return to the presentation editing mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть окно предварительного просмотра и вернуться в режим редактирования презентации.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevFrameSlides</name>
     <message>
         <source>Add borders around the slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить границы слайда.</translation>
     </message>
     <message>
         <source>Slide border</source>
-        <translation type="unfinished"></translation>
+        <translation>Граница слайда</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevLandscape</name>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Альбомная</translation>
     </message>
     <message>
         <source>Set the page layout to landscape in the handouts, notes pages and outline print.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка альбомного макета страницы.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevNextPage</name>
     <message>
         <source>Navigate to the next page in the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переход на следующую страницу презентации.</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующая страница</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevPortrait</name>
     <message>
         <source>Set the page layout to vertical in the handouts, notes pages and outline print.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка акнижного макета страницы.</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикально</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevPrintHiddenSlide</name>
     <message>
         <source>Display hidden slides in Print Preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать скрытые слайды в режиме предварительного просмотра.</translation>
     </message>
     <message>
         <source>Print Hidden Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Печатать скрытые слайды</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviewPage</name>
     <message>
         <source>Navigate to the previous page in the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переход на предыдущую страницу презентации.</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущая страница</translation>
     </message>
 </context>
 <context>
     <name>tips.Print</name>
     <message>
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор параметров печати, таких как, принтер, диапазон печати, число печатаемых экземпляров, количество страниц на листе и масштаб.</translation>
     </message>
     <message>
         <source>Click here to choose to make detailed settings for printing, or to use the default print settings to print directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните здесь для выбора из параметров для печати или для использования настроек печати по умолчанию.</translation>
     </message>
     <message>
         <source>Print</source>
@@ -13013,18 +13030,18 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrintDirect</name>
     <message>
         <source>Quick Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрая печать</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить документ без изменений на принтер, заданный по умолчанию.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр и внесение изменений перед печатью.</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -13035,11 +13052,11 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PrintingOrder</name>
     <message>
         <source>Printing Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок печати</translation>
     </message>
     <message>
         <source>Set the order of printed handouts vertically or horizontally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок выдачи на печать в альбомном или книжном макете.</translation>
     </message>
 </context>
 <context>
@@ -13050,43 +13067,45 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>View all items copied to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр элементов, скопированных в буфер обмена.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Font</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Show the Font dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать диалоговое окно &quot;Шрифт&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.RecentFillColor</name>
     <message>
         <source>Click the arrows to select different fill options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щелкните стрелку для выбора параметров заливки.</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Use colors, gradients, textures, and pictures to fill the selected table in the current presentation slide.
 
 Click the arrow to select different fill options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Использование цвета, градиента, текстуры и изображенийдля заполнения выделенной таблицы в текущем слайде презентации. 
+
+Щёлкните стрелку для выбора параметров заливки.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -13095,37 +13114,39 @@ Click the arrow to select different fill options.</source>
         <source>Launches a full-screen slide show in which you can rehearse your presentation.
 
 The amount of time you spend on each slide is recorded and you can save those timings to run the show automatically in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск полноэкранного показа слайдов для проверки презентации.
+
+Записывается время демонстрации каждого слайда с возможностью сохранения этих данных для автоматического показа слайдов презентации.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка времени</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.RenameMaster</name>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать образец</translation>
     </message>
     <message>
         <source>Rename the selected master slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименование выбранного образца слайдов.</translation>
     </message>
 </context>
 <context>
     <name>tips.Replace</name>
     <message>
         <source>Click here to replace the text or font in document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните здесь для замены текста или шрифта в документе.</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -13133,7 +13154,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>Replace text in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заменить текст в документе.</translation>
     </message>
 </context>
 <context>
@@ -13151,19 +13172,19 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.ResetPicture</name>
     <message>
         <source>Discard all the formatting changes you have made to this picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена всех изменений форматирования для изображения.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить исходное изображение</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -13181,19 +13202,19 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть</translation>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот или зеркальное отображение выделенного объекта.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -13204,18 +13225,18 @@ The amount of time you spend on each slide is recorded and you can save those ti
     </message>
     <message>
         <source>View the rulers, used to measure and line up objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр линеек, используемых для измерения и расположения объектов в документе.</translation>
     </message>
 </context>
 <context>
     <name>tips.RunMacro</name>
     <message>
         <source>View Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Макросы</translation>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр списка макросов, в котором можно создать или удалить макрос.</translation>
     </message>
 </context>
 <context>
@@ -13233,238 +13254,244 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <name>tips.Security</name>
     <message>
         <source>Customize the macro security settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка параметров безопасности макросов.</translation>
     </message>
     <message>
         <source>Macro Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Безопасность макросов</translation>
     </message>
 </context>
 <context>
     <name>tips.Select</name>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделение</translation>
     </message>
     <message>
         <source>Select text or objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделение текста или объектов в документе.</translation>
     </message>
 </context>
 <context>
     <name>tips.SelectAll</name>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить всё</translation>
     </message>
     <message>
         <source>Use &quot;Select All&quot; to select the slide, object, or text content in the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Используйте &quot;Выделить всё&quot; для выбора слайда, объекта или текста в презентации.</translation>
     </message>
 </context>
 <context>
     <name>tips.SendBackward</name>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить назад</translation>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить объект позади всех остальных объектов.</translation>
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить объект на один уровень назад или позади всех остальных объектов.</translation>
     </message>
 </context>
 <context>
     <name>tips.SetUpShow</name>
     <message>
         <source>Bring up the Slide Show Settings dialog box, and set up the advanced options for the slide show, such as kiosk mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов диалогового окна &quot;Параметры показа слайдов&quot; для настройки дополнительных параметров показа слайдов, например, режима полного экрана.</translation>
     </message>
     <message>
         <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры показа слайдов</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowButton</name>
     <message>
         <source>Set the shadow effects to the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор эффектов тени для выделенного текста.</translation>
     </message>
     <message>
         <source>Text Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Тень текста</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowColor</name>
     <message>
         <source>Click the arrow to select different shadow colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора из вариантов цвета тени.</translation>
     </message>
     <message>
         <source>Set the shadow color of the selected object.
 
 Click the arrow to select different shadow colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите цвет тени для выделенного объекта. 
+
+Щёлкните стрелку для выбора цвета тени.</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет тени</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowOnOff</name>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть тень для выделенного объекта.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowPalette</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление визуального эффекта к выделенному объекту.</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Эффекты тени</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeEffects</name>
     <message>
         <source>Apply a visual effect to the selected shape, such as shadow glow, reflection, or 3-D rotation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Применение к выделенному тексту визуальных эффектов, таких как тень, отражение или вращение 3-D.</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Эффекты фигур</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeFill</name>
     <message>
         <source>Click the arrow to select from different ways to fill.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора способа заливки.</translation>
     </message>
     <message>
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
 
 Click the arrow to select from different ways to fill.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка выделенной фигуры цветом, градиентом, изображением, или текстурой.
+
+Щёлкните стрелку для выбора способа заливки.</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка фигуры</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeLine</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора из стилей контуров.</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Контур фигуры</translation>
     </message>
     <message>
         <source>Specify the color, width, and line style for the outline of the selected shape.
 
 Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор цвета, ширины и стиля линии для контура выбранной формы.
+
+Щёлкните стрелку для выбора из стилей контуров.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeSize</name>
     <message>
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор размера, угла поворота и масштаба для выделенной формы.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideGrid</name>
     <message>
         <source>Gridlines</source>
-        <translation>Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Turn on gridlines to which you can align objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать линии сетки, по которым можно выровнять объекты в документе.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideMark</name>
     <message>
         <source>Show / Hide Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть примечание</translation>
     </message>
     <message>
         <source>Show or hide the comments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть примечание.</translation>
     </message>
 </context>
 <context>
     <name>tips.SimplifiedChinese</name>
     <message>
         <source>Convert the document to Simplified Chinese.</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование в символы упрощенного китайского письма.</translation>
     </message>
     <message>
         <source>Simplified</source>
-        <translation type="unfinished"></translation>
+        <translation>Упрощённый китайский</translation>
     </message>
 </context>
 <context>
     <name>tips.SkipSlide</name>
     <message>
         <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть слайд</translation>
     </message>
     <message>
         <source>Hide the current slide from the presentation. It will not be shown during full-screen slide show.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть текущий слайд презентации во время полноэкранного показа слайдов.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideDesign</name>
     <message>
         <source>Bring up the Slide Design - Design Templates task pane to apply templates to the current slide or the entire presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов функции &quot;Оформление слайда&quot;-&gt;&quot;Шаблоны оформления&quot; для применения шаблона к текущему слайду или всей презентации.</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны оформления</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideLayout</name>
     <message>
         <source>Bring up the Slide Layout task pane to apply various slide layouts to selected slides.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов функции &quot;Макет слайда&quot; для выбора макета для выделенного слайда.</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Макет слайда</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideMaster</name>
     <message>
         <source>Open Slide Master view to change the design and layout of the master slides.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть &quot;Образец слайдов&quot; для изменения оформления и макета образца слайдов.</translation>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation type="unfinished"></translation>
+        <translation>Образец слайдов</translation>
     </message>
 </context>
 <context>
@@ -13475,95 +13502,96 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Close Slide Master View and return to the edit the slide show.</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть &quot;Образец слайдов&quot; и вернуться к редактированию показа слайдов.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideNumber</name>
     <message>
         <source>Insert Slide Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить номер слайда</translation>
     </message>
     <message>
         <source>Insert the slide number. The slide number reflects the position of the slide within the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Добаление номер слайда для отображения местоположения слайда в презентации.</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>tips.SlideOrientation</name>
     <message>
         <source>Slide Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ориентация слайда</translation>
     </message>
     <message>
         <source>Switch the slide orientation between portrait and landscape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение-ориентации слайда между книжной и альбомной.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlidePreview</name>
     <message>
         <source>Preview Animations</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр анимации</translation>
     </message>
     <message>
         <source>Preview the animations and slide transition you have created for this slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр анимации и эффекта перехода, применённых для этого слайда.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideShow</name>
     <message>
         <source>Slide Show from Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Показ слайдов с начала</translation>
     </message>
     <message>
         <source>Start the slide show from the first slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало показа слайдов с первого слайда.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideShowFromCurrent</name>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>От текущего слайда</translation>
     </message>
     <message>
         <source>Start the slide show from the current slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало показа слайдов с текущего слайда.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideShowFromCurrent2</name>
     <message>
         <source>Click here to select &quot;Slide Show from Beginning&quot; or &quot;From Current Slide&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните здесь для выбора &quot;Показ слайдов с начала&quot; или &quot;От текущего слайда&quot;.</translation>
     </message>
     <message>
         <source>Start Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать показ слайдов</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideSorter</name>
     <message>
         <source>Slide Sorter View</source>
-        <translation type="unfinished"></translation>
+        <translation>Образец слайдов</translation>
     </message>
     <message>
         <source>View the presentation in Slide Sorter view to easily rearrange slides.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр презентации в режиме сортировщика слайдов, в котором легко изменить порядок слайдов.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideTransition</name>
     <message>
         <source>Bring up the Slide Transition task pane to apply transition effects to the selected slides or the entire presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов функции &quot;Смена слайдов&quot; для применения эффекта перехода к текущему слайду или всей презентации.</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Смена слайдов</translation>
     </message>
 </context>
 <context>
@@ -13581,19 +13609,19 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.Sound</name>
     <message>
         <source>Insert a sound clip or music into the slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление звукового файла или музыки в слайд.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Для дополнительной справки нажмите F1.</translation>
+        <translation>Для получения дополнительной информации нажмите F1.</translation>
     </message>
     <message>
         <source>Sound from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук из файла</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -13602,33 +13630,35 @@ Click the arrow to choose more outline styles.</source>
         <source>Add a note to the current slide.
 
 When you want to make notes but do not wish to exit the slide show, right click on the screen and select &apos;speaker notes&apos; to make notes in the notes pane of the current slide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление заметки к текущему слайду. 
+
+Если вы хотите делать заметки, но не хотите выходить из режима показа слайдов, щёлкните правой кнопкой мыши на экране и выберите функцию &quot;Заметки докладчика&quot; для добавления заметок в панели примечаний текущего слайда.</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Заметки докладчика</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Разбиение ячеек</translation>
     </message>
     <message>
         <source>Split a cell vertically or horizontally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделить ячейку по вертикали или горизонтали.</translation>
     </message>
 </context>
 <context>
     <name>tips.StopAutoVersion</name>
     <message>
         <source>Stop Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить автоматическое резервное копирование</translation>
     </message>
     <message>
         <source>Stop the auto backup of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить автоматическое резервное копирование текущего документа.</translation>
     </message>
 </context>
 <context>
@@ -13637,11 +13667,13 @@ When you want to make notes but do not wish to exit the slide show, right click 
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка небольших символов ниже линии текста. 
+
+Щёлкните стрелку для выбора подстрочных знаков.</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Подстрочный знак</translation>
     </message>
 </context>
 <context>
@@ -13650,127 +13682,131 @@ Click the arrow to select superscript.</source>
         <source>Create small letters above the line of text.
 
 Click the arrow to select subscript.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка небольших символов выше линии текста. 
+
+Щёлкните стрелку для выбора подстрочных знаков.</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Надстрочный знак</translation>
     </message>
 </context>
 <context>
     <name>tips.Superscript2</name>
     <message>
         <source>Click the arrow to select Superscript and Subscript.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора надстрочных или подстрочных знаков.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие параметры</translation>
     </message>
 </context>
 <context>
     <name>tips.SwitchWindow</name>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить окно</translation>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение на другое окно, открытое в данный момент.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableCenter</name>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание текста по центру.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять текст по левому краю</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание текста по левому краю.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять текст по правому краю</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание текста по правому краю.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableStyle</name>
     <message>
         <source>Bring up the &apos;Table Style&apos; task pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать панель задач &quot;Стиль таблицы&quot;.</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
 </context>
 <context>
     <name>tips.TaskPane</name>
     <message>
         <source>Show or hide the task pane in the presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть область задач в презентации.</translation>
     </message>
     <message>
         <source>Task Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Область задач</translation>
     </message>
 </context>
 <context>
     <name>tips.TextBox</name>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Горизонтальное текстовое поле</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление горизонтального текстового поля в документ.</translation>
     </message>
 </context>
 <context>
     <name>tips.TextDirection</name>
     <message>
         <source>Change the orientation of text to be either horizontal or vertical.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор горизонтальной или вертикальной ориентации текста.</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Направление текста</translation>
     </message>
 </context>
 <context>
     <name>tips.TextFontColor</name>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора цвета текста.</translation>
     </message>
     <message>
         <source>Set the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать цвет текста. 
+
+Щёлкните стрелку для выбора цвета текста.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет шрифта</translation>
     </message>
 </context>
 <context>
@@ -13788,40 +13824,40 @@ Click the arrow to select a different text color.</source>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать в символы традиционного китайского письма.</translation>
     </message>
     <message>
         <source>Traditional</source>
-        <translation type="unfinished"></translation>
+        <translation>Традиционный китайский</translation>
     </message>
 </context>
 <context>
     <name>tips.TransitionEffect</name>
     <message>
         <source>Bring up the Slide Transition task pane to apply transition effects to the selected slides or the entire presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов функции &quot;Смена слайдов&quot; для применения эффекта перехода к текущему слайду или всей презентации.</translation>
     </message>
     <message>
         <source>Transition Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Эффекты перехода</translation>
     </message>
 </context>
 <context>
     <name>tips.Underline</name>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчёркивание</translation>
     </message>
     <message>
         <source>Underline the selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделение текста подчёркиванием.</translation>
     </message>
 </context>
 <context>
     <name>tips.VisualBasicEditor</name>
     <message>
         <source>Launch Visual Basic Editor, and edit Macros.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск редактора Visual Basic для изменения макросов.</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -13832,22 +13868,22 @@ Click the arrow to select a different text color.</source>
     <name>tips.WordArtAlignment</name>
     <message>
         <source>Specify how individual lines of a multi-line WordArt should be aligned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор типа выравнивания для отдельных строк фигурного текста.</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtCharacterSpacing</name>
     <message>
         <source>Change the spacing between the letters of the selected WordArt text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение интервала между буквами выделенного фигурного текста.</translation>
     </message>
     <message>
         <source>Character Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Межзнаковый интервал</translation>
     </message>
 </context>
 <context>
@@ -13865,89 +13901,93 @@ Click the arrow to select a different text color.</source>
     <name>tips.WordArtFill</name>
     <message>
         <source>Click the arrow to fill the WordArt in different ways.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора способа заливки.</translation>
     </message>
     <message>
         <source>Fill the selected WordArt with a solid color, gradient, texture and picture.
 
 Click the arrow to fill the WordArt in different ways.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка выделенной фигуры цветом, градиентом, изображением, или текстурой.
+
+Щёлкните стрелку для выбора способа заливки.</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtGallery</name>
     <message>
         <source>Change the style of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение выделенного фигурного текста.</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Коллекция</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtLine</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните стрелку для выбора из стилей контуров.</translation>
     </message>
     <message>
         <source>Specify the color, width and line style for the outline of the selected WordArt.
 
 Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор цвета, ширины и стиля линии для контура выбранной формы.
+
+Щёлкните стрелку для выбора из стилей контуров.</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Контур</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSameLetterHeights</name>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Равной высоты</translation>
     </message>
     <message>
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сделатьвсе символы выделенного текста равными по высоте.</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>Change the shape style of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение стиля формы для выделенного фигурного текста.</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор размера, угла поворота и масштаба для выделенной формы.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtVerticalText</name>
     <message>
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисование текста по вертикали с символами, расположенными один над другим.</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикальный</translation>
     </message>
 </context>
 <context>
@@ -13965,121 +14005,121 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WpPrintWhat_1</name>
     <message>
         <source>Handouts (one slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдачи (1 слайд на страницу)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (one slide per page).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок печати на &quot;Выдачи (1 слайд на страницу)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_1Notes</name>
     <message>
         <source>Notes (one slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Страницы заметок (1 слайд на страницу)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Notes Pages&apos; (one slide per page, notes to the right of the slide).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок выдачи на печать как &quot;Страницы заметок (1 слайд на страницу)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_2</name>
     <message>
         <source>Handouts (two slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдачи (2 слайда на страницу)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (two slides per page).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок печати на &quot;Выдачи (2 слайда на страницу)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_3</name>
     <message>
         <source>Handouts(three slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдачи (3 слайда на страницу)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (three slides per page).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок печати на &quot;Выдачи (3 слайда на страницу)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_3Notes</name>
     <message>
         <source>Notes(three slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Страницы заметок (3 слайда на страницу)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Notes Pages&apos; (three slides per page, notes to the right of the slides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок печати как &quot;Страницы заметок (3 слайда на страницу, заметки справа)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_4</name>
     <message>
         <source>Handouts(four slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдачи (4 слайда на страницу)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (four slides per page).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок печати на &quot;Выдачи (4 слайда на страницу)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_6</name>
     <message>
         <source>Handouts(six slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдачи (6 слайдов на страницу)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (six slides per page).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок печати на &quot;Выдачи (6 слайдов на страницу)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_9</name>
     <message>
         <source>Handouts(nine slide per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдачи (9 слайдов на страницу)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (nine slides per page).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок печати на &quot;Выдачи (9 слайдов на страницу)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_OutlineView</name>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим структуры</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Outline view&apos;. Slide content showed in print page by outline way.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор печати содержимого презентации в &quot;Режиме структуры&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_Slides</name>
     <message>
         <source>Click here to select more print what, such as Slides, Handouts, Motes pages and Outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните здесь для выбора содержимого для печати, например, слайды, выдачи, страницы заметок, структура.</translation>
     </message>
     <message>
         <source>Print Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать содержимого</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Slide&apos; (one slide per page).</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить порядок печати на &quot;Выдачи (1 слайд на страницу)&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть диалоговое окно &quot;Масштаб&quot; для выбора параметров масштабирования документа.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -14090,33 +14130,33 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.ZoomCombo</name>
     <message>
         <source>Select the zoom size of the current presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор масштаба для текущей презентации.</translation>
     </message>
     <message>
         <source>Zoom Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
 </context>
 <context>
     <name>tips.ZoomFit</name>
     <message>
         <source>Fit to Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоподбор по ширине окна</translation>
     </message>
     <message>
         <source>Zoom the presentation so that the slide fills the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоподбор маштаба презентации по ширине окна.</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_Macros</name>
     <message>
         <source>View Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр макросов</translation>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр списка макросов с возможностью создания или удаления макроса.</translation>
     </message>
 </context>
 <context>
@@ -14134,113 +14174,113 @@ Click the arrow to choose more outline styles.</source>
     <name>workspacemenu</name>
     <message>
         <source>Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоверсия</translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр каталога резервного копирования</translation>
     </message>
     <message>
         <source>Explor Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр версии</translation>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить имя для входа KOS</translation>
     </message>
     <message>
         <source>KOS Cloud feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Отзывы и предложения KOS</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать CloudLink KOS</translation>
     </message>
     <message>
         <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
+        <translation>Вакансии KOS</translation>
     </message>
     <message>
         <source>KOS Open cloud file</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл в облачном сервисе KOS</translation>
     </message>
     <message>
         <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезарядка KOS</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить файл в облачном сервисе KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрация в KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрация в KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход из KOS</translation>
     </message>
     <message>
         <source>Mark Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка версии</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить автоверсию</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>wppclassics.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Презентация</translation>
     </message>
 </context>
 <context>
     <name>wppclassics.mainwindow.commands</name>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры 3-D</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Элементы управления</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисование</translation>
     </message>
     <message>
         <source>Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование</translation>
     </message>
     <message>
         <source>Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Строка меню</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -14248,101 +14288,101 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Рецензирование</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры тени</translation>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation type="unfinished"></translation>
+        <translation>Образец слайдов</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировщик слайдов</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартный</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблицы и границы</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигурный текст</translation>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочая область</translation>
     </message>
 </context>
 <context>
     <name>wppclassics.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Диаграмма</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Организационная диаграмма</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands</name>
     <message>
         <source>ActiveX Control Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню элементов ActiveX</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished"></translation>
+        <translation>Анимация</translation>
     </message>
     <message>
         <source>Arrow Options Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню параметров стрелки</translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
-        <translation type="unfinished"></translation>
+        <translation>Автофигуры и материалы</translation>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление резервным копированием</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>ChangeAutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить автофигуру</translation>
     </message>
     <message>
         <source>Check Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить автоматическое резервное копирование</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка орфографии</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Клип</translation>
     </message>
     <message>
         <source>ClipA</source>
-        <translation type="unfinished"></translation>
+        <translation>Клип А</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -14350,27 +14390,27 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Область буфера обмена</translation>
     </message>
     <message>
         <source>CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Colorize</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать цвет</translation>
     </message>
     <message>
         <source>Comment Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню примечания</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Сжать изображения</translation>
     </message>
     <message>
         <source>Connector Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню соединительной линии</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -14378,19 +14418,19 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Curve Point Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню узла кривой</translation>
     </message>
     <message>
         <source>Curve Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню соединительной линии</translation>
     </message>
     <message>
         <source>Curve Segment Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню сегмента кривой</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка анимации</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -14398,35 +14438,35 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить шрифт</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить отступ</translation>
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation type="unfinished"></translation>
+        <translation>Совместная работа над документами</translation>
     </message>
     <message>
         <source>Draw Figure Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню рисования фигуры</translation>
     </message>
     <message>
         <source>DynamicShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Динамическая форма</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Эффекты</translation>
     </message>
     <message>
         <source>Eraser Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню ластика</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -14434,44 +14474,45 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Отзывы и предложения</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>От текущего 
+слайда</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>От текущего слайда</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>GoogleDocs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">Сетка</translation>
+        <translation>Линии сетки</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -14479,15 +14520,15 @@ Slide</source>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить шрифт</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить отступ</translation>
     </message>
     <message>
         <source>Ink Color Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню цвета рукописного текста</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -14499,95 +14540,96 @@ Slide</source>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Выровнять по ширине</translation>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон Kingsoft Online </translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Макет</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Влево</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Макрос</translation>
     </message>
     <message>
         <source>Master Miniature Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment> </translatorcomment>
+        <translation>Контекстное меню образца миниатюры слайда</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"></translation>
+        <translation>Автофигуры</translation>
     </message>
     <message>
         <source>Motion Path Point Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню узла пути перемещения</translation>
     </message>
     <message>
         <source>Motion Path Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню пути перемещения</translation>
     </message>
     <message>
         <source>Motion Path Segment Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню сегмента пути перемещения</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание пустой презентации</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание презентации</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание из шаблонов</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание на шаблоне из Интернета</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание на других шаблонах</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Страница без вкладки</translation>
     </message>
     <message>
         <source>None Slide Miniature Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню миниатюры без слайда</translation>
     </message>
     <message>
         <source>Note View Visible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показать вид заметок</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Заметки</translation>
     </message>
     <message>
         <source>Notes Pane Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню области заметок</translation>
     </message>
     <message>
         <source>OLE Object Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню объектов OLE</translation>
     </message>
     <message>
         <source>Open</source>
@@ -14595,7 +14637,7 @@ Slide</source>
     </message>
     <message>
         <source>Paint Brush Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню кисти</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -14603,7 +14645,7 @@ Slide</source>
     </message>
     <message>
         <source>Picture Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню изображения</translation>
     </message>
     <message>
         <source>Print</source>
@@ -14615,11 +14657,11 @@ Slide</source>
     </message>
     <message>
         <source>Recent File List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список последних файлов</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Отменить</translation>
+        <translation>Вернуть</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -14627,15 +14669,15 @@ Slide</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Вправо</translation>
     </message>
     <message>
         <source>Rotate Mode Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню вращения</translation>
     </message>
     <message>
         <source>Ruler Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню линейки</translation>
     </message>
     <message>
         <source>S CloudLink</source>
@@ -14655,83 +14697,83 @@ Slide</source>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить всё</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить язык проверки орфографии</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигуры и коллекция</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню фигуры</translation>
     </message>
     <message>
         <source>Show / Hide Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть сетку</translation>
     </message>
     <message>
         <source>Slide Background Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню фона слайда</translation>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Оформление - схемы анимации</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Оформление - цветовые схемы</translation>
     </message>
     <message>
         <source>Slide Design - Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Оформление - шаблоны оформления</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Макет слайда</translation>
     </message>
     <message>
         <source>Slide Miniature Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню миниатюры слайда</translation>
     </message>
     <message>
         <source>Slide Object in Slide Sorter Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню объекта слайда в сортировщике слайда</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Показ слайдов</translation>
     </message>
     <message>
         <source>Slide Show Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню показа слайдов</translation>
     </message>
     <message>
         <source>Slide Show Short Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткое контекстное меню показа слайдов</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Смена слайдов</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Подстрочный знак</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Надстрочный знак</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты символов</translation>
     </message>
     <message>
         <source>TStyle</source>
@@ -14743,47 +14785,47 @@ Slide</source>
     </message>
     <message>
         <source>Table Cell Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню ячейки таблицы</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
     <message>
         <source>Tables Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткое контекстное меню таблицы</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Окно задач</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню текстового редактора</translation>
     </message>
     <message>
         <source>ToolBars</source>
-        <translation type="unfinished"></translation>
+        <translation>Панели инструментов</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчёркивание</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -14791,11 +14833,11 @@ Slide</source>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Окно</translation>
     </message>
     <message>
         <source>WordArt Popup Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстное меню фигурного текста</translation>
     </message>
     <message>
         <source>statusbar</source>
@@ -14806,7 +14848,7 @@ Slide</source>
     <name>wppcommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Справка Kingsoft Presentation</translation>
     </message>
 </context>
 <context>
@@ -14831,69 +14873,69 @@ Slide</source>
     <name>wppcommon.mainwindow.commands.status bar</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычный</translation>
     </message>
     <message>
         <source>Slide Show From Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Показ от текущего слайда</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировщик слайдов</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Презентация</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands</name>
     <message>
         <source>Add-ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнения</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Анимация</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить область задач</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Оформление</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Разработчик</translation>
     </message>
     <message>
         <source>Drawing Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты рисования</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Микроблог предприятия</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматы</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Home</source>
@@ -14901,7 +14943,7 @@ Slide</source>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -14909,43 +14951,43 @@ Slide</source>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить имя входа KOS</translation>
     </message>
     <message>
         <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
+        <translation>Вакансии KOS</translation>
     </message>
     <message>
         <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезарядка KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрация в KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрация в KOS</translation>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход из KOS</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрация</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Org Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Организационная диаграмма</translation>
     </message>
     <message>
         <source>Picture Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструмент изображения</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -14953,39 +14995,39 @@ Slide</source>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Меню быстрого доступа</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое меню</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>Последние</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Рецензирование</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать панель инструментов</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Образец слайдов</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Показ слайдов</translation>
     </message>
     <message>
         <source>Stick the ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Привязать панель инструментов</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -14993,51 +15035,51 @@ Slide</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты таблицы</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>What News</source>
-        <translation type="unfinished"></translation>
+        <translation>Новости</translation>
     </message>
     <message>
         <source>Window Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть окно</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный размер окна</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимальный размер окна</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить окно</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигурный текст</translation>
     </message>
     <message>
         <source>Work space</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочая область</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation type="unfinished"></translation>
+        <translation>установка</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -15051,72 +15093,72 @@ Slide</source>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить язык</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Организационная диаграмма</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Презентация</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands</name>
     <message>
         <source>Add-ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнения</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Анимация</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Оформление</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Разработчик</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты рисования</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation>Микроблог предприятия</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматы</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Главная</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -15124,39 +15166,39 @@ Slide</source>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить имя входа KOS</translation>
     </message>
     <message>
         <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
+        <translation>Вакансии KOS</translation>
     </message>
     <message>
         <source>KOS Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход из KOS</translation>
     </message>
     <message>
         <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезарядка KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрация в KOS</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Регистрация</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание пустой презентации</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание на других шаблонах</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Страница без вкладки</translation>
     </message>
     <message>
         <source>Open</source>
@@ -15164,15 +15206,15 @@ Slide</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Организационная диаграмма</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты изображения</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -15180,39 +15222,39 @@ Slide</source>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Меню быстрого доступа</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое меню</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>Последние</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Рецензирование</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать панель инструментов</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать или скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Образец слайдов</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Показ слайдов</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Привязать панель инструментов</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -15220,54 +15262,54 @@ Slide</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль таблицы</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты таблицы</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>What News</source>
-        <translation type="unfinished"></translation>
+        <translation>Новости</translation>
     </message>
     <message>
         <source>Window Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть окно</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный размер окна</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимальный размер окна</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить окно</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигурный текст</translation>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочая область</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.Diagram</name>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Диаграмма</translation>
     </message>
 </context>
 <context>
@@ -15278,21 +15320,21 @@ Slide</source>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить язык</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>OrgChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Организационная диаграмма</translation>
     </message>
 </context>
 </TS>

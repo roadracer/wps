@@ -1474,7 +1474,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Next</source>
-        <translation>Следующий</translation>
+        <translation>Следующее</translation>
     </message>
     <message>
         <source>Original</source>
@@ -1482,7 +1482,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Предыдущий</translation>
+        <translation>Предыдущее</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -1510,11 +1510,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation>Показать все исправления всплывающими подсказками</translation>
+        <translation>Показать все исправления в выносках</translation>
     </message>
     <message>
         <source>Show the Revisor Information in the Balloon</source>
-        <translation>Показать данные комментатора во всплывающих подсказках</translation>
+        <translation>Показать данные комментатора в выносках</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1522,7 +1522,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Use Balloons</source>
-        <translation>Использовать всплывающие подсказки</translation>
+        <translation>Использовать выноски</translation>
     </message>
 </context>
 <context>
@@ -1676,11 +1676,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Show / Hide Editing Marks</source>
-        <translation>Показать/cкрыть знаки редактирования</translation>
+        <translation>Показать или cкрыть знаки редактирования</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Показать/cкрыть разметку абзаца</translation>
+        <translation>Показать или cкрыть разметку абзаца</translation>
     </message>
     <message>
         <source>Show Document Map</source>
@@ -3504,11 +3504,11 @@ Painter</source>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
-        <translation>Показать/cкрыть знаки форматирования</translation>
+        <translation>Показать или cкрыть знаки форматирования</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Показать/cкрыть макет абзаца</translation>
+        <translation>Показать или cкрыть макет абзаца</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -5171,7 +5171,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>Показать/не показывать разделитель сносок</translation>
+        <translation>Показать или скрыть разделитель сносок</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -5266,7 +5266,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Next</source>
-        <translation>Следующий</translation>
+        <translation>Следующее</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -5278,7 +5278,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Предыдущий</translation>
+        <translation>Предыдущее</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -5326,11 +5326,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation>Показать данные рецензента во всплывающих подсказках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation>Показать все исправления всплывающими подсказками</translation>
+        <translation>Показать все исправления в выносках</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -5338,7 +5338,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Use Balloons</source>
-        <translation>Использовать всплывающие подсказки</translation>
+        <translation>Использовать выноски</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -5485,7 +5485,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
-        <translation>Показать/cкрыть навигацию по разделам</translation>
+        <translation>Показать или cкрыть навигацию по разделам</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -6032,7 +6032,7 @@ On/Off</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>Строки/Столбцы</translation>
+        <translation>Строки и столбцы</translation>
     </message>
     <message>
         <source>Select</source>
@@ -6097,7 +6097,7 @@ Cells</source>
     </message>
     <message>
         <source>TableAutoAdjust</source>
-        <translation type="unfinished">Автоподгонка таблицы</translation>
+        <translation>Автоподгонка таблицы</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -6266,7 +6266,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="unfinished">Окно задачи</translation>
+        <translation>Окно задач</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -7413,7 +7413,7 @@ On</source>
     </message>
     <message>
         <source>Center Tab</source>
-        <translation type="unfinished">Центральная метка табуляции</translation>
+        <translation>Центральная метка табуляции</translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -7433,7 +7433,7 @@ On</source>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished">Китайский перевод</translation>
+        <translation>Перевод на китайский язык</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -7457,7 +7457,7 @@ On</source>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="unfinished">Закрыть путь</translation>
+        <translation>Замкнуть кривую</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -7469,23 +7469,23 @@ On</source>
     </message>
     <message>
         <source>Column</source>
-        <translation>Колонка</translation>
+        <translation>Столбец</translation>
     </message>
     <message>
         <source>Column Break</source>
-        <translation>Разрыв колонки</translation>
+        <translation>Разрыв столбца</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Колонки</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
-        <translation>Колонки слева</translation>
+        <translation>Столбцы слева</translation>
     </message>
     <message>
         <source>Columns to the Right</source>
-        <translation>Колонки справа</translation>
+        <translation>Столбцы справа</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -7497,7 +7497,7 @@ On</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished">Содержимое</translation>
+        <translation>Содержание</translation>
     </message>
     <message>
         <source>Continue Numbering</source>
@@ -7663,7 +7663,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished">Угловое соединение</translation>
+        <translation>Соединительная линия уступом</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -7687,7 +7687,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Exit Edit Point</source>
-        <translation type="unfinished">Закончить изменение точки</translation>
+        <translation>Завершить изменение узлов</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
@@ -7815,7 +7815,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Graphics</source>
-        <translation type="unfinished">Графика</translation>
+        <translation>Графика</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -7871,7 +7871,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished">Пропустить</translation>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -7907,7 +7907,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>KOS Hire</source>
-        <translation type="unfinished">KOS вакансии</translation>
+        <translation>KOS вакансии</translation>
     </message>
     <message>
         <source>KOS Recharge</source>
@@ -7915,7 +7915,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation type="unfinished">Kingsoft BBS</translation>
+        <translation>Электронная доска объявлений Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -8043,7 +8043,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished">Открыть путь</translation>
+        <translation>Разомкнуть кривую</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
@@ -8051,7 +8051,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished">Параметр</translation>
+        <translation>Параметр</translation>
     </message>
     <message>
         <source>Options</source>
@@ -8139,7 +8139,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reconvert</source>
-        <translation type="unfinished">Возвратить в исходное состояние (реконвертировать)</translation>
+        <translation>Повторить преобразование</translation>
     </message>
     <message>
         <source>Reference</source>
@@ -8147,15 +8147,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reject Deletion</source>
-        <translation type="unfinished">Отклонить удаление</translation>
+        <translation>Отклонить удаление</translation>
     </message>
     <message>
         <source>Reject Formating Changes</source>
-        <translation type="unfinished">Отклонить изменения форматирования</translation>
+        <translation>Отклонить изменения форматирования</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
-        <translation type="unfinished">Отклонить вставку</translation>
+        <translation>Отклонить вставку</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -8175,7 +8175,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation type="unfinished">Исходное форматирования абзаца</translation>
+        <translation type="unfinished">Восстановить исходное форматирование абзаца</translation>
     </message>
     <message>
         <source>Restart Each Page</source>
@@ -8191,7 +8191,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished">Ограничить редактирование</translation>
+        <translation>Ограничить редактирование</translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -8199,11 +8199,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Row</source>
-        <translation>Строка</translation>
+        <translation>Строку</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Строки</translation>
+        <translation>Строку</translation>
     </message>
     <message>
         <source>Rows Above</source>
@@ -8287,7 +8287,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Ignored Words</source>
-        <translation type="unfinished">Показать отклонённые слова</translation>
+        <translation>Показать отклонённые слова</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -8295,11 +8295,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Paragraph Marks</source>
-        <translation type="unfinished">Показать знаки абзаца</translation>
+        <translation>Показать знаки абзаца</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>Показать/не показывать разделитель сносок</translation>
+        <translation>Показать или скрыть разделитель сносок</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -8343,7 +8343,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation type="unfinished">Обучение в Интернете</translation>
+        <translation>Обучение в Интернете</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -8363,7 +8363,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table</source>
-        <translation>Таблица</translation>
+        <translation>Таблицу</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -9779,11 +9779,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
-        <translation>Показать/cкрыть знаки форматирования</translation>
+        <translation>Показать или cкрыть знаки форматирования</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Показать/cкрыть разметку абзаца</translation>
+        <translation>Показать или cкрыть разметку абзаца</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -10049,7 +10049,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation></translation>
+        <translation>Страницы</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -11353,7 +11353,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation>Показать/не показывать разделитель сносок</translation>
+        <translation>Показать или скрыть разделитель сносок</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -11456,7 +11456,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Next</source>
-        <translation>Следующий</translation>
+        <translation>Следующее</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -11468,7 +11468,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Предыдущий</translation>
+        <translation>Предыдущее</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -11516,11 +11516,11 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation>Показать данные рецензента во всплывающих подсказках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation>Показать все исправления всплывающими подсказками</translation>
+        <translation>Показать все исправления в выносках</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -11528,7 +11528,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Use Balloons</source>
-        <translation>Использовать всплывающие подсказки</translation>
+        <translation>Использовать выноски</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -11675,7 +11675,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
-        <translation>Показать/cкрыть навигацию по разделам</translation>
+        <translation>Показать или cкрыть навигацию по разделам</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -12165,7 +12165,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>Строки/Столбцы</translation>
+        <translation>Строки и столбцы</translation>
     </message>
     <message>
         <source>Select</source>
@@ -12366,7 +12366,7 @@ Other Window</source>
     </message>
     <message>
         <source>Task Window</source>
-        <translation>Окно задачи</translation>
+        <translation>Окно задач</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -13604,7 +13604,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.AlignStyle</name>
     <message>
         <source>AlignStyle Content</source>
-        <translation>AlignStyle Содержимое</translation>
+        <translation>AlignStyle Содержание</translation>
     </message>
     <message>
         <source>AlignStyle Title</source>
@@ -14391,7 +14391,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Distribute the width of the selected columns equally between them.</source>
-        <translation>Сделать выделенные колонки равными по ширине.</translation>
+        <translation>Сделать выделенные столбцы равными по ширине.</translation>
     </message>
 </context>
 <context>
@@ -14461,11 +14461,11 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.EditPoints</name>
     <message>
         <source>Edit Points</source>
-        <translation>Изменить точки контура</translation>
+        <translation>Изменить узел</translation>
     </message>
     <message>
         <source>Edit the wrap points to change the shape.</source>
-        <translation>Передвиньте точки контура изображения для изменения формы.</translation>
+        <translation>Измените положение узлов контура для изменения формы.</translation>
     </message>
 </context>
 <context>
@@ -14888,7 +14888,7 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
-        <translation>Применение / отмена линий сетки по которым можно выровнять объекты в документе.</translation>
+        <translation>Показать или скрыть линии сетки, по которым можно выровнять объекты в документе.</translation>
     </message>
 </context>
 <context>
@@ -15156,9 +15156,9 @@ This makes it easy to see what part of your form letter will be replaced by info
         <source>Insert a chart to illustrate and compare data.
 
 Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation>Вставьте диаграмму для иллюстации и сравнения данных. 
+        <translation>Вставьте диаграмму для отображения и сравнения данных. 
 
-Выберите из типов диаграмм, например, Гистограмма, Круговая диаграмма, График, Лепестковая диаграмма .</translation>
+Выберите из типов диаграмм, например, гистограммы, круговой диаграммы, графика, лепестковой диаграммы.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15196,14 +15196,14 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Insert a column to the left of the selected column.</source>
-        <translation>Вставка колонки слева от выделенной колонки.</translation>
+        <translation>Добавление столбца справа от выделенного столбца.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnRight</name>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation>Вставить колонки справа</translation>
+        <translation>Вставить столбцы справа</translation>
     </message>
     <message>
         <source>Insert a column to the right of the selected column.</source>
@@ -15229,7 +15229,7 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
-        <translation>Вставка текущей даты и времени в текущий документ.</translation>
+        <translation>Добавление текущей даты и времени в текущий документ.</translation>
     </message>
 </context>
 <context>
@@ -15456,7 +15456,7 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.InsertRowAbove</name>
     <message>
         <source>Add a new row directly above the selected row.</source>
-        <translation>Добавить новую строку над выбранной строкой.</translation>
+        <translation>Добавление новой строки над выбранной строкой.</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
@@ -15471,7 +15471,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Insert a new row directly below the selected row.</source>
-        <translation>Добавить новую строку под выбранной строкой.</translation>
+        <translation>Добавление новой строки под выбранной строкой.</translation>
     </message>
 </context>
 <context>
@@ -15504,7 +15504,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation>Вставка символа, которого нет на клавиатуре, например, вложенного знака и символа авторского права.</translation>
+        <translation>Добавление символа, которого нет на клавиатуре, например, вложенного знака и символа авторского права.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -15519,7 +15519,7 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation>Вставка фигурного текста в документ.</translation>
+        <translation>Добавление фигурного текста в документ.</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -15832,7 +15832,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Show or hide revision markups in the document.</source>
-        <translation>Показать или не показывать пометки исправлений в документе.</translation>
+        <translation>Показать или скрыть пометки исправлений в документе.</translation>
     </message>
 </context>
 <context>
@@ -16065,7 +16065,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-        <translation>Показать Область выделения для выделения определённого объекта или для их упорядочивания и видимости.</translation>
+        <translation>Показать область выделения для выделения определённого объекта, или для выбора его расположения и видимости.</translation>
     </message>
 </context>
 <context>
@@ -16332,7 +16332,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PictureSize</name>
     <message>
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation>Изменение размера,  угла вращения и шкалы масштабирования выделенной формы.</translation>
+        <translation>Изменение размера, угла вращения и шкалы масштабирования выделенной формы.</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -16483,7 +16483,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
-        <translation>Показать или не показывать экранные линейки, используемые для измерения и упорядочивания в документе.</translation>
+        <translation>Показать или скрыть экранные линейки, используемые для измерения и упорядочивания в документе.</translation>
     </message>
 </context>
 <context>
@@ -16781,7 +16781,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
-        <translation>Показать или не показывать экранную линейку, используемую для измерения и упорядочивания объектов в документе.</translation>
+        <translation>Показать или скрыть экранную линейку, используемую для измерения и упорядочивания объектов в документе.</translation>
     </message>
 </context>
 <context>
@@ -16847,7 +16847,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.Separator</name>
     <message>
         <source>After inserting footnote/endnote, show or hide the footnote/endnote separator line at the bottom of the document.</source>
-        <translation>Показать или не показывать разделительную линию в нижней части документа после добавления сноски.</translation>
+        <translation>Показать или скрыть разделительную линию в нижней части документа после добавления сноски.</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator Line</source>
@@ -16864,9 +16864,9 @@ Click the arrow to select different background colors.</source>
         <source>Set the shadow color of the selected object.
 
 Click the arrow to select different shadow colors.</source>
-        <translation>Выберите цвет тени выделенного объекта. 
+        <translation>Выберите цвет тени для выделенного объекта. 
 
-Щёлкните стрелку чтобы для выбора цвета тени.</translation>
+Щёлкните стрелку для выбора цвета тени.</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -16910,7 +16910,7 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.Shapes</name>
     <message>
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
-        <translation>Вставка готовых форм, например, линий, прямоугольников, символов блок-схем и выносных обозначений для иллюстраций.</translation>
+        <translation>Вставка готовых форм, например, линий, прямоугольников, символов блок-схем и выносок для иллюстраций.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16937,7 +16937,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Show or hide the Document Map pane.</source>
-        <translation>Показать или не показывать панель Схема документа.</translation>
+        <translation>Показать или скрыть область "Схема документа".</translation>
     </message>
 </context>
 <context>
@@ -16955,7 +16955,7 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.ShowFirstPageNumber</name>
     <message>
         <source>Show or hide the page number on the first page of the document.</source>
-        <translation>Показать или не показывать номер страницы на первой странице документа.</translation>
+        <translation>Показать или скрыть номер страницы на первой странице документа.</translation>
     </message>
     <message>
         <source>Show page number on first page</source>
@@ -16970,14 +16970,14 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Show or hide all the text formatting in the outline.</source>
-        <translation>Показать или не показывать форматирование текста в структуре.</translation>
+        <translation>Показать или скрыть форматирование текста в структуре.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowGridlines</name>
     <message>
         <source>Show or hide the gridlines within the table that has no borders.</source>
-        <translation>Показать или не показывать линии сетки в таблице, которая не имеет рамок.</translation>
+        <translation>Показать или скрыть линии сетки в таблице, которая не имеет рамок.</translation>
     </message>
     <message>
         <source>View Table Gridlines</source>
@@ -17003,18 +17003,18 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
-        <translation>Показать/скрыть знаки редактирования</translation>
+        <translation>Показать или скрыть знаки редактирования</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideTextOctopus</name>
     <message>
         <source>Show or hide the Paragraph Layout button in the document.</source>
-        <translation type="unfinished">Показать или не показывать кнопку Разметка абзаца для документа.</translation>
+        <translation type="unfinished">Показать или скрыть кнопку "Разметка абзаца" для документа.</translation>
     </message>
     <message>
         <source>Show/hide Paragraph Layout</source>
-        <translation>Показать/скрыть разметку абзаца</translation>
+        <translation>Показать или скрыть разметку абзаца</translation>
     </message>
 </context>
 <context>
@@ -17134,7 +17134,7 @@ Click the arrow to add an emphasis mark.</source>
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation type="unfinished">Вставка небольших символов, находящихся ниже линии текста. 
+        <translation>Вставка небольших символов ниже линии текста. 
 
 Щёлкните стрелку для выбора подстрочных знаков.</translation>
     </message>
@@ -17149,7 +17149,7 @@ Click the arrow to select superscript.</source>
         <source>Create small letters above the line of text.
 
 Click the arrow to select subscript.</source>
-        <translation>Вставка небольших символов, находящихся выше линии текста. 
+        <translation>Вставка небольших символов выше линии текста. 
 
 Щёлкните стрелку для выбора надстрочных знаков.</translation>
     </message>
@@ -17341,7 +17341,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Task Pane</source>
-        <translation type="unfinished">Панель задач</translation>
+        <translation>Область задач</translation>
     </message>
 </context>
 <context>
@@ -17683,7 +17683,7 @@ Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the firs
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation>Открыть диалоговое окно Масштабирование для выбора параметров масштабирования документа.</translation>
+        <translation>Открыть диалоговое окно "Масштаб" для выбора параметров масштабирования документа.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -17762,7 +17762,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
-        <translation>Группирование объектов вместе, как единый объект.</translation>
+        <translation>Группирование объектов вместе, как единого объекта.</translation>
     </message>
 </context>
 <context>
@@ -17937,7 +17937,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation>Щёлкните здесь для выбора других функций, таких как, вставка из буфера  только значений или форматирование.</translation>
+        <translation>Щёлкните здесь для выбора других функций, таких как, вставка из буфера только значений или форматирование.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -18679,7 +18679,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Task Window</source>
-        <translation>Окно задачи</translation>
+        <translation>Окно задач</translation>
     </message>
     <message>
         <source>Text Context Menu</source>
@@ -19140,7 +19140,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation>Показать/Скрыть панель инструментов</translation>
+        <translation>Показать или скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
