@@ -3059,19 +3059,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxNewTemplateDlg</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ogólne</translation>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pusty dokument</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pusta prezentacja</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pusty skoroszyt</translation>
     </message>
 </context>
 <context>
@@ -4179,15 +4179,15 @@ of services and features.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczny</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Skala szarości</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Czarno-biały</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -4495,301 +4495,307 @@ cannot be previewed.</source>
     <name>QObject</name>
     <message>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpisać plik?</translation>
     </message>
     <message>
         <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik %1 już istnieje. Napewno chcesz nadpisać?</translation>
     </message>
     <message>
         <source>custom %1</source>
-        <translation type="unfinished"></translation>
+        <translation>dostosowany %1</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Czarny #000000</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny cyjan #008B8B</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnoniebieski #00008B</translation>
     </message>
     <message>
         <source>Thumb Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebieskawy</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebieski #0000FF</translation>
     </message>
     <message>
         <source>Wathet Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebieskawy</translation>
     </message>
     <message>
         <source>Blue Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebiesko-szary #6699CC</translation>
     </message>
     <message>
         <source>Light Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnopurpurowy #B19CD9</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 80% #343434</translation>
     </message>
     <message>
         <source>Blue Violet</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Intensywne indygo</translatorcomment>
+        <translation>Niebiesko-fioletowy #8A2BE2</translation>
     </message>
     <message>
         <source>Aqua green</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyjanowo-zielony</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Błękitny #87CEEB</translation>
     </message>
     <message>
         <source>Baby Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Bladoniebieski  #89CFF0</translation>
     </message>
     <message>
         <source>Light Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasny cyjan#E0FFFF</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Różowy #FF007F</translation>
     </message>
     <message>
         <source>Pink Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnoróżowy</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 50%</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Morska zieleń #2E8B57</translation>
     </message>
     <message>
         <source>Cyan Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyjanowo-zielony</translation>
     </message>
     <message>
         <source>Laurel Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Liść laurowy #A9BA9D</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Biały #FFFFFF</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnożółty #FFFFE0</translation>
     </message>
     <message>
         <source>Dark Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnobrązowy #654321</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Fioletowy #B803FF ?#</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 40% #989898</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnozielony #006400</translation>
     </message>
     <message>
         <source>Light Green </source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnozielony #90EE90</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Żółty #FFFF00</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Złoty #FFD700</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnopomarańczowy</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Czerwony #FF0000</translation>
     </message>
     <message>
         <source>Plum Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Śliwkowo-purpurowy</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 25% #C0C0C0</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielony #008000</translation>
     </message>
     <message>
         <source>Lime Green </source>
-        <translation type="unfinished"></translation>
+        <translation>Limonkowo-zielony #32CD32</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnożółty #9B870C</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Oliwkowy #808000</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomarańczowy #FFA500</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Brązowy #964B00</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnoczerwony #8B0000</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 5%</translation>
     </message>
     <message>
         <source>Gray-10% </source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 20%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 37,5%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 45%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 75%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 95%</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Aqua</translatorcomment>
+        <translation>Cyjan #00FFFF</translation>
     </message>
     <message>
         <source>AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne kopie zapasowe</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio używane czcionki</translation>
     </message>
     <message>
         <source>All Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie czcionki</translation>
     </message>
     <message>
         <source>Do not show this message again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj ponownie tej wiadomości</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
 Always take this action</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj tego powiadomienia. 
+Zawsze podejmuj to działanie.</translation>
     </message>
     <message>
         <source>Do not check it when starting Kingsoft Office next time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie sprawdzaj tego podczas następnych uruchomień Kingsoft Office</translation>
     </message>
     <message>
         <source>The selected dict has been deleted, please select another dict.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznaczony słownik został usunięty, wybierz inny.</translation>
     </message>
     <message>
         <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
 (The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>(System używa Kingsoft Office jako domyślnego programu do otwierania %1 plików)</translatorcomment>
+        <translation>Nieprawidłowy rejestr systemowy - niektóre obiekty mogą być niewspierane, naprawić?
+(Pliki %1 będą domyślnie otwierane przez Kingsoft Office)</translation>
     </message>
     <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
 (The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office nie jest domyślnym pakietem biurowym, czy ma zostać domyślnym?
+(System używa Kingsoft Office jako domyślnego programu do otwierania plików %1)</translation>
     </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>This locale can not use the skin!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dla tych ustawień regionalnych nie można używać skórki!</translation>
     </message>
 </context>
 <context>
