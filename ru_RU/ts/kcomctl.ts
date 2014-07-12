@@ -27,11 +27,11 @@
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation>&amp;Больше цветов</translation>
+        <translation>&amp;Другие цвета</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation>&amp;Заполнить эффектами...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Background</source>
@@ -39,11 +39,11 @@
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation type="unfinished">&amp;Тип линий</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Черный</translation>
+        <translation>Чёрный</translation>
     </message>
     <message>
         <source>Brown</source>

@@ -5,7 +5,7 @@
     <name>comment</name>
     <message>
         <source>Comment</source>
-        <translation>Комментарий</translation>
+        <translation>Примечание</translation>
     </message>
 </context>
 <context>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation>Ошибка! Оглавление не может быть в сноске, колонтитуле, комментарии или текстовом поле.</translation>
+        <translation>Ошибка! Оглавление не может быть в сноске, колонтитуле, примечании или текстовом поле.</translation>
     </message>
     <message>
         <source>Error! Table of contents entries not found.</source>
@@ -171,27 +171,27 @@
     </message>
     <message>
         <source>Error! Sequence not specified.</source>
-        <translation>Error! Неопределённая последовательность.</translation>
+        <translation>Ошибка! Неопределённая последовательность.</translation>
     </message>
     <message>
         <source>! Formula is not in the table.</source>
-        <translation>! Формула не в таблице.</translation>
+        <translation>!Формула не в таблице.</translation>
     </message>
     <message>
         <source>!Undefined bookmark,</source>
-        <translation>! Неопределённая закладка.</translation>
+        <translation>!Неопределённая закладка,</translation>
     </message>
     <message>
         <source>!Syntaxl errors</source>
-        <translation>! Синтаксические ошибки.</translation>
+        <translation>!Синтаксические ошибки.</translation>
     </message>
     <message>
         <source>!Abnormal formula end</source>
-        <translation>! Неправильный конец формулы.</translation>
+        <translation>!Неправильный конец формулы.</translation>
     </message>
     <message>
         <source>!Divisor is zero</source>
-        <translation>! Деление на ноль.</translation>
+        <translation>!Деление на ноль.</translation>
     </message>
     <message>
         <source>Not in the table</source>
@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>!Number is too big to set a format</source>
-        <translation>! Число слишком велико для задания формата.</translation>
+        <translation>!Число слишком велико для задания формата.</translation>
     </message>
 </context>
 <context>
@@ -237,7 +237,7 @@
     <name>pdfexport</name>
     <message>
         <source>Comment</source>
-        <translation>Комментарий</translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>Revision</source>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <source> Page Number:   Page:   Sec:     </source>
-        <translation> Номер страницы:   Станица:   Разд:     </translation>
+        <translation> Номер страницы:   Страница:   Разд:     </translation>
     </message>
     <message>
         <source> Ln: %d   Col: %d</source>
@@ -1562,7 +1562,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
-        <translation>В этом выделении есть сноски или ссылки на комментарии. При преобразовании в текстовое поле текст ссылки будет потерян. Хотите продолжить?</translation>
+        <translation>В этом выделении есть сноски или ссылки на примечания. При преобразовании в текстовое поле текст ссылки будет потерян. Хотите продолжить?</translation>
     </message>
     <message>
         <source>The text box contains one or more tables which will be deleted if you convert them, because the Vertical text box can not contain any table. Do you want to continue?</source>
@@ -1772,7 +1772,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     </message>
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
-        <translation>Объекты содержимого будут потеряны при вставке в текстовое поле, поле для комментариев и сноски.</translation>
+        <translation>Объекты содержимого будут потеряны при вставке в текстовое поле, поле для примечаний и сноски.</translation>
     </message>
     <message>
         <source>Cannot paste table to a vertical text box.</source>
@@ -1960,7 +1960,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Browse by Comment</source>
-        <translation>Просмотр по комментарию</translation>
+        <translation>Просмотр по примечанию</translation>
     </message>
     <message>
         <source>Browse by Page</source>
@@ -1996,7 +1996,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Cannot check spelling in the Original review.</source>
-        <translation type="unfinished">Невозможно проверять правописание в исходной проверке.</translation>
+        <translation type="unfinished">Невозможна проверка правописания в исходном рецензировании.</translation>
     </message>
     <message>
         <source>Kingsoft Writer Cannot replace the found item with text containing a break.</source>
@@ -2208,7 +2208,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>&amp;Find / Replace...</source>
-        <translation>&amp;Найти/заменить...</translation>
+        <translation>&amp;Поиск и замена...</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
@@ -2416,11 +2416,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Следующий комментарий</translation>
+        <translation>Следующее примечание</translation>
     </message>
     <message>
         <source>Next Find/GoTo</source>
-        <translation>Следующий найти/перейти на</translation>
+        <translation>Найти/перейти далее</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -2656,11 +2656,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation>Предыдущий комментарий</translation>
+        <translation>Предыдущее примечание</translation>
     </message>
     <message>
         <source>Previous Find/GoTo</source>
-        <translation>Предыдущий найти/перейти на</translation>
+        <translation>Вернуться назад</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -2828,7 +2828,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>User templates             %s</source>
-        <translation>Пользовательские шаблоны             %s</translation>
+        <translation>Шаблоны             %s</translation>
     </message>
     <message>
         <source>Use Wildcards</source>
@@ -3020,7 +3020,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation type="unfinished">Открыть файл KingSoft.wps на диске C.</translation>
+        <translation>Открыть файл KingSoft.wps на диске C.</translation>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK &quot;C:\\KingSoft.wps&quot;</source>
@@ -3435,11 +3435,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>Новый на шаблоне, заданном по умолчанию</translation>
+        <translation>Создание на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation>Новый на шаблоне, заданном по умолчанию</translation>
+        <translation>Создание на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -3639,15 +3639,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Page Width</source>
-        <translation>Ширина страницы</translation>
+        <translation>По ширине страницы</translation>
     </message>
     <message>
         <source>Text Width</source>
-        <translation>Ширина текста</translation>
+        <translation>По ширине текста</translation>
     </message>
     <message>
         <source>Whole Page</source>
-        <translation>Вся страница</translation>
+        <translation>Страница целиком</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -3655,15 +3655,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
-        <translation>&quot;Ширина страницы&quot;,-1</translation>
+        <translation>&quot;По ширине страницы&quot;,-1</translation>
     </message>
     <message>
         <source>&quot;Text Width&quot;,-2</source>
-        <translation>&quot;Ширина текста&quot;,-2</translation>
+        <translation>&quot;По ширине текста&quot;,-2</translation>
     </message>
     <message>
         <source>&quot;Whole Page&quot;,-3</source>
-        <translation>&quot;Вся страница&quot;,-3</translation>
+        <translation>&quot;Страница целиком&quot;,-3</translation>
     </message>
     <message>
         <source>&quot;Two Pages&quot;,-4</source>
@@ -3671,19 +3671,19 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Вставить комментарий</translation>
+        <translation>Вставить примечание</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>Удалить комментарий</translation>
+        <translation>Удалить примечание</translation>
     </message>
     <message>
         <source>Delete All Comments</source>
-        <translation>Удалить все комментарии</translation>
+        <translation>Удалить все примечания</translation>
     </message>
     <message>
         <source>Delete All Comments Shown</source>
-        <translation>Удалить все показанные комментарии</translation>
+        <translation>Удалить все показанные примечания</translation>
     </message>
     <message>
         <source>Accept Change</source>
@@ -3835,11 +3835,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Распределить столбцы равномерно</translation>
+        <translation>Выровнять ширину столбцов</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>Распределить строки равномерно</translation>
+        <translation>Выровнять высоту строк</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -3915,7 +3915,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>Редактировать комментарий</translation>
+        <translation>Редактировать примечание</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -4037,7 +4037,7 @@ To create a text box, please select Text Box from Insert menu, then click or dra
     </message>
     <message>
         <source>This document contains no comments or tracked changes.</source>
-        <translation>Этот документ не содержит комментарии или отслеживаемые изменения.</translation>
+        <translation>Этот документ не содержит примечаний или исправлений.</translation>
     </message>
     <message>
         <source>
@@ -4059,7 +4059,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>comment</source>
-        <translation>комментарий</translation>
+        <translation>примечание</translation>
     </message>
     <message>
         <source>Page: </source>
@@ -4383,7 +4383,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Комментарий</translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>Page X</source>

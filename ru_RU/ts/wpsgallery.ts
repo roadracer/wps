@@ -5,7 +5,7 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation>галерея</translation>
+        <translation>коллекция</translation>
     </message>
     <message>
         <source>shape</source>
@@ -16,7 +16,7 @@
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation></translation>
+        <translation>Изменить коллекцию</translation>
     </message>
     <message>
         <source>From:</source>

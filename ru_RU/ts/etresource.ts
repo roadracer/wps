@@ -3561,15 +3561,15 @@ On</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>Новый из заданного шаблона</translation>
+        <translation>Новый на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>New from My Computer Templates</source>
-        <translation>Создать из шаблона на компьютере</translation>
+        <translation>Создать на локальном шаблона</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Новый документ из онлайн шаблона</translation>
+        <translation>Новый документ на шаблоне из Интернета</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3633,11 +3633,11 @@ On</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>Обучение онлайн</translation>
+        <translation>Обучение в Интернете</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Обновить онлайн</translation>
+        <translation>Обновить из Интернета</translation>
     </message>
     <message>
         <source>User Feedback by mail</source>
