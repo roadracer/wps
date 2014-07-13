@@ -14,27 +14,27 @@
     </message>
     <message>
         <source>Treasure_Box_Prompt_Text</source>
-        <translation type="obsolete">Многие люди используют этот инструмент. Вы хотели бы попробовать?</translation>
+        <translation type="obsolete">Многие люди используют этот инструмент. Хотите и вы попробовать?</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Title</source>
-        <translation type="obsolete">Kingsoft Office рекомендации</translation>
+        <translation type="obsolete">Рекомендации Kingsoft Office</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Yes</source>
-        <translation type="obsolete">Все в порядке</translation>
+        <translation type="obsolete">Да</translation>
     </message>
     <message>
         <source>Kingsoft Office recommendation</source>
-        <translation></translation>
+        <translation>Рекомендации Kingsoft Office</translation>
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
-        <translation type="unfinished">Многие люди используют этот инструмент. Вы хотели бы попробовать?</translation>
+        <translation type="unfinished">Многие люди используют этот инструмент. Хотите и вы попробовать?</translation>
     </message>
     <message>
         <source>All right</source>
-        <translation type="unfinished">Все в порядке</translation>
+        <translation type="unfinished">Да</translation>
     </message>
     <message>
         <source>No thanks.</source>

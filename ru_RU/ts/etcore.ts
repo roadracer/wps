@@ -5,33 +5,35 @@
     <name>et_app</name>
     <message>
         <source>Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>VBAProject</source>
-        <translation type="unfinished"></translation>
+        <translation>Проект VBA</translation>
     </message>
     <message>
         <source>ThisWorkbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта книга</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Макрос</translation>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Модуль</translation>
     </message>
     <message>
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ будет сохранен в формате &quot;%s&quot;, хотите продолжить? 
+(%s)</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ был заблокирован другим приложением.Хотите открыть его только для чтения?
+(%s)</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Spreadsheets opening this file.
@@ -40,7 +42,12 @@ Please try one of the following.
 •Make sure there is enough memory and disk space.	
 •Make sure this file is recognizable format.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка Kingsoft Spreadsheets при открытии файла.
+Попробуйте одно из следующих действий - 
+• убедитесь, что вы имеете права доступа к файлу или диску;
+• убедитесь, что имеется достаточно памяти и дискового пространства;
+• убедитесь, что файл имеет формат, поддерживаемый программой.
+(%s)</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
@@ -48,7 +55,11 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets не может открыть этот файл, так как данный пользователь не имеет достаточных прав доступа.
+Попробуйте одно из следующих действий - 
+• зарегистрируйтесь с другой учетной записью;
+• запросите у создателя файла изменение уровня разрешений для доступа к файлу.
+(%s)</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Spreadsheets opening this file.
@@ -56,73 +67,83 @@ Please try one of the following.
 •The current version of Kingsoft Spreadsheets does not support this file&apos;s permission contorl level, please update to the latest version.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка Kingsoft Spreadsheets при открытии файла.
+Попробуйте одно из следующих действий - 
+• текущая версия Kingsoft Spreadsheets не поддерживает уровень разрешений доступа для данного файла, обновите до последней версии. 
+• запросите у создателя файла изменение уровня разрешений для полного доступа к файлу.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot open this file, because the password is not correct.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка Kingsoft Spreadsheets при открытии файла из-за неверного пароля.
+(%s)</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Не поддерживаемый зашифрованный формат файла. Свяжитесь с создателем файла.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets не удалось завершить сохранение или создание файла. Убедитесь в наличии места на диске и отстуствии повреждений диска.
+(%s)</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot save this file due to a file permission error.
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets не удалось завершить сохранение из-за ошибки доступа к файлу.
+(%s)</translation>
     </message>
     <message>
         <source>Try to save again?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторить сохранение?
+(%s)</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот файл уже был открыт только для чтения. Хотите открыть его только для чтения ?
+(%s)</translation>
     </message>
     <message>
         <source>All Kingsoft Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы Kingsoft Spreadsheets(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
     </message>
     <message>
         <source>Xls</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы XML</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Хотите сохранить изменения в &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>(Read Only)</source>
-        <translation type="unfinished"></translation>
+        <translation>(только для чтения)</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; только для чтения. Если вы хотите сохранить копию, нажмите кнопку &quot;OK&quot;, и присвойте новое имя для этой книги в диалоговом окне &quot;Сохранить как&quot;.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный формат файла &quot;%s не поддерживается. Нажмите кнопку &quot;ОК&quot;, и выберите другой тип файла в диалоговом окне &quot;Сохранить как&quot;.</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when Kingsoft Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
@@ -130,27 +151,33 @@ Please try one of the following.
 •Save it as text file. 
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка Kingsoft Spreadsheets при сохранении файла &quot;%s&quot;.
+Попробуйте одно из следующих действий - 
+• отмените предыдущие действия и сохраните файл;
+• сохраните как текстовый файл;
+• скопируйте и вставьте содержимое в новый документ;
+• откажитесь от изменений в файле.
+</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохраняемый файл &quot;%s&quot; имеет одинаковое имя с открытым файлом. Выберите другое имя файла, или сначала закройте книгу с  тем же именем.</translation>
     </message>
     <message>
         <source>Cannot save the file due to the full disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удаётся сохранить файл из-за отстутствия свободного места на диске.</translation>
     </message>
     <message>
         <source>Cannot save the file, because the file location you want to save is write protected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удаётся сохранить файл, так как выбранное место хранения защищено от записи.</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Открытие файла, пожалуйста, подождите...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранение файла, пожалуйста, подождите...</translation>
     </message>
     <message>
         <source>To prevent possible losing data, Kingsoft Spreadsheets cannot shove nonblank cells off the worksheet.
@@ -158,75 +185,84 @@ Please try one of the following.
 Delete or clear all cells between the end of your data and the last cell. You can locate the last nonblank cell by pressing Ctrl+End and select the area to be deleted, then perform delete or clear.
 
 Or, you can move the last nonblank cells to a new location and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для предотвращения возможной потери данных, Kingsoft Spreadsheets может удалять только пустые ячейки.
+
+Удалите или очистите все ячейки в диапазоне от конца ваших данных и до последней ячейки листа. Последнюю ячейку с данными можно найти, нажав Ctrl + End, затем выберите область листа, и удалите или очистите её.
+
+Вы также можете переместить последние ячейки с данными в новое место и повторить попытку.
+</translation>
     </message>
     <message>
         <source>Fill failed due to there is an array in source area.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка при заполнении из-за массива в источнике данных.</translation>
     </message>
     <message>
         <source>The number format you entered is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный формат вводимых данных.</translation>
     </message>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Книга</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Лист</translation>
     </message>
     <message>
         <source>%s is an invalid workbook name.</source>
-        <translation type="unfinished"></translation>
+        <translation>%s - недопустимое имя книги.</translation>
     </message>
     <message>
         <source>%s is an invalid worksheet name.</source>
-        <translation type="unfinished"></translation>
+        <translation>%s - недопустимое имя листа.</translation>
     </message>
     <message>
         <source>At least one visible worksheet must be contained in a workbook.
 
 If you want to hide, delete, or move the selected sheet(s), you must first insert a new sheet or unhide a sheet that is already hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Книга должна иметь хотя бы один видимый лист.
+
+Чтобы скрыть, удалить или переместить лист, необходимо сначала вставить новый лист или сделать один из существующих скрытых листов видимым.</translation>
     </message>
     <message>
         <source>0.001f</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unknown User</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный пользователь</translation>
     </message>
     <message>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cannot insert, because there are merged cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка вставки из-за наличия объединенных ячеек.</translation>
     </message>
     <message>
         <source>Cannot delete, because there are merged cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка удаления из-за наличия объединенных ячеек.</translation>
     </message>
     <message>
         <source>The selection contains multiple data values. Only the data in the upper-left corner will be kept when merging into one cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделенная область содержит несколько значений данных. Объединение ячеек приведет к потере всех значений, кроме левого верхнего.</translation>
     </message>
     <message>
         <source>Cannot merge overlapping ranges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка объединения перекрывающихся диапазонов.</translation>
     </message>
     <message>
         <source>A document with the name &quot;%s&quot; is already open. You cannot open two documents with the same name, even if the documents are in different folders.
 To open the second document with the same name, you can close the document that is currently open, or rename one of the documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ с именем &quot;%s&quot; уже открыт. Нельзя открыть два документа с одинаковым именем, даже если они находятся в разных папках. 
+Для открытия второго документа либо закройте текущий документ, либо переименуйте один из них.</translation>
     </message>
     <message>
         <source>Document has been locked by another application, do you want to open it as read-only?
 (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ был заблокирован другим приложением.Хотите открыть его только для чтения?
+(%s)</translation>
     </message>
     <message utf8="true">
         <source>There are links to other data sources in this workbook.
@@ -235,143 +271,152 @@ To open the second document with the same name, you can close the document that 
 •If you don&apos;t update the links, Kingsoft Spreadsheets will use the previous data.
 
 Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
-        <translation type="unfinished"></translation>
+        <translation>В этой книге есть ссылки на другие источники данных.
+
+• При обновлении ссылок Kingsoft Spreadsheets будет пытаться получить самые последние данные.
+• Если вы не обновите ссылки, то Kingsoft Spreadsheets будет использовать имеющиеся данные.
+
+Обратите внимание, что ссылки на данные могут быть использованы для доступа и обмена конфиденциальной информацией без вашего разрешения и, возможно, выполнять другие вредоносные действия. Если вы не доверяете источнику данной книги, то не обновляйте ссылки.</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка печати, убедитесь, что принтер был правильно установлен.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets finds nothing to print.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найдены данные для печати.</translation>
     </message>
     <message>
         <source>Subtotal failed. Cannot insert information due to an array.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка вычисления промежуточных итогов. Не удается вставить информацию из-за массива.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть массива не может быть изменена.</translation>
     </message>
     <message>
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введено неверное имя. При переименовании листа попробуйте одно из следующих действий:</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>• Убедитесь, что введенное имя не превышает 31 символ.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the name does not contain any of the following characters: : / ?\ * [ ]
 • The first or last character cannot be single quotes.</source>
-        <translation type="unfinished"></translation>
+        <translation>• Убедитесь, что имя не содержит любой из следующих символов: : / ?\ * [ ]
+• Первый или последний символ не может быть одинарными кавычками.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the worksheet name is not blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>• Убедитесь, что имя листа не пустое.</translation>
     </message>
     <message>
         <source>The name you specified cannot be the same with that of  another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя присвоить листу имя, совпадающее с именем другого листа, библиотеки объектов или книги, на которую ссылается Visual Basic.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>• Убедитесь, что введенное имя не превышает 218 символов.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
-        <translation type="unfinished"></translation>
+        <translation>• Убедитесь, что имя не содержит любой из следующих символов: \ * / : ? &quot;&lt; &gt; |.</translation>
     </message>
     <message utf8="true">
         <source>• Make sure the workbook name is not blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>• Убедитесь, что имя книги не пустое.</translation>
     </message>
     <message>
         <source>Reference is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверная ссылка.</translation>
     </message>
     <message>
         <source>Cannot open the specified file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удаётся открыть указанный файл.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets cannot finish this operation due to insufficient memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточно памяти для завершения данной операции Kingsoft Spreadsheet.</translation>
     </message>
     <message>
         <source>Parts of formats are lost due to insufficient resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть форматирования утеряна из-за недостатка ресурсов.</translation>
     </message>
     <message>
         <source>The merged cells cannot be sorted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Объединённые ячейки не могут быть отсортированы.</translation>
     </message>
     <message>
         <source>Part of merged cell cannot be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть объединённой ячейки не может быть изменена.</translation>
     </message>
     <message>
         <source>Array formulas in merged cells are not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимы формулы с массивами в объединенных ячейках.</translation>
     </message>
     <message>
         <source>This command cannot be used on overlapping selections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта команда не может быть использована на перекрывающихся выделенных фрагментах.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта команда не может быть использована на нескольких выделенных фрагментах.</translation>
     </message>
     <message>
         <source>Source reference area overlaps with target area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Область источника по ссылке перекрывается с областью назначения.</translation>
     </message>
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box is not the same and not blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимая ссылка для сортировки. Убедитесь, что она указывает на данные, которые требуется отсортировать, и что в первом поле &apos;&apos;Сортировать по&apos;&apos; указано допустимое значение.</translation>
     </message>
     <message>
         <source>General errors occur during formula compiling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошли общие ошибки во время компиляции формулы.</translation>
     </message>
     <message>
         <source>Bracket doesn&apos;t match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скобки не совпадают.</translation>
     </message>
     <message>
         <source>Operand needs to be followed by a right bracket.</source>
-        <translation type="unfinished"></translation>
+        <translation>После операнда должна следовать правая скобка.</translation>
     </message>
     <message>
         <source>Function parameter error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка параметра функции.</translation>
     </message>
     <message>
         <source>Constant array error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка постоянного массива.</translation>
     </message>
     <message>
         <source>Invalid row/column information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверные данные строки/столбца.</translation>
     </message>
     <message>
         <source>Formula is too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Слишком длинная формула.</translation>
     </message>
     <message>
         <source>Content in cell is too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Слишком длинное содержимое ячейки.</translation>
     </message>
     <message>
         <source>No source references specified for consolidation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсутствует источник ссылок, указанных для консолидации.</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
 
 •Click a single cell, and then paste.
 •Select a rectangle area with the same size and shape, and then paste.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно вставить данные, так как размер и форма области вставки отличаются от области копирования. Для продолжения, попробуйте одно из следующих действий: 
+
+• щёлкните одну ячейку,и затем вставьте данные;
+• выделите прямоугольную область того же размера и формы, и затем вставьте данные.</translation>
     </message>
     <message utf8="true">
         <source>The selection is invalid.
@@ -380,265 +425,277 @@ There are several possible reasons:
 •Copy and paste areas cannot be overlapping unless they have the same size and shape.
 •If you select Name on the Insert menu and then click the Create command, the rows or columns containing the names will not be included in the named range.
 •If the specified names is in a row or column, you must select more than one rows or columns.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка выделения.
+Возможные причины:
+
+• области копирования и вставки могут перекрываться только при одинаковых размере и форме;
+• при выборе &quot;Имя&quot; в меню &quot;Вставка&quot;,и затем команды &quot;Создать&quot;, строки или столбцы, содержащие имена не будут включены в обозначенном диапазоне;
+• если указанные имена находятся в строке или столбце, необходимо выбрать несколько строк или столбцов.</translation>
     </message>
     <message>
         <source>The selections must be on the active sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделение должно производится на текущем листе.</translation>
     </message>
     <message>
         <source>Cannot use this command while the selections contain entire rows or columns, and also other cells. Try selecting only entire rows, entire columns, or just groups of cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно выполнение данной команды при выделениии целой строки или столбца и других ячеек. Попробуйте выбрать только целые строки или столбцы или только группы ячеек.</translation>
     </message>
     <message>
         <source>The selection is invalid. You must select one more row or column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка выделения. Необходимо выделить ещё одну строку или столбец.</translation>
     </message>
     <message>
         <source>Cannot create a name according to selected regions and specified conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно создать имя согласно выделенным диапазонам и указанным условиям.</translation>
     </message>
     <message>
         <source>Do you want to replace the existing definition of &quot;%s&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Хотите заменить существующее определение для&quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Print titles must be contiguous regions and entire rows or columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовки для печати должны быть в непрерывном диапазоне и занимать целиком строки или столбцы.</translation>
     </message>
     <message>
         <source>The text you entered is an invalid reference or defined name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введённый текст имеет неверную ссылку или определённое имя.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта команда не может быть выполнена на защищенном листе.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта команда не может быть выполнена на защищенной книге.</translation>
     </message>
     <message>
         <source>Formula or value in conditional formatting is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверная формула или значение в условном форматировании.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections. 
 Select a single region and then perform this command again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта команда не может быть выполнена на нескольких выделениях.
+Выделите одну область,и выполните команду ещё раз.</translation>
     </message>
     <message>
         <source>Average=</source>
-        <translation type="unfinished"></translation>
+        <translation>Среднее=</translation>
     </message>
     <message>
         <source>Count=</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество=</translation>
     </message>
     <message>
         <source>Count Nums=</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество чисел=</translation>
     </message>
     <message>
         <source>Max=</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимум=</translation>
     </message>
     <message>
         <source>Min=</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимум=</translation>
     </message>
     <message>
         <source>Sum=</source>
-        <translation type="unfinished"></translation>
+        <translation>Сумма=</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество чисел</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимум</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимум</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"></translation>
+        <translation>Произведение</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished"></translation>
+        <translation>Смещенное отклонение</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished"></translation>
+        <translation>Несмещенное отклонение</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished"></translation>
+        <translation>Смещенная дисперсия</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished"></translation>
+        <translation>Несмещенная дисперсия</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Итого</translation>
     </message>
     <message>
         <source>Grand Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Общий итог</translation>
     </message>
     <message>
         <source>Total </source>
-        <translation type="unfinished"></translation>
+        <translation>Итого</translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
  If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; не найден. Проверьте написание имени файла, и убедитесь, что файл существует.
+  Если вы хотите открыть файл из списка последних использованных файлов в меню &quot;Файл&quot;, убедитесь, что файл не был переименован, перемещён или удалён.</translation>
     </message>
     <message>
         <source>Some formulas or names of this file contain the built-in functions which Kingsoft Spreadsheets does not support, and recalculation of these formulas or names may cause incorrect results.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые формулы или имена в файле содержат встроенные функции, которые не поддерживаются в Kingsoft Spreadsheets, и пересчёт данных формул или имён может привести к неверным результатам.</translation>
     </message>
     <message>
         <source>Some formulas or names of this file contain the user-defined functions which Kingsoft Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые формулы или имена в файле содержат пользовательские функции, которые не поддерживаются в Kingsoft Spreadsheets, и пересчёт данных формул или имён может привести к неверным результатам.</translation>
     </message>
     <message utf8="true">
         <source>• Function(s) %s is/are used in %s 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>• Функция(и) %s используется(ются) в %s</translation>
     </message>
     <message>
         <source>Some worksheets&apos; names in this book contain invalid characters, and they have been replaced with &apos;_&apos; automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые имена листов в этой книге содержат недопустимые символы и были автоматически заменены на &apos;_&apos;.</translation>
     </message>
     <message>
         <source>Due to the following reasons, macros codes in this file will be lost. Do you still want to save it?
 
 1.Changes you made to this file cause the macros to be re-organized.
 2.You didn&apos;t  install the necessary environment to run macros.</source>
-        <translation type="unfinished"></translation>
+        <translation>Коды макросов в файле будут потеряны по нижеследующим причинам. Продолжить сохранение файла?
+
+1. изменения в файле привели к изменению макросов;
+2. не установлена программная среда необходимая для запуска макросов.</translation>
     </message>
     <message>
         <source>DefaultChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Диаграмма по умолчанию</translation>
     </message>
     <message>
         <source>DefaultChartStandard</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандарт диаграммы по умолчанию</translation>
     </message>
     <message>
         <source>DefaultChartCustom</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки диаграммы по умолчанию</translation>
     </message>
     <message>
         <source>CustomList</source>
-        <translation type="unfinished"></translation>
+        <translation>Настраиваемый список</translation>
     </message>
     <message>
         <source>ListCount</source>
-        <translation type="unfinished"></translation>
+        <translation>Число списков</translation>
     </message>
     <message>
         <source>ItemCount</source>
-        <translation type="unfinished"></translation>
+        <translation>Число элементов</translation>
     </message>
     <message>
         <source>Cannot complete this operation. The workbook referenced by the chart is not open yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось завершить данную операцию. Не открыта книга, на которую ссылается диаграмма.</translation>
     </message>
     <message>
         <source>Cannot delete the last legend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка удаления последних условных обозначений.</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Kingsoft Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие файлы (*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|ФайлыKingsoft Spreadsheets (*.et)|*.et|Файлы Microsoft Excel (*.xls)|*.xls|Файлы Microsoft Excel 2007/2010 (*.xlsx)|*.xlsx|Все файлы (*.*)|*.*||</translation>
     </message>
     <message>
         <source>Cannot find workbooks &quot;%s&quot; that referenced by formulas.
 Please specify the right files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найдена книга &quot;%s&quot;, на которую ссылается формула.
+Пожалуйста, укажите необходимые файлы.</translation>
     </message>
     <message>
         <source>8.1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>[%s]%s:
  You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%s]%s:
+Нельзя использовать данную команду на защищенном листе. Чтобы использовать данную команду, необходимо сначала снять защиту листа (меню &quot;Сервис&quot;-&gt;&quot;Защита листа&quot;-&gt;&quot;Снять защиту листа&quot;). Возможно, потребуется ввести пароль.</translation>
     </message>
     <message>
         <source>Worksheet &quot;%s&quot; is protected. Please remove protection before using this command.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лист &quot;%s&quot; защищён. Пожалуйста, снимите защиту перед выполнением данной команды.</translation>
     </message>
     <message>
         <source>References to other worksheets or workbooks cannot be used for Conditional Format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылки на другие листы или книги не могут быть использованы при условном форматировании.</translation>
     </message>
     <message>
         <source>Array constants cannot be used under conditional formatting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Постоянные значения массива не могут быть использованы при условном форматировании.</translation>
     </message>
     <message>
         <source>%s of %d records found</source>
-        <translation type="unfinished"></translation>
+        <translation>Найдено %s of %d записей.</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный формат изображения.</translation>
     </message>
     <message>
         <source>Chart in %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Диаграмма в %s</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Диаграмма</translation>
     </message>
     <message>
         <source>Workbook in %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Книга в %s</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Книга</translation>
     </message>
     <message>
         <source>The destination cells may contain some data values will be lost when continue, do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ячейки для записи могут содержать данные, которые будут потеряны. Хотите продолжить?</translation>
     </message>
     <message>
         <source>The data out of worksheet will be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные листа будут потеряны.</translation>
     </message>
     <message>
         <source>The destination region is invalid for reference.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Область назначения недопустима для ссылки.</translation>
     </message>
     <message>
         <source>Part of a merged cell cannot be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть объединённой ячейки не может быть изменена.</translation>
     </message>
     <message>
         <source>? (Press F8 to confirm.)</source>
-        <translation type="unfinished"></translation>
+        <translation>? (Нажмите F8 для подтверждения.)</translation>
     </message>
     <message utf8="true">
         <source>This file may contain these special features below, and they may be lost if you save it as other formats.
@@ -646,115 +703,123 @@ Please specify the right files.</source>
 • Extended formatting rule and style.
 • Extended number format.
 • Extended nested level of formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл может содержать особенности, приведенные ниже, которые могут быть потеряны, если вы сохраните его в другом формате.
+
+• расширенное правило и стиль форматирования;
+• расширенный формат числа;
+• расширенный вложенный уровень формулы.</translation>
     </message>
     <message utf8="true">
         <source>There is a large amount of information in the Clipboard. Do you want to keep the information so as to paste it to other applications later?
 ·Press Yes to keep the information.
 ·Press No to delete the information so as to set free space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Большой объем данных в буфер обмена. Хотите сохранить данные, чтобы затем вставить их в другие приложения? -
+·нажмите &quot;Да&quot; для сохранения данных;
+·нажмите &quot;Нет&quot; для удаления с освобождением памяти.</translation>
     </message>
     <message>
         <source>Subtotal Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат промежуточных итогов</translation>
     </message>
     <message>
         <source>There are too many blank cells in Kingsoft Spreadsheets and part of them have been deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Была удалена часть из слишком большого числа пустых ячеек в Kingsoft Spreadsheets.</translation>
     </message>
     <message>
         <source>Command not available: The workbook has started revision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно выполнение команды: началась проверка содержимого книги.</translation>
     </message>
     <message>
         <source>The formula is too long to finish all the replacements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Формула слишком длинна для завершения всех замен.</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <source>Group Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле группы</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка</translation>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Флажок</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключатель</translation>
     </message>
     <message>
         <source>Tahoma</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Some text formats in the file may be modified, because it exceeds the number of utmost permitted formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые текстовые форматы в файле возможно изменены, так как превышено количество допустимых форматов.</translation>
     </message>
     <message>
         <source>This workbook cannot use any other format of cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>В данной книге недопустим другой формат ячеек.</translation>
     </message>
     <message>
         <source>Some text formats in the file may be modified, because it exceeds the number of utmost permitted fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые текстовые форматы в файле возможно изменены, так как превышено количество допустимых шрифтов.</translation>
     </message>
     <message>
         <source>This workboot cannot use any other fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>В данной книге недопустим другой шрифт.</translation>
     </message>
     <message>
         <source>Invalid data value . Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверное значение. Пожалуйста, попробуйте повторно.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введенный текст содержит недопустимую ссылку или определённое имя.</translation>
     </message>
     <message>
         <source>This command is not available in a shared workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта команда не может быть выполнена на общей книге.</translation>
     </message>
     <message>
         <source>Cannot modify or delete array formulas in shared workbooks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно изменение или удаление формул с массивами в общих книгах.</translation>
     </message>
     <message>
         <source>Cannot copy or move array formulas in a shared workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно копирование или перемещение формул с массивами в общей книге.</translation>
     </message>
     <message>
         <source>This operation will results in the document saving. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Данное действие приведёт к сохранению документа. Хотите продолжить?</translation>
     </message>
     <message>
         <source>Document is not saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ не сохранён.</translation>
     </message>
     <message>
         <source>This file is no longer shared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный файл больше не является общим.</translation>
     </message>
     <message>
         <source>The workbook has been updated with changes saved by other users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Книга обновлена с изменениями, внесёнными другими пользователями.</translation>
     </message>
     <message>
         <source>You are no longer connected to this file. Another user may have removed you from the user list, or replaced it.
 
 To preserve the unsaved work, click OK, and save the shared workbook with a different name. Then you can reopen the original shared workbook, and merge in you changes from the copy of the workbook that you saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Потеряна связь с файлом. Возможно, другой пользователь удалил вас из списка пользователей или перезаписал файл.
+
+Чтобы сохранить изменения, нажмите кнопку &apos;&apos;ОК&apos;&apos;, и сохраните общую книгу с другим именем. Вы затем можете повторно открыть общую книгу и добавить изменения из копии книги, которую вы сохранили.</translation>
     </message>
     <message utf8="true">
         <source>This operation will remove the workbook from shared use. The revision record will be deleted, and other users who are editing this workbook will not be able to save their changes, even if you share this workbook again.
@@ -763,126 +828,133 @@ Remove the workbook from shared use?
 
 ·  To make the workbook exclusive, click Yes.
 ·  To cancel and return to shared mode, click No.</source>
-        <translation type="unfinished"></translation>
+        <translation>При выполнении этой операции будет отменено общее использование книги. Будут удалены записи исправлений, и другие пользователи, участвующие в исправлениях этой книги, не смогут сохранить свои изменения, даже если вы снова сделаете эту книгу общей.
+
+Удалить книгу из общего использования?
+
+·для удаления книги из общего использования, нажмите кнопку &quot;Да&quot;;
+·для отмены и возвращения общего использования для книги, нажмите &quot;Нет&quot;.</translation>
     </message>
     <message>
         <source>The file %s cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл %s не найден.</translation>
     </message>
     <message>
         <source>This file is locked. Try it again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл заблокирован. Попробуйте повторить позже.</translation>
     </message>
     <message>
         <source>(Exclusive)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Исключительный)</translation>
     </message>
     <message>
         <source>Your changes on sheet &apos;%s&apos;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваши изменения на листе &apos;%s&apos;:</translation>
     </message>
     <message>
         <source>The changes to %s - %s encounter conflicts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфликты изменений %s - %s:</translation>
     </message>
     <message>
         <source>New styles cannot be added in shared workbooks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Новые стили не могут быть добавлены в общие книги.</translation>
     </message>
     <message>
         <source>(Shared)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Общий)</translation>
     </message>
     <message>
         <source>The workbook is created by %s in exclusive mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Книга создана %s в исключительном доступе.</translation>
     </message>
     <message>
         <source>No track changes were found with the specified properties.
 
 To highlight all track changes, uncheck the When, Who, and Where options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не было найдено никаких исправлений с указанными свойствами.
+
+Для выделения всех исправлений, снимите флажок параметров &quot;когда&quot;, &quot;кто&quot; и &quot;где&quot;.</translation>
     </message>
     <message>
         <source>Caution: You are attempting to save a shared workbook that is also protected with a password. Portions of the file that include the revision record will be encrypted. To ensure the security of the file, unshare the workbook or delete the revision record from the document. Do you want to save the file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Внимание: вы пытаетесь сохранить общую книгу, защищённую паролем. Части файла, включающие запись исправлений, будут зашифрованы. Для обеспечения безопасности файла отмените общий доступ к книге или удалите запись исправлений из документа. Хотите сохранить файл?</translation>
     </message>
     <message utf8="true">
         <source>Your modifications cannot be saved to “%s” owing to the share conflict. Please try to save it as another file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваши изменения не могут быть сохранены в &quot;%s&quot; из-за противоречий общего доступа. Попробуйте сохранить файл с другим именем.</translation>
     </message>
     <message>
         <source>You are opening a shared Excel workbook that updates at intervals. Kingsoft Spreadsheets does not support this format.
 Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with Kingsoft Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы пытаетесь открыть общую книгу Excel, которая периодически обновляется. Kingsoft Spreadsheets не поддерживает этот формат. Пожалуйста, откройте файл в Microsoft Excel, выполните &quot;Сохранить&quot;, и попробуйте снова открыть его в Kingsoft Spreadsheets.</translation>
     </message>
     <message utf8="true">
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось преобразовать &quot;%s&quot;, файл доступен только для чтения.</translation>
     </message>
     <message>
         <source>BAK_</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The file is locked by %s. You can change the file lock, or continue with ignoring it. If you continue without changing the file lock, you cannot save this file, but you can use Save As to save to a different file. Do you want to change the file lock?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл заблокирован %s. Можно изменить блокировку файла, или продолжить несмотря на блокировку. Без отмены блокировки, вы не сможете сохранить текущий файл, но можно сохранить его с другим именем с помощью &quot;Сохранить как&quot;. Изменить блокировку файла?</translation>
     </message>
     <message>
         <source>This file has been locked by %s. Try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл заблокирован %s. Попробуйте повторить позже.</translation>
     </message>
     <message>
         <source>hundred millions</source>
-        <translation type="unfinished"></translation>
+        <translation>сотни миллионов</translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>ten thousand</source>
-        <translation type="unfinished"></translation>
+        <translation>десятки тысяч</translation>
     </message>
     <message>
         <source>The function you are using is invalid in Kingsoft Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Используемая функция недействительна в Kingsoft Spreadsheets.</translation>
     </message>
     <message>
         <source>You cannot open the shared workbook with Kingsoft Spreadsheets and you can only open it with Read-only mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно открыть общую книгу в Kingsoft Spreadsheets, будет открыта в режиме только для чтения.</translation>
     </message>
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда не может быть завершена с указанным диапазоном. Выберите одну ячейку в диапазоне, и повторите команду.</translation>
     </message>
     <message>
         <source>You cannot use this command on a list or range that contains merged cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя выполнить эту команду для списка или диапазона, содержащего объединенные ячейки.</translation>
     </message>
     <message>
         <source>The command you choose cannot be performed with multiple selections. Select a single range and click the command again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранная команда не может быть выполнена с несколькими выделениями. Выделите один диапазон, и выполните команду повторно.</translation>
     </message>
     <message>
         <source>Can not create data form for a database in which all columns are hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя создать форму данных для базы данных, в которой все столбцы скрыты.</translation>
     </message>
     <message>
         <source>Too many fields in the data form.</source>
-        <translation type="unfinished"></translation>
+        <translation>Слишком много полей в форме данных.</translation>
     </message>
     <message>
         <source>Cannot extend list or database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно расширить список или базу данных.</translation>
     </message>
     <message>
         <source>Cannot enter a formula in a data form.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно ввести формулу в форму данных.</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно изменение части массива.</translation>
     </message>
     <message utf8="true">
         <source>Kingsoft Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
@@ -890,33 +962,39 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
 ·If you want the first row of the selection or list used as labels and not as data, click OK.
 ·If you selected a subset of cells in error, select a single cell, and try the command again.
 ·To create column labels, click Cancel, and enter a text label at the top of each column of data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets не может определить, какая строка в списке или выделении содержит заголовки столбцов, которые необходимы для этой команды. 
+
+·если вы хотите использовать первый ряд выделения или списка, как метки, а не данные, нажмите кнопку &quot;ОК&quot;;
+·если вы выделили несколько ячеек по ошибке, то выделите одну ячейку и повторите команду;
+·для создания заголовков столбцов, нажмите кнопку &quot;Отмена&quot; и введите текстовую метку в верхней части каждого столбца данных.</translation>
     </message>
     <message>
         <source>The displayed records will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображаемые записи будут удалены.</translation>
     </message>
     <message>
         <source>Calculating</source>
-        <translation type="unfinished"></translation>
+        <translation>Вычисление</translation>
     </message>
     <message>
         <source>Processor(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Процессор(ы)</translation>
     </message>
     <message>
         <source>The calculation is not complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Вычисление не завершено</translation>
     </message>
     <message>
         <source>&quot;Filter&quot;Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим &quot;фильтрования&quot;</translation>
     </message>
     <message>
         <source>This workbook contains one or more links that cannot be updated.
 This workbook was also last saved with multiple sheets selected, and links cannot be fixed in this state.
 To fix the links, select a single sheet and click Edit Links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Книга содержит одну или несколько ссылок, которые не могут быть обновлены.
+Кроме того, книга была в последний раз сохранена с выделением нескольких листов, и ссылки не могут быть исправлены в этом состоянии.
+Для исправления ссылок выберите один лист и щёлкните &quot;Изменить связи&quot;.</translation>
     </message>
     <message>
         <source>A file named &apos;%s&apos; already exists in this location. Do you want to replace it?</source>
@@ -8147,18 +8225,6 @@ Continue ?</source>
     </message>
     <message>
         <source>Edit range without a password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The entered value is invalid.
-
-The values which can be typed here is restricted by other users.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

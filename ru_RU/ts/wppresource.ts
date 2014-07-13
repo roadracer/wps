@@ -595,7 +595,7 @@
     </message>
     <message>
         <source>Order</source>
-        <translation>Порядок</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>Oval</source>
@@ -627,7 +627,7 @@
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -747,7 +747,7 @@
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -2390,7 +2390,7 @@ On</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2426,7 +2426,7 @@ On</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -2519,7 +2519,7 @@ On</source>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Управление резервным копированием</translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -3242,7 +3242,7 @@ Slide</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Select</source>
@@ -3290,7 +3290,7 @@ Slide</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -3722,7 +3722,7 @@ Slide</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -3742,7 +3742,7 @@ Slide</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Text Font Color</source>
@@ -3927,7 +3927,7 @@ Slide</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Black and White</source>
@@ -4143,7 +4143,7 @@ Slide</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -4204,7 +4204,7 @@ On/Off</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -4355,7 +4355,7 @@ On/Off</source>
     <name>ongmani.ct_review</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -4411,11 +4411,11 @@ On/Off</source>
     </message>
     <message>
         <source>Proofing</source>
-        <translation>Правописание</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Установить язык проверки орфографии</translation>
+        <translation>Установить язык проверки правописания</translation>
     </message>
     <message>
         <source>Show/Hide Mark</source>
@@ -5746,7 +5746,7 @@ On</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5766,7 +5766,7 @@ On</source>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation></translation>
+        <translation>Наклон вверх</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5774,7 +5774,7 @@ On</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -5990,8 +5990,8 @@ On</source>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0 More Histories</source>
-        <translatorcomment>What is 0 for?</translatorcomment>
+        <source>More Histories</source>
+        <translatorcomment></translatorcomment>
         <translation>Другие архивы</translation>
     </message>
     <message>
@@ -6056,7 +6056,7 @@ On</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Background</source>
@@ -6068,7 +6068,7 @@ On</source>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Управление резервным копированием</translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Ballpoint Pen</source>
@@ -6508,7 +6508,7 @@ On</source>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation>Выход из KOS</translation>
+        <translation>Выйти из KOS</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -6662,7 +6662,7 @@ Master</source>
     </message>
     <message>
         <source>Order</source>
-        <translation>Порядок</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <source>OrgChart</source>
@@ -7647,7 +7647,7 @@ AddIns</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -7683,7 +7683,7 @@ AddIns</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -7725,7 +7725,7 @@ AddIns</source>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Управление резервным копированием</translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -8468,7 +8468,7 @@ Slide</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Select</source>
@@ -8528,7 +8528,7 @@ Slide</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -8956,7 +8956,7 @@ Slide</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -8976,7 +8976,7 @@ Slide</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Text</source>
@@ -9155,7 +9155,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Black and White</source>
@@ -9375,7 +9375,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -9435,7 +9435,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -9589,7 +9589,7 @@ Subordinate</source>
     <name>rainbow.ct_review</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -9649,11 +9649,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Proofing</source>
-        <translation>Правописание</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Установить язык проверки орфографии</translation>
+        <translation>Установить язык проверки правописания</translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
@@ -10725,7 +10725,7 @@ Other Window</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -10745,7 +10745,7 @@ Other Window</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -11353,7 +11353,7 @@ Click the arrow to choose different bullet styles.</source>
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
@@ -12125,9 +12125,9 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
         <source>Insert a chart to illustrate and compare data.
 
 Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation>Вставьте диаграмму для отображения и сравнения данных. 
+        <translation>Добавление диаграммы для отображения и сравнения данных.
 
-Выберите из типов диаграмм, например, гистограммы, круговой диаграммы, графика, лепестковой диаграммы.</translation>
+Выберите из предлагаемых типов диаграмм, например, гистограмму, круговую диаграмму, график, лепестковую диаграмму.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -13525,7 +13525,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Switch the slide orientation between portrait and landscape.</source>
-        <translation>Переключение-ориентации слайда между книжной и альбомной.</translation>
+        <translation>Переключение ориентации слайда между книжной и альбомной.</translation>
     </message>
 </context>
 <context>
@@ -14222,7 +14222,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation>Выход из KOS</translation>
+        <translation>Выйти из KOS</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -14354,7 +14354,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Управление резервным копированием</translation>
+        <translation>Резервное копирование</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -14374,7 +14374,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -14458,7 +14458,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Изменить</translation>
+        <translation>Правка</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -14581,7 +14581,7 @@ Slide</source>
     </message>
     <message>
         <source>New</source>
-        <translation>Новый</translation>
+        <translation>Новая презентация</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -14701,7 +14701,7 @@ Slide</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Установить язык проверки орфографии</translation>
+        <translation>Установить язык проверки правописания</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -14745,7 +14745,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation>Показ слайдов</translation>
+        <translation>Показ</translation>
     </message>
     <message>
         <source>Slide Show Popup Menu</source>
@@ -14769,7 +14769,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch</source>
-        <translation>Переключение</translation>
+        <translation>Смена слайдов</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -14813,7 +14813,7 @@ Slide</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Инструменты</translation>
+        <translation>Сервис</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -14888,7 +14888,7 @@ Slide</source>
     <name>wppongmani.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation>Презентация</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -14971,7 +14971,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation>Выход из KOS</translation>
+        <translation>Выйти из KOS</translation>
     </message>
     <message>
         <source>Login</source>
@@ -14999,7 +14999,7 @@ Slide</source>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>Быстрое меню</translation>
+        <translation>Меню быстрого доступа</translation>
     </message>
     <message>
         <source>Recent</source>
@@ -15174,7 +15174,7 @@ Slide</source>
     </message>
     <message>
         <source>KOS Logout</source>
-        <translation>Выход из KOS</translation>
+        <translation>Выйти из KOS</translation>
     </message>
     <message>
         <source>KOS Recharge</source>
@@ -15226,7 +15226,7 @@ Slide</source>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>Быстрое меню</translation>
+        <translation>Меню быстрого доступа</translation>
     </message>
     <message>
         <source>Recent</source>

@@ -772,7 +772,7 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
@@ -1793,7 +1793,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
-        <translation>&amp;Установить язык проверки орфографии</translation>
+        <translation>&amp;Установить язык проверки правописания</translation>
     </message>
 </context>
 <context>
@@ -3169,7 +3169,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation>&amp;Зачёркнутый</translation>
+        <translation>&amp;Зачёркивание</translation>
     </message>
     <message>
         <source>Shado&amp;w</source>
@@ -4418,7 +4418,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Невидимый</translation>
+        <translation>Не показывать</translation>
     </message>
     <message>
         <source>Formatting marks</source>
@@ -4922,7 +4922,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Preserve</source>
@@ -6063,7 +6063,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
@@ -6082,11 +6082,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Base text:  </source>
-        <translation>&amp;Базовый текст:  </translation>
+        <translation>&amp;Основной текст:  </translation>
     </message>
     <message>
         <source>&amp;Ruby text:   </source>
-        <translation>&amp;Текст Ruby:  </translation>
+        <translation>&amp;Транскрипция:  </translation>
     </message>
     <message>
         <source>A&amp;lignment:</source>
@@ -6126,11 +6126,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>&amp;Группировать</translation>
+        <translation>&amp;Вместе</translation>
     </message>
     <message>
         <source>&amp;Mono</source>
-        <translation>&amp;Моно</translation>
+        <translation>&amp;По отдельности</translation>
     </message>
     <message>
         <source>Remo&amp;ve All </source>
@@ -6138,7 +6138,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Default Readings</source>
-        <translation>Чтение по &amp;умолчанию</translation>
+        <translation>Про&amp;чтение по умолчанию</translation>
     </message>
     <message>
         <source>&amp;Tone</source>
@@ -8310,9 +8310,9 @@ Cancel:	Return to the dialog.</source>
         <translation>Хотите изменить настройки по умолчанию для стиля? 
 Это изменение затронет все новые документы на основе шаблона %1. 
 
-Да: Сохранить в шаблоне; 
-Нет: Не сохранять в шаблоне; 
-Отменить: Вернуться в диалоговое окно.</translation>
+Да: сохранить в шаблоне; 
+Нет: не сохранять в шаблоне; 
+Отменить: вернуться в диалоговое окно.</translation>
     </message>
     <message>
         <source>Save Failed, Normal Template is occupied.</source>
@@ -8614,9 +8614,9 @@ Cancel:	Return to the dialog.</source>
         <translation>Хотите изменить настройки по умолчанию для стиля? 
 Это изменение затронет все новые документы на основе шаблона %1. 
 
-Да: Сохранить в шаблоне; 
-Нет: Не сохранять в шаблоне; 
-Отменить: Вернуться в диалоговое окно.</translation>
+Да: сохранить в шаблоне; 
+Нет: не сохранять в шаблоне; 
+Отменить: вернуться в диалоговое окно.</translation>
     </message>
     <message>
         <source>This style name already exists or is reserved for a built-in style.</source>
@@ -8635,7 +8635,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -8885,7 +8885,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxPhoneticGuideDlg</name>
     <message>
         <source>Please choose the base text for the Phonetic Guide.</source>
-        <translation>Выберите базовый текст для Фонетического руководства.</translation>
+        <translation>Выберите основной текст для фонетического руководства.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -9444,7 +9444,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWordCountDlgClass</name>
     <message>
         <source>Word Count</source>
-        <translation>Статистика файла</translation>
+        <translation>Статистика документа</translation>
     </message>
     <message>
         <source>Statistics:</source>
@@ -9495,7 +9495,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
@@ -10190,7 +10190,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
@@ -10643,7 +10643,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
@@ -10691,7 +10691,7 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
@@ -10762,7 +10762,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Track</source>

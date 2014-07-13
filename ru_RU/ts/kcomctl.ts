@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Aqua</source>
-        <translation>Цвет воды</translation>
+        <translation>Аква</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Rose</source>
-        <translation>Цвет розы</translation>
+        <translation>Роза</translation>
     </message>
     <message>
         <source>Tan</source>

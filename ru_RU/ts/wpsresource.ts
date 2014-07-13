@@ -690,11 +690,11 @@
     </message>
     <message>
         <source>Rotate/Flip</source>
-        <translation>Вращать/зеркально</translation>
+        <translation>Повернуть и зеркально отразить</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -819,7 +819,7 @@
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -1296,7 +1296,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -2398,12 +2398,12 @@ Merged Data</source>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
-вкл</translation>
+        <translation>Применить
+3-D</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3-D вкл</translation>
+        <translation>Применить 3-D</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -2755,7 +2755,7 @@ On</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -2807,7 +2807,7 @@ On</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Strikethought</source>
@@ -3548,7 +3548,7 @@ Painter</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Подчёркнутый</translation>
+        <translation>Подчёркивание</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -4526,7 +4526,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Подчёркнутый</translation>
+        <translation>Подчёркивание</translation>
     </message>
 </context>
 <context>
@@ -4612,7 +4612,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -4856,7 +4856,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -5004,7 +5004,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -5222,7 +5222,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5290,7 +5290,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Proofing</source>
-        <translation>Правописание</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Protect</source>
@@ -6186,7 +6186,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Невидимо</translation>
+        <translation>Не показывать</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -6254,7 +6254,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Show View Gridlines</source>
-        <translation>Показать линии сетки</translation>
+        <translation>Показать сетку таблицы</translation>
     </message>
     <message>
         <source>Switch Window</source>
@@ -7023,7 +7023,7 @@ On</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -7059,7 +7059,7 @@ On</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -7288,7 +7288,7 @@ On</source>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0 More Histories</source>
+        <source>More Histories</source>
         <translation type="unfinished">Другие архивы</translation>
     </message>
     <message>
@@ -7429,7 +7429,7 @@ On</source>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
-        <translation>Проверка орфографии при вводе</translation>
+        <translation>Проверка правописания при вводе</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -7899,7 +7899,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Невидимо</translation>
+        <translation>Не показывать</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -9051,7 +9051,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -9099,7 +9099,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -10799,7 +10799,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -11039,7 +11039,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -11187,7 +11187,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -11404,7 +11404,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -11480,7 +11480,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Proofing</source>
-        <translation>Правописание</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Protect</source>
@@ -12290,7 +12290,7 @@ Other Window</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Невидимо</translation>
+        <translation>Не показывать</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -13114,7 +13114,7 @@ Other Window</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>Растровая точка</translation>
+        <translation>Круглые точки</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -13150,7 +13150,7 @@ Other Window</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Квадратная растровая точка</translation>
+        <translation>Квадратные точки</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -13402,7 +13402,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.3DDepthMenu</name>
     <message>
         <source>Change the height of the selected 3-D shape.</source>
-        <translation>Измените высоту выбранной 3-D формы.</translation>
+        <translation>Изменение высоты выбранной 3-D формы.</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -13931,7 +13931,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
@@ -14557,7 +14557,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <name>tips.ExplorVersion</name>
     <message>
         <source>View Backup History</source>
-        <translation>Просмотр истории Резервного копирования</translation>
+        <translation>Просмотр журнала архивации</translation>
     </message>
     <message>
         <source>View the backup record history of the current document to open, delete or restore the files.</source>
@@ -14661,7 +14661,7 @@ Click the arrow to choose other options, such as Go To.</source>
 Click the arrow to choose a different text color.</source>
         <translation>Изменение цвета текста. 
 
-Используйте курсор для выбора цвета текста.</translation>
+Щёлкните стрелку для выбора цвета текста.</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
@@ -15000,7 +15000,7 @@ This only affects tables which extend beyond a single page.</source>
 Click the arrow to select a different highlight color.</source>
         <translation>Сделать текст похожим на выделенный цветным маркером. 
 
-Используйте курсор для выбора цвета выделенного текста.</translation>
+Щёлкните стрелку для выбора цвета выделенного текста.</translation>
     </message>
     <message>
         <source>Text Highlight Color</source>
@@ -15156,9 +15156,9 @@ This makes it easy to see what part of your form letter will be replaced by info
         <source>Insert a chart to illustrate and compare data.
 
 Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation>Вставьте диаграмму для отображения и сравнения данных. 
+        <translation>Добавление диаграммы для отображения и сравнения данных. 
 
-Выберите из типов диаграмм, например, гистограммы, круговой диаграммы, графика, лепестковой диаграммы.</translation>
+Выберите из предлагаемых типов диаграмм, например, гистограмму, круговую диаграмму, график, лепестковую диаграмму.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -16910,7 +16910,7 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.Shapes</name>
     <message>
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
-        <translation>Вставка готовых форм, например, линий, прямоугольников, символов блок-схем и выносок для иллюстраций.</translation>
+        <translation>Добавление готовых фигур, например, линий, прямоугольников, символов блок-схем и выносок для иллюстраций.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -17423,7 +17423,7 @@ Click the arrow to select different shading colors.</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Подчёркнутый</translation>
+        <translation>Подчёркивание</translation>
     </message>
     <message>
         <source>Underline the selected text.
@@ -17886,7 +17886,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Show the New Style dialog box, and create a new style in the Styles and Formatting task pane.</source>
-        <translation>Показать диалоговое окно Новый стиль, и создать новый стиль в панели Стили и форматирование.</translation>
+        <translation>Показать диалоговое окно Новый стиль, и создать новый стиль в панели "Стили и форматирование".</translation>
     </message>
 </context>
 <context>
@@ -18247,7 +18247,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
@@ -18259,7 +18259,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Click to turn on/off spelling check</source>
-        <translation>Щёлкните для разрешения или отмены проверки орфографии</translation>
+        <translation>Щёлкните для разрешения или отмены проверки правописания</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -18475,7 +18475,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New</source>
-        <translation>Создать</translation>
+        <translation>Новый документ</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -18487,7 +18487,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New Document</source>
-        <translation>Создать документ</translation>
+        <translation>Новый документ</translation>
     </message>
     <message>
         <source>New File</source>
@@ -18607,11 +18607,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Selection and Visibility</source>
-        <translation>Выделение и визуализация</translation>
+        <translation>Выделение и область видимости</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Установить язык проверки орфографии</translation>
+        <translation>Установить язык проверки правописания</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -18699,7 +18699,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Инструменты</translation>
+        <translation>Сервис</translation>
     </message>
     <message>
         <source>Track Changes</source>

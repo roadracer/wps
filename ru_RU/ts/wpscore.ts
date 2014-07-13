@@ -647,11 +647,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>SpellingCheck: On</source>
-        <translation>SpellingCheck: Вкл</translation>
+        <translation>Применить проверку орфографии</translation>
     </message>
     <message>
         <source>SpellingCheck: Off</source>
-        <translation>SpellingCheck: Выкл</translation>
+        <translation>Отменить проверку орфографии</translation>
     </message>
     <message utf8="true">
         <source>Some browsers may not be able to display single file Web pages where the path includes those characters &quot;!”, “#”, “%20”, “%23” or “%25”, etc.. Do you want to continue?</source>
@@ -1743,10 +1743,10 @@ Please try one of the following.
 
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest Kingsoft Writer format.</source>
-        <translation>%s может содержать некоторые функции не совместимые с форматом %s. Хотите сохранить документ в этом формате? 
+        <translation>%s может содержать форматирование не совместимое с форматом %s. Хотите сохранить документ в этом формате? 
 
-• Если вы хотите сохранить этот формат, щёлкните Да. 
-• Если вы хотите сохранить все функции, щёлкните Нет. Затем сохраните в последнем по времени формате Writer Kingsoft.</translation>
+• Чтобы сохранить в этом формате, нажмите кнопку "Да". 
+• Чтобы сохранить всё форматирование, нажмите кнопку "Нет". Затем сохраните копию в формате последней версии Writer Kingsoft.</translation>
     </message>
     <message utf8="true">
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X), Please contact the anti-virus software agent. 
@@ -1760,8 +1760,8 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation>Антивирусная программа сканирования обнаружила ошибки при сканировании файла (код ошибки: 0x% 08X). Свяжитесь со службой поддержки вашего антивирусного программного обеспечения. 
 По-прежнему хотите открыть этот файл? 
 
-• Щёлкните Да, Kingsoft Writer продолжит открытие файла. 
-• Щёлкните Нет, Kingsoft Writer прервёт открытие этого файла. 
+• Нажмите "Да", и Kingsoft Writer продолжит открытие файла. 
+• Нажмите "Нет", и Kingsoft Writer прервёт открытие этого файла. 
 
 Обратите внимание, что некоторые файлы могут содержать макровирусы и, возможно, выполнять другие вредоносные действия. Если вы не доверяете создателю этого файла, не открывайте его.
 (%s)</translation>
@@ -1876,8 +1876,8 @@ To save a file with these features, click No, and then choose a macro-enabled fi
 To continue saving as a macro-free workbook, click Yes.</source>
         <translation>Следующие функции не могут быть сохранены в книгах электронных таблиц без макросов: 
 ·проект Visual Basic
-Чтобы сохранить файл с этими функциями, щёлкните Нет, и выберите тип файла с поддержкой макросов в списке Тип файла. 
-Чтобы продолжить сохранение в формате книги электронных таблиц без макросов, щёлкните Да.</translation>
+Чтобы сохранить файл с этими функциями, щёлкните Нет, и выберите тип файла с поддержкой макросов в списке "Тип файла". 
+Чтобы продолжить сохранение в формате книги электронных таблиц без макросов, нажмите "Да".</translation>
     </message>
 </context>
 <context>
@@ -2736,7 +2736,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>The spelling check is complete.</source>
-        <translation>Проверка орфографии завершена.</translation>
+        <translation>Проверка правописания завершена.</translation>
     </message>
     <message>
         <source>S&amp;plit</source>
@@ -4207,7 +4207,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Close Compare Side by Side</source>
-        <translation>Закрыть Сравнить в одном ряду</translation>
+        <translation>Закрыть "Сравнить в одном ряду"</translation>
     </message>
     <message>
         <source>Compare with %s Side by Side</source>
@@ -4243,7 +4243,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Проверка орфографии</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Formatted</source>
