@@ -5,7 +5,7 @@
     <name>api_err</name>
     <message>
         <source>No Item In Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ítem en la colección</translation>
     </message>
     <message>
         <source>Object Deleted</source>
@@ -13,15 +13,15 @@
     </message>
     <message>
         <source>Value Out Of Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor fuera de rango</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro inválido</translation>
     </message>
     <message>
         <source>Command Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Comando fallido</translation>
     </message>
     <message>
         <source>Unknown Error</source>
@@ -29,11 +29,11 @@
     </message>
     <message>
         <source>Invalid Argument</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumento inválido</translation>
     </message>
     <message>
         <source>Item Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Ítem Existente</translation>
     </message>
     <message>
         <source>Temporary directory does not exist or failed to create temporary directory.
@@ -112,7 +112,7 @@ Por favor, compruebe la configuración de su sistema y asegúrese de que el dire
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen (Metaarchivo de Windows)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
